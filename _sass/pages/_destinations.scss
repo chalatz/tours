@@ -1,0 +1,34 @@
+.destinations {
+
+    background-color: $lightblue;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid $lightgray;
+
+    &__title {
+        font-size: 1.8rem;
+        text-align: center;
+        color: $darkerblue;
+    }
+
+    &__item.col {
+        text-align: center;
+        margin-bottom: 1.5rem;
+    }
+
+    &__link {
+        display: block;
+        text-align: center;
+        color: #000;
+        padding: .35rem 0;
+        display: inline-block;
+        &:hover {
+            color: $red;
+        }
+    }
+    
+    &__beaches {
+        margin-top: -1rem;
+    }
+
+}

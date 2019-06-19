@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<main class="photo-tour beach-site">
+
+    <header class="photo-tour_header section container">
+        {%- if page.main_id -%}
+            <a name="{{- page.main_id -}}">&nbsp;</a>
+        {%- endif -%}
+        <h1 class="photo-tour__title">
+            {{ page.title | upcase }}
+        </h1>
+        {%- if page.subtitle -%}
+            <h2 class="photo-tour__subtitle">
+                {{ page.subtitle | upcase }}
+            </h2>
+        {%- endif -%}
+    </header>
+
+    {%- assign info_size = page.info | size -%}
+    {%- if info_size > 0 -%}
+        <section class="section container beach-site__info-section">        
+            <ul class="beach-site__info-items">
+                {%- for info_item in page.info -%}
+                    <li class="beach-site__info-item">
+                        <strong>{{ info_item.label }}:</strong> {{ info_item.text }}
+                    </li>
+                {%- endfor -%}
+            </ul>
+        </section>
+    {%- endif -%}
+
+    {%- if page.content != '' -%}
+        <section class="section container beach-site__content">
+            {{ content }}
+        </section>
+    {%- endif -%}
+
+    {%- assign gallery_rows_size = page.gallery_rows | size -%}
+    {%- if gallery_rows_size > 0 -%}
+        <section class="section container">
+            <div class="photo-tour__gallery">
+                {%- for row in page.gallery_rows -%}
+                    <div class="photo-tour__gallery-row">                        
+                        {%- include partials/photo-tour-gallery.html gallery = row.figures -%}
+                    </div>
+                {%- endfor -%}
+            </div>
+        </section>
+    {%- endif -%}
+
+    <footer class="section tour__footer">
+        {% include partials/other-beaches.html %}
+    </footer>
+    
+</main>
+
+{%- assign related_size = page.related_tours | size -%}
+{%- if related_size > 0 -%}
+    {% include partials/related-tours.html modifier = 'beaches' %}
+{%- else -%}
+    {%- include helpers/check_empty_string.html the_string = page.no_related_tours_text -%}
+    {%- if string_not_empty -%}
+        <div class="photo-tour__no-related">
+            {{- page.no_related_tours_text | upcase -}}
+        </div>
+    {%- endif -%}
+{%- endif -%}
+
+<section class="destinations">
+    {%- include partials/destinations.html -%}
+</section>
+
+<div class="tours-page__banners tours-page__banners--tours-page" style="margin-top: .5rem">
+    {% include partials/tour-banners.html %}
+</div>
+
+{%- if gallery_rows_size > 0 -%}
+    {%- include partials/preload_beach_page.html -%}
+{%- endif -%}

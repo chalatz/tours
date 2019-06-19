@@ -1,0 +1,346 @@
+.home-section {
+
+    padding: 0 .5rem;
+    margin-bottom: 2rem;
+
+    &__title {
+        color: $darkgray;
+        text-shadow: 1px 1px 1px $lightgray;
+        font-size: 1.8rem;
+        text-align: center;
+    }
+
+    &__content {
+        line-height: 1.5;
+
+        &--tours {
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 1200px;
+            width: 100%;
+
+            @include breakpoint(medium) {
+                margin-left: auto;
+                margin-right: auto;
+                width: 95%;
+            }
+        }
+
+    }
+
+}
+
+.private-tours-suggestions {
+
+    // margin-top: 2.5rem;
+    border-bottom: 2px solid $lightgray;
+    padding: 1rem 0;
+    margin-bottom: 0;
+
+    &--home {
+        margin-top: 0;
+    }
+
+    &__title,
+    &__subtitle {
+        color: $darkerblue;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    &__subtitle {
+        font-size: 1.15rem;
+        color: #fff;
+        background-color: $darkerblue;
+        &--top {
+            background-color: $darkishblue;
+        }
+        &--tours-page {
+            text-align: left;
+            background-color: #fff;
+            color: $darkergray;
+            font-weight: normal;
+        }
+    }
+
+    @include breakpoint(larger) {
+        padding-bottom: 2rem;
+    }
+
+    &__items {
+        // margin: 3rem 0;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        @include clearfix;
+        display: block;
+        
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        &--tours-page {
+            margin-top: -1rem;
+            @include breakpoint(medium) {
+                justify-content: center;
+            }
+            // @include breakpoint(larger) {
+            //     justify-content: center;
+            // }
+        }
+    }
+
+    &__item {
+        margin-bottom: 1rem;
+        text-align: center;
+        float: left;
+        width: 100%;
+        position: relative;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        @include breakpoint(medium) {
+            width: 50%;
+            padding: .3rem;
+            padding-bottom: 0;
+            margin-bottom: 0.5rem;
+            &:nth-child(odd) {
+                clear: left;
+            }
+        }
+
+        @include breakpoint(larger) {
+            width: 33%;
+            padding: 1rem;
+            padding-bottom: 0; 
+            margin-bottom: .1rem;
+            &:nth-child(odd) {
+                clear: none;
+            }
+            &:nth-child(3n+1) {
+                clear: left;
+            }            
+        }        
+
+        p {
+            margin: .3rem 0;
+        }
+
+        .icon {
+            font-size: 1rem;
+            color: $darkblue;
+            margin-right: .3rem;
+        }
+    }
+
+    &__item-content {
+        flex-grow: 1;
+        font-size: 1.1rem;
+        width: 98%;
+        @include breakpoint(medium) {
+            width: 100%;
+        }
+    }
+
+    &__img-link {
+        // width: 300px;
+        // height: 300px;
+        // overflow: hidden;
+        display: block;
+        text-align: center;
+        margin: 0.7rem auto 0 auto;
+        width: 100%;
+        @include breakpoint(medium) {
+            width: auto;
+        }
+    }
+
+    &__img {
+        border-radius: 3px;
+        width: 100%;
+
+        &--driving {
+            border: 2px solid $driving;
+        }
+        &--guided {
+            border: 2px solid $guided;
+        }
+        &--walking {
+            border: 2px solid $walking;
+        }
+    }
+
+
+    &__link {
+        font-weight: bold;
+        color: $darkblue;
+        font-size: 1.47rem;
+        display: block;
+        text-decoration: none;
+        transition: color .2s ease-out;
+        &:hover {
+            color: $red;
+        }
+
+        &--driving {
+            display: inline-block;
+            color: $driving;
+        }
+        &--guided {
+            display: inline-block;
+            color: $guided;
+        }
+        &--walking {
+            display: inline-block;
+            color: $walking;
+            font-size: 1.42rem;
+        }
+
+        &--tours-page {
+            display: inline-block;
+        }
+        
+    }
+
+    &__span {
+        font-weight: bold;
+        color: $darkblue;
+        font-size: 1.5rem;
+        display: block;
+        text-decoration: none;
+
+        &--driving {
+            color: $driving;
+        }
+        &--guided {
+            color: $guided;
+        }
+        &--walking {
+            color: $walking;
+        }
+
+        &--tours-page {
+            display: inline-block;
+            margin-bottom: 1.2rem;
+        }
+    }
+
+    &__read-more {
+        text-decoration: none;
+        text-transform: uppercase;
+        background-color: $lighterred;
+        color: #fff;
+        font-weight: bold;
+        letter-spacing: 1px;
+        padding: .8rem 2rem;
+        display: inline-block;
+        margin-top: 1rem;
+        border-radius: 8px;
+        transition: background-color .2s ease-in;
+        letter-spacing: 1px;
+
+        @include breakpoint(large){
+            font-weight: normal;
+        }
+
+        &:hover {
+            background: $lightred;
+        }
+    }
+
+}
+
+.general-info {
+    margin-top: -2rem;
+    margin-bottom: -0.5rem;
+    padding: .5rem 0;
+
+    &__title {
+        font-weight: bold;
+        font-size: 1.2rem;
+        background-color: $darkerblue;
+        color: #fff;
+        padding: .5rem 0;
+        text-align: center;
+        position: relative;
+    }
+
+    &__title-item {
+        padding: 0.3rem 0;
+        margin: 0;
+        line-height: 1.5;
+    }
+
+    p {
+        line-height: 1.5;
+        // margin-top: -0.5rem;
+    }
+
+    &__icon {
+        font-size: 2rem;
+        color: $darkblue;
+        margin-right: 0.5rem;
+        @include breakpoint(small) {
+            font-size: 2.5rem;
+        }
+        @include breakpoint(medium) {
+            font-size: 3rem;
+        }
+    }
+
+    &--top {
+        background-color: $darkishblue;
+    }
+}
+
+.cta-home {
+
+    background-color: $darkerblue;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.35rem;
+    padding-top: 2rem;
+    padding-bottom: 2.15rem;
+    
+    @include breakpoint(medium){
+        margin-bottom: 3rem;
+    }
+
+    &__item {
+        margin: .2rem 0 .5rem;
+        line-height: 1.4;
+    }
+
+    &__button {
+        text-align: center;
+        text-decoration: none;
+        display: block;
+        color: #fff;
+        background-color: $lighterred;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 2rem;
+        padding: 1rem;
+        border-radius: 6px;
+        width: 80%;
+        transition: background-color .2s ease-in;
+        letter-spacing: 1px;
+
+        &:hover {
+            background-color: $lightred;
+        }
+
+        @include breakpoint(small) {
+            width: 70%;
+        }
+        @include breakpoint(large) {
+            width: 60%;
+        }
+        @include breakpoint(larger) {
+            width: 50%;
+        }
+    }
+
+}

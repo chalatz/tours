@@ -1,0 +1,56 @@
+---
+layout: plain-page
+---
+
+<main class="container page reviews-comments">
+
+  <div class="page__headings">
+  
+    <span class="anchor-section" id="reviews-top"></span>
+    <h1 class="page__title page__title--plain-page page__title--reviews-comments_page">
+      {{- page.title | upcase -}}
+    </h1>
+
+    {%- if page.subtitle -%}
+      <h2 class="page__subtitle page__subtitle--plain-page page__subtitle--reviews-comments_page">
+        {{- page.subtitle -}}
+      </h2>
+    {%- endif -%}
+
+  </div>
+
+  <section class="page__content page__content--plain-page">
+    {{ content }}
+  </section>
+
+  <section class="page__content">
+    <ul class="reviews-comments__years-list">
+        {%- for review in page.reviews -%}
+            <li class="reviews-comments__years-list-item">
+            <a href="#{{- review.year -}}" class="reviews-comments__years-list-link">
+              {{- review.year -}}
+            </a>
+            </li>
+        {%- endfor -%}
+    </ul>
+  </section>
+
+  <section class="page__content page__content--plain-page">
+    {%- for review in page.reviews -%}
+        <span class="anchor-section" id="{{- review.year -}}"></span>
+        <h3>
+            REVIEWS - TESTIMONIALS {{ review.year }}
+        </h3>
+        <div class="reviews-comments__content">
+          {{ review.text | markdownify }}
+        </div>
+        <div class="reviews-comments__go-to-top">
+          <a href="#reviews-top" class="reviews-comments__go-to-top-link">
+            &uarr; Back to the top &uarr;
+          </a>
+        </div>
+    {%- endfor -%}
+  </section>  
+
+
+</main>

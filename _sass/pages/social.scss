@@ -1,0 +1,21 @@
+.social-page {
+
+    &__main_image {
+        margin-bottom: 1rem;
+    }
+
+    &__gallery-row {
+        .photo-tour__micro-row {
+            &:first-child {
+                margin-bottom: 1rem;
+                @include breakpoint(small) {
+                    margin-bottom: 0;
+                }
+            }
+        }
+        img {
+            width: 60%;
+        }
+    }
+
+}

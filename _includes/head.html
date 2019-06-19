@@ -1,0 +1,33 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Language" content="en-us">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="format-detection" content="telephone=no">
+
+    <title>{{ page.meta.title }}</title>
+
+    {%- if page.meta.http_desc -%}
+        <meta http-equiv="Description" content="{{ page.meta.http_desc }}">
+    {%- else -%}
+        <meta http-equiv="Description" content="{{ page.meta.description }}">
+    {%- endif -%}
+    <meta name="keywords" content="{{ page.meta.keywords }}">
+    <meta name="description" content="{{ page.meta.description }}">
+    <meta name="abstract" content="{{ page.meta.abstract }}">
+
+    <meta name="author" content="{{ page.meta.author }}" >
+    <meta name="distribution" content="{{ site.data.global.meta.distribution }}">
+    <meta name="revisit-after" content="{{ site.data.global.meta.revisit_after }}">
+    <meta name="copyright" content="{{ page.meta.copyright }}">
+    <meta name="rating" content="{{ site.data.global.meta.rating }}">
+    <meta http-equiv="resource-type" content="document">        
+
+    <!--build:css css/styles.min.css-->
+    <link rel="stylesheet" href="./css/styles.css">
+    <!--endbuild-->
+
+    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+
+</head>

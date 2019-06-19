@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{%- unless page.banners_below == true -%}
+    <div class="page__recommendations-1">
+        {% include home/recommendations-1.html %}
+    </div>
+{%- endunless -%}
+  
+{% include home/sites.html %}
+
+<section id="cta-home" class="home-section cta-home">
+<div class="container">
+    <p class="cta-home__item">
+        Not finding what you are looking for?
+    </p>
+    <p class="cta-home__item">
+        No problem, we can create and customize a personalized itinerary for you. Tell us about your Tour!
+    </p>
+    <a href="./contact_us.htm" class="cta-home__button">
+        CONTACT US
+    </a>
+</div>
+</section>
+
+{%- if page.banners_below == true -%}
+    <div class="tours-page__banners tours-page__banners--tours-page">
+        {% include partials/tour-banners.html %}
+    </div>
+{%- else -%}
+    {% include home/recommendations-2.html %}
+{%- endif -%}

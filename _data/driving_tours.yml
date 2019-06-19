@@ -1,0 +1,96 @@
+items:
+  - name: 'BEST OF RHODES-DT1'
+    desc: 'Ideal for cruise ship passengers and first-time visitors'
+    long_desc: 'Highly suggested for cruise ship passengers with limited schedules, and first-time visitors. This Half Day Private Tour include the highlights of Rhodes Medieval-town (World Heritage Site). The New-town, the Acropolis of Rhodes, the East Coast of the Island, and the Village and Acropolis of Lindos 50km (32mi) south east of Rhodes town.'
+    notes: 'Suggested time for this tour: All the year round'
+    url: ./best_of_rhodes_tours_greece.htm
+    img: './img/tours-suggestions/DT1.jpg' 
+    duration: 'Duration: 5:00 hours'
+    id: best_of_rhodes
+    home_page: true
+
+  - name: 'RHODES FULL DAY-DT2'
+    desc: 'Excellent introduction for those visiting Rhodes for a day'
+    long_desc: 'Perfect for cruise ship passengers and for those visiting Rhodes for a day. This is the standard Full Day Private Tour, including the highlights of the "Best of Rhodes" tour, plus more time on the east coast for lunch break at the Mediterranean Sea. The West Coast of the island, the Valley of the Butterflies, the Traditional Winery, the Acropolis of Ancient Ialyssos, and Ixia.'
+    notes: 'Suggested time for this tour: mid-April to mid-October'
+    url: ./fullday_private_tours_east_west_coast.htm
+    img: './img/tours-suggestions/DT2.jpg' 
+    duration: 'Duration: 8:00 hours'
+    id: fullday
+    home_page: true
+
+  - name: 'RHODES WEST COAST-DT3'
+    desc: 'Suggested for those who want to imagine what life was like in historical times'
+    long_desc: 'Excellent tour for those interested in ancient and medieval sites. This is a Half Day Private Tour, including the highlights of Rhodes Medieval-town (World Heritage Site), New-Town. The plateau of Filerimos and the Acropolis of the Ancient Ialyssos. The Valley of the Butterflies, the Boutique Winery and the Ancient city of Kameiros.'
+    notes: 'Suggested time for this tour: mid-June to mid-September'
+    url: ./halfday_private_tours_west_coast.htm
+    img: './img/tours-suggestions/DT3.jpg' 
+    duration: 'Duration: 5:30 hours'
+    id: west_coast
+    home_page: true
+
+  - name: 'RHODES JEWISH SIGHTS-DT4'
+    desc: 'Perfect for those who are interested in the Jewish community of Rhodes'
+    long_desc: 'Perfect for those who are interested in the Jewish community of Rhodes. This tour includes Rhodes New-town, the Jewish Quarter in the Old Town, the "Kahal Shalom” Synagogue, and Jewish Museum, the Jewish Cemetery, and the Acropolis of Lindos.'
+    notes: 'Suggested time for this tour: All the year round'
+    url: ./Jewish_sites_tours_greece.htm
+    img: './img/tours-suggestions/DT4.jpg' 
+    duration: 'Duration: 6:00 hours'
+    id: jewish_sites
+    home_page: false
+
+  - name: 'RHODES WINE TOUR-DT5'
+    desc: 'This tour is addressed mostly to the selective wine tasters, but not exclusively'
+    long_desc: "On this Private Wine Tour, you'll have the opportunity to taste a big selection of excellent local wines and a break for lunch at a Traditional Local Tavern. You can also enjoy a Green Tour of the island with all its breath-taking vistas!"
+    notes: 'Suggested time for this tour: May to end of September'
+    url: ./rhodes_wine_tours_wineries_greece.htm
+    img: './img/tours-suggestions/DT5.jpg' 
+    duration: 'Duration: 6:00 hours'
+    id: wine_tours
+    home_page: false
+
+  - name: 'RHODES KIDS TOUR-DT6'
+    desc: 'This tour is exclusively designed for families with children of all ages'
+    long_desc: 'This is a Half Day Private tour, including the most popular sights for children in Rhodes. In this 4:30 hour Kids Tour we try to cover the best of Rhodes tourist attractions and activities for children.'
+    notes: 'Suggested time for this tour: mid-June to mid-September'
+    url: ./kids_tours_fun_children.htm
+    img: './img/tours-suggestions/DT6.jpg' 
+    duration: 'Duration: 4:30 hours'
+    id: kids_tours
+    home_page: false
+
+  - name: 'Beach Tour of Rhodes-DT7'
+    long_desc: 'In our Half Day Private Beach Tour, you will be able to visit the most popular beaches of the East Coast of the Island with awesome views and crystal-clear waters. During the tour we stop for photos, and on the way back for sea bath on a beach of your own choice.'
+    notes: 'Suggested time for this tour: June to September'
+    url: ./beach_tour_of_rhodes.htm
+    img: './img/tours-suggestions/DT7.jpg' 
+    duration: 'Duration: 5:00 hours'
+    id: beach_tour
+    home_page: false
+
+  - name: 'South West Coast Tour-DT8'
+    long_desc: 'Highly suggest for those staying on Rhodes for longer period and want to discover this part of the island. This is tour include the West Coast of the island, Filerimos, Ancient city of Kamiros, Castle of Kritinia, Castle of Monolithos, and Embona village for lunch.'
+    notes: 'Suggested time for this tour: All the year round'
+    url: ./south_west_coast.htm
+    img: './img/tours-suggestions/DT8.jpg' 
+    duration: 'Duration: 7:00 hours'
+    id: south_west
+    home_page: false
+
+  - name: 'RHODES NATURE TOUR-DT9'
+    long_desc: 'This tour is designed for those like nature beauties. Rhodes island is something to be experienced completely and our tour services offer precisely that. We will allow you to immerse yourself in nature and treat you to sights that are truly unforgettable.'
+    notes: 'Suggested time for this tour: mid-June to mid-September'
+    url: ./nature_tour.htm
+    img: './img/tours-suggestions/DT9.jpg'
+    duration: 'Duration: 5:00 hours'
+    id: nature
+    home_page: false
+
+  - name: 'Through the Island-DT10'
+    long_desc: 'This tour is designed for those who want to enjoy the beauties of the landscape in the middle of the island. The unique views of Rhodes are some of the most magnificent on Greece and this tour is perfect for those wishing to experience them'
+    notes: 'Suggested time for this tour: mid-April to October'
+    url: ./island_tour.htm
+    img: './img/tours-suggestions/DT10.jpg'
+    duration: 'Duration: 7:00 hours'
+    id: through_the_island
+    home_page: false

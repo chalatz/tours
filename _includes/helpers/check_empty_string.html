@@ -1,0 +1,11 @@
+{% assign string_not_empty = false %}
+
+{% assign the_string = include.the_string %}
+
+{% assign check_array = the_string | split: ' '  %}
+
+{% assign check_array_size = check_array | size  %}
+
+{% if check_array_size > 0 %}
+    {% assign string_not_empty = true %}
+{% endif %}

@@ -1,0 +1,83 @@
+.form {
+
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+
+    @include breakpoint(small) {
+        width: 65%;
+    }
+    @include breakpoint(medium) {
+        width: 55%;
+    }
+    @include breakpoint(large) {
+        width: 45%;
+    }
+
+    &__group {
+        margin-bottom: 1rem;
+    }
+
+    &__label {
+        display: block;
+        margin-bottom: 0.5rem;
+        font-weight: bold;
+    }
+
+    &__input {
+        display: block;
+        width: 100%;
+        border-radius: 3px;
+        outline: none;
+        border: 1px solid $darkishblue;
+        padding: .5rem .6rem;
+        transition: all .2s linear;
+        &:focus {
+            box-shadow: 0 0 5px $darkblue;
+        
+        }
+        &--select {
+            padding: .3rem .6rem;
+            background-color: #fff;
+        }
+        &--year {
+            width: 6rem !important;
+        }
+    }
+
+
+    &__submit {
+        margin-top: .5rem;
+        border: none;
+        outline: none;
+        color: #fff;
+        background-color: $lightred;
+        font-weight: bold;
+        letter-spacing: 1px;
+        padding: .5rem 1rem;
+        text-align: center;
+        width: 100%;
+        font-size: 1.3rem;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: all .2s linear;
+        &:hover {
+            background-color: $lighterred;
+        }
+    }
+
+    &__inline {
+        display: inline-block;
+        width: auto;
+    }
+
+    &__row {
+        padding: .5rem 0;
+    }
+
+    &__radio-group {
+        display: inline-block;
+        width: 10rem;
+    }
+
+}

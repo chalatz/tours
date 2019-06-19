@@ -1,0 +1,212 @@
+title: Rhodes Destinations and Unique Attractions - Find Your Tour by Attraction
+
+subtitle: Get to Know the Historical Sites and Natural Beauty of Rhodes Island
+
+items:
+  - title: Historical Sites in Rhodes
+    thumb:
+      path: ./img/pages/destinations/historical-sites.jpg
+      alt: Historical Sites in Rhodes
+    links:
+      - name: Rhodes Old Town
+        url: ./rhodes_old_town_island_tour.htm
+        id: site_old_town
+      - name: Rhodes New Town
+        url: ./rhodes_new_town_shore_excursions.htm
+        id: site_new_town
+      - name: Rhodes East Coast
+        url: ./rhodes_east_coast_taxi_tour.htm
+        id: site_east_coast
+      - name: Rhodes West Coast
+        url: ./rhodes_west_coast_shore_trips.htm
+        id: site_west_coast
+      - name: Byzantine Sights
+        url: ./byzantine_historical_monuments.htm
+        id: site_byzantine
+      - name: The Knights of Rhodes
+        url: ./knights_rhodes_medieval.htm
+        id: site_knights
+      - name: Ottoman Sights
+        url: ./ottoman_sites_monuments.htm
+        id: site_ottoman
+      - name: Italian Architecture
+        url: ./italian_monuments_historical_sites.htm
+        id: site_italian
+
+  - title: Ancient Sites in Rhodes
+    thumb:
+      path: ./img/pages/destinations/ancient-sites.jpg
+      alt: Ancient Sites in Rhodes
+    links:
+      - name: The Colossus of Rhodes
+        url: ./colossus_of_rhodes_sightseeing.htm
+        id: site_colossus
+      - name: Mount Smith Hill
+        url: ./mount_smith_hill_affordable.htm
+        id: site_mount_smith_hill
+      - name: Acropolis of Lindos
+        url: ./acropolis_lindos_%20executive_escorted.htm
+        id: site_acropolis_lindos
+      - name: Filerimos Hill
+        url: ./filerimos_hill_rhodes_greece.htm
+        id: site_filerimos_hill
+      - name: Ancient Kamiros
+        url: ./ancient_kameiros_specialized.htm
+        id: site_ancient_kameiros
+      - name: Kritinia Castle
+        url: ./kritinia_castle.htm
+        id: site_kritinia_castle
+      - name: Castle of Monolithos
+        url: ./monolithos_castle.htm
+        id: site_monolithos_castle
+
+  - title: Jewish Related Sites
+    thumb:
+      path: ./img/pages/destinations/jewish-sites.jpg
+      alt: Jewish Related Sites
+    links:
+      - name: The Jewish Quarter - La Juderia
+        url: ./la_juderia_customized_exclusive.htm
+        id: site_la_juderia_home
+      - name: The Square of the Martyred Jews
+        url: ./la_juderia_customized_exclusive.htm#the_martyred_jews_square
+      - name: 'The "Kahal Shalom" Synagogue'
+        url: ./la_juderia_customized_exclusive.htm#the_kahal_shalom
+      - name: The Jewish Museum of Rhodes
+        url: ./la_juderia_customized_exclusive.htm#the_jewish_museum
+      - name: Aron Hasson founder of J.M.R.
+        url: ./la_juderia_customized_exclusive.htm#aron_hasson
+      - name: The Jewish Cemetery
+        url: ./la_juderia_customized_exclusive.htm#the_jewish_cemetery
+      - name: "&quot;Rhodesli's&quot; Books and Movies"
+        url: ./la_juderia_customized_exclusive.htm#books
+
+  - title: Parks and Natural Beauty
+    thumb:
+      path: ./img/pages/destinations/parks-natural-beauty-sites.jpg
+      alt: Parks and Natural Beauty
+    links:
+      - name: Butterflies Valley
+        url: ./rhodes_butterflies.htm
+        id: site_butterflies
+      - name: The Seven Springs
+        url: ./seven_springs_rhodes_greece.htm
+        id: site_seven_springs
+      - name: The Kalithea Spa
+        url: ./kalithea_spa_thermal.htm
+        id: site_kalithea_spa 
+      - name: The Rodini Park
+        url: ./rodini_park_rhodini.htm
+        id: site_rodini_park 
+      - name: Rhodes Ostrich Farm
+        url: ./ostrich_farm_zoo_park.htm
+        id: site_ostrich_farm 
+      - name: The Water Park
+        url: ./custom.htm
+        id: site_water_park
+      # - name: Best Beaches in Rhodes
+      #   url: ./best_beaches.htm
+      #   id: site_best_beaches
+
+  - title: Museums and Art Galleries
+    thumb:
+      path: ./img/pages/destinations/museums-art-galleries.jpg
+      alt: Museums and Art Galleries
+    links:
+      - name: Grand Master Palace
+        url: ./palace_of_the_grand_masters_greece.htm
+        id: site_grand_masters_palace
+      - name: Archaeological Museum
+        url: ./archaeological_museums_rhodes_greece.htm
+        id: site_archaeological_museum
+      - name: Byzantine Art Museum
+        url: ./byzantine_art_museums_greece.htm
+        id: site_byzantine_art_museum
+      - name: Hospice of St. Catherine
+        url: ./city.htm
+        id: site_st_catherine_hospice
+      - name: Modern Greek Art
+        url: ./modern_greek_art_museum.htm
+        id: site_modern_greek_art_museum
+      - name: Decorative Arts, Folklore
+        url: ./guided.htm
+        id: site_decorative_arts_museum
+      - name: Bee Museum
+        url: ./bee_museum.htm
+        id: site_bee_museum
+
+  - title: Quick Facts about Rhodes
+    thumb:
+      path: ./img/pages/destinations/quick-facts-about-rhodes.jpg
+      alt: Quick Facts about Rhodes
+    links:
+      - name: Rhodes Pottery Greece
+        url: ./handmade_pottery_greece.htm        
+        id: info_handmade_pottery
+      - name: Greek Food in Rhodes
+        url: ./food_greece_menus_meals_cuisine.htm        
+        id: info_food_greece_menus_meals
+      - name: Top Reasons To Visit Rhodes
+        url: ./top_10_reasons_to_visit_rhodes_greece.htm        
+        id: info_top_10_reasons_to_visit_rhodes
+      - name: A Brief History of Rhodes
+        url: ./history_rhodes_greece.htm               
+        id: info_history_rhodes
+      - name: Movies & Books about Rhodes
+        url: ./movies_filmed_rhodes_greece.htm        
+        id: info_movies_filmed_rhodes
+      # - name: Rhodes Greece Map
+      #   url: ./rhodes_greece_map.htm        
+      #   id: info_rhodes_greece_map
+      - name: Travel Guide of Rhodes
+        url: ./rhodes_travel_guide.htm        
+        id: info_rhodes_travel_guide
+      - name: 'Did You Know? That...'
+        url: ./rhodes_island_greece.htm
+        id: info_rhodes_island
+
+beaches:
+  title: Crystal Waters in Rhodes
+  subtitle:
+    text: Best Beaches in Rhodes
+    link: ./best_beaches.htm
+    id: site_best_beaches
+  items:
+  - name: Elli Beach Rhodes
+    url: ./elli_beach_rhodes_greece.htm
+    id: beach_site_elli
+  - name: Kallithea Beach Rhodes
+    url: ./kalithea_beach_rhodes_greece.htm
+    id: beach_site_kallithea
+  - name: Faliraki Beach Rhodes
+    url: ./faliraki_beach_rhodes_greece.htm
+    id: beach_site_faliraki
+  - name: Anthony Quinn Beach
+    url: ./anthony_quinn_bay_rhodes_greece.htm
+    id: beach_site_anthony_quinn
+  - name: Traganou Beach
+    url: ./most_beautiful_beaches_in_europe.htm
+    id: beach_site_traganou
+  - name: Tsambika Beach Rhodes
+    url: ./tsambika_beach_rhodes_greece.htm
+    id: beach_site_tsambika
+  - name: Stegna Beach Rhodes
+    url: ./best_beaches_greece_islands.htm
+    id: beach_site_stegna
+  - name: Haraki Beach Rhodes
+    url: ./haraki_beach_rhodes_greece.htm
+    id: beach_site_haraki
+  - name: Lindos Beach Rhodes
+    url: ./lindos_beach_rhodes_greece.htm
+    id: beach_site_lindos
+  - name: "St. Paul's Bay Beach"
+    url: ./st_pauls_bay_rhodes_greece.htm
+    id: beach_site_st_pauls
+  - name: Ixia Beach Rhodes
+    url: ./ixia_beach_rhodes_greece.htm
+    id: beach_site_ixia
+  - name: Ialyssos Beach Rhodes
+    url: ./ialyssos_beach_rhodes_greece.htm
+    id: beach_site_ialyssos
+
+       

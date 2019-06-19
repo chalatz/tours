@@ -1,0 +1,79 @@
+- name: 'Best of Rhodes-DT1'
+  desc: 'Half Day Private Tour'
+  url: ./best_of_rhodes_tours_greece.htm
+  img: './img/tours-suggestions/TOUR-1.jpg' 
+  itinerary: 'Rhodes Medieval City / Rhodes New Town / Acropolis of Rhodes / East Coast of the Island / Village and Acropolis of Lindos'
+  duration: 'Duration: 5:00 hours'
+  id: best_of_rhodes
+
+- name: 'Rhodes Full Day-DT2'
+  desc: 'Full Day Private Tour'
+  url: ./fullday_private_tours_east_west_coast.htm
+  img: './img/tours-suggestions/Rhodes-Full-Day.jpg' 
+  itinerary: 'Rhodes Town / East & West Coast of the Island'
+  duration: 'Duration: 8:00 hours'
+  id: fullday
+
+- name: 'Rhodes West Coast-DT3'
+  desc: 'Half Day Private Tour'
+  url: ./halfday_private_tours_west_coast.htm
+  img: './img/tours-suggestions/TOUR-3.jpg' 
+  itinerary: 'Rhodes Medieval City / Rhodes New Town / West Coast of the Island / Filerimos / Valley of the Butterflies / Winery / Ancient Kamiros'
+  duration: 'Duration: 5:30 hours'
+  id: west_coast
+
+- name: 'Rhodes Jewish Sights Plus-DT4'
+  desc: 'Private Day Tour'
+  url: ./Jewish_sites_tours_greece.htm
+  img: './img/tours-suggestions/TOUR-4.jpg' 
+  itinerary: 'Rhodes New Town / Rhodes Medieval City / Jewish Heritage / Jewish Quarter / East Coast of the Island / Lindos'
+  duration: 'Duration: 6:00 hours'
+  id: jewish_sites
+
+- name: 'Rhodes Wine Tour-DT5'
+  desc: 'Private Day Tour'
+  url: ./rhodes_wine_tours_wineries_greece.htm
+  img: './img/tours-suggestions/Wine-Tour.jpg' 
+  itinerary: 'Panoramic View of Rhodes Town / Free Wine Tasting / Green Tour of the West Coast / Lunch Break at a Traditional Tavern'
+  duration: 'Duration: 6:00 hours'
+  id: wine_tours
+
+- name: 'Rhodes Kids Tour-DT6'
+  desc: 'Half Day Private Tour'
+  url: ./kids_tours_fun_children.htm
+  img: '/img/tours-suggestions/Kids-Tour.jpg' 
+  itinerary: 'The most popular sights in Rhodes for children of all ages!!'
+  duration: 'Duration: 4:30 hours'
+  id: kids_tours
+
+- name: 'Beach Tour of Rhodes-DT7'
+  desc: 'Half Day Private Tour'
+  url: ./beach_tour_of_rhodes.htm
+  img: './img/tours-suggestions/Beach-Tour.jpg' 
+  itinerary: 'Faliraki Beach / Anthony Quinn Bay / Tsambika Beach / Charaki Beach / St Paul’s Bay / Lindos Village and Acropolis / Sea Bath'
+  duration: 'Duration: 5:00 hours'
+  id: beach_tour
+
+- name: 'Rhodes South&#8209;West-DT8'
+  desc: 'Full Day Private Tour'
+  url: ./south_west_coast.htm
+  img: './img/tours-suggestions/South-West-Coast.jpg' 
+  itinerary: 'West Coast / Filerimos / Ancient Kamiros / Kritinia Castle / Monolithos Castle / Empona Village'
+  duration: 'Duration: 7:00 hours'
+  id: south_west
+
+- name: 'Rhodes Nature Tour-DT9'
+  desc: 'Half Day Private Tour'
+  url: ./nature_tour.htm
+  img: ''
+  itinerary: 'Kalithea Spa / Anthony Quinn Bay / Seven Springs / Valley of the Butterflies / Filerimos Mountain'
+  duration: 'Duration: 5:00 hours'
+  id: nature
+
+- name: 'Through the Island Tour-DT10'
+  desc: 'Full Day Private Tour'
+  url: ./island_tour.htm
+  img: '' 
+  itinerary: ''
+  duration: 'Duration: 7:00 hours'
+  id: through_the_island

@@ -1,0 +1,20 @@
+- id: driving_tours
+  id2: driven_tours
+  url: ./rhodes_island_Greece_private_tours.htm
+  text: 'VIEW PRIVATE TOURS BY KNOWLEDGEABLE TOUR-DRIVERS'
+  text_not_link: 'MORE PRIVATE TOURS BY KNOWLEDGEABLE TOUR-DRIVERS'
+  classes: 'color-driving'
+
+- id: guided_tours
+  id2: guided_tours
+  url: ./guided_tours.htm
+  text: 'VIEW PRIVATE TOURS BY LICENSED TOUR GUIDES AND PROFESSIONAL DRIVERS'
+  text_not_link: 'MORE PRIVATE TOURS BY LICENSED TOUR GUIDES AND PROFESSIONAL DRIVERS'
+  classes: 'color-guided'
+
+- id: walking_tours
+  id2: walking_tours
+  url: ./walking_tours.htm
+  text: 'VIEW PRIVATE WALKING TOURS BY LICENSED TOUR GUIDES'
+  text_not_link: 'MORE PRIVATE WALKING TOURS BY LICENSED TOUR GUIDES'
+  classes: 'color-walking'

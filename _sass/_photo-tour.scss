@@ -1,0 +1,258 @@
+.photo-tour {
+
+    background-color: $lightergray;
+    margin-top: -2rem;
+    margin-bottom: -2rem;
+    padding-bottom: 1.5rem;
+    
+    &__title {
+        padding-top: 2rem;
+        color: $darkgray;
+        text-shadow: 1px 1px 1px $lightgray;
+        font-size: 1.8rem;
+        text-align: center;
+    }
+
+    &__subtitle {
+        margin-top: -.6rem;
+        color: $darkgray;
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+    &__summary {
+        line-height: 1.6;
+        font-size: 1.1rem;
+    }
+
+    &__item {
+
+        // margin-bottom: 2.5rem;
+
+        position: relative;
+
+        @include clearfix;
+
+        &-title {
+            text-align: center;
+        }
+
+        &-desc {
+            line-height: 1.5;
+        }
+
+    }
+
+    &__gallery {
+        @include clearfix;
+
+        &-row {
+            @include clearfix;
+        }
+
+        &-link {
+            transition: opacity .2s linear;
+            &:hover {
+                opacity: .8;
+            }
+        }
+
+        &-figure {
+            margin: 0;
+            margin-bottom: .5rem;
+            float: left;
+            width: 50%;
+            padding: 0 3px;
+            @include breakpoint(small) {                
+                margin-bottom: .8rem;
+            }
+        }
+
+        &-caption,
+        &-caption-link {
+            text-align: center;
+            font-style: oblique;
+            color: #111;
+            padding: 0 3px;
+            font-size: .95rem;
+            line-height: 1.35;
+            @include breakpoint(large) {
+                font-size: 1rem;
+            }
+            h3 {
+                margin-top: .3rem;
+                margin-bottom: .3rem;
+                font-style: normal;
+            }
+        }
+
+        &-caption-link {
+            font-size: 1rem;
+            text-decoration: none;
+        }
+
+    }
+
+    &__content {
+        @include clearfix;
+        line-height: 1.5;
+    }
+
+    &__keyphrase {
+        font-size: 1.1rem;
+        text-align: center;
+        @include breakpoint(small) {
+            text-align: left;
+        }
+    }
+
+    &__micro-row {
+        @include clearfix;
+        display: block;
+        width: 100%;
+        @include breakpoint(small) {
+            float: left;    
+            width: 50%;
+        }
+    }
+
+    &__standout {
+        border-top: 2px solid $darkblue;
+        margin-top: 3rem;
+    }
+
+    &__other-tours {
+        background-color: #fff;
+        padding-top: 1rem;
+        padding-bottom: 0;
+
+        a {
+            font-weight: bold;
+            color: $darkerblue;
+            &:hover {
+                color: $red;
+            }
+        }
+    }
+
+    &__related-tours {
+        padding-top: 1.8rem;
+
+        &-heading {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin: .8rem 0;
+        }
+
+        &-link {
+            font-weight: bold;
+            color: #fff;
+            background-color: $gray;
+            border-radius: 4px;
+            text-decoration: none;
+            white-space: nowrap;
+            // display: inline-block;
+            padding: 8px 12px;
+            margin-bottom: .7rem;
+            // margin-right: .8rem;
+            transition: background-color .2s ease-in;
+            display: block;
+            width: 100%;
+            // &:last-child {
+            //     margin-right: 0;
+            // }
+
+            @include breakpoint(medium) {   
+                display: inline-block;
+                margin-right: 2rem;
+                width: 45%;
+                &:nth-child(2n) {
+                    margin-right: 0;
+                }
+            }
+            @include breakpoint(large) {
+                margin-right: .8rem;
+                &:nth-child(2n) {
+                    margin-right: 0.8rem;
+                }
+                width: 30%;
+                // &:last-child {
+                //     margin-right: 0;
+                // }
+            }
+
+            &--driving {
+                background-color: $driving;
+            }
+            &--guided {
+                background-color: $guided;
+            }
+            &--walking {
+                background-color: $walking;
+            }
+
+            &:hover {
+                color: #fff;
+                background-color: $red;
+            }
+        }
+
+        &--beaches {
+            padding: 0;
+            padding-bottom: .5rem;
+            @include breakpoint(medium) {
+                padding-top: .5rem;
+                padding-bottom: 0;
+            }
+        }
+    }
+
+    &__no-related {
+        font-size: 1.1rem;
+        text-align: center;
+        font-weight: bold;
+        margin-top: 3rem;
+    }
+
+    & ~ .recommendations--one {
+        background-color: #fff;
+        padding-bottom: 0.5rem; 
+    }
+
+    a {
+        &:hover {
+            color: $red;
+        }
+    }
+
+    ul {
+        list-style-type: disc;
+        padding-left: 1.5rem;
+        @include breakpoint(small) {
+            padding-left: 2.5rem;
+        }
+        @include breakpoint(medium) {
+            padding-left: 3.5rem;
+        }
+    }
+
+    li {
+        line-height: 1.5;
+    }
+
+    &--site_best_beaches {
+        padding-bottom: 0;
+        &__section {
+            padding-bottom: 0.5rem;
+            margin-bottom: 1rem;
+        }
+    }
+
+}
+
+.caption-best-beaches {
+    h3 {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}

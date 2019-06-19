@@ -1,0 +1,31 @@
+{%- for figure in include.gallery -%}
+    {%- assign the_modulo = forloop.index | modulo: 2 -%}
+    {%- if the_modulo == 1 -%}
+        <div class="photo-tour__micro-row">
+    {%- endif -%}
+    <figure class="photo-tour__gallery-figure">
+        {%- if figure.is_link == true -%}
+            <a class="photo-tour__gallery-link" href="{{- figure.url -}}"{% if figure.new_window == true %}target="_blank"{% endif %}>
+                <img src="{{- figure.thumb -}}" alt="{{- figure.alt -}}" class="photo-tour__gallery-img">
+            </a>
+        {%- else -%}
+            <a class="photo-tour__gallery-link" href="{{- figure.href -}}" data-fancybox="tour-gallery" data-caption="{{- figure.caption | escape -}}">
+                <img src="{{- figure.thumb -}}" alt="{{- figure.alt -}}" class="photo-tour__gallery-img">
+            </a>
+        {%- endif -%}
+        {%- if figure.caption -%}
+            <figcaption class="photo-tour__gallery-caption">
+                {%- if figure.is_link == true -%}
+                    <a class="photo-tour__gallery-caption-link" href="{{- figure.url -}}">
+                        {{- figure.caption -}}
+                    </a>
+                {%- else -%}
+                    {{- figure.caption -}}
+                {%- endif -%}
+            </figcaption>
+        {%- endif -%}
+    </figure>
+    {%- if the_modulo == 0 -%}
+        </div>
+    {%- endif -%}
+{%- endfor -%}

@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<main class="container page social-page">
+
+    <header class="page__headings">
+        <div class="centered social-page__main_image">
+            <img src="{{- page.main_image.path -}}" alt="{{- page.main_image.alt -}}">
+        </div>
+        <h1 class="page__title">
+            {{ page.title | upcase }}
+        </h1>
+    </header>
+
+    {%- if page.content != '' -%}
+        <section class="section container beach-site__content">
+            {{ content }}
+        </section>
+    {%- endif -%}
+
+    {%- assign gallery_rows_size = page.gallery_rows | size -%}
+    {%- if gallery_rows_size > 0 -%}
+        <section class="section container">
+            <div class="photo-tour__gallery centered">
+                {%- for row in page.gallery_rows -%}
+                    <div class="photo-tour__gallery-row social-page__gallery-row">                        
+                        {%- include partials/photo-tour-gallery.html gallery = row.figures -%}
+                    </div>
+                {%- endfor -%}
+            </div>
+        </section>
+    {%- endif -%}
+    
+</main>

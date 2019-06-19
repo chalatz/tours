@@ -1,0 +1,128 @@
+.go-top {
+    display: block;
+    width: 40px;
+    height: 40px;
+    line-height: 35px;
+    text-align: center;
+    font-size: 30px;
+    position: fixed;
+    bottom: -40px;
+    right: 20px;
+    transition: bottom .5s ease, background-color .2s ease;
+    background-color: $darkishblue;
+    color: #FFFFFF;
+    text-decoration: none;
+    box-shadow: 0 0 6px #666;
+    opacity: .9;
+    border-radius: 5px;
+    z-index: 10;
+    // @include breakpoint(medium){
+    //     display: none;
+    // }
+}
+  
+.go-top.show { bottom: 20px; }
+
+.go-top:hover {
+    background-color: $darkerblue;
+    color: #FFFFFF;
+}
+
+.separator {
+    margin: 0 .1rem;
+    font-weight: bold;
+    color: $darkerblue;
+    font-size: 1rem;
+
+    @include breakpoint(medium) {
+        margin: 0 .3rem;
+        font-size: 1.05rem;
+    }
+    @include breakpoint(large) {
+        font-size: 1.1rem;
+    }
+}
+
+.anchor {
+    position: absolute;
+    top: -3rem;
+    display: block;
+}
+
+.modal {
+    padding: .6rem 1rem;
+    position: relative;
+    text-align: left;
+    max-width: 800px;
+    &__content {
+        background-color: #fff;
+        padding: .3rem .5rem;
+        padding-bottom: 1.2rem;
+        border-radius: 3px;
+        @include breakpoint(smaller) {
+            padding: .3rem 1rem;            
+            padding-bottom: 1.2rem;
+        }
+        @include breakpoint(small) {
+            padding: .5rem 2rem;            
+            padding-bottom: 1.2rem;
+        }
+        @include breakpoint(small) {
+            padding-bottom: 1.5rem;
+        }
+    }
+    h2,
+    h3 {
+        text-align: center;
+    }
+    h2 {
+        font-size: 1.5rem;
+    }
+    h3 {
+        font-size: 1.35rem;
+    }
+    h4 {
+        font-size: 1.2rem;
+        font-weight: normal;
+        padding: 0;
+        margin: 0;
+        margin-bottom: -1rem;
+    }
+
+    &__close-button {
+        border: none;
+        cursor: pointer;
+        &--icon {
+            background: none;
+            position: absolute;
+            top: 12px;
+            right: 15px;
+            font-size: 26px;
+            color: $gray;
+            opacity: .8;
+            transition: color .2s linear;
+            @include breakpoint(small) {
+                font-size: 33px;
+            }
+            @include breakpoint(medium) {
+                top: 15px;
+                right: 20px;
+            }
+            &:hover {
+                color: $lightred;
+            }
+        }
+        &--button {
+            color: #fff;
+            background-color: $lightred;
+            border-radius: 35px;
+            padding: .5rem 2rem;
+            letter-spacing: 1px;
+            transition: background-color .2s linear;
+            &:hover {
+                background-color: $red;
+            }
+        }
+    }
+
+}

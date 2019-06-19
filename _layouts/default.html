@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    
+    {%- include header.html -%}
+    
+    {%- include navigation.html -%}
+
+    <div id="msg" class="msg container"></div>
+
+    {{ content }}
+
+    {%- include footer.html -%}
+
+    {% unless page.has_form == true %}
+      {% include pop-form.html %}
+    {% endunless %}
+    
+    <a class="go-top" id="scrollBtn" href="#home">
+        <i class="fas fa-angle-up"></i>
+    </a>
+
+    {% include scripts.html %}
+
+  </body>
+
+</html>

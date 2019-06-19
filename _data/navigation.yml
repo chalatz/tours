@@ -1,0 +1,108 @@
+main:
+  items:
+    - title: HOME
+      url: './index.htm'
+      type: home
+    - title: ABOUT
+      url: './rhodes_private_day_tours.htm'
+      type: about_page
+    - title: DRIVING TOURS
+      url: './rhodes_island_Greece_private_tours.htm'
+      type: driving_tours_page
+      subitems:
+        - title: ALL DRIVING TOURS
+          url: './rhodes_island_Greece_private_tours.htm'
+          classes:
+            li: 'tablet-only tablet-only--block'
+        - title: BEST OF RHODES-DT1
+          url: './best_of_rhodes_tours_greece.htm'
+        - title: RHODES FULL DAY-DT2
+          url: './fullday_private_tours_east_west_coast.htm'
+        - title: RHODES WEST COAST-DT3
+          url: './halfday_private_tours_west_coast.htm'
+        - title: RHODES JEWISH SIGHTS PLUS-DT4
+          url: './Jewish_sites_tours_greece.htm'
+        - title: RHODES WINE TOUR-DT5
+          url: './rhodes_wine_tours_wineries_greece.htm'
+        - title: RHODES KIDS TOUR-DT6
+          url: './kids_tours_fun_children.htm'
+        - title: BEACH TOUR OF RHODES-DT7
+          url: './beach_tour_of_rhodes.htm'
+        - title: RHODES SOUTH WEST-DT8
+          url: './south_west_coast.htm'
+        - title: RHODES NATURE TOUR-DT9
+          url: './nature_tour.htm'
+        - title: Through the Island-DT10
+          url: './island_tour.htm'
+    - title: GUIDED TOURS
+      url: './guided_tours.htm'
+      type: guided_tours_page
+      subitems:
+        - title: ALL GUIDED TOURS
+          url: './guided_tours.htm'
+          classes:
+            li: 'tablet-only tablet-only--block'
+        - title: 'Best Attractions-GT1'
+          url: './best_attractions_in_rhodes.htm'
+        - title: 'Best off & Lunch Break-GT2'
+          url: './full_day.htm'
+        - title: 'West Coast of RHODES-GT3'
+          url: './west_coast.htm'
+        - title: 'Jewish Heritage Plus-GT4'
+          url: './jewish_heritage.htm'
+        - title: 'ANCIENT & MEDIEVAL-GT5'
+          url: './ancient_medieval.htm'
+        - title: 'The Knights OF ST JOHN-GT6'
+          url: './knights-of-st-John.htm'      
+        - title: 'Natural Attractions-GT7'
+          url: './natural_attractions.htm'
+        - title: 'Rhodes Landscape Tour-GT8'
+          url: './landscape_tour.htm'
+        - title: 'Rhodes Scenic Tour-GT9'
+          url: './scenic_tour.htm'
+    - title: WALKING TOURS
+      url: './walking_tours.htm'
+      type: walking_tours_page
+      subitems:
+        - title: ALL WALKING TOURS
+          url: './walking_tours.htm'
+          classes:
+            li: 'tablet-only tablet-only--block'
+        - title: 'Old Town WALKING TOUR-WT1'
+          url: './old_town_walking_tour.htm'
+        - title: 'Knights Hospitallers-WT2'
+          url: './knights_hospitallers.htm'
+        - title: 'RHODES TOUR BY NIGHT-WT3'
+          url: './rhodesnightlife_rhodesbynight.htm'
+    - title: GROUP TOURS
+      url: './group_mini_bus.htm'
+      type: group_tours_page
+    - title: ACCESSIBLE TOURS
+      url: './accessible_disabled.htm'
+      type: accessible_tours_page
+    - title: SERVICES
+      cta_title: VIEW MORE SERVICES
+      url: './tour_services.htm'
+      type: services_page
+      subitems:
+        - title: ALL SERVICES
+          url: './tour_services.htm'
+          id: vip_services_page
+          cta_link: false
+          classes:
+            li: 'tablet-only tablet-only--block'
+        - title: 'VIP SERVICES'
+          url: './vips_services_luxury_limousine.htm'
+          cta_link: true
+          id: vip_services_page
+        - title: 'SPECIAL OCCASIONS'
+          url: './weddings_special_occasions.htm'
+          id: special_occasions_services_page
+          cta_link: true
+        - title: 'CAR AND DRIVER HIRE'
+          url: './car_driver_hire.htm'
+          id: car_driver_services_page
+          cta_link: true
+    - title: CONTACT US
+      type: contact_page
+      url: './contact_us.htm'

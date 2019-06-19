@@ -1,0 +1,24 @@
+{%- assign the_page = site.pages | where: 'id', 'privacy' -%}
+
+<section id="privacy-terms" class="page__content modal" style="display:none">
+
+    <button data-fancybox-close="" class="modal__close modal__close-button modal__close-button--icon">
+        <i class="fas fa-times-circle"></i>
+    </button>
+
+    <section class="modal__content">
+        {%- for item in the_page -%}
+            <h2 class="modal__title">
+                {{- item.title -}}
+            </h2>
+            {{ item.content | markdownify }}
+        {%- endfor -%}
+    
+        <div class="centered">
+            <button data-fancybox-close="" class="modal__close modal__close-button modal__close-button--button">
+                Close
+            </button>
+        </div>
+    </section>
+
+</section>

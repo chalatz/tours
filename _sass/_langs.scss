@@ -1,0 +1,84 @@
+.langs {
+    
+    margin: 0;
+    padding: 0;
+    padding-top: .8rem;
+    list-style: none;
+    right: .5rem;
+    z-index: 2;
+
+    @include breakpoint(medium) {
+        position: absolute;
+        right: 0;
+        top: 0;
+        background-color: #fff;
+        padding: .5rem;
+        padding-top: 0;
+    }
+
+    @include breakpoint(larger) {
+        position: absolute;
+        right: 0;
+    }
+
+    &__item {
+        display: inline-block;
+        margin-right: .4rem;
+        font-size: 1rem;
+        padding-bottom: .5rem;
+
+        @include breakpoint(medium) {
+            display: block;
+            padding-bottom: 1rem;
+        }
+
+        @include breakpoint(large) {
+            font-size: 1.1rem
+        }
+        @include breakpoint(larger) {
+            font-size: 1.2rem
+        }
+        
+        &:last-child {
+            padding-bottom: 0;
+        }
+
+        &--active {
+            font-weight: bold;
+            cursor: pointer;
+            margin-right: 1rem;
+        }
+
+        &--active-icon {
+            display: none;
+            @include breakpoint(medium) {
+                display: inline-block;
+            }
+        }
+    }
+
+    &__link {
+        text-decoration: none;
+        color: $gray;
+        &:hover {
+            text-decoration: underline;
+        }
+        &--active {
+            text-decoration: underline;
+            font-weight: bold;
+        }
+
+        @include breakpoint(medium) {
+            display: block;
+        }
+
+    }
+
+    &__inactives {
+        display: inline-block;
+        @include breakpoint(medium) {
+            display: none;
+        }
+    }
+
+}

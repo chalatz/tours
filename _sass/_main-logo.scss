@@ -1,0 +1,16 @@
+.main-logo {
+
+    display: block;
+    
+    text-align: center;
+    padding: 0;
+    
+    &__img {
+        width: 12.5rem;
+    }
+    
+    @include breakpoint(large) {
+        display: inline;
+        float: left;
+    }
+}

@@ -1,0 +1,64 @@
+.slider {
+
+    &__img-wrapper {
+        width: 100%;
+    }
+
+    &__img {
+        width: 100%;
+    }
+
+    &__text {
+        display: none;
+        color: #fff;
+        position: absolute;
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+    }
+
+    &__text-heading {
+        font-size: 1rem;
+        text-align: center;
+        text-shadow: 2px 2px 1px #000;
+        margin: 0;
+        @include breakpoint(smaller) {
+            font-size: 1.4rem;
+        }
+        @include breakpoint(small) {
+            font-size: 1.8rem;
+        }
+        @include breakpoint(medium) {
+            font-size: 2rem;
+        }
+        @include breakpoint(large) {
+            font-size: 3rem;
+        }
+        @include breakpoint(larger) {
+            font-size: 4rem;
+        }
+    }
+
+    &__text-desc {
+        text-align: center;
+        font-size: .85rem;
+        font-weight: bold;
+        margin: .5rem 0;
+        color: $darkerlightgray;
+        text-shadow: 2px 2px 1px #000;
+        @include breakpoint(small) {
+            font-size: 1.25rem;
+        }
+        @include breakpoint(medium) {
+            font-size: 1.4rem;
+        }
+        @include breakpoint(large) {
+            font-size: 1.8rem;
+        }
+        @include breakpoint(larger) {
+            font-size: 2rem;
+        }
+    }
+
+}

@@ -1,0 +1,104 @@
+---
+label: rick_steves
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: type
+  label: type
+  hidden: true
+- type: text
+  name: id
+  label: id
+  hidden: true
+- type: text
+  name: permalink
+  label: permalink
+- type: boolean
+  name: has_form
+  label: has_form
+  hidden: true
+- type: boolean
+  name: has_gallery
+  label: has_gallery
+  hidden: true
+- type: field_group
+  name: meta
+  label: meta
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: http_desc
+    label: http_desc
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: keywords
+    label: keywords
+  - type: text
+    name: abstract
+    label: abstract
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: copyright
+    label: copyright
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: field_group
+  name: gallery
+  label: gallery
+  fields:
+  - type: number
+    name: items_per_row
+    label: items_per_row
+    hidden: true
+  - type: boolean
+    name: is_gallery
+    label: is_gallery
+    hidden: true
+  - type: text
+    name: captions_style
+    label: captions_style
+    hidden: true
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: field_group
+      name: image
+      label: image
+      fields:
+      - name: thumb
+        type: text
+        config:
+          required: false
+        label: thumb
+      - type: text
+        name: alt
+        label: alt
+      - type: boolean
+        name: is_link
+        label: is_link
+        hidden: true
+    - type: text
+      name: caption
+      label: caption
+- type: textarea
+  name: extra
+  label: extra
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown

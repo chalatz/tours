@@ -1,0 +1,117 @@
+---
+layout: default
+---
+
+<main class="container page about-us">
+
+  <div class="page__headings">
+  
+    <h1 class="page__title page__title--about_page">
+      {{- page.title -}}
+    </h1>
+
+    {%- if page.subtitle -%}
+      <h2 class="page__subtitle page__subtitle--about_page">
+        {{- page.subtitle -}}
+      </h2>
+    {%- endif -%}
+
+    {%- if page.desc -%}
+      <h3 class="page__desc page__desc--about_page">
+        {{- page.desc -}}
+      </h3>
+    {%- endif -%}
+
+  </div>
+
+  <section class="page__content">
+    {{ content }}
+  </section>
+
+  <section class="about-us__profile page__section page__content row">
+
+    <h3 class="page__section-heading">
+        {{- page.profile.title -}}
+    </h3>
+  
+    <div class="about-us__profile-img">
+        <img src="{{- page.profile.img.src -}}" alt="{{- page.profile.img.alt -}}">
+    </div>
+
+    <div class="about-us__profile-content">
+        {{ page.profile.content | markdownify }}
+        <p class="centered italic">
+          {{- page.profile.message -}}
+        </p>
+    </div>
+
+    <div class="page__gallery page__gallery--about_page cols cols-{{ page.gallery.items_per_row }}">
+      {%- for item in page.gallery.items -%}
+        <div class="page__gallery-item page__gallery-item--about_page col col-of-{{ page.gallery.items_per_row }} col-{{ forloop.index }}-of-{{ page.gallery.items_per_row }}">
+          {%- if item.image.is_link == true -%}
+            <a href="{{- item.url -}}">
+              <img class="page__gallery-item-img" src="{{- item.image.thumb -}}" alt="{{- item.image.alt -}}">
+            </a>
+          {%- elsif page.gallery.is_gallery -%}
+            <a href="{{- item.image.href -}}" data-fancybox="tour-gallery" data-caption="{{- item.caption | escape -}}">
+              <img class="page__gallery-item-img" src="{{- item.image.thumb -}}" alt="{{- item.image.alt -}}">
+            </a>
+          {%- else -%}
+            <img class="page__gallery-item-img" src="{{- item.image.thumb -}}" alt="{{- item.image.alt -}}">
+          {%- endif -%}
+          {%- if item.image.is_link == true -%}
+            <a href="{{- item.url -}}" class="page__gallery-item-caption page__gallery-item-caption--link page__gallery-item-caption--about_page {% if page.gallery.captions_style == 'italic' %}photo-tour__gallery-caption page__gallery-item-caption--italic{% endif %}">
+              {%- if page.gallery.captions_style == 'italic' -%}
+                {{- item.caption -}}
+              {%- else -%}
+                {{- item.caption | upcase -}}
+              {%- endif -%}
+            </a>
+          {%- else -%}
+            <span class="page__gallery-item-caption page__gallery-item-caption--span page__gallery-item-caption--link page__gallery-item-caption--about_page {% if page.gallery.captions_style == 'italic' %}photo-tour__gallery-caption page__gallery-item-caption--italic{% endif %}">
+              {%- if page.gallery.captions_style == 'italic' -%}
+                {{- item.caption -}}
+              {%- else -%}
+                {{- item.caption | upcase -}}
+              {%- endif -%}
+            </span>
+          {%- endif -%}
+        </div>
+      {%- endfor -%}
+    </div>
+
+  </section>
+
+  <section class="about-us__info page__content">
+    <div class="about-us__info-content">
+        {%- for item in page.info.items -%}
+            <div class="about-us__info-item">
+                {{ item | markdownify }}
+            </div>
+        {%- endfor -%}
+    </div>
+  </section>
+
+</main>
+
+<div class="page__recommendations-1">
+  {% include home/recommendations-1.html %}
+</div>
+
+{% include home/sites.html %}
+
+<section id="cta-home" class="home-section cta-home">
+  <div class="container">
+      <p class="cta-home__item">
+          Not finding what you are looking for?
+      </p>
+      <p class="cta-home__item">
+          No problem, we can create and customize a personalized itinerary for you.  Tell us about your Tour!
+      </p>
+      <a href="./contact_us.htm" class="cta-home__button">
+          CONTACT US
+      </a>
+  </div>
+</section>
+
+{% include home/recommendations-2-alt.html %}

@@ -1,0 +1,10 @@
+items:
+  - img: './img/header/1.jpg'
+    heading: '“Rhodes Private Tours”'
+    desc: 'Redefining Rhodes Tour Experiences'
+  - img: './img/header/2.jpg'
+    heading: 'Rhodes Off the Beaten Path Tours'
+    desc: '100% Private and Customizable to your Specific Interests'
+  - img: './img/header/3.jpg'
+    heading: 'Rhodes Private Guided Tours'
+    desc: 'The Most Delicate Custom Experiences'

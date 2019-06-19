@@ -1,0 +1,42 @@
+<div class="tour__other-tours{% if include.classes %} {{ include.classes }}{% endif %}">
+
+    <div class="centered container tours-page__suggestions">
+        {%- for tour_type in site.data.tour_types -%}
+            <div class="tours-page__suggestion">
+                {%- if page.is_of == tour_type.id2 -%}
+                    <span class="private-tours-suggestions__span private-tours-suggestions__span--tours-page {{ tour_type.classes }}">
+                        {%- if page.type == 'driving_tours_page' or page.type == 'walking_tours_page' or page.type == 'guided_tours_page' -%}
+                            {{- tour_type.text_not_link -}}
+                        {%- else -%}
+                            {{- tour_type.text -}}
+                        {%- endif -%}
+                    </span>
+                {%- endif -%}
+            </div>
+        {%- endfor -%}
+    </div>
+
+    <div class="container tour__other-tours-items">
+        {%- if page.type == 'walking_tours_page' -%}
+            {%- assign the_other_tours = site.data.walking_tours.items -%}
+        {%- elsif page.type == 'guided_tours_page' -%}
+            {%- assign the_other_tours = site.data.guided_tours.items -%}
+        {%- else -%}
+            {%- assign the_other_tours = site.data.tours -%}
+        {%- endif -%}
+        {% for item in the_other_tours %}
+            {% if page.id == item.id %}
+                <span class="tour__other-tours-item active ">{{- item.name | upcase -}}</span>
+            {% else %}
+                <a class="tour__other-tours-link tour__other-tours-item bg-color-{{ the_type }}" href="{{- item.url -}}">{{- item.name | upcase -}}</a>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="centered">
+        <a href="./destinations_rhodes_greece.htm" class="tour__cta-link tour__cta-link--black">
+            VIEW DESTINATIONS IN RHODES GREECE
+       </a>
+    </div>
+
+</div>

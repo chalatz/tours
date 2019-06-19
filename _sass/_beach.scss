@@ -1,0 +1,54 @@
+.beach-site {
+
+    margin-bottom: 0;
+    padding-bottom: 0;
+
+    &__info-section {
+        text-align: center;
+    }
+
+    & &__info-items {
+        list-style: none;
+        padding-left: 0;
+        display: inline-block;
+        text-align: left;
+        .beach-site__info-item {
+            font-weight: normal;
+            line-height: 1.6;
+            font-size: 1.1rem;
+        }
+    }
+
+    &__content {
+        font-size: 1.1rem;
+        line-height: 1.6;
+    }
+    
+}
+
+.more-beaches {
+
+    @include clearfix;
+    padding-top: 1rem;
+
+    &__title {
+        text-align: center;
+        font-size: 1.5rem;
+        margin-top: 0;
+    }
+
+    &__item {
+        color: $darkblue;
+        background: transparent;
+        border: 2px solid $darkblue;
+        transition: background-color .1s linear;
+        &:hover {
+            border-color: $red;
+        }
+        &.active {
+            transition: none;
+            border-color: $red;
+        }
+    }
+
+}

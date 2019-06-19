@@ -1,0 +1,109 @@
+- name: 'Best of Rhodes-DT1'
+  url: ./best_of_rhodes_tours_greece.htm
+  id: best_of_rhodes
+  type: driving
+
+- name: 'Rhodes Full Day-DT2'
+  url: ./fullday_private_tours_east_west_coast.htm
+  id: fullday
+  type: driving
+
+- name: 'Rhodes West Coast-DT3'
+  url: ./halfday_private_tours_west_coast.htm
+  id: west_coast
+  type: driving
+
+- name: 'Jewish Sites Plus-DT4'
+  url: ./Jewish_sites_tours_greece.htm
+  id: jewish_sites
+  type: driving
+
+- name: 'Rhodes Wine Tour-DT5'
+  url: ./Rhodes rhodes_wine_tours_wineries_greece.htm
+  id: wine_tours
+  type: driving
+
+- name: 'Rhodes Kids Tour-DT6'
+  url: ./kids_tours_fun_children.htm
+  id: kids_tours
+  type: driving
+
+- name: 'Beach Tour of Rhodes-DT7'
+  url: ./beach_tour_of_rhodes.htm
+  id: beach_tour
+  type: driving
+
+- name: 'South West Coast Tour-DT8'
+  url: ./south_west_coast.htm
+  id: south_west
+  type: driving
+
+- name: 'Rhodes Nature Tour-DT9'
+  url: ./nature_tour.htm
+  id: nature
+  type: driving
+
+- name: 'Through the Island-DT10'
+  url: ./island_tour.htm
+  id: through_the_island
+  type: driving
+
+- name: 'Best Attractions-GT1'
+  url: ./best_attractions_in_rhodes.htm
+  id: guided_best_attractions
+  type: guided
+
+- name: 'Best off & Lunch Break-GT2'
+  url: ./full_day.htm
+  id: guided_best_full_day
+  type: guided
+
+- name: 'West Coast of Rhodes-GT3'
+  url: ./west_coast.htm
+  id: guided_west_coast
+  type: guided
+
+- name: 'Jewish Heritage Plus-GT4'
+  url: ./jewish_heritage.htm
+  id: guided_jewish_heritage
+  type: guided
+
+- name: 'Ancient & Medieval-GT5'
+  url: ./ancient_medieval.htm
+  id: guided_ancient_medieval
+  type: guided
+
+- name: 'The Knights of St John-GT6'
+  url: ./knights-of-st-John.htm
+  id: guided_knights_of_st_john
+  type: guided
+
+- name: 'Natural Attractions-GT7'
+  url: ./natural_attractions.htm
+  id: guided_natural_attractions
+  type: guided
+
+- name: 'Rhodes Landscape Tour-GT8'
+  url: ./landscape_tour.htm
+  id: guided_landscape
+  type: guided
+
+- name: 'Rhodes Scenic Tour-GT9'
+  url: ./scenic_tour.htm
+  id: guided_scenic
+  type: guided
+
+- name: 'Town Walking Tour-WT1'
+  url: ./old_town_walking_tour.htm
+  id: walking_old_town
+  type: walking
+
+- name: 'Knights Hospitallers-WT2'
+  url: ./knights_hospitallers.htm
+  id: walking_knights_hospitallers
+  type: walking
+
+- name: 'Rhodes By Night Tour-WT3'
+  url: ./rhodesnightlife_rhodesbynight.htm
+  id: walking_rhodesnightlife_rhodesbynight      
+  type: walking

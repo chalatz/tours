@@ -1,0 +1,225 @@
+.site-menu {
+
+    margin: .2rem 0 0;
+    background-color: $darkblue;
+    position: sticky;
+    top: -1px;
+    z-index: 1;
+    border-bottom: 2px solid $darkred;
+
+    @include breakpoint(large) {
+        background-color: inherit;
+    }
+
+    &__header {
+        padding: .4rem .5rem;
+        cursor: pointer;
+        color: #eee;
+        transition: background-color .2s ease-out, color .2s ease-out;
+        position: relative;
+        &:hover {
+            background-color: $darkishblue;
+        }
+
+        @include breakpoint(large) {
+            display: none;
+        }
+
+    }
+
+    &__header-item {
+        display: inline-block;
+        vertical-align: middle;
+        font-size: 1.8rem;
+        
+    }
+
+    &__text {
+        margin-left: .5rem;
+    }
+
+    &__logo {
+        position: absolute;
+        top: 5px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    &__logo-img {
+        width: 2rem;
+    }
+
+    &__items-container {
+        @include breakpoint(large) {            
+            width: 99%;
+        }
+    }
+
+    &__items {
+        display: none;
+        position: absolute;
+        top: initial;
+        left: 0;
+        width: 100%;
+        list-style: none;
+        margin: 0;
+        padding: 0 0 1rem 0;
+        background-color: $darkishblue;
+        // box-shadow: 0 3px 5px rgba(57,63,72,0.7);
+
+        @include breakpoint(large) {
+            display: block !important;
+            position: static;
+            padding: 0;
+            @include clearfix;
+        }
+
+
+        &--secondary {
+            display: block;
+            position: static;
+            padding: 0;
+        }
+
+    }
+
+    &__items-container {
+        @media (max-width: 1024px){
+            width: 100%;
+        }
+        
+    }
+
+    &__item {
+        text-transform: uppercase;
+        margin-bottom: .2rem;
+        font-size: 1.1rem;
+        color: #fff;
+        transition: background-color .2s ease-out, color .2s ease-out;
+        &:hover,
+        &--active {
+            background-color: $darkred;
+            .site-menu__subitems {
+                background-color: $darkishblue;
+            }
+        }
+
+        @include breakpoint(large) {
+            float: left;
+            margin-bottom: 0;
+            font-size: 1rem;
+        }
+
+        @include breakpoint(semi_large) {
+            font-size: 1.1rem;
+        }
+        
+        @include breakpoint(larger) {
+            font-size: 1.15rem;
+        }
+
+        &--secondary {
+            display: block;
+            border-bottom: 2px solid $darkred;
+            margin-bottom: 0;
+            @include breakpoint(small) {
+                display: inline-block;
+            }
+            @include breakpoint(medium) {
+                margin-right: 10%;
+                &:last-child {
+                    margin-right: 0;
+                }
+            }
+        }
+
+        &--with-subitems {
+            @include breakpoint(large) {
+                position: relative;
+            }
+        }
+
+    }
+
+    &__link {
+        display: block;
+        padding: .5rem;
+        text-decoration: none;
+        color: inherit;
+        @include breakpoint(semi_large) {
+            padding: .5rem .55rem;
+        }
+        @include breakpoint(larger) {
+            padding: .5rem .65rem;
+        }
+    }
+
+    &--secondary {
+        position: static;
+        text-align: center;
+        margin-bottom: 2rem;
+        border: none;
+    }
+
+    &__angle-icon {
+        margin-left: .5rem;
+        @include breakpoint(large) {
+            margin-left: 0.3rem;
+        }
+    }
+
+    &__subitems {
+        color: #fff;
+        display: none;
+        @include breakpoint(large) {
+            position: absolute;
+            top: 33px;
+            left: 0;
+            background-color: $darkishblue;
+            border-bottom-left-radius: 6px;
+            border-bottom-right-radius: 6px;
+            border-left: 1px solid $darkred;
+            border-right: 1px solid $darkred;
+            border-bottom: 1px solid $darkred;
+        }
+
+        @include breakpoint(semi_large) {
+            top: 36px;
+        }
+    }
+
+    &__subitem {
+        transition: background-color .2s ease-out, color .2s ease-out;
+        &:not(:last-child){
+            padding-bottom: .25rem;
+        }
+        @include breakpoint(large) {
+            &:last-child {
+                border-bottom-left-radius: 6px;
+                border-bottom-right-radius: 6px;
+            }
+        }
+        &:hover,
+        &--active {
+            background-color: $darkred;
+        }
+    }
+
+    &__sublink {
+        padding-left: 1.5rem;
+        white-space: nowrap;
+        @include breakpoint(large) {
+            padding-left: 0.7rem;
+        }
+    }
+
+    &--mobile {
+        height: 100vh;
+        overflow-y: auto;
+        @include breakpoint(large) {
+            height: auto;
+            overflow-y: visible;
+        }
+    }
+
+}

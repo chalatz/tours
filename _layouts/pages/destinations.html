@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+{%- if page.head_photo -%}
+  <section class="head-photo">
+    <img src="{{- page.head_photo.src -}}" alt="{{- page.head_photo.alt -}}">
+  </section>
+{%- endif -%}
+
+<h1 class="destinations__title">
+    {{- page.title | upcase -}}
+</h1>
+
+<section class="container page page--general">
+  <section class="page__content">
+    {%- if page.content -%}
+      <div class="page__section page__section--intro">
+        {{ content }}
+      </div>
+    {%- endif -%}
+  </section>
+</section>
+
+<main class="destinations">
+  {%- include partials/destinations.html -%}
+</main>
+
+<section class="container page page--general">
+  {%- if page.links -%}
+    <div class="centered container tours-page__suggestions">
+        {%- for data_link in site.data.tour_types -%}
+            <div class="tours-page__suggestion">
+
+            {%- for page_link in page.links -%}
+              {%- if data_link.id == page_link -%}
+                <a class="private-tours-suggestions__link private-tours-suggestions__link--tours-page {{ data_link.classes }}" href="{{- data_link.url -}}">
+                  {{- data_link.text -}}
+                </a>
+              {%- endif -%}
+            {%- endfor -%}
+                
+            </div>
+        {%- endfor -%}
+    </div>
+  {%- endif -%}
+</section>
+
+<section id="cta-home" class="home-section cta-home">
+  <div class="container">
+      <p class="cta-home__item">
+          Not finding what you are looking for?
+      </p>
+      <p class="cta-home__item">
+          No problem, we can create and customize a personalized itinerary for you.  Tell us about your Tour!
+      </p>
+      <a href="./contact_us.htm" class="cta-home__button">
+          CONTACT US
+      </a>
+  </div>
+</section>
+
+<div class="tours-page__banners tours-page__banners--tours-page">
+  {% include partials/tour-banners.html %}
+</div>

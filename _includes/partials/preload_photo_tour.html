@@ -1,0 +1,11 @@
+<div class="preload">
+    {%- for section in page.sections -%}
+        {%- if section.gallery_rows -%}
+            {%- for row in section.gallery_rows -%}
+                {%- for figure in row.figures -%}
+                    <img src="{{- figure.href -}}" width="1" height="1" />
+                {%- endfor -%}
+            {%- endfor -%}
+        {%- endif -%}
+    {%- endfor -%}
+</div>

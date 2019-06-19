@@ -1,0 +1,67 @@
+$blue: #7fa2ca;
+$lightblue: #dbe6f1;
+$lighterblue: lighten($blue, 30%);
+$darkishblue: darken($blue, 15%);
+$darkblue: darken($blue, 20%);
+$darkerblue: darken($blue, 35%);
+
+$gray: #666;
+$darkgray: darken($gray, 15%);
+$darkergray: darken($gray, 20%);
+$lightgray: #ebebeb;
+$darkerlightgray: darken(#fff, 10%);
+$lightergray: lighten($lightgray, 2%);
+
+$red: #fa320a;
+$darkred: darken($red, 20%);
+$lightred: lighten($red, 10%); 
+$lighterred: lighten($red, 15%);
+
+$green: #4CAF50;
+$lightgreen: #8BC34A;
+$darkgreen: darken($green, 20%);
+
+$driving: #0070c0;
+$guided: #7030a0;
+$walking: #4c7430;
+
+@mixin breakpoint($point) {
+  @if $point == larger {
+    @media (min-width: 1200px) { @content; }
+  }
+  @if $point == semi_large {
+    @media (min-width: 1120px) { @content; }
+  }
+  @if $point == large {
+    @media (min-width: 1024px) { @content; }
+  }
+  @if $point == medium {
+    @media (min-width: 768px) { @content; }
+  }
+  @else if $point == small {
+    @media (min-width: 576px) { @content; }
+  }
+  @else if $point == smaller {
+    @media (min-width: 425px) { @content; }
+  }
+}
+
+@mixin clearfix {
+    &:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+}
+
+@mixin expand($color){
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: -9999px;
+  right: 0;
+  border-left: 9999px solid $color;
+  box-shadow: 9999px 0 0 $color;
+}

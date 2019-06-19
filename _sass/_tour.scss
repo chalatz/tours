@@ -1,0 +1,346 @@
+.tour {
+
+    &__heading {
+        text-align: center;
+        color: $darkishblue;
+        text-shadow: 1px 1px 1px #ebebeb;
+        font-size: 1.8rem;
+
+        &--tour {
+            text-align: left;
+            color: $darkishblue;
+            font-size: 1.6rem;
+        }
+
+        &--driving {
+            color: $driving;
+        }
+        &--guided {
+            color: $guided;
+        }
+        &--walking {
+            color: $walking;
+        }
+
+    }
+
+    a {
+        &:hover {
+            color: $red;
+        }
+    }
+
+    p {
+        line-height: 1.5;
+    }
+
+    &__summary {
+        font-size: 1.1rem;
+        line-height: 1.6;
+        &--tour {
+            font-weight: bold;
+            text-align: center;
+        }
+
+        &--list {
+            li{
+             padding: 0 0 .4rem 1rem;
+            }
+        }
+
+    }
+
+    &__h2 {
+        color: $darkishblue;
+        font-size: 1.5rem;
+    }
+
+    &__h3 {
+        color: $red;
+        font-size: 1.3rem;
+    }
+
+    &__overview-list {
+        font-size: 1.1rem;
+        list-style-type: disc;
+        padding-left: 1.5rem;
+        @include breakpoint(small) {
+            padding-left: 2.5rem;
+        }
+        @include breakpoint(medium) {
+            padding-left: 3.5rem;
+        }
+    }
+
+    &__overview-item {
+        line-height: 2;
+    }
+
+    &__gallery {
+
+        text-align: center;
+        @include clearfix;
+
+    }
+
+    &__gallery-item {
+        display: block;
+        &--following {
+            display: none;
+        }
+        @include breakpoint(medium) {
+            display: inline;
+            margin: 0;
+            padding: 0 3px;
+            float: left;
+            width: 20%;
+        }        
+    }
+
+    &__image-link {
+        text-decoration: none;
+        overflow: hidden;
+        transition: opacity .2s linear;
+        &:hover {
+            opacity: .8;
+        }
+    }
+
+    &__content {
+        line-height: 1.5;
+
+        ul {
+            list-style: disc;
+            padding-left: 3rem;
+        }
+
+        &.collapsible {
+            display: none;
+            @include breakpoint(small) {
+                display: block !important;
+            }
+        }        
+    }
+            
+    &__mini-heading {
+        font-weight: bold;
+        text-align: center;
+        font-size: 1.05rem;
+        margin-bottom: -.5rem;
+        &--marginless {
+            margin: 0;
+        }
+    }
+
+    &__read-more {
+
+        @include breakpoint(small) {
+            display: none;
+        }
+
+        &--content {
+            display: inline-block;
+            padding: .3rem 1rem .3rem 0;
+            border-top: 2px solid $red;
+            border-bottom: 2px solid $red;
+            transition: border-color .2s linear;
+        }
+
+        display: block;
+        color: $red;
+        font-size: 1.3rem;
+        margin: 0 auto;
+        margin-top: -.5rem;
+        font-weight: bold;
+        letter-spacing: 1px;
+        cursor: pointer;
+        transition: color .2s linear;
+
+        &:hover {
+           color: $lightred;
+           .tour__read-more--content {
+               border-top-color: $lightred;
+               border-bottom-color: $lightred;
+           }
+        }
+
+        .icon {
+            font-size: 2rem;
+            vertical-align: middle;
+            margin-left: 0.5rem;
+        }
+
+    }
+
+    &__form-section {
+        background-color: $lightergray;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        margin-bottom: 0;
+    }
+
+    &__cta-text {
+        color: $red;
+        font-weight: bold;
+        line-height: 1.4;
+        font-size: 1.1rem;
+        text-align: center;
+    }
+
+    &__footer {
+        margin-top: -2rem;
+        margin-bottom: 0;
+
+        a {
+            font-weight: bold;
+            // color: $darkerblue;
+        }
+
+        .active {
+            color: $red;
+            font-weight: bold;
+            text-decoration: none;
+            &::after {
+                color: inherit;
+            }
+        }
+    }
+
+    &__other-tours {
+        background-color: $lightergray;
+        padding-bottom: 1rem;
+    }
+
+    &__other-tours-items {
+        text-align: center;
+    }
+
+    &__other-tours-item {
+        font-weight: bold;
+        color: #fff;
+        background-color: $gray;
+        border-radius: 4px;
+        text-decoration: none;
+        white-space: nowrap;
+        padding: 8px 12px;
+        margin-bottom: .7rem;
+        transition: background-color .2s ease-in;
+        display: block;
+        width: 100%;
+        &.active {
+            color: #fff;
+            background-color: $red;
+        }
+        @include breakpoint(medium) {   
+            display: inline-block;
+            margin-right: 2rem;
+            width: 45%;
+            &:nth-child(2n) {
+                margin-right: 0;
+            }
+        }
+        @include breakpoint(large) {
+            margin-right: .8rem;
+            &:nth-child(2n) {
+                margin-right: 0.8rem;
+            }
+            width: 30%;
+            // &:last-child {
+            //     margin-right: 0;
+            // }
+        }
+    }
+
+    &__other-tours-link {
+        transition: background-color .2s ease-in;
+        &:hover {
+            color: #fff !important;
+            background-color: $red;
+        }
+    }
+
+    &__cta-links {
+        font-weight: bold;
+        font-size: 1.1rem;
+        text-align: center;
+        margin-bottom: -.8rem;
+        @include breakpoint(large) {
+            margin-bottom: -2rem;
+        }
+    }
+    
+    &__cta-link {
+        color: $darkergray;
+        display: block;
+        margin: 1.5rem 0 1rem;
+        @include breakpoint(large) {
+            display: inline-block;
+            &:first-child {
+                margin-right: 2rem;
+            }
+            &:visited {
+                color: $darkergray;
+            }
+        }
+
+        &--black {
+            color: #000;
+            font-weight: bold;
+            font-size: 1.4rem;
+            &:visited {
+                color: #000;
+            }
+        }
+    }
+
+}
+
+ul.tour__summary--list {
+    list-style: inside;
+}
+
+.faq {
+
+    &__a {
+        @include breakpoint(medium) {
+            display: block !important;
+        }
+    }
+
+    &__q {
+        font-weight: bold;
+        display: block;
+        cursor: pointer;
+        transition: color .2s linear;
+        &:hover {
+            color: $lightred;
+        }
+        @include breakpoint(medium) {
+            transition: none;
+            cursor: initial;
+            &:hover {
+                color: inherit;
+            }
+        }
+    }
+
+    &__q-text {
+        display: block;
+        margin-left: 1.3rem;
+        @include breakpoint(medium) {
+            margin-left: 0;
+        }
+    }
+
+    &__icon {
+        float: left;
+        margin-top: -0.5rem;
+        font-size: 1.5rem;
+        transition: transform .2s linear;
+        
+        @include breakpoint(medium) {
+            display: none;
+        }
+    }
+
+}

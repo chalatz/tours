@@ -1,0 +1,38 @@
+---
+layout: plain-page
+---
+
+<main class="container page faq-page">
+
+  <div class="page__headings">
+  
+    <h1 class="page__title page__title--plain-page page__title--faq_page">
+      {{- page.title |upcase -}}
+    </h1>
+
+  </div>
+
+  <section class="page__content page__content--plain-page">
+    <ul class="faq-page__items">
+        {%- for item in page.items -%}
+          <li class="faq-page__item">
+            <div class="faq-page__question">
+              Q: {{ item.q }}
+            </div>
+            <div class="faq-page__answer">
+              <strong>A:</strong> {{ item.a }}
+            </div>
+            {%- assign more_ans_size = item.more_answers | size -%}
+            {%- if more_ans_size > 0 -%}
+              {%- for ans in item.more_answers -%}
+                <div class="faq-page__answer faq-page__answer--more">
+                  <strong>A:</strong> {{ ans }}
+                </div>                
+              {%- endfor -%}
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+    </div>
+  </section>
+
+</main>

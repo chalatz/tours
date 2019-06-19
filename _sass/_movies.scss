@@ -1,0 +1,37 @@
+.movies {
+    @include clearfix;
+}
+
+.movie {
+
+    margin-bottom: 2rem;
+
+    &__title-wrapper,
+    &__image-wrapper {
+        text-align: center;
+    }
+
+    &__body {
+        ul {
+            @include breakpoint(large) {
+                padding-left: 2rem;
+            }
+        }
+        @include breakpoint(medium) {
+            a {
+                word-break: break-all;
+            }
+        }
+    }
+    
+    @include breakpoint(medium) {
+        float: left;
+        width: 33%;
+        padding: 0 .5rem;
+        &:nth-child(3n + 1) {
+            clear: left;
+        }
+    }
+    
+
+}

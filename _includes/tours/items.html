@@ -1,0 +1,36 @@
+{%- if page.id == 'driving_tours' -%}
+    {%- assign the_tours = site.data.driving_tours.items -%}
+    {%- assign tour_type = 'driving' -%}
+{%- elsif page.id == 'guided_tours' -%}
+    {%- assign the_tours = site.data.guided_tours.items -%}
+    {%- assign tour_type = 'guided' -%}
+{%- elsif page.id == 'walking_tours' -%}
+    {%- assign the_tours = site.data.walking_tours.items -%}
+    {%- assign tour_type = 'walking' -%}
+{%- endif -%}
+
+{%- for tour in the_tours -%}
+    <div class="private-tours-suggestions__item">
+        
+        <a class="private-tours-suggestions__img-link" href="{{- tour.url -}}">
+            <img src="{{- tour.img -}}" alt="" class="private-tours-suggestions__img private-tours-suggestions__img--{{ tour_type }}">
+        </a>
+        <div class="private-tours-suggestions__item-content">
+            <p>
+                <a class="private-tours-suggestions__link private-tours-suggestions__link--{{ tour_type }}" href="{{- tour.url -}}">
+                    {{- tour.name | upcase -}}
+                </a>                            
+            </p>
+            <p>
+                {{ tour.long_desc }}
+            </p>
+            <p>
+                <strong>{{ tour.duration }}</strong>
+            </p>
+            <p>
+                <strong>{{ tour.notes }}</strong>
+            </p>
+        </div>
+            
+    </div>
+{%- endfor -%}

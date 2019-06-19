@@ -1,0 +1,13 @@
+<div class="tour__gallery">
+    {% for item in include.gallery %}
+        {%- if item.href -%}
+            <a href="{{- item.href -}}" data-fancybox="tour-gallery" class="tour__gallery-item tour__image-link {% if item.position %}tour__gallery-item--{{- item.position -}}{% endif %}">
+                <img src="{{- item.thumb -}}" class="tour__image" alt="{{- item.alt -}}">
+            </a>
+        {%- else -%}
+            <span class="tour__gallery-item {% if item.position %}tour__gallery-item--{{- item.position -}}{% endif %}">
+                <img src="{{- item.thumb -}}" class="tour__image" alt="{{- item.alt -}}">
+            </span>
+        {%- endif -%}            
+    {% endfor %}            
+</div>

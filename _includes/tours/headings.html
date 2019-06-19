@@ -1,0 +1,17 @@
+{%- if page.id == 'driving_tours' -%}
+    {%- assign tour_type = 'driving' -%}
+{%- elsif page.id == 'guided_tours' -%}
+    {%- assign tour_type = 'guided' -%}
+{%- elsif page.id == 'walking_tours' -%}
+    {%- assign tour_type = 'walking' -%}
+{%- endif -%}
+
+<section class="container tours-page__headings tours-page__headings--{{ tour_type }}">
+    <h1 class="container tours-page__heading tours-page__heading--title">
+        {{- page.title -}}
+    </h1>
+
+    <h2 class="container tours-page__heading tours-page__heading--subtitle">
+        {{- page.subtitle -}}
+    </h2>
+</section>

@@ -1,0 +1,157 @@
+---
+label: About page
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: true
+  default: ''
+- name: id
+  label: Id
+  type: text
+  hidden: true
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: true
+  default: ''
+- name: meta
+  label: Meta
+  type: field_group
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: http_desc
+    label: Http desc
+    type: textarea
+    hidden: false
+    default: ''
+  - name: description
+    label: Description
+    type: text
+    hidden: false
+    default: ''
+  - name: keywords
+    label: Keywords
+    type: textarea
+    hidden: false
+    default: ''
+  - name: author
+    label: Author
+    type: text
+    hidden: false
+    default: ''
+  - name: copyright
+    label: Copyright
+    type: text
+    hidden: false
+    default: ''
+  - name: abstract
+    label: Abstract
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: desc
+  label: Desc
+  type: textarea
+  hidden: false
+  default: ''
+- name: profile
+  label: Profile
+  type: field_group
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: img
+    label: Img
+    type: field_group
+    fields:
+    - name: src
+      label: Src
+      type: text
+      hidden: false
+      default: ''
+    - name: alt
+      label: Alt
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  - name: content
+    label: Content
+    type: textarea
+    hidden: false
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: text
+    name: message
+    label: Message
+  hidden: false
+  default: ''
+- type: field_group
+  name: gallery
+  label: Gallery
+  fields:
+  - type: field_group_list
+    name: items
+    label: Images
+    fields:
+    - type: field_group
+      name: image
+      label: Image
+      fields:
+      - type: file
+        name: thumb
+        label: Thumb
+      - type: text
+        name: alt
+        label: Keywords
+    - type: text
+      name: caption
+      label: Caption
+- name: info
+  label: Info
+  type: field_group
+  fields:
+  - name: items
+    label: Items
+    type: list
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- type: include
+  name: end_page
+  label: End page
+  template: end-page
+pages:
+- pages/info/about.md

@@ -1,0 +1,36 @@
+<div class="page__gallery cols cols-{{ page.gallery.items_per_row }}">
+    {%- for item in page.gallery.items -%}
+        <div class="page__gallery-item col col-of-{{ page.gallery.items_per_row }} col-{{ forloop.index }}-of-{{ page.gallery.items_per_row }}">
+            {%- if item.image.is_link == true -%}
+                <a href="{{- item.url -}}"{% if item.new_window == true %} target="_blank"{% endif %}>
+                    <img class="page__gallery-item-img" src="{{- item.image.thumb -}}" alt="{{- item.image.alt -}}">
+                </a>
+            {%- elsif page.gallery.is_gallery -%}
+                <a href="{{- item.image.href -}}" data-fancybox="tour-gallery" data-caption="{{- item.caption | escape -}}">
+                    <img class="page__gallery-item-img" src="{{- item.image.thumb -}}" alt="{{- item.image.alt -}}">
+                </a>
+            {%- else -%}
+                <img class="page__gallery-item-img" src="{{- item.image.thumb -}}" alt="{{- item.image.alt -}}">
+            {%- endif -%}
+            {%- if item.image.is_link == true -%}
+                <a href="{{- item.url -}}" class="page__gallery-item-caption page__gallery-item-caption--link {% if page.gallery.captions_style == 'italic' %}photo-tour__gallery-caption page__gallery-item-caption--italic{% endif %}">
+                    {%- if page.gallery.captions_style == 'italic' -%}
+                        {{- item.caption -}}
+                    {%- else -%}
+                        {{- item.caption | upcase -}}
+                    {%- endif -%}
+                </a>
+            {%- else -%}
+                {%- if item.caption -%}
+                    <span class="page__gallery-item-caption page__gallery-item-caption--span {% if page.gallery.captions_style == 'italic' %}photo-tour__gallery-caption page__gallery-item-caption--italic{% endif %}">
+                        {%- if page.gallery.captions_style == 'italic' -%}
+                        {{- item.caption -}}
+                        {%- else -%}
+                        {{- item.caption | upcase -}}
+                        {%- endif -%}
+                    </span>
+                {%- endif -%}
+            {%- endif -%}
+        </div>
+    {%- endfor -%}
+</div>

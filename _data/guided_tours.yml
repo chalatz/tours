@@ -1,0 +1,78 @@
+items:
+  - name: 'Best Attractions-GT1'
+    desc: 'This tour is designed for people with limited schedules and cruise ship passengers'
+    long_desc: 'This tour is designed for people with limited schedules and cruise ship passengers: Half Day Private Guided Tour, including the guided walking tour of Rhodes Medieval-Town. The New Town and Old Port. The Panoramic drive of Rhodes Acropolis. The East Coast of the Island, and the guided walking tour of the Village and Acropolis of Lindos.'
+    notes: 'Suggested time for this tour: All the year round'
+    url: ./best_attractions_in_rhodes.htm
+    img: './img/tours-suggestions/GT1.jpg' 
+    duration: 'Duration: 5:00 hours'
+    id: guided_best_attractions
+    home_page: true
+
+  - name: 'Best off & Lunch Break-GT2'
+    desc: 'For people who love exploring historic sites and taste of what the local cuisine has to offer'
+    long_desc: 'The tour is ideal for people who love exploring historic sites and taste of what the local cuisine has to offer: Full Day Private Guided Tour, including the highlights of "Best Attractions" tour, plus more time on the East Coast for delicious Snack or Lunch experience at a seaside village at the Mediterranean Sea right on the water’s edge (scenic)'
+    notes: 'Suggested time for this tour: mid-April to October'
+    url: ./full_day.htm
+    img: './img/tours-suggestions/GT2.jpg' 
+    duration: 'Duration: 7:00 hours'
+    id: guided_best_full_day
+    home_page: true
+
+  - name: 'West Coast of RHODES-GT3'
+    desc: 'Visiting the ancient sites of the West Coast is like travelling back in time'
+    long_desc: 'This tour is packed with historical sites and beautiful sites: Full Day Guided Tour, including the guided walking tour in the Old Town, the New Town, the Panoramic Drive of Rhodes Acropolis, the walking tour of Ancient Kamiros, break for lunch at a seafront restaurant at the Aegean Sea, and on the way back the guided walking tour of Filerimos'
+    notes: 'Suggested time for this tour: April to October'
+    url: ./west_coast.htm
+    img: './img/tours-suggestions/GT3.jpg' 
+    duration: 'Duration: 7:30 hours'
+    id: guided_west_coast
+    home_page: true
+
+  - name: 'Jewish Heritage Plus-GT4'
+    long_desc: 'Catch a glimpse of the old Jewish community that has thrived on Rhodes for centuries: Private Guided Day Tour, including the walking tour of "La Juderia" in the Old Town, the "Kahal Shalom” Synagogue and the Jewish Museum, the walking tour of the Jewish Cemetery, the New Town and Old Port, the Panoramic drive of Rhodes Acropolis, and Acropolis of Lindos.'
+    notes: 'Suggested time for this tour: All the year round '
+    url: ./jewish_heritage.htm
+    img: './img/tours-suggestions/GT4.jpg' 
+    duration: 'Duration: 6:30 hours'
+    id: guided_jewish_heritage
+
+  - name: 'ANCIENT & MEDIEVAL-GT5'
+    long_desc: 'Rhodes island since the antiquity was a crossroad, served as the melting pot for eastern and western cultures: Half Day Private Guided Tour including the walking tour in the Medieval City and a visit to the Grand Master Palace, the New Town and Old Port, the walking tour of the Ancient Acropolis of Rhodes, and the walking tour of the Acropolis of Ancient Ialyssos (Filerimos)'
+    notes: 'Suggested time for this tour: April to October'
+    url: ./ancient_medieval.htm
+    img: './img/tours-suggestions/GT5.jpg' 
+    duration: 'Duration: 4:30 hours'
+    id: guided_ancient_medieval
+
+  - name: 'The Knights OF ST JOHN-GT6'
+    long_desc: 'This tour is for people who are interested in the Knights of the Order of St John (Hospitaller) and their military architecture: Private Guided Day Tour including the walking tour of the Old Town and the Gates, the walking tour of Filerimos, the walking tour of Lindos, and Feraklos Castle in Charaki Village'
+    notes: 'Suggested time for this tour: April to October'
+    url: ./knights-of-st-John.htm
+    img: './img/tours-suggestions/GT6.jpg' 
+    duration: 'Duration: 6:30 hours'
+    id: guided_knights_of_st_john
+
+  - name: 'NATURAL ATTRACTIONS-GT7'
+    long_desc: 'This tour will take you through the blue sea waters, the cool breeze, and the atmospheric corridors of this enchanting island: Private Guided Half Day Tour, including the Kallithea Spa, the Anthony Quinn Bay, the Valley of the Butterflies, the Filerimos Mountain and the Scenic Drive from the East to the West Coast'
+    notes: 'Suggested time for this tour: end-June to mid-September'
+    url: ./natural_attractions.htm
+    img: './img/tours-suggestions/GT7.jpg' 
+    duration: 'Duration: 5:00 hours'
+    id: guided_natural_attractions
+
+  - name: 'LANDSCAPE TOUR-GT8'
+    long_desc: 'The tour has been designed specifically for people that are staying on the island, either on the east or the west coast. Full Day Guided Tour including the East Coast, the Middle of the Island, the West Coast, Free Wine Tasting, Lunch break at the Sea, and Beautiful Vistas'
+    notes: 'Suggested time for this tour: April to October'
+    url: ./landscape_tour.htm
+    img: './img/tours-suggestions/GT8.jpg' 
+    duration: 'Duration: 8:00 hours'
+    id: guided_landscape
+
+  - name: 'RHODES SCENIC TOUR-GT9'
+    long_desc: 'This Half Day Tour is filled with history, scenic and ancient sites. You will take in the sights with fabulous views of the west coast - Aegean Sea, and enjoy the history and natural beauty of Rhodes Island'
+    notes: 'Suggested time for this tour: end June to mid-September'
+    url: ./scenic_tour.htm
+    img: './img/tours-suggestions/GT9.jpg' 
+    duration: 'Duration: 4:30 hours'
+    id: guided_scenic

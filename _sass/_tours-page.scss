@@ -1,0 +1,86 @@
+.tours-page {
+
+    border: none;
+
+    &__headings {
+        margin-bottom: 3rem;
+        
+        &--driving {
+            color: $driving;
+        }
+        &--guided {
+            color: $guided;
+        }
+        &--walking {
+            color: $walking;
+        }
+    }
+
+    &__heading {
+        
+        text-align: center;
+        font-weight: bold;
+
+        &--title {
+            font-size: 1.5rem;
+        }
+
+        &--subtitle {
+            font-size: 1.25rem;
+        }
+
+    }
+
+    &__head-photo {
+        img {
+            width: 100%;
+        }
+    }
+
+    &__desc {
+        background-color: #fff;
+    }
+
+    &__suggestions {
+        margin-top: 1rem;
+        // padding-bottom: 1rem;
+        @include breakpoint(small) {
+            margin-top: 1.5rem;
+        }
+        // @include breakpoint(medium) {
+        //     padding-bottom: 1.5rem;
+        // }
+        &--tours-page {
+            margin-top: -1rem;
+            margin-bottom: -1rem;
+            padding-bottom: 0;
+            @include breakpoint(small) {
+                margin-top: -1rem;
+            }
+            @include breakpoint(medium) {
+                margin-top: 0;
+                padding-bottom: 0;
+            }
+            @include breakpoint(larger) {
+                margin-top: 0;
+            }
+        }
+    }
+
+    &__suggestion:not(:last-child) {
+        margin-bottom: 1rem;
+    }
+
+    &__banners {
+        margin-bottom: -1rem;
+        margin-top: -1.5rem;
+        @include breakpoint(medium) {
+            margin-top: -2.5rem;
+        }
+        .recommendations {
+            margin: 0;
+            padding: .5rem 0 1rem 0;
+        }
+    }
+
+}

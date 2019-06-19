@@ -1,0 +1,20 @@
+<div class="photo-tour__related-tours centered{% if include.modifier %} photo-tour__related-tours--{{ include.modifier }}{% endif %}">
+    <h2 class="photo-tour__related-tours-heading{% if include.modifier %} photo-tour__related-tours-heading--{{ include.modifier }}{% endif %}">
+        RELATED PRIVATE TOURS
+    </h2>
+
+    <p class="container photo-tour__related-tours-items">
+        {% for name in page.related_tours %}
+            {%- for tour in site.data.all_tours -%}
+                {%- if name == tour.name -%}
+                    {%- assign the_name = name -%}
+                    {%- assign the_url = tour.url -%}
+                    {%- assign the_type = tour.type -%}
+                {%- endif -%}
+            {%- endfor -%}
+            <a class="photo-tour__related-tours-link photo-tour__related-tours-link--{{ the_type }}" href="{{- the_url -}}">
+                {{- the_name | upcase -}}
+            </a>            
+        {% endfor %}
+    </p>
+</div>

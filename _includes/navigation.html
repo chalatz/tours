@@ -1,0 +1,35 @@
+<nav id="site-menu" class="site-menu">
+
+    <header id="site-menu__header" class="site-menu__header">
+        <i class="site-menu__header-item site-menu__button fas fa-bars"></i>
+        {%- comment -%} <span class="site-menu__header-item site-menu__text">MENU</span> {%- endcomment -%}
+        <span class="site-menu__header-item site-menu__logo">
+            <img class="site-menu__logo-img" src="./img/rhodes_private_tours_logo-small-white.png" alt="Rhodes Private Tours and Shore Excursions, Private Day Tours, Taxi Tours">
+        </span>
+    </header>
+
+    <ul id="site-menu__items" class="site-menu__items">
+        <div class="container site-menu__items-container">
+            {%- for item in site.data.navigation.main.items -%}
+                {%- assign subitems_size = item.subitems | size -%}
+                <li class="site-menu__item {% if page.type == item.type %}site-menu__item--active{% endif %}{% if subitems_size > 0 %} site-menu__item--with-subitems{% endif %}">
+                    <a class="site-menu__link" href="{{- item.url -}}">{{- item.title | upcase -}}
+                        {%- if subitems_size > 0 -%}
+                            <i class="fas fa-angle-down site-menu__angle-icon tablet-only tablet-only--inline-block"></i>
+                        {%- endif -%}
+                    </a>
+                    {%- if subitems_size > 0 -%}
+                        <ul class="site-menu__subitems">
+                            {%- for subitem in item.subitems -%}
+                                <li class="site-menu__subitem {% if subitem.classes.li %} {{ subitem.classes.li }}{% endif %}">
+                                    <a class="site-menu__link site-menu__sublink" href="{{- subitem.url -}}">{{- subitem.title | upcase -}}</a>
+                                </li>
+                            {%- endfor -%}
+                        </ul>
+                    {%- endif -%}
+                </li>
+            {%- endfor -%}
+        </div>            
+    </ul>
+    
+</nav>

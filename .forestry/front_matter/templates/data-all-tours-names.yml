@@ -1,0 +1,9 @@
+---
+label: Data - All Tours names
+hide_body: true
+fields:
+- name: All tours names
+  label: All tours names
+  type: list
+  hidden: false
+  default: ''

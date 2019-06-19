@@ -1,0 +1,24 @@
+---
+label: End page
+hide_body: true
+display_field: end_page
+fields:
+- type: field_group
+  name: end_page
+  label: End page
+  fields:
+  - type: textarea
+    name: long_text
+    label: Long text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+    default: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
+      Tour Experiences. We deliver Private Custom Tours at very affordable rates All
+      our tours are fully customizable to suit your travel needs, interests, schedules,
+      and dates."
+  - type: text
+    name: short_text
+    label: Short text
+    default: Experts in Rhodes Custom Tours

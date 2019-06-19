@@ -1,0 +1,47 @@
+.about-us {
+
+    &__profile-img {
+        text-align: center;
+        img {
+            width: 40%;
+        }
+        @include breakpoint(medium) {            
+            float: left;
+            width: 15%;
+            text-align: left;
+            img {
+                width: auto;
+            }
+        }
+    }
+
+    &__profile-content {
+        @include breakpoint(medium) {            
+            float: right;
+            width: 80%;
+            p:first-of-type {
+                margin-top: 0;
+            }
+        }
+    }
+
+    &__info {
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+    &__info-content {
+        display: inline-block;
+        text-align: left;
+        p {
+            margin: 0;
+        }
+    }
+
+    &__info-item {
+        &:not(:last-child){
+            margin-bottom: 0.7rem;
+        }
+    }
+
+}

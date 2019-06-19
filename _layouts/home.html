@@ -1,0 +1,100 @@
+---
+layout: default
+---
+
+<div class="separator separator--home"></div>
+
+<section id="private-tours-suggestions" class="home-section private-tours-suggestions private-tours-suggestions--home">
+
+    <div class="general-info general-info--top home_section">
+        <div class="container">
+            <div class="private-tours-suggestions__subtitle private-tours-suggestions__subtitle--top">
+                {{ page.maximize.text | markdownify }}
+            </div>
+        </div>
+    </div>
+    
+    <div class="separator separator--home"></div>
+
+    <div class="container home-section__content home-section__content--tours">
+
+        <div class="private-tours-suggestions__items">
+
+            {%- for tour in site.data.driving_tours.items -%}
+                {%- if tour.home_page == true -%}
+                    <div class="private-tours-suggestions__item">
+                            <a class="private-tours-suggestions__img-link" href="{{- tour.url -}}">
+                                <img src="{{- tour.img -}}" alt="" class="private-tours-suggestions__img private-tours-suggestions__img--driving">
+                            </a>
+                            <div class="private-tours-suggestions__item-content">
+                                <p>
+                                    <a class="private-tours-suggestions__link private-tours-suggestions__link--driving" href="{{- tour.url -}}">
+                                        {{- tour.name | upcase -}}
+                                    </a>                            
+                                </p>
+                                <p>
+                                    {{ tour.desc }}
+                                </p>
+                                <p>
+                                    {{ tour.duration }}
+                                </p>
+                            </div>
+                    </div>
+                {%- endif -%}                        
+            {%- endfor -%}
+
+            <div class="centered container">
+                <a class="private-tours-suggestions__link private-tours-suggestions__link--view-all-home private-tours-suggestions__link--driving" href="./rhodes_island_Greece_private_tours.htm">
+                    VIEW ALL CHAUFFEUR DRIVEN TOURS
+                </a>
+            </div>
+
+            {%- for tour in site.data.guided_tours.items -%}
+                {%- if tour.home_page == true -%}
+                    <div class="private-tours-suggestions__item">
+                            <a class="private-tours-suggestions__img-link" href="{{- tour.url -}}">
+                                <img src="{{- tour.img -}}" alt="" class="private-tours-suggestions__img private-tours-suggestions__img--guided">
+                            </a>
+                            <div class="private-tours-suggestions__item-content">
+                                <p>
+                                    <a class="private-tours-suggestions__link private-tours-suggestions__link--guided" href="{{- tour.url -}}">
+                                        {{- tour.name | upcase -}}
+                                    </a>                            
+                                </p>
+                                <p>
+                                    {{ tour.desc }}
+                                </p>
+                                <p>
+                                    {{ tour.duration }}
+                                </p>
+                            </div>
+                    </div>
+                {%- endif -%}                        
+            {%- endfor -%}
+
+            <div class="centered container">
+                <a class="private-tours-suggestions__link private-tours-suggestions__link--view-all-home private-tours-suggestions__link--guided" href="./guided_tours.htm">
+                    VIEW ALL PRIVATE GUIDED TOURS
+                </a>
+            </div>
+                            
+        </div>
+
+    </div>
+
+
+</section>   
+
+{% include home/recommendations-1.html %}
+
+{% include home/our-goal.html %}
+
+{% include home/sites.html %}
+
+{%- include home/not-finding.html -%}
+
+{%- if page.trip_advisor_alt == true -%}
+    {% include home/recommendations-2-alt.html %}
+{%- else -%}
+    {% include home/recommendations-2.html %}
+{%- endif -%}

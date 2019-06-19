@@ -1,0 +1,121 @@
+.tripadvisor {
+
+    &__gallery {
+
+        .page__gallery-item {
+            text-align: center;
+        }
+
+        .page__gallery-item-img {
+            max-width: 116px;
+        }
+
+        .col-of-5 {
+            @include breakpoint(small) {
+                float: left;
+                width: 20%;
+                padding: 0 .5rem;
+                &:nth-child(5n + 1) {
+                    clear: left;
+                }
+            }
+            img {
+                width: 100%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+
+    }
+
+}
+
+.reviews-comments {
+
+    &__years-list {
+        text-align: center;
+        &-item {
+            display: inline-block;
+            margin: 0 .5rem;
+            line-height: 2;
+        }
+        &-link {
+            font-size: 1.1rem;
+            color: $darkgray;
+            font-weight: bold;
+        }
+    }
+
+    &__content {
+        p {
+            padding: .5rem;
+            margin: .1rem 0;
+        }
+        p:nth-child(2n){
+            background-color: $lightgray;
+        }
+    }
+
+    &__go-to-top {
+        margin-top: 0.8rem;
+    }
+
+    &__go-to-top-link {
+        background-color: $darkblue;
+        color: #fff;
+        font-weight: normal;
+        border-radius: 4px;
+        text-decoration: none;
+        white-space: nowrap;
+        display: inline-block;
+        padding: 8px 12px;
+        transition: background-color .05s ease-in;
+        &:hover {
+            background-color: $red;
+            color: #fff !important;
+        }
+    }
+
+}
+
+.tripadvisor {
+
+    &__banner-img {
+        margin-right: .5rem;
+        @include breakpoint(smaller) {
+            margin-right: 2rem;
+        }
+        @include breakpoint(medium) {
+            margin-right: 4rem;
+        }
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+
+    &__gallery {
+        margin-top: 1.5rem;
+        margin-bottom: -1.5rem;
+        @include breakpoint(smaller) {
+            margin-bottom: -1rem;
+        }
+        a {
+            text-decoration: none;
+        }
+        .page__gallery-item {
+            margin-bottom: 0 !important;
+            @include breakpoint(smaller) {
+                margin-bottom: 1rem !important;
+            }
+            @include breakpoint(smaller) {
+                margin-bottom: 0 !important;
+            }
+        }
+        .col-4-of-6,
+        .col-5-of-6,
+        .col-6-of-6 {
+            margin-bottom: 0 !important;
+        }
+    }
+
+}

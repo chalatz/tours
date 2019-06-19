@@ -1,0 +1,21 @@
+<section id="private-tours-info" class="general-info home_section">
+
+    <div class="general-info__title">
+        <div class="container">
+            {%- for line in page.our_goal.title.lines -%}
+                <p class="general-info__title-item">
+                    {{- line.line -}}
+                </p>
+            {%- endfor -%}
+        </div>
+    </div>
+
+    <div class="container">
+        {{ page.our_goal.description | markdownify }}
+               
+        <p class="centered bold">
+            {{- page.our_goal.end_message -}}
+        </p>
+    </div>
+
+</section>

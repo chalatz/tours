@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<section class="tours-page__head-photo">
+    <img src="{{- page.head_photo.src -}}" alt="{{- page.head_photo.alt -}}">
+</section>
+
+<section id="private-tours-suggestions" class="home-section private-tours-suggestions tours-page">
+
+    {%- include tours/headings.html -%}
+
+    <div class="general-info general-info--top home_section tours-page__desc">
+        <div class="container">
+            <div class="private-tours-suggestions__subtitle private-tours-suggestions__subtitle--top private-tours-suggestions__subtitle--tours-page">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+
+    <div class="container home-section__content home-section__content--tours">
+
+        <div class="private-tours-suggestions__items private-tours-suggestions__items--tours-page">
+
+            {%- include tours/items.html -%}
+                            
+        </div>
+
+    </div>
+
+    <div class="centered container tours-page__suggestions tours-page__suggestions--tours-page">
+        {%- for link in site.data.tour_types -%}
+            {%- unless page.id == link.id -%}
+                <div class="tours-page__suggestion">
+                        <a class="private-tours-suggestions__link private-tours-suggestions__link--tours-page {{ link.classes }}" href="{{- link.url -}}">
+                            {{- link.text -}}
+                        </a>
+                </div>
+            {%- endunless -%}
+        {%- endfor -%}
+    </div>
+
+</section>
+
+{% include home/sites.html %}
+
+<section id="cta-home" class="home-section cta-home">
+    <div class="container">
+        <p class="cta-home__item">
+            Not finding what you are looking for?
+        </p>
+        <p class="cta-home__item">
+            No problem, we can create and customize a personalized itinerary for you.  Tell us about your Tour!
+        </p>
+        <a href="./contact_us.htm" class="cta-home__button">
+            CONTACT US
+        </a>
+    </div>
+</section>
+
+<div class="tours-page__banners tours-page__banners--tours-page">
+    {% include partials/tour-banners.html %}
+</div>

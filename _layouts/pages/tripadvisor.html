@@ -1,0 +1,42 @@
+---
+layout: plain-page
+---
+
+<main class="container page tripadvisor">
+
+  <div class="page__headings">
+  
+    <h1 class="page__title page__title--plain-page page__title--tripadvisor_page">
+      {{- page.title -}}
+    </h1>
+
+    {%- if page.subtitle -%}
+      {%- for item in page.subtitle -%}
+        <h2 class="page__subtitle page__subtitle--plain-page page__subtitle--tripadvisor_page">
+          {{- item.heading -}}
+        </h2>
+        {{ item.text | markdownify }}
+      {%- endfor -%}
+    {%- endif -%}
+
+  </div>
+
+  <div class="section centered">
+    {%- for banner in page.banners -%}
+      <img class="tripadvisor__banner-img" src="{{- banner.path -}}" alt="{{- banner.alt_text -}}" style="vertical-align: middle;{% if banner.width %} width: {{ banner.width }};{% endif %}">
+    {%- endfor -%}
+  </div>
+
+  <section class="page__content page__content--plain-page">
+    {{ content }}
+  </section>
+
+  <section class="page__content">
+    {{ page.extra | markdownify }}
+  </section>
+
+  <section class="page__content tripadvisor__gallery">
+    {%- include partials/page-gallery.html -%}
+  </section>
+
+</main>

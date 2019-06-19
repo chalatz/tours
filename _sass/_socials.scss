@@ -1,0 +1,140 @@
+.socials-wrapper {
+    @include clearfix;
+    padding: 0 .5rem;
+    text-align: center;
+    @include breakpoint(small) {
+        padding: 0;
+        text-align: right;
+    }
+    &__items {
+        @include breakpoint(small) {
+            display: inline-block;
+            text-align: left;
+        }
+    }
+}
+
+.socials-text {
+    text-transform: uppercase;
+    margin-bottom: -.2rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: $gray;
+}
+
+.koinonika {
+
+    padding: .8rem 0 .3rem;
+
+    &__eikonidio {
+        background-color: $darkgray;
+        border-radius: 100%;
+        font-size: 1.2rem;
+        padding: 4px;
+        transition: background-color .2s ease-in-out;
+        &::before {
+            position: relative;
+            bottom: 1px;
+        }
+        @include breakpoint(small) {
+            font-size: 1.35rem;
+        }
+        @include breakpoint(large) {
+            padding: 6px;
+        }
+    }
+
+    // @include breakpoint(small) {
+    //     display: inline-block;
+    // }
+
+    &__circle {
+        color: $darkgray;
+        transition: color .2s ease-in-out;
+    }
+
+    &__link {
+        text-decoration: none;
+        margin-right: 1rem;
+        transition: color .2s ease-in-out;
+        color: #fff;
+
+        // @include breakpoint(small) {
+        //     font-size: 2.5rem;
+        // }
+
+        @include breakpoint(large) {
+            // font-size: 2.7rem;
+            margin-right: 8px;
+        }
+
+        &:last-child {
+            margin-right: 0;
+        }
+        &:hover {
+            //color: #495057;
+            .koinonika__circle {
+                color: $gray;
+            }
+        }
+
+        &--fatsobiblio {
+            &:hover {
+                .koinonika__circle {
+                    color: #3b5999;
+                }
+                .koinonika__eikonidio {
+                    background-color: #3b5999;
+                }
+            }
+        }
+        &--titivisma {
+            &:hover {
+                .koinonika__circle {
+                    color: #55acee;
+                }
+                .koinonika__eikonidio {
+                    background-color: #55acee;
+                }
+            }
+        }
+        &--sindesi_mesa {
+            &:hover {
+                .koinonika__circle {
+                    color: #0077B5;
+                }
+                .koinonika__eikonidio {
+                    background-color: #0077B5;
+                }
+            }
+        }
+        &--karfitsoste {
+            &:hover {
+                .koinonika__circle {
+                    color: #bd081c;
+                }
+                .koinonika__eikonidio {
+                    background-color: #bd081c;
+                }
+            }
+        }
+        &--gouglis_sin {
+            &:hover {
+                .koinonika__circle {
+                    color: #dd4b39;
+                }
+                .koinonika__eikonidio {
+                    background-color: #dd4b39;
+                }
+            }
+        }
+
+    }
+
+}
+
+.icon-gouglis_sin {
+    &::before {
+        right: 2px;
+    }
+}

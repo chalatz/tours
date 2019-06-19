@@ -1,0 +1,15 @@
+---
+label: Start page
+hide_body: true
+display_field: start_page
+fields:
+- type: field_group
+  name: start_page
+  label: Start page
+  fields:
+  - type: text
+    label: Title
+    name: title
+  - type: text
+    name: subtitle
+    label: Subtitle
