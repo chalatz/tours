@@ -3,15 +3,16 @@
 
         <p class="tour__cta-text">
             {%- if page.type == 'walking_tours_page' -%}
-                {%- assign type_of_tour = Walking -%}
+                {%- assign type_of_tour = 'Walking' -%}
                 Submit an online request for additional information / prices / cost / reservations, or book now and your <span class="color-walking">PRIVATE WALKING TOUR</span> will be confirmed within 24 hours.
             {%- elsif page.type == 'guided_tours_page' -%}
-                {%- assign type_of_tour = Guided -%}
+                {%- assign type_of_tour = 'Guided' -%}
                 Submit an online request for additional information / prices / cost / reservations, or book now and your <span class="color-guided">PRIVATE GUIDED TOUR</span> will be confirmed within 24 hours.
             {%- elsif page.type == 'driving_tours_page' -%}
-                {%- assign type_of_tour = Driven -%}
+                {%- assign type_of_tour = 'Driven' -%}
                 Submit an online request for additional information / prices / cost / reservations, or book now and your <span class="color-driving">PRIVATE CHAUFFEURED TOUR</span> will be confirmed within 24 hours.
             {%- else -%}
+                {%- assign type_of_tour = 'Driven' -%}
                 Submit an online request for additional information / prices / cost / reservations, or book now and your PRIVATE TOUR will be confirmed within 24 hours.
             {%- endif -%}
         </p>
@@ -23,10 +24,6 @@
         {%- endunless -%}
 
         <div id="form" class="form">
-
-            <p>
-            type: {{ page.type | replace: '_', '-' }} }}
-            </p>
     
             <div class="form__body">
                 <form name="sendmail" class="form__form" method="POST" action="sendmail.php">
