@@ -17,7 +17,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
   http_desc: ''
-title: 'Rhodes West Coast DT3'
+title: Rhodes West Coast DT3
 summary:
   paragraphs:
   - This tour is filled with history, natural beauty and ancient sites. You will be
@@ -179,6 +179,7 @@ included:
       bigger vehicle</a>)
   - text: All Car and Driver Expenses (prices are per car not per person)
   - text: Personalized Customer Service
+  - text: Free Cancelation Policy
 not_included:
   items:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
