@@ -61,6 +61,9 @@ $e_subject = 'New request from ' . $e_mail . '.';
 $msg = "Details:\r\n\n";
 
 $msg .= "From: <b>$from_page</b>\r\n";
+if($type_of_tour != ''){
+    $msg .= "Type of Tour: $type_of_tour\r\n";
+}
 $msg .= "First Name: $first_name\r\n";
 $msg .= "Last Name: $last_name\r\n";
 $msg .= "Services to be reserved in the name(s): $reservation_name\r\n";
@@ -69,7 +72,6 @@ $msg .= "Phone/Fax: $phone_fax\r\n";
 $msg .= "E-mail: $e_mail\r\n";
 $msg .= "Private Tour Date: $date11_month - $date11_date - $date11_year\r\n";
 $msg .= "Private Tour Start Location Hotel / Cruise Ship / Flight Number: $ship_flight_num\r\n";
-$msg .= "Type of Tour: $type_of_tour\r\n";
 $msg .= "Language: $speaking_language\r\n";
 $msg .= "Number in party: $party_num\r\n";
 $msg .= "Comments:\r\n $comments\r\n";
