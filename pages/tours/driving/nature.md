@@ -14,7 +14,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
   abstract: Rhodes Nature Tour, Private Nature Tours in Rhodes Greece
-title: 'Rhodes Nature Tour DT9'
+title: Rhodes Nature Tour DT9
 summary:
   paragraphs:
   - There really is nothing like natural beauty. Rhodes island is something to be
@@ -157,6 +157,7 @@ included:
       bigger vehicle</a>)
   - text: All Car and Driver Expenses (prices are per car not per person)
   - text: Personalized Customer Service
+  - text: Free Cancelation Policy
 not_included:
   items:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
