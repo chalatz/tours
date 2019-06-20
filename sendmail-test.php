@@ -9,8 +9,6 @@ error_reporting(E_ALL);
 // $ipinfodb = new IPInfoDB('043542783908f8d1b64ecfbd312ee672570dabad52c780a3c52ad643c6a29f7b');
 // $results = $ipinfodb->getCity($_SERVER['REMOTE_ADDR']);
 
-$sfsdfser = '';
-$spam_two = '';
 $return_to = '';
 $from_page = '';
 $first_name = '';
@@ -37,8 +35,8 @@ $comments = '';
 // $zipCode = $results['zipCode'];
 // $timeZone = $results['timeZone'];
 
-if(isset($_POST['sfsdfser'])){
-    $sfsdfser = $_POST['sfsdfser'];
+if(isset($_POST['spam_one'])){
+    $spam_one = $_POST['spam_one'];
 }
 if(isset($_POST['spam_two'])){
     $spam_two = $_POST['spam_two'];
@@ -96,10 +94,6 @@ if(isset($_POST['party_num'])){
 }
 if(isset($_POST['comments'])){
     $comments = $_POST['comments'];
-}
-
-if($sfsdfser != ''){
-    die($sfsdfser);
 }
 
 // $address = "request@rhodestoursexcursions.com";

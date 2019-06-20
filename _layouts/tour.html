@@ -26,16 +26,6 @@ layout: default
         {% endfor %}        
     </header>
 
-    {% comment %} <section class="section container">
-        <h1 class="tour__heading tour__heading--tour">
-            "{{- page.tour.title -}}"
-        </h1>
-
-        <p class="tour__summary tour__summary--tour">
-            {{- page.tour.summary -}}<br>{{ page.tour.duration }}
-        </p>
-    </section> {% endcomment %}
-
     {%- assign overview_items_size = page.overview.items | size -%}
     {%- if page.overview and overview_items_size > 0 -%}
         <section class="section container">

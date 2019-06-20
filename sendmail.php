@@ -60,7 +60,7 @@ $e_subject = 'New request from ' . $e_mail . '.';
 
 $msg = "Details:\r\n\n";
 
-$msg .= "From: $from_page\r\n";
+$msg .= "From: <b>$from_page</b>\r\n";
 $msg .= "First Name: $first_name\r\n";
 $msg .= "Last Name: $last_name\r\n";
 $msg .= "Services to be reserved in the name(s): $reservation_name\r\n";
@@ -86,13 +86,10 @@ if(mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nRetur
 {
     // Email has sent successfully, echo a success page.
 
-    header('Location: '. $return_to ."'");
+    header('Location: ' . $return_to . '?contact-form-sent=success');
 
-    echo "<div id='succsess_page'>";
-    echo "<h1>Email Sent Successfully.</h1>";
-    echo "<p>Thank you <strong>$last_name</strong>, your message has been submitted to us.</p>";
-    echo "</div>";
-
-    } else echo "Error. Mail not sent";
+    } else {
+        header('Location: '. $return_to);
+    }
 
 ?>

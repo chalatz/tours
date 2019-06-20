@@ -1,13 +1,13 @@
 <div id="form" class="form">
 
     <div class="form__body">
-        <form method="POST" name="sendmail" class="form__form" action="sendmail-test.php">
+        <form method="POST" name="sendmail" class="form__form" action="sendmail.php">
 
-            <label class="visuallyhidden">
+            {%- comment -%} <label class="visuallyhidden">
                 <input type="text" name="sfsdfser"  tabindex="-1" autocomplete="off">
             </label>
 
-            <input type="hidden" name="meli_dio" autocomplete="off">
+            <input type="hidden" name="meli_dio" autocomplete="off"> {%- endcomment -%}
 
             <input type="hidden" name="from_page" value="{{ include.from_page }}">
 
