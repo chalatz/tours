@@ -15,7 +15,7 @@ meta:
   abstract: 'Beach Tour of Rhodes, Private Beach Tours in Rhodes '
   http_desc: 'Beach Tour of Rhodes, Private Beach Tours in Rhodes, Rhodes Private
     Tours '
-title: 'Beach Tour of Rhodes DT7'
+title: Beach Tour of Rhodes DT7
 summary:
   paragraphs:
   - Any trip to an island should include visits to the beautiful beaches that encircle
@@ -145,7 +145,8 @@ faq:
   - q: Are all the beaches in Rhodes organized?
     a: Most of the beaches are very well organized with sun beds, parasols, changing
       rooms, restaurants or bars and turquoise blue water, while others offer only
-      the basic amenities. For more info please visit <a href="./best_beaches.htm">Rhodes Beaches</a>
+      the basic amenities. For more info please visit <a href="./best_beaches.htm">Rhodes
+      Beaches</a>
   - q: How long will we stay in Lindos village?
     a: Usually we spend one hour in Lindos, but it depends on you for how long you
       need to visit Lindos. To climb up it takes 15 min, to take a look 30min.
@@ -167,6 +168,7 @@ included:
       bigger vehicle</a>)
   - text: All Car and Driver Expenses (prices are per car not per person)
   - text: Personalized Customer Service
+  - text: Free Cancelation Policy
 not_included:
   items:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
@@ -175,7 +177,7 @@ end_page:
     Tour Experiences. We deliver Private Beach Tours at very affordable rates. All
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
-  short_text: 'Experts in Rhodes Beach Tours'
+  short_text: Experts in Rhodes Beach Tours
 
 ---
 **Faliraki Beach:**  Faliraki is one of the most beautiful beaches in Rhodes** located 14 km / 8.6 miles from Rhodes Town**. A long stretch sandy beach 4 km / 2.4 miles, with crystal clear water. There is an abundant amount of sun beds to lay back on and work on your tan. There are also **many water sports to choose from including jet skiing, banana rides, ringos, paragliding, pedalos, and bungee jumping**. (Stop Visit Photos)
