@@ -16,7 +16,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
   http_desc: Rhodes Kids Tours, Rhodes Family Tours, Children Fun Tours in Rhodes
-title: 'Rhodes Kids Tour DT6'
+title: Rhodes Kids Tour DT6
 summary:
   paragraphs:
   - Fun Tour, a Great Family Experience!  This tour is exclusively designed for families
@@ -156,6 +156,7 @@ included:
       bigger vehicle</a>)
   - text: All Car and Driver Expenses (prices are per car not per person)
   - text: Personalized Customer Service
+  - text: Free Cancelation Policy
 not_included:
   items:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
