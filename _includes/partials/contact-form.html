@@ -3,9 +3,15 @@
     <div class="form__body">
         <form method="POST" name="sendmail" class="form__form" action="sendmail-test.php">
 
+            <label class="visuallyhidden">
+                <input type="text" name="sfsdfser"  tabindex="-1" autocomplete="off">
+            </label>
+
+            <input type="hidden" name="meli_dio" autocomplete="off">
+
             <input type="hidden" name="from_page" value="{{ include.from_page }}">
 
-            <input type="hidden" name="return_to" value="{{ include.return_to }}">
+            <input type="hidden" name="return_to" value="{{ include.return_to | remove: '/' }}">
 
             <div class="form__group">
                 <label class="form__label" for="first_name">First <span class="mobile-only mobile-only--inline">and Last</span> Name:</label>
