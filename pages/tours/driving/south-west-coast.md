@@ -18,7 +18,7 @@ meta:
   copyright: NK for Rhodes Private Tours,2018
   http_desc: Rhodes Private Tours and Shore Excursions, South-West Coast, Private
     Day tours, Rhodes Taxi Tours
-title: 'Rhodes South-West DT8'
+title: Rhodes South-West DT8
 summary:
   paragraphs:
   - This private tour of the South-West Coast of the island appeals to all the senses.
@@ -185,6 +185,7 @@ included:
       bigger vehicle</a>)
   - text: All Car and Driver Expenses (prices are per car not per person)
   - text: Personalized Customer Service
+  - text: Free Cancelation Policy
 not_included:
   items:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
