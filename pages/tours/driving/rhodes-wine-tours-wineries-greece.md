@@ -17,7 +17,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
   http_desc: ''
-title: 'Rhodes Wine Tour DT5'
+title: Rhodes Wine Tour DT5
 summary:
   paragraphs:
   - This tour is for people who know how to appreciate "the drink of the Gods". Why
@@ -176,6 +176,7 @@ included:
       bigger vehicle</a>)
   - text: All Car and Driver Expenses (prices are per car not per person)
   - text: Personalized Customer Service
+  - text: Free Cancelation Policy
 not_included:
   items:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
