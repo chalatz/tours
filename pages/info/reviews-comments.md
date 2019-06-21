@@ -18,7 +18,7 @@ title: Reviews, Comments and Testimonials of our Clients
 subtitle: We have been offering our high standard Private Tour Services since 1984
   and we've been on line since 1998
 reviews:
-- year: 2019
+- year: "2019"
   text: |-
     HI Nicholas, Thank you for the well arranged tour. Our group had a fun day.<br>
     Met vriendelijke groet,<br>
@@ -37,7 +37,7 @@ reviews:
     Thanks again! (Feb 21st)<br>
     Annie<br>
     anniearnest@gmail.com
-- year: 2018
+- year: "2018"
   text: |-
     Nicholas, we had a wonderful day visiting the island of Rhodes. Our driver was great and we enjoyed every minute of our tour. Thank you so much!!<br>
     Marlene (Dec 28th)<br>
@@ -764,7 +764,7 @@ reviews:
     All I can say, tell him what you want to explore and leave the details to him.<br>
     Preston (March 28th)<br>
     prestono@aol.com
-- year: 2017
+- year: "2017"
   text: |-
     Yes, our memories of Rhodes are wonderful. I will convey your greetings to the other couple as soon as get unpacked.<br>
     It will probably be after Christmas, but I also intend to write up our excursion with you on Trip Advisor. "Don't miss a trick, travel with Nick."<br>
@@ -1454,7 +1454,7 @@ reviews:
     Thank you<br>
     Philip (April 22nd)<br>
     ladylakeuk2001@yahoo.co.uk
-- year: 2016
+- year: "2016"
   text: "Dear Nicholas, It has been over a month since we enjoyed our wonderful visit
     with you and Michael in Rhodes. It was a great tour we will never forget and continue
     to talk about with our friends! We look forward to visiting Rhodes again and will
@@ -1823,7 +1823,7 @@ reviews:
     Das (April 21st)<br>\ndas@rogers.com\n\nHi Guys,<br>\nJust returned back home
     after a great trip, we had a great tour!!<br>\nCheer<br>\nGlenn Oke Australia
     (April 8th)<br>\nokefamily@bigpond.com "
-- year: 2015
+- year: "2015"
   text: |-
     Hi Nicholas, thank you for the wonderful time!!<br>
     Ryan (Dec 12th)<br>
@@ -2345,7 +2345,7 @@ reviews:
     Hi Nick, Our journey went very well especially the Rhodes part. We felt so "pampered" with our private driver and Mercedes. Thank you so much for showing us the best of Rhodes and taking good pictures for us. Attached is one for you. Wish you a lot of good business and Happy Valentines to you and your wife.<br>
     Julie (Feb 14th)<br>
     chiang.j@hotmail.com
-- year: 2014
+- year: "2014"
   text: "Nicholas: We enjoyed our tour of Rhodes and will recommend your service to
     others. I especially enjoyed learning some details about the dubious history of
     the colossus and getting a brief pottery demonstration at the Savas pottery. We
@@ -2558,7 +2558,7 @@ reviews:
     touch he put on our tour.<br>\nWe will definitely recommend you to anyone we know
     visiting your island.<br>\nBest regards,<br>\nRichard and Leslie (June 1st)<br>\nrichard.redhead@sbcglobal.net
     \         "
-- year: 2013
+- year: "2013"
   text: |-
     Hi Nicholas. We just arrived home yesterday evening. We did enjoy the tour and the information given which made our visit to Rhodes much more enjoyable.<br>
     Again thank you.<br>
@@ -2864,7 +2864,7 @@ reviews:
     Should we find ourselves visiting Rhodes is the future, we will definitely call you again.<br>
     Suzanne Ferrio (June 8th)<br>
     sferrio@gmail.com
-- year: 2012
+- year: "2012"
   text: |-
     Nicholas, We have only just arrived home after a wonderful and very memorable trip throughout Italy, and the many ship excursions to Turkey, Sicily and some of the many islands of Greece....Rhodes being most memorable. Dominic (Kiriakos)) was such an excellent tour/driver whom we all enjoyed immensely.<br>
     It was very nice to meet you...brief as it was. Thank you for asking Dominic to stop by. We will not hesitate to recommend "Rhodes Private Tours" to any of our family and friends that may travel to Rhodes in the future. Warmest regards. Please pass on our regards to Dominic<br>
@@ -3019,7 +3019,7 @@ reviews:
     Best regards,<br>
     Denise<br>
     denisedaleg@aol.com
-- year: 2011
+- year: "2011"
   text: "Thank you so very much for our wonderful tour and your beautiful island.
     We have told all our friends about you<br>\nHappy Holidays (Dec 12th)<br>\nMedlinfla<br>\nmedlinfla@htcplus.net\n\nHello
     Nickolas,<br>\nI just wanted to send you this little thank you for the great time
@@ -3150,7 +3150,7 @@ reviews:
     you Nick. We very much enjoyed our \"taxi tour\" of the island with Michael. You
     are blessed to live on such a beautiful island. We will recommend you to our friends.<br>\nRegards,
     Bob Harrell<br>\nrharrell@fulbright.com   "
-- year: 2010
+- year: "2010"
   text: "Hi Nick, I wanted to let you know that we really enjoyed the tour, it was
     the highlight of our trip. Rhodes is a beautiful island and I think all of us
     hope to come back again someday. We will definitely recommend your service to
@@ -3330,7 +3330,7 @@ reviews:
     your firm. The professionalism of your firm was greatly appreciated, especially
     your prompt and complete replies to our emails as we began planning our trip.<br>\nAgain,
     our thanks.<br>\nWarm regards,<br>\nBobbie and Michael<br>\nmetzgerb@earthlink.net "
-- year: 2009
+- year: "2009"
   text: |-
     Dear Nicholas, The four of are still talking about our Rhodes tour as the "Highlight" of our trip! We had a wonderful time, and have threatened to come back and buy an olive grove and live there. We truly loved your island. Our driver (cannot remember his name-what was it, please?) was charming and informative and friendly. We will certainly call you again should we get back to Rhodes and recommend your tour to any of our friends traveling to Rhodes.<br>
     Happy New Year!<br>
@@ -3563,7 +3563,7 @@ reviews:
     Espero poder regresar si Dios lo permite.<br>
     Sldos. cordiales, Judith Yagual (January 2nd)<br>
     judith_yagual@yahoo.com<br>
-- year: 2008
+- year: "2008"
   text: |-
     Thank you Nick!!! My parents had a wonderful trip and loved spending the day with you on Rhodes.....Hope send other travelers your way.Very best to you.<br>
     Kiela Hine, President, Convention Connection<br>
@@ -3696,7 +3696,7 @@ reviews:
     Many thanks for your excellent service. My family enjoyed Rhodes the best of all the Greek Islands and we are so happy that we used your Taxi Service! You and Domenic were so informative and we enjoyed the visiting of Lindos and the Island tour as well. You are so accommodating and pleasant. We will refer you to any of our friends who are stopping in Rhodes. Thanks again for making our trip so wonderful.<br>
     Sincerely, The O'Connor and Pappas families<br>
     ildao@comcast.net
-- year: 2007
+- year: "2007"
   text: |-
     Dear Nick. Thank you so much, we had such a wonderful vacation. We love Greece !!!!!!!! Thank you for making our trip so great. You were the best!! Crete and Santorini were also great. Keep in touch with us! When you come to the USA, call us. We will tell everyone about how great you were and how much fun we had with you. We miss the scenery, the food, our new friends. Thank you again.<br>
     Jeri and Walter<br>
@@ -3836,7 +3836,7 @@ reviews:
     Sincerely,<br>
     Kathy Grossman<br>
     kgrossm@optonline.net
-- year: 2006
+- year: "2006"
   text: "Honest. Reliable. Knowledgeable. Trustworthy. These are just a few of the
     words I can use to express my feelings towards Nick and his very professional
     team. We arrived to Rhodes during an extremely busy period with over 7,000 people
@@ -3987,7 +3987,7 @@ reviews:
     Michael was an excellent driver and good company.<br>\nThank you for everything<br>\nJacqueline
     Roberts<br>\nProfessor Emeritus McMaster University<br>\nrobertsj@mcmaster.ca
     \  "
-- year: 2005
+- year: "2005"
   text: |-
     Nickolas. We have been back from our trip for about a week, and I have been meaning to write to you. John and I wanted to thank you for the wonderful day you gave us on your beautiful island of Rhodes. We thoroughly enjoyed the touring, and we had such fun with you. Your enthusiasm and love for Rhodes comes through, and you are an exceptionally informative driver. I especially appreciate your kindness to me, taking me in my wheelchair to the theater site. One of the special things we will remember is our delicious lunch at the little restaurant in Lindos town. A Greek salad, fried calamari and retsina overlooking the blue water is just about perfection! Thanks again, Nicholas. I will be posting your information on a couple of websites so that others can contact you for a wonderful day on Rhodes.<br>
     Priscilla Davenport pkdavenport@sbcglobal.net
@@ -4055,7 +4055,7 @@ reviews:
     It has been a long time since we met & toured Rhodes. Because you were so good and the tour was fantastic, the memories linger on & on & on!! Hope you & your lovely family are all doing well and are in good health.<br>
     Irwin, my husband, and I are going to do a cruise in early May from Rome to Barcelona.<br>
     By the way I LOST on picking this cruise - I wanted to do the Greek Isles along with Rhodes - Irwin nixed it - but maybe the next time & hopefully soon. Waiting to hear from you Jo-Ann (Rhodes tour 1999 via Renaissance) GIOMARIA@aol.com
-- year: 2004
+- year: "2004"
   text: |-
     Dear Nicholas:<br>
     We only concluded our world tour two weeks ago and have been busy "catching up" since our return.<br>
@@ -4138,7 +4138,7 @@ reviews:
     Just want to let you know what a great time we had with Manuel. He is a great person and careful driver.<br>
     We had a wonderful time and took lots of pictures. Thank you for setting this up for us it made our holiday and thank Manuel for us.<br>
     Best Regards jackjs@execulink.com
-- year: 2003
+- year: "2003"
   text: |-
     Nicholas<br>
     We had a great time on the tour, you guys are great and so very helpful, I will highly recommend you to any one that goes to Rhodes. The entire group was very Impressed with your helpfulness and friendly attitude.<br>
@@ -4167,7 +4167,7 @@ reviews:
     Dear Nicholas:<br>
     First of all I want to thank you for the wonderful tour in Rhodes, we have a great time.<br>
     Sincerously Jose Toribio Pacheco jtpacheco@bps.com.pe
-- year: 2002
+- year: "2002"
   text: "Thank you for the New Year Greeting, it was great to hear from all of you.
     Please give Michael our regards.<br>\nAlso, if you will, please change my e-mail
     address to annewieder@bellsouth.net<br>\nI am still giving out your name for referrals!<br>\nHappy
@@ -4205,7 +4205,7 @@ reviews:
     trips to Rhodes.<br>\nPlease also pass our regards on to your brother, and we
     hope to see you again someday.<br>\nWarmest Regards, Vince, Michele, Karina, and
     Meredith Kopriva vincent@koprivas.com      "
-- year: 2001
+- year: "2001"
   text: "Hello Nicholas,<br>\nYou did a great job with your web site and the pictures.
     We enjoyed our tour very much and had a wonderful time on Rhodes! WE may send
     some friend to you, but we don't have all their details jet.<br>\nThanks, Gina
@@ -4281,7 +4281,7 @@ reviews:
     able to see so much of Rhodes without your tour. We would highly recommend your
     services to anyone visiting Rhodes.<br>\nLisa, Keith and Ryan Lowrie<br>\nArizona,
     U.S.A.<br>\nlisamweber@earthlink.net        "
-- year: 2000
+- year: "2000"
   text: "Hello Nick.<br>\nWell, we finally made it home last Saturday. We sure did
     enjoy our time with you in Rhodes. I learned a lot about your Island as well as
     having the opportunity of seeing many interesting sites and meeting some very
@@ -4412,7 +4412,7 @@ reviews:
     will give them your name etc. They are nice folks from California and I know they
     will enjoy the tour. Thanks again!<br>\nSincerely,<br>\nSandi Morgan-Jones TWIGAZURI@aol.com
     \      "
-- year: 1999
+- year: "1999"
   text: "HI NICK SURE WAS GREAT TO MEET YOU, LEARN ABOUT YOUR FAMILY AND RHODES. WE
     HAD A REALLY GREAT TIME WITH YOU AND WERE VERY HAPPY WITH ALL THE INFORMATION
     YOU GAVE ABOUT YOUR BEAUTIFUL ISLAND. YOU SHOULD BE PROUD OF IT. THANKS AGAIN
@@ -4427,19 +4427,16 @@ reviews:
     ready to move on when we were. I think he made our stop there wonderful instead
     of just nice. I would not hesitate to recommend him as a private tour.<br>\nGraham
     & Nancy (new e-mail) csdiwhitt@musfiber.com       "
-- year: 1998
+- year: "1998"
   text: |-
-    Hi Nick.<br>
-    Just thought you would like to know that I have included your name and email on the Net so that everyone can have the wonderful experience we had with you. Here is a portion of my "review" of our cruise that I just uploaded:Rhodes...TIPS:Yes, you can take a tour of Lindos, which is a small town with two beautiful harbors .....We took this "tour" with a wonderful driver named Nicholas. He was funny, knew everything about the island and showed us the sights in an air-conditioned Mercedes.<br>
-    You can email him or look at his own web site:oasis.fortunecity.com/paradise/306/history.htm.<br>
-    He was one of the highlights of the cruise.>>I have now looked at your web site--nice work ! Thanks again for making our trip so wonderful !<br>
+    Hi Nick.   Just thought you would like to know that I have included your name and email on the Net so that everyone can have the wonderful experience we had with you. Here is a portion of my "review" of our cruise that I just uploaded:  Rhodes...TIPS: Yes, you can take a tour of Lindos, which is a small town with two beautiful harbors .....We took this "tour" with a wonderful driver named Nicholas. He was funny, knew everything about the island and showed us the sights in an air-conditioned Mercedes.<br>
+    You can email him or look at his own web site: oasis.fortunecity.com/paradise/306/history.htm.<br>
+    <<He was one of the highlights of the cruise.>> I have now looked at your web site--nice work ! Thanks again for making our trip so wonderful !<br>
     Rusty znr123@aol.com
 
-    Dear Nicholas.<br>
-    I am omar the son of Dr Monir . We visited you last month in Rodos on the ship boccacio<br>
-    You took us in your taxi in a tour to lindos and then faliraki there you left us.<br>
-    I want you to know that Rodos was on of the best islands I have seen in my life and we all enjoyed your company very much you have great sense of humor. I hope I would visit rodos one more time the next year.<br>
-    Don't you think of coming to Egypt? If you ever come to Egypt please call me<br>
+    Dear Nicholas.  I am Omar the son of Dr Monir . We visited Rhodes last month on the cruise ship Boccacio<br>
+    You took us in a tour to Lindos and Faliraki. I want you to know that Rodos was on of the best islands I have seen in my life and we all enjoyed your company very much. You have a great sense of humor. I hope I visit Rodos again next year.<br>
+    Thank you for the tour, Omar<br>
     omar@soficom.com.eg
 
 ---
