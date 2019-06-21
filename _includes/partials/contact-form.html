@@ -9,7 +9,7 @@
 
             <input type="hidden" name="meli_dio" autocomplete="off"> {%- endcomment -%}
 
-            <input type="hidden" name="from_page" value="{{ include.from_page }}">
+            <input type="hidden" name="from_page" value="{{ include.from_page | upcase }}">
 
             <input type="hidden" name="return_to" value="{{ include.return_to | remove: '/' }}">
 

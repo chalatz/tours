@@ -20,7 +20,7 @@
             {%- if page.layout == 'home' -%}
                 {%- assign from_page = 'Home Page' -%}
             {%- else -%}
-                {%- assign from_page = page.id | capitalize | replace: '_', ' ' -%}
+                {%- assign from_page = page.id | replace: '_', ' ' -%}
                 {%- if page.title -%}
                     {%- include helpers/check_empty_string.html the_string = page.title -%}
                     {%- if string_not_empty -%}
@@ -29,7 +29,7 @@
                 {%- endif -%}
             {%- endif -%}
 
-            <input type="hidden" name="from_page" value="{{ from_page }}">
+            <input type="hidden" name="from_page" value="{{ from_page | upcase }}">
 
             <input type="hidden" name="page_url" value="{{ page.permalink }}">
 
