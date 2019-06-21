@@ -4430,7 +4430,7 @@ reviews:
     Rusty znr123@aol.com
 
     Dear Nicholas.  I am Omar the son of Dr Monir . We visited Rhodes last month on the cruise ship Boccacio<br>
-    You took us in a tour to Lindos and Faliraki. I want you to know that Rodos was on of the best islands I have seen in my life and we all enjoyed your company very much. You have a great sense of humor. I hope I visit Rodos again next year.<br>
+    You took us in a tour to Lindos and Faliraki. I want you to know that Rodos was one of the best islands I have seen in my life and we all enjoyed your company very much. You have a great sense of humor. I hope to visit Rodos again next year.<br>
     Thank you for the tour, Omar<br>
     omar@soficom.com.eg
 
