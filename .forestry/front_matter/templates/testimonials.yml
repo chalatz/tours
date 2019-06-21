@@ -70,3 +70,5 @@ fields:
   - type: textarea
     name: text
     label: text
+pages:
+- pages/info/reviews-comments.md
