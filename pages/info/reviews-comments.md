@@ -4421,7 +4421,7 @@ reviews:
     speaks 5 or 6 languages and is very easy to listen to. He was in no rush, but
     ready to move on when we were. I think he made our stop there wonderful instead
     of just nice. I would not hesitate to recommend him as a private tour.<br>\nGraham
-    & Nancy (new e-mail) csdiwhitt@musfiber.com       "
+    & Nancy<br>\ncsdiwhitt@musfiber.com       "
 - year: "1998"
   text: |-
     Hi Nick.   Just thought you would like to know that I have included your name and email on the Net so that everyone can have the wonderful experience we had with you. Here is a portion of my "review" of our cruise that I just uploaded:  Rhodes...TIPS: Yes, you can take a tour of Lindos, which is a small town with two beautiful harbors .....We took this "tour" with a wonderful driver named Nicholas. He was funny, knew everything about the island and showed us the sights in an air-conditioned Mercedes.<br>
