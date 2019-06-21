@@ -4206,81 +4206,78 @@ reviews:
     hope to see you again someday.<br>\nWarmest Regards, Vince, Michele, Karina, and
     Meredith Kopriva vincent@koprivas.com      "
 - year: "2001"
-  text: "Hello Nicholas,<br>\nYou did a great job with your web site and the pictures.
+  text: "Hello Nicholas,  You did a great job with your web site and the pictures.
     We enjoyed our tour very much and had a wonderful time on Rhodes! WE may send
     some friend to you, but we don't have all their details jet.<br>\nThanks, Gina
-    & Gerhard Stier Gerhard Stier ghstier@nctimes.net\n\nThanks so much for the lovely
-    tour. I am sure that we will be back to Rhodes for an extended stay and will call
-    upon you again.<br>\nWe were very, very pleased with the tour we had in Kusadasi.
-    Joseph was wonderful, and it was a pleasure to go through Ephesus at our own pace.
-    He was great with the children, too. The van was roomy and comfortable. Joseph
-    even stopped for us to taste lamb souvlaki at a roadside shop for a \"taste of
-    Turkey\". I'm sure no one else on our ship had a better time.<br>\nWarm wishes
-    for continued success,<br>\nMarcie and Bill Papadakis PAPAD315@aol.com\n\nThe
-    taxi drivers were outstanding -- the service you offer in Rhodes was my favorite
-    part of the cruise to Greece. You are lucky to live on such a lovely island, and
-    have such great associates drivers<br>\nThanks again. Jane Bicek Janebicek@aol.com\n\nThank
-    you very much for your greetings. We had a good, but unfortunately too short,
-    journey in Rhodes. I and my family enjoyed the trip to Lindos on May 11th and
-    we are satisfied for your service and your attention.<br>\nRegards from Cordoba,
-    Argentina<br>\nNestor Aghemo and family aghemo@onenet.com.ar\n\nDear Nicholas,<br>\nWe
-    had an absolutely wonderful trip, thanks in large part to your services. Our day
-    in Rhodes was delightful, we saw everything we wanted to see and more. I would
-    highly, highly recommend you to enyone traveling that area. Thank you for everything.
-    Eileen and Bill Fowler whfowler@whidbey.net\n\nNicholas;<br>\nOur day in Rhodes
-    was marvelous. Michael was an excellent driver. We saw more of Rhodes than anyone
-    else on the ship. Michael was waiting for us as we got off the ship and took great
-    care of us for the rest of the day. Please do not hesitate to use me as a reference.<br>\nRegards
-    Bill Ford william.ford@worldnet.att.net\n\nHello,<br>\nThe trip home was long
-    and tiring. But the trip was fantastic. I think ourday with you was certainly
-    one of the highlights. Most of the rest of thetrip was fairly organized so we
-    didn't have as much of an opportunity to explore as we did with you. Rome was
-    unbelievable, we could have spent a week there. We will definitely look you up
-    on our return to Greece.<br>\nThanks again.<br>\nDave<br>\ndrideout@kcc.com\n\nDear
-    Nicholas & Michael!!<br>\nWe had the best time in Rhodes--because of your service
+    & Gerhard<br>\nghstier@nctimes.net\n\nThanks so much for the lovely tour. I am
+    sure that we will be back to Rhodes for an extended stay and will call upon you
+    again.<br>\nWe were very, very pleased with the tour we had in Kusadasi. Joseph
+    was wonderful, and it was a pleasure to go through Ephesus at our own pace. He
+    was great with the children, too. The van was roomy and comfortable. Joseph even
+    stopped for us to taste lamb souvlaki at a roadside shop for a \"taste of Turkey\".
+    I'm sure no one else on our ship had a better time.<br>\nWarm wishes for continued
+    success,<br>\nMarcie and Bill<br>\nPAPAD315@aol.com\n\nThe drivers were outstanding
+    -- the service you offer in Rhodes was my favorite part of the cruise to Greece.
+    You are lucky to live on such a lovely island, and have such great associates
+    drivers<br>\nThanks again. Jane<br>\nJanebicek@aol.com\n\nThank you very much
+    for your greetings. We had a good, but unfortunately too short, journey in Rhodes.
+    I and my family enjoyed the trip to Lindos on May 11th and we are satisfied for
+    your service and your attention.<br>\nRegards from Cordoba, Argentina<br>\nNestor
+    and family<br>\naghemo@onenet.com.ar\n\nDear Nicholas,  We had an absolutely wonderful
+    trip, thanks in large part to your services. Our day in Rhodes was delightful,
+    we saw everything we wanted to see and more. I would highly, highly recommend
+    you to enyone traveling that area. Thank you for everything<br>\nEileen and Bill<br>\nwhfowler@whidbey.net\n\nNicholas;
+    \ Our day in Rhodes was marvelous. Michael was an excellent driver. We saw more
+    of Rhodes than anyone else on the ship. Michael was waiting for us as we got off
+    the ship and took great care of us for the rest of the day. Please do not hesitate
+    to use me as a reference.<br>\nRegards Bill<br>\nwilliam.ford@worldnet.att.net\n\nHello,
+    \ The trip home was long and tiring. But the trip was fantastic. I think ourday
+    with you was certainly one of the highlights. Most of the rest of thetrip was
+    fairly organized so we didn't have as much of an opportunity to explore as we
+    did with you. Rome was unbelievable, we could have spent a week there. We will
+    definitely look you up on our return to Greece.<br>\nThanks again.<br>\nDave<br>\ndrideout@kcc.com\n\nDear
+    Nicholas & Michael!!   We had the best time in Rhodes--because of your service
     & Michael--we fell in love with him!!! We will tell everyone about your services
-    & will be back next June. God willing!! My new e-mail is seasun@pacbell.net.<br>\nPlease
-    keep in touch. Love Marti & Brooke\n\nWe had a wonderful time. The service provided
+    & will be back next June. God willing!<br>\nPlease keep in touch.<br>\nMarti &
+    Brooke<br>\nseasun@pacbell.net\n\n\nWe had a wonderful time. The service provided
     was first rate. You have a beautiful Island. We will be happy to recommend you
-    to all.<br>\nThanks again and regards from everyone. Sayhello to Manuel<br>\nRvolkwine@aol.com\n\nHi
-    Nicholas!<br>\nMy husband, my mother and I truly enjoyed ALL of our time touring
-    with<br>\nDominic on the lovely island of Rodos. He gave us such an interesting
-    and friendly tour. My husband who is from an agricultural area of Central California
-    (growing peaches, grapes, almonds) was very interested in the olive trees and
-    the grape vineyards and Dominic told us...and showed us all about it! Hank was
-    thrilled to hug a 800-year old olive tree! Please say hello and thanks to Dominic
-    from us.<br>\nOf all our Greek tours on the various Islands and in Athens area,
-    yours was the VERY BEST because of your friendliness, attention to details, and
-    your quick response to questions on the internet. Our only regret is that we had
-    such a short time to spend on what is now our FAVORITE island. We must return
-    soon. Thanks to you and your whole group for making this a very special day for
-    us. Continued success!<br>\nYours truly,<br>\nCharlotte Kay<br>\nHank Holmberg
-    and Dottie Kay SweetSoul@aol.com\n\nDear Mr Axarlis,<br>\nThank you for your good
-    wishes. We did have a most enjoyable time in Rhodes thanks to your service. All
-    the very best in the future.<br>\nAlan Williams. aj.williams@home.com\n\nDear
-    Nick<br>\nWe had a wonderful trip and enjoyed Rhodes the most -- in part because
-    of your services. George, our taxi driver in Athens, said he knows you and that
-    you two often refer customers to each other....Best wishes, Suzanne and Harwood
-    Martin 75021.3666@compuserve.comHi Nick, We really want to thank you for the great
+    to all.<br>\nThanks again and regards from everyone<br>\nSay hello to Manuel<br>\nRvolkwine@aol.com\n\nHi
+    Nicholas!  My husband, my mother and I truly enjoyed ALL of our time touring with
+    Dominic on the lovely island of Rodos. He gave us such an interesting and friendly
+    tour. My husband who is from an agricultural area of Central California (growing
+    peaches, grapes, almonds) was very interested in the olive trees and the grape
+    vineyards and Dominic told us...and showed us all about it! Hank was thrilled
+    to hug a 800-year old olive tree! Please say hello and thanks to Dominic from
+    us.<br>\nOf all our Greek tours on the various Islands and in Athens area, yours
+    was the VERY BEST because of your friendliness, attention to details, and your
+    quick response to questions on the internet. Our only regret is that we had such
+    a short time to spend on what is now our FAVORITE island. We must return soon.
+    Thanks to you and your whole group for making this a very special day for us.
+    Continued success!<br>\nYours truly,<br>\nCharlotte, Hank and Dottie<br>\nSweetSoul@aol.com\n\nDear
+    Nicholas ,  Thank you for your good wishes. We did have a most enjoyable time
+    in Rhodes thanks to your service. All the very best in the future.<br>\nAlan <br>\naj.williams@home.com\n\nDear
+    Nick, We had a wonderful trip and enjoyed Rhodes the most -- in part because of
+    your services. George, our taxi driver in Athens, said he knows you and that you
+    two often refer customers to each other.<br>\nBest wishes, Suzanne and Harwood<br>
+    75021.3666@compuserve.com\n\nHi Nick, We really want to thank you for the great
     day we had with you in Rhodes it was really enjoyable. I have been giving your
     email address to many people who will be visiting Greece in the coming months.
     I think word of mouth is better for you and many of your past clients say very
     nice things about you & your other drivers so I am sure you will stay busy with
-    the cruise ships passengers.<br>\nTake care & again thank you.<br>\nWarmest regards,
-    Claudia Freeman ClaudiaFr@aol.com\n\nHello,<br>\nYes, we made it home fine. I
-    wanted to tell you how much we enjoyed our driver Dominic. He was excellent........we
+    the cruise ships passengers.<br>\nTake care & again thank you.<br>\nWarmest regards
+    <br> \nClaudia Freeman<br>\nClaudiaFr@aol.com\n\nHello, Yes, we made it home fine.
+    I wanted to tell you how much we enjoyed our driver Dominic. He was excellent........we
     enjoyed our stops for pictures at the highlights, and the drive to the other side
     of the island. Unfortunely, it rained while there, but it was a great day.<br>\nThanks
     again, hope that you have a good and profitable tourist season.<br>\nWe would
-    recommend you any time.<br>\nSARA Jerome SJZJ@aol.com\n\nNickolas,<br>\nJust a
-    short note to let you know that our driver Manuel was very good and we enjoyed
-    his tour.<br>\nWe enjoyed meeting you and would recommend you to anyone who would
-    like a reference.<br>\nThanks again, mikesr@sna.cncdsl.com<br>\nMike and Lenore
-    Simmons\n\nHello,<br>\nWe just got back from our vacation in Greece and wanted
-    to let you know how much we enjoyed our tour of Rhodes. We never would have been
-    able to see so much of Rhodes without your tour. We would highly recommend your
-    services to anyone visiting Rhodes.<br>\nLisa, Keith and Ryan Lowrie<br>\nArizona,
-    U.S.A.<br>\nlisamweber@earthlink.net        "
+    recommend you any time.<br>\nSARA <br>\nSJZJ@aol.com\n\nNickolas,  Just a short
+    note to let you know that our driver Manuel was very good and we enjoyed his tour.<br>\nWe
+    enjoyed meeting you and would recommend you to anyone who would like a reference.<br>\nThanks
+    again<br>\nMike and Lenore <br>\nmikesr@sna.cncdsl.com\n\nHello,  We just got
+    back from our vacation in Greece and wanted to let you know how much we enjoyed
+    our tour of Rhodes. We never would have been able to see so much of Rhodes without
+    your tour. We would highly recommend your services to anyone visiting Rhodes.<br>\nLisa
+    and Ryan <br>\nArizona, U.S.A.<br>\nlisamweber@earthlink.net        "
 - year: "2000"
   text: "Hello Nick.  Well, we finally made it home last Saturday. We sure did enjoy
     our time with you in Rhodes. I learned a lot about your Island as well as having
