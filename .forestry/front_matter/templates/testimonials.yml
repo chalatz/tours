@@ -64,9 +64,11 @@ fields:
   name: reviews
   label: reviews
   fields:
-  - type: number
-    name: year
-    label: year
+  - name: year
+    type: text
+    config:
+      required: false
+    label: Year
   - type: textarea
     name: text
     label: text
