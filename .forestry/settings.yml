@@ -31,6 +31,10 @@ sections:
 - type: document
   path: pages/info/contact.md
   label: Contact Us Page
+- type: document
+  path: pages/reviews-comments.md
+  label: Testimonials page
+  match: "**/*"
 - type: heading
   label: Tours
 - type: directory
@@ -68,11 +72,6 @@ sections:
   label: Quick Facts about Rhodes
   create: all
   match: "**/*"
-- type: heading
-  label: Simata
-- type: document
-  path: pages/info/rick_steves.md
-  label: Rick Steves Page
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
