@@ -32,9 +32,8 @@ sections:
   path: pages/info/contact.md
   label: Contact Us Page
 - type: document
-  path: pages/reviews-comments.md
+  path: pages/info/reviews-comments.md
   label: Testimonials page
-  match: "**/*"
 - type: heading
   label: Tours
 - type: directory
