@@ -39,7 +39,7 @@ $e_subject = 'New request from ' . $e_mail . '.';
 
 $msg = "Details:\r\n\n";
 
-$msg .= "From: <b>Mobile Form</b>\r\n";
+$msg .= "<b>-- Mobile Form --</b>\r\n";
 $msg .= "From: <b>$from_page</b>\r\n";
 $msg .= "Page URL: $page_url\r\n";
 $msg .= "Name: $first_name\r\n";

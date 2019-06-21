@@ -20,7 +20,7 @@
             {%- if page.layout == 'home' -%}
                 {%- assign from_page = 'Home Page' -%}
             {%- else -%}
-                {%- assign from_page = page.title | remove: '"' | remove: "'" -%}
+                {%- assign from_page = page.id | capitalize | replace: '_', ' ' -%}
             {%- endif -%}
 
             <input type="hidden" name="from_page" value="{{ from_page }}">
