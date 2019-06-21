@@ -15,7 +15,7 @@
     </header>
 
     <div class="pop-form__body">
-        <form name="sendmail" class="pop-form__form" method="POST" action="sendmail-test.php">
+        <form name="sendmail" class="pop-form__form" method="POST" action="sendmail-mobile.php">
 
             {%- if page.layout == 'home' -%}
                 {%- assign from_page = 'Home Page' -%}
@@ -23,9 +23,11 @@
                 {%- assign from_page = page.title | remove: '"' | remove: "'" -%}
             {%- endif -%}
 
-            <input type="hidden" name="from_page" value="{{ from_page }} - Mobile Form">
+            <input type="hidden" name="from_page" value="{{ from_page }}">
 
-            <input type="hidden" name="return_to" value="{{ include.return_to }}">
+            <input type="hidden" name="page_url" value="{{ page.permalink }}">
+
+            <input type="hidden" name="return_to" value="{{ page.url | remove: '/' }}">
 
             <div class="pop-form__group">
                 <label class="pop-form__label" for="first_name">First and Last Name:</label>
