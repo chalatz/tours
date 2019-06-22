@@ -4169,42 +4169,40 @@ reviews:
     Sincerously Jose Toribio Pacheco jtpacheco@bps.com.pe
 - year: "2002"
   text: "Thank you for the New Year Greeting, it was great to hear from all of you.
-    Please give Michael our regards.<br>\nAlso, if you will, please change my e-mail
-    address to annewieder@bellsouth.net<br>\nI am still giving out your name for referrals!<br>\nHappy
-    New Year to all,<br>\nAnne WiederHope everything is well with you and your family
-    and that you are still painting. Wanted to thank you again for the wonderful job
-    you did in showing Nancy and me Rhodes when we were there the last week in October.
-    You did a great job.<br>\nIf anyone ever asks you for a reference do not hesitate
-    to give them my email address. I will let them know what a great ambassador you
-    are for your country and what a super job you do in showing folks your island.
-    I really would like to see some of your art work. If you have any saved as files
-    send them to me so I can see it.<br>\nPlease stay in touch and let me know how
-    you are doing.<br>\nBob bobhart@coe.uga.edu\n\nHi Nicholas:<br>\nWe have been
-    home for 2 weeks.I cannot believe how busy we are and how much has been accomplished
-    in this time.<br>\nYou are in my journal and gradually,as time permits we will
-    enter this data plus additional details into the computer.<br>\nI wish you could
-    see how the table cloth that we found in Lindos looks as though it had been designed
-    for the room.<br>\nWith your knowledge and efficiency our shortened time on Rhodes
-    did not leave us frustrated.<br>\nWarm regards, Angie angie@larrydarling.com\n\nNicholas,<br>\nAgain,
-    Manuel's services were greatly appreciated. I thank you kindly for allowing him
-    to be our driver during our stay in Rhodes. I wish he could be my permanent driver
-    and just follow me around the world!<br>\nThanks again, I will certainly continue
+    Please give Michael our regards. I am still giving out your name for referrals!<br>\nHappy
+    New Year to all<br>\nAnne Wieder<br>\nannewieder@bellsouth.net\n\nHope everything
+    is well with you and your family and that you are still painting. Wanted to thank
+    you again for the wonderful job you did in showing Nancy and me Rhodes when we
+    were there the last week in October. You did a great job.<br>\nIf anyone ever
+    asks you for a reference do not hesitate to give them my email address. I will
+    let them know what a great ambassador you are for your country and what a super
+    job you do in showing folks your island. I really would like to see some of your
+    art work. If you have any saved as files send them to me so I can see it.<br>\nPlease
+    stay in touch and let me know how you are doing.<br>\nBob <br>\nbobhart@coe.uga.edu\n\n\nHi
+    Nicholas: We have been home for 2 weeks.I cannot believe how busy we are and how
+    much has been accomplished in this time.<br>\nYou are in my journal and gradually,
+    as time permits we will enter this data plus additional details into the computer.
+    I wish you could see how the table cloth that we found in Lindos looks as though
+    it had been designed for the room.  With your knowledge and efficiency our shortened
+    time on Rhodes did not leave us frustrated.<br>\nWarm regards. Angie<br>\nangie@larrydarling.com\n\nNicholas,
+    \ Again, Manuel's services were greatly appreciated. I thank you kindly for allowing
+    him to be our driver during our stay in Rhodes. I wish he could be my permanent
+    driver and just follow me around the world!  Thanks again, I will certainly continue
     to do business with you in the future and recommend you to visitors to Rhodes.<br>\nHave
-    A Great Day, Lisa McAlister LLISAMCA@aol.com\n\nHello Nicholas,<br>\nThanks for
-    the nice tour of Rhodes. Yes, the rest of our vacation was fantastic and our journey
-    home was safe. We were very pleased with your drive services and would highly
-    recommend your services to others visiting the lovely island of Rhodes.<br>\nThanks
-    for making our visit there so much more convenient and informative.<br>\nAll the
-    best...Randy & Wanda Rhodes<br>\nrhodes@chesapeake.net\n\nNicholas,<br>\nI just
-    wanted to take the opportunity to thank you for your services while we were in
-    Rhodes. We're back in Cairo now, but had such a wonderful time there, that we
-    are starting to plan for another vacation to Rhodes.<br>\nMy wife commented how
-    she enjoyed your friendly and fun attitude, and I agree. My kids still talk about
-    their donkey ride to the top of the Lindos Acropolis - a great recommendation.
-    I will definitely pass your email address on to our friends here who are planning
-    trips to Rhodes.<br>\nPlease also pass our regards on to your brother, and we
-    hope to see you again someday.<br>\nWarmest Regards, Vince, Michele, Karina, and
-    Meredith Kopriva vincent@koprivas.com      "
+    A Great Day, Lisa<br>\nLLISAMCA@aol.com\n\nHello Nicholas,  Thanks for the nice
+    tour of Rhodes. Yes, the rest of our vacation was fantastic and our journey home
+    was safe. We were very pleased with your drive services and would highly recommend
+    your services to others visiting the lovely island of Rhodes. Thanks for making
+    our visit there so much more convenient and informative.<br>\nAll the best...<br>\nRandy
+    & Wanda<br>\nrhodes@chesapeake.net\n\nNicholas, I just wanted to take the opportunity
+    to thank you for your services while we were in Rhodes. We're back in Cairo now,
+    but had such a wonderful time there, that we are starting to plan for another
+    vacation to Rhodes.<br>\nMy wife commented how she enjoyed your friendly and fun
+    attitude, and I agree. My kids still talk about their donkey ride to the top of
+    lindos Acropolis - a great recommendation. I will definitely pass your email address
+    on to our friends here who are planning trips to Rhodes.<br>\nPlease also pass
+    our regards on to your brother, and we hope to see you again someday.<br>\nWarmest
+    Regards<br>\nVince, Michele, Karina, and Meredith<br>  vincent@koprivas.com      "
 - year: "2001"
   text: "Hello Nicholas,  You did a great job with your web site and the pictures.
     We enjoyed our tour very much and had a wonderful time on Rhodes! WE may send
