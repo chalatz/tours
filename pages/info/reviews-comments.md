@@ -4140,33 +4140,27 @@ reviews:
     Best Regards jackjs@execulink.com
 - year: "2003"
   text: |-
-    Nicholas<br>
-    We had a great time on the tour, you guys are great and so very helpful, I will highly recommend you to any one that goes to Rhodes. The entire group was very Impressed with your helpfulness and friendly attitude.<br>
+    Nicholas, We had a great time on the tour, you guys are great and so very helpful, I will highly recommend you to any one that goes to Rhodes. The entire group was very Impressed with your helpfulness and friendly attitude.<br>
     Thanks for all your help and information you provided on the tour.<br>
-    Thanks<br>
-    Rod Hoffmann RMHoffmann1@msn.com
+    Thanks, Rod<br>
+    RMHoffmann1@msn.com
 
-    Nick,<br>
-    Thanks for evrything! We had a blast. The tour was the perfect way to view the other parts of the island. We especially enjoyed the touch of history you provided Kelly and I.<br>
-    It may take some time, but we will certainly try and make it back. We liked your suggestion of a sailboat tour of the islands.<br>
+    Nick,  Thanks for evrything! We had a blast. The tour was the perfect way to view the other parts of the island. It may take some time, but we will certainly try and make it back. We liked your suggestion of a sailboat tour of the islands.<br>
     Take care, best wishes to you and your family<br>
-    Christian Pollitt<br>
+    Christian<br>
     Millennium Engineering and Integration<br>
     cpollitt@MEICOMPANY.com
 
-    Dear Nicholas,<br>
-    Thank you for your note. We just arrived home last evening and have had little time to reflect on our wonderful journey. I had planned to write you to say thank you. Dominic was a delightful person to be with and he showed us the highlights of the island. He had a good sense of humour and was very considerate and accommodating. We had a great day in Rhodes and we will be happy to recommend your services.<br>
-    Best regards,<br>
-    Myrna Ghitter Mghitter@aol.com
+    Dear Nicholas,  Thank you for your note. We just arrived home last evening and have had little time to reflect on our wonderful journey. I had planned to write you to say thank you. Dominic was a delightful person to be with and he showed us the highlights of the island. He had a good sense of humour and was very considerate and accommodating. We had a great day in Rhodes and we will be happy to recommend your services.<br>
+    Best regards, Myrna<br>
+    Mghitter@aol.com
 
-    Dear Nicholas,<br>
-    Please tell your brother that we really enjoyed our tour of Rhodes last week. He was a great driver.<br>
-    Thanks Pat Collins<br>
+    Dear Nicholas,  Please tell your brother that we really enjoyed our tour of Rhodes last week. He was a great driver.<br>
+    Thanks Pat<br>
     collins1370@att.net
 
-    Dear Nicholas:<br>
-    First of all I want to thank you for the wonderful tour in Rhodes, we have a great time.<br>
-    Sincerously Jose Toribio Pacheco jtpacheco@bps.com.pe
+    Dear Nicholas:   First of all I want to thank you for the wonderful tour in Rhodes, we have a great time.<br>
+    Sincerously Jose Toribio Pacheco<br> jtpacheco@bps.com.pe
 - year: "2002"
   text: "Thank you for the New Year Greeting, it was great to hear from all of you.
     Please give Michael our regards. I am still giving out your name for referrals!<br>\nHappy
