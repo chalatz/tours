@@ -4233,11 +4233,11 @@ reviews:
     with you was certainly one of the highlights. Most of the rest of thetrip was
     fairly organized so we didn't have as much of an opportunity to explore as we
     did with you. Rome was unbelievable, we could have spent a week there. We will
-    definitely look you up on our return to Greece.<br>\nThanks again.<br>\nDave<br>\ndrideout@kcc.com\n\nDear
+    definitely look you up on our return to Greece.<br>\nThanks again. Dave<br>\ndrideout@kcc.com\n\nDear
     Nicholas & Michael!!   We had the best time in Rhodes--because of your service
     & Michael--we fell in love with him!!! We will tell everyone about your services
     & will be back next June. God willing!<br>\nPlease keep in touch.<br>\nMarti &
-    Brooke<br>\nseasun@pacbell.net\n\n\nWe had a wonderful time. The service provided
+    Brooke<br>\nseasun@pacbell.net\n\nWe had a wonderful time. The service provided
     was first rate. You have a beautiful Island. We will be happy to recommend you
     to all.<br>\nThanks again and regards from everyone<br>\nSay hello to Manuel<br>\nRvolkwine@aol.com\n\nHi
     Nicholas!  My husband, my mother and I truly enjoyed ALL of our time touring with
