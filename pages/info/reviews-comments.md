@@ -3988,73 +3988,113 @@ reviews:
     Roberts<br>\nProfessor Emeritus McMaster University<br>\nrobertsj@mcmaster.ca
     \  "
 - year: "2005"
-  text: |-
-    Nickolas. We have been back from our trip for about a week, and I have been meaning to write to you. John and I wanted to thank you for the wonderful day you gave us on your beautiful island of Rhodes. We thoroughly enjoyed the touring, and we had such fun with you. Your enthusiasm and love for Rhodes comes through, and you are an exceptionally informative driver. I especially appreciate your kindness to me, taking me in my wheelchair to the theater site. One of the special things we will remember is our delicious lunch at the little restaurant in Lindos town. A Greek salad, fried calamari and retsina overlooking the blue water is just about perfection! Thanks again, Nicholas. I will be posting your information on a couple of websites so that others can contact you for a wonderful day on Rhodes.<br>
-    Priscilla Davenport pkdavenport@sbcglobal.net
-
-    Thanks so much! We enjoyed your tour very much.<br>
-    Larry Zirkle lzirkle@brightok.net
-
-    Just returned home this week. Thank you for a most enjoyable tour of Rhodes.<br>
-    We will be very happy to recommend you to our friends. Regards<br>
-    Helga and Peter heggles2@optusnet.com.au
-
-    Dear Nick,<br>
-    my sis and I thoroughly enjoyed our tour through Rhodes in September. We reserved your taxi by email prior to our arrival. You were so great in helping us see and hear the beauty of your island. I learned much from you and our tour remains the highlight of a 2 week trip. Your services are truly NOT over-rated in the letters sent to Matt Barrett's website by other travelers! You even took us to a bank with the best exchange rates!! My grandmother was born on Crete and my grandfather on Malta... so the historical sites about the Knights of St. John was fascinating to me. And the olive trees, resting at the cafe by the bay... will all hold a special place in memories of Rhodes and the beautiful Greek Isles. We found Greece to be, without exception, a place of friendly, easy-going, and very handsome people. In a land filled with clean streets, fabulous food and a sea which is truly blessed with beauty by the gods. Thank you, thank you, thank you. May God bless you and your family.<br>
-    Elaine J. Giamona, RPM McCoy Real Estate & Property Management egiamona@re4u.net
-
-    Gentlemen, Thank you for the kind words.<br>
-    We had a wonderful time and will be sure to recommend your services if we have friends in the area.<br>
-    Kindest Regards, Joe & Merle Ruf joeruf@comcast.net
-
-    Thank you, Nick.<br>
-    We had a wonderful trip and everyone especially enjoyed the tour of Rhodes. All the drivers were terrific and very knowledgeable. I'll keep you in mind for people traveling to Rhodes Thank you again, Marlene and Sotiris Caracalas caracalas@caltel.com
-
-    Dear Nicholas,<br>
-    Our day in Rhodes was a highlight of our trip, thanks to Michael P. and your magnificent island. I was dreaming all day long of coming back for an extended stay. Rhodes is an island we will definitely return to for a vacation! Michael was a great guy and a great driver, so professional. Even though we were only in Rhodes for one day, he made our trip seem leisurely and fun! My husband and I spend several hours at Lindos Beach, most of the time eating lunch and drinking wine at the restaurant, which was outstanding!<br>
-    Thank you so much and please thank Michael for us again. We would recommend Rhodes Taxi and Michael P. to any of our friends planning a trip to Rhodes. Please add our comments to your website.<br>
-    Regards, Sally Moskowitz Bethesda, Maryland sally503@aol.com
-
-    We thoroughly enjoyed our tour with Manuel, and will reccommend your services for anyone desiring a private tour of Rhodes. Cordially, Charles Consolvo consolvoc@att.net You were terrific. I will recommend you to our friends . Your flexibility served all our needs.<br>
-    Kind regards, Jim Friel tripster1@adelphia.netNick and I would like to thank you once again for the wonderful private tour you gave us on June 25th. We had so much fun and truly enjoyed your company. Rhodes was one of our favorite islands. If we ever make it back to Greece, we would make it a point to visit Mykonos and Rhodes. And we would definately use you again. Thank you very much!!!<br>
-    Bridget McFall Moore getit@netease.net
-
-    I am sorry to respond so late after our trip. We so enjoyed spending the day with Michael on May 30. We learned so much. The next 2 days in Rhodes we had a rental car and enjoyed the rest of the island ( or least much of it). Marianne from the S. Nikolis Hotel gave us good advice. After Rhodes we went to Santorini and then back to Athens for 3 days in the Pelopennesus with George the taxi driver. (actually we had Niko, a friend of his). We then went to Hydra and then back to Athens and then home.<br>
-    A very nice trip to Greece for us. We need to come back soon. Again thanks and wish Michael good luck with his upcoming new family (twins??) Mark Schneider Sharyn Kaplan Robin and Matt Rhoades markschneider2@comcast.net
-
-    Dear Nicholas,<br>
-    Thank you for your email message. We did arrive home safely and had a great trip. We really enjoyed meeting you and appreciate your good tour. We will definitely be in touch on our next trip and will refer our friends.<br>
-    Regards, Carol Thompson JOECBJAX@BELLSOUTH.NET
-
-    Nickolas,<br>
-    We just returned home from our trip and had a wonderful time. We especially enjoyed our day with you in Rhodes. It was so nice to get off of the ship and see you waiting with the Mercedes. It was such an advantage to get to Old Town before the crowds and we really loved Lindos You made our day very special and were so knowledgeable about the island. We plan to return soon and appreciate all your help. We will contact you when we return to Greece and thank you again for an unforgettable day on what turned out to be our favorite island! Please feel free to use us as a reference. We would be pleased to recommend you to anyone.<br>
-    Angie adpcamp@yahoo.comHi Nick. Thank you very much. We had a wonderful tour of Rhodes. Michael was terrific lhanford@irr.com
-
-    Dear Nicholas,<br>
-    You were the best driver! We absolutely loved Rhodes, and it may have been the favorite stop. Gary tells everyone about the small restaurant overlooking the beautiful water which you showed us - away from the buses of tourists. From the moment you picked us up, it was great. Thank you so very much and we will certainly recommend you others.<br>
-    Our best to you and your family, and hopefully, we'll see you again one day soon.<br>
-    Sincerely,<br>
-    Pat & Gary Mackenzie mackenpg@yahoo.com
-
-    Hi Nicholas,<br>
-    I already told you that we had a great time - but just wanted to let you know that Gary is still "on the beach sipping his Mythos" . . . mentally. He absolutely loved it there and is telling everyone he knows about the yacht idea. You might get some calls.<br>
-    Bought a couple cookbooks on Greek food. Having fun with the recipes.<br>
-    Also, enjoyed you very much. So, if you and your family would ever like to visit California, please let us know.<br>
-    Thanks again for a great time,<br>
-    Pat & Gary Mackenzie mackenpg@yahoo.com
-
-    Dear Nick and Dominique:<br>
-    I can't believe how smoothly your operation is run. You were there waiting for us as we disembarked and ready to go. We were absolutely delighted with Dominique and had a terrific time. We really appreciated the fact that we/you were able to be so flexibile about our tour, and that Dominique was so knowledgable about the area. The little extras he provided, like the tour through the back streets of old Rhodes, is an experience we won't soon forget and was a wonderful bonus for us. He helped create great memories of Rhodes, and for that I wish to thank you. Yours sincerely,<br>
-    Diane Schijns (19 October 2005) david.schijns@sympatico.ca
-
-    Nick.<br>
-    We would like to thank you for the service you provided us on Rhodes. We enjoyed our day immensely and we would like to point out to you that we were very happy with Georges tour of the island. His rich knowledge of the island and his quiet and informed positioning of his services were well received. We thank both of you for making our day on Rhodes one to remember.<br>
-    Best regards ... Paul and Freddi prodier@cips.ca
-
-    Hello Nick,<br>
-    It has been a long time since we met & toured Rhodes. Because you were so good and the tour was fantastic, the memories linger on & on & on!! Hope you & your lovely family are all doing well and are in good health.<br>
-    Irwin, my husband, and I are going to do a cruise in early May from Rome to Barcelona.<br>
-    By the way I LOST on picking this cruise - I wanted to do the Greek Isles along with Rhodes - Irwin nixed it - but maybe the next time & hopefully soon. Waiting to hear from you Jo-Ann (Rhodes tour 1999 via Renaissance) GIOMARIA@aol.com
+  text: "Nickolas. We have been back from our trip for about a week, and I have been
+    meaning to write to you. John and I wanted to thank you for the wonderful day
+    you gave us on your beautiful island of Rhodes. We thoroughly enjoyed the touring,
+    and we had such fun with you. Your enthusiasm and love for Rhodes comes through,
+    and you are an exceptionally informative driver. I especially appreciate your
+    kindness to me, taking me in my wheelchair to the theater site. One of the special
+    things we will remember is our delicious lunch at the little restaurant in Lindos
+    town. A Greek salad, fried calamari and retsina overlooking the blue water is
+    just about perfection! Thanks again, Nicholas. I will be posting your information
+    on a couple of websites so that others can contact you for a wonderful day on
+    Rhodes.<br>\nPriscilla<br>\npkdavenport@sbcglobal.net\n\nThanks so much! We enjoyed
+    your tour very much.<br>\nLarry<br>\nlzirkle@brightok.net\n\nJust returned home
+    this week. Thank you for a most enjoyable tour of Rhodes.  We will be very happy
+    to recommend you to our friends. Regards<br>\nHelga and Peter <br>\nheggles2@optusnet.com.au\n\nDear
+    Nick, my sis and I thoroughly enjoyed our tour through Rhodes in September. We
+    reserved your tour by email prior to our arrival. You were so great in helping
+    us see and hear the beauty of your island. I learned much from you and our tour
+    remains the highlight of a 2 week trip. Your services are truly NOT over-rated
+    in the letters sent to Matt Barrett's website by other travelers! You even took
+    us to a bank with the best exchange rates!! My grandmother was born on Crete and
+    my grandfather on Malta... so the historical sites about the Knights of St. John
+    was fascinating to me. And the olive trees, resting at the cafe by the bay...
+    will all hold a special place in memories of Rhodes and the beautiful Greek Isles.
+    We found Greece to be, without exception, a place of friendly, easy-going, and
+    very handsome people. In a land filled with clean streets, fabulous food and a
+    sea which is truly blessed with beauty by the gods. Thank you, thank you, thank
+    you. May God bless you and your family.<br>\nElaine J. Giamona, RPM McCoy Real
+    Estate & Property Management <br>\negiamona@re4u.net\n\nGentlemen, Thank you for
+    the kind words.  We had a wonderful time and will be sure to recommend your services
+    if we have friends in the area.<br>\nKindest Regards, Joe & Merle<br>\njoeruf@comcast.net\n\nThank
+    you, Nick.  We had a wonderful trip and everyone especially enjoyed the tour of
+    Rhodes. All the drivers were terrific and very knowledgeable. I'll keep you in
+    mind for people traveling to Rhodes Thank you again, Marlene and Sotiris<br>\ncaracalas@caltel.com\n\nDear
+    Nicholas, Our day in Rhodes was a highlight of our trip, thanks to Michael P.
+    and your magnificent island. I was dreaming all day long of coming back for an
+    extended stay. Rhodes is an island we will definitely return to for a vacation!
+    Michael was a great guy and a great driver, so professional. Even though we were
+    only in Rhodes for one day, he made our trip seem leisurely and fun! My husband
+    and I spend several hours at Lindos Beach, most of the time eating lunch and drinking
+    wine at the restaurant, which was outstanding!<br>\nThank you so much and please
+    thank Michael for us again. We would recommend Rhodes Tours and Michael P. to
+    any of our friends planning a trip to Rhodes. Please add our comments to your
+    website.<br>\nRegards, Sally Moskowitz Bethesda, Maryland sally503@aol.com\n\nWe
+    thoroughly enjoyed our tour with Manuel, and will reccommend your services for
+    anyone desiring a private tour of Rhodes.<br>\nCordially, Charles <br>\nconsolvoc@att.net
+    \n\nYou were terrific. I will recommend you to our friends . Your flexibility
+    served all our needs.<br>\nKind regards, Jim Friel<br>\ntripster1@adelphia.net\n\n\nNick
+    and I would like to thank you once again for the wonderful private tour you gave
+    us on June 25th. We had so much fun and truly enjoyed your company. Rhodes was
+    one of our favorite islands. If we ever make it back to Greece, we would make
+    it a point to visit Mykonos and Rhodes. And we would definately use you again.
+    Thank you very much!!!<br>\nBridget McFall Moore<br>\ngetit@netease.net\n\nI am
+    sorry to respond so late after our trip. We so enjoyed spending the day with Michael
+    on May 30. We learned so much. The next 2 days in Rhodes we had a rental car and
+    enjoyed the rest of the island ( or least much of it).  After Rhodes we went to
+    Santorini and then back to Athens for 3 days in the Pelopennesus with George the
+    taxi driver. (actually we had Niko, a friend of his). We then went to Hydra and
+    then back to Athens and then home.<br>\nA very nice trip to Greece for us. We
+    need to come back soon. Again thanks and wish Michael good luck with his upcoming
+    new family (twins??) <br>\nMark, Sharyn, Kaplan and Matt<br> markschneider2@comcast.net\n\nDear
+    Nicholas,  Thank you for your email message. We did arrive home safely and had
+    a great trip. We really enjoyed meeting you and appreciate your good tour. We
+    will definitely be in touch on our next trip and will refer our friends.<br>\nRegards,
+    Carol <br>\nJOECBJAX@BELLSOUTH.NET\n\nNickolas,  We just returned home from our
+    trip and had a wonderful time. We especially enjoyed our day with you in Rhodes.
+    It was so nice to get off of the ship and see you waiting with the Mercedes. It
+    was such an advantage to get to Old Town before the crowds and we really loved
+    Lindos You made our day very special and were so knowledgeable about the island.
+    We plan to return soon and appreciate all your help. We will contact you when
+    we return to Greece and thank you again for an unforgettable day on what turned
+    out to be our favorite island! Please feel free to use us as a reference.<br>\nWe
+    would be pleased to recommend you to anyone,  Angie<br>\nadpcamp@yahoo.com\n\nHi
+    Nick. Thank you very much. We had a wonderful tour of Rhodes. Michael was terrific<br>\nlhanford@irr.com\n\nDear
+    Nicholas, You were the best driver! We absolutely loved Rhodes, and it may have
+    been the favorite stop. Gary tells everyone about the small restaurant overlooking
+    the beautiful water which you showed us - away from the buses of tourists. From
+    the moment you picked us up, it was great. Thank you so very much and we will
+    certainly recommend you others.<br>\nOur best to you and your family, and hopefully,
+    we'll see you again one day soon.<br>\nSincerely, Pat & Gary<br>\nmackenpg@yahoo.com\n\nHi
+    Nicholas, I already told you that we had a great time - but just wanted to let
+    you know that Gary is still \"on the beach sipping his Mythos\" . . . mentally.
+    He absolutely loved it there and is telling everyone he knows about the yacht
+    idea. You might get some calls.   Bought a couple cookbooks on Greek food. Having
+    fun with the recipes.  Also, enjoyed you very much. So, if you and your family
+    would ever like to visit California, please let us know.<br>\nThanks again for
+    a great time,<br>\nPat & Gary Mackenzie <br>\nmackenpg@yahoo.com\n\nDear Nick
+    and Dominique:  I can't believe how smoothly your operation is run. You were there
+    waiting for us as we disembarked and ready to go. We were absolutely delighted
+    with Dominique and had a terrific time. We really appreciated the fact that we/you
+    were able to be so flexibile about our tour, and that Dominique was so knowledgable
+    about the area. The little extras he provided, like the tour through the back
+    streets of old Rhodes, is an experience we won't soon forget and was a wonderful
+    bonus for us. He helped create great memories of Rhodes, and for that I wish to
+    thank you. Yours sincerely,<br>\nDiane (19 October 2005)<br> david.schijns@sympatico.ca\n\nNick.
+    \ We would like to thank you for the service you provided us on Rhodes. We enjoyed
+    our day immensely and we would like to point out to you that we were very happy
+    with Georges tour of the island. His rich knowledge of the island and his quiet
+    and informed positioning of his services were well received. We thank both of
+    you for making our day on Rhodes one to remember.<br>\nBest regards ... Paul and
+    Freddi<br> prodier@cips.ca\n\nHello Nick,  It has been a long time since we met
+    & toured Rhodes. Because you were so good and the tour was fantastic, the memories
+    linger on & on & on!! Hope you & your lovely family are all doing well and are
+    in good health.<br>\nIrwin, my husband, and I are going to do a cruise in early
+    May from Rome to Barcelona.<br>\nBy the way I LOST on picking this cruise - I
+    wanted to do the Greek Isles along with Rhodes - Irwin nixed it - but maybe the
+    next time & hopefully soon. Waiting to hear from you Jo-Ann (Rhodes tour 1999
+    via Renaissance) GIOMARIA@aol.com"
 - year: "2004"
   text: "Dear Nicholas:  We only concluded our world tour two weeks ago and have been
     busy \"catching up\" since our return.   I must thank you from the bottom of my
