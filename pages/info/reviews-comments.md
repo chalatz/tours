@@ -4193,15 +4193,15 @@ reviews:
     tour of Rhodes. Yes, the rest of our vacation was fantastic and our journey home
     was safe. We were very pleased with your drive services and would highly recommend
     your services to others visiting the lovely island of Rhodes. Thanks for making
-    our visit there so much more convenient and informative.<br>\nAll the best...<br>\nRandy
-    & Wanda<br>\nrhodes@chesapeake.net\n\nNicholas, I just wanted to take the opportunity
-    to thank you for your services while we were in Rhodes. We're back in Cairo now,
-    but had such a wonderful time there, that we are starting to plan for another
-    vacation to Rhodes.<br>\nMy wife commented how she enjoyed your friendly and fun
-    attitude, and I agree. My kids still talk about their donkey ride to the top of
-    lindos Acropolis - a great recommendation. I will definitely pass your email address
-    on to our friends here who are planning trips to Rhodes.<br>\nPlease also pass
-    our regards on to your brother, and we hope to see you again someday.<br>\nWarmest
+    our visit there so much more convenient and informative.<br>\nAll the best...
+    Randy & Wanda<br>\nrhodes@chesapeake.net\n\nNicholas, I just wanted to take the
+    opportunity to thank you for your services while we were in Rhodes. We're back
+    in Cairo now, but had such a wonderful time there, that we are starting to plan
+    for another vacation to Rhodes.<br>\nMy wife commented how she enjoyed your friendly
+    and fun attitude, and I agree. My kids still talk about their donkey ride to the
+    top of lindos Acropolis - a great recommendation. I will definitely pass your
+    email address on to our friends here who are planning trips to Rhodes.<br>\nPlease
+    also pass our regards on to your brother, and we hope to see you again someday.<br>\nWarmest
     Regards<br>\nVince, Michele, Karina, and Meredith<br>  vincent@koprivas.com      "
 - year: "2001"
   text: "Hello Nicholas,  You did a great job with your web site and the pictures.
