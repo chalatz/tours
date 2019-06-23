@@ -4290,34 +4290,34 @@ reviews:
     FROM THE TRIP. I WANT TO TELL YOU HOW MUCH WE ENJOYED THE TOUR. WE MET SOMEONE
     WHO TOURED US IN EPHESUS WHO KNOWS YOU. I HOPE YOU WILL GENERATE A LOT OF BUISNESS
     WITH YOUR WEB SITE. DAN AND I WILL RECOMMEND YOU TO PEOPLE WE KNOW WHO WILL BE
-    IN RHODES. HAVE A WONDERFULL HOLIDAY SEASON.<br>\nLEE JANKO LeeJanko@aol.com\n\nDear
+    IN RHODES. HAVE A WONDERFULL HOLIDAY SEASON.<br>\nLEE <br>\nLeeJanko@aol.com\n\nDear
     Nick:  Thanks for your greeting. We had a great trip. We would have really enjoyed
     more time in beautiful Rhodes. Will be checking for our foto. Our warm regards
     to Michael. Hope you will have a good -off season - remember the R ships will
-    still be coming!!!<br>\nBest- Virginia veetash@optonline.net\n\nHello From Colorado.
-    \  Yes, I DO recommend Nicholas. He is a wonderful person to work with in advance
-    through e-mail and he and his brother Michael both speak very good English. We
-    couldn't have asked for more! Michael was our driver. We were four persons traveling
-    together and made ALL our tours reservations in advance of leaving last April.
-    We were on R-1 from Istanbul to Athens. Nick and Michael are VERY flexible and
-    will work around whatever you want. Enjoy your trip! <br>\nRenee Latty <br>\nRlatty3@aol.com\n\nDear
-    Nicholas, Yes, it's sad to say but we are back home now. I can't believe how fast
-    our vacation went by. We met wonderful people and learned so much history during
-    our 15 day cruise. Thank you so much for setting up our drivers for the nine people
-    we had in our group. We had a great time with Themis. What a beautiful island
-    you live on!<br>\nThank you for showing us the sites. We will never forget this
-    vacation!<br>\nBest Regards,<br>\nKim Moriarty<br>\nkimcunanan@hotmail.com\n\nDear
+    still be coming!!!<br>\nBest- Virginia <br>\nveetash@optonline.net\n\nHello From
+    Colorado.   Yes, I DO recommend Nicholas. He is a wonderful person to work with
+    in advance through e-mail and he and his brother Michael both speak very good
+    English. We couldn't have asked for more! Michael was our driver. We were four
+    persons traveling together and made ALL our tours reservations in advance of leaving
+    last April. We were on R-1 from Istanbul to Athens. Nick and Michael are VERY
+    flexible and will work around whatever you want. Enjoy your trip! <br>\nRenee
+    Latty <br>\nRlatty3@aol.com\n\nDear Nicholas, Yes, it's sad to say but we are
+    back home now. I can't believe how fast our vacation went by. We met wonderful
+    people and learned so much history during our 15 day cruise. Thank you so much
+    for setting up our drivers for the nine people we had in our group. We had a great
+    time with Themis. What a beautiful island you live on!<br>\nThank you for showing
+    us the sites. We will never forget this vacation!<br>\nBest Regards, Kim<br>\nkimcunanan@hotmail.com\n\nDear
     Nicholas,  Thank you for the outstanding tour. We enjoyed our stay at Rhodes.<br>\nOur
-    vacation was excellent! You will probably see us again some day.<br>\nSincerely,<br>\nJohn
-    and Margo McDaniel<br>\njmcgold@earthlink.net\n\nDear Nick,  Vasilis was a wonderful
-    driver..we liked him very much<br>\nYour island is beautiful and we will ask for
-    a recommendation of a great place to stay!!<br>\nThanks Robin and Herman Sklarin
-    <br>\nDevilnut@aol.com \n\nHi, Nick! Thanks for the tour! We had a great time
-    in Rhodes. Both Michaels were very knowledgable about the area. When I go to an
-    area, I like to know the place. Every place has a story and it's great to learn
-    new things about different places. We found both Michaels very interesting, friendly
-    and fun. Also, very flexible and accommodating. It made the tour that much more
-    enjoyable.<br>\nThank you again for a very enjoyable tour.<br>\nMary-Beth Inglis714@aol.com\n\nDear
+    vacation was excellent! You will probably see us again some day.<br>\nSincerely,
+    John and Margo<br>\njmcgold@earthlink.net\n\nDear Nick,  Vasilis was a wonderful
+    driver..we liked him very much.  Your island is beautiful and we will ask for
+    a recommendation of a great place to stay!!<br>\nThanks, Robin and Herman<br>\nDevilnut@aol.com
+    \n\nHi, Nick! Thanks for the tour! We had a great time in Rhodes. Both Michaels
+    were very knowledgable about the area. When I go to an area, I like to know the
+    place. Every place has a story and it's great to learn new things about different
+    places. We found both Michaels very interesting, friendly and fun. Also, very
+    flexible and accommodating. It made the tour that much more enjoyable.<br>\nThank
+    you again for a very enjoyable tour.<br>\nMary-Beth <br>\nInglis714@aol.com\n\nDear
     Nick and Mike,  We all enjoyed our day with you very much. Tell Mike the pastries
     were wonderful. If we are in Rhodes again we will make arrangements to see you,
     and, of course if you are ever here in Florida, please contact us and we will
@@ -4325,11 +4325,11 @@ reviews:
     we hope you and your families are all well. Also, please send our regards to Michael
     and Vasilis as well.<br>\nSincerely,<br>\nJoan Licht and the group (Jules, Ida,
     Irving, Michael, Ray, Janet, Phil, Marcia, Ian)<br>\nTanta999@aol.com\n\nThanks,
-    I just got back. Manuel was excellent.<br>\nThank-you. I will definitely recommend
+    I just got back. Manuel was excellent. \nThank-you. I will definitely recommend
     your tour.<br>\nRegard PDefilip@aol.com<br>\nPasquale De Filippis, MBA, PMP<br>\nPrincipal
     Consultant-ESI International\n\nDominic was most pleasand and we had a great time
-    with him in Rhodes Town and in Lindos. He made our trip very enjoyable.<br>\nThe
-    rest of our journey was also pleasant, although we could have skipped Santorini.<br>\nWe
+    with him in Rhodes Town and in Lindos. He made our trip very enjoyable.  The rest
+    of our journey was also pleasant, although we could have skipped Santorini.  We
     loved Istanbul. Both my husband and I look forward to revisiting Rhodes, Istanbul
     and Athens. When we do we will certainly contqact you and I will add my name to
     those who have previously recommended you.<br>\nSincerely, Natalie <br>\n nvfisher@con2.com\n\nThank
@@ -4393,12 +4393,12 @@ reviews:
     and we feel lucky that you took us on our tour. Thanks again and regards from
     everyone. Say hello to George.<br>\nAl Esquivel <br>\nalesqui@earthlink.net\n\nExcellent
     trip thanks to the inside knowledge of our driver friend. Rhodes was one of the
-    best parts of the trip<br>\nThanks<br>\nMarv and Mary<br>\nmarvlam@techline.com\n\nI
+    best parts of the trip<br>\nThanks, Marv and Mary<br>\nmarvlam@techline.com\n\nI
     have just viewed your web site. It looks wonderful! I am traveling with a group
     of 20 and I believe most, if not all, of us will be touring with you. I heard
     about you from one of your passengers - Znr123.<br>\nI am looking forward to having
     you show me your island on July 25. will notify you how many cars we will need
-    in June. Thank you,<br>\nBarbara <br>\nBRossman18@aol.com\n\nDear Nick:  We returned
+    in June.<br>\nThank you, Barbara<br>\nBRossman18@aol.com\n\nDear Nick:  We returned
     to the USA last Thursday to a snow storm. Thank you so much for showing the four
     of us your lovely island! We were the two couples fro the Renaissance Cruse (I
     was the lady with the \"boot\" on one leg).<br>\nWe have friends taking the same
