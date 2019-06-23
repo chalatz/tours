@@ -4283,7 +4283,7 @@ reviews:
     You are a very good driver and I would recommend you to others. You can use this
     as a testimonial if you wish. We liked your WEB page and sent it on to others
     to share. Our farm was fine and all the animals survived well.<br>\nWhen we come
-    back to Rhodes we will get with you again.<br>\nYou were a highlight on our trip.<br>\nWe
+    back to Rhodes we will get with you again.  You were a highlight on our trip.<br>\nWe
     will stay in touch and when you come to the USA (South Carolina) come see us and
     stay with us. We will show you around.<br>\nBruce & Pat Radenbaugh<br>\nDaisy
     Crossing Farm<br>\nBruceR1293@aol.com\n\nGREETINGS FROM CHICAGO,  WHEN I RETURNED
