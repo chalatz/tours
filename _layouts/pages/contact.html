@@ -34,8 +34,12 @@ layout: default
       {%- include partials/contact-form.html from_page = 'Contact Page' return_to = page.url -%}
     </div>
 
-    <div class="page__section contact-page__content">
-      {{ content }}
+    <div class="page__section contact-page__content cols cols-{{ page.info.items_per_row }}">
+      {%- for col in page.info.columns -%}
+        <div class="col col-of-{{ page.info.items_per_row }} col-{{ forloop.index }}-of-{{ page.info.items_per_row }}">
+          {{ col | markdownify }}
+        </div>
+      {%- endfor -%}
     </div>
 
   </section>
