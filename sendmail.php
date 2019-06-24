@@ -1,8 +1,12 @@
 <?php
 
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+$debug = true;
+
+if ($debug) {
+    ini_set('display_errors', 1);
+    ini_set('display_startup_errors', 1);
+    error_reporting(E_ALL);
+}
 
 include 'class.IPInfoDB.php';
 
@@ -53,6 +57,23 @@ $type_of_tour = $_POST['type_of_tour'];
 $speaking_language = $_POST['speaking_language'];
 $party_num = $_POST['party_num'];
 $comments = $_POST['comments'];
+
+if ($debug) {
+    echo "<pre>";
+    print_r($_POST);
+    if(isset($_POST['meli_tria'])){
+        $meli_tria_passed = false;
+    } else {
+        $meli_tria_passed = true;
+    }
+    if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed) {
+        echo 'passed!';
+    } else {
+        echo 'spam!';
+    }
+    echo "</pre>";
+    die();
+}
 
 $address = "request@rhodestoursexcursions.com";
 

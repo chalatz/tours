@@ -3,11 +3,8 @@
     <div class="form__body">
         <form method="POST" name="sendmail" class="form__form" action="sendmail.php">
 
-            {%- comment -%} <label class="visuallyhidden">
-                <input type="text" name="sfsdfser"  tabindex="-1" autocomplete="off">
-            </label>
 
-            <input type="hidden" name="meli_dio" autocomplete="off"> {%- endcomment -%}
+            <input type="hidden" name="meli_dio" autocomplete="off">
 
             <input type="hidden" name="from_page" value="{{ include.from_page | upcase }}">
 
@@ -164,6 +161,14 @@
                 <label class="form__label" for="comments">Comments: <span class="mobile-only mobile-only--inline">Please include:<br>"Tour Start Location" and "Tour Date"</span></label>
                 <textarea class="form__input form__input--textarea" name="comments" cols="30" rows="3"></textarea>
             </div>
+
+            <label class="visuallyhidden">
+                <textarea name="meli_ena" cols="30" rows="10" tabindex="-1" autocomplete="off"></textarea>
+            </label>
+
+            <label class="visuallyhidden">
+                <input type="checkbox" name="meli_tria" tabindex="-1" autocomplete="off">
+            </label>
 
             <button name="" type="submit" class="form__submit">
                 Send
