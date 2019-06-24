@@ -29,6 +29,8 @@
                 {%- endif -%}
             {%- endif -%}
 
+            <input type="hidden" name="meli_dio" autocomplete="off">
+
             <input type="hidden" name="from_page" value="{{ from_page | upcase }}">
 
             <input type="hidden" name="page_url" value="{{ page.permalink }}">
@@ -54,6 +56,14 @@
                 <label class="pop-form__label" for="comments">Comments: Please include:<br>"Tour Start Location" and "Tour Date"</label>
                 <textarea class="pop-form__input pop-form__input--textarea" name="comments" cols="30" rows="3"></textarea>
             </div>
+
+            <label class="visuallyhidden">
+                <textarea name="meli_ena" cols="30" rows="10" tabindex="-1" autocomplete="off"></textarea>
+            </label>
+
+            <label class="visuallyhidden">
+                <input type="checkbox" name="meli_tria" tabindex="-1" autocomplete="off">
+            </label>
 
             <button type="submit" class="pop-form__submit">
                 Send

@@ -1,6 +1,6 @@
 <?php
 
-$debug = true;
+$debug = false;
 
 if ($debug) {
     ini_set('display_errors', 1);
@@ -58,19 +58,22 @@ $speaking_language = $_POST['speaking_language'];
 $party_num = $_POST['party_num'];
 $comments = $_POST['comments'];
 
-if ($debug) {
-    echo "<pre>";
-    print_r($_POST);
+function passed(){
     if(isset($_POST['meli_tria'])){
         $meli_tria_passed = false;
     } else {
         $meli_tria_passed = true;
     }
-    if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed) {
-        echo 'passed!';
+    if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed){
+        return true;
     } else {
-        echo 'spam!';
+        return false;
     }
+}
+
+if ($debug) {
+    echo "<pre>";
+    print_r($_POST);
     echo "</pre>";
     die();
 }
@@ -105,14 +108,13 @@ $msg .= "City Name: $cityName\r\n";
 $msg .= "Zip Code: $zipCode\r\n";
 $msg .= "Time Zone: $timeZone\r\n";
 
-if(mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\n"))
-{
+if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\n")){
     // Email has sent successfully, echo a success page.
 
     header('Location: ' . $return_to . '?contact-form-sent=success');
 
-    } else {
-        header('Location: '. $return_to);
-    }
+} else {
+    header('Location: '. $return_to);
+}
 
 ?>
