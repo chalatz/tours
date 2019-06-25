@@ -1,0 +1,66 @@
+---
+label: Contact Us
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: type
+  label: type
+- type: text
+  name: id
+  label: id
+- type: text
+  name: permalink
+  label: permalink
+- type: boolean
+  name: has_form
+  label: has_form
+- type: boolean
+  name: has_gallery
+  label: has_gallery
+- type: field_group
+  name: meta
+  label: meta
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: http_desc
+    label: http_desc
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: keywords
+    label: keywords
+  - type: text
+    name: abstract
+    label: abstract
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: copyright
+    label: copyright
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: textarea
+  name: desc
+  label: desc
+- type: field_group
+  name: info
+  label: info
+  fields:
+  - type: number
+    name: items_per_row
+    label: items_per_row
+  - type: list
+    name: columns
+    label: columns
