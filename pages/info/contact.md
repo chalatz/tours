@@ -18,7 +18,7 @@ subtitle: Thank you for the interest that you've shown in our services
 desc: Submit an online request for additional information / prices / cost / reservations,
   or book now and your PRIVATE TOUR will be confirmed within 24 hours.
 info:
-  items_per_row: "3"
+  items_per_row: 3
   columns:
   - |-
     EOT (Greek National Tourist Organization)<br>

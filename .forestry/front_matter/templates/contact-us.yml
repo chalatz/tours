@@ -70,3 +70,5 @@ fields:
   - type: list
     name: columns
     label: columns
+pages:
+- pages/info/contact.md
