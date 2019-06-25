@@ -4,7 +4,7 @@ type: contact_page
 id: contact_page
 permalink: contact_us.htm
 has_form: true
-has_gallery: false
+has_gallery: true
 meta:
   title: 'Rhodes Private Tours, Rhodes Shore Excursions, Rhodes Taxi Tours '
   http_desc: 'Rhodes Private Tours, Rhodes Shore Excursions, Rhodes Taxi Tours '
