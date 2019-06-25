@@ -5,21 +5,26 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: type
   label: type
+  hidden: true
 - type: text
   name: id
   label: id
+  hidden: true
 - type: text
   name: permalink
   label: permalink
 - type: boolean
   name: has_form
   label: has_form
+  hidden: true
 - type: boolean
   name: has_gallery
   label: has_gallery
+  hidden: true
 - type: field_group
   name: meta
   label: meta
@@ -61,6 +66,7 @@ fields:
   - type: number
     name: items_per_row
     label: items_per_row
+    hidden: true
   - type: list
     name: columns
     label: columns
