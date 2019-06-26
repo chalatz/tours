@@ -54,7 +54,7 @@ details:
   - title: "(Stop Visit Photos)"
     desc: Stop and visit - go inside the Sight/building with your tour guide for photos and <u>Guided Walking Tour</u>
   - title: 'Private Tour Activity Level:'
-    desc: 'oderate (or "Easy" if you skip the Acropolis of Lindos)'
+    desc: 'Moderate (or "Easy" if you skip the Acropolis of Lindos)'
   - title: 'Private Tour Guide'
     desc: 'English speaking experienced licensed tour guide specialize in Private Tours'
   - title: 'Private Tour Driver'
@@ -186,7 +186,7 @@ Only a short walk away is the **Marina Gate** which leads to your vehicle which 
 
 You will make a brief stop at a **traditional pottery workshop** on the way to Lindos. This is your chance to watch the potter work at his wheel to make his wonderful pieces of art. <u>Guided Tour</u> (Stop Visit Photos)
 
-The drive across the coast will give provide you with an impressive vantage point of the **Acropolis of Lindos**, revealing the white village located in a picturesque bay below. Your journey will continue to **St. Paul's Bay** to the south of Lindos, bringing into view the famous cave where the film **"The Guns of Navarone"** was filmed. Guided Tour (Stop Photos).
+The drive across the coast will give provide you with an impressive vantage point of the **Acropolis of Lindos**, revealing the white village located in a picturesque bay below. Your journey will continue to **St. Paul's Bay** to the south of Lindos, bringing into view the famous cave where the film **"The Guns of Navarone"** was filmed. <u>Guided Tour</u> (Stop Photos).
 
 As you enter **Lindos Village**, your <u>Guided Walking Tour</u> will start. You will make our way up the narrow cobblestone pathway leading to the summit of the Acropolis of Lindos, which will provide you with a beautiful view of the remains of past civilizations. (Stop Visit Photos)
 

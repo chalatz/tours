@@ -29,9 +29,9 @@ We own our fleet of Mercedes Benz Sedan Limos, so we don't have to cut corners t
 
 We don't need your credit card number. No prepayment. Book now pay at the end of the tour.
 
-### Flexible Cancellation Policy
+### Free Cancellation Policy
 
-There is no cancellation charge if we receive at least 48 hours' notice of your cancellation before the start of the service. If you are a cruise ship passenger - No port, No pay, it's so simple.
+There is no cancellation charge if we receive at least 48 hours’ notice of your cancellation before the start of the service. If you are a cruise ship passenger and for some reasons your ship doesn’t dock to Rhodes, no charge. No port, No pay, it’s so simple.
 
 ### No Fee for Last Minute Booking or Changes
 

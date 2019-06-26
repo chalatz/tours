@@ -31,7 +31,7 @@ Our private guided tours are fully guided/escorted by licensed passionate tour g
 
 ### No Full Prepayment 
 
-Just a small deposit to secure your reservation. Book now and pay at the end of the tour.
+A deposit to secure your reservation. Book now and pay at the end of the tour.
 
 ### Flexible Cancellation Policy
 

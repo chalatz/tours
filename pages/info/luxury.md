@@ -19,11 +19,11 @@ title: Luxury Travel Guide Europe Awards - Rhodes Private Tours 2019
 subtitle: '"Exclusive Tour Operator of the Year" Greece'
 
 extra_info: |-
-  ### About the Luxury Travel Awards
+  ### Luxury Travel Guide Awards
 
-  The Luxury Travel Awards recognize and celebrate excellence across all sectors of the affluent travel and tourism industry. The team of experts have scoured the globe and travelled extensively in order to identify everything from the very best hotels and airlines through to highlighting the most reputable tour service companies.
+  101 The Big Peg, 120 Vyse St, Birmingham West Midlands, B18 6NF, United Kingdom
 
-  <http://www.ltgawards.com>
+  www.ltgawards.com
 
 gallery:
   items_per_row: 2

@@ -310,6 +310,5 @@ end_page:
 ### Related Links "Rhodesli's" History and Traditions
 
 {: .centered }
-[WORLD MONUMENTS FUND-KAHAL SHALOM SYNAGOGUE](http://www.wmf.org/project/kahal-shalom-synagogue){: target="_blank"}  
-[The migration of Rhodian Jews to Africa and the Americas from 1900-1914](http://sefarad.org/diaspora/rhodes/vie/rhodes.php/id/16/){: target="_blank"}  
+[WORLD MONUMENTS FUND-KAHAL SHALOM SYNAGOGUE](http://www.wmf.org/project/kahal-shalom-synagogue){: target="_blank"}    
 [CONGREGATION EZRA BESSAROTH HISTORY](http://www.ezrabessaroth.net/about-us/history){: target="_blank"}

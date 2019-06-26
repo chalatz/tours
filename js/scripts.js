@@ -358,7 +358,16 @@
         
     };
 
-      
+    var handle_privacy_modal = function(){
+        // Hide modal on ESC key
+        var the_modal = $('#privacy-terms');
+        $(document).on('keydown', function(e){            
+            if(the_modal.is(':visible') && e.keyCode == 27){
+                the_modal.hide();
+                $('body').removeClass();
+            }            
+        });
+    };
 
     fill_year();
 
@@ -377,6 +386,8 @@
     slide_tour_content();
 
     handle_contact_form_post();
+
+    // handle_privacy_modal();
 
     // scroll_to('goto-rhodes-sites', 'rhodes-sites');
     // scroll_to('goto-more-info', 'more-info');
