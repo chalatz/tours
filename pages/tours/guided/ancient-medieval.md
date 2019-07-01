@@ -7,36 +7,39 @@ has_form: true
 has_gallery: true
 is_of: guided_tours
 meta:
-  title: 'Rhodes Ancient and Medieval Times, Rhodes Private Tours'
-  http_desc: 'Rhodes Ancient and Medieval Times, Rhodes Private Tours Greece'
-  description: 'Rhodes Ancient and Medieval Times, Rhodes Private Tours Greece'
-  keywords: 'Rhodes Ancient and Medieval Times, Rhodes Private Tours Greece'
-  abstract: 'Rhodes Ancient and Medieval Times, Rhodes Private Tours Greece'
+  title: Rhodes Ancient and Medieval Times, Rhodes Private Tours
+  http_desc: Rhodes Ancient and Medieval Times, Rhodes Private Tours Greece
+  description: Rhodes Ancient and Medieval Times, Rhodes Private Tours Greece
+  keywords: Rhodes Ancient and Medieval Times, Rhodes Private Tours Greece
+  abstract: Rhodes Ancient and Medieval Times, Rhodes Private Tours Greece
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-
 title: '"Rhodes Ancient & Medieval Times" GT5'
 tour:
   title: '"Rhodes Ancient & Medieval Times" GT5'
-  summary: Rhodes Medieval City & Grand Master Palace / Rhodes New Town / Acropolis of Rhodes / Acropolis of Ancient Ialyssos
+  summary: Rhodes Medieval City & Grand Master Palace / Rhodes New Town / Acropolis
+    of Rhodes / Acropolis of Ancient Ialyssos
   duration: Half Day
-
 summary:
   paragraphs:
-  - Are you curious about the famous historical sites in Rhodes? This island since the antiquity was a crossroad served as the melting pot for eastern and western cultures, and as a result stores a vault full of historical knowledge. You’ll be guided by expert tour guides who will share local insights, facts, and historical data that ultimately defined the island for what it is today.
+  - Are you curious about the famous historical sites in Rhodes? This island since
+    the antiquity was a crossroad served as the melting pot for eastern and western
+    cultures, and as a result stores a vault full of historical knowledge. You’ll
+    be guided by expert tour guides who will share local insights, facts, and historical
+    data that ultimately defined the island for what it is today.
 overview:
   items:
-  - title: 'The New Town, the Old Harbor - “Colossus of Rhodes”'
-  - title: 'The North Point of the Island – Aegean and Med Sea'
+  - title: The New Town, the Old Harbor - “Colossus of Rhodes”
+  - title: The North Point of the Island – Aegean and Med Sea
   - title: 'We drive to the west coast of the island to Mount Filerimos '
-  - title: 'The Walking Tour of Ancient Acropolis of Ialyssos'
+  - title: The Walking Tour of Ancient Acropolis of Ialyssos
   - title: 'The “Way of the Cross” and the Panoramic View  '
-  - title: 'The Panoramic Drive of Monte Smith'
-  - title: 'The Walking Tour of Ancient Acropolis of Rhodes'
-  - title: 'The Walking Tour in the Medieval City'
-  - title: 'The Visit to Grand Master Palace'
-  - title: 'The Tour finish at the Marina Gate'
-  - title: 'Back to your Hotel / Cruise Ship / or to your place'
+  - title: The Panoramic Drive of Monte Smith
+  - title: The Walking Tour of Ancient Acropolis of Rhodes
+  - title: The Walking Tour in the Medieval City
+  - title: The Visit to Grand Master Palace
+  - title: The Tour finish at the Marina Gate
+  - title: Back to your Hotel / Cruise Ship / or to your place
   - title: 'Duration: Approximately 4:30 hours'
     classes: bold
   - title: 'Suggested time for this tour: April to October'
@@ -44,117 +47,124 @@ overview:
 details:
   items:
   - title: "(Stop Photos)"
-    desc: "= Stop and get out of the vehicle for photos from outside of the Sight/Building <u>Guided Tour</u> (stay close to vehicle)"
+    desc: "= Stop and get out of the vehicle for photos from outside of the Sight/Building
+      <u>Guided Tour</u> (stay close to vehicle)"
   - title: "(Stop Visit Photos)"
-    desc: Stop and visit - go inside the Sight/building with your tour guide for photos and <u>Guided Walking Tour</u>
+    desc: Stop and visit - go inside the Sight/building with your tour guide for photos
+      and <u>Guided Walking Tour</u>
   - title: 'Private Tour Activity Level:'
-    desc: 'Moderate'
-  - title: 'Private Tour Guide'
-    desc: 'English speaking experienced licensed tour guide specialize in Private Tours'
-  - title: 'Private Tour Driver'
-    desc: 'English speaking professional driver specialize in Private Tours'
+    desc: Moderate
+  - title: Private Tour Guide
+    desc: English speaking experienced licensed tour guide specialize in Private Tours
+  - title: Private Tour Driver
+    desc: English speaking professional driver specialize in Private Tours
   - title: 'Private Tour Vehicle:'
-    desc: Mercedes Benz - <a href="./group_mini_bus.htm">Depend on the size of your group</a>
+    desc: Mercedes Benz - <a href="./group_mini_bus.htm">Depend on the size of your
+      group</a>
   - title: 'Private Tour Start Time:'
-    desc: '8:30 AM. Or later. If you are a Cruise Ship Passenger - depend on your cruise ship dock time.'
+    desc: 8:30 AM. Or later. If you are a Cruise Ship Passenger - depend on your cruise
+      ship dock time.
   - title: 'Private Tour Meeting Point:'
-    desc: Cruise Port / Hotel / Airport (Meeting point varies depending on option booked)
-
+    desc: Cruise Port / Hotel / Airport (Meeting point varies depending on option
+      booked)
 gallery:
   group_1:
-  - thumb: './img/tours/guided/05/1-thumb.jpg'
-    href: './img/tours/guided/05/1.jpg'
-    alt: 'Rhodes ancient and mediaeval sites, Rhodes Private Tours'
+  - thumb: "./img/tours/guided/05/1-thumb.jpg"
+    href: "./img/tours/guided/05/1.jpg"
+    alt: Rhodes ancient and mediaeval sites, Rhodes Private Tours
     position: first
-  - thumb: './img/tours/guided/05/2-thumb.jpg'
-    href: './img/tours/guided/05/2.jpg'
-    alt: 'Rhodes Grand master’s palace tour, Rhodes Tours'
+  - thumb: "./img/tours/guided/05/2-thumb.jpg"
+    href: "./img/tours/guided/05/2.jpg"
+    alt: Rhodes Grand master’s palace tour, Rhodes Tours
     position: following
-  - thumb: './img/tours/guided/05/3-thumb.jpg'
-    href: './img/tours/guided/05/3.jpg'
-    alt: 'Grand master palace tours in Rhodes'
+  - thumb: "./img/tours/guided/05/3-thumb.jpg"
+    href: "./img/tours/guided/05/3.jpg"
+    alt: Grand master palace tours in Rhodes
     position: following
-  - thumb: './img/tours/guided/05/4-thumb.jpg'
-    href: './img/tours/guided/05/4.jpg'
+  - thumb: "./img/tours/guided/05/4-thumb.jpg"
+    href: "./img/tours/guided/05/4.jpg"
     alt: 'Rhodes old town tours  '
     position: following
-  - thumb: './img/tours/guided/05/5-thumb.jpg'
-    href: './img/tours/guided/05/5.jpg'
-    alt: 'Acropolis of Rhodes Private Tours'
+  - thumb: "./img/tours/guided/05/5-thumb.jpg"
+    href: "./img/tours/guided/05/5.jpg"
+    alt: Acropolis of Rhodes Private Tours
     position: following
   group_2:
-  - thumb: './img/tours/guided/05/6-thumb.jpg'
-    href: './img/tours/guided/05/6.jpg'
-    alt: 'Monte smith private tours, Rhodes Tours'
+  - thumb: "./img/tours/guided/05/6-thumb.jpg"
+    href: "./img/tours/guided/05/6.jpg"
+    alt: Monte smith private tours, Rhodes Tours
     position: first
-  - thumb: './img/tours/guided/05/7-thumb.jpg'
-    href: './img/tours/guided/05/7.jpg'
-    alt: 'Rhodes Taxi Tours'
+  - thumb: "./img/tours/guided/05/7-thumb.jpg"
+    href: "./img/tours/guided/05/7.jpg"
+    alt: Rhodes Taxi Tours
     position: following
-  - thumb: './img/tours/guided/05/8-thumb.jpg'
-    href: './img/tours/guided/05/8.jpg'
-    alt: 'Rhodes Greece Private Tours'
+  - thumb: "./img/tours/guided/05/8-thumb.jpg"
+    href: "./img/tours/guided/05/8.jpg"
+    alt: Rhodes Greece Private Tours
     position: following
-  - thumb: './img/tours/guided/05/9-thumb.jpg'
-    href: './img/tours/guided/05/9.jpg'
-    alt: 'Rhodes Shore excursions for cruise ship passengers'
+  - thumb: "./img/tours/guided/05/9-thumb.jpg"
+    href: "./img/tours/guided/05/9.jpg"
+    alt: Rhodes Shore excursions for cruise ship passengers
     position: following
-  - thumb: './img/tours/guided/05/10-thumb.jpg'
-    href: './img/tours/guided/05/10.jpg'
-    alt: 'Rhodes Allure Tours Greece'
+  - thumb: "./img/tours/guided/05/10-thumb.jpg"
+    href: "./img/tours/guided/05/10.jpg"
+    alt: Rhodes Allure Tours Greece
     position: following
   group_3:
-  - thumb: './img/tours/guided/05/11-thumb.jpg'
-    href: './img/tours/guided/05/11.jpg'
+  - thumb: "./img/tours/guided/05/11-thumb.jpg"
+    href: "./img/tours/guided/05/11.jpg"
     alt: 'Ialyssos, Filerimos , Rhodes Tours   '
     position: first
-  - thumb: './img/tours/guided/05/12-thumb.jpg'
-    href: './img/tours/guided/05/12.jpg'
-    alt: 'Rhodes Private shore excursions'
+  - thumb: "./img/tours/guided/05/12-thumb.jpg"
+    href: "./img/tours/guided/05/12.jpg"
+    alt: Rhodes Private shore excursions
     position: following
-  - thumb: './img/tours/guided/05/13-thumb.jpg'
-    href: './img/tours/guided/05/13.jpg'
-    alt: 'Ancient Rhodes Tours'
+  - thumb: "./img/tours/guided/05/13-thumb.jpg"
+    href: "./img/tours/guided/05/13.jpg"
+    alt: Ancient Rhodes Tours
     position: following
-  - thumb: './img/tours/guided/05/14-thumb.jpg'
-    href: './img/tours/guided/05/14.jpg'
-    alt: 'Rhodes Medieval City Tours'
+  - thumb: "./img/tours/guided/05/14-thumb.jpg"
+    href: "./img/tours/guided/05/14.jpg"
+    alt: Rhodes Medieval City Tours
     position: following
-  - thumb: './img/tours/guided/05/15-thumb.jpg'
-    href: './img/tours/guided/05/15.jpg'
-    alt: 'Rhodes tours'
+  - thumb: "./img/tours/guided/05/15-thumb.jpg"
+    href: "./img/tours/guided/05/15.jpg"
+    alt: Rhodes tours
     position: following
-
 faq:
   items:
-    - q: How much are the entrance fees to Grand Masters Palace?
-      a: Entrance fee to Grand Masters Palace is6 euro per person. Seniors (with Id or Passport) 3 Euros / person. Children under 18 years old free.
-    - q: How much are the entrance fees to Acropolis and the Monastery of Filerimos?
-      a: Entrance fee to Acropolis and Monastery is 6 euro per person. Seniors (with Id or Passport) 3 Euros / person. Children under 18 years old free.
-    - q: How much is the entrance fee in Acropolis of Rhodes / Monte Smith?
-      a: No entrance fee, it's open sight
-    - q: How long does it take a walk back to our ship from the gate near the Palace of Grand Master and the Archaeological Museum?
-      a: Usually it takes 10 min, however, you can do it as long as you wish, enjoying a nice walk through the Old Town.
-
+  - q: How much are the entrance fees to Grand Masters Palace?
+    a: Entrance fee to Grand Masters Palace is6 euro per person. Seniors (with Id
+      or Passport) 3 Euros / person. Children under 18 years old free.
+  - q: How much are the entrance fees to Acropolis and the Monastery of Filerimos?
+    a: Entrance fee to Acropolis and Monastery is 6 euro per person. Seniors (with
+      Id or Passport) 3 Euros / person. Children under 18 years old free.
+  - q: How much is the entrance fee in Acropolis of Rhodes / Monte Smith?
+    a: No entrance fee, it's open sight
+  - q: How long does it take a walk back to our ship from the gate near the Palace
+      of Grand Master and the Archaeological Museum?
+    a: Usually it takes 10 min, however, you can do it as long as you wish, enjoying
+      a nice walk through the Old Town.
 included:
   items:
   - text: Private Tour (just your party)
   - text: Free Pick up and Drop off at Cruise Port / Hotel / Airport
   - text: Experienced Licensed Tour Guide - English Speaking
-  - text: Professional Driver - English Speaking
-  - text: Mercedes Benz Vehicle - <a href="./group_mini_bus.htm">Depend on the size of your group</a>
+  - text: Professional Skilled Driver - English Speaking
+  - text: Mercedes Benz Vehicle - <a href="./group_mini_bus.htm">Depend on the size
+      of your group</a>
   - text: Wireless Headsets to Hear Clearly your Tour Guide
-  - text: All Vehicle, Driver and Tour Guide Expenses 
-  - text: Personalized Customer Service 
-
+  - text: Bottled Water
+  - text: All Vehicle, Driver and Tour Guide Expenses
+  - text: Personalized Customer Service
+  - text: Flexible Cancelation Policy
 not_included:
   items:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
-
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
-    Tour Experiences. We deliver Private Medieval City Tours at very affordable rates. All
-    our tours are fully customizable to suit your travel needs, interests, schedules,
+    Tour Experiences. We deliver Private Medieval City Tours at very affordable rates.
+    All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Medieval City Tours
 
