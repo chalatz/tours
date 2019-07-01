@@ -7,24 +7,29 @@ has_form: true
 has_gallery: true
 is_of: guided_tours
 meta:
-  title: 'Natural Attractions in Rhodes, Natural Attractions Tours in Rhodes, Natural Wonders'
-  http_desc: 'Natural Attractions in Rhodes, Natural Wonders in Rhodes, Natural Attractions Tours in Rhodes Greece, Rhodes Private Tours'
-  description: 'Natural Attractions in Rhodes, Natural Wonders in Rhodes, Natural Attractions Tours in Rhodes Greece'
-  keywords: 'Natural Attractions in Rhodes, Natural Wonders in Rhodes, Natural Attractions Tours in Rhodes Greece, Rhodes Private Tours'
-  abstract: 'Natural Attractions in Rhodes Greece'
+  title: Natural Attractions in Rhodes, Natural Attractions Tours in Rhodes, Natural
+    Wonders
+  http_desc: Natural Attractions in Rhodes, Natural Wonders in Rhodes, Natural Attractions
+    Tours in Rhodes Greece, Rhodes Private Tours
+  description: Natural Attractions in Rhodes, Natural Wonders in Rhodes, Natural Attractions
+    Tours in Rhodes Greece
+  keywords: Natural Attractions in Rhodes, Natural Wonders in Rhodes, Natural Attractions
+    Tours in Rhodes Greece, Rhodes Private Tours
+  abstract: Natural Attractions in Rhodes Greece
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-
 title: '"Natural Attractions in Rhodes" GT7'
 tour:
   title: '"Natural Attractions in Rhodes" GT7'
-  summary: Kallithea Spa / Anthony Quinn Bay / Scenic Drive to the West Coast / Valley of the Butterflies / Filerimos Mountain
+  summary: Kallithea Spa / Anthony Quinn Bay / Scenic Drive to the West Coast / Valley
+    of the Butterflies / Filerimos Mountain
   duration: Half Day
-
 summary:
   paragraphs:
-  - You can experience the great outdoors by touring Rhodes Island. Smouldering with raw, natural beauty, the tour will take you through the blue sea waters, the cool breeze, and the atmospheric corridors of this enchanting island. You’ll get a chance to immerse yourself in nature like never before.
-
+  - You can experience the great outdoors by touring Rhodes Island. Smouldering with
+    raw, natural beauty, the tour will take you through the blue sea waters, the cool
+    breeze, and the atmospheric corridors of this enchanting island. You’ll get a
+    chance to immerse yourself in nature like never before.
 overview:
   items:
   - title: We drive via the East Coastal Road
@@ -42,112 +47,124 @@ overview:
 details:
   items:
   - title: "(Stop Photos)"
-    desc: "= Stop and get out of the vehicle for photos from outside of the Sight/Building <u>Guided Tour</u> (stay close to vehicle)"
+    desc: "= Stop and get out of the vehicle for photos from outside of the Sight/Building
+      <u>Guided Tour</u> (stay close to vehicle)"
   - title: "(Stop Visit Photos)"
-    desc: Stop and visit - go inside the Sight/building with your tour guide for photos and <u>Guided Walking Tour</u>
+    desc: Stop and visit - go inside the Sight/building with your tour guide for photos
+      and <u>Guided Walking Tour</u>
   - title: 'Private Tour Activity Level:'
-    desc: 'Moderate'
-  - title: 'Private Tour Guide'
-    desc: 'English speaking experienced licensed tour guide specialize in Private Tours'
-  - title: 'Private Tour Driver'
-    desc: 'English speaking professional driver specialize in Private Tours'
+    desc: Moderate
+  - title: Private Tour Guide
+    desc: English speaking experienced licensed tour guide specialize in Private Tours
+  - title: Private Tour Driver
+    desc: English speaking professional driver specialize in Private Tours
   - title: 'Private Tour Vehicle:'
-    desc: Mercedes Benz - <a href="./group_mini_bus.htm">Depend on the size of your group</a>
+    desc: Mercedes Benz - <a href="./group_mini_bus.htm">Depend on the size of your
+      group</a>
   - title: 'Private Tour Start Time:'
-    desc: '8:30 AM. Or later. If you are a Cruise Ship Passenger - depend on your cruise ship dock time.'
+    desc: 8:30 AM. Or later. If you are a Cruise Ship Passenger - depend on your cruise
+      ship dock time.
   - title: 'Private Tour Meeting Point:'
-    desc: Cruise Port / Hotel / Airport (Meeting point varies depending on option booked)
+    desc: Cruise Port / Hotel / Airport (Meeting point varies depending on option
+      booked)
 gallery:
   group_1:
-  - thumb: './img/tours/guided/07/1-thumb.jpg'
-    href: './img/tours/guided/07/1.jpg'
-    alt: 'Natural tourist attractions in Rhodes Greece'
-    position: 'first'
-  - thumb: './img/tours/guided/07/2-thumb.jpg'
-    href: './img/tours/guided/07/2.jpg'
-    alt: 'Natural attractions in Rhodes Greece'
-    position: 'following'
-  - thumb: './img/tours/guided/07/3-thumb.jpg'
-    href: './img/tours/guided/07/3.jpg'
-    alt: 'Natural tours in Rhodes Greece'
-    position: 'following'
-  - thumb: './img/tours/guided/07/4-thumb.jpg'
-    href: './img/tours/guided/07/4.jpg'
-    alt: 'Top Tourist attractions in Rhodes Greece'
-    position: 'following'
-  - thumb: './img/tours/guided/07/5-thumb.jpg'
-    href: './img/tours/guided/07/5.jpg'
-    alt: 'Natural Wonders in Rhodes'
-    position: 'following'
+  - thumb: "./img/tours/guided/07/1-thumb.jpg"
+    href: "./img/tours/guided/07/1.jpg"
+    alt: Natural tourist attractions in Rhodes Greece
+    position: first
+  - thumb: "./img/tours/guided/07/2-thumb.jpg"
+    href: "./img/tours/guided/07/2.jpg"
+    alt: Natural attractions in Rhodes Greece
+    position: following
+  - thumb: "./img/tours/guided/07/3-thumb.jpg"
+    href: "./img/tours/guided/07/3.jpg"
+    alt: Natural tours in Rhodes Greece
+    position: following
+  - thumb: "./img/tours/guided/07/4-thumb.jpg"
+    href: "./img/tours/guided/07/4.jpg"
+    alt: Top Tourist attractions in Rhodes Greece
+    position: following
+  - thumb: "./img/tours/guided/07/5-thumb.jpg"
+    href: "./img/tours/guided/07/5.jpg"
+    alt: Natural Wonders in Rhodes
+    position: following
   group_2:
-  - thumb: './img/tours/guided/07/6-thumb.jpg'
-    href: './img/tours/guided/07/6.jpg'
-    alt: 'Natural attraction tours in Rhodes Greece'
-    position: 'first'
-  - thumb: './img/tours/guided/07/7-thumb.jpg'
-    href: './img/tours/guided/07/7.jpg'
-    alt: 'Rhodes Greece nature tours'
-    position: 'following'
-  - thumb: './img/tours/guided/07/8-thumb.jpg'
-    href: './img/tours/guided/07/8.jpg'
-    alt: 'Nature tours in Rhodes Greece'
-    position: 'following'
-  - thumb: './img/tours/guided/07/9-thumb.jpg'
-    href: './img/tours/guided/07/9.jpg'
-    alt: 'Natural tourist attractions in Rhodes Greece'
-    position: 'following'
-  - thumb: './img/tours/guided/07/10-thumb.jpg'
-    href: './img/tours/guided/07/10.jpg'
-    alt: 'Natural attractions in Rhodes Greece'
-    position: 'following'
+  - thumb: "./img/tours/guided/07/6-thumb.jpg"
+    href: "./img/tours/guided/07/6.jpg"
+    alt: Natural attraction tours in Rhodes Greece
+    position: first
+  - thumb: "./img/tours/guided/07/7-thumb.jpg"
+    href: "./img/tours/guided/07/7.jpg"
+    alt: Rhodes Greece nature tours
+    position: following
+  - thumb: "./img/tours/guided/07/8-thumb.jpg"
+    href: "./img/tours/guided/07/8.jpg"
+    alt: Nature tours in Rhodes Greece
+    position: following
+  - thumb: "./img/tours/guided/07/9-thumb.jpg"
+    href: "./img/tours/guided/07/9.jpg"
+    alt: Natural tourist attractions in Rhodes Greece
+    position: following
+  - thumb: "./img/tours/guided/07/10-thumb.jpg"
+    href: "./img/tours/guided/07/10.jpg"
+    alt: Natural attractions in Rhodes Greece
+    position: following
   group_3:
-  - thumb: './img/tours/guided/07/11-thumb.jpg'
-    href: './img/tours/guided/07/11.jpg'
-    alt: 'Rhodes tours for natural attractions'
-    position: 'first'
-  - thumb: './img/tours/guided/07/12-thumb.jpg'
-    href: './img/tours/guided/07/12.jpg'
-    alt: 'Top Natural Tours in Rhodes Greece'
-    position: 'following'
-  - thumb: './img/tours/guided/07/13-thumb.jpg'
-    href: './img/tours/guided/07/13.jpg'
-    alt: 'Rhodes natural tour'
-    position: 'following'
-  - thumb: './img/tours/guided/07/14-thumb.jpg'
-    href: './img/tours/guided/07/14.jpg'
-    alt: 'Natural tour in Rhodes Greece'
-    position: 'following'
-  - thumb: './img/tours/guided/07/15-thumb.jpg'
-    href: './img/tours/guided/07/15.jpg'
+  - thumb: "./img/tours/guided/07/11-thumb.jpg"
+    href: "./img/tours/guided/07/11.jpg"
+    alt: Rhodes tours for natural attractions
+    position: first
+  - thumb: "./img/tours/guided/07/12-thumb.jpg"
+    href: "./img/tours/guided/07/12.jpg"
+    alt: Top Natural Tours in Rhodes Greece
+    position: following
+  - thumb: "./img/tours/guided/07/13-thumb.jpg"
+    href: "./img/tours/guided/07/13.jpg"
+    alt: Rhodes natural tour
+    position: following
+  - thumb: "./img/tours/guided/07/14-thumb.jpg"
+    href: "./img/tours/guided/07/14.jpg"
+    alt: Natural tour in Rhodes Greece
+    position: following
+  - thumb: "./img/tours/guided/07/15-thumb.jpg"
+    href: "./img/tours/guided/07/15.jpg"
     alt: 'Rhodes Island natural tours '
-    position: 'following'
-
+    position: following
 faq:
   items:
-    - q: How much is the entrance fee to Kallithea?
-      a: Entrance fee is 3 Euros per person
-    - q: Are there Butterflies all the time? - And are there opening times there too that we might have to take into consideration?
-      a: There are Butterflies only during their season, from mid-June to mid-September. The Valley is open from 8:00 am to 6:00 pm.
-    - q: How long time we need to pass through the "Valley of the Butterflies"? How much is the entrance fee?
-      a: 'It’s a hillside not a valley, with two gates, the Main Gate (lower gate) and the Secondary Gate (upper gate). We drive our clients to the Secondary Gate (upper gate) so they can walk down easier (one way about 50min).<br>Entrance fee: Low season 3 Euros per person / High season 5 Euros per person / kids under 12 years old, free'
-    - q: How much are the entrance fees to Acropolis and the monastery of Ialyssos?
-      a: To Acropolis and to monastery is 6 euro per person. Seniors (with Id or Passport) 3 Euros / person. 
-
+  - q: How much is the entrance fee to Kallithea?
+    a: Entrance fee is 3 Euros per person
+  - q: Are there Butterflies all the time? - And are there opening times there too
+      that we might have to take into consideration?
+    a: There are Butterflies only during their season, from mid-June to mid-September.
+      The Valley is open from 8:00 am to 6:00 pm.
+  - q: How long time we need to pass through the "Valley of the Butterflies"? How
+      much is the entrance fee?
+    a: 'It’s a hillside not a valley, with two gates, the Main Gate (lower gate) and
+      the Secondary Gate (upper gate). We drive our clients to the Secondary Gate
+      (upper gate) so they can walk down easier (one way about 50min).<br>Entrance
+      fee: Low season 3 Euros per person / High season 5 Euros per person / kids under
+      12 years old, free'
+  - q: How much are the entrance fees to Acropolis and the monastery of Ialyssos?
+    a: To Acropolis and to monastery is 6 euro per person. Seniors (with Id or Passport)
+      3 Euros / person.
 included:
   items:
   - text: Private Tour (just your party)
   - text: Free Pick up and Drop off at Cruise Port / Hotel / Airport
-  - text: Experienced Licensed Tour Guide - English Speaking
-  - text: Professional Driver - English Speaking
-  - text: Mercedes Benz Vehicle - <a href="./group_mini_bus.htm">Depend on the size of your group</a>
+  - text: 'Experienced Licensed Tour Guide - English Speaking '
+  - text: Professional Skilled Driver - English Speaking
+  - text: Mercedes Benz Vehicle - <a href="./group_mini_bus.htm">Depend on the size
+      of your group</a>
   - text: Wireless Headsets to Hear Clearly your Tour Guide
-  - text: All Vehicle, Driver and Tour Guide Expenses 
-  - text: Personalized Customer Service 
-
+  - text: Bottled Water
+  - text: All Vehicle, Driver and Tour Guide Expenses
+  - text: Personalized Customer Service
+  - text: Flexible Cancelation Policy
 not_included:
   items:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
-
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
     Tour Experiences. We deliver Rhodes Natural Tours at very affordable rates. All
