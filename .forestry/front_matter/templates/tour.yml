@@ -164,10 +164,10 @@ fields:
     type: field_group_list
     fields:
     - name: thumb
+      type: file
+      config:
+        maxSize: 250
       label: Thumb
-      type: text
-      hidden: false
-      default: ''
     - name: href
       label: Href
       type: text
@@ -190,10 +190,10 @@ fields:
     type: field_group_list
     fields:
     - name: thumb
+      type: file
+      config:
+        maxSize: 250
       label: Thumb
-      type: text
-      hidden: false
-      default: ''
     - name: href
       label: Href
       type: text
@@ -216,10 +216,10 @@ fields:
     type: field_group_list
     fields:
     - name: thumb
+      type: file
+      config:
+        maxSize: 250
       label: Thumb
-      type: text
-      hidden: false
-      default: ''
     - name: href
       label: Href
       type: text
