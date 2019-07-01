@@ -43,6 +43,21 @@
     }
 }
 
+.bordered-separator {
+    border-bottom: 2px solid $darkerlightgray;
+    width: 90%;
+    margin: .5rem auto;
+    @include breakpoint(small) {
+        width: 80%;
+    }
+    @include breakpoint(medium) {
+        width: 70%;
+    }
+    @include breakpoint(larger) {
+        width: 60%;
+    }
+}
+
 .anchor {
     position: absolute;
     top: -3rem;
