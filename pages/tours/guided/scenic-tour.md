@@ -15,6 +15,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 
+title: '"Rhodes Scenic Tour" GT9'
 tour:
   title: '"Rhodes Scenic Tour" GT9'
   summary: West Coast / The Valley of the Butterflies / Mount Filerimos / Ancient Acropolis of Rhodes Town

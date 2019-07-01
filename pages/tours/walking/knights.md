@@ -14,6 +14,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: 'Knights Hospitallers Tour, Knights of Rhodes Tours, Rhodes Private Tours Greece'
+title: '"The Knights Hospitallers" WT2'
 tour:
   title: '"The Knights Hospitallers" WT2'
   summary: The Fortifications of the Knights / The Gates / Naillac Tower / The Moat and the Defense System / The Grand Master Palace

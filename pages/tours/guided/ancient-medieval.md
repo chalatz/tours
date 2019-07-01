@@ -15,6 +15,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 
+title: '"Rhodes Ancient & Medieval Times" GT5'
 tour:
   title: '"Rhodes Ancient & Medieval Times" GT5'
   summary: Rhodes Medieval City & Grand Master Palace / Rhodes New Town / Acropolis of Rhodes / Acropolis of Ancient Ialyssos

@@ -14,6 +14,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: 'Rhodes Old Town Walking Tour, Rhodes Old City Walking Tours, Rhodes Medieval City Walking Tour, Rhodes Private Tours'
+title: '"Rhodes Old Town Walking Tour" WT1'
 tour:
   title: '"Rhodes Old Town Walking Tour" WT1'
   summary: The Important Monuments of the Burgo and Collachio / Visit the Grand Master Palace / Street of the Knights / Enticing Alleys

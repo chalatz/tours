@@ -15,6 +15,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 
+title: '"Best Attractions in Rhodes" GT1'
 tour:
   title: '"Best Attractions in Rhodes" GT1'
   summary: Rhodes Medieval City / Rhodes New Town / Acropolis of Rhodes / East Coast of the Island / Village and Acropolis of Lindos

@@ -15,6 +15,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 
+title: '"Rhodes Jewish Heritage Plus..." GT4'
 tour:
   title: '"Rhodes Jewish Heritage Plus..." GT4'
   summary: Rhodes New Town / Rhodes Medieval City / Jewish Quarter / East Coast of the Island / Village and Acropolis of Lindos

@@ -15,6 +15,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 
+title: '"The Knights of St John Tour" GT6'
 tour:
   title: '"The Knights of St John Tour" GT6'
   summary: 'Medieval City & Gates / West Coast & Our Lady of Filerimos / East Coast & Lindos / Feraklos Castle in Haraki'

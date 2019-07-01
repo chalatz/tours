@@ -15,6 +15,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 
+title: '"Rhodes Landscape Tour" GT8'
 tour:
   title: '"Rhodes Landscape Tour" GT8'
   summary: East Coast / Seven Springs / Mount Profitis Ilias / Free Wine Taste in Embona / Castle of Kritinia / Lunch by the Sea / West Coast
