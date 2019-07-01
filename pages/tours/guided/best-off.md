@@ -190,6 +190,7 @@ included:
   - text: Private Tour (just your party)
   - text: Free Pick up and Drop off at Cruise Port / Hotel / Airport
   - text: Experienced Licensed Tour Guide - English Speaking
+  - text: Full Narration in the Vehicle & Guided Tours on Sites
   - text: Professional Skilled Driver - English Speaking
   - text: Mercedes Benz Vehicle - <a href="./group_mini_bus.htm">Depend on the size
       of your group</a>
