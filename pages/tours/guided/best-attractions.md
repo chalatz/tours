@@ -194,6 +194,7 @@ faq:
     a: We certainly hope so!
 included:
   items:
+  - text: Full Narration in the Vehicle & Guided Tours on Sites
   - text: Private Tour (just your party)
   - text: Free Pick up and Drop off at Cruise Port / Hotel / Airport
   - text: Experienced Licensed Tour Guide - English Speaking
