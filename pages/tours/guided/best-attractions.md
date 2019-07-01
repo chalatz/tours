@@ -202,7 +202,7 @@ included:
   - text: Mercedes Benz Vehicle - <a href="./group_mini_bus.htm">Depend on the size
       of your group</a>
   - text: Wireless Headsets to Hear Clearly your Tour Guide
-  - text: Botled Water
+  - text: Bottled Water
   - text: All Vehicle, Driver and Tour Guide Expenses
   - text: Personalized Customer Service
   - text: Flexible Cancelation Policy
