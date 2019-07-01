@@ -359,14 +359,22 @@
     };
 
     var handle_privacy_modal = function(){
+
         // Hide modal on ESC key
         var the_modal = $('#privacy-terms');
         $(document).on('keydown', function(e){            
             if(the_modal.is(':visible') && e.keyCode == 27){
-                the_modal.hide();
-                $('body').removeClass();
+                $.fancybox.close();
             }            
         });
+
+        // Hide menu if a click takes place outside of menu area
+        $(document).on('click', function(event){
+        if(!$(event.target).closest('#privacy-terms').length && !$(event.target).closest('#open-privacy-modal').length){
+            $.fancybox.close();
+        }
+});
+
     };
 
     fill_year();
@@ -387,7 +395,7 @@
 
     handle_contact_form_post();
 
-    // handle_privacy_modal();
+    handle_privacy_modal();
 
     // scroll_to('goto-rhodes-sites', 'rhodes-sites');
     // scroll_to('goto-more-info', 'more-info');
