@@ -50,6 +50,13 @@ sections:
   match: "**/*"
   templates:
   - tour
+- type: directory
+  path: pages/tours/walking
+  label: Walking Tours
+  create: all
+  match: "**/*"
+  templates:
+  - tour
 - type: heading
   label: Links
 - type: directory
