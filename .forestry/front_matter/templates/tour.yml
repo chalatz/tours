@@ -171,17 +171,17 @@ fields:
     - name: href
       label: Href
       type: text
-      hidden: false
+      hidden: true
       default: ''
     - name: alt
-      label: Alt
+      label: Keywords
       type: textarea
       hidden: false
       default: ''
     - name: position
       label: Position
       type: text
-      hidden: false
+      hidden: true
       default: ''
     hidden: false
     default: ''
@@ -237,7 +237,7 @@ fields:
       default: ''
     hidden: false
     default: ''
-  hidden: true
+  hidden: false
   default: ''
 - name: faq
   label: Faq
