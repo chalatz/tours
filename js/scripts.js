@@ -373,6 +373,10 @@
         if(!$(event.target).closest('#privacy-terms').length && !$(event.target).closest('#open-privacy-modal').length){
             $.fancybox.close();
         }
+
+        the_modal.on('dblclick', function(e){
+            $.fancybox.close();
+        });
 });
 
     };
