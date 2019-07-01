@@ -18,6 +18,9 @@
             });
         })(jQuery);
     </script>
+    {%- if page.type == 'contact_page' or page.layout == 'tour' -%}
+        <script src="./js/jquery.touch.js"></script>
+    {%- endif -%}
 {% endif %}
 
 <!--build:js js/scripts.min.js -->

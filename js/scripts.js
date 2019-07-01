@@ -362,6 +362,7 @@
 
         // Hide modal on ESC key
         var the_modal = $('#privacy-terms');
+
         $(document).on('keydown', function(e){            
             if(the_modal.is(':visible') && e.keyCode == 27){
                 $.fancybox.close();
@@ -370,14 +371,18 @@
 
         // Hide menu if a click takes place outside of menu area
         $(document).on('click', function(event){
-        if(!$(event.target).closest('#privacy-terms').length && !$(event.target).closest('#open-privacy-modal').length){
-            $.fancybox.close();
-        }
+            if(!$(event.target).closest('#privacy-terms').length && !$(event.target).closest('#open-privacy-modal').length){
+                $.fancybox.close();
+            }
+        });
 
-        the_modal.on('dblclick', function(e){
+        // the_modal.on('dblclick', function(e){
+        //     $.fancybox.close();
+        // });
+
+        the_modal.on('doubleTap', function(e){
             $.fancybox.close();
         });
-});
 
     };
 
