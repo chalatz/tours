@@ -300,11 +300,4 @@ fields:
   label: End page
   template: end-page
 pages:
-- pages/tours/driving/fullday-private-tours-east-west-coast.md
-- pages/tours/driving/kids-tours-fun-children.md
-- pages/tours/driving/south-west-coast.md
-- pages/tours/driving/jewish-sites-tours-greece.md
-- pages/tours/driving/rhodes-wine-tours-wineries-greece.md
-- pages/tours/driving/halfday-private-tours-west-coast.md
-- pages/tours/driving/beach-tour-of-rhodes.md
-- pages/tours/driving/best-of-rhodes-tours-greece.md
+
