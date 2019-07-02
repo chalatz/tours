@@ -159,9 +159,15 @@ layout: default
 </section>
 
 {%- if page.banners_below == true -%}
-  <div class="tours-page__banners tours-page__banners--tours-page">
-      {% include partials/tour-banners.html %}
-  </div>
+  {%- if page.banners_2 == true -%}
+    <div class="tours-page__banners tours-page__banners--tours-page">
+      {% include home/recommendations-1.html %}
+    </div>
+  {%- else -%}
+    <div class="tours-page__banners tours-page__banners--tours-page">
+        {% include partials/tour-banners.html %}
+    </div>
+  {%- endif -%}
 {%- else -%}
   {% include home/recommendations-2.html %}
 {%- endif -%}

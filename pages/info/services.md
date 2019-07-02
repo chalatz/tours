@@ -4,6 +4,7 @@ type: services_page
 id: services_page
 permalink: tour_services.htm
 banners_below: true
+banners_2: true
 has_form: false
 has_gallery: false
 meta:

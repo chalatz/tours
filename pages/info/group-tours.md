@@ -4,6 +4,7 @@ type: group_tours_page
 id: group_tours_page
 permalink: group_mini_bus.htm
 banners_below: true
+banners_2: true
 has_form: false
 has_gallery: true
 meta:

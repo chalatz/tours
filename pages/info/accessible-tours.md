@@ -5,6 +5,7 @@ page_type: tours_page_alt
 id: accessible_tours_page
 permalink: accessible_disabled.htm
 banners_below: true
+banners_2: true
 has_form: false
 has_gallery: false
 meta:
