@@ -48,6 +48,10 @@ items:
     duration: 'Duration: 6:00 hours'
     id: wine_tours
     home_page: false
+    home_page_teaser:
+      enable: true
+      name: 'RHODES WINE TOUR'
+    home_page_teaser_order: 1
 
   - name: 'RHODES KIDS TOUR-DT6'
     desc: 'This tour is exclusively designed for families with children of all ages'
@@ -58,6 +62,10 @@ items:
     duration: 'Duration: 4:30 hours'
     id: kids_tours
     home_page: false
+    home_page_teaser:
+      enable: true
+      name: 'RHODES KIDS TOUR'
+    home_page_teaser_order: 3  
 
   - name: 'Beach Tour of Rhodes-DT7'
     long_desc: 'In our Half Day Private Beach Tour, you will be able to visit the most popular beaches of the East Coast of the Island with awesome views and crystal-clear waters. During the tour we stop for photos, and on the way back for sea bath on a beach of your own choice.'
@@ -67,6 +75,10 @@ items:
     duration: 'Duration: 5:00 hours'
     id: beach_tour
     home_page: false
+    home_page_teaser:
+      enable: true
+      name: 'Beach Tour of Rhodes'
+    home_page_teaser_order: 2
 
   - name: 'South West Coast Tour-DT8'
     long_desc: 'Highly suggest for those staying on Rhodes for longer period and want to discover this part of the island. This is tour include the West Coast of the island, Filerimos, Ancient city of Kamiros, Castle of Kritinia, Castle of Monolithos, and Embona village for lunch.'

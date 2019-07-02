@@ -78,6 +78,16 @@
         flex-wrap: wrap;
         justify-content: space-between;
 
+        &--home {
+            margin-top: 0;
+            @include breakpoint(medium) {
+                justify-content: center;
+            }
+            @include breakpoint(larger) {
+                justify-content: space-between;
+            }
+        }
+
         &--tours-page {
             margin-top: -1rem;
             @include breakpoint(medium) {
@@ -86,6 +96,14 @@
             // @include breakpoint(larger) {
             //     justify-content: center;
             // }
+        }
+
+        &--home-teasers {
+            width: 100%;
+            margin: 0;
+            @include breakpoint(medium) {
+                justify-content: space-between;
+            }
         }
     }
 
@@ -131,6 +149,30 @@
             font-size: 1rem;
             color: $darkblue;
             margin-right: .3rem;
+        }
+
+        &--home-teasers {
+            width: 100%;
+            margin-bottom: .5rem;
+            @include breakpoint(medium) {
+                width: auto;
+            }
+            @include breakpoint(larger) {
+                width: 33%;
+            }
+            &--2 {
+                @include breakpoint(medium) {
+                    flex: 2;
+                }
+            }
+            .private-tours-suggestions__link {
+                @include breakpoint(medium) {
+                    font-size: 1.3rem;
+                }
+                @include breakpoint(large) {
+                    font-size: 1.4rem;
+                }
+            }
         }
     }
 

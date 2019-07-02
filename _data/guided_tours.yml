@@ -36,6 +36,10 @@ items:
     img: './img/tours-suggestions/GT4.jpg' 
     duration: 'Duration: 6:30 hours'
     id: guided_jewish_heritage
+    home_page_teaser:
+      enable: true
+      name: 'Jewish Heritage Plus'
+    home_page_teaser_order: 3
 
   - name: 'ANCIENT & MEDIEVAL-GT5'
     long_desc: 'Rhodes island since the antiquity was a crossroad, served as the melting pot for eastern and western cultures: Half Day Private Guided Tour including the walking tour in the Medieval City and a visit to the Grand Master Palace, the New Town and Old Port, the walking tour of the Ancient Acropolis of Rhodes, and the walking tour of the Acropolis of Ancient Ialyssos (Filerimos)'
@@ -44,6 +48,10 @@ items:
     img: './img/tours-suggestions/GT5.jpg' 
     duration: 'Duration: 4:30 hours'
     id: guided_ancient_medieval
+    home_page_teaser:
+      enable: true
+      name: 'ANCIENT & MEDIEVAL'
+    home_page_teaser_order: 2    
 
   - name: 'The Knights OF ST JOHN-GT6'
     long_desc: 'This tour is for people who are interested in the Knights of the Order of St John (Hospitaller) and their military architecture: Private Guided Day Tour including the walking tour of the Old Town and the Gates, the walking tour of Filerimos, the walking tour of Lindos, and Feraklos Castle in Charaki Village'
@@ -52,6 +60,10 @@ items:
     img: './img/tours-suggestions/GT6.jpg' 
     duration: 'Duration: 6:30 hours'
     id: guided_knights_of_st_john
+    home_page_teaser:
+      enable: true
+      name: 'The Knights OF ST JOHN'
+    home_page_teaser_order: 1
 
   - name: 'NATURAL ATTRACTIONS-GT7'
     long_desc: 'This tour will take you through the blue sea waters, the cool breeze, and the atmospheric corridors of this enchanting island: Private Guided Half Day Tour, including the Kallithea Spa, the Anthony Quinn Bay, the Valley of the Butterflies, the Filerimos Mountain and the Scenic Drive from the East to the West Coast'
