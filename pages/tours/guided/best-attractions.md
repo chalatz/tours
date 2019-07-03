@@ -188,8 +188,9 @@ faq:
       miss?
     a: The great <a href="./rhodes_wine_tours_wineries_greece.htm">wines</a> and <a
       href="./food_greece_menus_meals_cuisine.htm">traditional food</a> at Rhodes
-      is worth every cent. And the famous <a href="./handmade_pottery_greece.htm">pottery,
-      ceramics</a>
+      is worth every cent. The famous <a href="./handmade_pottery_greece.htm">pottery,
+      ceramics</a>, and the beautiful <span class="link_inline"><a href="best_beaches.htm">Rhodes
+      Beaches</a></span>
   - q: I have read some of the reviews, so I’m sure we’ll have fun.
     a: We certainly hope so!
 included:
