@@ -21,35 +21,35 @@ reviews:
 - year: "2019"
   text: "\nDominic was truly outstanding and we really enjoyed his company and wisdom.
     We will refer you to friends and to ask for Dominic. Please wish him well on the
-    wedding of his son this weekend.\nMark (June 25th)\nmvengel@aol.com\n\nDear Nicholas,
-    I can’t thank you enough for our wonderful day yesterday, Mike is fantastic; very
-    knowledgeable and easy to get along with. I honestly can’t think of any way to
-    improve the day as it was even better than we’d hoped for. It’s nice to meet a
-    business man that cares so much about giving excellent customer service, you are
-    a credit to the island\nRegards, Sarah\nbabby_wabby@yahoo.co.uk\n\nNicolas, we're
-    home safe and sound. Hope we can send some business your way.\nSay 'hello' to
-    Michael for us. He's the best\nDan (June 20th)\ndannmcmillan@gmail.com\n\nThank
+    wedding of his son this weekend.<br>\nMark (June 25th)<br>\nmvengel@aol.com\n\nDear
+    Nicholas, I can’t thank you enough for our wonderful day yesterday, Mike is fantastic;
+    very knowledgeable and easy to get along with. I honestly can’t think of any way
+    to improve the day as it was even better than we’d hoped for. It’s nice to meet
+    a business man that cares so much about giving excellent customer service, you
+    are a credit to the island<br>\nRegards, Sarah<br>\nbabby_wabby@yahoo.co.uk\n\nNicolas,
+    we're home safe and sound. Hope we can send some business your way.\nSay 'hello'
+    to Michael for us. He's the best<br>\nDan (June 20th)<br>\ndannmcmillan@gmail.com\n\nThank
     you the trip was brilliant .Michael was so informative and cannot comment any
-    further on perfection.\nKind regards\nJackie and fellow travellers\njackieatkin@btinternet.com\n\nGood
+    further on perfection.<br>\nKind regards Jackie and fellow travellers<br>\njackieatkin@btinternet.com<br>\n\nGood
     evening, Thank you for your service. Andrew was an awesome driver...very prompt,
     knowledgeable and friendly. We enjoyed our tour very much and appreciate the great
     communication prior to the trip. I will recommend your tours if and when I know
-    someone visiting your beautiful Rhodes. Take good care.\nMany thanks,\nLauren
-    and Sara (June 17th)\nlauren.michels90@gmail.com\n\nWe had the most memorable
+    someone visiting your beautiful Rhodes. Take good care.<br>\nMany thanks, Lauren
+    and Sara (June 17th)<br>\nlauren.michels90@gmail.com\n\nWe had the most memorable
     day of our trip to Greece on our full day tour with Rhodes Private Tours. The
     driver was so knowledgeable and knew exactly how to maximize our day. We viewed
     the Old Harbor, saw where the Aegean and Mediterranean Sea meet, drove to the
     Acropolis of Rhodes and toured south to the clifftop Acropolis of Lindos. A drive
     from the east to the west side of the island capped an exhilarating day! A truly
     rewarding and memorable experience. We will enjoy our pictures and think of beautiful
-    Rhodes.\nDeb\nddwags50@gmail.com\n\nWe spent a week in Rhodes and one day was
-    taken up with a private tour of the west and south sides of the island with our
-    driver Andrew. I would recommend this experience to anyone who is not keen on
-    tour buses as it is completely different. You choose where you want to go and
-    for how long. We ended the trip with a lovely lunch in a friendly local tavern.
-    Definitely 5 stars.\nSue\nsuebranson@yahoo.com\n\nThank you, we had a great time
-    on the excursion! I will be sure to leave a good review on Trip advisor, we had
-    an excellent time!<br>\nThanks again, Best,  Josh (June 12th)<br>\njlind135@gmail.com\n\nExcellent
+    Rhodes.<br>\nDeb<br>\nddwags50@gmail.com\n\nWe spent a week in Rhodes and one
+    day was taken up with a private tour of the west and south sides of the island
+    with our driver Andrew. I would recommend this experience to anyone who is not
+    keen on tour buses as it is completely different. You choose where you want to
+    go and for how long. We ended the trip with a lovely lunch in a friendly local
+    tavern. Definitely 5 stars.<br>\nSue<br>\nsuebranson@yahoo.com\n\nThank you, we
+    had a great time on the excursion! I will be sure to leave a good review on Trip
+    advisor, we had an excellent time!<br>\nThanks again, Best,  Josh (June 12th)<br>\njlind135@gmail.com\n\nExcellent
     honest tour company we had a wonderful time with our driver Emanuel very knowledgable,
     friendly and super nice with my children, I cant say enough things about this
     wonderful company they are truly the best if I could give them ten stars I would
