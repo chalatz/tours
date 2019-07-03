@@ -333,6 +333,7 @@ body:
     Back through the west coast with **breathtaking views of the Aegean Sea.**
 
     Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
+  gallery: []
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
     Tour Experiences. We deliver Private Wine Tours at very affordable rates. All
