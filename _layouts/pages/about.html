@@ -82,15 +82,18 @@ layout: default
 
   </section>
 
-  <section class="about-us__info page__content">
-    <div class="about-us__info-content">
-        {%- for item in page.info.items -%}
-            <div class="about-us__info-item">
-                {{ item | markdownify }}
-            </div>
-        {%- endfor -%}
-    </div>
-  </section>
+  {%- assign info_items_size = page.info.items | size -%}
+  {%- if info_items_size > 0 -%}  
+    <section class="about-us__info page__content">
+      <div class="about-us__info-content">
+          {%- for item in page.info.items -%}
+              <div class="about-us__info-item">
+                  {{ item | markdownify }}
+              </div>
+          {%- endfor -%}
+      </div>
+    </section>
+  {%- endif -%}
 
 </main>
 
