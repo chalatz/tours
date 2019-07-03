@@ -41,8 +41,6 @@ sections:
   label: Driving Tours
   create: all
   match: "**/*"
-  templates:
-  - tour
 - type: directory
   path: pages/tours/guided
   label: Guided Tours
