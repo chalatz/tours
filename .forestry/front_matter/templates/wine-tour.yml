@@ -1,0 +1,219 @@
+---
+label: wine tour
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: type
+  label: type
+- type: text
+  name: id
+  label: id
+- type: text
+  name: permalink
+  label: permalink
+- type: boolean
+  name: has_form
+  label: has_form
+- type: boolean
+  name: has_gallery
+  label: has_gallery
+- type: text
+  name: is_of
+  label: is_of
+- type: field_group
+  name: meta
+  label: meta
+  fields:
+  - type: textarea
+    name: title
+    label: title
+  - type: textarea
+    name: description
+    label: description
+  - type: textarea
+    name: keywords
+    label: keywords
+  - type: text
+    name: abstract
+    label: abstract
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: copyright
+    label: copyright
+  - type: text
+    name: http_desc
+    label: http_desc
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: summary
+  label: summary
+  fields:
+  - type: list
+    name: paragraphs
+    label: paragraphs
+- type: field_group
+  name: tour
+  label: tour
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: summary
+    label: summary
+  - type: text
+    name: duration
+    label: duration
+- type: field_group
+  name: overview
+  label: overview
+  fields:
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: title
+      label: title
+- type: field_group
+  name: details
+  label: details
+  fields:
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: desc
+      label: desc
+- type: field_group
+  name: gallery
+  label: gallery
+  fields:
+  - type: field_group_list
+    name: group_1
+    label: group_1
+    fields:
+    - type: file
+      name: thumb
+      label: thumb
+    - type: file
+      name: href
+      label: href
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: position
+      label: position
+  - type: field_group_list
+    name: group_2
+    label: group_2
+    fields:
+    - type: file
+      name: thumb
+      label: thumb
+    - type: file
+      name: href
+      label: href
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: position
+      label: position
+  - type: field_group_list
+    name: group_3
+    label: group_3
+    fields:
+    - type: file
+      name: thumb
+      label: thumb
+    - type: file
+      name: href
+      label: href
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: position
+      label: position
+- type: field_group
+  name: faq
+  label: faq
+  fields:
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: q
+      label: q
+    - type: text
+      name: a
+      label: a
+- type: field_group
+  name: included
+  label: included
+  fields:
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: text
+      label: text
+- type: field_group
+  name: not_included
+  label: not_included
+  fields:
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: text
+      label: text
+- type: field_group_list
+  name: body
+  label: body
+  fields:
+  - type: textarea
+    name: text
+    label: text
+  - type: field_group_list
+    name: gallery
+    label: gallery
+    fields:
+    - type: file
+      name: thumb
+      label: thumb
+    - type: file
+      name: href
+      label: href
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: position
+      label: position
+- type: field_group
+  name: end_page
+  label: end_page
+  fields:
+  - type: textarea
+    name: long_text
+    label: long_text
+  - type: text
+    name: short_text
+    label: short_text
