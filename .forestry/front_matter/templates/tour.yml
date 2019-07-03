@@ -300,6 +300,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/tours/driving/fullday-private-tours-east-west-coast.md
 - pages/tours/walking/town.md
 - pages/tours/walking/night.md
 - pages/tours/walking/knights.md
@@ -319,4 +320,3 @@ pages:
 - pages/tours/driving/jewish-sites-tours-greece.md
 - pages/tours/driving/south-west-coast.md
 - pages/tours/driving/kids-tours-fun-children.md
-- pages/tours/driving/fullday-private-tours-east-west-coast.md
