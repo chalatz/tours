@@ -5,24 +5,31 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: type
   label: type
+  hidden: true
 - type: text
   name: id
   label: id
+  hidden: true
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: boolean
   name: has_form
   label: has_form
+  hidden: true
 - type: boolean
   name: has_gallery
   label: has_gallery
+  hidden: true
 - type: text
   name: is_of
   label: is_of
+  hidden: true
 - type: field_group
   name: meta
   label: meta
@@ -110,12 +117,14 @@ fields:
     - type: file
       name: href
       label: href
+      hidden: true
     - type: text
       name: alt
-      label: alt
+      label: keywords
     - type: text
       name: position
       label: position
+      hidden: true
   - type: field_group_list
     name: group_2
     label: group_2
@@ -126,12 +135,14 @@ fields:
     - type: file
       name: href
       label: href
+      hidden: true
     - type: text
       name: alt
-      label: alt
+      label: keywords
     - type: text
       name: position
       label: position
+      hidden: true
   - type: field_group_list
     name: group_3
     label: group_3
@@ -142,12 +153,14 @@ fields:
     - type: file
       name: href
       label: href
+      hidden: true
     - type: text
       name: alt
-      label: alt
+      label: keywords
     - type: text
       name: position
       label: position
+      hidden: true
 - type: field_group
   name: faq
   label: faq
@@ -201,12 +214,14 @@ fields:
     - type: file
       name: href
       label: href
+      hidden: true
     - type: text
       name: alt
-      label: alt
+      label: keywords
     - type: text
       name: position
       label: position
+      hidden: true
 - type: field_group
   name: end_page
   label: end_page
