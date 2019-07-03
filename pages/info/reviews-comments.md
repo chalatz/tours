@@ -27,7 +27,7 @@ reviews:
     and just enough about current Greek National issues were captivating.  His amusing
     “ Lookie! Lookie! (alerting us to points of interest) should become legendary.
     \ I will post this to TripAdvisor to help others to find the best tour company
-    ever, in our fairly extensive would-wide traveling. <br>\nKind regards, Bill and
+    ever, in our fairly extensive worldwide traveling. <br>\nKind regards, Bill and
     Daria  (June 29th)<br>\ndariabill@gmail.com\n\nDominic was truly outstanding and
     we really enjoyed his company and wisdom. We will refer you to friends and to
     ask for Dominic. Please wish him well on the wedding of his son this weekend.<br>\nMark
