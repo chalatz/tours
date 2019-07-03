@@ -205,6 +205,10 @@ fields:
   - type: textarea
     name: text
     label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: field_group_list
     name: gallery
     label: gallery
