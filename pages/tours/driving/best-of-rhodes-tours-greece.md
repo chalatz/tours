@@ -219,7 +219,7 @@ faq:
     a: <span class="link_inline"><a href="food_greece_menus_meals_cuisine.htm">Traditional
       Food of Rhodes</a></span>, <span class="link_inline"><a href="rhodes_wine_tours_wineries_greece.htm">Wines</a></span>,
       the famous handmade <span class="link_inline"><a href="handmade_pottery_greece.htm">Rhodes
-      Pottery, Ceramics</a></span>, and the beautiful<span class="link_inline"><a
+      Pottery, Ceramics</a></span>, and the beautiful <span class="link_inline"><a
       href="best_beaches.htm">Rhodes Beaches</a></span>
   - q: I have read some of the reviews & I am sure we'll also have fun.
     a: No comments!
