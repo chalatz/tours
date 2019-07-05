@@ -1,0 +1,15 @@
+<div class="tour__other-tours more-partners">
+
+    <div class="container tour__other-tours-items">
+        {% for item in site.data.partners.items %}
+            {% if page.id == item.id %}
+                <span class="tour__other-tours-item more-beaches__item active ">{{- item.name | upcase -}}</span>
+            {% else %}
+                <a class="tour__other-tours-link tour__other-tours-item more-beaches__item" href="{{- item.url -}}">
+                    {{- item.name | upcase -}}
+                </a>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+</div>

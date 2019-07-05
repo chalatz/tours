@@ -119,3 +119,35 @@
     }
 
 }
+
+.partner {
+
+    background-color: #fff;
+    border-top: 2px solid $lightgray;
+    margin-top: 1rem;
+
+    &__header {
+        margin-top: 1rem;
+    }
+
+    &__title {
+        padding-top: 0;
+    }
+
+    &__content {
+        p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+
+        a[href^="mailto"] {
+            font-weight: bold;
+        }
+    }
+
+}
+
+.more-partners {
+    background-color: #fff;
+    padding-bottom: 0;
+}

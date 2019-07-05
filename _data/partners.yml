@@ -1,0 +1,16 @@
+items:
+  - name: Athens Taxi
+    url: './athens_privatetours_shoreexcursions.htm'
+    id: partner_athens_privatetours_shoreexcursions
+  - name: Athens Limo
+    url: './athens_privatetours_limousines.htm'
+    id: partner_athens_privatetours_limousines
+  - name: Santorini
+    url: './santorini_privatetours_shoreexcursions.htm'
+    id: partner_santorini_privatetours_shoreexcursions
+  - name: Mykonos
+    url: './greece_mykonos_privatetours_guides_drivers_shoreexcursions.htm'
+    id: partner_greece_mykonos_privatetours_guides_drivers_shoreexcursions
+  - name: Corfu
+    url: './corfu_privatetours_shoreexcursions.htm'
+    id: partner_corfu_privatetours_shoreexcursions

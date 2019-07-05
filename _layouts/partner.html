@@ -1,0 +1,33 @@
+---
+layout: bare
+---
+
+<main class="photo-tour partner">
+
+    <header class="partner__header section container">
+        <h1 class="photo-tour__title partner__title">
+            {{ page.title }}
+        </h1>
+        {%- if page.subtitle -%}
+            <h2 class="photo-tour__subtitle">
+                {{ page.subtitle }}
+            </h2>
+        {%- endif -%}
+        {%- if page.subtitle2 -%}
+            <h2 class="photo-tour__subtitle">
+                {{ page.subtitle2 }}
+            </h2>
+        {%- endif -%}
+    </header>
+
+    {%- if page.content != '' -%}
+        <section class="section container partner__content">
+            {{ content }}
+        </section>
+    {%- endif -%}
+
+    <footer class="section">
+        {% include partials/other-partners.html %}
+    </footer>
+    
+</main>
