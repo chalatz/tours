@@ -30,6 +30,8 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
 
+i18n: false
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
