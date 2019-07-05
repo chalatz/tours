@@ -26,30 +26,32 @@
       </span>
   </a>
   
-  <div class="langs site-header__item">
+  {%- if site.i18n == true -%}
+    <div class="langs site-header__item">
 
-      <div class="langs__item langs__item--active" id="langs__item--active">
-          EN <i class="fas fa-angle-down langs__item--active-icon" id="langs__item--active-icon"></i>
-      </div>
+        <div class="langs__item langs__item--active" id="langs__item--active">
+            EN <i class="fas fa-angle-down langs__item--active-icon" id="langs__item--active-icon"></i>
+        </div>
 
-      <div class="langs__inactives" id="langs__inactives">
-          <span class="langs__item">
-              <a class="langs__link" href="">DE</a>
-          </span>
-          <span class="langs__item">
-              <a class="langs__link" href="">ES</a>
-          </span>
-          <span class="langs__item">
-              <a class="langs__link" href="">FR</a>
-          </span>
-          <span class="langs__item">
-              <a class="langs__link" href="">IT</a>
-          </span>
-          <span class="langs__item">
-              <a class="langs__link" href="">RU</a>
-          </span>
-      </div>
+        <div class="langs__inactives" id="langs__inactives">
+            <span class="langs__item">
+                <a class="langs__link" href="">DE</a>
+            </span>
+            <span class="langs__item">
+                <a class="langs__link" href="">ES</a>
+            </span>
+            <span class="langs__item">
+                <a class="langs__link" href="">FR</a>
+            </span>
+            <span class="langs__item">
+                <a class="langs__link" href="">IT</a>
+            </span>
+            <span class="langs__item">
+                <a class="langs__link" href="">RU</a>
+            </span>
+        </div>
 
-  </div>
+    </div>
+  {%- endif -%}
 
 </header>
