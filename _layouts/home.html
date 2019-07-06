@@ -43,23 +43,6 @@ layout: default
                 {%- endif -%}                        
             {%- endfor -%}
 
-            <div class="private-tours-suggestions__items private-tours-suggestions__items--home-teasers">
-                {%- assign driving_teaser_posts = site.data.driving_tours.items | sort: 'home_page_teaser_order' -%}
-                {%- for tour in driving_teaser_posts -%}
-                    {%- if tour.home_page_teaser.enable == true -%}
-                        <div class="private-tours-suggestions__item private-tours-suggestions__item--home-teasers private-tours-suggestions__item--home-teasers--{{ tour.home_page_teaser_order }}">
-                            <div class="private-tours-suggestions__item-content">
-                                <p>
-                                    <a class="private-tours-suggestions__link private-tours-suggestions__link--driving" href="{{- tour.url -}}">
-                                        {{- tour.home_page_teaser.name | upcase -}}
-                                    </a>                            
-                                </p>
-                            </div>
-                        </div>
-                    {%- endif -%}                        
-                {%- endfor -%}
-            </div>
-
             <div class="centered container">
                 <a class="private-tours-suggestions__link private-tours-suggestions__link--view-all-home private-tours-suggestions__link--driving" href="./rhodes_island_Greece_private_tours.htm">
                     VIEW ALL CHAUFFEUR DRIVEN TOURS
@@ -88,24 +71,7 @@ layout: default
                             </div>
                     </div>
                 {%- endif -%}                        
-            {%- endfor -%}
-
-            <div class="private-tours-suggestions__items private-tours-suggestions__items--home-teasers">
-                {%- assign guided_teaser_posts = site.data.guided_tours.items | sort: 'home_page_teaser_order' -%}
-                {%- for tour in guided_teaser_posts -%}
-                    {%- if tour.home_page_teaser.enable == true -%}
-                        <div class="private-tours-suggestions__item private-tours-suggestions__item--home-teasers private-tours-suggestions__item--home-teasers--{{ tour.home_page_teaser_order }}">
-                            <div class="private-tours-suggestions__item-content">
-                                <p>
-                                    <a class="private-tours-suggestions__link private-tours-suggestions__link--guided" href="{{- tour.url -}}">
-                                        {{- tour.home_page_teaser.name | upcase -}}
-                                    </a>                            
-                                </p>
-                            </div>
-                        </div>
-                    {%- endif -%}                        
-                {%- endfor -%}
-            </div>            
+            {%- endfor -%}            
 
             <div class="centered container">
                 <a class="private-tours-suggestions__link private-tours-suggestions__link--view-all-home private-tours-suggestions__link--guided" href="./guided_tours.htm">
@@ -116,7 +82,6 @@ layout: default
         </div>
 
     </div>
-
 
 </section>   
 
