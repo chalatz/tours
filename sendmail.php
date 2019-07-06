@@ -108,9 +108,7 @@ $msg .= "City Name: $cityName\r\n";
 $msg .= "Zip Code: $zipCode\r\n";
 $msg .= "Time Zone: $timeZone\r\n";
 
-$headers = "Content-Type: text/html; charset=UTF-8";
-
-if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\n", $headers)){
+if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\n")){
     // Email has sent successfully, echo a success page.
 
     header('Location: ' . $return_to . '?contact-form-sent=success');
