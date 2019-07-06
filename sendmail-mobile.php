@@ -55,6 +55,8 @@ $msg .= "City Name: $cityName\r\n";
 $msg .= "Zip Code: $zipCode\r\n";
 $msg .= "Time Zone: $timeZone\r\n";
 
+$headers = "Content-Type: text/html; charset=UTF-8";
+
 function passed(){
     if(isset($_POST['meli_tria'])){
         $meli_tria_passed = false;
@@ -68,7 +70,7 @@ function passed(){
     }
 }
 
-if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\n"))
+if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\n", $headers))
 {
     // Email has sent successfully, echo a success page.
 
