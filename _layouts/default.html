@@ -25,9 +25,9 @@
 
     {% include scripts.html %}
 
-    {%- unless jekyll.environment == 'development' -%}
-      {%- include partials/analytics.html -%} 
-    {%- endunless -%}
+    {%- comment -%} {%- unless jekyll.environment == 'development' -%}
+      {%- include partials/analytics.html -%}
+    {%- endunless -%} {%- endcomment -%}
 
   </body>
 
