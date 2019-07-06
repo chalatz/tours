@@ -19,6 +19,10 @@
 
     {% include scripts.html %}
 
+    {%- unless jekyll.environment == 'development' -%}
+      {%- include partials/analytics.html -%} 
+    {%- endunless -%}    
+
   </body>
 
 </html>
