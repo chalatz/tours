@@ -14,3 +14,27 @@ items:
   - name: Corfu
     url: './corfu_privatetours_shoreexcursions.htm'
     id: partner_corfu_privatetours_shoreexcursions
+  - name: Crete
+    url: './crete_privatetours_shoreexcursions_heraklion.htm'
+    id: partner_crete_privatetours_shoreexcursions_heraklion
+  - name: Katakolon
+    url: './katakolon_privatetours_shoreexcursions_peloponnese.htm'
+    id: partner_katakolon_privatetours_shoreexcursions_peloponnese
+  - name: Cyprus
+    url: './cyprus_private_shoreexcursions.htm'
+    id: partner_cyprus_private_shoreexcursions
+  - name: Rome
+    url: './rome_civitavecchia_livorno_naples_italy_shoreexcursions.htm'
+    id: partner_rome_civitavecchia_livorno_naples_italy_shoreexcursions
+  - name: Israel
+    url: './haifa_jerusalem_israel_shoreexcursions.htm'
+    id: partner_haifa_jerusalem_israel_shoreexcursions
+  - name: Egypt
+    url: './alexandria_cairo_sinai_egypt_shoreexcursions.htm'
+    id: partner_alexandria_cairo_sinai_egypt_shoreexcursions
+  - name: Malta
+    url: './valletta_malta_shoreexcursions.htm'
+    id: partner_valletta_malta_shoreexcursions
+  - name: Lisbon
+    url: './lisbon_portugal_shoreexcursions.htm'
+    id: partner_lisbon_portugal_shoreexcursions

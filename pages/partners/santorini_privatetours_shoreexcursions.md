@@ -14,9 +14,9 @@ meta:
 
 title: Santorini Private Tours.
 
-subtitle: Santorini private shore excursions. Santorini Greece Tours
-
-subtitle2: Dimitris Nikolaidis
+subtitles:
+  - Santorini private shore excursions. Santorini Greece Tours
+  - Dimitris Nikolaidis
 
 ---
 We are a personalized company with dedicated staff who are very experienced in Private and Exclusive Tours in Santorini. Our vehicles are new, fully air-conditioned and very comfortable. Over the years we have developed a superb reputation for safety, punctuality, courtesy, customer service and friendliness. Not to mention our record of maintenance and cleanliness of our vehicles.

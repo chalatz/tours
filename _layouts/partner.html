@@ -6,17 +6,15 @@ layout: bare
 
     <header class="partner__header section container">
         <h1 class="photo-tour__title partner__title">
-            {{ page.title }}
+            {{- page.title -}}
         </h1>
-        {%- if page.subtitle -%}
-            <h2 class="photo-tour__subtitle">
-                {{ page.subtitle }}
-            </h2>
-        {%- endif -%}
-        {%- if page.subtitle2 -%}
-            <h2 class="photo-tour__subtitle">
-                {{ page.subtitle2 }}
-            </h2>
+        {%- assign subtitles_size = page.subtitles | size -%}
+        {%- if subtitles_size > 0 -%}
+            {%- for subtitle in page.subtitles -%}
+                <h2 class="photo-tour__subtitle">
+                    {{- subtitle -}}
+                </h2>
+            {%- endfor -%}
         {%- endif -%}
     </header>
 

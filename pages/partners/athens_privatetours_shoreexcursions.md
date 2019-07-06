@@ -14,9 +14,9 @@ meta:
 
 title: Athens Private tours.
 
-subtitle: Athens Private Taxi Services. Piraeus Greece
-
-subtitle2: George Kokkotos
+subtitles:
+  - Athens Private Taxi Services. Piraeus Greece
+  - George Kokkotos
 
 ---
 My name is George Kokkotos. I am a taxi driver in Greece. Not an ordinary taxi driver. I am the Best Taxi Driver in Greece. At least that is what people say and that is what I am trying to be. Ten years ago I sold my restaurant in New York to come back to Greece where my family was and my heart will always be. I had saved enough money to begin a new life but in Greece things are not so easy as in America and so I became a taxi driver to support my family. Being a taxi driver in Athens is difficult. The fares are very low and gas is very expensive.

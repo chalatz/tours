@@ -1,0 +1,40 @@
+---
+layout: partner
+permalink: crete_privatetours_shoreexcursions_heraklion.htm
+has_gallery: false
+id: partner_crete_privatetours_shoreexcursions_heraklion
+meta:
+  title: Crete Private tours, Crete Private Shore Excursions, Crete private guides drivers, Heraklion
+  http_desc: Crete Private tours, Crete Private Shore Excursions, Crete private guides drivers, Heraklion
+  keywords: Crete Private tours, Crete Private Shore Excursions, Crete private guides drivers, Heraklion
+  description: Crete Private tours, Crete Private Shore Excursions, Crete private guides drivers, Heraklion
+  abstract: Rhodes private tours and shore excursions
+  author: Nick
+  copyright: NK for Rhodes Private Tours, 2018
+
+title: Crete Private Tours. Heraklion Taxi Tours
+
+subtitles:
+  - Crete Superior Taxi Services
+  - Yiannis Saridakis
+
+---
+Welcome to Crete, The Warm Embrace of Europe. Crete is a special place, unique in Greece. Where people and nature weave a harmonious synthesis of the present with threads of a distant, and glorious past. Lying as the island does, on the crossroads of the three ancient continents - Europe, Asia and Africa - it has inherited something from each. From Europe, its cosmopolitan air, from Asia its reserved, traditional character, from Africa its palm trees and the hot breath of the south wind.
+
+Crete Superior Taxi Services offers a wide selection of Luxurious Sedans Mercedes Taxis, and a high quality car services. Private sightseeing tours and shore excursions. V.I.P. Transfer Services, Meeting, Incentives and Conferences Transfer Services, Special Events (Marriages, Celebrities, Etc.), Wedding services to and from the church, we can cover the whole day smoothly and on time. Programs for Special Interests (Archaeological - Historical - Christian routs). Knossos Palace - Archaeological Museum & Heraklion city. West Crete. Gortys - Phaistos - Matala. Lasithi plateau. East Crete. Myrtia - Archanes. Any other possible excursion, not mentioned above can be scheduled. Visiting the majority of the Cretan towns could be also interesting under the nightlight.
+
+Offering always unique taxi excursions of the whole island so that you can maximise your time and energy whilst on holiday or business.
+
+Sincerely<br>
+Yiannis Saridakis<br>
+Your taxi driver in Crete.
+
+**Available Services**
+
+Crete private tours. Myrtia Archanes tours. Private shore excursions. Customized day trips. Businesspeople, diplomats. Marriages, Celebrities. Private Adventure Tours. Knossos Palace Tours. Heraklion port excursions. Gortys Phaistos Matala. Crete Taxi tours.
+
+**Contact**
+
+For further information of our services, availability and reservations in Crete, please contact us. Please write as much details as much you can so we can give you complete and appropriate reply immediately.
+
+[ysaridaki@cretan-taxi.gr](mailto:ysaridaki@cretan-taxi.gr?bcc=request@rhodesprivatetours.com "mailto:ysaridaki@cretan-taxi.gr")

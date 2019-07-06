@@ -14,7 +14,8 @@ meta:
 
 title: Mykonos Private Tours.
 
-subtitle: Mykonos shore excursions with private guides, drivers
+subtitles:
+  - Mykonos shore excursions with private guides, drivers
 
 ---
 Discover the beauties of Mykonos with a private tour guide just for you and your family or friends. We operate private excursions in Mykonos with our mini vans and coaches. Tours are planned to your requirements (price, duration and interests) and are escorted by the best guides on the island. The tours can be booked also by clients arriving on cruise ships. We will meet you at the port with a sign with your name and begin our tour of Mykonos. We are open to your suggestions or preferences.
