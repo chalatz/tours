@@ -25,7 +25,8 @@ You hear many stories about the Greek taxi drivers and not to trust them because
 
 I have a brand new Mercedes Taxi. Fully air-conditioned and very comfortable. I drive very carefully and I do not smoke. I can promise you that if you take a journey with me, whether it is a half day trip in Athens or a week long excursion around the country you will come back with an understanding of Greece that you will treasure and you will have perhaps the best vacation of your life. You will eat the best food and be treated like a guest of my country and when we say goodbye at the airport you will be saying goodbye to a friend you will always remember and hope to see again. That is why I say I am The Best Taxi Driver in Greece.
 
-Sincerely George Kokkotos\
+Sincerely George Kokkotos
+
 Your taxi driver in Greece.
 
 **Available Services**

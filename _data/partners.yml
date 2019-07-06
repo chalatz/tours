@@ -38,3 +38,21 @@ items:
   - name: Lisbon
     url: './lisbon_portugal_shoreexcursions.htm'
     id: partner_lisbon_portugal_shoreexcursions
+  - name: French Riviera
+    url: './french_riviera_monaco_nice_villefranche_montecarlo.htm'
+    id: partner_french_riviera_monaco_nice_villefranche_montecarlo
+  - name: Barcelona
+    url: './barcelona_personaltourguide_privateshoreexcursions.htm'
+    id: partner_barcelona_personaltourguide_privateshoreexcursions
+  - name: London
+    url: './london_private_tour_guides.htm'
+    id: partner_london_private_tour_guides
+  - name: Paris
+    url: './paris_private_excursions.htm'
+    id: partner_paris_private_excursions
+  - name: Berlin
+    url: './berlin_shore_excursions.htm'
+    id: partner_berlin_shore_excursions
+  - name: Madrid
+    url: './madrid_shore_excursions.htm'
+    id: partner_madrid_shore_excursions

@@ -41,8 +41,10 @@ Kanoni is a suburb of Corfu about 2 kilometers south from the present capital. T
 
 **Paleokastritsa - Lakones**
 
-Probably one of the most beautiful places in the world. Breathtaking, magnificent view from Lakones of the Western coast of Corfu.\
-Visits: Bella Vista from the top of the heart shaped bays of Paleokastritsa.\
+Probably one of the most beautiful places in the world. Breathtaking, magnificent view from Lakones of the Western coast of Corfu.
+
+Visits: Bella Vista from the top of the heart shaped bays of Paleokastritsa.
+
 Lakones: A traditional village of the 16th cen. Built at the top of the mountain, the monastery of Blessed Virgin Mary of the 13th cen.
 
 Sincerely<br>

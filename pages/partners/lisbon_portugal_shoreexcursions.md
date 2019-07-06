@@ -42,7 +42,8 @@ South of the River Tagus (Tejo) via a Florida Keys-type long bridge (Vasco da Ga
 
 These are just some of the pleasurable possibilities that are available when you opt for one of my personalized tours. The choice is yours.
 
-Sincerely Mary Harrison Goudie\
+Sincerely Mary Harrison Goudie
+
 Your Private Tour Guide in Lisboa, Portugal.
 
 **Available Services**
