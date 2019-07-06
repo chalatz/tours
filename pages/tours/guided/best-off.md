@@ -19,8 +19,8 @@ meta:
 title: '"Best off & Lunch Break" GT2'
 tour:
   title: '"Best off & Lunch Break" GT2'
-  summary: Rhodes Old City & New Town / Acropolis of Rhodes / The East Coast of the
-    Island / Village & Acropolis of Lindos / Lunch by the Sea
+  summary: Rhodes Old & New Town / Acropolis of Rhodes / The East Coast / Free Olive
+    Oil Taste / Village & Acropolis of Lindos / Lunch by the Sea
   duration: Full Day
 summary:
   paragraphs:
