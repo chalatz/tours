@@ -18,11 +18,15 @@ layout: bare
         {%- endif -%}
     </header>
 
-    {%- if page.content != '' -%}
-        <section class="section container partner__content">
+    <section class="section container partner__content">
+        {%- if page.content != '' -%}
             {{ content }}
-        </section>
-    {%- endif -%}
+        {%- else -%}
+            <p class="soon" style="color: #fa320a; font-weight: bold; text-align: center; padding-bottom: 3rem;">
+                Soon...
+            </p>
+        {%- endif -%}
+    </section>
 
     <footer class="section">
         {% include partials/other-partners.html %}

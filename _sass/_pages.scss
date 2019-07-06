@@ -147,6 +147,13 @@
         a[href^="mailto"] {
             font-weight: bold;
         }
+
+        .soon {
+            color: $red;
+            font-weight: bold;
+            text-align: center;
+            padding-bottom: 3rem;
+        }
     }
 
 }

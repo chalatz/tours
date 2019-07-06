@@ -153,4 +153,12 @@
         width: 70px;
     }
 
+    &--bare {
+        padding-top: 2rem;
+        &.no-content {
+            padding-top: 3rem;
+            box-shadow: 0 50vh 0 50vh $darkerblue;
+        }
+    }
+
 }
