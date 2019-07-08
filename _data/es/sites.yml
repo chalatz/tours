@@ -1,0 +1,170 @@
+title: Destinos de Rodas y Atracciones Únicas
+
+subtitle: Conozca los sitios históricos y la belleza natural de la isla de Rodas
+
+items:
+  - title: Lugares Históricos en Rodas
+    thumb:
+      path: ./img/pages/destinations/historical-sites.jpg
+      alt: Lugares Históricos en Rodas
+    links:
+      - name: Ciudad Medieval de Rodas
+        url: ./ciudad_medieval_rodas.htm
+        id: site_old_town
+      - name: Nueva Ciudad de Rodas
+        url: ./ciudad_rodas_grecia.htm
+        id: site_new_town
+      - name: Costa este de Rodas
+        url: ./lugares_de_interes_en_rodas.htm
+        id: site_east_coast
+      - name: Costa oeste de Rodas
+        url: ./lugares_para_visitar_en_rodas.htm
+        id: site_west_coast
+      - name: Monumentos Bizantinos
+        url: ./monumentos_bizantinos_historicos.htm
+        id: site_byzantine
+      - name: Los Caballeros de Rodas
+        url: ./caballeros_de_rodas.htm
+        id: site_knights
+      - name: Sitios Otomanas en Rodas
+        url: ./sitios_otomanos_rodas.htm
+        id: site_ottoman
+      - name: La Arquitectura Italiana
+        url: ./monumentos_arquitectura_italiana.htm
+        id: site_italian
+
+  - title: Sitios Antiguos en Rodas
+    thumb:
+      path: ./img/pages/destinations/ancient-sites.jpg
+      alt: Sitios Antiguos en Rodas
+    links:
+      - name: El Coloso de Rodas
+        url: ./coloso_de_rodas_grecia.htm
+        id: site_colossus
+      - name: Acrópolis de Rodas
+        url: ./acropolis_rodas_grecia.htm
+        id: site_mount_smith_hill
+      - name: Acrópolis de Lindos
+        url: ./acropolis_lindos_rodas_grecia.htm
+        id: site_acropolis_lindos
+      - name: Monasterio Filerimos
+        url: ./filerimos_rodas_grecia.htm
+        id: site_filerimos_hill
+      - name: Antigua Kamiros
+        url: ./antigua_kameiros_rodas_grecia.htm
+        id: site_ancient_kameiros
+      - name: Castillo de kritinia
+        url: ./castillo_de_kritinia_rodas_grecia.htm
+        id: site_kritinia_castle
+      - name: Castillo de Monolitos
+        url: ./castillo_de_Monolitos_rodas_grecia.htm
+        id: site_monolithos_castle
+
+  - title: La judería
+    thumb:
+      path: ./img/pages/destinations/jewish-sites.jpg
+      alt: La judería
+    links:
+      - name: El Barrio Judío
+        url: ./judios_de_rodas_grecia.htm
+        id: site_la_juderia_home
+      - name: La Plaza de los Judíos Mártires
+        url: ./judios_de_rodas_grecia.htm#the_martyred_jews_square
+      - name: 'La Sinagoga "Kahal Shalom"'
+        url: ./judios_de_rodas_grecia.htm#the_kahal_shalom
+      - name: El Museo Judío de Rodas
+        url: ./judios_de_rodas_grecia.htm#the_jewish_museum
+      - name: Aron Hasson Fundador de M.J.R.
+        url: ./judios_de_rodas_grecia.htm#aron_hasson
+      - name: El Cementerio Judío
+        url: ./judios_de_rodas_grecia.htm#the_jewish_cemetery
+      - name: '"Rhodesli" Libros y Películas'
+        url: ./judios_de_rodas_grecia.htm#books
+
+  - title: Bellezas Naturales y Parques
+    thumb:
+      path: ./img/pages/destinations/parks-natural-beauty-sites.jpg
+      alt: Bellezas Naturales y Parques
+    links:
+      - name: Valle de las Mariposas, Rodas
+        url: ./valle_mariposas_rodas_grecia.htm
+        id: site_butterflies
+      - name: Siete Manantiales en Rodas
+        url: ./bellezas_naturales_grecia_rodas.htm
+        id: site_seven_springs
+      - name: Kallithea Termas Spa
+        url: ./kalithea_termas_spa_rodas.htm
+        id: site_kalithea_spa 
+      - name: Parque Rodini en Rodas
+        url: ./parque_rodini_rodas.htm
+        id: site_rodini_park 
+      - name: Granja de Avestruces en Rodas
+        url: ./parques_naturales_grecia_rodas.htm
+        id: site_ostrich_farm 
+      - name: El Parque Acuático en Rodas
+        url: ./parque_acuatico_rodas_grecia.htm
+        id: site_water_park
+      # - name: Best Beaches in Rhodes
+      #   url: ./best_beaches.htm
+      #   id: site_best_beaches
+
+  - title: Museos y Galerías de Arte
+    thumb:
+      path: ./img/pages/destinations/museums-art-galleries.jpg
+      alt: Museos y Galerías de Arte
+    links:
+      - name: Palacio del Gran Maestro
+        url: ./palacio_del_Gran_Maestre_rodas.htm
+        id: site_grand_masters_palace
+      - name: Museo Arqueológico Rodas
+        url: ./museo_arqueologico_rodas.htm
+        id: site_archaeological_museum
+      - name: Museo de Arte Bizantino
+        url: ./museo_de_arte_bizantino.htm
+        id: site_byzantine_art_museum
+      - name: Hospicio de Santa Catarina
+        url: ./hospicio_de_santa_caterina_rodas.htm
+        id: site_st_catherine_hospice
+      - name: Arte Griego Moderno
+        url: ./museo_arte_moderna_griega.htm
+        id: site_modern_greek_art_museum
+      - name: Artes Decorativas, Folklore
+        url: ./museo_artes_decorativas_rodas.htm
+        id: site_decorative_arts_museum
+      - name: Museo de Abejas en Rodas
+        url: ./museo_de_abejas_en_rodas.htm
+        id: site_bee_museum
+
+  - title: Información Sobre Rodas
+    thumb:
+      path: ./img/pages/destinations/quick-facts-about-rhodes.jpg
+      alt: Información Sobre Rodas
+    links:
+      - name: Cerámica en Rodas Grecia
+        url: ./cerámica_griega_alfarería.htm        
+        id: info_handmade_pottery
+      - name: Gastronomía Griega, Platos Típicos
+        url: ./gastronomia_griega_comida_recetas_cocina.htm        
+        id: info_food_greece_menus_meals
+      - name: 10 razones para visitar Rodas
+        url: ./razones_para_visitar_rodas_grecia.htm        
+        id: info_top_10_reasons_to_visit_rhodes
+      - name: Historia de Rodas Grecia
+        url: ./historia_de_rodas_grecia.htm               
+        id: info_history_rhodes
+      - name: Películas y Libros sobre Rodas
+        url: ./peliculas_filmadas_rodas.htm        
+        id: info_movies_filmed_rhodes
+      - name: Guía de viaje de Rodas Grecia
+        url: ./guia_viaje_Rodas_Grecia_Informacion_turistica.htm        
+        id: info_rhodes_travel_guide
+      - name: '¿ Sabia usted que …?'
+        url: ./isla_griega_rodas.htm
+        id: info_rhodes_island
+
+beaches:
+  title: Aguas cristalinas en Rodas
+  subtitle:
+    text: Las Mejores Playas en Rodas
+    link: ./mejores_playas_grecia_rodas.htm
+    id: site_best_beaches

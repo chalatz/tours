@@ -1,0 +1,58 @@
+<section id="rhodes-sites" class="home-section rhodes-sites">
+
+    <h1 class="rhodes-sites__title">
+        {{- site.data.es.sites.title -}}
+        <span class="rhodes-sites__subtitle">
+            {{- site.data.es.sites.subtitle -}}
+        </span> 
+    </h1>
+
+    <div class="rhodes-sites__content container">
+        <div class="rhodes-sites__items">
+            {% for item in site.data.es.sites.items %}
+                <div class="rhodes-sites__item">
+                    <h2 class="rhodes-sites__item-title">
+                        {{- item.title -}}
+                    </h2>
+                    <ul class="rhodes-sites__item-links">
+                        {% for link in item.links %}
+                            <li {% if link.classes %}class="{{ link.classes }}"{% endif %}>
+                                <a class="rhodes-sites__item-link{% if link.id == page.id %} rhodes-sites__item-link--active{% endif %}" href="{{- link.url -}}">
+                                    {{- link.name -}}
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>  
+            {% endfor %}
+        </div>
+
+        <div class="rhodes-sites__beaches">
+
+            <div class="rhodes-sites__item-title-wrapper rhodes-sites__item-title-wrapper--beach">
+                <h2 class="rhodes-sites__item-title rhodes-sites__item-title--beach">
+                    {{- site.data.es.sites.beaches.title -}}
+                </h2>
+            </div>
+
+            <div class="rhodes-sites__item-subtitle-wrapper rhodes-sites__item-subtitle-wrapper--beach">                
+                <a class="rhodes-sites__item-subtitle rhodes-sites__item-subtitle--beach" href="{{- site.data.es.sites.beaches.subtitle.link -}}">
+                    {{- site.data.es.sites.beaches.subtitle.text -}}
+                </a>
+            </div>
+
+            <div class="rhodes-sites__items">
+                {%- for beach in site.data.es.sites.beaches.items -%}
+                    <div class="rhodes-sites__item rhodes-sites__item--beach">
+                        <a class="rhodes-sites__item-link rhodes-sites__item-link--beach{% if beach.id == page.id %} rhodes-sites__item-link--active{% endif %}" href="{{- beach.url -}}">
+                            {{- beach.name -}}
+                        </a>
+                    </div>
+                {%- endfor -%}
+            </div>
+
+        </div>
+
+    </div>  
+
+</section>
