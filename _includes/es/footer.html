@@ -1,0 +1,31 @@
+<footer class="site-footer">
+
+    <div class="site-footer__items-wrapper">
+
+        <div class="container centered">
+
+            {%- include helpers/check_empty_string.html the_string = page.end_page.long_text -%}
+            {%- if page.end_page.long_text and string_not_empty == true -%}
+                {{ page.end_page.long_text | markdownify }}
+            {%- else -%}
+                {{ site.data.defaults.es.end_page.long_text | markdownify }}
+            {%- endif -%}
+
+        </div>
+
+        <div class="site-footer__logo mt-0">
+            <img class="site-footer__logo-image" src="./img/rhodes_private_tours_logo-small-white.png" alt="Rhodes private tours Greece. Rhodes Island private tours Greece, Best of Rhodes half day tour, Standard full day tour, East Coast day tour, Rhodes Jewish Tours, Rhodes Wine tours, Rhodes Kids Tours">
+        </div>
+
+        <p class="site-footer__copyright">
+            {%- include helpers/check_empty_string.html the_string = page.end_page.short_text -%}
+            {%- if page.end_page.short_text and string_not_empty == true -%}
+                &copy;1998 - {{ site.time | date: '%Y' }} RhodesPrivateTours.com | {{ page.end_page.short_text }}
+            {%- else -%}
+                &copy;1998 - {{ site.time | date: '%Y' }} RhodesPrivateTours.com | {{ site.data.defaults.es.end_page.short_text }}
+            {%- endif -%}
+        </p>
+
+    </div>
+
+</footer>

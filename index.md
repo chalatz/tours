@@ -16,15 +16,6 @@ meta:
   abstract: Rhodes Private Tours, Rhodes Shore Excursions, Rhodes Taxi Tours
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-end_page:
-  long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
-    Tour Experiences. We deliver Private Sightseeing tours at very affordable rates.
-    All our tours are fully customizable to suit your travel needs, interests, schedules,
-    and dates."
-  short_text: 'Experts in Private Tours of Rhodes  '
-start_page:
-  title: ''
-  subtitle: ''
 maximize:
   keyword: Maximize
   text: |-

@@ -13,7 +13,14 @@
 
     {{ content }}
 
-    {%- include footer.html -%}
+    {%- if page.lang == 'en' -%}
+      {%- include footer.html -%}
+    {%- elsif page.lang == 'es' -%}
+      {%- include es/footer.html -%}
+    {%- else -%}
+      {%- include footer.html -%}
+    {%- endif -%}
+
 
     {% unless page.has_form == true %}
       {% include pop-form.html %}
