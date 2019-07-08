@@ -1,19 +1,19 @@
 <header class="site-header container">
 
   <section class="main-logo">
-      <a href="./index.htm" class="main-logo__link">
+      <a href="{{- site.langs[page.lang] -}}" class="main-logo__link">
           <img class="main-logo__img" src="./img/rhodes_private_tours_logo.jpg" alt="Rhodes Private Tours and Shore Excursions, Private Day Tours, Taxi Tours">
       </a>
   </section>
 
-  <a href="./index.htm" class="site-logo site-header__item" title="Rhodes Private Tours and Shore Excursions">
+  <a href="{{- site.data.langs[page.lang].home_page.url -}}" class="site-logo site-header__item" title="Rhodes Private Tours and Shore Excursions">
       <!-- <span class='site-logo__item site-logo__item--title'>Rhodes Private Tours</span> -->
       {%- include helpers/check_empty_string.html the_string = page.start_page.title -%}
       <span class='site-logo__item site-logo__item--subtitle'>
         {%- if page.start_page.title and string_not_empty -%}
             {{- page.start_page.title -}}
         {%- else -%}
-            {{- site.data.defaults.start_page.title -}}
+            {{- site.data.defaults[page.lang].start_page.title -}}
         {%- endif -%}
       </span>
       {%- include helpers/check_empty_string.html the_string = page.start_page.subtitle -%}
@@ -21,7 +21,7 @@
         {%- if page.start_page.subtitle and string_not_empty -%}
             {{- page.start_page.subtitle -}}
         {%- else -%}
-            {{- site.data.defaults.start_page.subtitle -}}
+            {{- site.data.defaults[page.lang].start_page.subtitle -}}
         {%- endif -%}
       </span>
   </a>

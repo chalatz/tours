@@ -10,7 +10,7 @@
 
     <ul id="site-menu__items" class="site-menu__items">
         <div class="container site-menu__items-container">
-            {%- for item in site.data.navigation.main.items -%}
+            {%- for item in site.data.navigation.main[page.lang].items -%}
                 {%- assign subitems_size = item.subitems | size -%}
                 <li class="site-menu__item {% if page.type == item.type %}site-menu__item--active{% endif %}{% if subitems_size > 0 %} site-menu__item--with-subitems{% endif %}">
                     <a class="site-menu__link" href="{{- item.url -}}">{{- item.title | upcase -}}

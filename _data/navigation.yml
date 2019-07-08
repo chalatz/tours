@@ -1,5 +1,6 @@
 main:
-  items:
+  en:
+    items:
     - title: HOME
       url: './index.htm'
       type: home
@@ -104,5 +105,32 @@ main:
           id: car_driver_services_page
           cta_link: true
     - title: CONTACT US
+      type: contact_page
+      url: './contact_us.htm'
+  es:
+    items:
+    - title: Inicio
+      url: './espaniol_excursiones_privadas.htm'
+      type: home
+    - title: Sobre Nosotros
+      url: './rhodes_private_day_tours.htm'
+      type: about_page
+    - title: coches con conductor
+      url: './rhodes_island_Greece_private_tours.htm'
+      type: driving_tours_page
+    - title: tours privados
+      url: './guided_tours.htm'
+      type: guided_tours_page
+    - title: tours para grupos
+      url: './group_mini_bus.htm'
+      type: group_tours_page
+    - title: TOURS Accesibles
+      url: './accessible_disabled.htm'
+      type: accessible_tours_page
+    - title: servicios VIP
+      cta_title: VIEW MORE SERVICES
+      url: './tour_services.htm'
+      type: services_page
+    - title: Contacto
       type: contact_page
       url: './contact_us.htm'

@@ -1,12 +1,11 @@
 ---
-layout: home
+layout: es/home
 type: home
 id: home
-permalink: index.htm
+permalink: espaniol_excursiones_privadas.htm
 has_form: false
 has_gallery: false
 trip_advisor_alt: true
-lang: en
 ref: home
 meta:
   title: Rhodes Private Tours, ORIGINAL SITE, Shore Excursions, Private Day Tours, Rhodes Taxi Tours
@@ -28,9 +27,9 @@ start_page:
 maximize:
   keyword: Maximize
   text: |-
-    All tours are only suggestions on HOW to MAXIMIZE your short visit on the Island.
+    Todos los tours son sólo sugerencias sobre CÓMO APROVECHAR AL MÁXIMO su corta visita a la Isla. 
 
-    Rhodes is the fourth largest Island in Greece, 1.408 km² or 543,6 miles². We know how to use your precious travel time most efficiently...
+    Rodas es la cuarta isla más grande de Grecia, con 1.408 km² o 543,6 millas². Sabemos cómo utilizar su valioso tiempo de viaje de la manera más eficiente...
 our_goal:
   keyword: Our goal
   title:

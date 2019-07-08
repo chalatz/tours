@@ -1,5 +1,9 @@
 en:
-    code: en-US
+  code: en-US
+  home_page:
+    url: ./index.htm
 
 es:
-    code: es
+  code: es
+  home_page:
+    url: ./espaniol_excursiones_privadas.htm
