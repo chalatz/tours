@@ -24,6 +24,24 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+langs:
+  - en
+  - es
+
+default_lang: en
+
+defaults:
+  - scope:
+      path: "pages"
+      type: "pages"
+    values:
+      lang: en
+  - scope:
+      path: "es_pages"
+      type: "pages"
+    values:
+      lang: es
+
 # Build settings
 markdown: kramdown
 # theme: minima
