@@ -1,6 +1,6 @@
 ---
-layout: photo-tour
-permalink: rhodes_east_coast_taxi_tour.htm
+layout: es/photo-tour
+permalink: lugares_de_interes_en_rodas.htm
 has_gallery: true
 id: site_east_coast
 ref: site_east_coast
@@ -14,165 +14,135 @@ meta:
   abstract: Rhodes Taxi Tours
   http_desc: Rhodes Taxi Tours Greece, Rhodes Private Taxi Tours, Rhodes Taxi Tour
 keyphrase: Rhodes Taxi Tours
-title: Rhodes East Coast in Pictures - Photo Gallery
+title: La Costa Este de Rodas en Fotos
 sections:
-- desc: We set out from the town towards the southeast, along the road which runs
-    parallel to the eastern coast of the island. We drive through the seaside settlements
-    of Agia Marina and Reni Koskinou and on to Kalithea, known for its healing waters.
-    The crystal clear waters of its lovely bay have an abundance of marine life and
-    are an ideal place for diving and snorkeling.
+- desc: Salimos de la ciudad hacia el sureste a lo largo de la carretera que corre paralela a la costa oriental de la isla. Conduciremos a través de los asentamientos de la Aghia marina, Reni Koskinou y continuar a Kalithea. Kalithea es una hermosa bahía, bordeada de palmeras, da un aspecto exótico.
   gallery_rows:
   - figures:
     - thumb: img/East_Coast/kallithea_baths_mod_small.jpg
       href: img/East_Coast/kallithea_baths_mod.jpg
       alt: East Coast of Rhodes, Kalithea, Taxi Tours, Rhodes Taxi Tours, Taxi Tours
         of Rhodes, Taxi Tours Greece Rhodes
-      caption: The entrance of Kalithea Spa. Kallithea baths (no longer in operation).
-        The construction of the facilities began at the end of December 1928, by the
-        italian architect Pietro Lombardi.
+      caption: La entrada del balneario de Kalithea. Baños de Kalithea (no más en funcionamiento) - renovado recientemente y absolutamente hermoso... El constraction de las instalaciones comenzó a finales de septiembre de 1928, por el italiano arquitecto Pedro Lombardi.
     - thumb: img/East_Coast/fountains_mod_small.jpg
       href: img/East_Coast/fountains_mod.jpg
       alt: Taxi Tours of Rhodes East Coast, Kalithea, Rhodes Taxi Tours, Taxi Tours
         of Rhodes, Taxi Tours Greece Rhodes
-      caption: The water of the spring flows from the six fountains into a ciclurar
-        cistern.
+      caption: El agua de manantial fluye de las seis fuentes en una circular cisterna.
     - thumb: img/East_Coast/kallithea_rocks_mod_small.jpg
       href: img/East_Coast/kallithea_rocks_mod.jpg
       alt: Kalithea, Rhodes Taxi Tour, Rhodes Taxi Tours, Taxi Tours of Rhodes, Taxi
         Tours Greece Rhodes
-      caption: Kalithea Beach. In this naturally landscaped setting the film "Escape
-        to Athena" with Telly Savalas and Roger Moore was filmed.
+      caption: Playa de Kalithea. En este ajardinado natural, filmaron la película “evasión a Atenea” (Escape to Athena) con Telly Savalas y a Roger Moore.
     - thumb: img/East_Coast/kalithea_beach_mod_small.jpg
       href: img/East_Coast/kalithea_beach_mod.jpg
       alt: East coast of Rhodes, Taxi Tours, Rhodes Taxi Tours, Taxi Tours of Rhodes,
         Taxi Tours Greece Rhodes
-      caption: Some scenes from the film "The Guns of Navarone" were also filmed here
-        too.
+      caption: Algunas escenas de la película “Los cañones de Navarone” (The Guns of Navarone) también fueron filmadas aquí.
 - desc: |-
-    We continue along the coastal road, which is lined with ultra-modern tourist complexes, and we come to Faliraki.  This is one of the largest tourist settlements of the island, with a marvelous beach, many hotels, shops, sports facilities, etc...
+    Continuamos a lo largo del camino costero, que es lleno de ultramodernos establecimientos turísticos, y venimos a Faliraki. Éste es uno de los más grandes asentamientos turísticos de la isla, con una playa maravillosa, muchos hoteles, tiendas, instalación deportiva, etc...
 
-    About 5 min drive from Faliraki and 15km from Rhodes Town is the famous "Antony Quinn Bay" a nice sand and pebble beach surrounded by green hills. It became famous before the movie "The Guns of Navarone" when Anthony Quinn fell in love of the bay and bought lands there. Since those days this place has been called Anthony Quinn Bay.
+    Sobre la impulsión 5min de Faliraki y el 15km de la ciudad de Rodas es la bahía famosa “La Bahía de Antony Quinn” una playa agradable con la arena y los guijarros, rodeados por las colinas verdes. Llegó a ser famoso antes de la película “Los cañones de Navarone” cuando Antony Quinn cayó en amor con la bahía y compró tierra allí. Puesto que esos días este lugar se ha llamado bahía de Anthony Quinn.
   gallery_rows:
   - figures:
     - thumb: img/East_Coast/faliraki_beach_mod_small.jpg
       href: img/East_Coast/faliraki_beach_mod.jpg
       alt: Faliraki, East Coast, Rhodes Taxi Tours, Taxi Tours of Rhodes, Taxi Tours
         Greece Rhodes
-      caption: Faliraki Tourist Settlement
+      caption: Faliraki
     - thumb: img/East_Coast/faliraki_beach_2_mod_small.jpg
       href: img/East_Coast/faliraki_beach_2_mod.jpg
       alt: Rhodes Faliraki, East Coast Taxi Tours, Rhodes Taxi Tours, Taxi Tours of
         Rhodes, Taxi Tours Greece Rhodes
-      caption: Faliraki Tourist Settlement
+      caption: Faliraki
     - thumb: img/East_Coast/antony_queen_bay_mod_small.jpg
       href: img/East_Coast/antony_queen_bay_mod.jpg
       alt: Antony Queen Bay, Rhodes Taxi Tours
-      caption: Anthony Quinn Bay
+      caption: La Bahía de Antony Quinn
     - thumb: img/East_Coast/antony_queen_beach_mod_small.jpg
       href: img/East_Coast/antony_queen_beach_mod.jpg
       alt: Antony Queen Bay, Rhodes Private Tours, Rhodes Taxi Tours, Taxi Tours of
         Rhodes, Taxi Tours Greece Rhodes
-      caption: Anthony Quinn Bay
+      caption: La Bahía de Antony Quinn
 - desc: |-
-    We turn to the main road, and pass through the village of Afandou. At a distance of 6 Kilometers to the south, is the site called Kolymbia, where the Epta Pighes (Seven Springs) are located.
+    Damos vuelta a la carretera principal, y pasamos a través del pueblo de Afandou. En una distancia de 6 kilómetros al sur, es el lugar llamado Kolimbia, en donde se localiza el Epta Pighes (Siete Fuentes).
 
-    We continue southwards, we arrive at Archangelos, one of the loveliest traditional villages of the island. In this area, there are workshops and shops selling pottery.
+    Continuamos hacia el sur y llegamos Archangelos, uno de los pueblos tradicionales más preciosos de la isla. En esta área, hay talleres y tiendas que venden la cerámica.
   gallery_rows:
   - figures:
     - thumb: img/East_Coast/seven_springs_mod_small.jpg
       href: img/East_Coast/seven_springs_mod.jpg
       alt: Seven Springs of Rhodes Greece, Rhodes Taxi Tours, Taxi Tours of Rhodes,
         Taxi Tours Greece Rhodes
-      caption: The Seven Springs
+      caption: Siete Fuentes
     - thumb: img/East_Coast/rhodes_pottery_mod_small.jpg
       href: img/East_Coast/rhodes_pottery_mod.jpg
       alt: Rhodes Pottery Greece, Vases
-      caption: Workshops selling pottery
+      caption: Cerámica
     - thumb: img/East_Coast/rhodes_pottery_2_mod_small.jpg
       href: img/East_Coast/rhodes_pottery_2_mod.jpg
       alt: Pottery of Rhodes Greece, Plates
-      caption: Rhodian Potteries
+      caption: Cerámica
     - thumb: img/East_Coast/archagelos_village_2_mod_small.jpg
       href: img/East_Coast/archagelos_village_2_mod.jpg
       alt: Archagelos Village Rhodes
-      caption: Archangelos Village
-- desc: We continue to the south on the main road and after a turn, the impressive
-    rock of Lindos rises up to meet us, with the acropolis on its top and the dazzling
-    white village at its foot.
+      caption: Pueblo de Archangelos
+- desc: Continuamos al sur en la carretera principal y después de que una vuelta, la impresionante roca de Lindos se alce para nos resolver, con la acrópolis en su tapa, y del asombroso blanco pueblo en su pie.
   gallery_rows:
   - figures:
     - thumb: img/East_Coast/ancient_lindos_acropolis_mod_small.jpg
       href: img/East_Coast/ancient_lindos_acropolis_mod.jpg
       alt: Acropolis of Lindos, Rhodes Taxi Tours
-      caption: Lindos, 50 Klm (32 Miles) from the town of Rhodes.
+      caption: Lindos, los 50km (35 millas) de la ciudad de Rodas.
     - thumb: img/East_Coast/ancient_lindos_acropolis_2_mod_small.jpg
       href: img/East_Coast/ancient_lindos_acropolis_2_mod.jpg
       alt: Lindos Village, Rhodes Taxi Tours
-      caption: The ancient Acropolis 410 feet (160m) above Lindos.
+      caption: La acrópolis antigua 410 pies (el 160m) sobre Lindos. 
     - thumb: img/East_Coast/cleoboulus_statue_mod_small.jpg
       href: img/East_Coast/cleoboulus_statue_mod.jpg
       alt: Acropolis of Lindos, Rhodes Taxi Tours
-      caption: Kleovoulos (Cleoboulus), East Coast Rhodes Greece
+      caption: Kleovoulos (Cleoboulus)
     - thumb: img/East_Coast/st_pauls_bay_mod_small.jpg
       href: img/East_Coast/st_pauls_bay_mod.jpg
       alt: St. Paul's Bay Lindos Rhodes Greece
-      caption: St. Paul 's Bay, where the apostle is said to have landed in the year
-        51 AD to preach Christianity to the Rhodians.
+      caption: La bahía de San Pablo, donde el apóstol había parado en el año 51 D.M, para predicar cristianismo a la población de Rodas.
 - gallery_rows:
   - figures:
     - thumb: img/East_Coast/lindos_goats_mod_small.jpg
       href: img/East_Coast/lindos_goats_mod.jpg
       alt: Lindos Goats, Executive tours of Rhodes
-      caption: No Comments!!
+      caption: Ningunos comentarios!!
     - thumb: img/East_Coast/donkey_mod_small.jpg
       href: img/East_Coast/donkey_mod.jpg
       alt: Lindos Donkey, Rhodes Taxi Tours
-      caption: No Comments!!
+      caption: Ningunos comentarios!!
     - thumb: img/East_Coast/captain_houses_mod_small.jpg
       href: img/East_Coast/captain_houses_mod.jpg
       alt: Lindos Panorama, Rhodes Taxi Tours
-      caption: The white houses "Captain houses" with the blue sky create a beautiful
-        contrast!
+      caption: Las casas blancas "casas de capitán", con el cielo oscuro crean un hermoso contraste!
     - thumb: img/East_Coast/old_residences_mod_small.jpg
       href: img/East_Coast/old_residences_mod.jpg
       alt: Lindos white houses, Rhodes Taxi Tours
-      caption: '"Captain houses" Lovely old residences, hearkening back to the 16th
-        and 17th centuries, when they were constructed by wealthy merchant seafarers
-        as visible evidence of their success.'
+      caption: '"Casas de capitán" Las casas viejas preciosas, les están tomando de nuevo a los 16 y 17 siglos, cuando fueron construidas por los navegantes mercantil ricos, como pruebas claras de su éxito. '
 - gallery_rows:
   - figures:
     - thumb: img/East_Coast/lindos_village_1_mod_small.jpg
       href: img/East_Coast/lindos_village_1_mod.jpg
       alt: The Ancient Theatre of Lindos, Rhodes day trips.
-      caption: Lindos Village
+      caption: Pueblo de Lindos.
     - thumb: img/East_Coast/lindos_village_2_mod_small.jpg
       href: img/East_Coast/lindos_village_2_mod.jpg
       alt: Lindos Ancient Theatre, Rhodes Limo Services.
-      caption: Lindos Village
+      caption: Pueblo de Lindos.
     - thumb: img/East_Coast/lindos_village_3_mod_small.jpg
       href: img/East_Coast/lindos_village_3_mod.jpg
       alt: The Ancient Theatre of Lindos, Rhodes day trips.
-      caption: Lindos Village
+      caption: Pueblo de Lindos.
     - thumb: img/East_Coast/lindos_village_4_mod_small.jpg
       href: img/East_Coast/lindos_village_4_mod.jpg
       alt: Lindos Ancient Theatre, Rhodes Limo Services.
-      caption: Lindos Taxi!
+      caption: Taxi de Lindos!
 subtitle: ''
 summary: ''
-related_tours:
-- Best of Rhodes-DT1
-- Rhodes Full Day-DT2
-- Jewish Sites Plus-DT4
-- Beach Tour of Rhodes-DT7
-- Best Attractions-GT1
-- Best off & Lunch Break-GT2
-- Jewish Heritage Plus-GT4
-- The Knights of St John-GT6
-end_page:
-  long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
-    Tour Experiences. We deliver Private Taxi Tours at very affordable rates. All
-    our tours are fully customizable to suit your travel needs, interests, schedules,
-    and dates."
-  short_text: 'Experts in Rhodes Taxi Tours   '
 
 ---
