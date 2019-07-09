@@ -127,9 +127,6 @@ main:
     - title: TOURS Accesibles
       url: './accessible_disabled.htm'
       type: accessible_tours_page
-    - title: servicios VIP
-      cta_title: VIEW MORE SERVICES
-      url: './tour_services.htm'
       type: services_page
     - title: Contacto
       type: contact_page

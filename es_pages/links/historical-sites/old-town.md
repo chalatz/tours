@@ -1,6 +1,6 @@
 ---
-layout: photo-tour
-permalink: rhodes_old_town_island_tour.htm
+layout: es/photo-tour
+permalink: ciudad_medieval_rodas.htm
 has_gallery: true
 id: site_old_town
 ref: site_old_town
@@ -14,191 +14,151 @@ meta:
   abstract: Rhodes Island Private Tours
   http_desc: Rhodes Island Private Tours, Rhodes Private Tours Greece
 keyphrase: RHODES ISLAND PRIVATE TOURS GREECE
-title: Rhodes Old Town in Pictures - Photo Gallery
-summary: The Old Town is encircled by strong medieval walls, typical examples of the
-  techniques of fortification of the 14th - 15th century. The walls of Rhodes are
-  unique in Europe because of their style and wonderful state of preservation. Contained
-  within the walls are shops, restaurants, and historic sites that will keep visitors
-  engaged for hours.
+title: La Ciudad Medieval de Rodas en Fotos
+summary: La ciudad vieja es cercada por las murallas medievales. Un ejemplo típico de las técnicas del fortalecimiento del 14 – 15 siglo. Las murallas de Rodas son únicas en Europa en su estado de la preservación y su forma.
 sections:
-- title: THE WALL
+- title: LA MURALLA
   desc: |-
-    The wall is as massive as it is imposing. It is a continuous, 4 Klm / 2.5 mi. long, which is surround the old town. Is stone construction that supports a walking platform from which the Knights could move and fight where needed.
+    La muralla es tan masiva como es imponente. Es un continuo 4Km / 2.5mi de largo, que rodean la ciudad vieja.
 
-    Massive towers and bastions project from several place and they are decorated with elaborate stonework, while a wide dry Moat provided the first line of defense. To ensure the enemy could not easily fill it, the ground on the opposite side was contained by a massive wall, which was difficult to dismantle.
+    Las masivas torres y los bastiones proyectan de varios lugares y se adornan con el elaborado trabajo de piedra, mientras que una fosa seca ancha proporcionó la primera línea de defensa. Para asegurar al enemigo no podría llenarlo fácilmente, la tierra en el lado opuesto fue contenida por una pared masiva, que era difícil de desmontar.
   gallery_rows:
   - figures:
     - thumb: img/Old_Town/set_1/the_walls_1_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_1_mod.jpg
       alt: Rhodes Old Town, Island Tours of Rhodes, Rhodes Island Tours, Rhodes Island
         Tour
-      caption: The interior of the Wall
     - thumb: img/Old_Town/set_1/the_walls_2_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_2_mod.jpg
       alt: Rhodes Old City Gate, Island Tours of Rhodes, Rhodes Island Tours, Rhodes
         Island Tour
-      caption: The Wall with the wide dry Moat
     - thumb: img/Old_Town/set_1/the_walls_3_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_3_mod.jpg
       alt: Rhodes Old Town, Island Tours of Rhodes, Rhodes Island Tours, Rhodes Island
         Tour
-      caption: The Wall
     - thumb: img/Old_Town/set_1/del_carrettos_bastion_mod_small.jpg
       href: img/Old_Town/set_1/del_carrettos_bastion_mod.jpg
       alt: Rhodes Island Greece, Rhodes Island Tours Greece, Island Tours of Rhodes,
         Rhodes Island Tours, Rhodes Island Tour
-      caption: Del Carretto Bastion
-- title: THE GATES
+- title: LAS PUERTAS
   gallery_rows:
   - figures:
     - thumb: img/Old_Town/set_1/st_catherines_gate_mod_small.jpg
       href: img/Old_Town/set_1/st_catherines_gate_mod.jpg
       alt: Rhodes Old Town, Island Tours of Rhodes, Rhodes Island Tours, Rhodes Island
         Tour
-      caption: The Marina Gate (or Sea Gate) was the main gate of the town. It
-        was built in 1478 by Grand Master Pierre d'Aubusson.
+      caption: La Puerta de Santa Catalina (o Puerta de Mar) fue la puerta principal de la ciudad. Fue construido en 1478 por el Gran Maestre Pierre d'Aubusson.
     - thumb: img/Old_Town/set_1/damboise_gate_mod_small.jpg
       href: img/Old_Town/set_1/damboise_gate_mod.jpg
       alt: Rhodes Old City Gate, Island Tours of Rhodes, Rhodes Island Tours, Rhodes
         Island Tour
-      caption: D'Amboise gate. The most impressive gate of Rhodes from a military
-        viewpoint, built by Grand Master Emery d'Amboise, it was completed in 1512.
+      caption: "D'Amboise puerta. La puerta más impresionante de Rodas, desde un punto de vista militar, construido por el Gran Maestre Emery d'Amboise, que se completó en 1512."
     - thumb: img/Old_Town/set_1/st_anthonys_gate_mod_small.jpg
       href: img/Old_Town/set_1/st_anthonys_gate_mod.jpg
       alt: Knights of St John, Fortifications, Gates of the Old City of Rhodes, Island
         Tours of Rhodes, Rhodes Island Tours, Rhodes Island Tour
-      caption: 'St Anthony''s Gate. Was the old western gate of Rhodes: with the redesign
-        of the walls it became the last gate of d''Amboise''s Gate.'
+      caption: "Puerta de San Antonio. Era la puerta del viejo oeste de Rodas: con el nuevo diseño de las paredes se convirtió en la última puerta de “d'Amboise's Puerta”."
     - thumb: img/Old_Town/set_1/outer_st_johns_gate_mod_small.jpg
       href: img/Old_Town/set_1/outer_st_johns_gate_mod.jpg
       alt: Old City of Rhodes Fortifications, Rhodes Private Tours, Island Tours of
         Rhodes, Rhodes Island Tours, Rhodes Island Tour
-      caption: Outer St John's Gate. Coat of arms of Grand Master d'Aubusson. In 1912
-        Italian troops made their entrance into Rhodes through this gate.
+      caption: Puerta exterior de San Juan. (Escudo de armas del Gran Maestre d'Aubusson) En 1912 las tropas italianas hicieron su entrada en Rodas a través de esta puerta.
   - figures:
     - thumb: img/Old_Town/set_1/st_pauls_gate_mod_small.jpg
       href: img/Old_Town/set_1/st_pauls_gate_mod.jpg
       alt: Rhodes Old City Gate, Island Tours, Island Tours of Rhodes, Rhodes Island
         Tours, Rhodes Island Tour
-      caption: St Paul's Gate. The gate is surrounded by a low wall and is protected
-        by a high tower where Grand Master d'Aubusson placed a relief portraying St
-        Paul.
+      caption: Puerta de San Pablo. La puerta está rodeada por un muro bajo y está protegida por una torre alta, donde el Gran Maestre d'Aubusson colocado un alivio retratar San Pablo.
     - thumb: img/Old_Town/set_1/canvas_old_town_mod_small.jpg
       href: img/Old_Town/set_1/canvas_old_town.jpg
       alt: Rhodes Island Greece, Rhodes Island Tours Greece
-      caption: Fortified Walls with St Athanasius' Gate and nearby St Mary's Tower.
-        The gate was closed in 1501 by Grand Master d'Aubusson.
+      caption: Murallas con la Puerta de San Atanasio y cerca de Santa María Torre. La puerta se cerró en 1501 por el Gran Maestre d'Aubusson. 
     - thumb: img/Old_Town/set_1/mills_gate_1_mod_small.jpg
       href: img/Old_Town/set_1/mills_gate_1_mod.jpg
       alt: The Mills Gate, Tours of Rhodes Island Greece
-      caption: 'Mills Gate: the gate was the access to the Emporium from the Jewish
-        quarter.'
+      caption: 'La Puerta de Molinos: La puerta era el acceso a la Emporio del barrio judío.'
     - thumb: img/Old_Town/set_1/mills_gate_2_mod_small.jpg
       href: img/Old_Town/set_1/mills_gate_2_mod.jpg
       alt: Rhodes Island Greece, Rhodes Island Tours Greece
-      caption: Mills Gate
-- title: THE COLLACHIO (CASTLE)
+      caption: La Puerta de Molinos
+- title: EL COLLACHIO (CASTILLO)
   desc: |-
-    An interior wall running east-west divided the city into two unequal parts. The more northerly, and smaller, of these parts was called the Collachium.
+    Una muralla interior es funcionamiento Este-Oeste dividiendo la ciudad en dos desiguales porciones. Cuanto el más norteño, y el más pequeño de estas piezas fueron llamados el Collachium.
 
-    The most beautiful part of the old town is the so called "Street of the Knights". Its medieval grandeur, which has been preserved and has survived throughout the centuries.  The street links the "Hospital of the Knights" to the "Palace of the Grand Master".
+    La parte más bonita de la ciudad vieja, es la llamada "Calle de los Caballeros". Es una grandeza medieval, que se ha conservado, y ha sobrevivido a través de los siglos. La calle, enlazarse, el “Hospital de los Caballeros" para el "Palacio del Gran Maestre".
   gallery_rows:
   - figures:
     - thumb: img/Old_Town/set_2/street_of_the_knights_mod_small.jpg
       href: img/Old_Town/set_2/street_of_the_knights_mod.jpg
       alt: Street of The Knights, Rhodes Island Tours
-      caption: The main street of Collachio (Street of The Knights).
+      caption: La calle principal de Collachio (calle de los Caballeros).
     - thumb: img/Old_Town/set_2/street_of_the_knights_2_mod_small.jpg
       href: img/Old_Town/set_2/street_of_the_knights_2_mod.jpg
       alt: Rhodes Old City, Rhodes Island Tour
-      caption: "(Street of The Knights) Several Langues had their palaces along the
-        street. They had decorated portals and windows in addition to many coats of
-        arms."
+      caption: "(Calle de los Caballeros) Langues Varios tenían sus palacios a lo largo de la calle. Ellos habían decorado portales y ventanas, además de varios escudos de armas."
     - thumb: img/Old_Town/set_2/the_hospital_of_the_knights_mod_small.jpg
       href: img/Old_Town/set_2/the_hospital_of_the_knights_mod.jpg
       alt: The Hospital of the Knights, Rhodes Medieval City
-      caption: "(Rhodes Archaeological Museum) The Hospital was built by Grand Master
-        Jean de Lastic in 1440 and enlarged by Grand Master d'Aubusson in 1481-89."
+      caption: "(Museo Arqueológico de Rodas) El hospital fue construido por el gran maestro Jean de Lastic en 1440 y agrandado por del gran maestro d’Aubusson en 1481-89."
     - thumb: img/Old_Town/set_2/rhodes_archaeological_museum_mod_small.jpg
       href: img/Old_Town/set_2/rhodes_archaeological_museum_mod.jpg
       alt: Medieval City of Rhodes, Rhodes Archaeological Museum
-      caption: "(Rhodes Archaeological Museum)  It was restored by the Italian administration
-        in 1913-18 and later on used to house the Rhodes Archaeological Museum."
+      caption: "(Museo Arqueológico de Rodas) Fue restaurado por la administración italiana en 1913-18 y se utiliza después para contener el Museo Arqueológico de Rodas."
   - figures:
     - thumb: img/Old_Town/set_2/grand_masters_palace_mod_small.jpg
       href: img/Old_Town/set_2/grand_masters_palace_mod.jpg
       alt: The Grand Masters Palace, Rhodes Island Tours
-      caption: At the end of the "Street of the Knights" we find the stately "Palace
-        of the Grand Master", which dominates the entire old town.
+      caption: 'Al final de la "calle de los Caballeros" se encuentra el majestuoso "Palacio del Gran Maestre", que domina toda la ciudad vieja.'
     - thumb: img/Old_Town/set_2/grand_masters_palace_2_mod_small.jpg
       href: img/Old_Town/set_2/grand_masters_palace_2_mod.jpg
       alt: The Citadel, Tours of Rhodes Island Greece
-      caption: The Grand Masters Palace was built in the 14th century by the Knights
-        of Rhodes.
+      caption: El palacio del gran maestro fue construido en el siglo 14 por los Caballeros de Rodas. 
     - thumb: img/Old_Town/set_2/grand_masters_palace_7_small.jpg
       href: img/Old_Town/set_2/grand_masters_palace_7.jpg
       alt: Rhodes Greece Island Tour
-      caption: The Grand Masters Palace.
+      caption: El Palacio del Gran Maestro
     - thumb: img/Old_Town/set_2/grand_masters_palace_8_small.jpg
       href: img/Old_Town/set_2/grand_masters_palace_8.jpg
       alt: Tour of the Island of Rhodes
-      caption: The Grand Masters Palace.
-- title: THE BURGO
-  desc: The larger southern quarter was the town itself, known as the Burgo, Burgus,
-    Burgum or Hora. Here lived a blend of races, with the Greeks in the majority.
+      caption: El Palacio del Gran Maestro
+- title: EL BURGO
+  desc: La parte meridional más grande era la ciudad sí mismo, conocido como Burgo, Burgus, Burgum o Hora. Aquí vivió una mezcla de razas, con los griegos en la mayoría.
   gallery_rows:
   - figures:
     - thumb: img/Old_Town/set_3/old_town_panorama_the_burgus_mod_small.jpg
       href: img/Old_Town/set_3/old_town_panorama_the_burgus_mod.jpg
       alt: Old Town of Rhodes, View, Island Tour
-      caption: A panoramic view of the Old Town.
+      caption: Una vista panorámica de la ciudad vieja.
     - thumb: img/Old_Town/set_3/ippokratous_square_mod_small.jpg
       href: img/Old_Town/set_3/ippokratous_square_mod.jpg
       alt: Old City of Rhodes, Square, Rhodes Tours Greece
-      caption: Castellania Fountain in Ippocratous square.
+      caption: Fuente de Castellana en el plaza de Ippocratous.
     - thumb: img/Old_Town/set_3/lady_of_the_burg_church_mod_small.jpg
       href: img/Old_Town/set_3/lady_of_the_burg_church_mod.jpg
       alt: Rhodes Old City, Church, Tour of Rhodes Island
-      caption: '"Our Lady of the Burg" Church.'
+      caption: '“Nuestra Señora del Burg” iglesia.'
     - thumb: img/Old_Town/set_3/view_from_the_old_town_mod_small.jpg
       href: img/Old_Town/set_3/view_from_the_old_town_mod.jpg
       alt: Old Town of Rhodes, View, Island Tour
-      caption: View from the Old Town, and site of Naillac's Tower.
+      caption: Vista de la ciudad vieja, y del sitio de la torre de Naillc. 
   - figures:
     - thumb: img/Old_Town/set_3/old_town_walls_boats_mod_small.jpg
       href: img/Old_Town/set_3/old_town_walls_boats_mod.jpg
       alt: Rhodes Old Town, View, Rhodes Island tour
-      caption: The walls of the old city and fisherman boats.
+      caption: La muralla de la ciudad vieja y de los barcos de los pescadores.
     - thumb: img/Old_Town/set_3/the_hospice_of_st_catherine_mod_small.jpg
       href: img/Old_Town/set_3/the_hospice_of_st_catherine_mod.jpg
       alt: Old Town of Rhodes, View, Island Tour
-      caption: The Hospice of St. Catherine.
+      caption: El Hospicio de Santa Catalina.
     - thumb: img/Old_Town/set_3/the_burgo_7_small.jpg
       href: img/Old_Town/set_3/the_burgo_7.jpg
       alt: Rhodes Island Tours Greece
-      caption: A street in the Burgo
+      caption: Una calle en el Burgo.
     - thumb: img/Old_Town/set_3/the_burgo_8_small.jpg
       href: img/Old_Town/set_3/the_burgo_8.jpg
       alt: Rhodes Greece, Island Tours
-      caption: A street in the Burgo
+      caption: Una calle en el Burgo.
 subtitle: ''
-related_tours:
-- Best of Rhodes-DT1
-- Rhodes Full Day-DT2
-- Rhodes West Coast-DT3
-- Best Attractions-GT1
-- Best off & Lunch Break-GT2
-- West Coast of Rhodes-GT3
-- Ancient & Medieval-GT5
-- The Knights of St John-GT6
-- Town Walking Tour-WT1
-- Knights Hospitallers-WT2
-end_page:
-  long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
-    Tour Experiences. We deliver Rhodes Island Tours at very affordable rates. All
-    our tours are fully customizable to suit your travel needs, interests, schedules,
-    and dates."
-  short_text: 'Experts in Rhodes Island Tours '
 
 ---
-**The Medieval Town of Rhodes is inscribed in the List World Heritage Sites of the Convention for the Protection of World Heritage of the UNESCO.  Inclusion in this list recognizes the exceptional value of a cultural site so that it may be protected for the benefit of all Humanity.**
+**La ciudad medieval de Rodas, está inscrito en la Lista de Patrimonio de la Humanidad, de la Convención para la Protección del Patrimonio Mundial de la UNESCO. La inclusión en esta lista, reconoce el valor excepcional de un sitio cultural, de modo que puede ser protegido en beneficio de toda la Humanidad.**

@@ -1,0 +1,118 @@
+---
+layout: default
+---
+
+<main class="photo-tour photo-tour--{{ page.id }}">
+
+    <header class="photo-tour_header section container">
+        {%- if page.main_id -%}
+            <a name="{{- page.main_id -}}">&nbsp;</a>
+        {%- endif -%}
+        <h1 class="photo-tour__title">
+            {{ page.title }}
+        </h1>
+        {%- if page.subtitle -%}
+            <h2 class="photo-tour__subtitle">
+                {{ page.subtitle }}
+            </h2>
+        {%- endif -%}
+        {%- if page.summary -%}
+            <div class="photo-tour__summary">
+                {{- page.summary | markdownify -}}
+            </div>
+        {%- endif -%}
+    </header>
+
+    {%- if page.sections -%}
+        <section class="section container photo-tour--{{ page.id }}__section">
+            {%- for section in page.sections -%}
+                <div class="photo-tour__item {% if section.classes %}{{ section.classes }}{% endif %}">
+                    
+                    {%- if section.id -%}
+                        <a class="anchor" name="{{- section.id -}}">&nbsp;</a>
+                    {%- endif -%}
+
+                    {%- if section.title -%}
+                        <h2 class="photo-tour__item-title">
+                            {{- section.title -}}
+                        </h2>
+                    {%- endif -%}
+        
+                    {%- if section.desc -%}
+                        <div class="photo-tour__item-desc">
+                            {{ section.desc | markdownify }}
+                        </div>
+                    {%- endif -%}
+        
+                    {%- if section.gallery_rows -%}
+                        <div class="photo-tour__gallery">
+                            {%- for row in section.gallery_rows -%}
+                                <div class="photo-tour__gallery-row">                        
+                                    {%- include partials/photo-tour-gallery.html gallery = row.figures -%}
+                                </div>
+                            {%- endfor -%}
+                        </div>
+                    {%- endif -%}
+
+                    {%- if section.media -%}
+                        {%- for medium in section.media -%}
+                            <div class="media">
+                                <div class="media-left media-item">
+                                    <img src="{{- medium.image.path -}}" alt="{{- medium.image.alt -}}" class="media-object">
+                                </div>
+                                <div class="media-body media-item">
+                                    <h3 class="media-title">{{- medium.title -}}</h2>
+                                    {{ medium.body | markdownify }}
+                                </div>
+                            </div>
+                        {%- endfor -%}
+                    {%- endif -%}
+
+                    {%- if section.movies -%}
+                        <div class="movies">
+                            {%- for movie in section.movies -%}
+                                <div class="movie">
+                                    <div class="movie__image-wrapper">
+                                        <img class="movie__image" src="{{- movie.image.path -}}" alt="{{- movie.image.alt -}}" class="media-object">                            
+                                    </div>
+                                    <div class="movie__title-wrapper">
+                                        <h4 class="movie__title">{{- movie.title -}}</h4>
+                                    </div>
+                                    <div class="movie__body">
+                                        {{ movie.body | markdownify }}
+                                    </div>
+                                </div>
+                            {%- endfor -%}
+                        </div>
+                    {%- endif -%}
+        
+                </div>
+            {%- endfor -%}
+        </section>
+    {%- endif -%}
+
+    {%- if page.content != '' -%}
+        <section class="section container photo-tour__content">
+            {{ content }}
+        </section>
+    {%- endif -%}
+    
+</main>
+
+{%- assign related_size = page.related_tours | size -%}
+{%- if related_size > 0 -%}
+    {% include partials/related-tours.html %}
+{%- else -%}
+    {%- include helpers/check_empty_string.html the_string = page.no_related_tours_text -%}
+    {%- if string_not_empty -%}
+        <div class="photo-tour__no-related">
+            {{- page.no_related_tours_text | upcase -}}
+        </div>
+    {%- endif -%}
+{%- endif -%}
+
+<section class="destinations">
+    {%- include es/partials/destinations.html -%}
+</section>
+
+{%- include partials/preload_photo_tour.html -%}

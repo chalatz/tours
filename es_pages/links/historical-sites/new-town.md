@@ -1,6 +1,6 @@
 ---
-layout: photo-tour
-permalink: rhodes_new_town_shore_excursions.htm
+layout: es/photo-tour
+permalink: ciudad_rodas_grecia.htm
 has_gallery: true
 id: site_new_town
 ref: site_new_town
@@ -15,12 +15,8 @@ meta:
   abstract: Rhodes Shore Excursions
   http_desc: Shore Excursions in Rhodes Town, Private Shore Excursions in Rhodes Greece
 keyphrase: Rhodes Shore Excursions
-title: Rhodes New Town in Pictures - Photo Gallery
-summary: The modern town developed outside the walls of mediaeval Rhodes and throbs
-  with life and activity throughout the year. It is full of surprising contrasts.
-  Historic buildings rub elbows with modern blocks of flats. It is made up of wide
-  streets, squares, and a multitude of shops. The architecture blends modern with
-  Venetian, Gothic and Arabic elements.
+title: La Nueva Ciudad de Rodas en Fotos
+summary: 'La ciudad moderna se desarrolla fuera de las murallas de la medieval Rodas y es llena de vida y de actividad todo el año. Es lleno de contrastes asombrosamente: bloques de viviendas modernos, calles anchas, plazas, una multitud de tiendas…. y entre todo el éstos, un número importante de edificios, donde se muestran los elementos venecianos, góticos y árabes.'
 sections:
 - gallery_rows:
   - figures:
@@ -28,109 +24,82 @@ sections:
       href: img/New_Town/administration_building_mod.jpg
       alt: Administration, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
         Rhodes Shore Excursions
-      caption: The impressive Administration Building which houses the Prefecture
-        of the Dodecanese.
+      caption: El impresionante edificio de la Administración , que contiene la Prefectura del Dodecaneso. 
     - thumb: img/New_Town/post_office_mod_small.jpg
       href: img/New_Town/post_office_mod.jpg
       alt: The Post Office, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
         Rhodes Shore Excursions
-      caption: The Post Office.
+      caption: La Casa de Correos.
     - thumb: img/New_Town/buildings_mod_small.jpg
       href: img/New_Town/buildings_mod.jpg
       alt: Buildings, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
         Rhodes Shore Excursions
-      caption: Venetian, Gothic and Arabic Architecture.
+      caption: Arquitectura veneciana, gótica y árabe.
     - thumb: img/New_Town/town_hall_mod_small.jpg
       href: img/New_Town/town_hall_mod.jpg
       alt: Town Hall, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
         Rhodes Shore Excursions
-      caption: The Town Hall.
+      caption: Ayuntamiento.
 - gallery_rows:
   - figures:
     - thumb: img/New_Town/mandraki_harbor_mod_small.jpg
       href: img/New_Town/mandraki_harbor_mod.jpg
       alt: Mandraki Harbor, Rhodes shore excursions, Shore Excursions of Rhodes, Shore
         Excursions Greece Rhodes, Rhodes Shore Excursions
-      caption: Around the port, the Mandraki, we find the imposing buildings in neo-colonial
-        and Italianate style, which lend grandeur to this part of the present-day
-        town.
+      caption: Alrededor del puerto, el Mandraki, encontramos los imponentes edificios en estilo neocolonial y el estilo de Italianote, que prestan la grandeza a esta parte de la actual ciudad.
     - thumb: img/New_Town/mandraki_harbor_2_mod_small.jpg
       href: img/New_Town/mandraki_harbor_2_mod.jpg
       alt: Mandraki Harbor, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
         Rhodes Shore Excursions
-      caption: The Mandraki Port
+      caption: El Mandraki
     - thumb: img/New_Town/saint_nicholas_fort_mod_small.jpg
       href: img/New_Town/saint_nicholas_fort_mod.jpg
       alt: Saint Nicholas fort, Rhodes Excursions, Shore Excursions of Rhodes, Shore
         Excursions Greece Rhodes, Rhodes Shore Excursions
-      caption: Opposite, the small old harbor of Mandraki, stands the fort of Saint
-        Nicholas.
+      caption: Opuesto a el pequeño viejo puerto de Mandraki, coloca, el fuerte del Santo Nicolás.
     - thumb: img/New_Town/saint_nicholas_fort_2_mod_small.jpg
       href: img/New_Town/saint_nicholas_fort_2_mod.jpg
       alt: Saint Nicholas fort, Rhodes Private Tours, Shore Excursions of Rhodes,
         Shore Excursions Greece Rhodes, Rhodes Shore Excursions
-      caption: The fort of Saint Nicholas
+      caption: El fuerte del Santo Nicolás.
 - gallery_rows:
   - figures:
     - thumb: img/New_Town/two_bronze_deer_mod_small.jpg
       href: img/New_Town/two_bronze_deer_mod.jpg
       alt: Two bronze deer, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
         Rhodes Shore Excursions
-      caption: At the entrance to the harbor, atop tall columns, stand the two bronze
-        deer - characteristic landmarks of the island.
+      caption: A la entrada del puerto, se encuentran los dos ciervos de bronce - monumentos característicos de la isla.
     - thumb: img/New_Town/deer_mod_small.jpg
       href: img/New_Town/deer_mod.jpg
       alt: Deer, Rhodes Taxi Services, Shore Excursions of Rhodes, Shore Excursions
         Greece Rhodes, Rhodes Shore Excursions
-      caption: "(The entrance to the harbor) Here, according to tradition, was the
-        place where the famous Colossus of Rhodes, one of the seven wonders of the
-        ancient world, once stood."
+      caption: "(La entrada del puerto) Aquí, según la tradición, fue el lugar donde el famoso Coloso de Rodas, una de las siete maravillas del mundo antiguo, una vez que se levantó."
     - thumb: img/New_Town/church_of_the_annunciation_2_mod_small.jpg
       href: img/New_Town/church_of_the_annunciation_2_mod.jpg
       alt: Church of the Annunciation, Rhodes Taxi Tours
-      caption: The church of the Annunciation (Today it is the town's cathedral.)
-        stands next to the prefecture's premises at the centre of Rhodes town.
+      caption: La iglesia de la Anunciación (es hoy la catedral de la ciudad) al lado de las premisas de la prefectura en el centro de la ciudad de Rodas.
     - thumb: img/New_Town/church_of_the_annunciation_3_mod_small.jpg
       href: img/New_Town/church_of_the_annunciation_3_mod.jpg
       alt: Church of the Annunciation, Rhodes Travel Guide
-      caption: The church of the Annunciation
+      caption: La iglesia de la Anunciación
 - gallery_rows:
   - figures:
     - thumb: img/New_Town/hotel_of_the_roses_mod_small.jpg
       href: img/New_Town/hotel_of_the_roses_mod.jpg
       alt: Hotel of the Roses, Rhodes Private Guide
-      caption: The imposing "Hotel of the Roses" was built by the Italians, in 1932.
-        Today house&#39;s the "Casino Rodos".
+      caption: El imponente “hotel de las rosas” fue construido por los italianos, en 1932. Contiene hoy el “casino Rodos”.
     - thumb: img/New_Town/casino_rodos_mod_small.jpg
       href: img/New_Town/casino_rodos_mod.jpg
       alt: Casino Rodos, Rhodes Personal Guide
-      caption: The "Casino Rodos".
+      caption: El "Casino Rodos".
     - thumb: img/New_Town/byzantine_windmills_mod_small.jpg
       href: img/New_Town/byzantine_windmills_mod.jpg
       alt: Byzantine windmills, Rhodes New Town, Private Shore Excursions
-      caption: Near the fortress with the lighthouse, three stone Byzantine windmills
-        lend the finishing touch to one of the loveliest views of the town.
+      caption: Cerca de la fortaleza con el faro, tres molinos de viento bizantinos hechos de piedra, dan el toque final a una de las vistas más preciosas de la ciudad.
     - thumb: img/New_Town/byzantine_windmills_2_mod_small.jpg
       href: img/New_Town/byzantine_windmills_2_mod.jpg
       alt: Byzantine windmills, Rhodes New City, City Tour
-      caption: The three stone Byzantine windmills
+      caption: Los tres molinos de viento bizantinos.
 subtitle: ''
-related_tours:
-- Best of Rhodes-DT1
-- Rhodes Full Day-DT2
-- Rhodes West Coast-DT3
-- Jewish Sites Plus-DT4
-- Rhodes Wine Tour-DT5
-- Rhodes Kids Tour-DT6
-- Ancient & Medieval-GT5
-- Best Attractions-GT1
-- Best off & Lunch Break-GT2
-- Jewish Heritage Plus-GT4
-end_page:
-  long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
-    Tour Experiences. We deliver Private Shore Excursions at very affordable rates.
-    All our tours are fully customizable to suit your travel needs, interests, schedules,
-    and dates."
-  short_text: 'Experts in Rhodes Shore Excursions   '
 
 ---
