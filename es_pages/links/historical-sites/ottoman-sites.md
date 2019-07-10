@@ -5,26 +5,30 @@ has_gallery: true
 id: site_ottoman
 ref: site_ottoman
 meta:
-  title: Ottoman Sites in Rhodes, Ottoman Monuments in Rhodes Greece, Rhodes private
-    tours
-  description: Ottoman Sites in Rhodes Greece, Ottoman Monuments in Rhodes, Rhodes
-    private tours
-  keywords: Ottoman Sites in Rhodes Greece, Ottoman Monuments in Rhodes, Rhodes private
-    tours
+  title: Sitios Otomanos en Rodas, Monumentos Otomanos en Rodas Grecia, Isla de Rodas
+    Grecia
+  description: Sitios Otomanos en Rodas, Monumentos Otomanos en Rodas Grecia, Isla
+    de Rodas Grecia
+  keywords: Sitios Otomanos en Rodas, Monumentos Otomanos en Rodas Grecia, Isla de
+    Rodas Grecia
   author: 'Nick '
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Ottoman Sites in Rhodes, Ottoman Monuments in Rhodes Greece
-  http_desc: Ottoman Monuments in Rhodes, Ottoman Sites in Rhodes Greece, Rhodes private
-    tours
+  abstract: Sitios Otomanos en Rodas, Monumentos Otomanos en Rodas Grecia, Isla de
+    Rodas Grecia
+  http_desc: Sitios Otomanos en Rodas, Monumentos Otomanos en Rodas Grecia, Isla de
+    Rodas Grecia
 title: Sitios Otomanos en Rodas. 1522 - 1912
-summary: En 1552 los turcos otomanos conquistaron la ciudad después de un largo asedio. Se construyeron edificios nuevos como mezquitas, baños públicos y mansiones para los nuevos mecenas.
+summary: En 1552 los turcos otomanos conquistaron la ciudad después de un largo asedio.
+  Se construyeron edificios nuevos como mezquitas, baños públicos y mansiones para
+  los nuevos mecenas.
 sections:
 - gallery_rows:
   - figures:
     - thumb: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_mod_small.jpg
       href: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_mod.jpg
       alt: The sixteenth century Turkish bath Hammam in Arionos square, Rhodes Tours
-      caption: Entrada del baño turco Hammam en la plaza de Arionos. Construido en el siglo XVI.
+      caption: Entrada del baño turco Hammam en la plaza de Arionos. Construido en
+        el siglo XVI.
     - thumb: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_2_mod_small.jpg
       href: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_2_mod.jpg
       alt: The sixteenth century Turkish bath Hammam in Arionos square, Tours of Rhodes
@@ -65,6 +69,5 @@ sections:
     Las adiciones más características fueron los baños y los balcones de madera cerrados en las fachadas, sobre las callejuelas estrechas. El resultado fue una mezcla de arquitectura oriental con restos imponentes de arquitectura occidental y edificios más recientes que caracterizaban la arquitectura local del momento.
 
     La biblioteca musulmana fue fundada en 1793 por Hafiz Ahmet Aga y está situada al frente de la mezquita de Solimán. El edificio está bien conservado y cuenta con un jardín. Alberga una interesante colección de manuscritos y pergaminos raros escritos en turco, árabe y persa, siendo el más significativo aquel que narra el asedio y conquista de la isla por parte de los turcos en 1522. Sólo el área del frente puede ser visitada.
-
 
 ---
