@@ -85,6 +85,15 @@ sections:
   label: Quick Facts about Rhodes
   create: all
   match: "**/*"
+- type: heading
+  label: Spanish Links
+- type: directory
+  path: es_pages/links/historical-sites
+  label: Historical Sites
+  create: all
+  match: "**/*"
+  templates:
+  - photo-tour
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
