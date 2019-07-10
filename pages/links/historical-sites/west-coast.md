@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: rhodes_west_coast_shore_trips.htm
 has_gallery: true
 id: site_west_coast
+ref: site_west_coast
 meta:
   title: 'Rhodes Shore Trips, Rhodes Private Shore Tours '
   description: 'Shore Trips in Rhodes Greece, Private Shore Tours  of Rhodes West
