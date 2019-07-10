@@ -5,17 +5,18 @@ has_gallery: true
 id: site_italian
 ref: site_italian
 meta:
-  title: Italian Monuments in Rhodes, Italian Historic Tours in Rhodes, Italian Sites
-    and Landmarks, Rhodes private tours
-  description: Italian Monuments Rhodes, Italian Historic Tours in Rhodes, Italian
-    Sights Landmarks, Restorations and Architecture, Rhodes private tours
-  keywords: Italian Monuments Rhodes, Italian Historic Tours in Rhodes, Italian Sights
-    Landmarks, Restorations and Architecture
+  title: Monumentos y Arquitectura Italiana en Rodas, Sitios Históricos en Rodas Grecia,
+    Isla de Rodas Grecia
+  description: Monumentos y Arquitectura Italiana en Rodas, Sitios Históricos en Rodas
+    Grecia, Isla de Rodas Grecia
+  keywords: Monumentos y Arquitectura Italiana en Rodas, Sitios Históricos en Rodas
+    Grecia, Isla de Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Italian Monuments Rhodes, Italian Historic Tours in Rhodes
-  http_desc: Italian Monuments in Rhodes, Italian Historic Tours in Rhodes, Italian
-    Sites and Landmarks, Rhodes private tours
+  abstract: Monumentos y Arquitectura Italiana en Rodas, Sitios Históricos en Rodas
+    Grecia, Isla de Rodas Grecia
+  http_desc: Monumentos y Arquitectura Italiana en Rodas, Sitios Históricos en Rodas
+    Grecia, Isla de Rodas Grecia
 title: Arquitectura Italiana. 1912 - 1943
 summary: |-
   En 1912 las tropas italianas se tomaron la isla con el resto de las islas del Dodecaneso y establecieron una colonia italiana conocida como “Isole Italiane dell´Egeo” en 1923 (Islas Italianas del Egeo).
@@ -66,6 +67,9 @@ sections:
       href: img/rhodes_italian_architecture/cathedral.jpg
       alt: Allure tours of Rhodes
       caption: La Catedral de rodas
-- desc: Los métodos de restauración que utilizaron son el sujeto de una encarnizada crítica en la actualidad. A pesar de haber sido métodos impuestos por las circunstancias políticas de sus días, ayudaron sin duda a preservar monumentos que de otra manera no habrían sobrevivido hasta el presente.
+- desc: Los métodos de restauración que utilizaron son el sujeto de una encarnizada
+    crítica en la actualidad. A pesar de haber sido métodos impuestos por las circunstancias
+    políticas de sus días, ayudaron sin duda a preservar monumentos que de otra manera
+    no habrían sobrevivido hasta el presente.
 
 ---
