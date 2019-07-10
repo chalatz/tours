@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: knights_rhodes_medieval.htm
 has_gallery: true
 id: site_knights
+ref: site_knights
 meta:
   title: Knights of Rhodes, Knights Hospitallers, Knights of St John Baptist, Rhodes
     Medieval City, Rhodes private tours
