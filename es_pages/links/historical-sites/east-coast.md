@@ -5,25 +5,34 @@ has_gallery: true
 id: site_east_coast
 ref: site_east_coast
 meta:
-  title: Rhodes Taxi Tours Greece, Taxi Tours in Rhodes
-  description: Rhodes Taxi Tours Greece, Private Taxi Tours in Rhodes, Taxi Tour in
-    Rhodes
-  keywords: Rhodes Taxi Tours Greece, Taxi Tours in Rhodes
+  title: Lugares de interés en Rodas Grecia, La Costa Este de Rodas Grecia, Lugares
+    de interés en Grecia, Rodas
+  description: Lugares de interés en Rodas Grecia, La Costa Este de Rodas Grecia,
+    Lugares de interés en Grecia, Rodas
+  keywords: Lugares de interés en Rodas Grecia, La Costa Este de Rodas Grecia, Lugares
+    de interés en Grecia, Rodas
   author: NK for Rhodes Private Tours
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Rhodes Taxi Tours
-  http_desc: Rhodes Taxi Tours Greece, Rhodes Private Taxi Tours, Rhodes Taxi Tour
+  abstract: 'Lugares de interés en Rodas Grecia, La Costa Este de Rodas Grecia, '
+  http_desc: Lugares de interés en Rodas Grecia, La Costa Este de Rodas Grecia, Lugares
+    de interés en Grecia, Rodas
 keyphrase: Rhodes Taxi Tours
 title: La Costa Este de Rodas en Fotos
 sections:
-- desc: Salimos de la ciudad hacia el sureste a lo largo de la carretera que corre paralela a la costa oriental de la isla. Conduciremos a través de los asentamientos de la Aghia marina, Reni Koskinou y continuar a Kalithea. Kalithea es una hermosa bahía, bordeada de palmeras, da un aspecto exótico.
+- desc: Salimos de la ciudad hacia el sureste a lo largo de la carretera que corre
+    paralela a la costa oriental de la isla. Conduciremos a través de los asentamientos
+    de la Aghia marina, Reni Koskinou y continuar a Kalithea. Kalithea es una hermosa
+    bahía, bordeada de palmeras, da un aspecto exótico.
   gallery_rows:
   - figures:
     - thumb: img/East_Coast/kallithea_baths_mod_small.jpg
       href: img/East_Coast/kallithea_baths_mod.jpg
       alt: East Coast of Rhodes, Kalithea, Taxi Tours, Rhodes Taxi Tours, Taxi Tours
         of Rhodes, Taxi Tours Greece Rhodes
-      caption: La entrada del balneario de Kalithea. Baños de Kalithea (no más en funcionamiento) - renovado recientemente y absolutamente hermoso... El constraction de las instalaciones comenzó a finales de septiembre de 1928, por el italiano arquitecto Pedro Lombardi.
+      caption: La entrada del balneario de Kalithea. Baños de Kalithea (no más en
+        funcionamiento) - renovado recientemente y absolutamente hermoso... El constraction
+        de las instalaciones comenzó a finales de septiembre de 1928, por el italiano
+        arquitecto Pedro Lombardi.
     - thumb: img/East_Coast/fountains_mod_small.jpg
       href: img/East_Coast/fountains_mod.jpg
       alt: Taxi Tours of Rhodes East Coast, Kalithea, Rhodes Taxi Tours, Taxi Tours
@@ -33,12 +42,14 @@ sections:
       href: img/East_Coast/kallithea_rocks_mod.jpg
       alt: Kalithea, Rhodes Taxi Tour, Rhodes Taxi Tours, Taxi Tours of Rhodes, Taxi
         Tours Greece Rhodes
-      caption: Playa de Kalithea. En este ajardinado natural, filmaron la película “evasión a Atenea” (Escape to Athena) con Telly Savalas y a Roger Moore.
+      caption: Playa de Kalithea. En este ajardinado natural, filmaron la película
+        “evasión a Atenea” (Escape to Athena) con Telly Savalas y a Roger Moore.
     - thumb: img/East_Coast/kalithea_beach_mod_small.jpg
       href: img/East_Coast/kalithea_beach_mod.jpg
       alt: East coast of Rhodes, Taxi Tours, Rhodes Taxi Tours, Taxi Tours of Rhodes,
         Taxi Tours Greece Rhodes
-      caption: Algunas escenas de la película “Los cañones de Navarone” (The Guns of Navarone) también fueron filmadas aquí.
+      caption: Algunas escenas de la película “Los cañones de Navarone” (The Guns
+        of Navarone) también fueron filmadas aquí.
 - desc: |-
     Continuamos a lo largo del camino costero, que es lleno de ultramodernos establecimientos turísticos, y venimos a Faliraki. Éste es uno de los más grandes asentamientos turísticos de la isla, con una playa maravillosa, muchos hoteles, tiendas, instalación deportiva, etc...
 
@@ -87,7 +98,9 @@ sections:
       href: img/East_Coast/archagelos_village_2_mod.jpg
       alt: Archagelos Village Rhodes
       caption: Pueblo de Archangelos
-- desc: Continuamos al sur en la carretera principal y después de que una vuelta, la impresionante roca de Lindos se alce para nos resolver, con la acrópolis en su tapa, y del asombroso blanco pueblo en su pie.
+- desc: Continuamos al sur en la carretera principal y después de que una vuelta,
+    la impresionante roca de Lindos se alce para nos resolver, con la acrópolis en
+    su tapa, y del asombroso blanco pueblo en su pie.
   gallery_rows:
   - figures:
     - thumb: img/East_Coast/ancient_lindos_acropolis_mod_small.jpg
@@ -97,7 +110,7 @@ sections:
     - thumb: img/East_Coast/ancient_lindos_acropolis_2_mod_small.jpg
       href: img/East_Coast/ancient_lindos_acropolis_2_mod.jpg
       alt: Lindos Village, Rhodes Taxi Tours
-      caption: La acrópolis antigua 410 pies (el 160m) sobre Lindos. 
+      caption: La acrópolis antigua 410 pies (el 160m) sobre Lindos.
     - thumb: img/East_Coast/cleoboulus_statue_mod_small.jpg
       href: img/East_Coast/cleoboulus_statue_mod.jpg
       alt: Acropolis of Lindos, Rhodes Taxi Tours
@@ -105,7 +118,8 @@ sections:
     - thumb: img/East_Coast/st_pauls_bay_mod_small.jpg
       href: img/East_Coast/st_pauls_bay_mod.jpg
       alt: St. Paul's Bay Lindos Rhodes Greece
-      caption: La bahía de San Pablo, donde el apóstol había parado en el año 51 D.M, para predicar cristianismo a la población de Rodas.
+      caption: La bahía de San Pablo, donde el apóstol había parado en el año 51 D.M,
+        para predicar cristianismo a la población de Rodas.
 - gallery_rows:
   - figures:
     - thumb: img/East_Coast/lindos_goats_mod_small.jpg
@@ -119,11 +133,14 @@ sections:
     - thumb: img/East_Coast/captain_houses_mod_small.jpg
       href: img/East_Coast/captain_houses_mod.jpg
       alt: Lindos Panorama, Rhodes Taxi Tours
-      caption: Las casas blancas "casas de capitán", con el cielo oscuro crean un hermoso contraste!
+      caption: Las casas blancas "casas de capitán", con el cielo oscuro crean un
+        hermoso contraste!
     - thumb: img/East_Coast/old_residences_mod_small.jpg
       href: img/East_Coast/old_residences_mod.jpg
       alt: Lindos white houses, Rhodes Taxi Tours
-      caption: '"Casas de capitán" Las casas viejas preciosas, les están tomando de nuevo a los 16 y 17 siglos, cuando fueron construidas por los navegantes mercantil ricos, como pruebas claras de su éxito. '
+      caption: '"Casas de capitán" Las casas viejas preciosas, les están tomando de
+        nuevo a los 16 y 17 siglos, cuando fueron construidas por los navegantes mercantil
+        ricos, como pruebas claras de su éxito. '
 - gallery_rows:
   - figures:
     - thumb: img/East_Coast/lindos_village_1_mod_small.jpg
