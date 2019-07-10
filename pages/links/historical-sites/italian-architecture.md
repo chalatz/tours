@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: italian_monuments_historical_sites.htm
 has_gallery: true
 id: site_italian
+ref: site_italian
 meta:
   title: Italian Monuments in Rhodes, Italian Historic Tours in Rhodes, Italian Sites
     and Landmarks, Rhodes private tours
