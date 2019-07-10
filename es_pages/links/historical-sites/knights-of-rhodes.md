@@ -70,19 +70,19 @@ sections:
     - thumb: img/knights_of_rhodes/flag1_thumb.jpg
       href: img/knights_of_rhodes/flag1.jpg
       alt: State-Flag, Rhodes Private Tours
-      caption: "<strong>The Knights of St John Today:</strong> Bandera estatal."
+      caption: "<strong>Los Caballeros de San Juan hoy:</strong> Bandera estatal."
     - thumb: img/knights_of_rhodes/flag2_thumb.jpg
       href: img/knights_of_rhodes/flag2.jpg
       alt: The Flag of the Order’s works, Private Tours in Rhodes
-      caption: "<strong>The Knights of St John Today:</strong> Bandera de los trabajos de la Orden."
+      caption: "<strong>Los Caballeros de San Juan hoy:</strong> Bandera de los trabajos de la Orden."
     - thumb: img/knights_of_rhodes/flag3_thumb.jpg
       href: img/knights_of_rhodes/flag3.jpg
       alt: Grand-Master's-Flag, Rhodes Shore Excursions
-      caption: "<strong>The Knights of St John Today:</strong> Bandera del Gran Maestre."
+      caption: "<strong>Los Caballeros de San Juan hoy:</strong> Bandera del Gran Maestre."
     - thumb: img/knights_of_rhodes/flag4_thumb.jpg
       href: img/knights_of_rhodes/flag4.jpg
       alt: The Emblem, Rhodes Allure Tours
-      caption: "<strong>The Knights of St John Today:</strong> El emblema de la Orden Soberana de Malta con armadura"
+      caption: "<strong>Los Caballeros de San Juan hoy:</strong> El emblema de la Orden Soberana de Malta con armadura"
 - desc: |-
     La Soberana Orden de Malta es un sujeto soberano de ley internacional con su constitución propia, sus pasaportes, sellos e instituciones públicas.
 
