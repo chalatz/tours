@@ -84,8 +84,10 @@ sections:
       alt: The Emblem, Rhodes Allure Tours
       caption: "<strong>Los Caballeros de San Juan hoy:</strong> El emblema de la Orden Soberana de Malta con armadura"
 - desc: |-
-    La Soberana Orden de Malta es un sujeto soberano de ley internacional con su constitución propia, sus pasaportes, sellos e instituciones públicas.
-
-    El Gran Maestre número 79, Fray Matthew Festing fue elegido Jefe vitalicio de la Orden en marzo 11 del 2008. La Orden tiene relaciones diplomáticas con 104 países –muchos de los cuales no son católicos- y misiones a importantes naciones europeas así como a organizaciones internacionales. La misión original de los Hospitalarios volvió a ser la actividad principal de la Orden la cual ha crecido y se ha fortalecido a lo largo del último siglo.
+    La Orden tiene relaciones diplomáticas con 104 países –muchos de los cuales no son católicos- y misiones a importantes naciones europeas así como a organizaciones internacionales. La misión original de los Hospitalarios volvió a ser la actividad principal de la Orden la cual ha crecido y se ha fortalecido a lo largo del último siglo.
+ 
+    El 2 de mayo de 2018, Fra ’Giacomo Dalla Torre fue elegido como el 80º Gran Maestre de la Soberana Orden de Malta.
+    
+    Para obtener más información, visite el sitio web oficial de la Orden en: http://www.orderofmalta.int/
 
 ---
