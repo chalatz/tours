@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: ottoman_sites_monuments.htm
 has_gallery: true
 id: site_ottoman
+ref: site_ottoman
 meta:
   title: Ottoman Sites in Rhodes, Ottoman Monuments in Rhodes Greece, Rhodes private
     tours
