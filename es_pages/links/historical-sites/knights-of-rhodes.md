@@ -88,6 +88,6 @@ sections:
  
     El 2 de mayo de 2018, Fra ’Giacomo Dalla Torre fue elegido como el 80º Gran Maestre de la Soberana Orden de Malta.
     
-    Para obtener más información, visite el sitio web oficial de la Orden en: http://www.orderofmalta.int/
+    Para obtener más información, visite el sitio web oficial de la Orden en: <http://www.orderofmalta.int/>
 
 ---
