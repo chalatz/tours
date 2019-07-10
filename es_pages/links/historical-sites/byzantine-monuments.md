@@ -5,43 +5,55 @@ has_gallery: true
 id: site_byzantine
 ref: site_byzantine
 meta:
-  title: Byzantine Historical Monuments in Rhodes, Byzantine Archaeological Sites
-    in Rhodes Greece, Rhodes Historical Tours
-  description: Byzantine Historical Monuments in Rhodes, Byzantine Archaeological
-    Sites in Rhodes Greece, Byzantine Sights, Landmarks and Architecture, Rhodes Historical
-    Tours
-  keywords: Byzantine Historical Monuments in Rhodes, Byzantine Archaeological Sites
-    in Rhodes Greece, Byzantine Sights, Landmarks and Architecture, Rhodes Historical
-    Tours
+  title: Monumentos Bizantinos en Isla de Rodas, Los lugares históricos más valiosos
+    de la tierra, Imperio Bizantino Isla de Rodas Grecia
+  description: Monumentos Bizantinos en Isla de Rodas, Los lugares históricos más
+    valiosos de la tierra, Imperio Bizantino Isla de Rodas Grecia
+  keywords: Monumentos Bizantinos en Isla de Rodas, Los lugares históricos más valiosos
+    de la tierra, Imperio Bizantino Isla de Rodas Grecia
   author: NK for Rhodes Private Tours
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Rhodes Historical Tours, Byzantine Historical Monuments in Rhodes, Byzantine
-    Archaeological Sites
-  http_desc: " Byzantine Archaeological Sites in Rhodes Greece, Byzantine Historical
-    Monuments in Rhodes, Byzantine Sights, Landmarks and Architecture,  Rhodes Historical
-    Tours"
+  abstract: Monumentos Bizantinos en Isla de Rodas, Los lugares históricos más valiosos
+    de la tierra, Imperio Bizantino Isla de Rodas Grecia
+  http_desc: " Monumentos Bizantinos en Isla de Rodas, Los lugares históricos más
+    valiosos de la tierra, Imperio Bizantino Isla de Rodas Grecia"
 title: Monumentos Bizantinos en Rodas. 330 d.C – 1309 d.C
-summary: "Durante el período paleocristiano Rodas pertenecía al Imperio bizantino. Rodas era un puerto comercial importante del Bizancio y un punto de cruce para las embarcaciones que navegaban entre Constantinopla y Alejandría. Era también una importante base militar del Bizancio.\n\nLas murallas fortificadas bizantinas de Rodas (siglos VII y XIII) dividían la ciudad en dos secciones:\n\n1) La Acrópolis (luego llamada Palacio de los Grandes Maestres) y la Aldea Alta que compone el área circundante a la acrópolis (posteriormente denominada el Colaquio).
-  \ \n2) La Aldea Baja (luego llamada Burgus). Actualmente las partes de esta fortificación que han sobrevivido se encuentran principalmente en el Colaquio y han sido incorporadas a más recientes estructuras. La ciudad de Rodas contaba con un gran número de iglesias y entre ellas, algunas basílicas de dimensiones impresionantes."
+summary: "Durante el período paleocristiano Rodas pertenecía al Imperio bizantino.
+  Rodas era un puerto comercial importante del Bizancio y un punto de cruce para las
+  embarcaciones que navegaban entre Constantinopla y Alejandría. Era también una importante
+  base militar del Bizancio.\n\nLas murallas fortificadas bizantinas de Rodas (siglos
+  VII y XIII) dividían la ciudad en dos secciones:\n\n1) La Acrópolis (luego llamada
+  Palacio de los Grandes Maestres) y la Aldea Alta que compone el área circundante
+  a la acrópolis (posteriormente denominada el Colaquio).  \n2) La Aldea Baja (luego
+  llamada Burgus). Actualmente las partes de esta fortificación que han sobrevivido
+  se encuentran principalmente en el Colaquio y han sido incorporadas a más recientes
+  estructuras. La ciudad de Rodas contaba con un gran número de iglesias y entre ellas,
+  algunas basílicas de dimensiones impresionantes."
 sections:
 - gallery_rows:
   - figures:
     - thumb: img/rhodes_byzantine_sites/byzantine_st_mary_church_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_st_mary_church_mod.jpg
       alt: The thirteenth century Byzantine Church of St Mary, Rhodes Tours
-      caption: Iglesia Bizantina de Santa María, del Siglo XIII (Panayía tou Kástrou o Virgen del Fuerte) que posteriormente se convirtió en la primera catedral de los Caballeros.
+      caption: Iglesia Bizantina de Santa María, del Siglo XIII (Panayía tou Kástrou
+        o Virgen del Fuerte) que posteriormente se convirtió en la primera catedral
+        de los Caballeros.
     - thumb: img/rhodes_byzantine_sites/byzantine_st_constantine_church_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_st_constantine_church_mod.jpg
       alt: Byzantine church of St Constantine and Helen, Tours of Rhodes
-      caption: Iglesia Bizantina de Santa Constantina y Elena, de los siglos XII y XIII.
+      caption: Iglesia Bizantina de Santa Constantina y Elena, de los siglos XII y
+        XIII.
     - thumb: img/rhodes_byzantine_sites/byzantine_clock_tower_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_clock_tower_mod.jpg
       alt: The Byzantine Clock Tower, Rhodes Private Tours
-      caption: La torre del reloj que se encuentra en el lugar original de la torre noroeste de las fortificaciones internas del Colaquio, (antiguas fortificaciones bizantinas).
+      caption: La torre del reloj que se encuentra en el lugar original de la torre
+        noroeste de las fortificaciones internas del Colaquio, (antiguas fortificaciones
+        bizantinas).
     - thumb: img/rhodes_byzantine_sites/byzantine_fortifications_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_fortifications_mod.jpg
       alt: The Byzantine fortifications, Rhodes Tours
-      caption: Las murallas fortificadas bizantinas de Rodas dividían la ciudad en dos secciones
+      caption: Las murallas fortificadas bizantinas de Rodas dividían la ciudad en
+        dos secciones
 - gallery_rows:
   - figures:
     - thumb: img/rhodes_byzantine_sites/byzantine_archangel_michael_church_mod_small.jpg
@@ -55,11 +67,13 @@ sections:
     - thumb: img/rhodes_byzantine_sites/byzantine_st_spyridon_church_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_st_spyridon_church_mod.jpg
       alt: The thirteenth century Byzantine Church of St. Spyridon, Rhodes Tours
-      caption: Iglesia Bizantina de San Spiridon del siglo XIII (convertida en mezquita durante la época otomana).
+      caption: Iglesia Bizantina de San Spiridon del siglo XIII (convertida en mezquita
+        durante la época otomana).
     - thumb: img/rhodes_byzantine_sites/byzantine_st_nicholas_church_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_st_nicholas_church_mod.jpg
       alt: The fifteenth century Byzantine Church of St. Nicholas, Tours of Rhodes
-      caption: Iglesia Bizantina de San Nicolás Fundukli, del siglo XV al pie de la montaña del Profeta Elías (Profitis Ilias).
+      caption: Iglesia Bizantina de San Nicolás Fundukli, del siglo XV al pie de la
+        montaña del Profeta Elías (Profitis Ilias).
 subtitle: ''
 
 ---
