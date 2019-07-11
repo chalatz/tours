@@ -5,17 +5,18 @@ has_gallery: true
 id: site_butterflies
 ref: site_butterflies
 meta:
-  title: Butterflies Valley, Rhodes Valley of the Butterflies, Rhodes Private Tours,
-    Rhodes Allure Tours
-  http_desc: Butterflies Valley, Rhodes Valley of the Butterflies, Rhodes Private
-    Tours, Rhodes Allure Tours
-  description: 'Butterflies Valley, Rhodes Valley of the Butterflies, Rhodes Private
-    Tours, Rhodes Allure Tours, Butterflies Rhodes Greece '
-  keywords: Butterflies Valley, Rhodes Valley of the Butterflies, Rhodes Private Tours,
-    Rhodes Allure Tours
+  title: Valle de las Mariposas Rodas Grecia, Valle de las Mariposas en la Isla de
+    Rodas Grecia, Bellezas Naturales de Grecia
+  http_desc: Valle de las Mariposas Rodas Grecia, Valle de las Mariposas en la Isla
+    de Rodas Grecia, Bellezas Naturales de Grecia
+  description: Valle de las Mariposas Rodas Grecia, Valle de las Mariposas en la Isla
+    de Rodas Grecia, Bellezas Naturales de Grecia
+  keywords: Valle de las Mariposas Rodas Grecia, Valle de las Mariposas en la Isla
+    de Rodas Grecia, Bellezas Naturales de Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Rhodes Valley of the Butterflies
+  abstract: Valle de las Mariposas Rodas Grecia, Valle de las Mariposas en la Isla
+    de Rodas Grecia
 title: El Valle de las Mariposas - Uno de los más inusuales biotopos en Europa
 summary: |-
   Una quebrada exuberante con abundante agua corriente que atrae a miles de turistas cada año.
@@ -27,7 +28,8 @@ sections:
     - thumb: img/butterflies_valley/valley_of_the_butterflies_1_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_1.jpg
       alt: Valley of the butterflies, Rhodes Allure Tours
-      caption: Dichas mariposas pertenecen a la especie Callimorpha Quadripunctaria Himalayensis
+      caption: Dichas mariposas pertenecen a la especie Callimorpha Quadripunctaria
+        Himalayensis
     - thumb: img/butterflies_valley/valley_of_the_butterflies_2_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_2.jpg
       alt: Butterflies Valley Rhodes Greece, Allure Tours of Rhodes
@@ -40,8 +42,13 @@ sections:
       href: img/butterflies_valley/valley_of_the_butterflies_4.jpg
       alt: Valley of the butterflies, Rhodes Tours
       caption: El Valle de las Mariposas
-- desc: |-
-    Las mariposas viven en el valle durante el verano, se aparean y luego se marchan en septiembre dejando sus huevos en varios sitios de la isla. **En abril estos huevos producen la pequeña larva que se transforma en crisálida en mayo y llegan a su estado adulto a principios de junio.** Cuando empieza a hacer calor, abandonan el lugar donde nacieron y empiezan su viaje nocturno hasta el valle donde permanecerán hasta septiembre. Son atraidas por el olor de las resinas así como por la frescura de los alrededores que no cambia aun en los días más calurosos del verano.
+- desc: Las mariposas viven en el valle durante el verano, se aparean y luego se marchan
+    en septiembre dejando sus huevos en varios sitios de la isla. **En abril estos
+    huevos producen la pequeña larva que se transforma en crisálida en mayo y llegan
+    a su estado adulto a principios de junio.** Cuando empieza a hacer calor, abandonan
+    el lugar donde nacieron y empiezan su viaje nocturno hasta el valle donde permanecerán
+    hasta septiembre. Son atraidas por el olor de las resinas así como por la frescura
+    de los alrededores que no cambia aun en los días más calurosos del verano.
   gallery_rows:
   - figures:
     - thumb: img/butterflies_valley/valley_of_the_butterflies_5_thumb.jpg
