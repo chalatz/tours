@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: colossus_of_rhodes_sightseeing.htm
 has_gallery: true
 id: site_colossus
+ref: site_colossus
 meta:
   title: Colossus of Rhodes Sightseeing Tours,  Colossus of Rhodes Private Sightseeing
     Tours
@@ -82,8 +83,6 @@ related_tours:
 - Ancient & Medieval-GT5
 end_page:
   long_text: |-
-    ____________________________________________________________
-
     **“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized Tour Experiences. We deliver Private Sightseeing Tours at very affordable rates. All our tours are fully customizable to suit your travel needs, interests, schedules, and dates.
   short_text: 'Experts in Rhodes Sightseeing Tours '
 
