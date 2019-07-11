@@ -5,16 +5,13 @@ has_gallery: true
 id: site_kritinia_castle
 ref: site_kritinia_castle
 meta:
-  title: Kritinia Castle, Kritinia Village, Rhodes Private Tours, Rhodes Allure Tours
-  http_desc: Kritinia Castle, Kritinia Village, Rhodes Private Tours, Rhodes Allure
-    Tours, Rhodes Taxi Tours Greece
-  description: Kritinia Castle, Kritinia Village, Rhodes Private Tours, Rhodes Allure
-    Tours, Taxi Tours of Rhodes Greece
-  keywords: Kritinia Castle, Kritinia Village, Rhodes Private Tours, Rhodes Allure
-    Tours, Rhodes Taxi Tours Greece
+  title: El Castillo de Kritinia, La Aldea y Castillo de Kritinia Rodas Grecia
+  http_desc: El Castillo de Kritinia, La Aldea y Castillo de Kritinia Rodas Grecia
+  description: El Castillo de Kritinia, La Aldea y Castillo de Kritinia Rodas Grecia
+  keywords: El Castillo de Kritinia, La Aldea y Castillo de Kritinia Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Kritinia Castle, Kritinia Village, Rhodes Private Tours
+  abstract: El Castillo de Kritinia, La Aldea y Castillo de Kritinia Rodas Grecia
 title: La Aldea y Castillo de Kritinia
 summary: |-
   La aldea de Kritinia, cuyo nombre significa "Nueva Creta", fue fundada por algunas de las familia que llegaron como refugiados desde la isla de Creta. El asentamiento estaba ubicado originalmente en la costa, en la ubicación actual de Kamiros Skala, pero después de la era bizantina, se trasladó hacia las colinas para resguardarse de los piratas. En su apogeo, el castillo debió haber sido un refugio para los habitantes de las aldeas aledañas durante los saqueos enemigos. Se tiene una vista panorámica del Mar Egeo desde esas colinas.
@@ -28,19 +25,19 @@ sections:
     - thumb: img/kritinia_castle/kritinia_castle_1_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_1_mod.jpg
       alt: Rhodes Allure Tours
-      caption: ""
+      caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_2_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_2_mod.jpg
       alt: Allure Tours Rhodes Greece
-      caption: ""
+      caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_3_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_3_mod.jpg
       alt: Allure Tours in Rhodes
-      caption: ""
+      caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_4_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_4_mod.jpg
       alt: Rhodes Allure Tours
-      caption: ""
+      caption: ''
 - title: El Castillo de Kritinia
   desc: |-
     Los Caballeros Hospitalarios de la Orden de San Juan eligieron este sitio para construir un castillo por su ubicación estratégica. Su vista de 360 grados les permitía a los habitantes monitorear el mar y controlar las actividades de los piratas y enemigos.
@@ -51,21 +48,27 @@ sections:
     - thumb: img/kritinia_castle/kritinia_castle_5_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_5_mod.jpg
       alt: Rhodes Private Day Tours
-      caption: ""
+      caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_6_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_6_mod.jpg
       alt: Rhodes Greece Tours
-      caption: ""
+      caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_7_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_7_mod.jpg
       alt: Rhodes Day Tours
-      caption: ""
+      caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_8_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_8_mod.jpg
       alt: Rhodes luxury Excursions
-      caption: ""
+      caption: ''
 - title: Elementos Estructurales, Arquitectónicos y de Fortificación
-  desc: El castillo de Kritinia es una mezcla de estilos bizantinos y medievales. Es un edificio rectangular con una elevación de 110 metros / 360 pies, y su sección suroeste encara al mar y a la Isla de Halki. Hoy en día, lo único que sobrevive del castillo es su cascarón. Pero por encima de su entrada, del lado izquierdo, yace el escudo de armas del Gran Maestro Giovanni Battista degli Orsini. Del lado derecho de la torre defensiva poligonal que contiene la artillería yace el escudo de armas del famoso Gran Maestro D'Aubusson.
+  desc: El castillo de Kritinia es una mezcla de estilos bizantinos y medievales.
+    Es un edificio rectangular con una elevación de 110 metros / 360 pies, y su sección
+    suroeste encara al mar y a la Isla de Halki. Hoy en día, lo único que sobrevive
+    del castillo es su cascarón. Pero por encima de su entrada, del lado izquierdo,
+    yace el escudo de armas del Gran Maestro Giovanni Battista degli Orsini. Del lado
+    derecho de la torre defensiva poligonal que contiene la artillería yace el escudo
+    de armas del famoso Gran Maestro D'Aubusson.
   gallery_rows:
   - figures:
     - thumb: img/kritinia_castle/kritinia_castle_9_mod_small.jpg
@@ -85,7 +88,10 @@ sections:
       alt: Private tours of Rhodes Greeces
       caption: ''
 - title: Las Vistas
-  desc: Por su ubicación estratégica y sus vistas de las áreas aledañas, era una importante estación de difusión de señales de alarma, las cuales recibía desde las islas de Chalki, Alimia, Makri, Strongyle, Tragoussa y Symy. El castillo también controlaba el camino costero que conducía al sur sobre el lado oeste de Rodas.
+  desc: Por su ubicación estratégica y sus vistas de las áreas aledañas, era una importante
+    estación de difusión de señales de alarma, las cuales recibía desde las islas
+    de Chalki, Alimia, Makri, Strongyle, Tragoussa y Symy. El castillo también controlaba
+    el camino costero que conducía al sur sobre el lado oeste de Rodas.
   gallery_rows:
   - figures:
     - thumb: img/kritinia_castle/kritinia_castle_13_mod_small.jpg
