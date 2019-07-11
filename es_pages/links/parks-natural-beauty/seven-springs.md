@@ -5,19 +5,26 @@ has_gallery: true
 id: site_seven_springs
 ref: site_seven_springs
 meta:
-  title: Seven Springs Rhodes Greece, Rhodes private tours, Rhodes Allure Tours, Taxi
-    Tours Greece
-  http_desc: Seven Springs Rhodes Greece, Rhodes private tours, Rhodes Allure Tours,
-    Taxi Tours Greece
-  description: Seven Springs Rhodes Greece, Rhodes private tours, Rhodes Allure Tours,
-    Taxi Tours Greece
-  keywords: Seven Springs Rhodes Greece, Rhodes private tours, Rhodes Allure Tours,
-    Taxi Tours Greece
+  title: Las Siete Fuentes en Rodas Grecia, Bellezas Naturales de Grecia Rodas
+  http_desc: Las Siete Fuentes en Rodas Grecia, Los Siete Manantiales Rodas Grecia,
+    Bellezas Naturales de Grecia Rodas
+  description: Las Siete Fuentes en Rodas Grecia, Los Siete Manantiales Rodas Grecia,
+    Bellezas Naturales de Grecia Rodas
+  keywords: Las Siete Fuentes en Rodas Grecia, Los Siete Manantiales Rodas Grecia,
+    Bellezas Naturales de Grecia Rodas
   author: 'Nick '
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Seven Springs Rhodes Greece
+  abstract: Las Siete Fuentes en Rodas Grecia, Los Siete Manantiales Rodas Grecia,
+    Bellezas Naturales de Grecia Rodas
 title: Las Siete Fuentes en Rodas, Grecia
-summary: Uno de los destinos más encantadores en Rodas, las Siete Fuentes que ofrecen un paisaje mágico de verdadero oasis, especialmente en el calor del verano – inundado de follaje. Las Siete Fuentes se encuentran en un valle de claras aguas, cubierto de enormes árboles comunes y pinares. El área de Siete Fuentes y sus bosques vecinos son lugar recomendado para una caminata. Este escenario natural magnífico ofrece al visitante una atmósfera tranquila y relajante con sus fuentes, sus corrientes, sus puentes, flores, patos y pavos reales. Está situada a aproximadamente 27 kilómetros (16 millas) de la ciuad de Rodas sobre la costa este.
+summary: Uno de los destinos más encantadores en Rodas, las Siete Fuentes que ofrecen
+  un paisaje mágico de verdadero oasis, especialmente en el calor del verano – inundado
+  de follaje. Las Siete Fuentes se encuentran en un valle de claras aguas, cubierto
+  de enormes árboles comunes y pinares. El área de Siete Fuentes y sus bosques vecinos
+  son lugar recomendado para una caminata. Este escenario natural magnífico ofrece
+  al visitante una atmósfera tranquila y relajante con sus fuentes, sus corrientes,
+  sus puentes, flores, patos y pavos reales. Está situada a aproximadamente 27 kilómetros
+  (16 millas) de la ciuad de Rodas sobre la costa este.
 sections:
 - gallery_rows:
   - figures:
@@ -37,7 +44,10 @@ sections:
       href: img/seven_springs/seven_springs_valley_4.jpg
       alt: Seven Springs Rhodes Greece, Rhodes Tours
       caption: Las Siete Fuentes
-- desc: 'Las aguas caen de las fuentes durante todo el año, formando un pequeño lago artificial que provee un habitat natural a tortugas, anguilas, cangrejos y una rara especie de pez llamada “gizani” que vive exclusivamente en los arroyos de Rodas. El área entera está rodeada de bosques y goza de unas vistas magníficas.'
+- desc: Las aguas caen de las fuentes durante todo el año, formando un pequeño lago
+    artificial que provee un habitat natural a tortugas, anguilas, cangrejos y una
+    rara especie de pez llamada “gizani” que vive exclusivamente en los arroyos de
+    Rodas. El área entera está rodeada de bosques y goza de unas vistas magníficas.
   gallery_rows:
   - figures:
     - thumb: img/seven_springs/seven_springs_valley_5_thumb.jpg
