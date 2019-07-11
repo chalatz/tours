@@ -5,17 +5,13 @@ has_gallery: true
 id: site_monolithos_castle
 ref: site_monolithos_castle
 meta:
-  title: Monolithos Castle Rhodes Greece, Monolithos Village in Rhodes, Rhodes Private
-    Tours
-  http_desc: Monolithos Castle Rhodes Greece, Monolithos Village in Rhodes, Rhodes
-    Private Tours, Rhodes Allure Tours
-  description: Monolithos Castle Rhodes Greece, Monolithos Village in Rhodes, Rhodes
-    Private Tours, Rhodes Taxi Tours, Allure Tours
-  keywords: Monolithos Castle Rhodes Greece, Monolithos Village in Rhodes, Rhodes
-    Private Tours, Rhodes Allure Tours
+  title: Castillo de Monolithos, La Aldea y Castillo de Monolithos, Rodas Grecia
+  http_desc: Castillo de Monolithos, La Aldea y Castillo de Monolithos, Rodas Grecia
+  description: Castillo de Monolithos, La Aldea y Castillo de Monolithos, Rodas Grecia
+  keywords: Castillo de Monolithos, La Aldea y Castillo de Monolithos, Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Monolithos Castle Rhodes Greece, Monolithos Village
+  abstract: Castillo de Monolithos, La Aldea y Castillo de Monolithos, Rodas Grecia
 title: Castillo de Monolitos
 summary: |-
   La aldea de Monolithos está ubicada a 73 km / 45 millas al suroeste de la ciudad de Rodas. Le debe su nombre a la enorme roca monolítica sobre la cual yace un castillo desde los tiempos de los Caballeros Hospitalarios de San Juan.
@@ -23,7 +19,12 @@ summary: |-
   La población de Monolithos hoy en día ronda los 250 habitantes.
 sections:
 - title: El Castillo de Monolithos
-  desc: El castillo está ubicado cerca de la aldea de Monolithos en la cima de una roca alta y escarpada, dominando la vista. Durante las épocas Clásicas, existía el ancestral Phryctoria (el ancestral método griego que servía para transmitir mensajes por medio de un sistema complicado que consistía en encender antorchas en la cima de pequeñas colinas muy apartadas). Alrededor del año 1476, los Caballeros de San Juan reconstruyeron un castillo bizantino desde la base.
+  desc: El castillo está ubicado cerca de la aldea de Monolithos en la cima de una
+    roca alta y escarpada, dominando la vista. Durante las épocas Clásicas, existía
+    el ancestral Phryctoria (el ancestral método griego que servía para transmitir
+    mensajes por medio de un sistema complicado que consistía en encender antorchas
+    en la cima de pequeñas colinas muy apartadas). Alrededor del año 1476, los Caballeros
+    de San Juan reconstruyeron un castillo bizantino desde la base.
   gallery_rows:
   - figures:
     - thumb: img/monolithos_castle/monolithos_castle_mod_1_small.jpg
@@ -65,7 +66,13 @@ sections:
       alt: private tours of Rhodes Greece
       caption: ''
 - title: Elementos Estructurales, Arquitectónicos y de Fortificación
-  desc: La construcción se llevó a cabo bajo la autoridad del Gran Maestro Pierre D’Aubusson (1476-1503). En la viejas épocas, este castillo se consideraba uno de los cuatro fuertes más poderosos de la isla, pero hoy en día, lo único que permanece de pie son las paredes externas de la fortificación. Dentro del perímetro delimitado por las paredes, quedan algunas ruinas de las fortificaciones, la capilla de San Panteleimon, que pertenece al siglo XV y está bien preservada, y el cascarón de una capilla dedicada a San Jorge.
+  desc: La construcción se llevó a cabo bajo la autoridad del Gran Maestro Pierre
+    D’Aubusson (1476-1503). En la viejas épocas, este castillo se consideraba uno
+    de los cuatro fuertes más poderosos de la isla, pero hoy en día, lo único que
+    permanece de pie son las paredes externas de la fortificación. Dentro del perímetro
+    delimitado por las paredes, quedan algunas ruinas de las fortificaciones, la capilla
+    de San Panteleimon, que pertenece al siglo XV y está bien preservada, y el cascarón
+    de una capilla dedicada a San Jorge.
   gallery_rows:
   - figures:
     - thumb: img/monolithos_castle/monolithos_castle_mod_11_small.jpg
