@@ -4,13 +4,6 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: es_pages/links/ancient-sites
-  label: Ancient Sites
-  create: all
-  match: "**/*"
-  templates:
-  - photo-tour
 - type: heading
   label: Data
 - type: document
@@ -97,6 +90,13 @@ sections:
 - type: directory
   path: es_pages/links/historical-sites
   label: Historical Sites
+  create: all
+  match: "**/*"
+  templates:
+  - photo-tour
+- type: directory
+  path: es_pages/links/ancient-sites
+  label: Ancient Sites
   create: all
   match: "**/*"
   templates:
