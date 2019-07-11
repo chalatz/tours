@@ -1,5 +1,5 @@
 ---
-layout: photo-tour
+layout: es/photo-tour
 permalink: castillo_de_kritinia_rodas_grecia.htm
 has_gallery: true
 id: site_kritinia_castle

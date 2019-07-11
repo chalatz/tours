@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: monolithos_castle.htm
 has_gallery: true
 id: site_monolithos_castle
+ref: site_monolithos_castle
 meta:
   title: Monolithos Castle Rhodes Greece, Monolithos Village in Rhodes, Rhodes Private
     Tours
