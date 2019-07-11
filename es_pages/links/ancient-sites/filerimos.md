@@ -1,6 +1,6 @@
 ---
-layout: photo-tour
-permalink: filerimos_hill_rhodes_greece.htm
+layout: es/photo-tour
+permalink: filerimos_rodas_grecia.htm
 has_gallery: true
 id: site_filerimos_hill
 ref: site_filerimos_hill
@@ -16,14 +16,8 @@ meta:
   abstract: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos
   http_desc: Mount Filerimos, Filerimos Hill, Filerimos Monastery Rhodes Greece, Church
     of our lady of Filerimos, Ancient Ialyssos acropolis
-title: Mount Filerimos - The Acropolis of Ancient Ialyssos
-summary: Filerimos Mountain is located out of Rhodes Town about 14 km / 8 miles on
-  the west coast of the island. In addition to the panoramic view of the Aegean Sea,
-  this place is an important archaeological site. Here once stood the Acropolis of
-  the Ancient Ialyssos with an important temple dedicated to Athena Polias. The hill
-  took its name from a monk who came from Jerusalem in the 13th century bringing with
-  him an icon of the Blessed Virgin painted by the Apostle Luke. The old monastery
-  remains to be explored.
+title: Colina de Filérimos - Este es el asentamiento más antiguo de la isla
+summary: La colina tomó su nombre de un monje proveniente de Jerusalén en el siglo XIII, quien traía consigo una imagen de la Virgen Bendecida pintada por el apóstol Lucas. Hoy esta imagen se encuentra en San Petersburgo y una copia de ella está en su lugar. La pequeña iglesia que él construyó después se convirtió en una basílica y posteriormente los Caballeros construyeron el monasterio de San Juan que fue dedicado a la Virgen María. Su exquisito campanario que aún puede apreciarse hoy ha sido donde se conserva reverentemente dicha imagen milagrosa.
 sections:
 - title: The Church of our Lady of Filerimos
   desc: |-
@@ -161,22 +155,5 @@ sections:
       href: img/filerimos_hill/filerimos_views_4.jpg
       alt: Rhodes Shore Excursions
       caption: Panoramic view
-subtitle: ''
-related_tours:
-- Rhodes Full Day-DT2
-- Rhodes West Coast-DT3
-- South West Coast Tour-DT8
-- Rhodes Nature Tour-DT9
-- West Coast of Rhodes-GT3
-- Ancient & Medieval-GT5
-- The Knights of St John-GT6
-- Natural Attractions-GT7
-- Rhodes Scenic Tour-GT9
-end_page:
-  long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
-    Tour Experiences. We deliver Private Custom Tours at very affordable rates. All
-    our tours are fully customizable to suit your travel needs, interests, schedules,
-    and dates."
-  short_text: 'Experst in Rhodes Private Tours '
 
 ---
