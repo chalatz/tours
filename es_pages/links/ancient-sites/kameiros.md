@@ -5,19 +5,24 @@ has_gallery: true
 id: site_ancient_kameiros
 ref: site_ancient_kameiros
 meta:
-  title: 'Ancient Kamiros, Rhodes Ancient Kameiros, Special Tours of Rhodes, Rhodes
-    Allure Tours '
-  http_desc: Ancient Kamiros, Rhodes Ancient Kameiros, Rhodes Special Tours, Rhodes
-    Allure Tours, Specialized Tours of Rhodes
-  description: 'Rhodes Ancient Kameiros, Rhodes Special Tours Specialized Tours of
-    Rhodes Greece, Rhodes Allure Tours '
-  keywords: 'Ancient Kamiros, Rhodes Ancient Kameiros, special tours of Rhodes, Rhodes
-    Allure Tours '
+  title: Antigua Kameiros Rodas Grecia, Kamiros Rodas Grecia, Camiros, Rodas Antiguos
+    Sitios, Rodas Grecia
+  http_desc: Antigua Kameiros Rodas Grecia, Kamiros Rodas Grecia, Camiros, Rodas Antiguos
+    Sitios, Rodas Grecia
+  description: Antigua Kameiros Rodas Grecia, Kamiros Rodas Grecia, Camiros, Rodas
+    Antiguos Sitios, Rodas Grecia
+  keywords: Antigua Kameiros Rodas Grecia, Kamiros Rodas Grecia, Camiros, Rodas Antiguos
+    Sitios, Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Ancient Kamiros, Rhodes Special Tours, Rhodes Allure Tours
+  abstract: Antigua Kameiros Rodas Grecia, Kamiros Rodas Grecia, Camiros, Rodas Antiguos
+    Sitios, Rodas Grecia
 title: Antigua Kámiros - La Pompeya de Grecia
-summary: La antigua Kámiros ha sido llamada la Pompeya de Grecia aunque es una comparación un tanto traída de los cabellos puesto que Pompeya, como es bien sabido, fue enterrada de manera dramática bajo la lava del volcán Vesubio mientras que Kámiros fue abandonada poco a poco por sus habitantes y luego enterrada por la tierra misma con el paso de los años.
+summary: La antigua Kámiros ha sido llamada la Pompeya de Grecia aunque es una comparación
+  un tanto traída de los cabellos puesto que Pompeya, como es bien sabido, fue enterrada
+  de manera dramática bajo la lava del volcán Vesubio mientras que Kámiros fue abandonada
+  poco a poco por sus habitantes y luego enterrada por la tierra misma con el paso
+  de los años.
 sections:
 - title: Acropolis and Temple of Athena Kameiras (Level 1 - top of the hill)
   gallery_rows:
