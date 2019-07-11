@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: rhodes_butterflies.htm
 has_gallery: true
 id: site_butterflies
+ref: site_butterflies
 meta:
   title: Butterflies Valley, Rhodes Valley of the Butterflies, Rhodes Private Tours,
     Rhodes Allure Tours
