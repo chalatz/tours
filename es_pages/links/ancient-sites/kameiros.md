@@ -1,6 +1,6 @@
 ---
-layout: photo-tour
-permalink: ancient_kameiros_specialized.htm
+layout: es/photo-tour
+permalink: antigua_kameiros_rodas_grecia.htm
 has_gallery: true
 id: site_ancient_kameiros
 ref: site_ancient_kameiros
@@ -16,17 +16,8 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
   abstract: Ancient Kamiros, Rhodes Special Tours, Rhodes Allure Tours
-title: Ancient Kamiros - Rhodes Greece
-summary: The town of Kamiros was founded by the Dorians, just like lalyssos and Lindos
-  and it's located 37 km / 23 ml from Rhodes City on the west coast of the Island.
-  The first signs of habitation in the wider region date back to the Mycenaean era.
-  In prehistoric times the Mylantian gods (Zeus Mylantios and Himalia), who taught
-  mankind milling and kneading, were worshipped here. Kamiros was gradually abandoned
-  by its inhabitants and slowly buried by the earth itself with the passage of time.
-  The city was built over the ruins of an older settlement after the earthquake in
-  226 BC and is a characteristic example of Hellenistic urban layout and design, with
-  its division into zones of public and private buildings. The ancient city was built
-  on three levels, each with a distinct purpose - worship, settlement, trade.
+title: Antigua Kámiros - La Pompeya de Grecia
+summary: La antigua Kámiros ha sido llamada la Pompeya de Grecia aunque es una comparación un tanto traída de los cabellos puesto que Pompeya, como es bien sabido, fue enterrada de manera dramática bajo la lava del volcán Vesubio mientras que Kámiros fue abandonada poco a poco por sus habitantes y luego enterrada por la tierra misma con el paso de los años.
 sections:
 - title: Acropolis and Temple of Athena Kameiras (Level 1 - top of the hill)
   gallery_rows:
