@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: acropolis_lindos_%20executive_escorted.htm
 has_gallery: true
 id: site_acropolis_lindos
+ref: site_acropolis_lindos
 meta:
   title: Executive tours of Rhodes, Escorted tours of Rhodes, Acropolis of Lindos,
     Rhodes Lindos Tours
