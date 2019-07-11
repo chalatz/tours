@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: la_juderia_customized_exclusive.htm
 has_gallery: true
 id: site_la_juderia_home
+ref: site_la_juderia_home
 meta:
   title: Jewish Synagogue, Jewish Quarter in Rhodes, Jewish Customized Tours, Rhodes
     Exclusive Tours Greece
