@@ -5,16 +5,13 @@ has_gallery: true
 id: site_colossus
 ref: site_colossus
 meta:
-  title: Colossus of Rhodes Sightseeing Tours,  Colossus of Rhodes Private Sightseeing
-    Tours
-  description: Colossus of Rhodes Private Sightseeing Tours,  Colossus of Rhodes Sightseeing
-    Tours, Sightseeing Tours Rhodes Greece
-  keywords: Sightseeing Tours in Rhodes, Colossus of Rhodes Greece
+  title: Coloso de Rodas Grecia, El Coloso de Rodas Isla
+  description: Coloso de Rodas Grecia, El Coloso de Rodas Isla
+  keywords: Coloso de Rodas Grecia, El Coloso de Rodas Isla
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Colossus of Rhodes Sightseeing Tours
-  http_desc: Colossus of Rhodes Sightseeing Tours,  Colossus of Rhodes Private Sightseeing
-    Tours
+  abstract: Coloso de Rodas Grecia, El Coloso de Rodas Isla
+  http_desc: Coloso de Rodas Grecia, El Coloso de Rodas Isla
 title: El mundialmente famoso Coloso de Rodas
 sections:
 - desc: |-
@@ -27,7 +24,6 @@ sections:
     Según cierta versión, el Coloso se erguía a lo ancho de la entrada al puerto, permitiendo que los barcos pasaran por entre sus piernas abiertas. Actualmente se cree casi con certeza que se encontraba sobre tierra firme y que su más probable ubicación era la zona cercada del templo de Helios, vecino al palacio de los Grandes Maestres.
 
     Sin embargo, esta “maravilla” no duró más de 66 años. Durante un fuerte sismo en 266 se agrietó a la altura de las rodillas y cayó. Los rodios, temerosos de una maldición, no reconstruyeron la estatua y sus restos permanecieron desplomados sobre la tierra por muchos siglos. En el 653 cuando los árabes de Moavia saquearon Rodas, vendieron los pedazos a un mercader judío. Dice la tradición que se necesitaron 900 camellos para transportarlos. La leyenda alrededor del Coloso ha sido tan allegada a Rodas que por muchos siglos tanto griegos como occidentales llamaron a los rodios gente “colosal”.
-
   gallery_rows:
   - figures:
     - thumb: img/colossus_of_rhodes/colossus_1_small.jpg
