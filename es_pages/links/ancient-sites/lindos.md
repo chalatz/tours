@@ -128,7 +128,7 @@ sections:
       href: img/rhodes_lindos/lindos_acropolis_6.jpg
       alt: Executive Taxi Tours Rhodes Greece
       caption: ''
-- title: Views from the summit of the Acropolis
+- title: Vistas desde la Acrópolis
   gallery_rows:
   - figures:
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_1_small.jpg
