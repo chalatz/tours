@@ -25,20 +25,20 @@ sections:
     - thumb: img/mount_smith_hill/panoramic_view_1_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_1_mod.jpg
       alt: Rhodes allure tour
-      caption: Vistas Panorámicas desde la Colina Monte Smith
+      caption: Vista Panorámica desde la Colina Monte Smith
     - thumb: img/mount_smith_hill/panoramic_view_2_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_2_mod.jpg
       alt: Acropolis of Rhodes, Rhodes affordable private tours, Affordable Tours
         of Rhodes, Rhodes Affordable Tours, Rhodes Greece Affordable Tours.
-      caption: Vistas Panorámicas desde la Colina Monte Smith
+      caption: Vista Panorámica desde la Colina Monte Smith
     - thumb: img/mount_smith_hill/panoramic_view_3_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_3_mod.jpg
       alt: Rhodes affordable tours
-      caption: Vistas Panorámicas desde la Colina Monte Smith
+      caption: Vista Panorámica desde la Colina Monte Smith
     - thumb: img/mount_smith_hill/panoramic_view_4_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_4_mod.jpg
       alt: Affordable tours of Rhodes Greece
-      caption: Vistas Panorámicas desde la Colina Monte Smith
+      caption: Vista Panorámica desde la Colina Monte Smith
 - desc: Justo al sur de la cima de la colina se encuentra un importante grupo de monumentos antiguos. En una hondonada natural se halla el Estadio, obra que muy probablemente data del siglo 2 y que ha sido reconstruida casi en su totalidad. Tiene 200 metros de longitud y 35 metros de ancho. Es aquí donde se celebran conciertos de importantes grupos extranjeros durante el verano. Junto al Estadio se encuentra un pequeño teatro cuya reconstrucción en mármol blanco se hizo posible gracias a los pocos fragmentos de ruinas. Se ha especulado que se utilizaba como escenario de clases dictadas por la Escuela de Retórica y no para presentaciones teatrales. Un poco más arriba el área es dominada por el imponente Templo de Apolo Pitio. Fue reconstruido a partir de los pocos restos de una esquina. Las tres edificaciones superiores junto con el Gimnasio constituían uno de los principales focos de la vida artística en la Rodas antigua.
   gallery_rows:
   - figures:
