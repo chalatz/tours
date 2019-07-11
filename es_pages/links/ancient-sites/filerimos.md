@@ -5,19 +5,26 @@ has_gallery: true
 id: site_filerimos_hill
 ref: site_filerimos_hill
 meta:
-  title: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos, Church
-    of our lady, Rhodes Private Tours
-  description: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos,
-    Church of our lady of Filerimos, Ancient Ialyssos acropolis, Rhodes Private Tours
-  keywords: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos, Church
-    of our lady of Filerimos, Ancient Ialyssos acropolis, Rhodes Private Tours
+  title: La Colina de Filerimos Rodas Grecia, Acrópolis de Ialyssos Rodas Grecia,
+    Isla de Rodas, la Colina de Filerimos
+  description: La Colina de Filerimos Rodas Grecia, Acrópolis de Ialyssos Rodas Grecia,
+    Isla de Rodas, la Colina de Filerimos
+  keywords: La Colina de Filerimos Rodas Grecia, Acrópolis de Ialyssos Rodas Grecia,
+    Isla de Rodas, la Colina de Filerimos
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos
-  http_desc: Mount Filerimos, Filerimos Hill, Filerimos Monastery Rhodes Greece, Church
-    of our lady of Filerimos, Ancient Ialyssos acropolis
+  abstract: La Colina de Filerimos Rodas Grecia, Acrópolis de Ialyssos Rodas Grecia,
+    Isla de Rodas, la Colina de Filerimos
+  http_desc: La Colina de Filerimos Rodas Grecia, Acrópolis de Ialyssos Rodas Grecia,
+    Isla de Rodas, la Colina de Filerimos
 title: Colina de Filérimos - Este es el asentamiento más antiguo de la isla
-summary: La colina tomó su nombre de un monje proveniente de Jerusalén en el siglo XIII, quien traía consigo una imagen de la Virgen Bendecida pintada por el apóstol Lucas. Hoy esta imagen se encuentra en San Petersburgo y una copia de ella está en su lugar. La pequeña iglesia que él construyó después se convirtió en una basílica y posteriormente los Caballeros construyeron el monasterio de San Juan que fue dedicado a la Virgen María. Su exquisito campanario que aún puede apreciarse hoy ha sido donde se conserva reverentemente dicha imagen milagrosa.
+summary: La colina tomó su nombre de un monje proveniente de Jerusalén en el siglo
+  XIII, quien traía consigo una imagen de la Virgen Bendecida pintada por el apóstol
+  Lucas. Hoy esta imagen se encuentra en San Petersburgo y una copia de ella está
+  en su lugar. La pequeña iglesia que él construyó después se convirtió en una basílica
+  y posteriormente los Caballeros construyeron el monasterio de San Juan que fue dedicado
+  a la Virgen María. Su exquisito campanario que aún puede apreciarse hoy ha sido
+  donde se conserva reverentemente dicha imagen milagrosa.
 sections:
 - title: The Church of our Lady of Filerimos
   desc: |-
