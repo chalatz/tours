@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: kritinia_castle.htm
 has_gallery: true
 id: site_kritinia_castle
+ref: site_kritinia_castle
 meta:
   title: Kritinia Castle, Kritinia Village, Rhodes Private Tours, Rhodes Allure Tours
   http_desc: Kritinia Castle, Kritinia Village, Rhodes Private Tours, Rhodes Allure
