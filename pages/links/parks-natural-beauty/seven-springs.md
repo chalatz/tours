@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: seven_springs_rhodes_greece.htm
 has_gallery: true
 id: site_seven_springs
+ref: site_seven_springs
 meta:
   title: Seven Springs Rhodes Greece, Rhodes private tours, Rhodes Allure Tours, Taxi
     Tours Greece
