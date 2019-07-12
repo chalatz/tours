@@ -5,16 +5,23 @@ has_gallery: true
 id: site_water_park
 ref: site_water_park
 meta:
-  title: Rhodes Custom Tours, Private Custom Tours in Rhodes
-  http_desc: Rhodes Custom Tours, Private Custom Tours in Rhodes, Water Park
-  description: Rhodes Custom Tours, Private Custom Tours in Rhodes, Water Park
-  keywords: Rhodes Custom Tours, Private Custom Tours in Rhodes, Water Park
+  title: Parque Acuático en Rodas, Grecia, Aquapark en Faliraki Rodas Grecia, Parque
+    del Agua
+  http_desc: Parque Acuático en Rodas, Grecia, Aquapark en Faliraki Rodas Grecia,
+    Parque del Agua, excursiones para cruceros
+  description: Parque Acuático en Rodas, Grecia, Aquapark en Faliraki Rodas Grecia,
+    Parque del Agua, excursiones para cruceros
+  keywords: Parque Acuático en Rodas, Grecia, Aquapark en Faliraki Rodas Grecia, Parque
+    del Agua, excursiones para cruceros
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Rhodes Custom Tours
+  abstract: Parque Acuático en Rodas, Grecia, Aquapark en Faliraki Rodas Grecia
 title: Parque Acuático en Faliraki – Rodas, Grecia
-summary: |-
-  El Parque Acuático de Rodas es uno de los mayores de Europa y ha sido diseñado con las más avanzadas instalaciones. El Parque Acuático de Rodas ofrece espectaculares juegos, piscinas únicas de chapoteo y toboganes. Los guardias de seguridad del parque supervisan el uso de cada una de las atracciones y cada una de ellas cuenta con una guía de estatura para permitir o no el acceso a los niños en ciertos juegos.
+summary: El Parque Acuático de Rodas es uno de los mayores de Europa y ha sido diseñado
+  con las más avanzadas instalaciones. El Parque Acuático de Rodas ofrece espectaculares
+  juegos, piscinas únicas de chapoteo y toboganes. Los guardias de seguridad del parque
+  supervisan el uso de cada una de las atracciones y cada una de ellas cuenta con
+  una guía de estatura para permitir o no el acceso a los niños en ciertos juegos.
 sections:
 - gallery_rows:
   - figures:
@@ -30,8 +37,9 @@ sections:
     - thumb: img/water_park/water_park_4_small.jpg
       href: img/water_park/water_park_4.jpg
       alt: Custom Tours in Rhodes , Water Park
-- desc: |-
-    También cuenta con una cafetería y una tienda de recuerdos, salas de baño y cabinas para cambiarse. Los visitantes pagan directamente en el sitio por comidas o bebidas compradas por lo que no se permite traer éstas de fuera del parque.
+- desc: También cuenta con una cafetería y una tienda de recuerdos, salas de baño
+    y cabinas para cambiarse. Los visitantes pagan directamente en el sitio por comidas
+    o bebidas compradas por lo que no se permite traer éstas de fuera del parque.
   gallery_rows:
   - figures:
     - thumb: img/water_park/water_park_5_small.jpg
