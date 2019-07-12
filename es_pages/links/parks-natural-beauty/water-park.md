@@ -46,15 +46,6 @@ sections:
     - thumb: img/water_park/water_park_8_small.jpg
       href: img/water_park/water_park_8.jpg
       alt: Rhodes Custom Tours, Rhodes Water Park
-subtitle: ''
-related_tours: []
-end_page:
-  long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
-    Tour Experiences. We deliver Rhodes Custom Tours at very affordable rates. All
-    our tours are fully customizable to suit your travel needs, interests, schedules,
-    and dates."
-  short_text: Experts in Rhodes Custom Tours
-no_related_tours_text: We can add this attraction to your tour upon request
 
 ---
 El Parque Acuático de Rodas ofrece un total de 20 atracciones diferentes que incluyen:
