@@ -1,6 +1,6 @@
 ---
-layout: photo-tour
-permalink: custom.htm
+layout: es/photo-tour
+permalink: parque_acuatico_rodas_grecia.htm
 has_gallery: true
 id: site_water_park
 ref: site_water_park
@@ -12,12 +12,9 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Rhodes Custom Tours
-title: The Water Park in Faliraki Rhodes Greece
-summary: The Water Park in Rhodes is one of the largest in Europe and has been designed
-  with all the latest facilities. The Water Park in Rhodes offers remarkable and spectacular
-  rides, unique splash pools and water slides. The Water park's safety guards supervise
-  the use of each of the attractions and each attraction features a height guide permitting
-  access or not to rides for children.
+title: Parque Acuático en Faliraki – Rodas, Grecia
+summary: |-
+  El Parque Acuático de Rodas es uno de los mayores de Europa y ha sido diseñado con las más avanzadas instalaciones. El Parque Acuático de Rodas ofrece espectaculares juegos, piscinas únicas de chapoteo y toboganes. Los guardias de seguridad del parque supervisan el uso de cada una de las atracciones y cada una de ellas cuenta con una guía de estatura para permitir o no el acceso a los niños en ciertos juegos.
 sections:
 - gallery_rows:
   - figures:
@@ -33,9 +30,8 @@ sections:
     - thumb: img/water_park/water_park_4_small.jpg
       href: img/water_park/water_park_4.jpg
       alt: Custom Tours in Rhodes , Water Park
-- desc: It also features a selection of snack bars as well as a souvenir shop, shower
-    rooms and changing cabins. Guests pay direct on site for any food and drinks purchased
-    and food or drinks from outside the park may not be consumed on site.
+- desc: |-
+    También cuenta con una cafetería y una tienda de recuerdos, salas de baño y cabinas para cambiarse. Los visitantes pagan directamente en el sitio por comidas o bebidas compradas por lo que no se permite traer éstas de fuera del parque.
   gallery_rows:
   - figures:
     - thumb: img/water_park/water_park_5_small.jpg
@@ -61,17 +57,17 @@ end_page:
 no_related_tours_text: We can add this attraction to your tour upon request
 
 ---
-The Rhodes Water Park features a total of 20 separate attractions, including:
+El Parque Acuático de Rodas ofrece un total de 20 atracciones diferentes que incluyen:
 
-- For the fearless, the **Kamikaze** is one of the parks most popular ride.
-- The **Free Fall** is its most fast - moving and exhilarating ride.
-- The **Space Bowl** is the perfect slide for riders, who love speed and high adrenaline emotions.
-- The brand new **Twister Slide** with the extreme inclination of 21% and feel your blood bowling.
-- For those looking for something less white knuckle, the **Lazy River** this 230m long river was designed especially for those looking to lower their pulse rate...
-- The giant **"Wave Pool"** offers all of the excitement of real ocean - sized waves.
-- A children's area including a **Pirate Ship**, **Wet Bubble**, **Funny Bridge** and **Tarzan Pool**.
+- Para los temerarios, el **Kamikazi** que es una de las más propulares del parque
+- La **Caída Libre** es el más emocionante y veloz de los juegos.
+- El **"Tazón Espacial"** es el tobogán perfecto para aquellos que aman la velocidad y las emociones de alta adrenalina.
+- El nuevo **Tobogán Tornado** con inclinación extrema del 21% hace hervir la sangre.
+- Para aquellos que buscan algo menos arriesgado, el **Río Perezoso** es un río de 230 metros de largo que ha sido diseñado para los que desean conservar su pulso más lento...
+- La gigantesca **Piscina de Olas** ofrece toda la emoción del verdadero océano: olas de todo tamaño.
+- La zona infantil incluye el **Barco Pirata**, la **Burbuja Mojada**, el **Puente Divertido** y la **Piscina de Tarzán**.
 
-Operation Hours:
+Horario de Funcionamiento:
 
-- During Low season - months - May, September, October, the park is open from 09:30 to 18:00.
-- In Peak season - months - June, July, August, the park is open from 09:30 to 19:00.
+- Durante la temporada baja: los meses de mayo, septiembre, octubre, el parque está abierto de 09:30 a 18:00.
+- Durante la temporada alta: los meses de junio, julio, agosto, el parque está abierto de 09:00 a 19:00.
