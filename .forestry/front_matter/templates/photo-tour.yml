@@ -150,6 +150,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- es_pages/links/juderia.md
 - pages/links/parks-natural-beauty/seven-springs.md
 - pages/links/historical-sites/old-town.md
 - pages/links/historical-sites/east-coast.md
