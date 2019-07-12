@@ -111,7 +111,6 @@ sections:
 - type: document
   path: es_pages/links/juderia.md
   label: La Juderia
-  match: "**/*"
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
