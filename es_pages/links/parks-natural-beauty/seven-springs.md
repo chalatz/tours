@@ -53,11 +53,11 @@ sections:
     - thumb: img/seven_springs/seven_springs_valley_5_thumb.jpg
       href: img/seven_springs/seven_springs_valley_5.jpg
       alt: Water Springs, Rhodes Shore Excursions
-      caption: Las Siete Fuentes
+      caption: Las Siete Fuentes, pato
     - thumb: img/seven_springs/seven_springs_valley_6_thumb.jpg
       href: img/seven_springs/seven_springs_valley_6.jpg
       alt: Water Springs, Rhodes Taxi Tours
-      caption: Las Siete Fuentes
+      caption: Las Siete Fuentes, pato
     - thumb: img/seven_springs/seven_springs_valley_7_thumb.jpg
       href: img/seven_springs/seven_springs_valley_7.jpg
       alt: Water Springs, Rhodes Private Tours
