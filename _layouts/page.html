@@ -98,7 +98,7 @@ layout: default
 
   {%- if page.has_cta_links == true -%}
     <div class="centered container page__section page__cta">
-      {%- assign cta_array = site.data.navigation.main.items | where: 'type', page.type -%}
+      {%- assign cta_array = site.data.navigation.main[page.lang].items | where: 'type', page.type -%}
       {%- for cta_item in cta_array -%}
         <h3 class="page__cta-title">{{- cta_item.cta_title -}}</h3>
         {%- for cta_link in cta_item.subitems -%}
