@@ -5,20 +5,22 @@ has_gallery: true
 id: site_grand_masters_palace
 ref: site_grand_masters_palace
 meta:
-  title: The Palace of the Grand Master of the Knights of Rhodes Greece,  Grand Master
-    Palace
-  http_desc: The Palace of the Grand Master of the Knights of Rhodes Greece, Grand
-    Master Palace, Rhodes Tours, Rhodes Private Tours
-  description: 'The Palace of the Grand Master of the Knights of Rhodes Greece, Grand
-    Master Palace, Rhodes Tours, Rhodes Private Tours '
-  keywords: The Palace of the Grand Master of the Knights of Rhodes Greece, Grand
-    Master Palace, Rhodes Tours, Rhodes Private Tours
+  title: Palacio del Gran Maestre Rodas Grecia, El Palacio de los Grandes Maestres
+    Rodas Grecia
+  http_desc: Palacio del Gran Maestre Rodas Grecia, El Palacio de los Grandes Maestres
+    Rodas Grecia
+  description: Palacio del Gran Maestre Rodas Grecia, El Palacio de los Grandes Maestres
+    Rodas Grecia
+  keywords: Palacio del Gran Maestre Rodas Grecia, El Palacio de los Grandes Maestres
+    Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: The Palace of the Grand Master of the Knights of Rhodes
+  abstract: Palacio del Gran Maestre Rodas Grecia, El Palacio de los Grandes Maestres
+    Rodas Grecia
 title: El Palacio del Gran Maestre, Rodas Grecia
-summary: |-
-  Al frente de la Iglesia de San Juan, en el punto más alto del Castillo, se encuentra el Palacio de los Grandes Maestres que era el centro administrativo y la “Acrópolis” de los Caballeros.
+summary: Al frente de la Iglesia de San Juan, en el punto más alto del Castillo, se
+  encuentra el Palacio de los Grandes Maestres que era el centro administrativo y
+  la “Acrópolis” de los Caballeros.
 sections:
 - gallery_rows:
   - figures:
@@ -38,8 +40,14 @@ sections:
       href: img/grand_masters_palace/grand_masters_palace_4.jpg
       alt: Tours in Rhodes, The Grand Master Palace
       caption: ''
-- desc: |-
-    enía dimensiones imponentes (80 x 75 metros) y fortificaciones de defensa. Era tan fuerte que durante el asedio de 1522 sufrió muy pocos daños. La entrada principal se encuentra en la fachada sur flanqueada por dos imponentes torres. La fachada occidental está perforada por una puerta frente a la cual se eleva una alta torre cuadrada, probablemente obra del Gran Maestre Pierre d´Aubusson (1476-1503). En el sitio donde se encuentra el “Castello”, se halló una vez la antigua “Acrópolis Inferior”. Es también aquí donde se encontraba la acrópolis de los rodios del período bizantino (siglo VII).
+- desc: enía dimensiones imponentes (80 x 75 metros) y fortificaciones de defensa.
+    Era tan fuerte que durante el asedio de 1522 sufrió muy pocos daños. La entrada
+    principal se encuentra en la fachada sur flanqueada por dos imponentes torres.
+    La fachada occidental está perforada por una puerta frente a la cual se eleva
+    una alta torre cuadrada, probablemente obra del Gran Maestre Pierre d´Aubusson
+    (1476-1503). En el sitio donde se encuentra el “Castello”, se halló una vez la
+    antigua “Acrópolis Inferior”. Es también aquí donde se encontraba la acrópolis
+    de los rodios del período bizantino (siglo VII).
   gallery_rows:
   - figures:
     - thumb: img/grand_masters_palace/defensive_fortifications_mod_small.jpg
@@ -85,8 +93,9 @@ sections:
       href: img/grand_masters_palace/hellenistic_and_roman_mosaics_2_mod.jpg
       alt: Rhodes Custom Tours, Mosaics
       caption: ''
-- desc: |-
-    Las estatuas que se encuentran en el patio interior del palacio datan también de los períodos helenístico y romano. Existen indicios de que bajo sus cimientos yace el famoso templo de Helios con su fastuosa decoración.
+- desc: Las estatuas que se encuentran en el patio interior del palacio datan también
+    de los períodos helenístico y romano. Existen indicios de que bajo sus cimientos
+    yace el famoso templo de Helios con su fastuosa decoración.
   gallery_rows:
   - figures:
     - thumb: img/grand_masters_palace/inside_the_grand_masters_palace_3_mod_small.jpg
