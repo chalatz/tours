@@ -108,6 +108,13 @@ sections:
   match: "**/*"
   templates:
   - photo-tour
+- type: directory
+  path: es_pages/links/museums-art-galleries
+  label: Museums and Art Galleries
+  create: all
+  match: "**/*"
+  templates:
+  - photo-tour
 - type: document
   path: es_pages/links/juderia.md
   label: La Juderia
