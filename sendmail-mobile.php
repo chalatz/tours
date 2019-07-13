@@ -33,7 +33,7 @@ $city_state_zip = $_POST['city_state_zip'];
 $e_mail = $_POST['e_mail'];
 $comments = $_POST['comments'];
 
-$address = "request@rhodestoursexcursions.com";
+$address = "request@rhodesprivatetours.com";
 
 $e_subject = 'New request from ' . $e_mail . '.';
 

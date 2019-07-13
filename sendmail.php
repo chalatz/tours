@@ -78,7 +78,7 @@ if ($debug) {
     die();
 }
 
-$address = "request@rhodestoursexcursions.com";
+$address = "request@rhodesprivatetours.com";
 
 $e_subject = 'New request from ' . $e_mail . '.';
 
