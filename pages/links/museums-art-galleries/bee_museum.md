@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: bee_museum.htm
 has_gallery: true
 id: site_bee_museum
+ref: site_bee_museum
 meta:
   title: Bee Museum, Rhodes Bee Museum, Rhodes Sightseeing Tours
   http_desc: Bee Museum, Rhodes Bee Museum, Rhodes Sightseeing Tours
