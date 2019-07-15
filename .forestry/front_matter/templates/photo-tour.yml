@@ -150,6 +150,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/links/museums-art-galleries/byzantine-art-museum.md
 - es_pages/links/juderia.md
 - pages/links/parks-natural-beauty/seven-springs.md
 - pages/links/historical-sites/old-town.md
@@ -168,7 +169,6 @@ pages:
 - pages/quick-facts/pottery.md
 - pages/quick-facts/top-10-reasons.md
 - pages/links/parks-natural-beauty/butterflies.md
-- pages/links/museums-art-galleries/byzantine-art-museum.md
 - pages/links/parks-natural-beauty/rodini-park.md
 - pages/links/ancient-sites/mount-smith-hill.md
 - pages/links/parks-natural-beauty/ostrich-farm.md
