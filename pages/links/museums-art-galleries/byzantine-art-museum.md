@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: byzantine_art_museums_greece.htm
 has_gallery: true
 id: site_byzantine_art_museum
+ref: site_byzantine_art_museum
 meta:
   title: 'Byzantine Art Museum of Rhodes Greece, Byzantine Museums , Rhodes Museum
     Tours '
