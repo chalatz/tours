@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: modern_greek_art_museum.htm
 has_gallery: true
 id: site_modern_greek_art_museum
+ref: site_modern_greek_art_museum
 meta:
   title: Rhodes Art Cultural Tours, Modern Greek Art Museum, Rhodes Art Museum Tours
   http_desc: Rhodes Art Cultural Tours, Modern Greek Art Museum, Rhodes Art Museum
