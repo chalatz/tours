@@ -5,20 +5,22 @@ has_gallery: true
 id: site_byzantine_art_museum
 ref: site_byzantine_art_museum
 meta:
-  title: 'Byzantine Art Museum of Rhodes Greece, Byzantine Museums , Rhodes Museum
-    Tours '
-  http_desc: Byzantine Art Museum of Rhodes Greece, Byzantine Museums, Rhodes Museum
-    Tours, Rhodes private tours
-  description: Byzantine Art Museum of Rhodes Greece, Byzantine Museums, Rhodes Museum
-    Tours, Rhodes private tours
-  keywords: Byzantine Art Museum of Rhodes Greece, Byzantine Museums, Rhodes Museum
-    Tours, Rhodes private tours
+  title: Museo de Arte Bizantino Rodas Grecia, Sitios Bizantinos y Museos de Rodas,
+    Grecia, Museo de Arte Bizantino en Rodas Isla
+  http_desc: Museo de Arte Bizantino Rodas Grecia, Sitios Bizantinos y Museos de Rodas,
+    Grecia, Museo de Arte Bizantino en Rodas Isla
+  description: Museo de Arte Bizantino Rodas Grecia, Sitios Bizantinos y Museos de
+    Rodas, Grecia, Museo de Arte Bizantino en Rodas Isla
+  keywords: Museo de Arte Bizantino Rodas Grecia, Sitios Bizantinos y Museos de Rodas,
+    Grecia, Museo de Arte Bizantino en Rodas Isla
   author: 'Nick '
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Byzantine Art Museum of Rhodes Greece, Byzantine Museums, Rhodes Art Tours
-title: Museo de Arte Bizantino de Rodas, Grecia 
-summary: |-
-  Al lado opuesto de la calle de los Caballeros está localizada la Iglesia Bizantina de Santa María (Panayía tou Kástrou o Vírgen del Fuerte), del siglo XIII, que se convirtió en la primera catedral de los Caballeros.
+  abstract: Museo de Arte Bizantino Rodas Grecia, Sitios Bizantinos y Museos de Rodas,
+    Grecia, Museo de Arte Bizantino en Rodas Isla
+title: Museo de Arte Bizantino de Rodas, Grecia
+summary: Al lado opuesto de la calle de los Caballeros está localizada la Iglesia
+  Bizantina de Santa María (Panayía tou Kástrou o Vírgen del Fuerte), del siglo XIII,
+  que se convirtió en la primera catedral de los Caballeros.
 sections:
 - gallery_rows:
   - figures:
@@ -38,8 +40,8 @@ sections:
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_6_mod.jpg
       alt: Private day tours in Rhodes
       caption: ''
-- desc: |-
-    Después de la caída de Rodas en manos de los turcos en 1522, se convirtió en la mezquita de Emberum.
+- desc: Después de la caída de Rodas en manos de los turcos en 1522, se convirtió
+    en la mezquita de Emberum.
   gallery_rows:
   - figures:
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_8_mod_small.jpg
@@ -58,8 +60,9 @@ sections:
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_11_mod.jpg
       alt: Rhodes guided tours
       caption: ''
-- desc: |-
-    Las modificaciones realizadas al edificio comprendían la adición de un minarete al exterior de la esquina suroccidental así como la cal de la mampostería que destruyó las pinturas de pared.
+- desc: Las modificaciones realizadas al edificio comprendían la adición de un minarete
+    al exterior de la esquina suroccidental así como la cal de la mampostería que
+    destruyó las pinturas de pared.
   gallery_rows:
   - figures:
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_12_mod_small.jpg
