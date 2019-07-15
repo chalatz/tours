@@ -5,20 +5,24 @@ has_gallery: true
 id: site_archaeological_museum
 ref: site_archaeological_museum
 meta:
-  title: Archaeological Museum of Rhodes Greece, Archaeological Sites and Museums
-    of Rhodes Greece, Rhodes Archaeological Tours
-  http_desc: 'Archaeological Museum of Rhodes Greece, Rhodes Archaeological Tours,
-    Archaeological Sites and Museums of Rhodes Greece '
-  description: 'Archaeological Museum of Rhodes Greece, Rhodes Archaeological Tours,
-    Archaeological Sites and Museums of Rhodes Greece '
-  keywords: 'Archaeological Museum of Rhodes Greece, Rhodes Archaeological Tours,
-    Archaeological Sites and Museums of Rhodes Greece '
+  title: Museo Arqueológico de Rodas Grecia, Sitios arqueológicos y Museos de Rodas,
+    Grecia, Museo Arqueológico de Isla de Rodas
+  http_desc: Museo Arqueológico de Rodas Grecia, Sitios arqueológicos y Museos de
+    Rodas, Grecia, Museo Arqueológico de Isla de Rodas
+  description: Museo Arqueológico de Rodas Grecia, Sitios arqueológicos y Museos de
+    Rodas, Grecia, Museo Arqueológico de Isla de Rodas
+  keywords: Museo Arqueológico de Rodas Grecia, Sitios arqueológicos y Museos de Rodas,
+    Grecia, Museo Arqueológico de Isla de Rodas
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Archaeological Museum of Rhodes Greece, Rhodes Archaeological Tours
+  abstract: Museo Arqueológico de Rodas Grecia, Sitios arqueológicos y Museos de Rodas,
+    Grecia, Museo Arqueológico de Isla de Rodas
 title: Museo Arqueológico de Rodas Grecia
-summary: |-
-  Este era el nuevo Hospital de los Caballeros y su original “raison d´etre”, su razón de ser. Iniciado en 1440 sobre los restos de una construcción romana, no fue hasta que el Gran Maestre d´Aubusson asumió su cargo, cuarenta años después, que se completó la obra. Fue construido siguiendo líneas similares a las de las posadas bizantinas.
+summary: Este era el nuevo Hospital de los Caballeros y su original “raison d´etre”,
+  su razón de ser. Iniciado en 1440 sobre los restos de una construcción romana, no
+  fue hasta que el Gran Maestre d´Aubusson asumió su cargo, cuarenta años después,
+  que se completó la obra. Fue construido siguiendo líneas similares a las de las
+  posadas bizantinas.
 sections:
 - gallery_rows:
   - figures:
@@ -37,9 +41,11 @@ sections:
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_4_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_4.jpg
       alt: The Archaeological Museum of Rhodes Greece, Rhodes Tours
-      caption: En el patio principal está sentado un león, de piedra de Lardos, con la cabeza de un toro entre sus patas delanteras.
-- desc: |-
-    Ocho arcos sencillos sostienen la fachada y la única decoración presente en el severo costado exterior es un bajo relieve suspendido sobre el arco gótico de la entrada principal, proyectado por la capilla superior.
+      caption: En el patio principal está sentado un león, de piedra de Lardos, con
+        la cabeza de un toro entre sus patas delanteras.
+- desc: Ocho arcos sencillos sostienen la fachada y la única decoración presente en
+    el severo costado exterior es un bajo relieve suspendido sobre el arco gótico
+    de la entrada principal, proyectado por la capilla superior.
   gallery_rows:
   - figures:
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_5_small.jpg
