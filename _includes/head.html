@@ -34,4 +34,8 @@
 
     <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
+    {%- unless jekyll.environment == 'development' -%}
+        {%- include partials/google-analytics.html -%}
+    {%- endunless -%}
+
 </head>
