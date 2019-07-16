@@ -5,19 +5,20 @@ has_gallery: true
 id: site_modern_greek_art_museum
 ref: site_modern_greek_art_museum
 meta:
-  title: Rhodes Art Cultural Tours, Modern Greek Art Museum, Rhodes Art Museum Tours
-  http_desc: Rhodes Art Cultural Tours, Modern Greek Art Museum, Rhodes Art Museum
-    Tours
-  description: Rhodes Art Cultural Tours, Modern Greek Art Museum, Rhodes Art Museum
-    Tours, Rhodes Private Tours, Rhodes Taxi Tours, Rhodes Allure Tours
-  keywords: Rhodes Art Cultural Tours, Modern Greek Art Museum, Rhodes Art Museum
-    Tours
+  title: Museo de Arte Moderna Griega, Arte Griego Moderno, Museos y Gallerias de
+    Rodas Grecia, Rodas tours privados
+  http_desc: Museo de Arte Moderna Griega, Arte Griego Moderno, Museos y Gallerias
+    de Rodas Grecia, Rodas tours privados
+  description: Museo de Arte Moderna Griega, Arte Griego Moderno, Museos y Gallerias
+    de Rodas Grecia, Rodas tours privados
+  keywords: Museo de Arte Moderna Griega, Arte Griego Moderno, Museos y Gallerias
+    de Rodas Grecia, Rodas tours privados
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: ''
+  abstract: Museo de Arte Moderna Griega, Arte Griego Moderno, Museos y Gallerias
+    de Rodas Grecia
 title: Museo de Arte Moderna Griega  Galería Municipal
-summary: |-
-  El Museo de Arte Moderna Griega en Rodas está compuesto por tres edificios.
+summary: El Museo de Arte Moderna Griega en Rodas está compuesto por tres edificios.
 sections:
 - title: Galería Principal
   desc: |-
@@ -51,10 +52,10 @@ sections:
     - Grabados europeos – del Dodecaneso (durante el invierno).
     - Publicaciones – Afiches.
     - Regalos.
-
 - title: La Nueva Galería “Nestoridion Melathron”
-  desc: |-
-    La Nueva Galería del Museo de Arte Moderna Griega, localizada en la pintoresca Plaza de las Cien Palmas, se encuentra cerca del histórico “Grande Albergo delle Rose”. Ciudad Nueva, Plaza de G. Jaritos.
+  desc: La Nueva Galería del Museo de Arte Moderna Griega, localizada en la pintoresca
+    Plaza de las Cien Palmas, se encuentra cerca del histórico “Grande Albergo delle
+    Rose”. Ciudad Nueva, Plaza de G. Jaritos.
   gallery_rows:
   - figures:
     - thumb: img/modern_greek_art_museum/the_new_gallery_mod_small.jpg
@@ -68,11 +69,13 @@ sections:
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_mod_small.jpg
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_mod.jpg
       alt: Rhodes Tours, Rhodes Greece Private Tours, The New Gallery
-      caption: La galería alberga hoy una de las colecciones más representativas y autorizada del vigésimo siglo.
+      caption: La galería alberga hoy una de las colecciones más representativas y
+        autorizada del vigésimo siglo.
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_2_mod_small.jpg
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_2_mod.jpg
       alt: Private Shore Excursions Rhodes Greece, The New Gallery
-      caption: La colección de la Galería de Arte Municipal incluye obras de K. Maleas, C. Parthenis, F. Kontoglou, y muchos otros artistas griegos.
+      caption: La colección de la Galería de Arte Municipal incluye obras de K. Maleas,
+        C. Parthenis, F. Kontoglou, y muchos otros artistas griegos.
 - gallery_rows:
   - figures:
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_3_mod_small.jpg
@@ -99,9 +102,9 @@ sections:
     - Programas Educativos.
     - Publicaciones – Afiches.
     - Regalos.
-
-- title: Centro del Arte Moderna 
-  desc: El Centro de la Galería de Arte Moderna, situada en la vía principal de la Ciudad Medieval “Paleó Sysitio”, 179, Calle Sócrates.
+- title: Centro del Arte Moderna
+  desc: El Centro de la Galería de Arte Moderna, situada en la vía principal de la
+    Ciudad Medieval “Paleó Sysitio”, 179, Calle Sócrates.
   gallery_rows:
   - figures:
     - thumb: img/modern_greek_art_museum/gallery_of_the_modern_art_centre_mod_small.jpg
@@ -127,5 +130,5 @@ sections:
 
     - Exposiciones Temporales.
     - Grabados europeos – del Dodecaneso (durante el verano).
-    
+
 ---
