@@ -5,23 +5,22 @@ has_gallery: true
 id: site_st_catherine_hospice
 ref: site_st_catherine_hospice
 meta:
-  title: City Tours in Rhodes, Private City Tours in Rhodes,  The Hospice of St. Catherine
-    in Rhodes, Rhodes City Tours
-  http_desc: City Tours in Rhodes, Private City Tours in Rhodes,  The Hospice of St.
-    Catherine in Rhodes, Rhodes City Tours
-  description: City Tours in Rhodes, Private City Tours in Rhodes,  The Hospice of
-    St. Catherine in Rhodes, Rhodes City Tours
-  keywords: TCity Tours in Rhodes, Private City Tours in Rhodes,  The Hospice of St.
-    Catherine in Rhodes, Rhodes City Tours
+  title: Hospicio de Santa Caterina Rodas Grecia, Museos de Rodas Grecia
+  http_desc: Hospicio de Santa Caterina Rodas Grecia, Museos de Rodas Grecia
+  description: Hospicio de Santa Caterina Rodas Grecia, Museos de Rodas Grecia
+  keywords: Hospicio de Santa Caterina Rodas Grecia, Museos de Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: 'Rhodes City Tours '
+  abstract: Hospicio de Santa Caterina Rodas Grecia, Museos de Rodas Grecia
 title: Hospicio de Santa Caterina - Rodas Grecia
 summary: |-
   El Hospicio de Santa Caterina fue construido en 1391-92 por la Orden de los Caballeros de San Juan (Caballeros Hospitalarios) para albergar y entretener a huéspedes apreciados. El Hospicio lo construyó, bajo el mando del Gran Maestre Heredia, el italiano Domenico d´Allemagna, un almirante de la Orden de los Caballeros.
 
   El Hospicio ya operaba desde 1394-95 cuando uno de sus especiales huéspedes, Niccole de Martoni, lo describió como “habitaciones hermosas y espléndidas, ocupadas por muchas y buenas camas”.
 sections:
+- title: ''
+  desc: ''
+  gallery_rows: ''
 - gallery_rows:
   - figures:
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_mod_small.jpg
@@ -62,5 +61,6 @@ sections:
       href: img/st_catherine_hospice/hospice_of_st_catherine_8_mod.jpg
       alt: Guided City Tours in Rhodes
       caption: ''
+subtitle: Hospicio de Santa Caterina - Rodas Grecia
 
 ---
