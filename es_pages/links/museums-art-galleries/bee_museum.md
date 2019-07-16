@@ -5,14 +5,13 @@ has_gallery: true
 id: site_bee_museum
 ref: site_bee_museum
 meta:
-  title: Bee Museum, Rhodes Bee Museum, Rhodes Sightseeing Tours
-  http_desc: Bee Museum, Rhodes Bee Museum, Rhodes Sightseeing Tours
-  description: 'Bee Museum, Rhodes Bee Museum, Rhodes Sightseeing Tours, Rhodes Taxi
-    Tours, Rhodes Allure Tours '
-  keywords: Bee Museum, Rhodes Bee Museum, Rhodes Sightseeing Tours
+  title: El Museo de las Abejas Rodas Grecia
+  http_desc: El Museo de las Abejas Rodas Grecia
+  description: El Museo de las Abejas Rodas Grecia
+  keywords: El Museo de las Abejas Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Rhodes Bee Museum, Rhodes Sightseeing Tours
+  abstract: El Museo de las Abejas Rodas Grecia
 title: El Museo de las Abejas - Único en Grecia
 summary: |-
   El Museo de las Abejas es único en su clase y actualmente se encuentra abierto al público en Grecia. Fue fundado por la “Melissokomiki Dodecanese” (La Compañía Apícola del Dodecaneso). El museo exhibe la rica historia apícola que las islas griegas han tenido a lo largo de los tiempos, incluyendo la de Rodas. El Museo recibe arriba de 30.000 visitantes cada año.
@@ -59,8 +58,12 @@ sections:
       href: img/bee_museum/bee_museum_8.jpg
       alt: Rhodes Allure Tours, Rhodes Tours
       caption: ''
-- desc: |-
-    Hay cuatro tipos diferentes de panales en el museo. En algunas islas griegas, al igual que en Rodas, se usaban células de piedra con varios fines en el afán de llevar a cabo actividades apícolas. Se necesitan 4 kilos / 8,81 libras de néctar para hacer 1 kilo / 2,20 libras de miel. Asimismo, son 13.000 las abejas que deben viajar 177.000 km / 109.982 millas para recolectarlo de 3-4 millones de flores. La reina puede poner 500.000 huevos a lo largo de los 2-3 años de su vida.
+- desc: Hay cuatro tipos diferentes de panales en el museo. En algunas islas griegas,
+    al igual que en Rodas, se usaban células de piedra con varios fines en el afán
+    de llevar a cabo actividades apícolas. Se necesitan 4 kilos / 8,81 libras de néctar
+    para hacer 1 kilo / 2,20 libras de miel. Asimismo, son 13.000 las abejas que deben
+    viajar 177.000 km / 109.982 millas para recolectarlo de 3-4 millones de flores.
+    La reina puede poner 500.000 huevos a lo largo de los 2-3 años de su vida.
   gallery_rows:
   - figures:
     - thumb: img/bee_museum/bee_museum_9_small.jpg
