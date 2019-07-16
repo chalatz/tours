@@ -11,7 +11,7 @@ meta:
     Catherine in Rhodes, Rhodes City Tours
   description: City Tours in Rhodes, Private City Tours in Rhodes,  The Hospice of
     St. Catherine in Rhodes, Rhodes City Tours
-  keywords: TCity Tours in Rhodes, Private City Tours in Rhodes,  The Hospice of St.
+  keywords: City Tours in Rhodes, Private City Tours in Rhodes,  The Hospice of St.
     Catherine in Rhodes, Rhodes City Tours
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
@@ -40,6 +40,8 @@ sections:
       href: img/st_catherine_hospice/hospice_of_st_catherine_4_mod.jpg
       alt: Rhodes Greece city tours, The Hospice
       caption: The interior with the fireplace
+  title: ''
+  desc: ''
 - desc: |-
     The building was apparently destroyed in the siege of 1480 and the earthquake of 1481. In 1944 the east part of the Hospice was destroyed again by Allied bombing, along with many buildings in the heart of the Jewish quarter.
 
@@ -62,6 +64,7 @@ sections:
       href: img/st_catherine_hospice/hospice_of_st_catherine_8_mod.jpg
       alt: Guided City Tours in Rhodes
       caption: Exhibits
+  title: ''
 subtitle: ''
 related_tours: []
 end_page:
