@@ -141,7 +141,7 @@ items:
       alt: Información Sobre Rodas
     links:
       - name: Cerámica en Rodas Grecia
-        url: ./cerámica_griega_alfarería.htm        
+        url: ./ceramica_griega_alfareria.htm        
         id: info_handmade_pottery
       - name: Gastronomía Griega, Platos Típicos
         url: ./gastronomia_griega_comida_recetas_cocina.htm        
