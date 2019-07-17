@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: handmade_pottery_greece.htm
 has_gallery: true
 id: info_handmade_pottery
+ref: info_handmade_pottery
 meta:
   title: Rhodes Pottery Greece, Handmade in Greece Pottery Rhodes, Ancient Greek Potteries,
     Pottery Replicas in Rhodes Island, Shapes, Designs
