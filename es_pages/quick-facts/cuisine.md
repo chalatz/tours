@@ -5,24 +5,31 @@ has_gallery: true
 id: info_food_greece_menus_meals
 ref: info_food_greece_menus_meals
 meta:
-  title: Food in Rhodes Greece , Traditional Greek Food, Typical Greek Menus, Greek
-    Cuisine, Greek meals in Rhodes Island , Greek food recipes, Greek Gastronomy of
-    Rhodes, Rhodes Food Tours
-  http_desc: Food in Rhodes Greece , Traditional Greek Food, Typical Greek Menus,
-    Greek Cuisine, Greek meals in Rhodes Island , Greek food recipes, Greek Gastronomy
-    of Rhodes, Rhodes Food Tours
-  description: Food in Rhodes Greece , Traditional Greek Food, Typical Greek Menus,
-    Greek Cuisine, Greek meals in Rhodes Island , Greek food recipes, Greek Gastronomy
-    of Rhodes, Rhodes Food Tours
-  keywords: Food in Rhodes Greece , Traditional Greek Food, Typical Greek Menus, Greek
-    Cuisine, Greek meals in Rhodes Island , Greek food recipes, Greek Gastronomy of
-    Rhodes, Rhodes Food Tours
+  title: Gastronomía Griega, Comida Griega, Recetas, Cocina Griega Tradicional, Platos
+    Típicos de Grecia, Culinaria Grecia Rodas, Menús Especiales de Rodas
+  http_desc: Gastronomía Griega, Comida Griega, Recetas, Cocina Griega Tradicional,
+    Platos Típicos de Grecia, Culinaria Grecia Rodas, Menús Especiales de Rodas
+  description: Gastronomía Griega, Comida Griega, Recetas, Cocina Griega Tradicional,
+    Platos Típicos de Grecia, Culinaria Grecia Rodas, Menús Especiales de Rodas
+  keywords: Gastronomía Griega, Comida Griega, Recetas, Cocina Griega Tradicional,
+    Platos Típicos de Grecia, Culinaria Grecia Rodas, Menús Especiales de Rodas
   author: 'Nick '
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Food in Rhodes Greece, Traditional Greek Food
+  abstract: Gastronomía Griega, Comida Griega, Recetas, Cocina Griega Tradicional,
+    Platos Típicos de Grecia, Culinaria Grecia Rodas
 title: Gastronomía Griega de Rodas - Comida Griega
-summary: |-
-  La isla de Rodas pueda satisfacer a todo gourmet ya que produce varios productos de excelente calidad y la gastronomía local es un verdadero placer para los sentidos. Los platos de la gastronomía de Rodas tienen gustos definidos y de rico sabor. La mayoría de las comidas típicas tradicionales griegas de Rodas tiene sus raíces en la antigua Rodas (del Dorios) y refleja las antiguas tradiciones en la mayoría de sus versiones. **"Ateneo Nafkratios"** (sofista y retórico que vivió de finales del siglo 2 a mediados del siglo 3) en su **"Deipnosofistai"** nos dice que a los rodios les encantaba especialmente la sopa de pescado y elogió a quienes "comían pescado y no carne". Más tarde, en la época medieval y moderna, la gente se dedicó más a la agricultura y a la ganadería. Los platos tradicionales son basados principalmente en las verduras frescas, el aceite de oliva, las hierbas y las especias locales. Los aromas del orégano, el tomillo, la yerbabuena o el romero seguramente le embriagarán.
+summary: La isla de Rodas pueda satisfacer a todo gourmet ya que produce varios productos
+  de excelente calidad y la gastronomía local es un verdadero placer para los sentidos.
+  Los platos de la gastronomía de Rodas tienen gustos definidos y de rico sabor. La
+  mayoría de las comidas típicas tradicionales griegas de Rodas tiene sus raíces en
+  la antigua Rodas (del Dorios) y refleja las antiguas tradiciones en la mayoría de
+  sus versiones. **"Ateneo Nafkratios"** (sofista y retórico que vivió de finales
+  del siglo 2 a mediados del siglo 3) en su **"Deipnosofistai"** nos dice que a los
+  rodios les encantaba especialmente la sopa de pescado y elogió a quienes "comían
+  pescado y no carne". Más tarde, en la época medieval y moderna, la gente se dedicó
+  más a la agricultura y a la ganadería. Los platos tradicionales son basados principalmente
+  en las verduras frescas, el aceite de oliva, las hierbas y las especias locales.
+  Los aromas del orégano, el tomillo, la yerbabuena o el romero seguramente le embriagarán.
 sections:
 - gallery_rows:
   - figures:
@@ -131,8 +138,9 @@ sections:
     - **Jtapodi Xithato** - Pulpo marinado en una tradición de estilo Griego
     - **Midia me Tomata Kai Skordo** - Mejillones con tomate y ajo
 - title: En los restaurantes de pescado...
-  desc: |-
-    Los pescados y mariscos tales como Atún, Besugo, Salmonete, Mero, Pez Espada, Anchoas, Mero, Sardina, Bacalao, Camarón (gambas), Pulpo, Calamar, Langosta y Mejillones se consumen con gran gusto.
+  desc: Los pescados y mariscos tales como Atún, Besugo, Salmonete, Mero, Pez Espada,
+    Anchoas, Mero, Sardina, Bacalao, Camarón (gambas), Pulpo, Calamar, Langosta y
+    Mejillones se consumen con gran gusto.
   gallery_rows:
   - figures:
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_13_thumb.jpg
@@ -162,8 +170,10 @@ sections:
     - **Astako-makaronatha** Pasta de langosta con tomate, vino, cebolla, aceite de oliva y canela
     - **Gemisti Supia** Calamares rellenos con queso feta / vegetales y cocida en salsa de tomate picante
 - title: En Tabernas...
-  desc: |-
-    El cordero es a menudo cocido a fuego lento y preparado en cazuelas con variedad de verduras y brochetas y asado a la parrilla, mientras que otras carnes como la carne de cerdo, carne de vacuno, caprino y la caza son marinados y se preparan a la parrilla o al horno.
+  desc: El cordero es a menudo cocido a fuego lento y preparado en cazuelas con variedad
+    de verduras y brochetas y asado a la parrilla, mientras que otras carnes como
+    la carne de cerdo, carne de vacuno, caprino y la caza son marinados y se preparan
+    a la parrilla o al horno.
   gallery_rows:
   - figures:
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_17_thumb.jpg
@@ -192,8 +202,8 @@ sections:
     - **Souvlaki Kotopoulo** pequeños trozos de carne de pollo (y algunas veces hortalizas) a la parrilla en un pincho. Se sirve en un plato de comida, a menudo con patatas fritas o arroz
     - **Souvlaki Jirino** trozos pequeños de carne de cerdo a la parrilla en un pincho
 - title: Postres Tradicionales
-  desc: |-
-    Los rodios utilizan la leche, el huevo, la miel, especias y frutas locales como ingredientes para la elaboración de postres...
+  desc: Los rodios utilizan la leche, el huevo, la miel, especias y frutas locales
+    como ingredientes para la elaboración de postres...
   gallery_rows:
   - figures:
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_21_thumb.jpg
