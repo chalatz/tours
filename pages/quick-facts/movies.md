@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: movies_filmed_rhodes_greece.htm
 has_gallery: false
 id: info_movies_filmed_rhodes
+ref: info_movies_filmed_rhodes
 meta:
   title: Movies filmed in Rhodes Greece, Movies of Rhodes Greece , Rhodes private
     tours
@@ -80,7 +81,7 @@ sections:
       alt: Movies filmed in Rhodes Greece, Rhodes private tours
     body: |-
       - A tale of friendship between two men, one Jewish and the other Arab, as the state of Israel is being created... Filmed in the Old Town.
-      - **Cast. JJ Feild, Said Taghmaooui Maria Papas.**
+      - **Cast. JJ Feild, Said Taghmaooui, Maria Papas.**
       - **Director: Elie Chouraqu.**
   - title: El Greco (2007)
     image:
@@ -94,7 +95,7 @@ sections:
     and box-office hits will be shot on our extraordinary island of Rhodes. Just sit
     back and enjoy them!**"
 - title: Books about Rhodes Island
-  desc: Although Rhodes is a relatively small island (the fourth in Greece ), its
+  desc: Although Rhodes is a relatively small island (the fourth in Greece), its
     location between East and West, close to Asia Minor, made Rhodes a crossroads
     of cultures and continents, and of course, through the centuries became an island
     rich in history.  Bellow are some famous books about Rhodes, which can help the

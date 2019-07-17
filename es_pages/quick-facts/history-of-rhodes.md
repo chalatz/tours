@@ -53,5 +53,6 @@ En 1912, Italia arrebató a Rodas de manos de los turcos. La población de la is
 {:.centered .mb-minus-1-rem}
 ## La unificación con Grecia
 
-Después de que terminó la II Guerra Mundial, la isla fue liberada de los italianos y los alemanes derrotados por los griegos y por fuerzas aliadas del ejército permitiendo entonces que Rodas se integrara a Grecia en 1947.\
+Después de que terminó la II Guerra Mundial, la isla fue liberada de los italianos y los alemanes derrotados por los griegos y por fuerzas aliadas del ejército permitiendo entonces que Rodas se integrara a Grecia en 1947.
+
 En la actualidad, Rodas atrae a más turistas que cualquier otra isla griega y está, una vez más, en una encrucijada para los pueblos del mundo, que vienen a disfrutar de su belleza natural y la memoria histórica que impregna la atmósfera y casi se puede decir que emana del suelo.
