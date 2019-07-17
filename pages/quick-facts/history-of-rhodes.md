@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: history_rhodes_greece.htm
 has_gallery: false
 id: info_history_rhodes
+ref: info_history_rhodes
 meta:
   title: Rhodes History Tours, Rhodes Private Tours, Rhodes Shore Excursions, History
     of Rhodes
