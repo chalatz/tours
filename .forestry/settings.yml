@@ -4,13 +4,6 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: es_pages/quick-facts
-  label: Quick Facts about Rhodes
-  create: all
-  match: "**/*"
-  templates:
-  - photo-tour
 - type: heading
   label: Data
 - type: document
@@ -125,6 +118,13 @@ sections:
 - type: document
   path: es_pages/links/juderia.md
   label: La Juderia
+- type: directory
+  path: es_pages/quick-facts
+  label: Quick Facts about Rhodes
+  create: all
+  match: "**/*"
+  templates:
+  - photo-tour
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
