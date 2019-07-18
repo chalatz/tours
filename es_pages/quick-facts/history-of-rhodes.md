@@ -5,18 +5,18 @@ has_gallery: false
 id: info_history_rhodes
 ref: info_history_rhodes
 meta:
-  title: Rhodes History Tours, Rhodes Private Tours, Rhodes Shore Excursions, History
-    of Rhodes
-  http_desc: Rhodes History Tours, Rhodes Private Tours, Rhodes Shore Excursions,
-    History of Rhodes
-  description: Rhodes History Tours, Rhodes Private Tours, Rhodes Shore Excursions,
-    History of Rhodes
-  keywords: Rhodes History Tours, Rhodes Private Tours, Rhodes Shore Excursions, History
-    of Rhodes
+  title: Historia de Rodas Grecia, Historia de Grecia Rodas Isla, Periodo helenístico,
+    Historia mitología griega, Rodas Tour Privados
+  http_desc: Historia de Rodas Grecia, Historia de Grecia Rodas Isla, Periodo helenístico,
+    Historia mitología griega, Rodas Tour Privados
+  description: Historia de Rodas Grecia, Historia de Grecia Rodas Isla, Periodo helenístico,
+    Historia mitología griega, Rodas Tour Privados
+  keywords: Historia de Rodas Grecia, Historia de Grecia Rodas Isla, Periodo helenístico,
+    Historia mitología griega, Rodas Tour Privados
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Rhodes History Tours, Rhodes Private Tours
+  abstract: Historia de Rodas Grecia
   author: Nick
-title: Historia de Rodas, Grecia 
+title: Historia de Rodas, Grecia
 summary: La presencia humana en Rodas se remonta con certeza a la Edad de Piedra.
 
 ---
