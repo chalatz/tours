@@ -119,16 +119,16 @@ fields:
         config:
           required: false
         label: Keywords
-      - name: body
-        type: textarea
-        default: ''
-        config:
-          required: false
-          wysiwyg: true
-          schema:
-            format: markdown
-        label: Text
       label: Image
+    - name: body
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Text
     config:
       min: 
       max: 
