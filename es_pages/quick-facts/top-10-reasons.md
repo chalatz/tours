@@ -5,16 +5,12 @@ has_gallery: false
 id: info_top_10_reasons_to_visit_rhodes
 ref: info_top_10_reasons_to_visit_rhodes
 meta:
-  title: Top 10 reasons to visit Rhodes Greece, Rhodes private tours and shore excursions,
-    Greece
-  http_desc: Top 10 reasons to visit Rhodes Greece, Rhodes private tours and shore
-    excursions, Greece
-  description: Top 10 reasons to visit Rhodes Greece, Rhodes private tours and shore
-    excursions, Greece
-  keywords: Top 10 reasons to visit Rhodes Greece, Rhodes private tours and shore
-    excursions, Greece
+  title: 10 razones para visitar la Isla de Rodas en Grecia
+  http_desc: 10 razones para visitar la Isla de Rodas en Grecia
+  description: 10 razones para visitar la Isla de Rodas en Grecia
+  keywords: 10 razones para visitar la Isla de Rodas en Grecia
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Rhodes private tours and shore excursions
+  abstract: 10 razones para visitar la Isla de Rodas en Grecia
   author: Nick
 title: 10 razones para visitar la Isla de Rodas en Grecia
 sections:
