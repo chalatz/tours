@@ -97,38 +97,43 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
-  - name: gallery_rows
-    label: Gallery rows
+  - name: movies
     type: field_group_list
     fields:
-    - name: figures
-      label: Figures
-      type: field_group_list
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Title
+    - name: image
+      type: field_group
+      config: {}
       fields:
-      - name: thumb
+      - name: path
+        type: file
+        config:
+          maxSize: 250
         label: Image
-        type: file
-        hidden: false
-        default: ''
-      - name: href
-        label: Href
-        type: file
-        hidden: true
-        default: ''
-      - name: caption
-        label: Caption
-        type: textarea
-        hidden: false
-        default: ''
       - name: alt
+        type: text
+        config:
+          required: false
         label: Keywords
+      - name: body
         type: textarea
-        hidden: false
         default: ''
-      hidden: false
-      default: ''
-    hidden: false
-    default: ''
+        config:
+          required: false
+          wysiwyg: false
+          schema:
+            format: markdown
+        label: Text
+      label: Image
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Items
   hidden: false
   default: ''
 - type: list
