@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: rhodes_island_greece.htm
 has_gallery: false
 id: info_rhodes_island
+ref: info_rhodes_island
 meta:
   title: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
   http_desc: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
