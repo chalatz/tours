@@ -1,0 +1,152 @@
+---
+label: movies
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: ''
+- name: id
+  label: Id
+  type: text
+  hidden: true
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: true
+  default: ''
+- name: has_gallery
+  label: Has gallery
+  type: boolean
+  hidden: true
+  default: ''
+- name: meta
+  label: Meta
+  type: field_group
+  fields:
+  - name: title
+    label: Title
+    type: textarea
+    hidden: false
+    default: ''
+  - name: http_desc
+    label: Http equiv
+    type: textarea
+    hidden: false
+    default: ''
+    description: Εάν μείνει κενό, χρησιμοποιείται το description
+  - name: keywords
+    label: Keywords
+    type: textarea
+    hidden: false
+    default: ''
+  - name: description
+    label: Description
+    type: textarea
+    hidden: false
+    default: ''
+  - name: abstract
+    label: Abstract
+    type: text
+    hidden: false
+    default: ''
+  - name: author
+    label: Author
+    type: text
+    hidden: false
+    default: ''
+  - name: copyright
+    label: Copyright
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- type: text
+  name: subtitle
+  label: Subtitle
+- type: textarea
+  name: summary
+  label: Summary
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- name: sections
+  label: Sections
+  type: field_group_list
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: desc
+    label: Description
+    type: textarea
+    hidden: false
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - name: gallery_rows
+    label: Gallery rows
+    type: field_group_list
+    fields:
+    - name: figures
+      label: Figures
+      type: field_group_list
+      fields:
+      - name: thumb
+        label: Image
+        type: file
+        hidden: false
+        default: ''
+      - name: href
+        label: Href
+        type: file
+        hidden: true
+        default: ''
+      - name: caption
+        label: Caption
+        type: textarea
+        hidden: false
+        default: ''
+      - name: alt
+        label: Keywords
+        type: textarea
+        hidden: false
+        default: ''
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- type: list
+  name: related_tours
+  label: Related Tours
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: tours-names
+      file: _data/all_tours_names.yml
+      path: All tours names
+- type: text
+  name: no_related_tours_text
+  label: No related tours
+  description: Αυτό το κείμενο εμφανίζεται εάν δεν υπάρχουν related tours
+- type: include
+  name: end_page
+  label: End page
+  template: end-page
+pages:
