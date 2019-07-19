@@ -81,3 +81,5 @@ fields:
         name: alt
         label: Keywords
     label: List of reasons
+pages:
+- es_pages/quick-facts/top-10-reasons.md
