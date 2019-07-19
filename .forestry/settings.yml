@@ -123,8 +123,6 @@ sections:
   label: Quick Facts about Rhodes
   create: all
   match: "**/*"
-  templates:
-  - photo-tour
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
