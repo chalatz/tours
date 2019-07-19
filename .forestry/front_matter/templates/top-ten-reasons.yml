@@ -5,18 +5,23 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: boolean
   name: has_gallery
   label: has_gallery
+  hidden: true
 - type: text
   name: id
   label: id
+  hidden: true
 - type: text
   name: ref
   label: ref
+  hidden: true
 - type: field_group
   name: meta
   label: meta
@@ -45,13 +50,15 @@ fields:
 - type: text
   name: title
   label: title
+- type: text
+  name: subtitle
+  label: subtitle
 - type: field_group_list
   name: sections
   label: sections
   fields:
   - type: field_group_list
     name: media
-    label: media
     fields:
     - type: text
       name: title
@@ -59,16 +66,18 @@ fields:
     - type: textarea
       name: body
       label: body
+      config:
+        wysiwyg: true
+        schema:
+          format: markdown
     - type: field_group
       name: image
       label: image
       fields:
       - type: file
         name: path
-        label: path
+        label: Image
       - type: text
         name: alt
-        label: alt
-- type: text
-  name: subtitle
-  label: subtitle
+        label: Keywords
+    label: List of reasons
