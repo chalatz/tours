@@ -3,6 +3,7 @@ layout: photo-tour
 permalink: top_10_reasons_to_visit_rhodes_greece.htm
 has_gallery: false
 id: info_top_10_reasons_to_visit_rhodes
+ref: info_top_10_reasons_to_visit_rhodes
 meta:
   title: Top 10 reasons to visit Rhodes Greece, Rhodes private tours and shore excursions,
     Greece
