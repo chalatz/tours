@@ -3,8 +3,9 @@ layout: photo-tour
 permalink: rhodes_travel_guide.htm
 has_gallery: false
 id: info_rhodes_travel_guide
+ref: info_rhodes_travel_guide
 meta:
-  title: 'Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information '
+  title: 'Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information'
   http_desc: Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information,
     Travel Guide of Rhodes Greece, Rhodes Private Tours, Rhodes Taxi Tours
   description: Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information,
@@ -99,15 +100,15 @@ Trianda **Chapel of St. Anne** "Santa Anna" Sotiros 37, Trianda, Rhodes, Tel. 
 Phone Center: (0030) 2241080000, Emergency Number: 166 (applicable inside Greece)
 
 **Police**  
-**Emergency Number:** 100 (applicable inside Greece)\
-**Rhodes Department:** (0030) 2241023849, 2241044140\
-**Airport Department:** (0030) 2241082882\
-**Traffic Division:** (0030) 2241044132\
+**Emergency Number:** 100 (applicable inside Greece)<br>
+**Rhodes Department:** (0030) 2241023849, 2241044140<br>
+**Airport Department:** (0030) 2241082882<br>
+**Traffic Division:** (0030) 2241044132<br>
 **Security Division:** (0030) 2241023294
 
 **Fire Department**  
-**Emergency Number:** 199 (applicable inside Greece)\
-**Forrest Fire Center:** 191 (applicable inside Greece)\
+**Emergency Number:** 199 (applicable inside Greece)<br>
+**Forrest Fire Center:** 191 (applicable inside Greece)<br>
 **Phone Center:** (0030) 2241023333, 2241023334
 
 **Rhodes Port Authority:**  
