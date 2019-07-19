@@ -149,4 +149,4 @@ fields:
   name: end_page
   label: End page
   template: end-page
-pages:
+pages: []
