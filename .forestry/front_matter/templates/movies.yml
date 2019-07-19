@@ -1,6 +1,6 @@
 ---
 label: movies
-hide_body: false
+hide_body: true
 fields:
 - name: layout
   label: Layout
