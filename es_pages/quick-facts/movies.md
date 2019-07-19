@@ -93,8 +93,12 @@ sections:
       - Una dramatización de la vida del siglo 16 pintor griego, Dominicos Theotokopoulos, quien, en busca de libertad y de amor, sale de Creta y se va a Venecia y finalmente Toledo... Filmada en la Ciudad Medieval.
       - **Intérpretes. Nick Ashdon, Juan Diego Botto, Laia Marull, Lakis Lazopoulos.**
       - **Director: Yannis Smaragdis**
+  title: ''
+  desc: ''
 - desc: "**Esperamos que esta lista se haga más larga, y más películas se rodarán
     en nuestra hermosa isla de Rodas. Sólo sentarse y disfrutar de ellas!**"
+  title: ''
+  movies: []
 - title: Libros sobre la isla de Rodas Grecia
   desc: Aunque Rodas es una isla relativamente pequeña, (el cuarto en Grecia), su
     ubicación, entre el Este y el Oeste, cerca de Asia Menor, hizo Rodas, una encrucijada
@@ -103,6 +107,7 @@ sections:
     puede ayudar al lector, para obtener una visión limpia y completa de las situaciones
     históricas y políticas en Rodas a través de los siglos.
   classes: photo-tour__standout
+  movies: []
 - movies:
   - title: 'Rhodes in Modern Times: Cecil Torr in 1887'
     image:
@@ -156,5 +161,13 @@ sections:
       - Esta es una historia real acerca de los caballeros, griegos, turcos, piratas, dragones y otras criaturas extrañas y peligrosas. escrito e ilustrado en una especie de forma de cómic.
       - Dijo e ilustrado por Vangelis Pavlidis.
       - **Editor: Kasseris Publications info@kasseris.gr**
+  title: ''
+  desc: ''
+subtitle: ''
+related_tours: []
+no_related_tours_text: ''
+end_page:
+  long_text: ''
+  short_text: ''
 
 ---

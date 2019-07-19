@@ -12,10 +12,16 @@ meta:
   copyright: NK for Rhodes Private Tours,2018
   abstract: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
   author: Nick
-title: ¿ Sabia usted que …?
-subtitle: Hechos fascinantes sobre la Isla de Rodas y Grecia, información que vale la pena conocer...
+title: "¿ Sabia usted que …?"
+subtitle: Hechos fascinantes sobre la Isla de Rodas y Grecia, información que vale
+  la pena conocer...
 summary: ''
 sections: []
+related_tours: []
+no_related_tours_text: ''
+end_page:
+  long_text: ''
+  short_text: ''
 
 ---
 - **Rodas - Lindos:** Los Lindios fueron los primeros en elaborar un código de derecho marítimo, más tarde conocido como la ley de Rodas. Este se convirtió posteriormente en la base del derecho marítimo romano, y aún hoy constituye la columna vertebral de la ley del mar.
