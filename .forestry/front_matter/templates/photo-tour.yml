@@ -131,6 +131,45 @@ fields:
     default: ''
   hidden: false
   default: ''
+  - name: movies
+    type: field_group_list
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Title
+    - name: image
+      type: field_group
+      config: {}
+      fields:
+      - name: path
+        type: file
+        config:
+          maxSize: 250
+        label: Image
+      - name: alt
+        type: text
+        config:
+          required: false
+        label: Keywords
+      label: Image
+    - name: body
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: markdown
+      label: Text
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Movies - Books
+  hidden: false
+  default: ''  
 - type: list
   name: related_tours
   label: Related Tours
