@@ -86,6 +86,12 @@ sections:
   create: all
   match: "**/*"
 - type: heading
+  label: Spanish Pages
+- type: document
+  path: es_pages/info/about.md
+  label: About Us - SOBRE NOSOTROS
+  match: "**/*"
+- type: heading
   label: Spanish Links
 - type: directory
   path: es_pages/links/historical-sites
