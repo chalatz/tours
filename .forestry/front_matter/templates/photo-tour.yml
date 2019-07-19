@@ -150,6 +150,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/quick-facts/travel-guide.md
 - pages/links/museums-art-galleries/st-catherine-hospice.md
 - pages/links/museums-art-galleries/byzantine-art-museum.md
 - es_pages/links/juderia.md
@@ -184,7 +185,6 @@ pages:
 - pages/links/parks-natural-beauty/best-beaches.md
 - pages/links/museums-art-galleries/bee_museum.md
 - pages/links/museums-art-galleries/archaeological-museum.md
-- pages/quick-facts/travel-guide.md
 - pages/links/historical-sites/byzantine-monuments.md
 - pages/quick-facts/did-you-know-that.md
 - pages/quick-facts/rhodes-map.md
