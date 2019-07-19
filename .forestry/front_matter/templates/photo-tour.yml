@@ -150,6 +150,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- es_pages/quick-facts/pottery.md
 - pages/quick-facts/did-you-know-that.md
 - pages/quick-facts/travel-guide.md
 - pages/links/museums-art-galleries/st-catherine-hospice.md

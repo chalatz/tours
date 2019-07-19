@@ -48,6 +48,8 @@ sections:
       alt: Características de la pintura griega antigua
       caption: Se necesita importante habilidad y experiencia para manufacturar un
         producto de estándar aceptable
+  title: ''
+  desc: ''
 - title: Diseños de Cerámica en la Antigua Grecia
   desc: |-
     A pesar de que las técnicas alfareras son similares por toda Grecia, en el lado este del Mar Egeo (Grecia oriental – Isla de Rodas) la decoración en alfarería estaba más basada en espirales, patrones curvilíneos, y dibujos alegres. Hoy en día, aún se fabrican réplicas de los diseños producidos en aquellos tiempos, junto con diseños más modernos de una generación más joven.
@@ -95,6 +97,7 @@ sections:
       href: img/rhodes_pottery/black_figure_pottery_4.jpg
       alt: Cerámica de figuras negras en Rodas Grecia
       caption: Cerámica de figuras negras
+  title: ''
 - desc: "**Cerámica de figuras rojas.** La técnica de la figura negra fue reemplazada
     por la técnica de la figura roja, figuras rojas creadas al pintar su contorno
     con un fondo negro, alrededor del 530 a.C. que duraría los próximos 130 años."
@@ -116,6 +119,7 @@ sections:
       href: img/rhodes_pottery/red_figure_pottery_4.jpg
       alt: Cerámica de figuras rojas en Rodas Grecia
       caption: Cerámica de figuras rojas
+  title: ''
 - title: Cerámica Moderna de Rodas
   desc: Los alfareros de Rodas fueron famosos, y sus talentos eran reconocidos por
     todo el mundo antiguo. Hoy en día, la nueva generación aún replica la popular
@@ -163,5 +167,11 @@ sections:
       href: img/ancient_kameiros/ancient_kameiros_14.jpg
       alt: reproducciones y réplicas arqueológicas de cerámica griegas
       caption: "<strong>Museo del Louvre</strong> Cerámica encontrada en Kamiros"
+subtitle: ''
+related_tours: []
+no_related_tours_text: ''
+end_page:
+  long_text: ''
+  short_text: ''
 
 ---
