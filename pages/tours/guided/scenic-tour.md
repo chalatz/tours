@@ -175,7 +175,7 @@ After the Butterflies, we will drive through the coastal road of Kremasti and Ia
 
 The Mountain will offer a 180-degree view of the west coast. A walking tour will begin when you reach **Acropolis of the Ancient Ialyssos**. From there you will take a detour to the **Church of Our Lady**, which is built on the remains of the **Ancient temple of Athena** during the Early Christian Era. The barrel-vaulted **Chapel of St. George**, as well as the exterior of the **Filerimos Monastery**. <u>Guided Walking Tour</u> (Stop Visit Photos)
 
-To the right, there lies the **Way of the Cross**, a sheltered pathway dotted with many shrines that stretch from the main square to the west edge of the plateau. This pathway will lead you to the famous 16 meter/48 feet tall Cross. G <u>Guided Walking Tour</u> (Stop Visit Photos)
+To the right, there lies the **Way of the Cross**, a sheltered pathway dotted with many shrines that stretch from the main square to the west edge of the plateau. This pathway will lead you to the famous 16 meter/48 feet tall Cross. <u>Guided Walking Tour</u> (Stop Visit Photos)
 
 From here you will pass through **Ixia** and then to the **Monte** **Smith** and the **Ancient Acropolis of Rhodes Town.** Your experienced passionate tour guide will lead you for a  <u>Guided Walking Tour</u> to the **Temple of Apollo**, the restored **Ancient Theater**, the **Stadium, and Gymnasium**. You can even walk into the Ancient Stadium to feel the spirit of the ancient athletes.  (Stop Visit Photos)
 

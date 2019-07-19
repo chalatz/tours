@@ -300,12 +300,12 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/tours/guided/scenic-tour.md
 - pages/tours/driving/fullday-private-tours-east-west-coast.md
 - pages/tours/walking/town.md
 - pages/tours/walking/night.md
 - pages/tours/walking/knights.md
 - pages/tours/guided/west-coast.md
-- pages/tours/guided/scenic-tour.md
 - pages/tours/guided/natural-attractions.md
 - pages/tours/guided/landscape-tour.md
 - pages/tours/guided/knights-of-st-john.md
