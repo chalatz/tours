@@ -49,6 +49,8 @@ sections:
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_4.jpg
       alt: Classic Moussaka
       caption: ''
+  title: ''
+  desc: ''
 - title: Menús Tradicionales de Rodas
   desc: |-
     Los menús tradicionales de Rodas pertenecen a tres categorías:
@@ -137,6 +139,7 @@ sections:
     - **Garides me Feta** - Camarones con Queso Feta
     - **Jtapodi Xithato** - Pulpo marinado en una tradición de estilo Griego
     - **Midia me Tomata Kai Skordo** - Mejillones con tomate y ajo
+  gallery_rows: []
 - title: En los restaurantes de pescado...
   desc: Los pescados y mariscos tales como Atún, Besugo, Salmonete, Mero, Pez Espada,
     Anchoas, Mero, Sardina, Bacalao, Camarón (gambas), Pulpo, Calamar, Langosta y
@@ -169,6 +172,8 @@ sections:
     - **Makaronatha me Thalasina** Pasta de mariscos con camarones, mejillones, calamares y pulpos
     - **Astako-makaronatha** Pasta de langosta con tomate, vino, cebolla, aceite de oliva y canela
     - **Gemisti Supia** Calamares rellenos con queso feta / vegetales y cocida en salsa de tomate picante
+  title: ''
+  gallery_rows: []
 - title: En Tabernas...
   desc: El cordero es a menudo cocido a fuego lento y preparado en cazuelas con variedad
     de verduras y brochetas y asado a la parrilla, mientras que otras carnes como
@@ -201,6 +206,8 @@ sections:
     - **Paithakia** Chuletas de cordero (por lo general a la parrilla)
     - **Souvlaki Kotopoulo** pequeños trozos de carne de pollo (y algunas veces hortalizas) a la parrilla en un pincho. Se sirve en un plato de comida, a menudo con patatas fritas o arroz
     - **Souvlaki Jirino** trozos pequeños de carne de cerdo a la parrilla en un pincho
+  title: ''
+  gallery_rows: []
 - title: Postres Tradicionales
   desc: Los rodios utilizan la leche, el huevo, la miel, especias y frutas locales
     como ingredientes para la elaboración de postres...
@@ -233,11 +240,14 @@ sections:
     - **Loukoumádes** bollos fritos y con especias como clavo y canela en un jarabe de miel que puede ser rociado ligeramente con azúcar pulverizada
     - **Galaktobouriko** flan horneado en filo (masa filo)
     - A menudo encontrará una selección de frutas de temporada, por lo general frutas enteras servidas en un plato para que seleccione la que desee.
+  title: ''
+  gallery_rows: []
 - title: Pagar la Cuenta en un Restaurante
   desc: |-
     El camarero nunca traerá la cuenta hasta que usted la pida. Es posible que usted sea la última persona en el restaurante, pero la cuenta no llegue. Cuando esté listo para pagar, simplemente solicite el "Logariasmo". No todos los restaurantes aceptan tarjetas de crédito así que es mejor estar preparados para pagar en efectivo.
 
     Se suele dar **propina** en los restaurantes, aproximadamente el 15% del total de la cuenta y, aunque en algunos establecimientos ya está incluido, no lo está en todos.
+  gallery_rows: []
 - title: Dieta Mediterránea
   desc: |-
     Los estudios internacionales han reconocido el valor de la cocina griega. La Organización Mundial de la Salud realizó a principios de los años 60 un estudio en el que observaron los patrones de alimentación de las personas de siete países: Grecia, Italia, Serbia, Holanda, Finlandia, EEUU y Japón. Este estudio de larga ejecución que duró 30 años, demostró que las personas que viven en los países mediterráneos, Grecia, en particular, tenían tasas de mortalidad más baja en comparación con el resto de los países participantes. El "secreto" para la salud y la longevidad se documentaron como la combinación de una dieta sencilla y la actividad física regular, bautizada como la Dieta Mediterránea.
@@ -252,5 +262,12 @@ sections:
 
     4.  Carnes y dulces, menos frecuentes.
   classes: photo-tour__standout
+  gallery_rows: []
+subtitle: ''
+related_tours: []
+no_related_tours_text: ''
+end_page:
+  long_text: ''
+  short_text: ''
 
 ---
