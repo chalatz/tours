@@ -5,12 +5,14 @@ has_gallery: false
 id: info_rhodes_island
 ref: info_rhodes_island
 meta:
-  title: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
-  http_desc: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
-  description: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
-  keywords: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
+  title: Rodas Isla Griega, información sobre Rodas Grecia, La isla griega de Rodas
+  http_desc: Rodas Isla Griega, información sobre Rodas Grecia, La isla griega de
+    Rodas
+  description: Rodas Isla Griega, información sobre Rodas Grecia, La isla griega de
+    Rodas
+  keywords: Rodas Isla Griega, información sobre Rodas Grecia, La isla griega de Rodas
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
+  abstract: Rodas Isla Griega, información sobre Rodas Grecia, La isla griega de Rodas
   author: Nick
 title: "¿ Sabia usted que …?"
 subtitle: Hechos fascinantes sobre la Isla de Rodas y Grecia, información que vale
