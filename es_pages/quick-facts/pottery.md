@@ -5,13 +5,18 @@ has_gallery: true
 id: info_handmade_pottery
 ref: info_handmade_pottery
 meta:
-  title: Cerámica Griega Rodas, Alfarería en Rodas Grecia
-  http_desc: Cerámica Griega Rodas, Alfarería en Rodas Grecia
-  description: Cerámica Griega Rodas, Alfarería en Rodas Grecia
-  keywords: Cerámica Griega Rodas, Alfarería en Rodas Grecia
+  title: Cerámica Griega Alfarería, Cerámica Artesanal en Rodas Grecia, Diseños de
+    Cerámica en la Antigua Grecia, Cerámica Moderna de Rodas
+  http_desc: Cerámica Griega Alfarería, Cerámica Artesanal en Rodas Grecia, Diseños
+    de Cerámica en la Antigua Grecia, Cerámica Moderna de Rodas
+  description: Cerámica Griega Alfarería, Cerámica Artesanal en Rodas Grecia, Diseños
+    de Cerámica en la Antigua Grecia, Cerámica Moderna de Rodas
+  keywords: Cerámica Griega Alfarería, Cerámica Artesanal en Rodas Grecia, Diseños
+    de Cerámica en la Antigua Grecia, Cerámica Moderna de Rodas
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Cerámica Griega Rodas, Alfarería en Rodas Grecia
+  abstract: Cerámica Griega Alfarería, Cerámica Artesanal en Rodas Grecia, Diseños
+    de Cerámica en la Antigua Grecia, Cerámica Moderna de Rodas
 title: Cerámica Artesanal en Rodas, Grecia
 summary: Los griegos produjeron alfarería desde hace mucho tiempo. Esta práctica representa
   un importante registro y fuente de análisis para entender múltiples periodos históricos
