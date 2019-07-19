@@ -90,7 +90,6 @@ sections:
 - type: document
   path: es_pages/info/about.md
   label: About Us - SOBRE NOSOTROS
-  match: "**/*"
 - type: heading
   label: Spanish Links
 - type: directory
