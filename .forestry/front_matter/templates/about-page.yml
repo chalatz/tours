@@ -154,4 +154,5 @@ fields:
   label: End page
   template: end-page
 pages:
+- es_pages/info/about.md
 - pages/info/about.md

@@ -23,16 +23,26 @@ profile:
     alt: Nicholas - Rhodes Private Day Tours
   content: |-
     Nicolás A.Rhodes nació en Egipto, Alejandría. Sus padres eran griegos, pertenecientes a la gran "Comunidad Helénica de Alejandría".
- 
+
     Después de terminar la escuela secundaria, continué con su educación como diseñador de programación y sistemas. Al mismo tiempo su hermano Michael acababa la universidad de turismo en El Cairo. Después de graduarse, se mudaron a Atenas durante unos años y finalmente se establecieron en la hermosa isla de Rodas donde finalmente se dedicaron a la industria del turismo. Nicolás y Michael actualmente administran un exitoso y profesional negocio privado de tours.
- 
+
     Nicolás y Michael hablan griego fluido (obviamente!) así como inglés y árabe que manejan a la perfección (hablados y escritos). En español, alemán e italiano son capaces de hacerse entender, lo mismo que con algo de francés - suficiente para una comunicación básica.
+  message: ''
 not_finding:
   keyword: Not finding?
-  title: ¿No encuentra lo que busca?
-  subtitle: No hay problema, podemos crear un itinerario personalizado para usted. ¡Cuéntenos de su tour!
+  title: "¿No encuentra lo que busca?"
+  subtitle: No hay problema, podemos crear un itinerario personalizado para usted.
+    ¡Cuéntenos de su tour!
   contact_us_button_text: CONTÁCTENOS
-  
+desc: ''
+gallery:
+  items: []
+info:
+  items: []
+end_page:
+  long_text: ''
+  short_text: ''
+
 ---
 Comenzamos a ofrecer tours privados de alta calidad a Rhodes en 1984 y estamos en línea desde 1998.
  
