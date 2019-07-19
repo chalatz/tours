@@ -2,6 +2,7 @@
 layout: pages/about
 type: about_page
 id: about_page
+ref: about_page
 permalink: rhodes_private_day_tours.htm
 has_form: false
 has_gallery: true

@@ -113,7 +113,7 @@ main:
       url: './espaniol_excursiones_privadas.htm'
       type: home
     - title: Sobre Nosotros
-      url: './rhodes_private_day_tours.htm'
+      url: './excursiones-guiadas-privadas-rodas.htm'
       type: about_page
     - title: coches con conductor
       url: './rhodes_island_Greece_private_tours.htm'
