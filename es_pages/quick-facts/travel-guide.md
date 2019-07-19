@@ -5,17 +5,13 @@ has_gallery: false
 id: info_rhodes_travel_guide
 ref: info_rhodes_travel_guide
 meta:
-  title: Guía turística, Rhodas Grecia, Rodas Grecia Información turística, Guía turística
-    de Rhodas Grecia
+  title: Guía turística de Rodas Grecia, Información turística sobre Rodas Grecia
   http_desc: Guía turística, Rhodas Grecia, Rodas Grecia Información turística, Guía
     turística de Rhodas Grecia
-  description: Guía turística, Rhodas Grecia, Rodas Grecia Información turística,
-    Guía turística de Rhodas Grecia
-  keywords: Guía turística, Rhodas Grecia, Rodas Grecia Información turística, Guía
-    turística de Rhodas Grecia
+  description: Guía turística de Rodas Grecia, Información turística sobre Rodas Grecia
+  keywords: Guía turística de Rodas Grecia, Información turística sobre Rodas Grecia
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Guía turística, Rhodas Grecia, Rodas Grecia Información turística, Guía
-    turística de Rhodas Grecia
+  abstract: Guía turística de Rodas Grecia, Información turística sobre Rodas Grecia
   author: Nick
 title: Guía turística.  Información sobre Rodas Grecia
 summary: ''
