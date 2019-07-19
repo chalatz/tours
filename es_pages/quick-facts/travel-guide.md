@@ -5,7 +5,7 @@ has_gallery: false
 id: info_rhodes_travel_guide
 ref: info_rhodes_travel_guide
 meta:
-  title: 'Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information'
+  title: Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information
   http_desc: Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information,
     Travel Guide of Rhodes Greece, Rhodes Private Tours, Rhodes Taxi Tours
   description: Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information,
@@ -18,6 +18,12 @@ meta:
 title: Guía turística.  Información sobre Rodas Grecia
 summary: ''
 sections: []
+subtitle: ''
+related_tours: []
+no_related_tours_text: ''
+end_page:
+  long_text: ''
+  short_text: ''
 
 ---
 **Código de vestimenta** en la isla de Rhodas es muy casual, para hombres pantalones cortos y camisetas es la norma, y para damas, vestidos de verano, la luz o similares a los hombres. Si viene en la primavera o el otoño debería traer algunas de las regiones cálidas de ropa en caso de que llegue un poco frío en la noche. Incluso para aquellos que quieren vestir formalmente, elegante casual es la norma, que sería un par de pantalones y una camisa.
