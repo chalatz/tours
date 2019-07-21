@@ -19,7 +19,7 @@ subtitle: We have been offering our high standard Private Tour Services since 19
   and we've been on line since 1998
 reviews:
 - year: "2019"
-  text: " \n\nWe had a wonderful day in Rhodes. The island is so beautiful, we enjoyed
+  text: "We had a wonderful day in Rhodes. The island is so beautiful, we enjoyed
     it more than Santorini. Andrew was a great tour/driver, and very pleasant to spend
     the day with. His knowledge of Rhodes, and his insight into modern economic and
     social issues in Greece was very informative. <br>\nSo much better than being
