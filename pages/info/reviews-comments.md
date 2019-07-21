@@ -32,9 +32,9 @@ reviews:
     it very well!  The tour itself was also perfect to really see every side of the
     island which is beautiful in itself.  \nWe hope to tour with you again when we
     return to Rhodes and you will be highly recommended to family & friends. Thanks
-    again for the tour & many many thanks to Mahir.<br>\nKind regards, Aysel<br>  \naysel.unsal@hotmail.com\n\nThank
-    you very much! We had a wonderful day yesterday. Michael was great showing us
-    all the places. We enjoyed it very much! <br>\nThanks, Subha (13 July)<br>\nsubha@padman.co.uk<br>\n\nNicholas
+    again for the tour & many many thanks to Mahir.<br>\nKind regards, Aysel  aysel.unsal@hotmail.com<br>
+    \n\nThank you very much! We had a wonderful day yesterday. Michael was great showing
+    us all the places. We enjoyed it very much! <br>\nThanks, Subha (13 July)<br>\nsubha@padman.co.uk<br>\n\nNicholas
     thank you. We had a brilliant time. We have just returned home and have wonderful
     memories of Rhodes. Louise said Rhodes was her favourite out of all the places
     we visited. Greetings to Dominic. He was a very informative and safe driver. <br>\nLeanne
