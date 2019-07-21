@@ -22,18 +22,17 @@ reviews:
   text: "We had a wonderful day in Rhodes. The island is so beautiful, we enjoyed
     it more than Santorini. Andrew was a great tour/driver, and very pleasant to spend
     the day with. His knowledge of Rhodes, and his insight into modern economic and
-    social issues in Greece was very informative. <br>\nSo much better than being
-    on a big bus tour from the cruise line.<br>\nRegards, Susan and Nate (July 22nd)
-    <br> \nsusantgans@gmail.com\n\nDear Nicholas, Thank you for our tour. We all really
-    enjoyed it and found Kostas the tour guide, very friendly and informative. Also
-    Jakob the driver, met us and transported us very happily and safely.<br>\nKind
-    regards, Elizabeth (July 21st)<br>\nliz8222@icloud.com\n\n\nHi Nicholas,  Thank
-    you so much for the tour especially teaming us up with Mahir. He was a great match
-    and very helpful and informative, he knows his job and does it very well!  The
-    tour itself was also perfect to really see every side of the island which is beautiful
-    in itself.  \nWe hope to tour with you again when we return to Rhodes and you
-    will be highly recommended to family & friends. Thanks again for the tour & many
-    many thanks to Mahir.<br>\nKind regards, Aysel<br>  \naysel.unsal@hotmail.com\n\nThank
+    social issues in Greece was very informative. So much better than being on a big
+    bus tour from the cruise line.<br>\nRegards, Susan and Nate (July 22nd) <br> \nsusantgans@gmail.com\n\nDear
+    Nicholas, Thank you for our tour. We all really enjoyed it and found Kostas the
+    tour guide, very friendly and informative. Also Jakob the driver, met us and transported
+    us very happily and safely.<br>\nKind regards, Elizabeth (July 21st)<br>\nliz8222@icloud.com\n\n\nHi
+    Nicholas,  Thank you so much for the tour especially teaming us up with Mahir.
+    He was a great match and very helpful and informative, he knows his job and does
+    it very well!  The tour itself was also perfect to really see every side of the
+    island which is beautiful in itself.  \nWe hope to tour with you again when we
+    return to Rhodes and you will be highly recommended to family & friends. Thanks
+    again for the tour & many many thanks to Mahir.<br>\nKind regards, Aysel<br>  \naysel.unsal@hotmail.com\n\nThank
     you very much! We had a wonderful day yesterday. Michael was great showing us
     all the places. We enjoyed it very much! <br>\nThanks, Subha (13 July)<br>\nsubha@padman.co.uk<br>\n\nNicholas
     thank you. We had a brilliant time. We have just returned home and have wonderful
