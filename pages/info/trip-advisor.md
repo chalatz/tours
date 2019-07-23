@@ -5,6 +5,7 @@ id: tripadvisor_page
 permalink: TripAdvisor.htm
 has_form: false
 has_gallery: false
+no_ta_links: true
 meta:
   title: Rhodes Private Tours and Shore Excursions, Private day tours, Taxi tours
   http_desc: Rhodes Private Tours and Shore Excursions, Private day tours and taxi tours, Minivan Minibus Group Tours, and semi-private tours with licensed tour guides.  VIP Tours Services and city sightseeing tours, daily tours of Rhodes Island Greece

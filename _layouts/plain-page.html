@@ -31,5 +31,7 @@ layout: default
         {% include partials/tour-banners.html %}
     </div>
 {%- else -%}
-    {% include home/recommendations-2.html %}
+    {%- unless page.no_ta_links == true -%}
+        {% include home/recommendations-2.html %}
+    {%- endunless -%}
 {%- endif -%}
