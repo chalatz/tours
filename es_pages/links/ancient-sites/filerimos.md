@@ -26,141 +26,128 @@ summary: La colina tomó su nombre de un monje proveniente de Jerusalén en el s
   a la Virgen María. Su exquisito campanario que aún puede apreciarse hoy ha sido
   donde se conserva reverentemente dicha imagen milagrosa.
 sections:
-- title: The Church of our Lady of Filerimos
+- title: La Iglesia de Nuestra Señora de Filerimos
   desc: |-
-    When Christianity first grew its roots in Greece (before spreading in the world), many of the ancient cult sanctuaries were transformed into churches. At that time the temple of Athena Polias was converted into an early Christian three-aisled basilica dedicated to **Virgin Mary** (Panagià, Παναγιά). The church is well known since for housing the icon of the **Virgin of Filerimos (our lady of Filerimos)**. In the 14th century under the rule of the Knights of St. John a monastery was built, surrounded by cloisters and cells and a number of chapels. There is where the miracle-working icon is so reverently kept.
+    Cuando el Cristianismo echó raíces por primera vez en Grecia (antes de extenderse al mundo), muchos de los antiguos santuarios de culto fueron transformados en iglesias. En esa época, el templo de Atenas Polias fue convertido en una proto-basílica con una nave de tres tramos dedicada a la **Virgen María** (Panagià, Παναγιά). La iglesia es conocida desde entonces por alojar la figura de la **Virgen de Filerimos (Nuestra Señora de Filerimos)**. En el siglo 14 bajo el dominio de los Caballeros de San Juan, se construyó un monasterio, rodeado de claustros, celdas y una serie de capillas. Allí es donde la figura, hacedora de milagros, es reverentemente resguardada.
 
-    When the island came into the possession of the Ottoman Turks, the icon was taken by the Knights to France and from there to Italy, then Malta and Russia, where it stayed until the 1917 revolution. Since 2002, it has been kept in the Blue Chapel of the National Museum of Montenegro and a copy has been put in its place.
+    Cuando la isla pasó a manos de los Turcos Otomanos, la figura fue llevada por los Caballeros a Francia y de ahí a Italia, luego Malta y Rusia, en donde permaneció hasta la revolución de 1917. Desde 2002, está resguardada en la Capilla Azul del Museo Nacional de Montenegro y una copia fue puesta en su lugar.
   gallery_rows:
   - figures:
     - thumb: img/filerimos_hill/filerimos_hill_1_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_1.jpg
       alt: Filerimos Hill Rhodes Greece,Private Tours
-      caption: The entrance and steps to the church and to monastery
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_2_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_2.jpg
       alt: Filerimos monastery,Rhodes Taxi Tours
-      caption: The remains of the temple of Athena Polias
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_3_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_3.jpg
       alt: Filerimos Rhodes,Shore Tours
-      caption: The temple was converted into an early Christian three-basilica dedicated
-        to Virgin Mary
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_4_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_4.jpg
       alt: Ialyssos acropolis,Rhodes Day Tours
-      caption: The church of our Lady of Filerimos
+      caption: ''
 - gallery_rows:
   - figures:
     - thumb: img/filerimos_hill/filerimos_hill_5_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_5.jpg
       alt: Rhodes Taxi Trips Greece
-      caption: Copy of the miracle-working icon
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_6_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_6.jpg
       alt: Rhodes Taxi Trips Greece
-      caption: The interior of the church of our Lady of Filerimos
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_7_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_7.jpg
       alt: Lady of Filerimos
-      caption: The interior of the church of our Lady of Filerimos
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_8_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_8.jpg
       alt: Lady of Filerimos
-      caption: The interior of the church of our Lady of Filerimos
-- title: Monastery of Filerimos
-  desc: The monastery was destroyed during the Turkish occupation. The Italians rebuilt
-    the monastery during their occupation and kept it open with monks from the Capuchin
-    Order. Behind the church are the monks' cells, the walls of which are decorated
-    with mosaic depictions of saints. During the war the monks returned to Italy and
-    since then the monastery has been closed. The main church of the monastery was
-    more like a small chapel to the Virgin Mary and young couples had romantic weddings
-    there.
+      caption: ''
+- title: Monasterio de Filerimos
+  desc: |-
+    El monasterio fue destruido durante la ocupación turca. Los italianos lo reconstruyeron durante su ocupación y lo mantuvieron abierto con monjes de la Orden Capuchina. Detrás de la iglesia se encuentran las celdas de los monjes, cuyas paredes están decoradas con representaciones de santos en mosaicos. Durante la guerra los monjes regresaron a Italia y desde entonces el monasterio ha permanecido cerrado. La iglesia principal del monasterio era más como una pequeña capilla dedicada a la Virgen María y muchas jóvenes parejas celebraron bodas románticas allí.
   gallery_rows:
   - figures:
     - thumb: img/filerimos_hill/filerimos_monastery_1_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_1.jpg
       alt: filerimos mountain,Rhodes Shore Trips
-      caption: Monastery of Filerimos
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_monastery_2_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_2.jpg
       alt: Monk's rooms in Monastery of Filerimos
-      caption: Monk's rooms in Monastery of Filerimos
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_monastery_3_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_3.jpg
       alt: Monk's rooms in Monastery of Filerimos with the icon of Virgin Mary
-      caption: Monk's rooms in Monastery of Filerimos with the icon of Virgin Mary
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_monastery_4_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_4.jpg
       alt: Monk's rooms in Monastery of Filerimos
-      caption: Monk's rooms in Monastery of Filerimos
-- title: Via Dolorosa - Way of the Cross
-  desc: There is a pathway that sets off from the square that leads to the westernmost
-    point of the hill. The Road to Golgotha (Via Dolorosa or Way of the Cross) used
-    by the Catholics was dotted with holy icon-stands and bronze reliefs with representations
-    of the Passion of Christ. Here an imposing iron Cross stood in the middle. (Today
-    it’s a concrete Cross). The Via Dolorosa is the journey undertaken by Jesus, starting
-    at the place where Pilate sentenced him to death and ending on Mount Golgotha
-    (Calvary) and is also known as Via Crucis. Jesus walks this distance carrying
-    the cross upon which he will be crucified.
+      caption: ''
+- title: Vía Dolorosa – Vía Crucis
+  desc: |-
+    Existe un sendero que se desprende de la plaza y que lleva al punto más occidental de la colina. El Camino al Gólgota (Vía Dolorosa o Vía Crucis) usado por los Católicos está ornamentado con bases con imágenes de bronce con representaciones de la Pasión de Cristo. Aquí, una imponente Cruz de hierro se erguía en el medio. (Hoy es una Cruz de concreto). La Vía Dolorosa es el camino emprendido por Jesús, que comienza en el lugar donde Pilato lo sentenció a muerte y que finaliza en el Monte Gólgota (Calvario) y que es conocido también como Vía Crucis. Jesús camina esta distancia cargando la cruz sobre la cual será crucificado. 
   gallery_rows:
   - figures:
     - thumb: img/filerimos_hill/filerimos_way_of_the_cross_1_thumb.jpg
       href: img/filerimos_hill/filerimos_way_of_the_cross_1.jpg
       alt: Taxi Tours of Rhodes Greece
-      caption: Icon-stand and bronze relief with representations of the Passion of
-        Christ
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_way_of_the_cross_2_thumb.jpg
       href: img/filerimos_hill/filerimos_way_of_the_cross_2.jpg
       alt: Private Shore Excursions Rhodes Greece
-      caption: The Way of the Cross
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_way_of_the_cross_3_thumb.jpg
       href: img/filerimos_hill/filerimos_way_of_the_cross_3.jpg
       alt: The Way of the Cross
-      caption: The Way of the Cross
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_way_of_the_cross_4_thumb.jpg
       href: img/filerimos_hill/filerimos_way_of_the_cross_4.jpg
       alt: The Way of the Cross
-      caption: The Way of the Cross
-- title: The Cross
-  desc: The 16 meter / 48 feet imposing concrete cross standing in the middle of the
-    small square. You can even climb up the cross and take in the view from the arms.
+      caption: ''
+- title: La Cruz
+  desc: |-
+    La imponente cruz de concreto de 16 metros / 48 pies se yerguen en el medio de la pequeña plaza. Incluso se puede subir por la cruz y apreciar la vista desde los brazos.
   gallery_rows:
   - figures:
     - thumb: img/filerimos_hill/filerimos_cross_1_thumb.jpg
       href: img/filerimos_hill/filerimos_cross_1.jpg
       alt: The Cross of Filerimos
-      caption: The entrance of the Cross
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_cross_2_thumb.png
       href: img/filerimos_hill/filerimos_cross_2.jpg
       alt: Cruise Shore Excursions Rhodes Greece
-      caption: The entrance of the Cross
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_cross_3_thumb.png
       href: img/filerimos_hill/filerimos_cross_3.jpg
       alt: Cruise Shore Tours Rhodes Greece
-      caption: The Cross
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_cross_4_thumb.png
       href: img/filerimos_hill/filerimos_cross_4.jpg
       alt: Cruise Shore Tours Rhodes Greece
-      caption: The stairs lead up to the arms of the Cross
-- title: The Views
+      caption: ''
+- title: Las vistas
   gallery_rows:
   - figures:
     - thumb: img/filerimos_hill/filerimos_views_1_thumb.jpg
       href: img/filerimos_hill/filerimos_views_1.jpg
       alt: Rhodes Private Tours Greece
-      caption: Panoramic view of Ialyssos Bay
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_views_2_thumb.jpg
       href: img/filerimos_hill/filerimos_views_2.jpg
       alt: Rhodes Private Tours Greece
-      caption: Panoramic view of the West Coast and the Aegean Sea
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_views_3_thumb.jpg
       href: img/filerimos_hill/filerimos_views_3.jpg
       alt: Rhodes Shore Tours
-      caption: Panoramic view of the West Coast
+      caption: ''
     - thumb: img/filerimos_hill/filerimos_views_4_thumb.jpg
       href: img/filerimos_hill/filerimos_views_4.jpg
       alt: Rhodes Shore Excursions
-      caption: Panoramic view
+      caption: ''
 
 ---
