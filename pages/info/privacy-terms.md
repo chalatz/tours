@@ -2,6 +2,7 @@
 layout: none
 id: privacy
 title: PRIVACY POLICY
+sitemap: false
 ---
 
 Rhodes Private Tours is committed to maintaining your privacy.
