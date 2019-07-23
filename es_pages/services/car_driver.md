@@ -35,7 +35,7 @@ sections:
 
     - Todos nuestros vehículos están autorizados por el Ministerio griego de Transportes y controladas por la Autoridad de Control de Transporte griego (KTEO) cada año.
 
-    - Según las leyes griegas, cada coche está permitido transferir a un máximo de 4 pasajeros. [Los vehículos más grandes están disponibles para grupos](/tours para grupos rodas grecia.htm)
+    - Según las leyes griegas, cada coche está permitido transferir a un máximo de 4 pasajeros. [Los vehículos más grandes están disponibles para grupos](/tours_para_grupos_rodas_grecia.htm)
 
 not_finding:
   keyword: Not finding?
