@@ -9,6 +9,12 @@
 
     &__section {
         margin-top: 2rem;
+
+        ul {
+            list-style: disc;
+            padding-left: 3rem;
+        }
+
     }
 
     &__section-heading {

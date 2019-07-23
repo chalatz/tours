@@ -1,0 +1,143 @@
+---
+layout: default
+---
+
+{%- if page.head_photo -%}
+  <section class="head-photo">
+    <img src="{{- page.head_photo.src -}}" alt="{{- page.head_photo.alt -}}">
+  </section>
+{%- endif -%}  
+
+<main class="container page page--general">
+
+  {%- if page.title or page.subtitle -%}
+    <div class="page__headings">
+    
+      {%- if page.title -%}
+        <h1 class="page__title page__title--general page__title--{{ page.id }}">
+          {{- page.title | upcase -}}
+        </h1>  
+      {%- endif -%}
+
+      {%- if page.subtitle -%}
+        <h2 class="page__subtitle page__subtitle--{{ page.id }}">
+          {{- page.subtitle | upcase -}}
+        </h2>  
+      {%- endif -%}
+
+    </div>
+  {%- endif -%}
+
+  <section class="page__content">
+    {%- if page.content -%}
+      <div class="page__section page__section--intro">
+        {{ content }}
+      </div>
+    {%- endif -%}
+    {%- for section in page.sections -%}
+      <div class="page__section">
+
+        {%- if section.title -%}
+          <h2 class="page__section-title page__section-title--{{ page.id }}">
+            {{- section.title | upcase -}}
+          </h2>
+        {%- endif -%}
+
+        {%- if section.subtitle -%}
+          <h2 class="page__section-subtitle page__section-subtitle--{{ page.id }}">
+            {{- section.subtitle | upcase -}}
+          </h2>
+        {%- endif -%}
+
+        {%- if section.text -%}
+          <div class="page__section-text">
+            {{ section.text | markdownify }}
+          </div>
+        {%- endif -%}
+
+        {%- if section.gallery -%}
+          <div class="page__gallery cols cols-{{ section.gallery.items_per_row }}">
+            {%- for item in section.gallery.items -%}
+              <div class="page__gallery-item col col-of-{{ section.gallery.items_per_row }} col-{{ forloop.index }}-of-{{ section.gallery.items_per_row }}">
+                {%- if item.image.is_link == true -%}
+                  <a href="{{- item.url -}}">
+                    <img class="page__gallery-item-img" src="{{- item.image.thumb -}}" alt="{{- item.image.alt -}}">
+                  </a>
+                {%- elsif section.gallery.is_gallery -%}
+                  <a href="{{- item.image.href -}}" data-fancybox="tour-gallery" data-caption="{{- item.caption | escape -}}">
+                    <img class="page__gallery-item-img" src="{{- item.image.thumb -}}" alt="{{- item.image.alt -}}">
+                  </a>
+                {%- else -%}
+                  <img class="page__gallery-item-img" src="{{- item.image.thumb -}}" alt="{{- item.image.alt -}}">
+                {%- endif -%}
+                {%- if item.image.is_link == true -%}
+                  <a href="{{- item.url -}}" class="page__gallery-item-caption page__gallery-item-caption--link {% if section.gallery.captions_style == 'italic' %}photo-tour__gallery-caption page__gallery-item-caption--italic{% endif %}">
+                    {%- if section.gallery.captions_style == 'italic' -%}
+                      {{- item.caption -}}
+                    {%- else -%}
+                      {{- item.caption | upcase -}}
+                    {%- endif -%}
+                  </a>
+                {%- else -%}
+                  <span class="page__gallery-item-caption page__gallery-item-caption--span {% if section.gallery.captions_style == 'italic' %}photo-tour__gallery-caption page__gallery-item-caption--italic{% endif %}">
+                    {%- if section.gallery.captions_style == 'italic' -%}
+                      {{- item.caption -}}
+                    {%- else -%}
+                      {{- item.caption | upcase -}}
+                    {%- endif -%}
+                  </span>
+                {%- endif -%}
+              </div>
+            {%- endfor -%}
+          </div>
+        {%- endif -%}
+
+      </div>
+    {%- endfor -%}
+  </section>
+
+  {%- if page.has_cta_links == true -%}
+    <div class="centered container page__section page__cta">
+      {%- assign cta_array = site.data.navigation.main[page.lang].items | where: 'type', page.type -%}
+      {%- for cta_item in cta_array -%}
+        <h3 class="page__cta-title">{{- cta_item.cta_title -}}</h3>
+        {%- for cta_link in cta_item.subitems -%}
+          {%- if cta_link.cta_link == true -%}
+            {%- if cta_link.id == page.id -%}
+              <span class="page__cta-link active{%if page.type == 'services_page' %} page__cta-link--services-page{% endif %}">
+                {{ cta_link.title }}
+              </span>
+            {%- else -%}
+              <a class="page__cta-link{%if page.type == 'services_page' %} page__cta-link--services-page{% endif %}" href="{{- cta_link.url -}}">
+                {{ cta_link.title }}
+              </a>
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+
+  {%- if page.links -%}
+    <div class="centered container tours-page__suggestions">
+        {%- for data_link in site.data.tour_types -%}
+            {%- for page_link in page.links -%}
+              {%- if data_link.id == page_link -%}
+                <div class="tours-page__suggestion">
+                  <a class="private-tours-suggestions__link private-tours-suggestions__link--tours-page {{ data_link.classes }}" href="{{- data_link.url -}}">
+                    {{- data_link.text -}}
+                  </a>
+                </div>
+              {%- endif -%}
+            {%- endfor -%}              
+        {%- endfor -%}
+    </div>
+  {%- endif -%}
+
+</main>
+
+{% include es/home/sites.html %}
+
+{%- include home/not-finding.html -%}
+
+

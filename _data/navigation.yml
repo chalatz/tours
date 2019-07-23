@@ -116,7 +116,7 @@ main:
       url: './excursiones-guiadas-privadas-rodas.htm'
       type: about_page
     - title: coches con conductor
-      url: './rhodes_island_Greece_private_tours.htm'
+      url: './isla_rodas_grecia_viajes_privados_guia_conductor.htm'
       type: driving_tours_page
     - title: tours privados
       url: './guided_tours.htm'
