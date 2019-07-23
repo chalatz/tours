@@ -117,7 +117,7 @@ main:
       type: about_page
     - title: coches con conductor
       url: './isla_rodas_grecia_viajes_privados_guia_conductor.htm'
-      type: driving_tours_page
+      type: services_page
     - title: tours privados
       url: './guided_tours.htm'
       type: guided_tours_page
@@ -127,7 +127,6 @@ main:
     - title: TOURS Accesibles
       url: './accessible_disabled.htm'
       type: accessible_tours_page
-      type: services_page
     - title: Contacto
       type: contact_page
       url: './contact_us.htm'

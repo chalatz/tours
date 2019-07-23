@@ -17,7 +17,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
 head_photo:
-  src: "./img/pages/services/car-driver-head-photo.jpg"
+  src: "./img/pages/services/car-driver-head-photo-es.jpg"
   alt: Coches con Conductor en Rodas Grecia
 title: Coches con Conductor en Rodas Grecia
 subtitle: Conductores Disponibles
