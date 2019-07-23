@@ -24,135 +24,88 @@ summary: La antigua Kámiros ha sido llamada la Pompeya de Grecia aunque es una 
   poco a poco por sus habitantes y luego enterrada por la tierra misma con el paso
   de los años.
 sections:
-- title: Acropolis and Temple of Athena Kameiras (Level 1 - top of the hill)
+- title: Acrópolis y el Templo de Atenea Kamiros (Nivel 1 - la cima de la colina)
   gallery_rows:
   - figures:
     - thumb: img/ancient_kameiros/ancient_kameiros_1_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_1.jpg
       alt: Rhodes Allure Tours
-      caption: "<strong>The temple of Athina:</strong> The remains of the temple of
-        Athina. Only its foundation has survived, was a tetrastyle peripteral with
-        porticos on all four sides, was surrounded by a peribolos."
+      caption: "<strong>El templo de Atenea:</strong> Los restos del templo de Atenea. Sólo su fundación ha sobrevivido, fue un períptero tetrástilo con pórticos en los cuatro lados, fue rodeado por un períbolos."
     - thumb: img/ancient_kameiros/ancient_kameiros_2_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_2.jpg
       alt: Allure tours of Rhodes
-      caption: "<strong>The Hellenistic Stoa:</strong> The remains of the two rows
-        of Doric columns of the Hellenistic Stoa. The Stoa had the shape of the Greek
-        letter Π and was 200 meter / 700 feet long."
+      caption: "<strong>La Estoa Helenística:</strong> Los restos de las dos filas de columnas dóricas de la Estoa Helenística. La Estoa tenía la forma de la letra griega Π y tenía 200 metros / 700 pies de largo."
     - thumb: img/ancient_kameiros/ancient_kameiros_3_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_3.jpg
       alt: Rhodes Allure Tours, Rhodes Taxi Tours
-      caption: "<strong>The Archaic Cistern:</strong> (Water Reservoir). A rectangular
-        construction lined with plaster. Terra-cotta pipes and two apertures with
-        stone covers on the bottom served to carry the water to the settlement."
+      caption: "<strong>La Cisterna Arcaica:</strong> (Reservorio De Agua). Una construcción rectangular forrada de yeso. Tuberías de terracota y dos aberturas con cubiertas de piedra en el fondo sirvieron para llevar el agua al asentamiento."
     - thumb: img/ancient_kameiros/ancient_kameiros_4_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_4.jpg
       alt: Allure Tours in Rhodes Greece
-      caption: "<strong>The Archaic Cistern:</strong> (Water Reservoir). It had a
-        capacity sufficient for 300-400 families.Steps on the sides facilitated access
-        to clean the reservoir, which was covered. It dates to the 6th-5th c. BC."
-- title: Private Dwellings - Hippodamian System (Level 2 - middle terrace)
-  desc: 'The city was built according to the Hippodamian System with a grid of parallel
-    streets and residential blocks of the same size. (Hippodamus of Miletus 498 –
-    408 BC the “father” of urban planning). Its arrangement around the natural slops
-    of the hill to right and left of the main street linking the lowest level with
-    the acropolis. A principal feature of the houses was the interior colonnaded courtyard
-    with one side usually higher than the others. They were adorned with mosaic floors
-    and facades with architraves and painted decoration on plaster.        '
+      caption: "<strong>La Cisterna Arcaica:</strong> (Reservorio De Agua). Tenía una capacidad suficiente para 300-400 familias. Además, facilitaron el acceso para limpiar el reservorio, el cual estaba cubierto. Data de los siglos 6 al 5 antes de Cristo."
+- title: Viviendas Privadas - Trazado Hipodámico (Nivel 2 - terraza intermedia)
+  desc: |-
+    La ciudad fue construida de acuerdo con el Sistema de Hipodámico, con una cuadrícula de calles paralelas y cuadras residenciales del mismo tamaño. (Hipodamo de Mileto 498 - 408 antes de Cristo, el "padre" de la planificación urbana). Su disposición alrededor de las pendientes naturales de la colina a la derecha y la izquierda de la calle principal que une el nivel más bajo con la acrópolis. Una característica principal de las casas era el patio con columnas interiores, con un lado generalmente más alto que los otros. Fueron adornados con pisos de mosaico y fachadas con arquitrabes y decoración pintada en yeso..
   gallery_rows:
   - figures:
     - thumb: img/ancient_kameiros/ancient_kameiros_5_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_5.jpg
       alt: Rhodes Specialized excursion
-      caption: "<strong>Private Dwellings:</strong> The Main Street"
+      caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_6_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_6.jpg
       alt: Rhodes specialized shore excursions
-      caption: "<strong>Private Dwellings:</strong> A house with an interior colonnaded
-        courtyard"
+      caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_7_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_7.jpg
       alt: Specialized taxi tours Rhodes
-      caption: "<strong>Private Dwellings:</strong> Houses of the Hellenistic period"
+      caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_8_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_8.jpg
       alt: Specialized driver guide Rhodes
-      caption: "<strong>Private Dwellings:</strong> Houses of the Hellenistic period"
-- title: The Agora (Level 3 - lower terrace)
+      caption: ''
+- title: El Ágora (Nivel 3 - terraza inferior)
   gallery_rows:
   - figures:
     - thumb: img/ancient_kameiros/ancient_kameiros_9_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_9.jpg
       alt: Specialized Private Tours Rhodes
-      caption: "<strong>The Doric Temple:</strong> Located on the third and lowest
-        terrace of the archaeological zone at the north west edge of the Fountain
-        Square. It was a poros distyle temple (having two columns in antis at the
-        front), with a pronaos, cella and opisthodomos. It was probably dedicated
-        to Pythian Apollo."
+      caption: "<strong>El Templo Dórico:</strong> Ubicado en la tercera y más baja terraza de la zona arqueológica en el extremo noroeste de la Plaza de la Fuente. Era un templo de poros de dístilo in antis (con dos columnas en la fachada), con pronaos, cella y opistódomos. Probablemente fue dedicado a Apolo Pitio."
     - thumb: img/ancient_kameiros/ancient_kameiros_10_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_10.jpg
       alt: Specialized sightseeing Tours Rhodes
-      caption: "<strong>The Hellenistic Sanctuary:</strong> Opposite Fountain Square
-        preserved a Hellenistic Sanctuary dedicated to the gods and heroes of Kamiros
-        with altars within an enclosure. This was probably the Hierothyteion of Kamiros,
-        known from inscriptions"
+      caption: "<strong>El Santuario Helenístico:</strong> Al otro lado de la Plaza de la Fuente se conserva un Santuario Helenístico dedicado a los dioses y héroes de Kamiros con altares dentro de un recinto. Este fue probablemente el Hierothyteion de Kamiros, conocido por las escrituras."
     - thumb: img/ancient_kameiros/ancient_kameiros_11_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_11.jpg
       alt: Specialized Shore Tours Rhodes
-      caption: "<strong>The Fountain Square:</strong> To the east of the temple is
-        the so called Fountain Square, a rectangular open area with a large number
-        of inscribed votive bases. The facade consists of 6 Doric half-columns faced
-        with plaster and supporting an entablature. Panels closed the intermediate
-        spaces."
+      caption: "<strong>La Plaza de la Fuente:</strong> Al este del templo se encuentra la llamada Plaza de la Fuente, un área abierta rectangular con un gran número de bases votivas inscritas. La fachada consta de 6 semicolumnas dóricas revestidas con yeso y que soportan un entablamento. Paneles cierran los espacios intermedios."
     - thumb: img/ancient_kameiros/ancient_kameiros_12_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_12.jpg
       alt: Private Specialized Tours Rhodes
-      caption: "<strong>The Fountain Square:</strong> Inside it was an open cistern
-        from which the water was drawn (mid-4th c. BC). At a later period (3rd c.
-        BC) the cistern was replaced by a well"
-- title: A Rural Society
-  desc: Contrary to Lindos, which had a great naval tradition, Kameiros was by and
-    large a rural society whose main products were olive oil, figs and wine. The need
-    to export these products was the stimulus for the creation of a major ceramics
-    industry. The town reached its greatest height in the 6th century B. C. which
-    has been determined by the pottery that was found, in addition to the fact that
-    during that same century Kameiros was the first Rhodian town to mint its own coins.
-    After 408 BC (founding year of Rhodes Town) Kamiros went into decline and it vanished
-    forever in the 2nd century AD.
-- title: Louvre Museum - Paris
-  desc: Many potteries and unique artifacts found during excavations on the Island
-    of Rhodes (from the 19th century until today) great samples of the ancient Rhodian
-    art. Most of them are now scattered in different Europeans museums such as the
-    **British Museum in London**, the **Louvre Museum in Paris**, the **National Museum
-    of Denmark** and the **National Museum in Berlin**.
+      caption: "<strong>La Plaza de la Fuente:</strong> En su interior había una cisterna abierta de la que se extraía el agua (mediados del siglo IV antes de Cristo). En un período posterior (siglo III antes de Cristo), la cisterna fue reemplazada por un pozo."
+- title: Una Sociedad Rural
+  desc: |-
+    A diferencia de Lindos, que tenía una gran tradición naval, Kamiros era en general una sociedad rural cuyos principales productos eran el aceite de oliva, los higos y el vino. La necesidad de exportar estos productos fue el estímulo para la creación de una importante industria de la cerámica. La ciudad alcanzó su mayor auge en el siglo VI antes de Cristo, que ha sido determinado por la cerámica encontrada, además del hecho de que durante ese mismo siglo Kamiros fue la primera ciudad de Rodas en acuñar sus propias monedas. Después del 408 antes de Cristo (año de fundación de la ciudad de Rodas), Kamiros entró en declive y desapareció para siempre en el siglo II de la era cristiana.
+- title: Museo de Louvre - París
+  desc: |-
+    Numerosas piezas de cerámica y artefactos únicos encontrados durante las excavaciones en la isla de Rodas (desde el siglo XIX hasta hoy) son grandes muestras del antiguo arte rodio. La mayoría de ellos están ahora dispersos en diferentes museos europeos, como el **Museo Británico de Londres**, el **Museo del Louvre en París**, el **Museo Nacional de Dinamarca** y el **Museo Nacional de Berlín**.
   gallery_rows:
   - figures:
     - thumb: img/ancient_kameiros/ancient_kameiros_13_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_13.jpg
       alt: Specialized Tours of Rhodes
-      caption: "<strong>Louvre Museum:</strong> Potteries found at Kamiros"
+      caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_15_thumb.png
       href: img/ancient_kameiros/ancient_kameiros_15.jpg
       alt: Rhodes Taxi Tours
-      caption: "<strong>Louvre Museum:</strong> Potteries found at Kamiros"
+      caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_17_thumb.png
       href: img/ancient_kameiros/ancient_kameiros_17.jpg
       alt: Rhodes Specialized excursion
-      caption: "<strong>Louvre Museum:</strong> Potteries found at Kamiros"
+      caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_14_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_14.jpg
       alt: Private Tours of Rhodes
-      caption: "<strong>Louvre Museum:</strong> Potteries found at Kamiros"
-subtitle: ''
-related_tours:
-- Rhodes West Coast-DT3
-- South West Coast Tour-DT8
-- West Coast of Rhodes-GT3
-end_page:
-  long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
-    Tour Experiences. We deliver Rhodes Special Tours at very affordable rates. All
-    our tours are fully customizable to suit your travel needs, interests, schedules,
-    and dates."
-  short_text: Experts in Rhodes Special Tours
+      caption: ''
 
 ---
