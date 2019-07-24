@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<section class="tours-page__head-photo">
+    <img src="{{- page.head_photo.src -}}" alt="{{- page.head_photo.alt -}}">
+</section>
+
+<section id="private-tours-suggestions" class="home-section private-tours-suggestions tours-page">
+
+    {%- include tours/headings.html -%}
+
+    <div class="general-info general-info--top home_section tours-page__desc">
+        <div class="container">
+            <div class="private-tours-suggestions__subtitle private-tours-suggestions__subtitle--top private-tours-suggestions__subtitle--tours-page">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+
+    <div class="container home-section__content home-section__content--tours">
+
+        <div class="private-tours-suggestions__items private-tours-suggestions__items--tours-page">
+
+            {%- include es/tours/items.html -%}
+                            
+        </div>
+
+    </div>
+
+</section>
+
+{% include es/home/sites.html %}
+
+{%- include home/not-finding.html -%}

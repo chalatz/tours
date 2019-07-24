@@ -119,8 +119,8 @@ main:
       url: './isla_rodas_grecia_viajes_privados_guia_conductor.htm'
       type: services_page
     - title: tours privados
-      url: './guided_tours.htm'
-      type: guided_tours_page
+      url: './viajes_privados_personalizados.htm'
+      type: driving_tours_page
     - title: tours para grupos
       url: './tours_para_grupos_rodas_grecia.htm'
       type: group_tours_page

@@ -2,6 +2,7 @@
 layout: tours_page
 type: driving_tours_page
 id: driving_tours
+ref: driving_tours
 permalink: rhodes_island_Greece_private_tours.htm
 has_form: false
 has_gallery: false

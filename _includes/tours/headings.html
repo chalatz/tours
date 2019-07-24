@@ -8,10 +8,12 @@
 
 <section class="container tours-page__headings tours-page__headings--{{ tour_type }}">
     <h1 class="container tours-page__heading tours-page__heading--title">
-        {{- page.title -}}
+        {{- page.title | upcase -}}
     </h1>
 
-    <h2 class="container tours-page__heading tours-page__heading--subtitle">
-        {{- page.subtitle -}}
-    </h2>
+    {%- if page.subtitle -%}
+        <h2 class="container tours-page__heading tours-page__heading--subtitle">
+            {{- page.subtitle | upcase -}}
+        </h2>
+    {%- endif -%}
 </section>
