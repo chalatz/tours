@@ -3,6 +3,7 @@ layout: page
 type: accessible_tours_page
 page_type: tours_page_alt
 id: accessible_tours_page
+ref: accessible_tours_page
 permalink: accessible_disabled.htm
 banners_below: true
 banners_2: true
@@ -10,9 +11,9 @@ has_form: false
 has_gallery: false
 meta:
   title: 'Rhodes Accessible tours for Disabled Travelers, Rhodes wheelchair access, Handicapped Tours in Rhodes'
-  http_desc: '"Rhodes Accessible tours for Disabled Travelers, Rhodes wheelchair access, Handicapped Tours in Rhodes Island Greece'
-  description: '"Rhodes Accessible tours for Disabled Travelers, Rhodes wheelchair access, Handicapped Tours in Rhodes Island Greece'
-  keywords: '"Rhodes Accessible tours for Disabled Travelers, Rhodes wheelchair access, Handicapped Tours in Rhodes Island Greece'
+  http_desc: 'Rhodes Accessible tours for Disabled Travelers, Rhodes wheelchair access, Handicapped Tours in Rhodes Island Greece'
+  description: 'Rhodes Accessible tours for Disabled Travelers, Rhodes wheelchair access, Handicapped Tours in Rhodes Island Greece'
+  keywords: 'Rhodes Accessible tours for Disabled Travelers, Rhodes wheelchair access, Handicapped Tours in Rhodes Island Greece'
   abstract: 'Rhodes Accessible tours for Disabled Travelers, Rhodes wheelchair access, Handicapped Tours in Rhodes'
   author: 'Nick'
   copyright: 'NK for Rhodes Private Tours,2018'

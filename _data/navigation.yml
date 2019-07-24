@@ -125,7 +125,7 @@ main:
       url: './tours_para_grupos_rodas_grecia.htm'
       type: group_tours_page
     - title: TOURS Accesibles
-      url: './accessible_disabled.htm'
+      url: './viajes_accesibles_discapacitados.htm'
       type: accessible_tours_page
     - title: Contacto
       type: contact_page
