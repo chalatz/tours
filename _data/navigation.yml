@@ -122,7 +122,7 @@ main:
       url: './guided_tours.htm'
       type: guided_tours_page
     - title: tours para grupos
-      url: './group_mini_bus.htm'
+      url: './tours_para_grupos_rodas_grecia.htm'
       type: group_tours_page
     - title: TOURS Accesibles
       url: './accessible_disabled.htm'
