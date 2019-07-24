@@ -1,5 +1,5 @@
 ---
-layout: pages/contact
+layout: es/pages/contact
 type: contact_page
 id: contact_page
 ref: contact_page
