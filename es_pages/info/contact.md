@@ -3,7 +3,7 @@ layout: pages/contact
 type: contact_page
 id: contact_page
 ref: contact_page
-permalink: contact_us.htm
+permalink: reservas_online_enlinea_rodas.htm
 has_form: true
 has_gallery: true
 meta:

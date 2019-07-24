@@ -2,8 +2,12 @@ en:
   code: en-US
   home_page:
     url: ./index.htm
+  contact_page:
+    url: ./contact_us.htm
 
 es:
   code: es
   home_page:
     url: ./espaniol_excursiones_privadas.htm
+  contact_page:
+    url: ./reservas_online_enlinea_rodas.htm    
