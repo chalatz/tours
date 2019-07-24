@@ -23,7 +23,6 @@ title: Coches con Conductor en Rodas Grecia
 subtitle: Conductores Disponibles
 sections:
 - title: Coches Disponibles
-  subtitle: Luxury Vehicles with a High Safety Standard
   text: |-
     Tenemos nuestra propia flota de coches Mercedes Benz.
 
