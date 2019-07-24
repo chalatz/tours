@@ -68,10 +68,5 @@ sections:
             alt: 'Rhodes Bus Tours, Mercedes Bus'
             is_link: false
           caption: ''
-not_finding:
-  keyword: Not finding?
-  title: "¿No encuentra lo que busca?"
-  subtitle: No hay problema, podemos crear un itinerario personalizado para usted.
-    ¡Cuéntenos de su tour!
-  contact_us_button_text: CONTÁCTENOS 
+
 ---

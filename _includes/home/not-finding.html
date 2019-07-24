@@ -1,13 +1,13 @@
 <section id="cta-home" class="home-section cta-home">
     <div class="container">
         <p class="cta-home__item">
-            {{- page.not_finding.title -}}
+            {{- site.data.global.not-finding[page.lang].title -}}
         </p>
         <p class="cta-home__item">
-            {{- page.not_finding.subtitle -}}
+            {{- site.data.global.not-finding[page.lang].subtitle -}}
         </p>
         <a href="./contact_us.htm" class="cta-home__button">
-            {{- page.not_finding.contact_us_button_text -}}
+            {{- site.data.global.not-finding[page.lang].contact_us_button_text -}}
         </a>
     </div>
 </section>
