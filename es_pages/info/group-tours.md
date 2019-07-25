@@ -33,7 +33,7 @@ sections:
 
       Para mayor flexibilidad, podríamos ocupar varios vehículos tipo sedan de Mercedes Benz para su grupo. Si alguien en su grupo quiere ir a nadar, o le encanta ir de compras, o necesita terminar el tour antes que los demás, podríamos cambiar los vehículos y cumplir esa agenda. Si usted tiene un adulto mayor en su grupo quién no puede lidiar con algunos sitios tan rápido como los demás, podemos seguir acompañándole mientras el resto del grupo visita otro sitio con un ritmo más veloz.
 
-  - title: SIMPLICITY      
+  - title: SIMPLICIDAD      
     text: |-
       No podría ser más fácil. Tan solo infórmenos si quiere tomar un tour estándar o si tiene una lista de cosas especiales en mente. Luego, díganos cuántas personas hay en su grupo. Modificaremos cualquier tour para atender sus necesidades, y asignaremos el mejor vehículo o flota para acomodar su tamaño de grupo y maximizar su corto tiempo en la isla.
 
