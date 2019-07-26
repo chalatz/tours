@@ -4,11 +4,12 @@ permalink: best_beaches.htm
 banners_below: true
 has_gallery: true
 id: site_best_beaches
+ref: site_best_beaches
 meta:
-  title: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece '
-  http_desc: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece '
-  description: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece '
-  keywords: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece '
+  title: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece'
+  http_desc: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece'
+  description: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece'
+  keywords: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece'
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: 'Best Beaches in Rhodes Greece '
@@ -118,7 +119,7 @@ sections:
       alt: St Paul's Bay Rhodes Greece
       is_link: true
       url: st_pauls_bay_rhodes_greece.htm
-      caption: <h3>St PAUL'S BAY </h3><span>Lies south of Lindos Acropolis. A small
+      caption: <h3>St PAUL'S BAY</h3><span>Lies south of Lindos Acropolis. A small
         sandy beach, with shallow sea water, and an attractive landscape. Here is
         where the apostle is said to have landed in the year 51 AD to preach Christianity
         to the Rhodians. From this point you can also view the cave where the film
