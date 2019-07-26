@@ -1,6 +1,6 @@
 ---
-layout: beach
-permalink: elli_beach_rhodes_greece.htm
+layout: es/beach
+permalink: elli_playa_rodas_grecia.htm
 has_gallery: true
 id: beach_site_elli
 ref: beach_site_elli
@@ -41,9 +41,6 @@ gallery_rows:
     - thumb: img/rhodes_beaches/elli_beach/elli_beach_4-thumb.jpg
       href: img/rhodes_beaches/elli_beach/elli_beach_4.jpg
       alt: Elli Beach, Tours of Rhodes Greece
-
-related_tours:
-- Beach Tour of Rhodes-DT7
 
 ---
 Described by Lawrence Durell, "Reflections on a Marine Venus" the beach of Rhodes city, as the finest beach in the whole Mediterranean . Elli lies between the Mandraki harbor, and the Aquarium, in the northern end of the town. 
