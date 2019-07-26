@@ -40,20 +40,16 @@ reviews:
     return to Rhodes and you will be highly recommended to family & friends. Thanks
     again for the tour & many many thanks to Mahir.<br>\nKind regards, Aysel  aysel.unsal@hotmail.com<br>
     \n\nThank you very much! We had a wonderful day yesterday. Michael was great showing
-    us all the places. We enjoyed it very much! <br>\nThanks, Subha (13 July)<br>\nsubha@padman.co.uk<br>\n\nNicholas
-    thank you. We had a brilliant time. We have just returned home and have wonderful
-    memories of Rhodes. Louise said Rhodes was her favourite out of all the places
-    we visited. Greetings to Dominic. He was a very informative and safe driver. <br>\nLeanne
-    (July 5th) <br>\nlcusack@aapt.net.au<br>\n\nHi Nicholas, Thank you for a truly
-    wonderful day in Rhodes.  I must state that you are the most professional and
-    considerate tour company owner/manager.  I appreciated your timely and helpful
-    responses to my questions and requested changes to our tour.  Please thank Kostas
-    and Jacob.  Kostas is absolutely terrific.  His conservations with us regarding
-    the natural beauty of the island, it’s history and just enough about current Greek
-    National issues were captivating.  His amusing “ Lookie! Lookie! (alerting us
-    to points of interest) should become legendary.  I will post this to TripAdvisor
-    to help others to find the best tour company ever, in our fairly extensive worldwide
-    traveling. <br>\nKind regards, Bill and Daria  (June 29th)<br>\ndariabill@gmail.com\n\nDominic
+    us all the places. We enjoyed it very much! <br>\nThanks, Subha (13 July)<br>\nsubha@padman.co.uk<br>\n\nHi
+    Nicholas, Thank you for a truly wonderful day in Rhodes.  I must state that you
+    are the most professional and considerate tour company owner/manager.  I appreciated
+    your timely and helpful responses to my questions and requested changes to our
+    tour.  Please thank Kostas and Jacob.  Kostas is absolutely terrific.  His conservations
+    with us regarding the natural beauty of the island, it’s history and just enough
+    about current Greek National issues were captivating.  His amusing “ Lookie! Lookie!
+    (alerting us to points of interest) should become legendary.  I will post this
+    to TripAdvisor to help others to find the best tour company ever, in our fairly
+    extensive worldwide traveling. <br>\nKind regards, Bill and Daria  (June 29th)<br>\ndariabill@gmail.com\n\nDominic
     was truly outstanding and we really enjoyed his company and wisdom. We will refer
     you to friends and to ask for Dominic. Please wish him well on the wedding of
     his son this weekend.<br>\nMark (June 25th)<br>\nmvengel@aol.com\n\nDear Nicholas,
