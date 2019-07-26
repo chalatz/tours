@@ -19,20 +19,23 @@ subtitle: We have been offering our high standard Private Tour Services since 19
   and we've been on line since 1998
 reviews:
 - year: "2019"
-  text: "Dear NICHOLAS & MICHAEL,  Thank you very much for your kind hospitality and
-    the trip was most enjoyable. I will definitely be back in the future for more
-    trips and will be sure to spread the word of your great tour experience to friends.
-    Thank you very much.<br>\nYours sincerely. E. O. ONYA  (July 24th)<br>\ndr_onya@yahoo.com\n\nThanks
-    Nicholas to you and Apostolos!!! We spent a great time in Rhodes!!!  I had  a
-    wonderful birthday!<br>\nRegards, Monica,  monicacoro@mac.com<br>\n\nWe had a
-    wonderful day in Rhodes. The island is so beautiful, we enjoyed it more than Santorini.
-    Andrew was a great tour/driver, and very pleasant to spend the day with. His knowledge
-    of Rhodes, and his insight into modern economic and social issues in Greece was
-    very informative. So much better than being on a big bus tour from the cruise
-    line.<br>\nRegards, Susan and Nate (July 22nd) <br> \nsusantgans@gmail.com\n\nDear
-    Nicholas, Thank you for our tour. We all really enjoyed it and found Kostas the
-    tour guide, very friendly and informative. Also Jakob the driver, met us and transported
-    us very happily and safely.<br>\nKind regards, Elizabeth (July 21st)<br>\nliz8222@icloud.com\n\n\nHi
+  text: "Nicholas, Our tour could not have been any better. Mike & Mike were the best!
+    \ Thanks for your follow up and for having such excellent people in your company.<br>\nRegards,
+    Mike B.<br>\nmberger1@sbcglobal.net\n\nDear NICHOLAS & MICHAEL,  Thank you very
+    much for your kind hospitality and the trip was most enjoyable. I will definitely
+    be back in the future for more trips and will be sure to spread the word of your
+    great tour experience to friends. Thank you very much.<br>\nYours sincerely. E.
+    O. ONYA  (July 24th)<br>\ndr_onya@yahoo.com\n\nThanks Nicholas to you and Apostolos!!!
+    We spent a great time in Rhodes!!!  I had  a wonderful birthday!<br>\nRegards,
+    Monica,  monicacoro@mac.com<br>\n\nWe had a wonderful day in Rhodes. The island
+    is so beautiful, we enjoyed it more than Santorini. Andrew was a great tour/driver,
+    and very pleasant to spend the day with. His knowledge of Rhodes, and his insight
+    into modern economic and social issues in Greece was very informative. So much
+    better than being on a big bus tour from the cruise line.<br>\nRegards, Susan
+    and Nate (July 22nd) <br> \nsusantgans@gmail.com\n\nDear Nicholas, Thank you for
+    our tour. We all really enjoyed it and found Kostas the tour guide, very friendly
+    and informative. Also Jakob the driver, met us and transported us very happily
+    and safely.<br>\nKind regards, Elizabeth (July 21st)<br>\nliz8222@icloud.com\n\n\nHi
     Nicholas,  Thank you so much for the tour especially teaming us up with Mahir.
     He was a great match and very helpful and informative, he knows his job and does
     it very well!  The tour itself was also perfect to really see every side of the
