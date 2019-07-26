@@ -21,12 +21,12 @@ reviews:
 - year: "2019"
   text: "Nicholas, Our tour could not have been any better. Mike & Mike were the best!
     \ Thanks for your follow up and for having such excellent people in your company.<br>\nRegards,
-    Mike B.<br>\nmberger1@sbcglobal.net\n\nDear NICHOLAS & MICHAEL,  Thank you very
-    much for your kind hospitality and the trip was most enjoyable. I will definitely
-    be back in the future for more trips and will be sure to spread the word of your
-    great tour experience to friends. Thank you very much.<br>\nYours sincerely. E.
-    O. ONYA  (July 24th)<br>\ndr_onya@yahoo.com\n\nThanks Nicholas to you and Apostolos!!!
-    We spent a great time in Rhodes!!!  I had  a wonderful birthday!<br>\nRegards,
+    Mike B. (July 26th)<br>\nmberger1@sbcglobal.net\n\nDear NICHOLAS & MICHAEL,  Thank
+    you very much for your kind hospitality and the trip was most enjoyable. I will
+    definitely be back in the future for more trips and will be sure to spread the
+    word of your great tour experience to friends. Thank you very much.<br>\nYours
+    sincerely. E. O. ONYA  (July 24th)<br>\ndr_onya@yahoo.com\n\nThanks Nicholas to
+    you and Apostolos!!! We spent a great time in Rhodes!!!  I had  a wonderful birthday!<br>\nRegards,
     Monica,  monicacoro@mac.com<br>\n\nWe had a wonderful day in Rhodes. The island
     is so beautiful, we enjoyed it more than Santorini. Andrew was a great tour/driver,
     and very pleasant to spend the day with. His knowledge of Rhodes, and his insight
