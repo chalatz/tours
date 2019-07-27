@@ -3,6 +3,7 @@ layout: beach
 permalink: best_beaches_greece_islands.htm
 has_gallery: true
 id: beach_site_stegna
+ref: beach_site_stegna
 meta:
   title: Best beaches in Greece, Islands, Stegna Beach Rhodes, Best beaches in Greek islands, beaches in Greece, islands beaches
   http_desc: Best beaches in Greece islands, Stegna Beach Rhodes, Best beaches in Greek islands, beaches in Greece, islands beaches

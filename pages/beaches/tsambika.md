@@ -3,6 +3,7 @@ layout: beach
 permalink: tsambika_beach_rhodes_greece.htm
 has_gallery: true
 id: beach_site_tsambika
+ref: beach_site_tsambika
 meta:
   title: Tsambika Beach Rhodes, The most beautiful beaches in Europe, Tsampika Beach in Rhodes Greece , Rhodes Private Tours
   http_desc: Tsambika Beach Rhodes, The most beautiful beaches in Europe, Tsampika Beach in Rhodes Greece , Rhodes Private Tours

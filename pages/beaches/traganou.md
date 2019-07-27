@@ -3,6 +3,7 @@ layout: beach
 permalink: most_beautiful_beaches_in_europe.htm
 has_gallery: true
 id: beach_site_traganou
+ref: beach_site_traganou
 meta:
   title: The most beautiful beaches in Europe Rhodes Greece , Traganou Beach , The most beautiful beach in Europe Rhodes Greece
   http_desc: The most beautiful beaches in Europe Rhodes Greece, Traganou Beach, The most beautiful beach in Europe Rhodes Greece
