@@ -1,5 +1,5 @@
 ---
-layout: beach
+layout: es/beach
 permalink: kalithea_playa_rodas_grecia.htm
 has_gallery: true
 id: beach_site_kallithea
