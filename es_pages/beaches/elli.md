@@ -5,44 +5,44 @@ has_gallery: true
 id: beach_site_elli
 ref: beach_site_elli
 meta:
-  title: Elli Beach Rhodes Greece, Elli Beach Rhodes Town
-  description: Elli Beach Rhodes, Elli Beach Rhodes Greece, Elli Beach Rhodes Town
-  http_desc: Elli Beach Rhodes, Elli Beach Rhodes Greece, Elli Beach Rhodes Town
-  keywords: Elli Beach Rhodes, Elli Beach Rhodes Greece, Elli Beach Rhodes Town
+  title: Elli, Playa de Elli Rodas Grecia, Las playas más bonitas del Rodas Grecia
+  description: Elli, Playa de Elli Rodas Grecia, Las playas más bonitas del Rodas Grecia
+  http_desc: Elli, Playa de Elli Rodas Grecia, Las playas más bonitas del Rodas Grecia
+  keywords: Elli, Playa de Elli Rodas Grecia, Las playas más bonitas del Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Elli Beach Rhodes Greece
+  abstract: Elli, Playa de Elli Rodas Grecia
 
-title: ELLI BEACH RHODES GREECE
+title: Playa de Elli (Playa Eli) Rodas Grecia
 
 info:
-  - label: Location
-    text: In Rhodes City (northern end of the town)
-  - label: Length
-    text: 400m (1320 feet)
-  - label: Beach
-    text:  Mixed with some parts of sand and some covered with pebbles
-  - label: Sea Floor
-    text: Pebbles
-  - label: Water
-    text: Excellent, no visible floating particles of any kind or algae settled on the beach
+  - label: Localización
+    text: En la ciudad de Rodas (extremo norte de la ciudad)
+  - label: Longitud
+    text: 400 metros
+  - label: Playa
+    text:  arena y guijarros
+  - label: Suelo del Mar
+    text: guijarros
+  - label: Agua
+    text: Excelente, sin partículas visibles flotantes de cualquier tipo o algas asentadas en la playa
 
 gallery_rows:
   - figures:
     - thumb: img/rhodes_beaches/elli_beach/elli_beach_1-thumb.jpg
       href: img/rhodes_beaches/elli_beach/elli_beach_1.jpg
-      alt: Elli Beach, Tours of Rhodes
+      alt: Playa de Elli, Tours of Rhodes
     - thumb: img/rhodes_beaches/elli_beach/elli_beach_2-thumb.jpg
       href: img/rhodes_beaches/elli_beach/elli_beach_2.jpg
-      alt: Elli Beach, Tours in Rhodes Greece
+      alt: Playa de Elli, Tours in Rhodes Greece
     - thumb: img/rhodes_beaches/elli_beach/elli_beach_3-thumb.jpg
       href: img/rhodes_beaches/elli_beach/elli_beach_3.jpg
-      alt: Elli Beach, Private tours in Rhodes Island
+      alt: Playa de Elli, Private tours in Rhodes Island
     - thumb: img/rhodes_beaches/elli_beach/elli_beach_4-thumb.jpg
       href: img/rhodes_beaches/elli_beach/elli_beach_4.jpg
-      alt: Elli Beach, Tours of Rhodes Greece
+      alt: Playa de Elli, Tours of Rhodes Greece
 
 ---
-Described by Lawrence Durell, "Reflections on a Marine Venus" the beach of Rhodes city, as the finest beach in the whole Mediterranean . Elli lies between the Mandraki harbor, and the Aquarium, in the northern end of the town. 
+Descrito por Lawrence Durell, **"Reflections on a Marine Venus"** como la mejor playa en el Mediterráneo. Elli se encuentra entre el puerto de Mandraki, y el Acuario, en el extremo norte de la ciudad.
 
-Despite its length and width, Elli beach is packed tightly with umbrellas and can feel very crowded in the high season, but the sea is very cool and clear. Elli Beach features lots of sun loungers, nearby restaurants, a choice of water sports and even a volleyball count on the beachfront itself, one of the most cosmopolitan beaches.
+A pesar de su longitud y anchura, la playa Elli está repleta de paraguas y puede parecer demasiado concurrida en temporada alta, pero el mar es muy fresco y claro. La playa Elli cuenta con gran cantidad de tumbonas, restaurantes cercanos, una selección de deportes acuáticos e incluso una cancha de voleibol sobre la playa misma. Es sin duda una de las playas más cosmopolitas.
