@@ -168,3 +168,40 @@ beaches:
     text: Las Mejores Playas en Rodas
     link: ./mejores_playas_grecia_rodas.htm
     id: site_best_beaches
+  items:
+  - name: Playa de Elli
+    url: ./elli_playa_rodas_grecia.htm
+    id: beach_site_elli
+  - name: Playa de Kallithea
+    url: ./kalithea_playa_rodas_grecia.htm
+    id: beach_site_kallithea
+  - name: Playa de Faliraki
+    url: ./faliraki_playa_rodas_grecia.htm
+    id: beach_site_faliraki
+  - name: La Bahía de Anthony Quinn
+    url: ./bahia_de_anthony_quinn_rodas_grecia.htm
+    id: beach_site_anthony_quinn
+  - name: Playa de traganou
+    url: ./traganou_playa_rodas_grecia.htm
+    id: beach_site_traganou
+  - name: Playa de Tsambika (Tsampika)
+    url: ./tsambika_playa_rodas_grecia.htm
+    id: beach_site_tsambika
+  - name: Playa de Stegná
+    url: ./stegna_playa_archangelos_rodas.htm
+    id: beach_site_stegna
+  - name: Playa de HARAKI
+    url: ./haraki_playa_rodas_grecia.htm
+    id: beach_site_haraki
+  - name: Playa de LINDOS
+    url: ./lindos_playa_rodas_grecia.htm
+    id: beach_site_lindos
+  - name: Playa de San Pablo
+    url: ./bahia_de_san_pablo_rodas_grecia.htm
+    id: beach_site_st_pauls
+  - name: Playa de IXIA
+    url: ./ixia_playa_rodas_grecia.htm
+    id: beach_site_ixia
+  - name: Playa de IALYSSOS (IALISSOS)
+    url: ./ialyssos_playa_rodas_grecia.htm
+    id: beach_site_ialyssos
