@@ -3,6 +3,7 @@ layout: beach
 permalink: kalithea_beach_rhodes_greece.htm
 has_gallery: true
 id: beach_site_kallithea
+ref: beach_site_kallithea
 meta:
   title: Kallithea Beach Rhodes, Kalithea Beach in Rhodes Greece, The most beautiful beaches in Greece, Rhodes Private Tours
   description: Kallithea Beach Rhodes, Kalithea Beach in Rhodes Greece, The most beautiful beaches in Greece, Rhodes Private Tours
