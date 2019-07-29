@@ -3,6 +3,7 @@ layout: beach
 permalink: faliraki_beach_rhodes_greece.htm
 has_gallery: true
 id: beach_site_faliraki
+ref: beach_site_faliraki
 meta:
   title: Faliraki Beach Rhodes, Faliraki the most beautiful beaches in Greece Rhodes, Greece Rhodes Private Tours
   http_desc: Faliraki Beach Rhodes, Faliraki the most beautiful beaches in Greece Rhodes, Greece Rhodes Private Tours

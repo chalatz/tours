@@ -3,6 +3,7 @@ layout: beach
 permalink: ixia_beach_rhodes_greece.htm
 has_gallery: true
 id: beach_site_ixia
+ref: beach_site_ixia
 meta:
   title: Ixia Beach Rhodes, Ixia Beach in Rhodes Greece , Rhodes Private Tours
   http_desc: Ixia Beach Rhodes, Ixia Beach in Rhodes Greece , Rhodes Private Tours

@@ -3,6 +3,7 @@ layout: beach
 permalink: lindos_beach_rhodes_greece.htm
 has_gallery: true
 id: beach_site_lindos
+ref: beach_site_lindos
 meta:
   title: Lindos Beach Rhodes, Lindos Beach in Rhodes Greece , Rhodes Private Tours
   http_desc: Lindos Beach Rhodes, Lindos Beach in Rhodes Greece , Rhodes Private Tours

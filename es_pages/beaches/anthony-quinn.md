@@ -1,6 +1,6 @@
 ---
-layout: beach
-permalink: anthony_quinn_bay_rhodes_greece.htm
+layout: es/beach
+permalink: bahia_de_anthony_quinn_rodas_grecia.htm
 has_gallery: true
 id: beach_site_anthony_quinn
 ref: beach_site_anthony_quinn
@@ -13,21 +13,19 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 
-title: ANTHONY QUINN BEACH
-
-subtitle: ANTHONY QUINN BAY RHODES GREECE
+title: La Bahía de Anthony Quinn Rodas Grecia
 
 info:
-  - label: Location
-    text: 15 Km (9,32 miles) from Rhodes Town on the East Coast
-  - label: Length
-    text: A small bay
-  - label: Beach
-    text: Pebble
-  - label: Sea Floor
-    text: Pebble and rocks
-  - label: Water
-    text: Crystal clear
+  - label: Localización
+    text: a 15 Kms. (9,32 millas) de la ciudad de Rodas en la Costa Este
+  - label: Longitud
+    text: bahía pequeña
+  - label: Playa
+    text:  guijarros
+  - label: Suelo del Mar
+    text: guijarros y rocas
+  - label: Agua
+    text: Cristalina
 
 gallery_rows:
   - figures:
@@ -44,8 +42,5 @@ gallery_rows:
       href: img/rhodes_beaches/anthony_quinn_beach/anthony_quinn_4.jpg
       alt: Rhodes Anthony Quinn Beach, Tours in Rhodes
 
-related_tours:
-- Beach Tour of Rhodes-DT7
-
 ---
-Takes its name from the famous Hollywood actor, who owns a large property in this area. (Since filming the Guns of Navarone here). There's a charge for sun beds and parasols. Italians frequent this tiny bay. Ideal for diving and snorkeling. The beach tends to get very crowded in the high season.
+Toma su nombre del famoso actor de Hollywood, que posee una gran propiedad en esta área. (Desde la filmación de la película “Cañones de Navarone” aquí). Hay un costo por tumbonas y sombrillas. Los italianos frecuentan la pequeña bahía. Ideal para el buceo. La playa tiende a ser muy concurrida en temporada alta.

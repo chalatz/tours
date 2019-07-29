@@ -3,6 +3,7 @@ layout: beach
 permalink: elli_beach_rhodes_greece.htm
 has_gallery: true
 id: beach_site_elli
+ref: beach_site_elli
 meta:
   title: Elli Beach Rhodes Greece, Elli Beach Rhodes Town
   description: Elli Beach Rhodes, Elli Beach Rhodes Greece, Elli Beach Rhodes Town
