@@ -3,6 +3,7 @@ layout: beach
 permalink: haraki_beach_rhodes_greece.htm
 has_gallery: true
 id: beach_site_haraki
+ref: beach_site_haraki
 meta:
   title: Haraki Beach Rhodes, Haraki Charaki Beach in Rhodes Greece , Rhodes Private Tours
   http_desc: Haraki Beach Rhodes, Haraki Charaki Beach in Rhodes Greece , Rhodes Private Tours

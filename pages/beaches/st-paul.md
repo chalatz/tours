@@ -3,6 +3,7 @@ layout: beach
 permalink: st_pauls_bay_rhodes_greece.htm
 has_gallery: true
 id: beach_site_st_pauls
+ref: beach_site_st_pauls
 meta:
   title: "St. Paul's Bay Rhodes Beach , St. Paul's Bay in Rhodes Lindos Greece , Rhodes Private Tours"
   http_desc: "St. Paul's Bay Rhodes Beach , St. Paul's Bay in Rhodes Lindos Greece , Rhodes Private Tours"

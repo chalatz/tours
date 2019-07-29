@@ -190,18 +190,18 @@ beaches:
   - name: Playa de Stegná
     url: ./stegna_playa_archangelos_rodas.htm
     id: beach_site_stegna
-  - name: Playa de HARAKI
+  - name: Playa de Haraki
     url: ./haraki_playa_rodas_grecia.htm
     id: beach_site_haraki
-  - name: Playa de LINDOS
+  - name: Playa de Lindos
     url: ./lindos_playa_rodas_grecia.htm
     id: beach_site_lindos
   - name: Playa de San Pablo
     url: ./bahia_de_san_pablo_rodas_grecia.htm
     id: beach_site_st_pauls
-  - name: Playa de IXIA
+  - name: Playa de Ixia
     url: ./ixia_playa_rodas_grecia.htm
     id: beach_site_ixia
-  - name: Playa de IALYSSOS (IALISSOS)
+  - name: Playa de Ialyssos (Ialissos)
     url: ./ialyssos_playa_rodas_grecia.htm
     id: beach_site_ialyssos
