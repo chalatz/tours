@@ -3,6 +3,7 @@ layout: beach
 permalink: ialyssos_beach_rhodes_greece.htm
 has_gallery: true
 id: beach_site_ialyssos
+ref: beach_site_ialyssos
 meta:
   title: Ialyssos Beach Rhodes, Ialyssos Beach in Rhodes Greece , Rhodes Private Tours
   http_desc: Ialyssos Beach Rhodes, Trianta,  Ialysos Beach, Ialisos Beach, Ialissos Beach in Rhodes Greece, Rhodes Private Tours
