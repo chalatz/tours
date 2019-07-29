@@ -41,8 +41,6 @@ gallery_rows:
     - thumb: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_4-thumb.jpg
       href: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_4.jpg
       alt: Greece Rhodes Ialyssos Beach, Shore excursions in Rhodes
-related_tours:
-- Beach Tour of Rhodes-DT7
 
 ---
 Al igual que en Ixia, las playas de los hoteles se alternan con organizadas playas públicas, utilizadas principalmente por los visitantes de los hoteles locales. Es un lugar ideal para los amantes de la natación, y para los surfistas puesto que a menudo hay un viento favorable. Dispone de tumbonas y sombrillas y también hay vestuarios y duchas.
