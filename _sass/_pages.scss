@@ -86,17 +86,17 @@
     }
 
     &__carousel-item {
-        img {
-            width: 100%;
-        }
+        // img {
+        //     width: 100%;
+        // }
         width: 100%;
-        @include breakpoint(medium) {
-            width: 50%;
-            margin-right: 10px;
-        }
-        @include breakpoint(large) {
-            width: 25%;
-        }
+        // @include breakpoint(medium) {
+        //     width: 50%;
+        //     margin-right: 10px;
+        // }
+        // @include breakpoint(large) {
+        //     width: 25%;
+        // }
 
     }
 

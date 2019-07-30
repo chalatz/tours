@@ -27,21 +27,17 @@
 {% endif %}
 
 {% if page.has_carousel == true %}
-    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script>
         (function($){
-            var $carousel = $('.reviews-comments__carousel');
-            $carousel.on( 'ready.flickity', function() {
-                $('.reviews-comments__carousel-item').removeClass('hidden');
-            });
-            $carousel.flickity({
-                // options
-                wrapAround: true,
-                autoPlay: 3000,
-                pageDots: false,
-                cellAlign: 'left',
-                contain: true
-            });
+            $('.reviews-comments__carousel').slick({
+                infinite: true,
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                autoplay: true,
+                autoplaySpeed: 3000,
+                mobileFirst: true
+            }); 
         })(jQuery);
     </script>
 {% endif %}
