@@ -6,6 +6,7 @@ permalink: testimonials.htm
 banners_below: true
 has_form: false
 has_gallery: false
+has_carousel: true
 meta:
   title: Reviews, Rhodes Private Tours Reviews
   http_desc: Reviews, Rhodes Private Tours Reviews
@@ -16,7 +17,8 @@ meta:
   copyright: NK for Rhodes Private Tours,2018
 title: Reviews, Comments and Testimonials of our Clients
 subtitle: We have been offering our high standard Private Tour Services since 1984
-  and we've been on line since 1998
+  and we've been online since 1998
+subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2019"
   text: "Nicholas, Our tour could not have been any better. Mike & Mike were the best!
