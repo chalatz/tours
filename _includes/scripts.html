@@ -26,6 +26,24 @@
     {%- endif -%}
 {% endif %}
 
+{%- if page.has_carousel == true -%}
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script>
+        var $carousel = $('.reviews-comments__carousel');
+        $carousel.on( 'ready.flickity', function() {
+            $('.reviews-comments__carousel-item').removeClass('hidden');
+        });
+        $carousel.flickity({
+            // options
+            wrapAround: true,
+            autoPlay: 3000,
+            pageDots: false,
+            cellAlign: 'left',
+            contain: true
+        });
+    </script>
+{%- endif -%}
+
 <!--build:js js/scripts.min.js -->
 <script src="./js/scripts.js"></script>
 <!-- endbuild -->
