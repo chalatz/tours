@@ -416,7 +416,7 @@ reviews:
 
     My organisation booked a Knights of St John tour in Rhodes for October 2018. The booking process was very easy and communication on tour content was fantastic. The guide for our day, Liana, was so warm, friendly, knowledgeable and generous with our group. The tour was organised impeccably and Rhodes Private tours clearly were eager to ensure that the tour contained everything our organisation was wanting to see. They checked with us constantly that we were happy and they altered and added things on the go if we showed interest in certain areas over others. We were all blown away by the knowledge and professionalism of our guide and on a personal note, we all warmed to Liana so much- she really brought heart and soul to the tour, helping us to understand culture, and an element of spiritual belief of the area as well as throughout history. We all highly recommend Rhodes Private Tours and Liana as a perfect Rhodes guide. Thank you.<br>
     Belinda (14th Oct)<br>
-    Belinda.Thorne@stjohnambulance.com.au
+    <span class="break">Belinda.Thorne@stjohnambulance.com.au</span>
 
     From the first email to our good byes, our experience was one of the most memorable we have ever had. Nicholas responded quickly and we tailored a personal itinerary that included a tour of the entire island. Stergos, our guide, was simply wonderful, knowledgeable, and flexible. Traveling across the mountains we stopped and picked some of the grapes that were being harvested! We stopped at a family owned ceramic shop to visit with the owner and his family, and we saw him making the pottery! We stopped for lunch at a small seaside restaurant, Argos, for a simply delicious seafood delight. We visited a winery and sampled wines. We traveled roads the busses cannot, and saw intimate and serene coves and beaches. The trip was ours, we could modify it as we went along. We even booked a list minute trip to the valley of the butterflies. Nicholas called to make sure our trip was going well, and further checked in with is during our two weeks in Rhodes. Would highly recommend Nicholas and his team. Next year we will be in Rhodes, cruise stop for a day, and will definitely make arrangements to tour with them! Thank you Nicholas and team for a memorable trip to Rhodes.<br>
     Chrisanthy and James<br>
@@ -2061,7 +2061,7 @@ reviews:
     Hi Nicholas, Thank you for the excellent service. It was great meeting you. I will be sure to let you know when I will be back in Rhodes! Have a great holiday.<br>
     Best,<br>
     Michael Chinnici<br>
-    michael@photoworkshopadventures.com
+    <span class="break">michael@photoworkshopadventures.com</span>
 
     Nicholas, Thank you the tour was wonderful! We are still jet-lagged, but we will be posting a positive review on Trip Advisor as soon as we gather our wits!<br>
     Eileen<br>
@@ -3336,7 +3336,7 @@ reviews:
     especially appreciated the private dining experience on the peninsula as well
     as your amazing maneuvers to get us dropped off and picked up to see a special
     site in crazy traffic! We all choose YOU every time we visit Rhodes! You rock
-    ;-)<br>\nRebecca Thompson<br>\nrthompsonokc@gmail.com<br>\nwww.rebeccathompson.cabionline.com\n\nThanks,
+    ;-)<br>\nRebecca Thompson<br>\nrthompsonokc@gmail.com<br>\n<span class='break'>www.rebeccathompson.cabionline.com</span>\n\nThanks,
     Nicholas. We really enjoyed our time in Rhodes. We would love to come back someday
     and stay for a longer time. Thanks so much for the great time that your drivers
     showed us during our stay. We will be sure and recommend you to any of our friends
@@ -3651,7 +3651,7 @@ reviews:
     Jim and Jan Savage<br>
     JanSavage@aol.com
 
-    Dear Nicholas, We talk about you and your beautiful home everyday. Jeff has started his sophomore year of school and likes it. I hope your children enjoyed their summer. It goes by so quickly. Enjoy the attached picture. Keep up to date with Jeff's charitable giving and painting on his web site. http://www.artistjeffhanson.blogspot.com/<br>
+    Dear Nicholas, We talk about you and your beautiful home everyday. Jeff has started his sophomore year of school and likes it. I hope your children enjoyed their summer. It goes by so quickly. Enjoy the attached picture. Keep up to date with Jeff's charitable giving and painting on his web site. <span class="break">http://www.artistjeffhanson.blogspot.com/</span><br>
     Keep in touch.<br>
     Love from Kansas, USA,<br>
     Julie, Hal and Jeff Hanson<br>
@@ -3735,7 +3735,7 @@ reviews:
     Nick, just wanted to thank you for the wonderful time you showed us on our visit to your beautiful island and the wonderful restaurant you took us to. I look forward to recommending you to my clients heading for Rhodes and hope to return someday in the future. Thank you again for the out of this world pastries from your cousins shop, simple the best (May 21st)<br>
     Jacquie Peticolas<br>
     Personal Vacation Planner<br>
-    Jacquie.Peticolas@AmericasVacationCenter.com
+    <span class="break">Jacquie.Peticolas@AmericasVacationCenter.com</span>
 
     Dear Nick, we are back in Canada now. We arrived back yesterday after our cruise and a wonderful week in England. We do want to thank you and Michael our driver for making our visit to Rhodes so great. With 12000 people there that day we would have been lost without your help. We will definitely give your name to anyone we hear is visiting Rhodes. (May 21st)<br>
     Thanks again.<br>
@@ -4678,7 +4678,7 @@ reviews:
 - year: "1998"
   text: |-
     Hi Nick.   Just thought you would like to know that I have included your name and email on the Net so that everyone can have the wonderful experience we had with you. Here is a portion of my "review" of our cruise that I just uploaded:  Rhodes...TIPS: Yes, you can take a tour of Lindos, which is a small town with two beautiful harbors .....We took this "tour" with a wonderful driver named Nicholas. He was funny, knew everything about the island and showed us the sights in an air-conditioned Mercedes.<br>
-    You can email him or look at his own web site: oasis.fortunecity.com/paradise/306/history.htm.<br>
+    You can email him or look at his own web site: <span class="break">oasis.fortunecity.com/paradise/306/history.htm.</span><br>
     <<He was one of the highlights of the cruise.>> I have now looked at your web site--nice work!<br>
     Thanks again for making our trip so wonderful!<br>
     Rusty<br>
