@@ -4678,8 +4678,7 @@ reviews:
 - year: "1998"
   text: |-
     Hi Nick.   Just thought you would like to know that I have included your name and email on the Net so that everyone can have the wonderful experience we had with you. Here is a portion of my "review" of our cruise that I just uploaded:  Rhodes...TIPS: Yes, you can take a tour of Lindos, which is a small town with two beautiful harbors .....We took this "tour" with a wonderful driver named Nicholas. He was funny, knew everything about the island and showed us the sights in an air-conditioned Mercedes.<br>
-    You can email him or look at his own web site: <span class="break">oasis.fortunecity.com/paradise/306/history.htm.</span><br>
-    <<He was one of the highlights of the cruise.>> I have now looked at your web site--nice work!<br>
+    He was one of the highlights of the cruise. I have now looked at your web site--nice work!<br>
     Thanks again for making our trip so wonderful!<br>
     Rusty<br>
     znr123@aol.com
