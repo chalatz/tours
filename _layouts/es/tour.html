@@ -1,0 +1,231 @@
+---
+layout: default
+---
+
+{%- if page.is_of == 'driven_tours' -%}
+    {%- assign the_type = 'driving' -%}
+{%- elsif page.is_of == 'guided_tours' -%}
+    {%- assign the_type = 'guided' -%}
+{%- elsif page.is_of == 'walking_tours' -%}
+    {%- assign the_type = 'walking' -%}
+{%- endif -%}
+
+<main class="tour">
+
+    <header class="tour_header section container">
+        <h1 class="tour__heading tour__heading--{{ the_type }}">
+            {{- page.tour.title -}}
+        </h1>
+        <p class="tour__summary tour__summary--tour">
+            {{- page.tour.summary -}}
+        </p>
+        {% for paragraph in page.summary.paragraphs %}
+            <p class="tour__summary">
+                {{- paragraph -}}
+            </p>
+        {% endfor %}        
+    </header>
+
+    {%- assign overview_items_size = page.overview.items | size -%}
+    {%- if page.overview and overview_items_size > 0 -%}
+        <section class="section container">
+            <h3 class="tour__h3">
+                {%- include helpers/check_empty_string.html the_string = page.tour.duration -%}
+                Resumen del Tour Privado {% if page.tour.duration and string_not_empty %}- {{ page.tour.duration }} {% endif %}
+            </h3>
+
+            <ul class="tour__overview-list">
+                {% for item in page.overview.items %}
+                    <li class="tour__overview-item{% if item.classes %} {{ item.classes }}{% endif %}">
+                        {{- item.title -}}
+                    </li>
+                {% endfor %}
+            </ul>
+        </section>
+    {%- endif -%}
+
+    {%- if page.gallery.group_1 -%}
+        <section class="section container">
+            {% include partials/tour-gallery.html gallery = page.gallery.group_1 %}
+        </section>
+    {%- endif -%}
+
+    {%- if page.details -%}
+        <section class="section container">
+            <h3 class="tour__h3">
+                Detalles del Tour Privado
+            </h3>
+
+            <div class="tour__content-wrapper">
+
+                <div class="tour__read-more">
+                    <span class="tour__read-more--content">
+                        <span class="text">Read</span> Details <i class="tour__read-more-arrow-icon icon fas fa-angle-down"></i>
+                    </span>
+                </div>
+
+                <div class="tour__content collapsible">
+                    {% for item in page.details.items %}
+                        <p><strong>{{ item.title }}</strong> {{ item.desc }}</p>                    
+                    {% endfor %}
+                </div>
+
+            </div>
+        </section>
+    {%- endif -%}
+
+    {%- if page.gallery.group_2 -%}
+        <section class="section container">
+            {% include partials/tour-gallery.html gallery = page.gallery.group_2 %}
+        </section>
+    {%- endif -%}
+
+    {%- assign has_description = false -%}
+
+    {%- if page.body -%}
+        {%- assign has_description = true -%}
+    {%- endif -%}
+
+    {%- include helpers/check_empty_string.html the_string = page.content -%}
+    {%- if string_not_empty  -%}
+        {%- assign has_description = true -%}
+    {%- endif -%}
+
+    {%- if has_description == true -%}        
+        <section class="section container">
+
+            <h3 class="tour__h3">
+                Descripción del Tour Privado: 
+            </h3>
+
+            <div class="tour__content-wrapper">
+
+                <div class="tour__read-more">
+                    <span class="tour__read-more--content">
+                        <span class="text">Read</span> Description <i class="tour__read-more-arrow-icon icon fas fa-angle-down"></i>
+                    </span>
+                </div>
+
+                <div class="tour__content collapsible">
+
+                    {%- if page.body -%}
+                        {%- for item in page.body -%}
+                            {%- if item.text -%}
+                                {{ item.text | markdownify }}   
+                            {%- endif -%}
+                            {%- if item.gallery -%}
+                                {% include partials/tour-gallery.html gallery = item.gallery %}
+                            {%- endif -%}
+                        {%- endfor -%}
+                    {%- endif -%}
+
+                    {{ content }}
+                </div>
+
+            </div>
+
+        </section>
+    {%- endif -%}
+
+    {%- if page.gallery.group_3 -%}
+        <section class="section container">
+            {% include partials/tour-gallery.html gallery = page.gallery.group_3 %}
+        </section>
+    {%- endif -%}
+
+    {%- if page.faq -%}
+        <section class="section container">
+            <h3 class="tour__h3">
+                Preguntas Frecuentes
+            </h3>
+
+            <div class="tour__content-wrapper">
+
+                <div class="tour__read-more">
+                    <span class="tour__read-more--content">
+                        <span class="text">Read</span> FAQ <i class="tour__read-more-arrow-icon icon fas fa-angle-down"></i>
+                    </span>
+                </div>
+
+                <div class="tour__content faq collapsible">
+                    {% for item in page.faq.items %}
+                        <div class="faq__item">
+                            <p class="faq__q"><span class="faq__icon">+</span> <span class="faq__q-text">P: {{ item.q }}</p>
+                            <p class="faq__a"><strong>R:</strong> {{ item.a }}</p>
+                        </div>
+                    {% endfor %}
+
+                    <p>
+                        <a href="./faq.htm">Más preguntas frecuentes</a>
+                    </p>
+
+                </div>
+
+            </div>
+        </section>
+    {%- endif -%}
+
+
+    <section class="section container">
+        <h3 class="tour__h3">
+            ¿Que Está Incluido?
+        </h3>
+
+        <ul class="tour__overview-list">
+            {% for item in page.included.items %}
+                <li class="tour__overview-item">
+                    {{ item.text }}
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+
+    <section class="section container">
+        <h3 class="tour__h3">
+            ¿Qué No Está Incluido?
+        </h3>
+
+        <ul class="tour__overview-list">
+            {% for item in page.not_included.items %}
+                <li class="tour__overview-item">
+                    {{ item.text }}
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+
+    <section class="section container tour__cta-links">
+        <a href="./testimonials.htm" class="tour__cta-link">
+            {{- 'Opiniones y Comentarios de Nuestros Clientes' | upcase -}}
+        </a>
+    </section>
+
+
+    {% include es/partials/tour-form.html %}
+
+    <div class="preload">
+        {%- assign group_1_size = page.gallery.group_1 | size -%}
+        {%- assign group_2_size = page.gallery.group_2 | size -%}
+        {%- assign group_3_size = page.gallery.group_3 | size -%}
+        {%- if group_1_size > 0 -%}
+            {%- include partials/preload_tour.html the_gallery = page.gallery.group_1 -%}
+        {%- endif -%}
+        {%- if group_2_size > 0 -%}
+            {%- include partials/preload_tour.html the_gallery = page.gallery.group_2 -%}
+        {%- endif -%}
+        {%- if group_3_size > 0 -%}
+            {%- include partials/preload_tour.html the_gallery = page.gallery.group_3 -%}
+        {%- endif -%}        
+
+        {%- if page.body -%}
+            {%- for item in page.body -%}
+                {%- if item.gallery -%}
+                    {% include partials/preload_tour.html the_gallery = item.gallery %}
+                {%- endif -%}
+            {%- endfor -%}
+        {%- endif -%}
+    </div>
+
+</main>
+
+{%- include privacy-policy.html -%}

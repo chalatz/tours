@@ -3,7 +3,7 @@ items:
     desc: 'Ideal para pasajeros de cruceros y visitantes por primera vez.'
     long_desc: 'Éste es una excursión privada de medio día que incluye los principales sitios de la ciudad Medieval de Rodas (ciudad patrimonio universal), la ciudad Nueva, la acrópolis de Rodas, y la acrópolis de Lindos a 50 kms (35 millas) de la ciudad de Rodas.'
     notes: 'Época sugerida para esta excursión: todo el año..'
-    url: ./best_of_rhodes_tours_greece.htm
+    url: ./Mejor_de_Rodas_grecia.htm
     img: './img/tours-suggestions/DT1.jpg' 
     duration: 'Duración: 5:00 horas'
     long_duration: 'Duración: Aproximadamente 5:00 horas'
@@ -47,7 +47,7 @@ items:
     desc: 'This tour is addressed mostly to the selective wine tasters, but not exclusively'
     long_desc: "Éste es un recorrido personalizado que incluye los principales productores de vino de la isla, y bodegas vinícolas tradicionales de pequeños productores locales. En esta ruta del vino usted tendrá la oportunidad de probar una selección de vinos tintos, vinos blancos y vinos espumosos."
     notes: 'Suggested time for this tour: May to end of September'
-    url: ./rhodes_wine_tours_wineries_greece.htm
+    url: ./ruta_vinos_griegos_bodegas_grecia.htm
     img: './img/tours-suggestions/DT5.jpg' 
     duration: 'Duration: 6:00 hours'
     long_duration: 'Aproximadamente 6:00 horas'
