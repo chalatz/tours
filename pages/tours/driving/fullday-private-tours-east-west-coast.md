@@ -2,6 +2,7 @@
 layout: tour
 type: driving_tours_page
 id: fullday
+ref: fullday
 permalink: fullday_private_tours_east_west_coast.htm
 has_form: true
 has_gallery: true
