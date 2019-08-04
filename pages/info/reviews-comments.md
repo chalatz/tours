@@ -29,7 +29,7 @@ reviews:
     to see you again upon returning to Rhodes. Highly recommended!!!<br>\nMark  (Aug
     1st)  williammarkhastings@yahoo.com\n\nHello, Thank you for planning for us a
     wonderful day. Everything went very well and our driver was very nice and very
-    knowledgeable.  We really enjoyed it<br>\nThank you, Josee (July 27th) jmorin17@hotmail.com\n\nNicholas,
+    knowledgeable.  We really enjoyed it.  Thank you, Josee (July 27th) jmorin17@hotmail.com\n\nNicholas,
     Our tour could not have been any better. Mike & Mike were the best!  Thanks for
     your follow up and for having such excellent people in your company.  Regards,
     Mike B. (July 26th)<br>\nmberger1@sbcglobal.net\n\nDear NICHOLAS & MICHAEL,  Thank
