@@ -55,5 +55,7 @@ items:
     more_answers:
       - '<strong>En el hotel:</strong> Nos encontraremos con usted en el hotel, justo afuera del lobby con un cartel en el vehículo que muestra su nombre.'
       - '<strong>En el aeropuerto:</strong>  Nos encontraremos en la puerta principal con un cartel que muestra su nombre.'
-
+  - q:  ¿Debo dar también una propina al conductor o al guía turístico?
+    a: Dar una propina o no a su conductor o guía turístico es totalmente opcional.
+    
 ---
