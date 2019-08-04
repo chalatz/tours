@@ -2,18 +2,10 @@
 layout: default
 ---
 
-{%- if page.is_of == 'driven_tours' -%}
-    {%- assign the_type = 'driving' -%}
-{%- elsif page.is_of == 'guided_tours' -%}
-    {%- assign the_type = 'guided' -%}
-{%- elsif page.is_of == 'walking_tours' -%}
-    {%- assign the_type = 'walking' -%}
-{%- endif -%}
-
 <main class="tour">
 
     <header class="tour_header section container">
-        <h1 class="tour__heading tour__heading--{{ the_type }}">
+        <h1 class="tour__heading tour__heading--driving">
             {{- page.tour.title -}}
         </h1>
         <p class="tour__summary tour__summary--tour">
@@ -195,6 +187,9 @@ layout: default
     </section>
 
     <section class="section container tour__cta-links">
+        <a href="./razones-para-reservar-con-nosotros.htm" class="tour__cta-link">
+            {{- '10 RAZONES PARA RESERVAR CON NOSOTROS' | upcase -}}
+        </a>
         <a href="./testimonials.htm" class="tour__cta-link">
             {{- 'Opiniones y Comentarios de Nuestros Clientes' | upcase -}}
         </a>
