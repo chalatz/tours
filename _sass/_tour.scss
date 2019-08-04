@@ -1,5 +1,13 @@
 .tour {
 
+    &__content,
+    &__overview-list {
+        a:visited {
+            color: rgb(0,0,238);
+        }
+    }
+
+
     &__heading {
         text-align: center;
         color: $darkishblue;

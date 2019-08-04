@@ -2,6 +2,7 @@
 layout: tour
 type: driving_tours_page
 id: best_of_rhodes
+ref: best_of_rhodes
 permalink: best_of_rhodes_tours_greece.htm
 has_form: true
 has_gallery: true

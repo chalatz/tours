@@ -2,6 +2,7 @@
 layout: pages/faq
 type: plain_page
 id: faq_page
+ref: faq_page
 permalink: faq.htm
 banners_below: true
 has_form: false
