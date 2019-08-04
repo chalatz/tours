@@ -1,5 +1,5 @@
 ---
-layout: plain-page
+layout: es/plain-page
 ---
 
 <main class="container page faq-page">
@@ -17,10 +17,10 @@ layout: plain-page
         {%- for item in page.items -%}
           <li class="faq-page__item">
             <div class="faq-page__question">
-              Q: {{ item.q }}
+              P: {{ item.q }}
             </div>
             <div class="faq-page__answer">
-              <strong>A:</strong> {{ item.a }}
+              <strong>R:</strong> {{ item.a }}
             </div>
             {%- assign more_ans_size = item.more_answers | size -%}
             {%- if more_ans_size > 0 -%}
@@ -32,7 +32,12 @@ layout: plain-page
             {%- endif -%}
           </li>
         {%- endfor -%}
-      </ul>
+    </ul>
+
+    <p class="centered">
+      <strong>Que ver y que hacer en Rodas Grecia</strong>
+    </p>
+
   </section>
 
 </main>
