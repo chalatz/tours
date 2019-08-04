@@ -1,15 +1,4 @@
-{%- if page.id == 'driving_tours' -%}
-    {%- assign the_tours = site.data.es.driving_tours.items -%}
-    {%- assign tour_type = 'driving' -%}
-{%- elsif page.id == 'guided_tours' -%}
-    {%- assign the_tours = site.data.es.guided_tours.items -%}
-    {%- assign tour_type = 'guided' -%}
-{%- elsif page.id == 'walking_tours' -%}
-    {%- assign the_tours = site.data.es.walking_tours.items -%}
-    {%- assign tour_type = 'walking' -%}
-{%- endif -%}
-
-{%- for tour in the_tours -%}
+{%- for tour in site.data.es.driving_tours.items -%}
     <div class="private-tours-suggestions__item">
         
         <a class="private-tours-suggestions__img-link" href="{{- tour.url -}}">

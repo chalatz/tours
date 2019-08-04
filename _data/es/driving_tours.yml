@@ -28,7 +28,7 @@ items:
     url: ./excursion_privada_de_medio_dia.htm
     img: './img/tours-suggestions/DT3.jpg' 
     duration: 'Duración: 5:30 horas'
-    long_duration: 'Aproximadamente 5:30 horas'
+    long_duration: 'Duración: Aproximadamente 5:30 horas'
     id: west_coast
     home_page: true
 
@@ -46,11 +46,11 @@ items:
   - name: 'RODAS, LA RUTA DEL VINO'
     desc: 'This tour is addressed mostly to the selective wine tasters, but not exclusively'
     long_desc: "Éste es un recorrido personalizado que incluye los principales productores de vino de la isla, y bodegas vinícolas tradicionales de pequeños productores locales. En esta ruta del vino usted tendrá la oportunidad de probar una selección de vinos tintos, vinos blancos y vinos espumosos."
-    notes: 'Suggested time for this tour: May to end of September'
+    notes: 'Época sugerida para esta excursión: mayo de mediados de octubre'
     url: ./ruta_vinos_griegos_bodegas_grecia.htm
     img: './img/tours-suggestions/DT5.jpg' 
     duration: 'Duración: 6:00 horas'
-    long_duration: 'Aproximadamente 6:00 horas'
+    long_duration: 'Duración: Aproximadamente 6:00 horas'
     id: wine_tours
     home_page: false
     home_page_teaser:
@@ -65,7 +65,7 @@ items:
     url: ./kids_tours_fun_children.htm
     img: './img/tours-suggestions/DT6.jpg' 
     duration: 'Duración: 4:30 horas'
-    long_duration: 'Aproximadamente 4:30 horas'
+    long_duration: 'Duración: Aproximadamente 4:30 horas'
     id: kids_tours
     home_page: false
     home_page_teaser:
