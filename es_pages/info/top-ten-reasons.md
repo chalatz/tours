@@ -7,11 +7,11 @@ permalink: razones-para-reservar-con-nosotros.htm
 has_form: false
 has_gallery: false
 meta:
-  title: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
-  http_desc: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
-  description: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
-  keywords: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
-  abstract: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
+  title: 10 Razones Para Reservar con Nosotros, Rhodes Private Tours
+  http_desc: 10 Razones Para Reservar con Nosotros, Rhodes Private Tours
+  description: 10 Razones Para Reservar con Nosotros, Rhodes Private Tours
+  keywords: 10 Razones Para Reservar con Nosotros, Rhodes Private Tours
+  abstract: 10 Razones Para Reservar con Nosotros, Rhodes Private Tours
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
   
