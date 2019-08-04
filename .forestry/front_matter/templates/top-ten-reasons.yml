@@ -82,5 +82,5 @@ fields:
         label: Keywords
     label: List of reasons
 pages:
-- pages/quick-facts/top-10-reasons.md
 - es_pages/quick-facts/top-10-reasons.md
+- pages/quick-facts/top-10-reasons.md

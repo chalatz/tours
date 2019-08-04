@@ -155,5 +155,5 @@ fields:
   label: End page
   template: end-page
 pages:
-- es_pages/quick-facts/movies.md
 - pages/quick-facts/movies.md
+- es_pages/quick-facts/movies.md
