@@ -25,9 +25,9 @@ items:
     desc: 'Sugerido para aquellos que quieren imaginar cómo era la vida en tiempos históricos.'
     long_desc: 'Éste es un recorrido privado de medio día que incluye los principales sitios de la ciudad Medieval de Rodas  y la ciudad Nueva. La meseta de Filérimos y la acrópolis del Ialisos antiguo. El valle de las mariposas y la ciudad antigua de Kámiros.'
     notes: 'Época sugerida para esta excursión: de mediados de junio a mediados de septiembre'
-    url: ./halfday_private_tours_west_coast.htm
+    url: ./excursion_privada_de_medio_dia.htm
     img: './img/tours-suggestions/DT3.jpg' 
-    duration: 'Duration: 5:30 hours'
+    duration: 'Duración: 5:30 horas'
     long_duration: 'Aproximadamente 5:30 horas'
     id: west_coast
     home_page: true
@@ -38,7 +38,7 @@ items:
     notes: 'Época sugerida para esta excursión: todo el año'
     url: ./Jewish_sites_tours_greece.htm
     img: './img/tours-suggestions/DT4.jpg' 
-    duration: 'Duration: 6:00 hours'
+    duration: 'Duración: 6:00 horas'
     long_duration: 'Duración: Aproximadamente 6:00 horas'
     id: jewish_sites
     home_page: false
@@ -49,7 +49,7 @@ items:
     notes: 'Suggested time for this tour: May to end of September'
     url: ./ruta_vinos_griegos_bodegas_grecia.htm
     img: './img/tours-suggestions/DT5.jpg' 
-    duration: 'Duration: 6:00 hours'
+    duration: 'Duración: 6:00 horas'
     long_duration: 'Aproximadamente 6:00 horas'
     id: wine_tours
     home_page: false
@@ -64,7 +64,7 @@ items:
     notes: 'Época sugerida para esta excursión: de mediados de junio a mediados de septiembre'
     url: ./kids_tours_fun_children.htm
     img: './img/tours-suggestions/DT6.jpg' 
-    duration: 'Duration: 4:30 hours'
+    duration: 'Duración: 4:30 horas'
     long_duration: 'Aproximadamente 4:30 horas'
     id: kids_tours
     home_page: false

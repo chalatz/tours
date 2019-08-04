@@ -2,6 +2,7 @@
 layout: tour
 type: driving_tours_page
 id: west_coast
+ref: west_coast
 permalink: halfday_private_tours_west_coast.htm
 has_form: true
 has_gallery: true
