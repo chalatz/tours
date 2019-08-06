@@ -17,6 +17,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
     Private Tours Greece
+title: '"Rodas, Tour Judio"'
 summary:
   paragraphs:
   - Este recorrido es perfecto para aquellos que estén interesados en la comunidad judía que existió en Rodas durante cientos de años. ¡Completando su recorrido es un hermoso viaje a Lindos donde otra parte de la historia de Rodas se combina con la belleza natural lo suficiente como para dejarlo sin aliento!

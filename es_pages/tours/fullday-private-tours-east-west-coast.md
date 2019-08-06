@@ -17,7 +17,9 @@ meta:
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  http_desc: ''
+  http_desc: 'Rhodes private tours. Rhodes private shore excursions, Private tours
+    of Rhodes Island Greece, East West coast full day tour.'
+title: '"TOUR PRIVADO DE DÍA COMPLETO" '
 summary:
   paragraphs:
   - Si tiene tiempo, no puede hacerlo mejor que este tour completo, que le brindará una experiencia que no se parece a ninguna otra. Visitarás la historia y la cultura y verás una belleza natural extraordinaria. Al final del día sentirás que realmente lo has visto todo.

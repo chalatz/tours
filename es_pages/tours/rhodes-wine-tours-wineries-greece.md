@@ -15,6 +15,7 @@ meta:
   abstract: Ruta del Vino Rodas Grecia, Vinos Griegos, Rodas Bodegas, Tour del Vino, Cata de vino gratis, Vinos de Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
+title: '"Rodas, Ruta del Vino"'
 summary:
   paragraphs:
   - |-

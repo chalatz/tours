@@ -18,6 +18,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: ''
+title: '"Lo Mejor de Rodas"'
 summary:
   paragraphs:
   - Para aquellos de ustedes con horarios limitados, este tour es perfecto. Cuando vuelvas a tu punto de recogida, podrás decir que has visitado Rodas y saber que has visto los sitios más importantes. Este tour privado combina un paisaje fabuloso con muchos sitios fascinantes e históricos.

@@ -17,6 +17,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
   http_desc: Rhodes Kids Tours, Rhodes Family Tours, Children Fun Tours in Rhodes
+title: '"Rodas, Excursión Para Niños"'
 summary:
   paragraphs:
   - El reto es ver los mejores sitios de atracción y mantener, simultáneamente, a los niños entretenidos...  ¡Este recorrido está diseñado exclusivamente para familias con niños de todas las edades! Nuestra educativa y divertida excursión incluye algunas de las atracciones más populares para los niños en Rodas que vienen altamente recomendadas por las familias que ya han disfrutado en persona de una visita turística con nosotros. En este programa para niños, que 4:30 horas, intentamos visitar los sitios favoritos de Rodas y realizar también actividades para los niños.

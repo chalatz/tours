@@ -15,6 +15,7 @@ meta:
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
+title: '"Rodas Costa Oeste"'
 summary:
   paragraphs:
   - Este tour está lleno de historia, belleza natural y sitios antiguos. Se le presentarán fabulosas vistas de la costa oeste, el mar Egeo, y cuando explorar los restos de ciudades antiguas podrá imaginar cómo era la vida en tiempos históricos. Usted tendrá una buena comprensión de este lugar antiguo y hermoso.
