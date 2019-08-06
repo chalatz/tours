@@ -8,44 +8,50 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Tour del Barrio Judío de Rodas Grecia, Patrimonio Judío en Grecia, Sinagoga Kahal Shalom, Museo Judío de Rodas
-  http_desc: Tour del Barrio Judío de Rodas Grecia, Patrimonio Judío en Grecia, Sinagoga Kahal Shalom, Museo Judío de Rodas, Tours Privados
-  keywords: Tour del Barrio Judío de Rodas Grecia, Patrimonio Judío en Grecia, Sinagoga Kahal Shalom, Museo Judío de Rodas, Tours Privados
-  description: Tour del Barrio Judío de Rodas Grecia, Patrimonio Judío en Grecia, Sinagoga Kahal Shalom, Museo Judío de Rodas, Tours Privados
-    Sites, Greece
+  title: Tour del Barrio Judío de Rodas Grecia, Patrimonio Judío en Grecia, Sinagoga
+    Kahal Shalom, Museo Judío de Rodas
+  http_desc: Tour del Barrio Judío de Rodas Grecia, Patrimonio Judío en Grecia, Sinagoga
+    Kahal Shalom, Museo Judío de Rodas, Tours Privados
+  keywords: Tour del Barrio Judío de Rodas Grecia, Patrimonio Judío en Grecia, Sinagoga
+    Kahal Shalom, Museo Judío de Rodas, Tours Privados
+  description: Tour del Barrio Judío de Rodas Grecia, Patrimonio Judío en Grecia,
+    Sinagoga Kahal Shalom, Museo Judío de Rodas, Tours Privados Sites, Greece
   abstract: Tour del Barrio Judío de Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
-    Private Tours Greece
+  copyright: NK for Rhodes Private Tours,2018 Private Tours Greece
 title: '"Rodas, Tour Judio"'
 summary:
   paragraphs:
-  - Este recorrido es perfecto para aquellos que estén interesados en la comunidad judía que existió en Rodas durante cientos de años. ¡Completando su recorrido es un hermoso viaje a Lindos donde otra parte de la historia de Rodas se combina con la belleza natural lo suficiente como para dejarlo sin aliento!
+  - Este recorrido es perfecto para aquellos que estén interesados en la comunidad
+    judía que existió en Rodas durante cientos de años. ¡Completando su recorrido
+    es un hermoso viaje a Lindos donde otra parte de la historia de Rodas se combina
+    con la belleza natural lo suficiente como para dejarlo sin aliento!
 tour:
   title: '"Rodas, Tour Judio"'
-  summary: Ciudad Nueva de Rodas / Ciudad Medieval de Rodas / Patrimonio Judío / Barrio Judío / Costa Este de la isla / Lindos
+  summary: Ciudad Nueva de Rodas / Ciudad Medieval de Rodas / Patrimonio Judío / Barrio
+    Judío / Costa Este de la isla / Lindos
   duration: Medio Día
 overview:
   items:
-  - title: 'Los Edificios Históricos y el Puerto Viejo - Coloso de Rodas'
-  - title: 'El Punto Norte de la isla - Mar Egeo y Mediterráneo'
-  - title: 'La Acrópolis de Rodas, el Templo de Apolo, el Estadio Griego y el Teatro.'
+  - title: Los Edificios Históricos y el Puerto Viejo - Coloso de Rodas
+  - title: El Punto Norte de la isla - Mar Egeo y Mediterráneo
+  - title: La Acrópolis de Rodas, el Templo de Apolo, el Estadio Griego y el Teatro.
   - title: 'Conducimos a la Costa Este de la Ciudad de Rodas y visitamos:'
   - title: 'El Cementerio Judío: Mejor Conservado de Europa'
-  - title: 'El Barrio Judío (La Judería) en la Ciudad Vieja'
-  - title: 'Calle "Al Chatef" - (llamada así por una familia honrada)'
-  - title: 'La Sinagoga "Kahal Shalom" - La más antigua de Grecia'
-  - title: 'El Museo Judío - "Torá de Rodas de 800 años"'
-  - title: 'La Plaza de los Mártires Judíos de Rodas'
-  - title: 'El Monumento a las Víctimas Judías del Holocausto'
-  - title: 'Conducimos hacia el sudeste a Lindos 50 km / 32 millas'
-  - title: 'La Bahía de Anthony Quinn - Escénica'
+  - title: El Barrio Judío (La Judería) en la Ciudad Vieja
+  - title: Calle "Al Chatef" - (llamada así por una familia honrada)
+  - title: La Sinagoga "Kahal Shalom" - La más antigua de Grecia
+  - title: El Museo Judío - "Torá de Rodas de 800 años"
+  - title: La Plaza de los Mártires Judíos de Rodas
+  - title: El Monumento a las Víctimas Judías del Holocausto
+  - title: Conducimos hacia el sudeste a Lindos 50 km / 32 millas
+  - title: La Bahía de Anthony Quinn - Escénica
   - title: 'Una breve parada opcional: Arte de Cerámica de Rodas'
-  - title: 'La Vista Panorámica del Pueblo Blanco de Lindos y la Acrópolis - Escénica'
-  - title: 'La Bahía de San Pablo - “Cañones de Navarone” Película'
-  - title: 'El Pueblo y la Acrópolis de Lindos'
-  - title: 'En el camino de regreso conducimos a través de Faliraki, Kallithea'
-  - title: 'Volver a la ciudad de Rodas / puerto de cruceros / o a su lugar'
+  - title: La Vista Panorámica del Pueblo Blanco de Lindos y la Acrópolis - Escénica
+  - title: La Bahía de San Pablo - “Cañones de Navarone” Película
+  - title: El Pueblo y la Acrópolis de Lindos
+  - title: En el camino de regreso conducimos a través de Faliraki, Kallithea
+  - title: Volver a la ciudad de Rodas / puerto de cruceros / o a su lugar
   - title: 'Duración: 6:00 horas'
     classes: bold
   - title: 'Extensiones: Puedes agregar más atracciones'
@@ -55,19 +61,24 @@ overview:
 details:
   items:
   - title: "(Stop Photos):"
-    desc: "Parar y tomar fotos fuera del edificio / lugar"
+    desc: Parar y tomar fotos fuera del edificio / lugar
   - title: "(Stop Visitar Fotos):"
     desc: Parar y visitar - Caminar dentro del edificio / lugar, para tomar fotos
   - title: 'Nivel de Actividad del Tour Privado:'
     desc: Moderado (o "Fácil" si eliminas la Acrópolis de Lindos)
   - title: 'El Vehículo para el Tour Privado:'
-    desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
+    desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a
+      href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
   - title: 'El Conductor del tour Privado:'
     desc: Conductor de Habla Español - Especializado en Tours Privados.
   - title: 'Hora de Inicio del Tour Privado:'
-    desc: 8:30 AM. O después<br>Si usted es un pasajero de cruceros - depende de la hora de llegada de su crucero. Si el barco llega tarde al puerto, ajustaremos nuestros horarios y el tiempo de alquiler comenzará cuando se encuentre con su conductor.
+    desc: 8:30 AM. O después<br>Si usted es un pasajero de cruceros - depende de la
+      hora de llegada de su crucero. Si el barco llega tarde al puerto, ajustaremos
+      nuestros horarios y el tiempo de alquiler comenzará cuando se encuentre con
+      su conductor.
   - title: 'Punto de Encuentro para el Tour Privado:'
-    desc: Hotel / Puerto / Aeropuerto (el punto de encuentro varía según la opción reservada)
+    desc: Hotel / Puerto / Aeropuerto (el punto de encuentro varía según la opción
+      reservada)
   - title: 'Extensión del Tour Privado:'
     desc: Puede extender o cambiar el itinerario de este tour privado a su gusto.
 gallery:
@@ -137,28 +148,43 @@ gallery:
     position: following
 faq:
   items:
-  - q: ¿La Sinagoga, el Museo Judío y el Cementerio Judío están abiertos todos los días?
-    a: Sí, la Sinagoga, y el Museo Judío, abierto todos los días de abril a finales de octubre de 10:00 a.m. a 3:00 p.m. excepto los sábados.  El cementerio judío abre todos los días excepto los sábados y domingos de 8:30 a.m. a 1:00 p.m.
-  - q: ¿Cuánto cuesta la entrada en la Sinagoga y el Museo Judío?
+  - q: "¿La Sinagoga, el Museo Judío y el Cementerio Judío están abiertos todos los
+      días?"
+    a: Sí, la Sinagoga, y el Museo Judío, abierto todos los días de abril a finales
+      de octubre de 10:00 a.m. a 3:00 p.m. excepto los sábados.  El cementerio judío
+      abre todos los días excepto los sábados y domingos de 8:30 a.m. a 1:00 p.m.
+  - q: "¿Cuánto cuesta la entrada en la Sinagoga y el Museo Judío?"
     a: La entrada a la Sinagoga y al Museo Judío es de 4 euros por persona.
-  - q: ¿Cuánto cuesta la entrada a la Acrópolis de Lindos?
-    a: La entrada cuesta 12 euros por persona en la Acrópolis. Niños menores de 18 años gratis. Sin cargo para ingresar al pueblo de Lindos.
-  - q: ¿Cuánto tiempo tarda en regresar a nuestro barco desde la Sinagoga y el Barrio Judío?
+  - q: "¿Cuánto cuesta la entrada a la Acrópolis de Lindos?"
+    a: La entrada cuesta 12 euros por persona en la Acrópolis. Niños menores de 18
+      años gratis. Sin cargo para ingresar al pueblo de Lindos.
+  - q: "¿Cuánto tiempo tarda en regresar a nuestro barco desde la Sinagoga y el Barrio
+      Judío?"
     a: por lo general, toma menos de 10 min.
-  - q: ¿Por qué cosas es conocida Rodas, en términos de comidas/bebidas y recuerdos (souvenirs)? ¿Qué es aquello de lo que no debemos perdernos?
-    a: <span class="link_inline"><a href="./gastronomia_griega_comida_recetas_cocina.htm">La comida local</a></span>, <span class="link_inline"><a href="./ruta_vinos_griegos_bodegas_grecia.htm">los vinos</a></span>, <span class="link_inline"><a href="./ceramica_griega_alfareria.htm">la cerámica</a></span> y <span class="link_inline"><a href="./mejores_playas_grecia_rodas.htm">las playas de Rodas</a></span>
+  - q: "¿Por qué cosas es conocida Rodas, en términos de comidas/bebidas y recuerdos
+      (souvenirs)? ¿Qué es aquello de lo que no debemos perdernos?"
+    a: <span class="link_inline"><a href="./gastronomia_griega_comida_recetas_cocina.htm">La
+      comida local</a></span>, <span class="link_inline"><a href="./ruta_vinos_griegos_bodegas_grecia.htm">los
+      vinos</a></span>, <span class="link_inline"><a href="./ceramica_griega_alfareria.htm">la
+      cerámica</a></span> y <span class="link_inline"><a href="./mejores_playas_grecia_rodas.htm">las
+      playas de Rodas</a></span>
 included:
   items:
   - text: Tour Privado (solo su grupo)
   - text: Recoger y Dejar Gratis, en el Hotel / Puerto / Aeropuerto
   - text: Conductor con Experiencia - Especializado en Tours Privados
-  - text: Coche Sedán Mercedes Benz (4 pasajeros más el conductor) (<a href="./tours_para_grupos_rodas_grecia.htm">o vehículo más grande</a>)
-  - text: Todos los Gastos de Coche y Conductor (los precios son por coche no por persona)
+  - text: Coche Sedán Mercedes Benz (4 pasajeros más el conductor) (<a href="./tours_para_grupos_rodas_grecia.htm">o
+      vehículo más grande</a>)
+  - text: Todos los Gastos de Coche y Conductor (los precios son por coche no por
+      persona)
   - text: Atención Personalizada al Cliente.
   - text: Política de Cancelación Gratuita.
 not_included:
   items:
   - text: Cuotas de Entrada, Comida, Bebidas, (Propinas Opcionales)
+end_page:
+  long_text: ''
+  short_text: ''
 
 ---
 Desde un punto elegido por usted, lo trasladarán a la entrada del **Antiguo Puerto** **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos) 

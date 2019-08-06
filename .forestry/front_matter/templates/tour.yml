@@ -300,6 +300,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- es_pages/tours/jewish-sites-tours-greece.md
 - es_pages/tours/kids-tours-fun-children.md
 - es_pages/tours/halfday-private-tours-west-coast.md
 - es_pages/tours/best-of-rhodes-tours-greece.md
