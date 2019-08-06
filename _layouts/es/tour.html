@@ -13,7 +13,7 @@ layout: default
         </p>
         {% for paragraph in page.summary.paragraphs %}
             <p class="tour__summary">
-                {{- paragraph -}}
+                {{ paragraph | markdownify | remove: '<p>' | remove: '</p>' }}
             </p>
         {% endfor %}        
     </header>
@@ -148,7 +148,7 @@ layout: default
                     {% endfor %}
 
                     <p>
-                        <a href="./quever_quehacer_enrodas_grecia.htm">Más preguntas frecuentes</a>
+                        <a href="./quever_quehacer_enrodas_grecia.htm">Preguntas más frecuentes</a>
                     </p>
 
                 </div>

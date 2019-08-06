@@ -2,6 +2,7 @@
 layout: tour
 type: driving_tours_page
 id: wine_tours
+ref: wine_tours
 permalink: rhodes_wine_tours_wineries_greece.htm
 has_form: true
 has_gallery: true
