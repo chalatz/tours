@@ -8,42 +8,51 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Ruta del Vino Rodas Grecia, Vinos Griegos, Rodas Bodegas, Tour del Vino, Cata de vino gratis, Vinos de Grecia
-  description: Ruta del Vino Rodas Grecia, Vinos Griegos, Rodas Bodegas, Tour del Vino, Cata de vino gratis, Vinos de Grecia
-  http_desc: Ruta del Vino Rodas Grecia, Vinos Griegos, Rodas Bodegas, Tour del Vino, Cata de vino gratis, Vinos de Grecia
-  keywords: Ruta del Vino Rodas Grecia, Vinos Griegos, Rodas Bodegas, Tour del Vino, Cata de vino gratis, Vinos de Grecia
-  abstract: Ruta del Vino Rodas Grecia, Vinos Griegos, Rodas Bodegas, Tour del Vino, Cata de vino gratis, Vinos de Grecia
+  title: Ruta del Vino Rodas Grecia, Vinos Griegos, Rodas Bodegas, Tour del Vino,
+    Cata de vino gratis, Vinos de Grecia
+  description: Ruta del Vino Rodas Grecia, Vinos Griegos, Rodas Bodegas, Tour del
+    Vino, Cata de vino gratis, Vinos de Grecia
+  http_desc: Ruta del Vino Rodas Grecia, Vinos Griegos, Rodas Bodegas, Tour del Vino,
+    Cata de vino gratis, Vinos de Grecia
+  keywords: Ruta del Vino Rodas Grecia, Vinos Griegos, Rodas Bodegas, Tour del Vino,
+    Cata de vino gratis, Vinos de Grecia
+  abstract: Ruta del Vino Rodas Grecia, Vinos Griegos, Rodas Bodegas, Tour del Vino,
+    Cata de vino gratis, Vinos de Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
 title: '"Rodas, Ruta del Vino"'
 summary:
   paragraphs:
+  - Esta excursión es para personas que saben apreciar "la bebida de los dioses".   ¿Por
+    qué no degustar productos vinícolas locales de la isla, que tienen tan larga tradición?
+    La visita a las Bodegas vinícolas de Rodas está dirigida principalmente a los
+    selectivos catadores de vino, pero no exclusivamente a ellos.
+  - 'Hay tres etiquetas conocidas en Rodas:'
   - |-
-    Esta excursión es para personas que saben apreciar "la bebida de los dioses".   ¿Por qué no degustar productos vinícolas locales de la isla, que tienen tan larga tradición? La visita a las Bodegas vinícolas de Rodas está dirigida principalmente a los selectivos catadores de vino, pero no exclusivamente a ellos.
-  - |-
-    Hay tres etiquetas conocidas en Rodas:
-  - |- 
     {:.tour__summary.tour__summary--list}
     1. **De vino blanco** de la variedad de uva blanca **Athiri (VDQS),** una variedad del mar Egeo clásica, cultivada en las zonas más extensas desde la antigüedad.
     2. **Vino Tinto (VDQS)** de una variedad de uva roja que ha llegado a dominar casi todas las islas del Egeo. **Mandilaria (a menudo también llamado Amorgiano)** ha encontrado el ambiente más adecuado para sus necesidades en Rodas. Disfrute de este vino oscuro, con su delicado aroma de frutas rojas.
     3. **De vino blanco dulce (VDQS)** producido por la mezcla de dos variedades de uva moscatel. **Muscat Classic blanco (de Samos)** y el **italiano importado Trani Muscat** se mezclan armoniosamente produciendo aromas de albaricoque seco, caramelo y frutos de cáscara y creando un sabor agradable que encanta a los sentidos. Las bodegas vinícolas de la zona se especializan en la producción de vinos espumosos, incluso utilizando el método de champaña de segunda fermentación en la botella.
 tour:
   title: '"Rodas, Ruta del Vino"'
-  summary: Vista Panorámica de la Ciudad / Degustación de Vinos Gratis / Tour Verde de la Costa Oeste / Almuerzo en una Taberna Tradicional
+  summary: Vista Panorámica de la Ciudad / Degustación de Vinos Gratis / Tour Verde
+    de la Costa Oeste / Almuerzo en una Taberna Tradicional
+  duration: ''
 overview:
   items:
-  - title: 'Lo más Destacado de la Nueva Ciudad de Rodas'
-  - title: 'Un recorrido Panorámico desde el Norte hasta el Suroeste 55 km / 37 millas'
+  - title: Lo más Destacado de la Nueva Ciudad de Rodas
+  - title: Un recorrido Panorámico desde el Norte hasta el Suroeste 55 km / 37 millas
   - title: 'En el camino visitamos:'
-  - title: 'La Bodega Boutique de Anastasia'
+  - title: La Bodega Boutique de Anastasia
   - title: 'Llegamos al pueblo de Embona y visitamos:'
-  - title: 'La Bodega de Emery.'
-  - title: 'La Degustación de Vinos Gratis Dionysos'
-  - title: 'La Bodega Tradicional Kounakis'
-  - title: 'La bodega Alexandris'
-  - title: 'Pausa para el Almuerzo en una Taberna Tradicional Griega'
-  - title: 'De regreso a través de la Costa Oeste con Impresionantes Vistas del mar Egeo'
-  - title: 'Volver a la Ciudad de Rodas / Puerto de Cruceros / o a su Lugar'
+  - title: La Bodega de Emery.
+  - title: La Degustación de Vinos Gratis Dionysos
+  - title: La Bodega Tradicional Kounakis
+  - title: La bodega Alexandris
+  - title: Pausa para el Almuerzo en una Taberna Tradicional Griega
+  - title: De regreso a través de la Costa Oeste con Impresionantes Vistas del mar
+      Egeo
+  - title: Volver a la Ciudad de Rodas / Puerto de Cruceros / o a su Lugar
   - title: 'Duración: 6:00 horas'
     classes: bold
   - title: 'Extensiones: Puedes agregar más Atracciones'
@@ -53,19 +62,23 @@ overview:
 details:
   items:
   - title: "(Stop Photos):"
-    desc: "parar y tomar fotos fuera del edificio / lugar"
+    desc: parar y tomar fotos fuera del edificio / lugar
   - title: "(Stop Visitar Fotos):"
     desc: Parar y visitar - Caminar dentro del edificio / lugar, para tomar fotos
   - title: 'Nivel de Actividad del Tour Privado:'
     desc: Fácil
   - title: 'El Vehículo para el Tour Privado:'
-    desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
+    desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a
+      href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
   - title: 'El Conductor del tour Privado:'
     desc: Conductor de Habla Español - Especializado en Tours Privados.
   - title: 'Hora de Inicio del Tour Privado:'
-    desc: 9:00 AM<br>Si usted es un pasajero de cruceros - depende de la hora de llegada de su crucero. Si el barco llega tarde al puerto, ajustaremos nuestros horarios y el tiempo de alquiler comenzará cuando se encuentre con su conductor.
+    desc: 9:00 AM<br>Si usted es un pasajero de cruceros - depende de la hora de llegada
+      de su crucero. Si el barco llega tarde al puerto, ajustaremos nuestros horarios
+      y el tiempo de alquiler comenzará cuando se encuentre con su conductor.
   - title: 'Punto de Encuentro para el Tour Privado:'
-    desc: Hotel / Puerto / Aeropuerto (el punto de encuentro varía según la opción reservada)
+    desc: Hotel / Puerto / Aeropuerto (el punto de encuentro varía según la opción
+      reservada)
   - title: 'Extensión del Tour Privado:'
     desc: Puede extender o cambiar el itinerario de este tour privado a su gusto.
 gallery:
@@ -135,29 +148,36 @@ gallery:
     position: following
 faq:
   items:
-  - q: ¿Tenemos que pagar por la degustación de vinos? ¿Hay algún costo por la entrada?
+  - q: "¿Tenemos que pagar por la degustación de vinos? ¿Hay algún costo por la entrada?"
     a: No hay costo por la entrada. La degustación del vino es gratis.
-  - q: No somos grandes conocedores del vino, pero lo apreciamos, ¿podemos degustar cualquier tipo de vino que queramos?
+  - q: No somos grandes conocedores del vino, pero lo apreciamos, ¿podemos degustar
+      cualquier tipo de vino que queramos?
     a: Sí, por supuesto.
-  - q: ¿Hay algún requisito de comprar una cierta cantidad de vino?
+  - q: "¿Hay algún requisito de comprar una cierta cantidad de vino?"
     a: No, no tiene que comprar ninguna cantidad de vino.
-  - q: ¿No nos embriagaremos al final de la gira?
+  - q: "¿No nos embriagaremos al final de la gira?"
     a: No, nunca hemos tenido clientes embriagados.
 included:
   items:
   - text: Tour Privado (solo su grupo)
   - text: Recoger y Dejar Gratis, en el Hotel / Puerto / Aeropuerto
   - text: Conductor con Experiencia - Especializado en Tours Privados
-  - text: Coche Sedán Mercedes Benz (4 pasajeros más el conductor) (<a href="./tours_para_grupos_rodas_grecia.htm">o vehículo más grande</a>)
-  - text: Todos los Gastos de Coche y Conductor (los precios son por coche no por persona)
+  - text: Coche Sedán Mercedes Benz (4 pasajeros más el conductor) (<a href="./tours_para_grupos_rodas_grecia.htm">o
+      vehículo más grande</a>)
+  - text: Todos los Gastos de Coche y Conductor (los precios son por coche no por
+      persona)
   - text: Atención Personalizada al Cliente.
   - text: Política de Cancelación Gratuita.
 not_included:
   items:
   - text: Cuotas de Entrada, Comida, Bebidas, (Propinas Opcionales)
 body:
-- text: |-
-    Si el tour comienza desde la ciudad de Rodas, incluiremos los aspectos más destacados de la ciudad nueva de Rodas. Conducimos por la ladera hasta **Monte Smith, la Acrópolis de la ciudad de Rodas**, para obtener una vista panorámica de la ciudad (Stop Fotos). En el camino que visitamos el puerto viejo y el punto norte de la isla. Luego, lo conducirán al sudoeste de Rodas 55 km / 37 millas hasta el pueblo de Embona, utilizando una ruta interior.
+- text: Si el tour comienza desde la ciudad de Rodas, incluiremos los aspectos más
+    destacados de la ciudad nueva de Rodas. Conducimos por la ladera hasta **Monte
+    Smith, la Acrópolis de la ciudad de Rodas**, para obtener una vista panorámica
+    de la ciudad (Stop Fotos). En el camino que visitamos el puerto viejo y el punto
+    norte de la isla. Luego, lo conducirán al sudoeste de Rodas 55 km / 37 millas
+    hasta el pueblo de Embona, utilizando una ruta interior.
   gallery:
   - thumb: "./img/Tour5/IMGP0905_mod_small.jpg"
     href: "./img/Tour5/IMGP0905_mod.jpg"
@@ -204,8 +224,18 @@ body:
     href: "./img/Tour5/rhodes_shore_excursions_greece_mod_1__.jpg"
     alt: Rhodes Shore Excursions Greece
     position: following
-- text: |-
-    **La familia Triantafyllou**, **propietarios de Vinos Emery**, se inició en el negocio de bebidas en Rodas en 1923, principalmente como destiladores. Con la exportación de bebidas alcohólicas a nivel mundial, la compañía fue uno de las pocas de su tipo en sobrevivir la Segunda Guerra Mundial. En 1966 la compañía comenzó a producir vino a gran escala. En 1974, se construyó una bodega cerca de la aldea de Embona en el Monte Atáviros, en el corazón de la región de mejor crecimiento en la isla. Hoy en día Emery es uno de los productores de vino y bebidas alcohólicas más antiguos de Grecia y ocupa una alta posición en la lista de las bodegas vinicultoras más grandes del país. **El nombre Emery proviene de Emeric D'Amboise de origen francés que fue el Gran Maestre de Rodas del 1503 al1512**. **La degustación de vino será gratuita para los visitantes y se permite tomar fotografías de las instalaciones de añejamiento.**
+- text: "**La familia Triantafyllou**, **propietarios de Vinos Emery**, se inició
+    en el negocio de bebidas en Rodas en 1923, principalmente como destiladores. Con
+    la exportación de bebidas alcohólicas a nivel mundial, la compañía fue uno de
+    las pocas de su tipo en sobrevivir la Segunda Guerra Mundial. En 1966 la compañía
+    comenzó a producir vino a gran escala. En 1974, se construyó una bodega cerca
+    de la aldea de Embona en el Monte Atáviros, en el corazón de la región de mejor
+    crecimiento en la isla. Hoy en día Emery es uno de los productores de vino y bebidas
+    alcohólicas más antiguos de Grecia y ocupa una alta posición en la lista de las
+    bodegas vinicultoras más grandes del país. **El nombre Emery proviene de Emeric
+    D'Amboise de origen francés que fue el Gran Maestre de Rodas del 1503 al1512**.
+    **La degustación de vino será gratuita para los visitantes y se permite tomar
+    fotografías de las instalaciones de añejamiento.**"
   gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_1_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_1.jpg"
@@ -227,8 +257,9 @@ body:
     href: "./img/Tour5/rhodes_wine_tour_greece_mod.jpg"
     alt: Rhodes wine tour Greece
     position: following
-- text: |-
-    Continuamos con la degustación gratuita de vinos de **Dionysos**. Aquí puede probar una gran variedad de vinos frescos y el fuerte espíritu local de la **bodega Merkouris**, Souma.
+- text: Continuamos con la degustación gratuita de vinos de **Dionysos**. Aquí puede
+    probar una gran variedad de vinos frescos y el fuerte espíritu local de la **bodega
+    Merkouris**, Souma.
   gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_kounakis_1_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_kounakis_1.jpg"
@@ -250,8 +281,13 @@ body:
     href: "./img/Tour5/rhodes_private_tour_greece_mod_1.jpg"
     alt: Rhodes Private tour Greece
     position: following
-- text: |-
-    La **bodega vinícola Kounakis** comenzó desde el abuelo, Kyriakos Kounakis en 1928 y aún producen excelentes vinos hasta el día de hoy, con una capacidad de producción de más de 20.000 botellas de vino al año. Emplean el tradicional método natural para el cultivo y el proceso. **Athiri, Mandilaria (Amorgiano) Merlot, Rouge Garnacha, Syrah, Chardonnay**. Aquí usted puede **probar gratis todos los tipos de vinos producidos, y se le permitirá tomar fotografías de las instalaciones de añejamiento.**
+- text: La **bodega vinícola Kounakis** comenzó desde el abuelo, Kyriakos Kounakis
+    en 1928 y aún producen excelentes vinos hasta el día de hoy, con una capacidad
+    de producción de más de 20.000 botellas de vino al año. Emplean el tradicional
+    método natural para el cultivo y el proceso. **Athiri, Mandilaria (Amorgiano)
+    Merlot, Rouge Garnacha, Syrah, Chardonnay**. Aquí usted puede **probar gratis
+    todos los tipos de vinos producidos, y se le permitirá tomar fotografías de las
+    instalaciones de añejamiento.**
   gallery:
   - thumb: "./img/Tour5/IMGP1002_mod_thumb.jpg"
     href: "./img/Tour5/IMGP1002_mod_1.jpg"
@@ -281,5 +317,9 @@ body:
     De vuelta por la costa oeste con **impresionantes vistas del mar Egeo.**
 
     De nuevo en la ciudad de Rodas, usted podrá elegir ser llevado de regreso a su hotel o a su barco, o cerca de las puertas de la Ciudad Vieja para dar una caminata por su cuenta. En este caso usted sería responsable de volver a pie a su barco, que estará atracado aproximadamente a 300 metros.
+  gallery: []
+end_page:
+  long_text: ''
+  short_text: ''
 
 ---

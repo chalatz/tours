@@ -20,21 +20,29 @@ meta:
 title: '"Rodas, Excursión Para Niños"'
 summary:
   paragraphs:
-  - El reto es ver los mejores sitios de atracción y mantener, simultáneamente, a los niños entretenidos...  ¡Este recorrido está diseñado exclusivamente para familias con niños de todas las edades! Nuestra educativa y divertida excursión incluye algunas de las atracciones más populares para los niños en Rodas que vienen altamente recomendadas por las familias que ya han disfrutado en persona de una visita turística con nosotros. En este programa para niños, que 4:30 horas, intentamos visitar los sitios favoritos de Rodas y realizar también actividades para los niños.
+  - El reto es ver los mejores sitios de atracción y mantener, simultáneamente, a
+    los niños entretenidos...  ¡Este recorrido está diseñado exclusivamente para familias
+    con niños de todas las edades! Nuestra educativa y divertida excursión incluye
+    algunas de las atracciones más populares para los niños en Rodas que vienen altamente
+    recomendadas por las familias que ya han disfrutado en persona de una visita turística
+    con nosotros. En este programa para niños, que 4:30 horas, intentamos visitar
+    los sitios favoritos de Rodas y realizar también actividades para los niños.
 tour:
   title: '"Rodas, Excursión Para Niños"'
-  summary: Ciudad Nueva de Rodas / Acrópolis de Rodas / Costa Oeste / Valle de las Mariposas / La Granja del Avestruz / El museo de las Abejas
+  summary: Ciudad Nueva de Rodas / Acrópolis de Rodas / Costa Oeste / Valle de las
+    Mariposas / La Granja del Avestruz / El museo de las Abejas
   duration: Medio Día
 overview:
   items:
-  - title: 'La Ciudad Nueva, el Puerto Viejo - “Coloso de Rodas”'
-  - title: 'El Punto Norte de la Isla - Mar Egeo y Mar Mediterráneo'
-  - title: 'La Acrópolis de Rodas, el Templo de Apolo, el Estadio Helenístico y el Teatro'
-  - title: 'Conducimos por el sur oeste 23km - 14,3millas'
-  - title: 'El Valle de las Mariposas - Reserva Natural Única'
-  - title: '“La Granja del Avestruz de Rodas” y el Parque Zoológico.'
+  - title: La Ciudad Nueva, el Puerto Viejo - “Coloso de Rodas”
+  - title: El Punto Norte de la Isla - Mar Egeo y Mar Mediterráneo
+  - title: La Acrópolis de Rodas, el Templo de Apolo, el Estadio Helenístico y el
+      Teatro
+  - title: Conducimos por el sur oeste 23km - 14,3millas
+  - title: El Valle de las Mariposas - Reserva Natural Única
+  - title: "“La Granja del Avestruz de Rodas” y el Parque Zoológico."
   - title: 'El museo de las Abejas: El Único Museo de las Abejas en Grecia'
-  - title: 'Volver a la ciudad de Rodas / puerto de cruceros / o a su lugar'
+  - title: Volver a la ciudad de Rodas / puerto de cruceros / o a su lugar
   - title: 'Duración: 4:30 horas'
     classes: bold
   - title: 'Extensiones: Puedes agregar más atracciones'
@@ -44,19 +52,24 @@ overview:
 details:
   items:
   - title: "(Stop Photos):"
-    desc: "Parar y tomar fotos fuera del edificio / lugar"
+    desc: Parar y tomar fotos fuera del edificio / lugar
   - title: "(Stop Visitar Fotos):"
     desc: Parar y visitar - Caminar dentro del edificio / lugar, para tomar fotos
   - title: 'Nivel de Actividad del Tour Privado:'
     desc: Moderado (o "Fácil" si eliminas la Acrópolis de Lindos)
   - title: 'El Vehículo para el Tour Privado:'
-    desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
+    desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a
+      href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
   - title: 'El Conductor del tour Privado:'
     desc: Conductor de Habla Español - Especializado en Tours Privados.
   - title: 'Hora de Inicio del Tour Privado:'
-    desc: 8:30 AM. O después<br>Si usted es un pasajero de cruceros - depende de la hora de llegada de su crucero. Si el barco llega tarde al puerto, ajustaremos nuestros horarios y el tiempo de alquiler comenzará cuando se encuentre con su conductor.
+    desc: 8:30 AM. O después<br>Si usted es un pasajero de cruceros - depende de la
+      hora de llegada de su crucero. Si el barco llega tarde al puerto, ajustaremos
+      nuestros horarios y el tiempo de alquiler comenzará cuando se encuentre con
+      su conductor.
   - title: 'Punto de Encuentro para el Tour Privado:'
-    desc: Hotel / Puerto / Aeropuerto (el punto de encuentro varía según la opción reservada)
+    desc: Hotel / Puerto / Aeropuerto (el punto de encuentro varía según la opción
+      reservada)
   - title: 'Extensión del Tour Privado:'
     desc: Puede extender o cambiar el itinerario de este tour privado a su gusto.
 gallery:
@@ -126,26 +139,46 @@ gallery:
     position: following
 faq:
   items:
-  - q: ¿Hay mariposas todo el año? - Y ¿hay un horario de apertura allí que tengamos que considerar?
-    a: Hay mariposas solamente durante la estación de su acoplamiento, desde mediados de junio hasta mediados de septiembre. El valle está abierto desde las 8:00 hasta las 18:00.
-  - q: ¿Cuánto tiempo se necesita para recorrer todo el “Valle de las Mariposas”?
-    a: Usted puede dar un rápido paseo por los alrededores en 10-15 minutos, pero si usted desea recorrerlo todo necesitará caminar aproximadamente 40 minutos.
-  - q: ¿Cuánto cuesta la entrada a la Acrópolis de Rodas, el Valle de las Mariposas, la Granja de Avestruces y el Museo de las Abejas?
-    a: 'No hay tarifa de entrada en la Acrópolis de Rodas.<br>Valle de las Mariposas: Temporada baja Adultos 3 Euros, Temporada alta Adultos 5 Euros, Niños menores de 12 años gratis<br>Granja de avestruces: adultos 7 euros, niños menores de 12 años 4 euros (niños menores de 3 años gratis)<br>Museo de las abejas: adultos 3 euros, niños menores de 5 años gratis, niños entre 6 y 18 años 1,50 euros, estudiantes 1,50 euros, personas mayores de 65 años 1,50 euros'
-  - q: ¿Por qué cosas es conocida Rodas, en términos de comidas/bebidas y recuerdos (souvenirs)? ¿Qué es aquello de lo que no debemos perdernos?
-    a: <span class="link_inline"><a href="./gastronomia_griega_comida_recetas_cocina.htm">La comida local</a></span>, <span class="link_inline"><a href="./ruta_vinos_griegos_bodegas_grecia.htm">los vinos</a></span>, <span class="link_inline"><a href="./ceramica_griega_alfareria.htm">la cerámica</a></span> y <span class="link_inline"><a href="./mejores_playas_grecia_rodas.htm">las playas de Rodas</a></span>    
+  - q: "¿Hay mariposas todo el año? - Y ¿hay un horario de apertura allí que tengamos
+      que considerar?"
+    a: Hay mariposas solamente durante la estación de su acoplamiento, desde mediados
+      de junio hasta mediados de septiembre. El valle está abierto desde las 8:00
+      hasta las 18:00.
+  - q: "¿Cuánto tiempo se necesita para recorrer todo el “Valle de las Mariposas”?"
+    a: Usted puede dar un rápido paseo por los alrededores en 10-15 minutos, pero
+      si usted desea recorrerlo todo necesitará caminar aproximadamente 40 minutos.
+  - q: "¿Cuánto cuesta la entrada a la Acrópolis de Rodas, el Valle de las Mariposas,
+      la Granja de Avestruces y el Museo de las Abejas?"
+    a: 'No hay tarifa de entrada en la Acrópolis de Rodas.<br>Valle de las Mariposas:
+      Temporada baja Adultos 3 Euros, Temporada alta Adultos 5 Euros, Niños menores
+      de 12 años gratis<br>Granja de avestruces: adultos 7 euros, niños menores de
+      12 años 4 euros (niños menores de 3 años gratis)<br>Museo de las abejas: adultos
+      3 euros, niños menores de 5 años gratis, niños entre 6 y 18 años 1,50 euros,
+      estudiantes 1,50 euros, personas mayores de 65 años 1,50 euros'
+  - q: "¿Por qué cosas es conocida Rodas, en términos de comidas/bebidas y recuerdos
+      (souvenirs)? ¿Qué es aquello de lo que no debemos perdernos?"
+    a: <span class="link_inline"><a href="./gastronomia_griega_comida_recetas_cocina.htm">La
+      comida local</a></span>, <span class="link_inline"><a href="./ruta_vinos_griegos_bodegas_grecia.htm">los
+      vinos</a></span>, <span class="link_inline"><a href="./ceramica_griega_alfareria.htm">la
+      cerámica</a></span> y <span class="link_inline"><a href="./mejores_playas_grecia_rodas.htm">las
+      playas de Rodas</a></span>
 included:
   items:
   - text: Tour Privado (solo su grupo)
   - text: Recoger y Dejar Gratis, en el Hotel / Puerto / Aeropuerto
   - text: Conductor con Experiencia - Especializado en Tours Privados
-  - text: Coche Sedán Mercedes Benz (4 pasajeros más el conductor) (<a href="./tours_para_grupos_rodas_grecia.htm">o vehículo más grande</a>)
-  - text: Todos los Gastos de Coche y Conductor (los precios son por coche no por persona)
+  - text: Coche Sedán Mercedes Benz (4 pasajeros más el conductor) (<a href="./tours_para_grupos_rodas_grecia.htm">o
+      vehículo más grande</a>)
+  - text: Todos los Gastos de Coche y Conductor (los precios son por coche no por
+      persona)
   - text: Atención Personalizada al Cliente.
   - text: Política de Cancelación Gratuita.
 not_included:
   items:
   - text: Cuotas de Entrada, Comida, Bebidas, (Propinas Opcionales)
+end_page:
+  long_text: ''
+  short_text: ''
 
 ---
 Desde un punto elegido por usted, lo trasladarán a la entrada del antiguo puerto, **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos) 
