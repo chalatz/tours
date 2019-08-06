@@ -39,10 +39,6 @@ overview:
   - title: De regreso visitamos el Valle de las Mariposas.
   - title: La Tradicional Bodega de Vinos - Cata de Vinos Gratis
   - title: La Acrópolis de la Antigua Ialyssos - Impresionante Vista de la Costa Oeste
-  - title: La Vista Panorámica del Pueblo Blanco de Lindos y la Acrópolis - Escénica
-  - title: La Bahía de San Pablo - Paisaje de Naturaleza Salvaje
-  - title: El Pueblo y la Acrópolis de Lindos
-  - title: En el camino de regreso nos dirigimos a través de Faliraki, Kallithea
   - title: Volver a la ciudad de Rodas / puerto de cruceros / o a su lugar
   - title: 'Duración: 5:30 horas'
     classes: bold
