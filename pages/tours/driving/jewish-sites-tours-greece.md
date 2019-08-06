@@ -2,6 +2,7 @@
 layout: tour
 type: driving_tours_page
 id: jewish_sites
+ref: jewish_sites
 permalink: Jewish_sites_tours_greece.htm
 has_form: true
 has_gallery: true
