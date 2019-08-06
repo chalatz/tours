@@ -18,17 +18,23 @@ meta:
 title: '"Rodas Costa Oeste"'
 summary:
   paragraphs:
-  - Este tour está lleno de historia, belleza natural y sitios antiguos. Se le presentarán fabulosas vistas de la costa oeste, el mar Egeo, y cuando explorar los restos de ciudades antiguas podrá imaginar cómo era la vida en tiempos históricos. Usted tendrá una buena comprensión de este lugar antiguo y hermoso.
+  - Este tour está lleno de historia, belleza natural y sitios antiguos. Se le presentarán
+    fabulosas vistas de la costa oeste, el mar Egeo, y cuando explorar los restos
+    de ciudades antiguas podrá imaginar cómo era la vida en tiempos históricos. Usted
+    tendrá una buena comprensión de este lugar antiguo y hermoso.
 tour:
   title: '"Rodas Costa Oeste"'
-  summary: Ciudad Medieval y Ciudad Nueva / Costa Oeste / Filerimos / Valle de las Mariposas / Bodega Tradicional / Kamiros Antiguos
+  summary: Ciudad Medieval y Ciudad Nueva / Costa Oeste / Filerimos / Valle de las
+    Mariposas / Bodega Tradicional / Kamiros Antiguos
   duration: Medio Día
 overview:
   items:
-  - title: La Ciudad Medieval, la Calle de los Caballeros, el Palacio de Los Grandes Maestros (para fotos fuera del edificio)
+  - title: La Ciudad Medieval, la Calle de los Caballeros, el Palacio de Los Grandes
+      Maestros (para fotos fuera del edificio)
   - title: La Ciudad Nueva, el Puerto Viejo - “Coloso de Rodas”
   - title: El Punto Norte de la Isla - Mar Egeo y Mar Mediterráneo
-  - title: La Acrópolis de Rodas, el Templo de Apolo, el Estadio Helenístico y el Teatro
+  - title: La Acrópolis de Rodas, el Templo de Apolo, el Estadio Helenístico y el
+      Teatro
   - title: Nos dirigimos a la costa oeste 42 km / 26 millas y visitamos Antiguos Kamiros
   - title: De regreso visitamos el Valle de las Mariposas.
   - title: La Tradicional Bodega de Vinos - Cata de Vinos Gratis
@@ -47,21 +53,28 @@ overview:
 details:
   items:
   - title: "(Stop Photos):"
-    desc: "Parar y tomar fotos fuera del edificio / lugar"
+    desc: Parar y tomar fotos fuera del edificio / lugar
   - title: "(Stop Visitar Fotos):"
     desc: Parar y visitar - Caminar dentro del edificio / lugar, para tomar fotos
   - title: 'Nivel de Actividad del Tour Privado:'
     desc: Moderado
   - title: 'El Vehículo para el Tour Privado:'
-    desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
+    desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a
+      href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
   - title: 'El Conductor del tour Privado:'
     desc: Conductor de Habla Español - Especializado en Tours Privados.
   - title: 'Hora de Inicio del Tour Privado:'
-    desc: 8:30 AM. O después<br>Si usted es un pasajero de cruceros - depende de la hora de llegada de su crucero. Si el barco llega tarde al puerto, ajustaremos nuestros horarios y el tiempo de alquiler comenzará cuando se encuentre con su conductor.
+    desc: 8:30 AM. O después<br>Si usted es un pasajero de cruceros - depende de la
+      hora de llegada de su crucero. Si el barco llega tarde al puerto, ajustaremos
+      nuestros horarios y el tiempo de alquiler comenzará cuando se encuentre con
+      su conductor.
   - title: 'Punto de Encuentro para el Tour Privado:'
-    desc: Hotel / Puerto / Aeropuerto (el punto de encuentro varía según la opción reservada)
+    desc: Hotel / Puerto / Aeropuerto (el punto de encuentro varía según la opción
+      reservada)
   - title: 'Extensión del Tour Privado:'
-    desc:  Puede extender o cambiar el itinerario de este tour privado a su gusto. Si lo desea, puede agregar un almuerzo a esta excursión en una taberna de peces en el mar Egeo.
+    desc: Puede extender o cambiar el itinerario de este tour privado a su gusto.
+      Si lo desea, puede agregar un almuerzo a esta excursión en una taberna de peces
+      en el mar Egeo.
 gallery:
   group_1:
   - thumb: "./img/Tour3/map_of_rhodes_mod_3_small.jpg"
@@ -129,24 +142,40 @@ gallery:
     position: following
 faq:
   items:
-  - q: ¿Hay mariposas todo el año? - Y ¿hay un horario de apertura allí que tengamos que considerar?
-    a: Hay mariposas solamente durante la estación de su acoplamiento, desde mediados de junio hasta mediados de septiembre. El valle está abierto desde las 8:00 hasta las 18:00.
-  - q: ¿Cuánto tiempo se necesita para recorrer todo el “Valle de las Mariposas”? ¿Cuánto cuesta la entrada?
-    a: Usted puede dar un rápido paseo por los alrededores en 10-15 minutos pero si usted desea recorrerlo todo necesitará caminar aproximadamente 40 minutos. El costo de la entrada es de 5 euros por persona.
-  - q: ¿Por qué cosas es conocida Rodas, en términos de comidas/bebidas y recuerdos (souvenirs)? ¿Qué es aquello de lo que no debemos perdernos?
-    a: <span class="link_inline"><a href="./gastronomia_griega_comida_recetas_cocina.htm">La comida local</a></span>, <span class="link_inline"><a href="./ruta_vinos_griegos_bodegas_grecia.htm">los vinos</a></span>, <span class="link_inline"><a href="./ceramica_griega_alfareria.htm">la cerámica</a></span> y <span class="link_inline"><a href="./mejores_playas_grecia_rodas.htm">las playas de Rodas</a></span>
+  - q: "¿Hay mariposas todo el año? - Y ¿hay un horario de apertura allí que tengamos
+      que considerar?"
+    a: Hay mariposas solamente durante la estación de su acoplamiento, desde mediados
+      de junio hasta mediados de septiembre. El valle está abierto desde las 8:00
+      hasta las 18:00.
+  - q: "¿Cuánto tiempo se necesita para recorrer todo el “Valle de las Mariposas”?
+      ¿Cuánto cuesta la entrada?"
+    a: Usted puede dar un rápido paseo por los alrededores en 10-15 minutos pero si
+      usted desea recorrerlo todo necesitará caminar aproximadamente 40 minutos. El
+      costo de la entrada es de 5 euros por persona.
+  - q: "¿Por qué cosas es conocida Rodas, en términos de comidas/bebidas y recuerdos
+      (souvenirs)? ¿Qué es aquello de lo que no debemos perdernos?"
+    a: <span class="link_inline"><a href="./gastronomia_griega_comida_recetas_cocina.htm">La
+      comida local</a></span>, <span class="link_inline"><a href="./ruta_vinos_griegos_bodegas_grecia.htm">los
+      vinos</a></span>, <span class="link_inline"><a href="./ceramica_griega_alfareria.htm">la
+      cerámica</a></span> y <span class="link_inline"><a href="./mejores_playas_grecia_rodas.htm">las
+      playas de Rodas</a></span>
 included:
   items:
   - text: Tour Privado (solo su grupo)
   - text: Recoger y Dejar Gratis, en el Hotel / Puerto / Aeropuerto
   - text: Conductor con Experiencia - Especializado en Tours Privados
-  - text: Coche Sedán Mercedes Benz (4 pasajeros más el conductor) (<a href="./tours_para_grupos_rodas_grecia.htm">o vehículo más grande</a>)
-  - text: Todos los Gastos de Coche y Conductor (los precios son por coche no por persona)
+  - text: Coche Sedán Mercedes Benz (4 pasajeros más el conductor) (<a href="./tours_para_grupos_rodas_grecia.htm">o
+      vehículo más grande</a>)
+  - text: Todos los Gastos de Coche y Conductor (los precios son por coche no por
+      persona)
   - text: Atención Personalizada al Cliente.
   - text: Política de Cancelación Gratuita.
 not_included:
   items:
   - text: Cuotas de Entrada, Comida, Bebidas, (Propinas Opcionales)
+end_page:
+  long_text: ''
+  short_text: ''
 
 ---
 Desde un punto elegido por usted, lo trasladarán a la ciudad antigua (Ciudad Patrimonio de la Humanidad) para tomar fotografías de fuera de los monumentos más importantes, como la Calle de los Caballeros y el palacio restaurado de Los Grandes Maestros.  (Stop Fotos) 
