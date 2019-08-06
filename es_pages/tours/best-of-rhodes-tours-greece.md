@@ -21,17 +21,23 @@ meta:
 title: '"Lo Mejor de Rodas"'
 summary:
   paragraphs:
-  - Para aquellos de ustedes con horarios limitados, este tour es perfecto. Cuando vuelvas a tu punto de recogida, podrás decir que has visitado Rodas y saber que has visto los sitios más importantes. Este tour privado combina un paisaje fabuloso con muchos sitios fascinantes e históricos.
+  - Para aquellos de ustedes con horarios limitados, este tour es perfecto. Cuando
+    vuelvas a tu punto de recogida, podrás decir que has visitado Rodas y saber que
+    has visto los sitios más importantes. Este tour privado combina un paisaje fabuloso
+    con muchos sitios fascinantes e históricos.
 tour:
   title: '"Lo Mejor de Rodas"'
-  summary: Ciudad Medieval de Rodas / Ciudad Nueva de Rodas / Acrópolis de Rodas / Costa Este de la Isla / Pueblo y Acrópolis de Lindos
+  summary: Ciudad Medieval de Rodas / Ciudad Nueva de Rodas / Acrópolis de Rodas /
+    Costa Este de la Isla / Pueblo y Acrópolis de Lindos
   duration: Medio Día
 overview:
   items:
-  - title: La Ciudad Medieval, la Calle de los Caballeros, el Palacio de los Grandes Maestros (para fotos fuera del edificio)
+  - title: La Ciudad Medieval, la Calle de los Caballeros, el Palacio de los Grandes
+      Maestros (para fotos fuera del edificio)
   - title: La Ciudad Nueva, el Puerto Viejo - “Coloso de Rodas”
   - title: El Punto Norte de la Isla - Mar Egeo y Mar Mediterráneo
-  - title: La Acrópolis de Rodas, el Templo de Apolo, el Estadio Helenístico y el Teatro
+  - title: La Acrópolis de Rodas, el Templo de Apolo, el Estadio Helenístico y el
+      Teatro
   - title: Conducimos el sudeste a Lindos 50 km / 32 millas
   - title: La bahía de Anthony Quinn - Escénica
   - title: La Vista Panorámica de la Playa Tsambika - Escénica
@@ -50,21 +56,29 @@ overview:
 details:
   items:
   - title: "(Stop Photos):"
-    desc: "Parar y tomar fotos fuera del edificio / lugar"
+    desc: Parar y tomar fotos fuera del edificio / lugar
   - title: "(Stop Visitar Fotos):"
     desc: Parar y visitar - Caminar dentro del edificio / lugar, para tomar fotos
   - title: 'Nivel de Actividad del Tour Privado:'
     desc: Moderado (o "Fácil" si eliminas la Acrópolis de Lindos)
   - title: 'El Vehículo para el Tour Privado:'
-    desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
+    desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a
+      href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
   - title: 'El Conductor del tour Privado:'
     desc: Conductor de Habla Español - Especializado en Tours Privados.
   - title: 'Hora de Inicio del Tour Privado:'
-    desc: 8:30 AM. O después<br>Si usted es un pasajero de cruceros - depende de la hora de llegada de su crucero. Si el barco llega tarde al puerto, ajustaremos nuestros horarios y el tiempo de alquiler comenzará cuando se encuentre con su conductor.
+    desc: 8:30 AM. O después<br>Si usted es un pasajero de cruceros - depende de la
+      hora de llegada de su crucero. Si el barco llega tarde al puerto, ajustaremos
+      nuestros horarios y el tiempo de alquiler comenzará cuando se encuentre con
+      su conductor.
   - title: 'Punto de Encuentro para el Tour Privado:'
-    desc: Hotel / Puerto / Aeropuerto (el punto de encuentro varía según la opción reservada)
+    desc: Hotel / Puerto / Aeropuerto (el punto de encuentro varía según la opción
+      reservada)
   - title: 'Extensión del Tour Privado:'
-    desc: Puede extender o cambiar el itinerario de este tour privado a su gusto. Puedes agregar una hora de almuerzo en un pueblo costero en el Mar Mediterráneo, justo al borde del agua (pintoresco) con mariscos frescos, cocina local y excelentes vinos. O puede agregar los lugares que desea visitar o nadar (de junio a septiembre).
+    desc: Puede extender o cambiar el itinerario de este tour privado a su gusto.
+      Puedes agregar una hora de almuerzo en un pueblo costero en el Mar Mediterráneo,
+      justo al borde del agua (pintoresco) con mariscos frescos, cocina local y excelentes
+      vinos. O puede agregar los lugares que desea visitar o nadar (de junio a septiembre).
 gallery:
   group_1:
   - thumb: "./img/Tour1/map_of_rhodes_mod.jpg"
@@ -132,42 +146,91 @@ gallery:
     position: following
 faq:
   items:
-  - q: ¿Cuánto tiempo duran las paradas para tomar fotos? ¿Tenemos tiempo para mirar realmente los alrededores?
-    a: Como es de esperar, algunos sitios requieren de más tiempo que otros. Con esto en mente, no hay un tiempo predeterminado para cada visita. Usted tendrá suficiente tiempo para admirar y tomar fotos de los sitios que visitemos y según cómo evolucione la excursión, se repartirá el tiempo dedicado a cada parada.
-  - q: ¿Podemos conversar con el conductor, podemos hacerle preguntas?
-    a: Todos nuestros conductores asociados han vivido y trabajado en la isla de Rodas durante muchos años y tienen un buen conocimiento de la isla y sus culturas y tradiciones. Los conductores pueden dar comentarios sobre lo que está viendo y tiempo suficiente para visitar cada punto de referencia. También vienen con usted para obtener sus fotos cuando está permitido y ajustar el recorrido a sus necesidades. Los conductores no pueden seguirlo a los sitios arqueológicos, según lo restringido por las leyes en Grecia y la mayoría de los países de la UE
-  - q: ¿Se puede uno acercar más a la acrópolis en vehículo? Mi madre no puede caminar largas distancias.
-    a: No es posible llegar más allá de la plaza de Lindos en vehículo. Para llegar a la acrópolis de Lindos se deben subir (o montar en un burro) 292 escalones. La entrada tiene un costo de 12 euros por persona en la acrópolis (los niños menores de 18 entran gratis). No hay costo alguno por la entrada a la aldea de Lindos.
-  - q: ¿Si decidimos no subir la acrópolis - podemos tomar fotografías de ella desde la parte inferior? Además, ¿Hay barandillas para el ascenso o es afícil?
-    a: En general las escaleras son aceptables. No son escaleras realmente normales pues no cuentan con barandilla alguna. Sí, usted puede tomar fotos de abajo (de una ladera.) Las buenas fotos se toman en la cima.
-  - q: ¿Puede usted decirme sobre el “paseo en burro” de Lindos”? ¿Es divertido y lo recomienda? ¿Toma mucho tiempo?
-    a: El “taxi de Lindos” como llaman allí a los burros ofrecen un ascenso divertido, y si usted tiene niños, ¡se lo recomendamos! A los niños les encantarán, 10 euros por el burro hasta arriba. Su recorrido dura 10 minutos hasta la acrópolis...
-  - q: ¿Los burros utilizan la misma ruta y/o sistema de escaleras que utilizaríamos para subir hasta la cima?
-    a: ¡No, en Lindos los burros van por un camino diferente así que tanto las escaleras como las suelas de sus zapatos estarán absolutamente limpias!
-  - q: Tenemos un grupo de 12 personas, pero puede que no todos estén interesados en este itinerario.
-    a: Ustedes tienen ya 3 coches lo cual significa que cuentan con el máximo de flexibilidad. Ustedes pueden visitar Lindos como grupo de 12 personas, y luego separarse a los diversos itinerarios de su elección. Si estás en un minibús, personalizaremos el recorrido a su gusto.
-  - q: Algunos integrantes del grupo quieren subir a la acrópolis de Lindos mientras que otros quieren solamente explorar la aldea.
-    a: No hay problema. Nos reuniremos con todos ustedes más tarde en la plaza principal de Lindos.
-  - q: ¿Cuánto tiempo permaneceremos en la aldea de Lindos? ¿Cuánto tiempo se tardan los que ascienden a la acrópolis a pie y la visitan?
-    a: Pasamos generalmente una hora en Lindos, pero de usted depende cuánto tiempo se necesita para visitar Lindos. Para subir hasta la acrópolis necesita de 10 a 15 minutos, para visitar y admirar el sitio, unos 30 minutos.
-  - q: Viajaré con una abuela. Tiene 84 años. Si decide no subir, ¿hay alguna cosa que pueda hacer una señora de su edad mientras subimos mi hijo y yo?
-    a: Sí, podemos acompañarla a la maravillosa playa de Lindos para tomar una bebida y charlar con el conductor, así como disfrutar de la vista panorámica de la aldea blanca y de la acrópolis de Lindos mientras que espera.
-  - q: ¿Cuánto tiempo se necesita para ir a pie de regreso al barco, saliendo por la puerta cercana al Palacio del Gran Maestre y al museo arqueológico?
-    a: Por lo general, se tardará menos de 10 minutos. Sin embargo, usted puede hacer que dure la caminata cuanto desee pues puede elegir atravesar la ciudad vieja y así disfrutarla plenamente.
-  - q: ¿Por qué cosas es conocida Rodas, en términos de comidas/bebidas y recuerdos (souvenirs)? ¿Qué es aquello de lo que no debemos perdernos?
-    a: <span class="link_inline"><a href="./gastronomia_griega_comida_recetas_cocina.htm">La comida local</a></span>, <span class="link_inline"><a href="./ruta_vinos_griegos_bodegas_grecia.htm">los vinos</a></span>, <span class="link_inline"><a href="./ceramica_griega_alfareria.htm">la cerámica</a></span> y <span class="link_inline"><a href="./mejores_playas_grecia_rodas.htm">las playas de Rodas</a></span>
+  - q: "¿Cuánto tiempo duran las paradas para tomar fotos? ¿Tenemos tiempo para mirar
+      realmente los alrededores?"
+    a: Como es de esperar, algunos sitios requieren de más tiempo que otros. Con esto
+      en mente, no hay un tiempo predeterminado para cada visita. Usted tendrá suficiente
+      tiempo para admirar y tomar fotos de los sitios que visitemos y según cómo evolucione
+      la excursión, se repartirá el tiempo dedicado a cada parada.
+  - q: "¿Podemos conversar con el conductor, podemos hacerle preguntas?"
+    a: Todos nuestros conductores asociados han vivido y trabajado en la isla de Rodas
+      durante muchos años y tienen un buen conocimiento de la isla y sus culturas
+      y tradiciones. Los conductores pueden dar comentarios sobre lo que está viendo
+      y tiempo suficiente para visitar cada punto de referencia. También vienen con
+      usted para obtener sus fotos cuando está permitido y ajustar el recorrido a
+      sus necesidades. Los conductores no pueden seguirlo a los sitios arqueológicos,
+      según lo restringido por las leyes en Grecia y la mayoría de los países de la
+      UE
+  - q: "¿Se puede uno acercar más a la acrópolis en vehículo? Mi madre no puede caminar
+      largas distancias."
+    a: No es posible llegar más allá de la plaza de Lindos en vehículo. Para llegar
+      a la acrópolis de Lindos se deben subir (o montar en un burro) 292 escalones.
+      La entrada tiene un costo de 12 euros por persona en la acrópolis (los niños
+      menores de 18 entran gratis). No hay costo alguno por la entrada a la aldea
+      de Lindos.
+  - q: "¿Si decidimos no subir la acrópolis - podemos tomar fotografías de ella desde
+      la parte inferior? Además, ¿Hay barandillas para el ascenso o es afícil?"
+    a: En general las escaleras son aceptables. No son escaleras realmente normales
+      pues no cuentan con barandilla alguna. Sí, usted puede tomar fotos de abajo
+      (de una ladera.) Las buenas fotos se toman en la cima.
+  - q: "¿Puede usted decirme sobre el “paseo en burro” de Lindos”? ¿Es divertido y
+      lo recomienda? ¿Toma mucho tiempo?"
+    a: El “taxi de Lindos” como llaman allí a los burros ofrecen un ascenso divertido,
+      y si usted tiene niños, ¡se lo recomendamos! A los niños les encantarán, 10
+      euros por el burro hasta arriba. Su recorrido dura 10 minutos hasta la acrópolis...
+  - q: "¿Los burros utilizan la misma ruta y/o sistema de escaleras que utilizaríamos
+      para subir hasta la cima?"
+    a: "¡No, en Lindos los burros van por un camino diferente así que tanto las escaleras
+      como las suelas de sus zapatos estarán absolutamente limpias!"
+  - q: Tenemos un grupo de 12 personas, pero puede que no todos estén interesados
+      en este itinerario.
+    a: Ustedes tienen ya 3 coches lo cual significa que cuentan con el máximo de flexibilidad.
+      Ustedes pueden visitar Lindos como grupo de 12 personas, y luego separarse a
+      los diversos itinerarios de su elección. Si estás en un minibús, personalizaremos
+      el recorrido a su gusto.
+  - q: Algunos integrantes del grupo quieren subir a la acrópolis de Lindos mientras
+      que otros quieren solamente explorar la aldea.
+    a: No hay problema. Nos reuniremos con todos ustedes más tarde en la plaza principal
+      de Lindos.
+  - q: "¿Cuánto tiempo permaneceremos en la aldea de Lindos? ¿Cuánto tiempo se tardan
+      los que ascienden a la acrópolis a pie y la visitan?"
+    a: Pasamos generalmente una hora en Lindos, pero de usted depende cuánto tiempo
+      se necesita para visitar Lindos. Para subir hasta la acrópolis necesita de 10
+      a 15 minutos, para visitar y admirar el sitio, unos 30 minutos.
+  - q: Viajaré con una abuela. Tiene 84 años. Si decide no subir, ¿hay alguna cosa
+      que pueda hacer una señora de su edad mientras subimos mi hijo y yo?
+    a: Sí, podemos acompañarla a la maravillosa playa de Lindos para tomar una bebida
+      y charlar con el conductor, así como disfrutar de la vista panorámica de la
+      aldea blanca y de la acrópolis de Lindos mientras que espera.
+  - q: "¿Cuánto tiempo se necesita para ir a pie de regreso al barco, saliendo por
+      la puerta cercana al Palacio del Gran Maestre y al museo arqueológico?"
+    a: Por lo general, se tardará menos de 10 minutos. Sin embargo, usted puede hacer
+      que dure la caminata cuanto desee pues puede elegir atravesar la ciudad vieja
+      y así disfrutarla plenamente.
+  - q: "¿Por qué cosas es conocida Rodas, en términos de comidas/bebidas y recuerdos
+      (souvenirs)? ¿Qué es aquello de lo que no debemos perdernos?"
+    a: <span class="link_inline"><a href="./gastronomia_griega_comida_recetas_cocina.htm">La
+      comida local</a></span>, <span class="link_inline"><a href="./ruta_vinos_griegos_bodegas_grecia.htm">los
+      vinos</a></span>, <span class="link_inline"><a href="./ceramica_griega_alfareria.htm">la
+      cerámica</a></span> y <span class="link_inline"><a href="./mejores_playas_grecia_rodas.htm">las
+      playas de Rodas</a></span>
 included:
   items:
   - text: Tour Privado (solo su grupo)
   - text: Recoger y Dejar Gratis, en el Hotel / Puerto / Aeropuerto
   - text: Conductor con Experiencia - Especializado en Tours Privados
-  - text: Coche Sedán Mercedes Benz (4 pasajeros más el conductor) (<a href="./tours_para_grupos_rodas_grecia.htm">o vehículo más grande</a>)
-  - text: Todos los Gastos de Coche y Conductor (los precios son por coche no por persona)
+  - text: Coche Sedán Mercedes Benz (4 pasajeros más el conductor) (<a href="./tours_para_grupos_rodas_grecia.htm">o
+      vehículo más grande</a>)
+  - text: Todos los Gastos de Coche y Conductor (los precios son por coche no por
+      persona)
   - text: Atención Personalizada al Cliente.
   - text: Política de Cancelación Gratuita.
 not_included:
   items:
   - text: Cuotas de Entrada, Comida, Bebidas, (Propinas Opcionales)
+end_page:
+  long_text: ''
+  short_text: ''
 
 ---
 Desde un punto elegido por usted, se le conducirá a la ciudad vieja **(Ciudad Patrimonio Mundial)** y pasará por una de las entradas y por el ágora y el denominado Collaquium, donde **los caballeros de San Juan de Jerusalén** vivieron y trabajaron en la construcción de un bastión de la cristiandad en el Mediterráneo oriental. La ciudad vieja es donde se alojan las iglesias; los escudos de armas en mármol de los caballeros; las balas de cañón; las posadas de los caballeros y lo más impresionante, **el palacio restaurado de** **los Grandes Maestres** (Stop Fotos) 
