@@ -31,6 +31,7 @@ overview:
   - title: Nos dirigimos a la costa oeste 42 km / 26 millas y visitamos Antiguos Kamiros
   - title: De regreso visitamos el Valle de las Mariposas.
   - title: La Tradicional Bodega de Vinos - Cata de Vinos Gratis
+  - title: La Acrópolis de la Antigua Ialyssos - Impresionante Vista de la Costa Oeste
   - title: La Vista Panorámica del Pueblo Blanco de Lindos y la Acrópolis - Escénica
   - title: La Bahía de San Pablo - Paisaje de Naturaleza Salvaje
   - title: El Pueblo y la Acrópolis de Lindos
@@ -49,7 +50,7 @@ details:
   - title: "(Stop Visitar Fotos):"
     desc: Parar y visitar - Caminar dentro del edificio / lugar, para tomar fotos
   - title: 'Nivel de Actividad del Tour Privado:'
-    desc: Moderado (o "Fácil" si eliminas la Acrópolis de Lindos)
+    desc: Moderado
   - title: 'El Vehículo para el Tour Privado:'
     desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
   - title: 'El Conductor del tour Privado:'
