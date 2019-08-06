@@ -2,6 +2,7 @@
 layout: tour
 type: driving_tours_page
 id: kids_tours
+ref: kids_tours
 permalink: kids_tours_fun_children.htm
 has_form: true
 has_gallery: true
