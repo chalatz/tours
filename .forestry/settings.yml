@@ -85,6 +85,8 @@ sections:
   label: Quick Facts about Rhodes
   create: all
   match: "**/*"
+- type: heading
+  label: Spanish Tours
 - type: directory
   path: es_pages/tours
   label: Spanish Tours
