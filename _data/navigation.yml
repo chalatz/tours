@@ -121,6 +121,23 @@ main:
     - title: tours privados
       url: './viajes_privados_personalizados.htm'
       type: driving_tours_page
+      subitems:
+        - title: VER TODOS LOS TOURS
+          url: './viajes_privados_personalizados.htm'
+          classes:
+            li: 'tablet-only tablet-only--block'
+        - title: Lo Mejor de Rodas
+          url: './Mejor_de_Rodas_grecia.htm'
+        - title: Tour privado de día Completo
+          url: './tour_privado_de_dia_completo.htm'
+        - title: RODAS, COSTA OESTE
+          url: './excursion_privada_de_medio_dia.htm'
+        - title: RODAS, TOUR JUDÍO
+          url: './tour-del-Barrio-Judio-de-rodas-grecia.htm'
+        - title: RODAS, LA RUTA DEL VINO
+          url: './ruta_vinos_griegos_bodegas_grecia.htm'
+        - title: RODAS, EXCURSIÓN PARA NIÑOS
+          url: './excursiones_para_ninos_rodas_grecia.htm'
     - title: tours para grupos
       url: './tours_para_grupos_rodas_grecia.htm'
       type: group_tours_page
