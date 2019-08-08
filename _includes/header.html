@@ -25,31 +25,47 @@
         {%- endif -%}
       </span>
   </a>
+
+  {%- assign langs_counter = 0 -%}
+  {%- include helpers/check_empty_string.html the_string = page.ref -%}
+  {%- if page.ref and string_not_empty -%}  
+    {%- for a_page in site.pages -%}
+      {%- if page.ref == a_page.ref -%}
+        {%- assign langs_counter = langs_counter | plus: 1 -%}
+        {%- unless page.lang == a_page.lang -%}
+          {%- assign other_lang_page_url = a_page.url -%}
+          {%- assign other_lang_page_lang = a_page.lang -%}
+        {%- endunless -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
   
   {%- if site.i18n == true -%}
     <div class="langs site-header__item">
 
-        <div class="langs__item langs__item--active" id="langs__item--active">
-            EN <i class="fas fa-angle-down langs__item--active-icon" id="langs__item--active-icon"></i>
-        </div>
+      <div class="langs__item langs__item--active" id="langs__item--active">
+          {{ page.lang | upcase }} <i class="fas fa-angle-down langs__item--active-icon" id="langs__item--active-icon"></i>
+      </div>
 
-        <div class="langs__inactives" id="langs__inactives">
-            <span class="langs__item">
-                <a class="langs__link" href="">DE</a>
-            </span>
-            <span class="langs__item">
-                <a class="langs__link" href="">ES</a>
-            </span>
-            <span class="langs__item">
-                <a class="langs__link" href="">FR</a>
-            </span>
-            <span class="langs__item">
-                <a class="langs__link" href="">IT</a>
-            </span>
-            <span class="langs__item">
-                <a class="langs__link" href="">RU</a>
-            </span>
-        </div>
+      <div class="langs__inactives" id="langs__inactives">
+        <span class="langs__item">
+          {%- if langs_counter > 0 -%}
+              <a class="langs__link" href="{{- other_lang_page_url -}}">
+                {{ other_lang_page_lang | upcase }}
+              </a>
+            {%- else -%}
+              {%- if page.lang == 'en' -%}
+                <a class="langs__link" href="./espaniol_excursiones_privadas.htm">
+                  ES
+                </a>
+              {%- elsif page.lang == 'es' -%}
+                <a class="langs__link" href="./index.htm">
+                  EN
+                </a>
+              {%- endif -%}
+          {%- endif -%}
+        </span>
+      </div>
 
     </div>
   {%- endif -%}

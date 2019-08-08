@@ -24,6 +24,8 @@ url: "http://www.rhodesprivatetours.com" # the base hostname & protocol for your
 twitter_username: jekyllrb
 github_username:  jekyll
 
+i18n: true
+
 langs:
   - en
   - es
@@ -48,7 +50,6 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
 
-i18n: false
 
 google_analytics: UA-1499974-1
 
