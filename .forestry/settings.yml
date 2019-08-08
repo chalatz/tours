@@ -34,6 +34,7 @@ sections:
 - type: document
   path: pages/info/reviews-comments.md
   label: Testimonials page
+  read_only: true
 - type: heading
   label: Tours
 - type: directory
