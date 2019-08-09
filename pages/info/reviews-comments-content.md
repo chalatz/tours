@@ -16,32 +16,40 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2019"
-  text: "Nicholas it was an amazing experience. Thank you so much. We will recommend
-    your services again. \nSam and Mary (Aug 2nd)<br> sam_perera@yahoo.com\n\nWe were
-    so lucky and fortunate to have Michael share the beauty of his lovely island!
-    \ We spent 8 hours seeing all the beauty that Rhodes has to offer and take home
-    memories to last a lifetime!  Thank you again so much for everything and we hope
-    to see you again upon returning to Rhodes. Highly recommended!!!<br>\nMark  (Aug
-    1st)  williammarkhastings@yahoo.com\n\nHello, Thank you for planning for us a
-    wonderful day. Everything went very well and our driver was very nice and very
-    knowledgeable.  We really enjoyed it.  Thank you, Josee (July 27th) jmorin17@hotmail.com\n\nNicholas,
-    Our tour could not have been any better. Mike & Mike were the best!  Thanks for
-    your follow up and for having such excellent people in your company.  Regards,
-    Mike B. (July 26th)<br>\nmberger1@sbcglobal.net\n\nDear NICHOLAS & MICHAEL,  Thank
-    you very much for your kind hospitality and the trip was most enjoyable. I will
-    definitely be back in the future for more trips and will be sure to spread the
-    word of your great tour experience to friends. Thank you very much.<br>\nYours
-    sincerely. E. O. ONYA  (July 24th)<br>\ndr_onya@yahoo.com\n\nThanks Nicholas to
-    you and Apostolos!!! We spent a great time in Rhodes!!!  I had  a wonderful birthday!<br>\nRegards,
-    Monica,  monicacoro@mac.com<br>\n\nWe had a wonderful day in Rhodes. The island
-    is so beautiful, we enjoyed it more than Santorini. Andrew was a great tour/driver,
-    and very pleasant to spend the day with. His knowledge of Rhodes, and his insight
-    into modern economic and social issues in Greece was very informative. So much
-    better than being on a big bus tour from the cruise line.<br>\nRegards, Susan
-    and Nate (July 22nd) <br> \nsusantgans@gmail.com\n\nDear Nicholas, Thank you for
-    our tour. We all really enjoyed it and found Kostas the tour guide, very friendly
-    and informative. Also Jakob the driver, met us and transported us very happily
-    and safely.<br>\nKind regards, Elizabeth (July 21st)<br>\nliz8222@icloud.com\n\n\nHi
+  text: "\n\nNicholas. Michael was superb on both excursions. We learned a lot and
+    had a superb time with him. And you were right regarding Tsambica beach. Spectacular.<br>
+    \nJoel (Aug 4th)  jfeldman@sidley.com\n\nHi, we really enjoyed out time with Manuel
+    and we'll be back again soon. We will not hesitate to recommend you.<br> \nDavid
+    (Aug 3rd)  david@tomcoh.com\n\nWhat a superb day, an island tour with Sergio as
+    our driver, one of the nicest, friendliest and most knowledgeable people you could
+    meet. We would recommend Sergio and this company wholeheartedly. Thank you for
+    a great day.<br> \nJuliet  juliet.schaffer@gmail.com\n\nThanks so much for the
+    tour, Really enjoyed it!<br> \nAllan and Amanda  alpeck777@yahoo.com\n\nNicholas
+    it was an amazing experience. Thank you so much. We will recommend your services
+    again. \nSam and Mary (Aug 2nd)<br> sam_perera@yahoo.com\n\nWe were so lucky and
+    fortunate to have Michael share the beauty of his lovely island!  We spent 8 hours
+    seeing all the beauty that Rhodes has to offer and take home memories to last
+    a lifetime!  Thank you again so much for everything and we hope to see you again
+    upon returning to Rhodes. Highly recommended!!!<br>\nMark  (Aug 1st)  williammarkhastings@yahoo.com\n\nHello,
+    Thank you for planning for us a wonderful day. Everything went very well and our
+    driver was very nice and very knowledgeable.  We really enjoyed it.  Thank you,
+    Josee (July 27th) jmorin17@hotmail.com\n\nNicholas, Our tour could not have been
+    any better. Mike & Mike were the best!  Thanks for your follow up and for having
+    such excellent people in your company.  Regards, Mike B. (July 26th)<br>\nmberger1@sbcglobal.net\n\nDear
+    NICHOLAS & MICHAEL,  Thank you very much for your kind hospitality and the trip
+    was most enjoyable. I will definitely be back in the future for more trips and
+    will be sure to spread the word of your great tour experience to friends. Thank
+    you very much.<br>\nYours sincerely. E. O. ONYA  (July 24th)<br>\ndr_onya@yahoo.com\n\nThanks
+    Nicholas to you and Apostolos!!! We spent a great time in Rhodes!!!  I had  a
+    wonderful birthday!<br>\nRegards, Monica,  monicacoro@mac.com<br>\n\nWe had a
+    wonderful day in Rhodes. The island is so beautiful, we enjoyed it more than Santorini.
+    Andrew was a great tour/driver, and very pleasant to spend the day with. His knowledge
+    of Rhodes, and his insight into modern economic and social issues in Greece was
+    very informative. So much better than being on a big bus tour from the cruise
+    line.<br>\nRegards, Susan and Nate (July 22nd) <br> \nsusantgans@gmail.com\n\nDear
+    Nicholas, Thank you for our tour. We all really enjoyed it and found Kostas the
+    tour guide, very friendly and informative. Also Jakob the driver, met us and transported
+    us very happily and safely.<br>\nKind regards, Elizabeth (July 21st)<br>\nliz8222@icloud.com\n\n\nHi
     Nicholas,  Thank you so much for the tour especially teaming us up with Mahir.
     He was a great match and very helpful and informative, he knows his job and does
     it very well!  The tour itself was also perfect to really see every side of the
