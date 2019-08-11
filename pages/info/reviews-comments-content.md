@@ -16,15 +16,23 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2019"
-  text: "\n\nNicholas. Michael was superb on both excursions. We learned a lot and
-    had a superb time with him. And you were right regarding Tsambica beach. Spectacular.<br>
-    \nJoel (Aug 4th)  jfeldman@sidley.com\n\nHi, we really enjoyed out time with Manuel
-    and we'll be back again soon. We will not hesitate to recommend you.<br> \nDavid
-    (Aug 3rd)  david@tomcoh.com\n\nWhat a superb day, an island tour with Sergio as
-    our driver, one of the nicest, friendliest and most knowledgeable people you could
-    meet. We would recommend Sergio and this company wholeheartedly. Thank you for
-    a great day.<br> \nJuliet  juliet.schaffer@gmail.com\n\nThanks so much for the
-    tour, Really enjoyed it!<br> \nAllan and Amanda  alpeck777@yahoo.com\n\nNicholas
+  text: "Nicholas, Wonderful tour, I will definitely give you a great recommendation.
+    Warm regards, Angela (Aug 11th) angelalomb@aol.com\n\nDear Nicholas and Michael,
+    Now that I am back in Belgium, I can only confirm looking back upon a perfect
+    week on Rhodos - the two days I could spend with your company exploring the west
+    coast and Rhodes town were equally superb (perfect timing, background information,
+    flexibility - e.g. Thari monastery as an extra visit). By means of a private tour
+    I was able to visit many highlights of the island in an efficient and peaceful
+    way. I will write a positie review on Tripadvisor to support your work!<br> \nEfcharisto!,
+    Alain (10th Aug) alain.laridon@telenet.be\n\nNicholas. Michael was superb on both
+    excursions. We learned a lot and had a superb time with him. And you were right
+    regarding Tsambica beach. Spectacular.<br> \nJoel (Aug 4th)  jfeldman@sidley.com\n\nHi,
+    we really enjoyed out time with Manuel and we'll be back again soon. We will not
+    hesitate to recommend you.<br> \nDavid (Aug 3rd)  david@tomcoh.com\n\nWhat a superb
+    day, an island tour with Sergio as our driver, one of the nicest, friendliest
+    and most knowledgeable people you could meet. We would recommend Sergio and this
+    company wholeheartedly. Thank you for a great day.<br> \nJuliet  juliet.schaffer@gmail.com\n\nThanks
+    so much for the tour, Really enjoyed it!<br> \nAllan and Amanda  alpeck777@yahoo.com\n\nNicholas
     it was an amazing experience. Thank you so much. We will recommend your services
     again. \nSam and Mary (Aug 2nd)<br> sam_perera@yahoo.com\n\nWe were so lucky and
     fortunate to have Michael share the beauty of his lovely island!  We spent 8 hours
