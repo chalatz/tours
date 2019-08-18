@@ -91,3 +91,5 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+pages:
+- es_pages/info/accessible-tours.md
