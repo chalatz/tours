@@ -54,3 +54,5 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+pages:
+- es_pages/info/group-tours.md
