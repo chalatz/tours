@@ -112,7 +112,6 @@ sections:
 - type: document
   path: es_pages/services/car_driver.md
   label: COCHES CON CONDUCTOR
-  match: "**/*"
 - type: document
   path: es_pages/info/top-ten-reasons.md
   label: 10 RAZONES
