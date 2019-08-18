@@ -74,6 +74,7 @@ fields:
       name: alt
       label: Keywords
 pages:
+- es_pages/beaches/traganou.md
 - es_pages/beaches/stegna.md
 - es_pages/beaches/st-paul.md
 - es_pages/beaches/lindos.md
