@@ -2,6 +2,46 @@
 label: ES - Beach
 hide_body: false
 fields:
+- name: meta
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  - name: http_desc
+    type: text
+    config:
+      required: false
+    label: http_desc
+  - name: keywords
+    type: text
+    config:
+      required: false
+    label: keywords
+  - name: description
+    type: text
+    config:
+      required: false
+    label: description
+  - name: abstract
+    type: text
+    config:
+      required: false
+    label: abstract
+  - name: author
+    type: text
+    config:
+      required: false
+    label: author
+  - name: copyright
+    type: text
+    config:
+      required: false
+    label: copyright
+  label: Meta
 - type: text
   name: title
   label: title
