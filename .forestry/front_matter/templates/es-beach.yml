@@ -74,6 +74,7 @@ fields:
       name: alt
       label: Keywords
 pages:
+- es_pages/beaches/ialyssos.md
 - es_pages/beaches/haraki.md
 - es_pages/beaches/faliraki.md
 - es_pages/beaches/elli.md
