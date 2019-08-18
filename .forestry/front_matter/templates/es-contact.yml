@@ -2,27 +2,6 @@
 label: ES - Contact
 hide_body: true
 fields:
-- type: text
-  name: layout
-  label: layout
-- type: text
-  name: type
-  label: type
-- type: text
-  name: id
-  label: id
-- type: text
-  name: ref
-  label: ref
-- type: text
-  name: permalink
-  label: permalink
-- type: boolean
-  name: has_form
-  label: has_form
-- type: boolean
-  name: has_gallery
-  label: has_gallery
 - type: field_group
   name: meta
   label: meta
@@ -64,6 +43,7 @@ fields:
   - type: number
     name: items_per_row
     label: items_per_row
+    hidden: true
   - type: list
     name: columns
     label: columns
