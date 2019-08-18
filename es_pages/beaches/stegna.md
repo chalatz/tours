@@ -12,36 +12,32 @@ meta:
   abstract: Stegná, Playa de Stegná Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-
 title: Playa de Stegná Rodas Grecia (Pueblo de Arcángelos)
-
 info:
-  - label: Localización
-    text: a 32 Kms. (19,88 millas) de la ciudad de Rodas en la Costa Este
-  - label: Longitud
-    text: Pequeña playa
-  - label: Playa
-    text:  mezcla de arena y guijarros
-  - label: Suelo del Mar
-    text: guijarros y rocas
-  - label: Agua
-    text: Cristalina
-
+- label: Localización
+  text: a 32 Kms. (19,88 millas) de la ciudad de Rodas en la Costa Este
+- label: Longitud
+  text: Pequeña playa
+- label: Playa
+  text: mezcla de arena y guijarros
+- label: Suelo del Mar
+  text: guijarros y rocas
+- label: Agua
+  text: Cristalina
 gallery_rows:
-  - figures:
-    - thumb: img/rhodes_beaches/stegna_beach/stegna_beach_1-thumb.jpg
-      href: img/rhodes_beaches/stegna_beach/stegna_beach_1.jpg
-      alt: Stegna Beach, Rhodes Greece, Rhodes Tours
-    - thumb: img/rhodes_beaches/stegna_beach/stegna_beach_2-thumb.jpg
-      href: img/rhodes_beaches/stegna_beach/stegna_beach_2.jpg
-      alt: Stegna Beach, Rhodes Greece, Private tours in Rhodes
-    - thumb: img/rhodes_beaches/stegna_beach/stegna_beach_3-thumb.jpg
-      href: img/rhodes_beaches/stegna_beach/stegna_beach_3.jpg
-      alt: Best beaches in Greece, Islands beaches, Stegna Beach Rhodes
-    - thumb: img/rhodes_beaches/stegna_beach/stegna_beach_4-thumb.jpg
-      href: img/rhodes_beaches/stegna_beach/stegna_beach_4.jpg
-      alt: Stegna Beach, Rhodes Greece, Archangelos Village
-
+- figures:
+  - thumb: img/rhodes_beaches/stegna_beach/stegna_beach_1-thumb.jpg
+    href: img/rhodes_beaches/stegna_beach/stegna_beach_1.jpg
+    alt: Stegna Beach, Rhodes Greece, Rhodes Tours
+  - thumb: img/rhodes_beaches/stegna_beach/stegna_beach_2-thumb.jpg
+    href: img/rhodes_beaches/stegna_beach/stegna_beach_2.jpg
+    alt: Stegna Beach, Rhodes Greece, Private tours in Rhodes
+  - thumb: img/rhodes_beaches/stegna_beach/stegna_beach_3-thumb.jpg
+    href: img/rhodes_beaches/stegna_beach/stegna_beach_3.jpg
+    alt: Best beaches in Greece, Islands beaches, Stegna Beach Rhodes
+  - thumb: img/rhodes_beaches/stegna_beach/stegna_beach_4-thumb.jpg
+    href: img/rhodes_beaches/stegna_beach/stegna_beach_4.jpg
+    alt: Stegna Beach, Rhodes Greece, Archangelos Village
 related_tours:
 - Beach Tour of Rhodes-DT7
 
