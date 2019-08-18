@@ -103,6 +103,10 @@ sections:
 - type: document
   path: es_pages/info/contact.md
   label: CONTACTO
+- type: document
+  path: es_pages/info/faq.md
+  label: FAQ
+  match: "**/*"
 - type: heading
   label: Spanish Links
 - type: directory
