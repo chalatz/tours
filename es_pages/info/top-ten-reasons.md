@@ -14,9 +14,8 @@ meta:
   abstract: 10 Razones Para Reservar con Nosotros, Rhodes Private Tours
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  
 title: 10 RAZONES PARA RESERVAR CON NOSOTROS
-    
+
 ---
 ### Precios que no dependen de Intermediarios
 

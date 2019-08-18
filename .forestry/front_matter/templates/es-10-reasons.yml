@@ -30,3 +30,5 @@ fields:
 - type: text
   name: title
   label: title
+pages:
+- es_pages/info/top-ten-reasons.md
