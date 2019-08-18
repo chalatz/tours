@@ -106,7 +106,6 @@ sections:
 - type: document
   path: es_pages/info/group-tours.md
   label: TOURS PARA GRUPOS
-  match: "**/*"
 - type: document
   path: es_pages/info/faq.md
   label: FAQ
