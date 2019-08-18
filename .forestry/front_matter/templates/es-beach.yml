@@ -33,3 +33,5 @@ fields:
     - type: text
       name: alt
       label: Keywords
+pages:
+- es_pages/beaches/anthony-quinn.md
