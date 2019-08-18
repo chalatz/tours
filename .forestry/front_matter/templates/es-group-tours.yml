@@ -2,33 +2,6 @@
 label: ES - Group Tours
 hide_body: true
 fields:
-- type: text
-  name: layout
-  label: layout
-- type: text
-  name: type
-  label: type
-- type: text
-  name: id
-  label: id
-- type: text
-  name: ref
-  label: ref
-- type: text
-  name: permalink
-  label: permalink
-- type: boolean
-  name: banners_below
-  label: banners_below
-- type: boolean
-  name: banners_2
-  label: banners_2
-- type: boolean
-  name: has_form
-  label: has_form
-- type: boolean
-  name: has_gallery
-  label: has_gallery
 - type: field_group
   name: meta
   label: meta
@@ -63,10 +36,10 @@ fields:
   fields:
   - type: file
     name: src
-    label: src
+    label: Image
   - type: text
     name: alt
-    label: alt
+    label: Keywords
 - type: field_group_list
   name: sections
   label: sections
@@ -77,3 +50,7 @@ fields:
   - type: textarea
     name: text
     label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
