@@ -2,33 +2,6 @@
 label: ES - Cars and Drivers
 hide_body: false
 fields:
-- type: text
-  name: layout
-  label: layout
-- type: text
-  name: type
-  label: type
-- type: text
-  name: id
-  label: id
-- type: text
-  name: ref
-  label: ref
-- type: text
-  name: permalink
-  label: permalink
-- type: boolean
-  name: banners_below
-  label: banners_below
-- type: boolean
-  name: has_form
-  label: has_form
-- type: boolean
-  name: has_gallery
-  label: has_gallery
-- type: boolean
-  name: has_cta_links
-  label: has_cta_links
 - type: field_group
   name: meta
   label: meta
@@ -60,10 +33,10 @@ fields:
   fields:
   - type: file
     name: src
-    label: src
+    label: Image
   - type: text
     name: alt
-    label: alt
+    label: Keywords
 - type: text
   name: title
   label: title
@@ -80,6 +53,10 @@ fields:
   - type: textarea
     name: text
     label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 - type: field_group
   name: not_finding
   label: not_finding
@@ -96,3 +73,4 @@ fields:
   - type: text
     name: contact_us_button_text
     label: contact_us_button_text
+  hidden: true
