@@ -34,5 +34,6 @@ fields:
       name: alt
       label: Keywords
 pages:
+- es_pages/beaches/faliraki.md
 - es_pages/beaches/elli.md
 - es_pages/beaches/anthony-quinn.md
