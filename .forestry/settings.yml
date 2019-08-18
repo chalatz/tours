@@ -85,11 +85,6 @@ sections:
   label: Quick Facts about Rhodes
   create: all
   match: "**/*"
-- type: directory
-  path: es_pages/beaches
-  label: Beaches
-  create: all
-  match: "**/*"
 - type: heading
   label: Spanish Tours
 - type: directory
@@ -156,6 +151,11 @@ sections:
 - type: directory
   path: es_pages/quick-facts
   label: Quick Facts about Rhodes
+  create: all
+  match: "**/*"
+- type: directory
+  path: es_pages/beaches
+  label: Beaches
   create: all
   match: "**/*"
 upload_dir: img
