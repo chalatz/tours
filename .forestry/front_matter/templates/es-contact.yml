@@ -47,3 +47,5 @@ fields:
   - type: list
     name: columns
     label: columns
+pages:
+- es_pages/info/contact.md
