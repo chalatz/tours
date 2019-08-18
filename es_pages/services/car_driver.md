@@ -9,10 +9,14 @@ has_form: false
 has_gallery: false
 has_cta_links: true
 meta:
-  title: Coches con Conductor en Rodas Grecia, Viajes Privados, Guía Conductor, Isla de Rodas
-  http_desc: Coches con Conductor en Rodas Grecia, Viajes Privados, Guía Conductor, Isla de Rodas
-  description: Coches con Conductor en Rodas Grecia, Viajes Privados, Guía Conductor, Isla de Rodas
-  keywords: Coches con Conductor en Rodas Grecia, Viajes Privados, Guía Conductor, Isla de Rodas
+  title: Coches con Conductor en Rodas Grecia, Viajes Privados, Guía Conductor, Isla
+    de Rodas
+  http_desc: Coches con Conductor en Rodas Grecia, Viajes Privados, Guía Conductor,
+    Isla de Rodas
+  description: Coches con Conductor en Rodas Grecia, Viajes Privados, Guía Conductor,
+    Isla de Rodas
+  keywords: Coches con Conductor en Rodas Grecia, Viajes Privados, Guía Conductor,
+    Isla de Rodas
   abstract: Coches con Conductor en Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
@@ -35,12 +39,12 @@ sections:
     - Todos nuestros vehículos están autorizados por el Ministerio griego de Transportes y controladas por la Autoridad de Control de Transporte griego (KTEO) cada año.
 
     - Según las leyes griegas, cada coche está permitido transferir a un máximo de 4 pasajeros. [Los vehículos más grandes están disponibles para grupos](/tours_para_grupos_rodas_grecia.htm)
-
 not_finding:
   keyword: Not finding?
-  title: ¿No encuentra lo que busca?
-  subtitle: No hay problema, podemos crear un itinerario personalizado para usted. ¡Cuéntenos de su tour!
-  contact_us_button_text: CONTÁCTENOS    
+  title: "¿No encuentra lo que busca?"
+  subtitle: No hay problema, podemos crear un itinerario personalizado para usted.
+    ¡Cuéntenos de su tour!
+  contact_us_button_text: CONTÁCTENOS
 
 ---
 Sea cual sea el propósito de su visita, nos aseguramos de que sea memorable. Ya sea un tour privado o una excursión en tierra, atendemos todas sus necesidades. Te permitimos relajarte y disfrutar del impresionante ambiente de la isla.
