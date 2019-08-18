@@ -40,3 +40,5 @@ fields:
   - type: textarea
     name: a
     label: a
+pages:
+- es_pages/info/faq.md
