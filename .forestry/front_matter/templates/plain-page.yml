@@ -5,33 +5,43 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: type
   label: type
+  hidden: true
 - type: text
   name: page_type
   label: page_type
+  hidden: true
 - type: text
   name: id
   label: id
+  hidden: true
 - type: text
   name: ref
   label: ref
+  hidden: true
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: boolean
   name: banners_below
   label: banners_below
+  hidden: true
 - type: boolean
   name: banners_2
   label: banners_2
+  hidden: true
 - type: boolean
   name: has_form
   label: has_form
+  hidden: true
 - type: boolean
   name: has_gallery
   label: has_gallery
+  hidden: true
 - type: field_group
   name: meta
   label: meta
@@ -66,10 +76,10 @@ fields:
   fields:
   - type: file
     name: src
-    label: src
+    label: Image
   - type: text
     name: alt
-    label: alt
+    label: Keywords
 - type: field_group_list
   name: sections
   label: sections
@@ -77,3 +87,7 @@ fields:
   - type: textarea
     name: text
     label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
