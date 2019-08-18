@@ -16,10 +16,14 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2019"
-  text: "Nicholas, Thank you for a wonderful day!  Steve (Stathis) our driver was
-    awesome.  We are looking forward to coming back and will pass on your details
-    to our friends :) Anita and family (Aug 16th)  anita01lee@gmail.com\n\nWhile I
-    was in Rhodes on a cruise, we used Rhodes Private Toues for a beach and island
+  text: "Nicholas thank you so much.  We thoroughly enjoyed the day and Stergos was
+    fantastic - again!  I’ll be recommending you to all my friends should they ever
+    visit Rhodes. And posting again on trip advisor just how good the trips are. Thanks
+    again for making our holiday something we will remember.<br> Regards, Keith (Aug
+    19th)  keith.prd@gmail.com\n\nNicholas, Thank you for a wonderful day!  Steve
+    (Stathis) our driver was awesome.  We are looking forward to coming back and will
+    pass on your details to our friends :) Anita and family (Aug 16th)  anita01lee@gmail.com\n\nWhile
+    I was in Rhodes on a cruise, we used Rhodes Private Toues for a beach and island
     tour. Our driver was fantastic and Nicholas made sure we were taken care of all
     day. We went to several beaches and with the suggestion from our driver we chose
     a great beach to enjoy our day in Rhodes. This is a fantastic company!  I would
