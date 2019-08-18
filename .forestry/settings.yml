@@ -97,6 +97,10 @@ sections:
 - type: document
   path: es_pages/info/about.md
   label: About Us - SOBRE NOSOTROS
+- type: document
+  path: es_pages/info/accessible-tours.md
+  label: TOURS ACCESIBLES
+  match: "**/*"
 - type: heading
   label: Spanish Links
 - type: directory
