@@ -3,46 +3,6 @@ label: ES - Beach
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-- type: text
-  name: permalink
-  label: permalink
-- type: boolean
-  name: has_gallery
-  label: has_gallery
-- type: text
-  name: id
-  label: id
-- type: text
-  name: ref
-  label: ref
-- type: field_group
-  name: meta
-  label: meta
-  fields:
-  - type: text
-    name: title
-    label: title
-  - type: textarea
-    name: http_desc
-    label: http_desc
-  - type: textarea
-    name: keywords
-    label: keywords
-  - type: textarea
-    name: description
-    label: description
-  - type: text
-    name: abstract
-    label: abstract
-  - type: text
-    name: author
-    label: author
-  - type: text
-    name: copyright
-    label: copyright
-- type: text
   name: title
   label: title
 - type: field_group_list
@@ -65,10 +25,11 @@ fields:
     fields:
     - type: file
       name: thumb
-      label: thumb
+      label: Image
     - type: file
       name: href
       label: href
+      hidden: true
     - type: text
       name: alt
-      label: alt
+      label: Keywords
