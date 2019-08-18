@@ -109,6 +109,10 @@ sections:
 - type: document
   path: es_pages/info/faq.md
   label: FAQ
+- type: document
+  path: es_pages/info/top-ten-reasons.md
+  label: 10 RAZONES
+  match: "**/*"
 - type: heading
   label: Spanish Links
 - type: directory
