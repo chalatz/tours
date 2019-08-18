@@ -102,7 +102,7 @@ sections:
   label: TOURS ACCESIBLES
 - type: document
   path: es_pages/info/contact.md
-  label: Contact
+  label: CONTACTO
 - type: heading
   label: Spanish Links
 - type: directory
