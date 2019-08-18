@@ -1,0 +1,74 @@
+---
+label: ES - Beach
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: boolean
+  name: has_gallery
+  label: has_gallery
+- type: text
+  name: id
+  label: id
+- type: text
+  name: ref
+  label: ref
+- type: field_group
+  name: meta
+  label: meta
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: http_desc
+    label: http_desc
+  - type: textarea
+    name: keywords
+    label: keywords
+  - type: textarea
+    name: description
+    label: description
+  - type: text
+    name: abstract
+    label: abstract
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: copyright
+    label: copyright
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: info
+  label: info
+  fields:
+  - type: text
+    name: label
+    label: label
+  - type: text
+    name: text
+    label: text
+- type: field_group_list
+  name: gallery_rows
+  label: gallery_rows
+  fields:
+  - type: field_group_list
+    name: figures
+    label: figures
+    fields:
+    - type: file
+      name: thumb
+      label: thumb
+    - type: file
+      name: href
+      label: href
+    - type: text
+      name: alt
+      label: alt
