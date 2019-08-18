@@ -74,6 +74,7 @@ fields:
       name: alt
       label: Keywords
 pages:
+- es_pages/beaches/st-paul.md
 - es_pages/beaches/lindos.md
 - es_pages/beaches/kalithea.md
 - es_pages/beaches/ixia.md
