@@ -4162,7 +4162,7 @@ reviews:
     was extensive, and you were able to convey all this information in an exciting
     way. You were accommodating to our schedule and our interests and we want to thank
     you for a memorable trip. We will highly recommend you to our friends and family
-    when they visit Rhodes.\n\nSincerely,<br>\nLinda and James Koo<br>\nlsberm@optonline.net\n\nNicholas<br>\nWe
+    when they visit Rhodes.<br>\nSincerely,<br>\nLinda and James Koo<br>\nlsberm@optonline.net\n\nNicholas<br>\nWe
     are home in the United States having had a wonderful vacation and cruise.<br>\nWant
     to thank you for having Michael (Karavasilis) act as our driver. He was courteous,
     provided us with a lot of information, had wonderful conversation and was dedicated
