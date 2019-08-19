@@ -4103,7 +4103,7 @@ reviews:
     in all of the \"right\" places and his recommendations for restaurants were BEYOND
     perfect. I commend Nick for a job well done and thank him personally for going
     above and beyond any expectation that I had of a \"city tour\". Thanks again,
-    Nick!!!!\n\nSincerely, Faaizah Al-Quaid\n\n(Dubai, UAE) faaizah.al-quaid@spcorp.com\n\nNicholas
+    Nick!!!!<br>\nSincerely, Faaizah Al-Quaid<br>\n(Dubai, UAE) faaizah.al-quaid@spcorp.com\n\nNicholas
     - Thank you so much for a fabulous day! We especially LOVED our swim at Lindos
     followed by the delicious Rodos wine! I have a terrific picture of you that I
     will forward when I get a chance to upload it. Thanks again for a terrific trip!
