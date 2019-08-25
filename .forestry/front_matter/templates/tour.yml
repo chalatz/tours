@@ -300,6 +300,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/tours/driving/beach-tour-of-rhodes.md
 - pages/tours/driving/jewish-sites-tours-greece.md
 - pages/tours/driving/halfday-private-tours-west-coast.md
 - pages/tours/driving/fullday-private-tours-east-west-coast.md
@@ -316,7 +317,6 @@ pages:
 - pages/tours/guided/jewish.md
 - pages/tours/guided/knights-of-st-john.md
 - pages/tours/guided/landscape-tour.md
-- pages/tours/driving/beach-tour-of-rhodes.md
 - pages/tours/driving/nature.md
 - pages/tours/guided/best-attractions.md
 - pages/tours/guided/scenic-tour.md
