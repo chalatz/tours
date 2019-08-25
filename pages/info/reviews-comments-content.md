@@ -16,42 +16,47 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2019"
-  text: "Nicholas thank you so much.  We thoroughly enjoyed the day and Stergos was
-    fantastic - again!  I’ll be recommending you to all my friends should they ever
-    visit Rhodes. And posting again on trip advisor just how good the trips are. Thanks
-    again for making our holiday something we will remember.<br> Regards, Keith (Aug
-    19th)  keith.prd@gmail.com\n\nNicholas, Thank you for a wonderful day!  Steve
-    (Stathis) our driver was awesome.  We are looking forward to coming back and will
-    pass on your details to our friends :) Anita and family (Aug 16th)  anita01lee@gmail.com\n\nWhile
-    I was in Rhodes on a cruise, we used Rhodes Private Toues for a beach and island
-    tour. Our driver was fantastic and Nicholas made sure we were taken care of all
-    day. We went to several beaches and with the suggestion from our driver we chose
-    a great beach to enjoy our day in Rhodes. This is a fantastic company!  I would
-    certainly use them again next time we are in Rhodes.<br> \nKellie (Aug 16th)  keaton0619@yahoo.com\n\nDear
-    Nicolas, The ride with Stergos was perfect. Please give him our greetings again.
-    Kind regards, Ralf (Aug 15th)  ralf.beutner@web.de\n\nThank you so much - we had
-    an amazing afternoon / evening.  Andrew is very charming and calm.  It was a treat
-    to hear about living in Rhodes from him.<br> Best wishes,  Belinda   (August 14th)
-    \ belinda.wiklund@gmail.com\n\nGood morning Nicholas! My partner and I had such
-    an amazing time on our tour with Mike that I have recommended the same to my parents,
-    who are due to visit Rhodes soon. <br> Pamela (Aug 14th)  pamela.eas@gmail.com\n\nNicholas,
-    Wonderful tour, I will definitely give you a great recommendation. Warm regards,
-    Angela (Aug 11th) angelalomb@aol.com\n\nDear Nicholas and Michael, Now that I
-    am back in Belgium, I can only confirm looking back upon a perfect week on Rhodos
-    - the two days I could spend with your company exploring the west coast and Rhodes
-    town were equally superb (perfect timing, background information, flexibility
-    - e.g. Thari monastery as an extra visit). By means of a private tour I was able
-    to visit many highlights of the island in an efficient and peaceful way. I will
-    write a positie review on Tripadvisor to support your work!<br> \nEfcharisto!,
-    Alain (10th Aug) alain.laridon@telenet.be\n\nNicholas. Michael was superb on both
-    excursions. We learned a lot and had a superb time with him. And you were right
-    regarding Tsambica beach. Spectacular.<br> \nJoel (Aug 4th)  jfeldman@sidley.com\n\nHi,
-    we really enjoyed out time with Manuel and we'll be back again soon. We will not
-    hesitate to recommend you.<br> \nDavid (Aug 3rd)  david@tomcoh.com\n\nWhat a superb
-    day, an island tour with Sergio as our driver, one of the nicest, friendliest
-    and most knowledgeable people you could meet. We would recommend Sergio and this
-    company wholeheartedly. Thank you for a great day.<br> \nJuliet  juliet.schaffer@gmail.com\n\nThanks
-    so much for the tour, Really enjoyed it!<br> \nAllan and Amanda  alpeck777@yahoo.com\n\nNicholas
+  text: "Thank you so much we all had a great time and enjoyed our tour very much.
+    \ We loved the island of Rhodes and will be back<br>\nColleen (Aug 23rd)   lily.blyth@icloud.com\n\nHi
+    Nicholas. Thanks so much for our wonderful time on Rhodes. Please give our warm
+    regards to Andrew. Thanks again to you and Andrew for making it so special.<br>
+    Patti (Aug 21st) pbaio@cox.net\n\nNicholas thank you so much.  We thoroughly enjoyed
+    the day and Stergos was fantastic - again!  I’ll be recommending you to all my
+    friends should they ever visit Rhodes. And posting again on trip advisor just
+    how good the trips are. Thanks again for making our holiday something we will
+    remember.<br> Regards, Keith (Aug 19th)  keith.prd@gmail.com\n\nNicholas, Thank
+    you for a wonderful day!  Steve (Stathis) our driver was awesome.  We are looking
+    forward to coming back and will pass on your details to our friends :) Anita and
+    family (Aug 16th)  anita01lee@gmail.com\n\nWhile I was in Rhodes on a cruise,
+    we used Rhodes Private Toues for a beach and island tour. Our driver was fantastic
+    and Nicholas made sure we were taken care of all day. We went to several beaches
+    and with the suggestion from our driver we chose a great beach to enjoy our day
+    in Rhodes. This is a fantastic company!  I would certainly use them again next
+    time we are in Rhodes.<br> \nKellie (Aug 16th)  keaton0619@yahoo.com\n\nDear Nicolas,
+    The ride with Stergos was perfect. Please give him our greetings again. Kind regards,
+    Ralf (Aug 15th)  ralf.beutner@web.de\n\nThank you so much - we had an amazing
+    afternoon / evening.  Andrew is very charming and calm.  It was a treat to hear
+    about living in Rhodes from him.<br> Best wishes,  Belinda   (August 14th)  belinda.wiklund@gmail.com\n\nGood
+    morning Nicholas! My partner and I had such an amazing time on our tour with Mike
+    that I have recommended the same to my parents, who are due to visit Rhodes soon.
+    <br> Pamela (Aug 14th)  pamela.eas@gmail.com\n\nNicholas, Wonderful tour, I will
+    definitely give you a great recommendation. Warm regards, Angela (Aug 11th) angelalomb@aol.com\n\nDear
+    Nicholas and Michael, Now that I am back in Belgium, I can only confirm looking
+    back upon a perfect week on Rhodos - the two days I could spend with your company
+    exploring the west coast and Rhodes town were equally superb (perfect timing,
+    background information, flexibility - e.g. Thari monastery as an extra visit).
+    By means of a private tour I was able to visit many highlights of the island in
+    an efficient and peaceful way. I will write a positie review on Tripadvisor to
+    support your work!<br> \nEfcharisto!, Alain (10th Aug) alain.laridon@telenet.be\n\nNicholas.
+    Michael was superb on both excursions. We learned a lot and had a superb time
+    with him. And you were right regarding Tsambica beach. Spectacular.<br> \nJoel
+    (Aug 4th)  jfeldman@sidley.com\n\nHi, we really enjoyed out time with Manuel and
+    we'll be back again soon. We will not hesitate to recommend you.<br> \nDavid (Aug
+    3rd)  david@tomcoh.com\n\nWhat a superb day, an island tour with Sergio as our
+    driver, one of the nicest, friendliest and most knowledgeable people you could
+    meet. We would recommend Sergio and this company wholeheartedly. Thank you for
+    a great day.<br> \nJuliet  juliet.schaffer@gmail.com\n\nThanks so much for the
+    tour, Really enjoyed it!<br> \nAllan and Amanda  alpeck777@yahoo.com\n\nNicholas
     it was an amazing experience. Thank you so much. We will recommend your services
     again. \nSam and Mary (Aug 2nd)<br> sam_perera@yahoo.com\n\nWe were so lucky and
     fortunate to have Michael share the beauty of his lovely island!  We spent 8 hours
