@@ -300,6 +300,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/tours/driving/fullday-private-tours-east-west-coast.md
 - pages/tours/driving/best-of-rhodes-tours-greece.md
 - es_pages/tours/halfday-private-tours-west-coast.md
 - es_pages/tours/fullday-private-tours-east-west-coast.md
@@ -324,4 +325,3 @@ pages:
 - pages/tours/walking/town.md
 - pages/tours/walking/night.md
 - pages/tours/driving/halfday-private-tours-west-coast.md
-- pages/tours/driving/fullday-private-tours-east-west-coast.md
