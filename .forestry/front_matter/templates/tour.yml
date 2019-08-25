@@ -300,6 +300,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/tours/guided/west-coast.md
 - pages/tours/guided/best-off.md
 - pages/tours/guided/best-attractions.md
 - pages/tours/driving/south-west-coast.md
@@ -321,7 +322,6 @@ pages:
 - pages/tours/driving/nature.md
 - pages/tours/guided/scenic-tour.md
 - pages/tours/guided/natural-attractions.md
-- pages/tours/guided/west-coast.md
 - pages/tours/walking/knights.md
 - pages/tours/walking/town.md
 - pages/tours/walking/night.md
