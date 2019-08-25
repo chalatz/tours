@@ -171,7 +171,8 @@ faq:
     a: <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
       <a href="./rhodes_wine_tours_wineries_greece.htm">Wines</a>, the famous handmade
       <a href="./handmade_pottery_greece.htm">Rhodes Pottery, Ceramics</a>, and the
-      beautiful <span class="link_inline"><a href="best_beaches.htm">Rhodes Beaches</a></span>
+      beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
+      Beaches</a></span>
 included:
   items:
   - text: Private Tour (just your party)
