@@ -76,7 +76,7 @@ sections:
         una vez que se levantó."
     - thumb: img/New_Town/church_of_the_annunciation_2_mod_small.jpg
       href: img/New_Town/church_of_the_annunciation_2_mod.jpg
-      alt: Church of the Annunciation, Rhodes Taxi Tours
+      alt: La iglesia de la Anunciación de Rodas
       caption: La iglesia de la Anunciación (es hoy la catedral de la ciudad) al lado
         de las premisas de la prefectura en el centro de la ciudad de Rodas.
     - thumb: img/New_Town/church_of_the_annunciation_3_mod_small.jpg
