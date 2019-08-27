@@ -78,9 +78,8 @@ sections:
   - figures:
     - thumb: img/East_Coast/seven_springs_mod_small.jpg
       href: img/East_Coast/seven_springs_mod.jpg
-      alt: Seven Springs of Rhodes Greece, Rhodes Taxi Tours, Taxi Tours of Rhodes,
-        Taxi Tours Greece Rhodes
-      caption: Siete Fuentes
+      alt: Siete Fuentes Rodas Grecia
+      caption: Siete Fuentes Rodas Grecia
     - thumb: img/East_Coast/rhodes_pottery_mod_small.jpg
       href: img/East_Coast/rhodes_pottery_mod.jpg
       alt: Rhodes Pottery Greece, Vases
