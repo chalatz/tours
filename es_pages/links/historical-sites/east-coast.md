@@ -99,8 +99,8 @@ sections:
   - figures:
     - thumb: img/East_Coast/ancient_lindos_acropolis_mod_small.jpg
       href: img/East_Coast/ancient_lindos_acropolis_mod.jpg
-      alt: Acropolis of Lindos, Rhodes Taxi Tours
-      caption: Lindos, los 50km (35 millas) de la ciudad de Rodas.
+      alt: Lindos Rodas Grecia
+      caption: Lindos, 50km (35 millas) de la ciudad de Rodas.
     - thumb: img/East_Coast/ancient_lindos_acropolis_2_mod_small.jpg
       href: img/East_Coast/ancient_lindos_acropolis_2_mod.jpg
       alt: Lindos Village, Rhodes Taxi Tours
