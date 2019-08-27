@@ -95,7 +95,7 @@ sections:
         en 1932. Contiene hoy el “casino Rodos”.
     - thumb: img/New_Town/casino_rodos_mod_small.jpg
       href: img/New_Town/casino_rodos_mod.jpg
-      alt: Casino Rodos, Rhodes Personal Guide
+      alt: El "Casino Rodos"
       caption: El "Casino Rodos".
     - thumb: img/New_Town/byzantine_windmills_mod_small.jpg
       href: img/New_Town/byzantine_windmills_mod.jpg
