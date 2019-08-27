@@ -107,7 +107,7 @@ sections:
       caption: La calle principal de Collachio (calle de los Caballeros).
     - thumb: img/Old_Town/set_2/street_of_the_knights_2_mod_small.jpg
       href: img/Old_Town/set_2/street_of_the_knights_2_mod.jpg
-      alt: Rhodes Old City, Rhodes Island Tour
+      alt: El Collachio, La Ciudad Medieval de Rodas
       caption: "(Calle de los Caballeros) Langues Varios tenían sus palacios a lo
         largo de la calle. Ellos habían decorado portales y ventanas, además de varios
         escudos de armas."
