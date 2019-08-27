@@ -64,7 +64,7 @@ sections:
       caption: Faliraki
     - thumb: img/East_Coast/antony_queen_bay_mod_small.jpg
       href: img/East_Coast/antony_queen_bay_mod.jpg
-      alt: Antony Queen Bay, Rhodes Taxi Tours
+      alt: La Bahía de Antony Quinn, Rhodes Taxi Tours
       caption: La Bahía de Antony Quinn
     - thumb: img/East_Coast/antony_queen_beach_mod_small.jpg
       href: img/East_Coast/antony_queen_beach_mod.jpg
