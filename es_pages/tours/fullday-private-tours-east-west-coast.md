@@ -8,17 +8,17 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Rhodes private tours. Rhodes private shore excursions, Private tours of Rhodes
-    Island Greece, full day tour.
-  description: Rhodes private tours. Rhodes private shore excursions, Private tours
-    of Rhodes Island Greece, East West coast full day tour.
-  keywords: Rhodes private tours, Rhodes private shore excursions, Private tours of
-    Rhodes Island Greece, East West coast full day tour
-  abstract: Rhodes private tours and shore excursions
+  title: Tour privado de día completo, Rodas Grecia Viaje privado de día entero, Tours
+    Privados de Rodas
+  description: Tour privado de día completo, Rodas Grecia Viaje privado de día entero,
+    Tours Privados de Rodas
+  keywords: Tour privado de día completo, Rodas Grecia Viaje privado de día entero,
+    Tours Privados de Rodas
+  abstract: Tour privado de día completo, Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  http_desc: Rhodes private tours. Rhodes private shore excursions, Private tours
-    of Rhodes Island Greece, East West coast full day tour.
+  http_desc: Tour privado de día completo, Rodas Grecia Viaje privado de día entero,
+    Tours Privados de Rodas
 title: '"TOUR PRIVADO DE DÍA COMPLETO" '
 summary:
   paragraphs:
