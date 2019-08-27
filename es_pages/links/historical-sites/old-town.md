@@ -113,13 +113,13 @@ sections:
         escudos de armas."
     - thumb: img/Old_Town/set_2/the_hospital_of_the_knights_mod_small.jpg
       href: img/Old_Town/set_2/the_hospital_of_the_knights_mod.jpg
-      alt: The Hospital of the Knights, Rhodes Medieval City
+      alt: El Collachio, La Ciudad Medieval de Rodas
       caption: "(Museo Arqueológico de Rodas) El hospital fue construido por el gran
         maestro Jean de Lastic en 1440 y agrandado por del gran maestro d’Aubusson
         en 1481-89."
     - thumb: img/Old_Town/set_2/rhodes_archaeological_museum_mod_small.jpg
       href: img/Old_Town/set_2/rhodes_archaeological_museum_mod.jpg
-      alt: Medieval City of Rhodes, Rhodes Archaeological Museum
+      alt: El Collachio, La Ciudad Medieval de Rodas
       caption: "(Museo Arqueológico de Rodas) Fue restaurado por la administración
         italiana en 1913-18 y se utiliza después para contener el Museo Arqueológico
         de Rodas."
