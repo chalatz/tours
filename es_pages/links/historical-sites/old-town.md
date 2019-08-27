@@ -103,7 +103,7 @@ sections:
   - figures:
     - thumb: img/Old_Town/set_2/street_of_the_knights_mod_small.jpg
       href: img/Old_Town/set_2/street_of_the_knights_mod.jpg
-      alt: Street of The Knights, Rhodes Island Tours
+      alt: El Collachio, La Ciudad Medieval de Rodas
       caption: La calle principal de Collachio (calle de los Caballeros).
     - thumb: img/Old_Town/set_2/street_of_the_knights_2_mod_small.jpg
       href: img/Old_Town/set_2/street_of_the_knights_2_mod.jpg
