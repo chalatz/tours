@@ -68,8 +68,7 @@ sections:
       caption: La Bahía de Antony Quinn
     - thumb: img/East_Coast/antony_queen_beach_mod_small.jpg
       href: img/East_Coast/antony_queen_beach_mod.jpg
-      alt: Antony Queen Bay, Rhodes Private Tours, Rhodes Taxi Tours, Taxi Tours of
-        Rhodes, Taxi Tours Greece Rhodes
+      alt: 'La Bahía de Antony Quinn '
       caption: La Bahía de Antony Quinn
 - desc: |-
     Damos vuelta a la carretera principal, y pasamos a través del pueblo de Afandou. En una distancia de 6 kilómetros al sur, es el lugar llamado Kolimbia, en donde se localiza el Epta Pighes (Siete Fuentes).
