@@ -149,7 +149,7 @@ sections:
   - figures:
     - thumb: img/Old_Town/set_3/old_town_panorama_the_burgus_mod_small.jpg
       href: img/Old_Town/set_3/old_town_panorama_the_burgus_mod.jpg
-      alt: Old Town of Rhodes, View, Island Tour
+      alt: El Burgo, La Ciudad Medieval de Rodas
       caption: Una vista panorámica de la ciudad vieja.
     - thumb: img/Old_Town/set_3/ippokratous_square_mod_small.jpg
       href: img/Old_Town/set_3/ippokratous_square_mod.jpg
