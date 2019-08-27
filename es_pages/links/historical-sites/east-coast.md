@@ -34,8 +34,8 @@ sections:
         arquitecto Pedro Lombardi.
     - thumb: img/East_Coast/fountains_mod_small.jpg
       href: img/East_Coast/fountains_mod.jpg
-      alt: Taxi Tours of Rhodes East Coast, Kalithea, Rhodes Taxi Tours, Taxi Tours
-        of Rhodes, Taxi Tours Greece Rhodes
+      alt: 'El agua de manantial fluye de las seis fuentes en una circular cisterna..
+        Baños de Kalithea '
       caption: El agua de manantial fluye de las seis fuentes en una circular cisterna.
     - thumb: img/East_Coast/kallithea_rocks_mod_small.jpg
       href: img/East_Coast/kallithea_rocks_mod.jpg
