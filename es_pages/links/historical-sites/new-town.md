@@ -58,8 +58,7 @@ sections:
         Santo Nicolás.
     - thumb: img/New_Town/saint_nicholas_fort_2_mod_small.jpg
       href: img/New_Town/saint_nicholas_fort_2_mod.jpg
-      alt: Saint Nicholas fort, Rhodes Private Tours, Shore Excursions of Rhodes,
-        Shore Excursions Greece Rhodes, Rhodes Shore Excursions
+      alt: La Nueva Ciudad de Rodas
       caption: El fuerte del Santo Nicolás.
 - gallery_rows:
   - figures:
