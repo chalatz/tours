@@ -49,13 +49,11 @@ sections:
         esta parte de la actual ciudad.
     - thumb: img/New_Town/mandraki_harbor_2_mod_small.jpg
       href: img/New_Town/mandraki_harbor_2_mod.jpg
-      alt: Mandraki Harbor, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
-        Rhodes Shore Excursions
+      alt: La Nueva Ciudad de Rodas
       caption: El Mandraki
     - thumb: img/New_Town/saint_nicholas_fort_mod_small.jpg
       href: img/New_Town/saint_nicholas_fort_mod.jpg
-      alt: Saint Nicholas fort, Rhodes Excursions, Shore Excursions of Rhodes, Shore
-        Excursions Greece Rhodes, Rhodes Shore Excursions
+      alt: La Nueva Ciudad de Rodas
       caption: Opuesto a el pequeño viejo puerto de Mandraki, coloca, el fuerte del
         Santo Nicolás.
     - thumb: img/New_Town/saint_nicholas_fort_2_mod_small.jpg
