@@ -5,15 +5,15 @@ has_gallery: true
 id: beach_site_anthony_quinn
 ref: beach_site_anthony_quinn
 meta:
-  title: Anthony Quinn Bay , Rhodes Beach , Anthony Quinn Bay , Beach in Rhodes Greece
-    , Rhodes Private Tours
-  http_desc: Anthony Quinn Bay , Rhodes Beach Greece , Anthony Quinn Bay , Beach in
-    Rhodes Greece , Rhodes Private Tours
-  keywords: Anthony Quinn Bay , Rhodes Beach Greece , Anthony Quinn Bay , Beach in
-    Rhodes Greece , Rhodes Private Tours
-  description: Anthony Quinn Bay , Rhodes Beach Greece , Anthony Quinn Bay , Beach
-    in Rhodes Greece , Rhodes Private Tours
-  abstract: Rhodes private tours and shore excursions
+  title: La Bahía de Anthony Quinn Rodas Grecia, La Playa de Anthony Quinn en Rodas
+    Grecia, las playas de Rodas Grecia, Ladiko Playa
+  http_desc: La Bahía de Anthony Quinn Rodas, La Playa de Anthony Quinn en Rodas Grecia,
+    las playas de Rodas Grecia, Ladiko Playa
+  keywords: La Bahía de Anthony Quinn Rodas, La Playa de Anthony Quinn en Rodas Grecia,
+    las playas de Rodas Grecia, Ladiko Playa
+  description: La Bahía de Anthony Quinn Rodas, La Playa de Anthony Quinn en Rodas
+    Grecia, las playas de Rodas Grecia, Ladiko Playa
+  abstract: La Bahía de Anthony Quinn Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: La Bahía de Anthony Quinn Rodas Grecia
