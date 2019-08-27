@@ -81,7 +81,7 @@ sections:
         de las premisas de la prefectura en el centro de la ciudad de Rodas.
     - thumb: img/New_Town/church_of_the_annunciation_3_mod_small.jpg
       href: img/New_Town/church_of_the_annunciation_3_mod.jpg
-      alt: Church of the Annunciation, Rhodes Travel Guide
+      alt: La iglesia de la Anunciación
       caption: La iglesia de la Anunciación
 - gallery_rows:
   - figures:
