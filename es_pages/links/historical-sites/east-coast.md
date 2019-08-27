@@ -39,8 +39,8 @@ sections:
       caption: El agua de manantial fluye de las seis fuentes en una circular cisterna.
     - thumb: img/East_Coast/kallithea_rocks_mod_small.jpg
       href: img/East_Coast/kallithea_rocks_mod.jpg
-      alt: Kalithea, Rhodes Taxi Tour, Rhodes Taxi Tours, Taxi Tours of Rhodes, Taxi
-        Tours Greece Rhodes
+      alt: Playa de Kalithea. En este ajardinado natural, filmaron la película “evasión
+        a Atenea” (Escape to Athena) con Telly Savalas y a Roger Moore.
       caption: Playa de Kalithea. En este ajardinado natural, filmaron la película
         “evasión a Atenea” (Escape to Athena) con Telly Savalas y a Roger Moore.
     - thumb: img/East_Coast/kalithea_beach_mod_small.jpg
