@@ -105,7 +105,7 @@ sections:
         la ciudad.
     - thumb: img/New_Town/byzantine_windmills_2_mod_small.jpg
       href: img/New_Town/byzantine_windmills_2_mod.jpg
-      alt: Byzantine windmills, Rhodes New City, City Tour
+      alt: Los tres molinos de viento bizantinos.
       caption: Los tres molinos de viento bizantinos.
 subtitle: ''
 
