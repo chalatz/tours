@@ -161,7 +161,7 @@ sections:
       caption: "“Nuestra Señora del Burg” iglesia."
     - thumb: img/Old_Town/set_3/view_from_the_old_town_mod_small.jpg
       href: img/Old_Town/set_3/view_from_the_old_town_mod.jpg
-      alt: Old Town of Rhodes, View, Island Tour
+      alt: El Burgo, La Ciudad Medieval de Rodas
       caption: Vista de la ciudad vieja, y del sitio de la torre de Naillc.
   - figures:
     - thumb: img/Old_Town/set_3/old_town_walls_boats_mod_small.jpg
