@@ -29,13 +29,11 @@ sections:
         del Dodecaneso.
     - thumb: img/New_Town/post_office_mod_small.jpg
       href: img/New_Town/post_office_mod.jpg
-      alt: The Post Office, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
-        Rhodes Shore Excursions
+      alt: La Nueva Ciudad de Rodas
       caption: La Casa de Correos.
     - thumb: img/New_Town/buildings_mod_small.jpg
       href: img/New_Town/buildings_mod.jpg
-      alt: Buildings, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
-        Rhodes Shore Excursions
+      alt: La Nueva Ciudad de Rodas
       caption: Arquitectura veneciana, gótica y árabe.
     - thumb: img/New_Town/town_hall_mod_small.jpg
       href: img/New_Town/town_hall_mod.jpg
