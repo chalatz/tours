@@ -56,8 +56,7 @@ sections:
   - figures:
     - thumb: img/East_Coast/faliraki_beach_mod_small.jpg
       href: img/East_Coast/faliraki_beach_mod.jpg
-      alt: Faliraki, East Coast, Rhodes Taxi Tours, Taxi Tours of Rhodes, Taxi Tours
-        Greece Rhodes
+      alt: 'Faliraki '
       caption: Faliraki
     - thumb: img/East_Coast/faliraki_beach_2_mod_small.jpg
       href: img/East_Coast/faliraki_beach_2_mod.jpg
