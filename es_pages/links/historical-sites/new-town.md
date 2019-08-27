@@ -70,8 +70,9 @@ sections:
         monumentos característicos de la isla.
     - thumb: img/New_Town/deer_mod_small.jpg
       href: img/New_Town/deer_mod.jpg
-      alt: Deer, Rhodes Taxi Services, Shore Excursions of Rhodes, Shore Excursions
-        Greece Rhodes, Rhodes Shore Excursions
+      alt: "(La entrada del puerto) Aquí, según la tradición, fue el lugar donde el
+        famoso Coloso de Rodas, una de las siete maravillas del mundo antiguo, una
+        vez que se levantó."
       caption: "(La entrada del puerto) Aquí, según la tradición, fue el lugar donde
         el famoso Coloso de Rodas, una de las siete maravillas del mundo antiguo,
         una vez que se levantó."
