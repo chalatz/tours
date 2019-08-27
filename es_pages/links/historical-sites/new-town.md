@@ -89,7 +89,8 @@ sections:
   - figures:
     - thumb: img/New_Town/hotel_of_the_roses_mod_small.jpg
       href: img/New_Town/hotel_of_the_roses_mod.jpg
-      alt: Hotel of the Roses, Rhodes Private Guide
+      alt: El imponente “hotel de las rosas” fue construido por los italianos, en
+        1932. Contiene hoy el “casino Rodos”.
       caption: El imponente “hotel de las rosas” fue construido por los italianos,
         en 1932. Contiene hoy el “casino Rodos”.
     - thumb: img/New_Town/casino_rodos_mod_small.jpg
