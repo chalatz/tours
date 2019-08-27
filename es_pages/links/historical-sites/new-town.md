@@ -24,8 +24,7 @@ sections:
   - figures:
     - thumb: img/New_Town/administration_building_mod_small.jpg
       href: img/New_Town/administration_building_mod.jpg
-      alt: Administration, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
-        Rhodes Shore Excursions
+      alt: La Nueva Ciudad de Rodas
       caption: El impresionante edificio de la Administración , que contiene la Prefectura
         del Dodecaneso.
     - thumb: img/New_Town/post_office_mod_small.jpg
