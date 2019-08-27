@@ -90,8 +90,8 @@ sections:
       caption: Cerámica
     - thumb: img/East_Coast/archagelos_village_2_mod_small.jpg
       href: img/East_Coast/archagelos_village_2_mod.jpg
-      alt: Archagelos Village Rhodes
-      caption: Pueblo de Archangelos
+      alt: Pueblo de Archangelos Rodas Grecia
+      caption: Pueblo de Archangelos Rodas Grecia
 - desc: Continuamos al sur en la carretera principal y después de que una vuelta,
     la impresionante roca de Lindos se alce para nos resolver, con la acrópolis en
     su tapa, y del asombroso blanco pueblo en su pie.
