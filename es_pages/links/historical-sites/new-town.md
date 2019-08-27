@@ -37,8 +37,7 @@ sections:
       caption: Arquitectura veneciana, gótica y árabe.
     - thumb: img/New_Town/town_hall_mod_small.jpg
       href: img/New_Town/town_hall_mod.jpg
-      alt: Town Hall, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
-        Rhodes Shore Excursions
+      alt: La Nueva Ciudad de Rodas
       caption: Ayuntamiento.
 - gallery_rows:
   - figures:
