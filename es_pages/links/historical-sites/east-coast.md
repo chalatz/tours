@@ -82,8 +82,8 @@ sections:
       caption: Siete Fuentes Rodas Grecia
     - thumb: img/East_Coast/rhodes_pottery_mod_small.jpg
       href: img/East_Coast/rhodes_pottery_mod.jpg
-      alt: Rhodes Pottery Greece, Vases
-      caption: Cerámica
+      alt: Cerámica Rodas Grecia
+      caption: Cerámica Rodas Grecia
     - thumb: img/East_Coast/rhodes_pottery_2_mod_small.jpg
       href: img/East_Coast/rhodes_pottery_2_mod.jpg
       alt: Pottery of Rhodes Greece, Plates
