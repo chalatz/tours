@@ -153,11 +153,11 @@ sections:
       caption: Una vista panorámica de la ciudad vieja.
     - thumb: img/Old_Town/set_3/ippokratous_square_mod_small.jpg
       href: img/Old_Town/set_3/ippokratous_square_mod.jpg
-      alt: Old City of Rhodes, Square, Rhodes Tours Greece
+      alt: El Burgo, La Ciudad Medieval de Rodas
       caption: Fuente de Castellana en el plaza de Ippocratous.
     - thumb: img/Old_Town/set_3/lady_of_the_burg_church_mod_small.jpg
       href: img/Old_Town/set_3/lady_of_the_burg_church_mod.jpg
-      alt: Rhodes Old City, Church, Tour of Rhodes Island
+      alt: El Burgo, La Ciudad Medieval de Rodas
       caption: "“Nuestra Señora del Burg” iglesia."
     - thumb: img/Old_Town/set_3/view_from_the_old_town_mod_small.jpg
       href: img/Old_Town/set_3/view_from_the_old_town_mod.jpg
