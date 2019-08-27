@@ -107,7 +107,7 @@ sections:
       caption: La acrópolis antigua 410 pies (el 160m) sobre Lindos.
     - thumb: img/East_Coast/cleoboulus_statue_mod_small.jpg
       href: img/East_Coast/cleoboulus_statue_mod.jpg
-      alt: Acropolis of Lindos, Rhodes Taxi Tours
+      alt: 'La acrópolis de Lindos '
       caption: Kleovoulos (Cleoboulus)
     - thumb: img/East_Coast/st_pauls_bay_mod_small.jpg
       href: img/East_Coast/st_pauls_bay_mod.jpg
