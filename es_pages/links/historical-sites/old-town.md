@@ -87,12 +87,12 @@ sections:
         La puerta se cerró en 1501 por el Gran Maestre d'Aubusson.
     - thumb: img/Old_Town/set_1/mills_gate_1_mod_small.jpg
       href: img/Old_Town/set_1/mills_gate_1_mod.jpg
-      alt: The Mills Gate, Tours of Rhodes Island Greece
+      alt: Las Puertas, La Ciudad Medieval de Rodas
       caption: 'La Puerta de Molinos: La puerta era el acceso a la Emporio del barrio
         judío.'
     - thumb: img/Old_Town/set_1/mills_gate_2_mod_small.jpg
       href: img/Old_Town/set_1/mills_gate_2_mod.jpg
-      alt: Rhodes Island Greece, Rhodes Island Tours Greece
+      alt: Las Puertas, La Ciudad Medieval de Rodas
       caption: La Puerta de Molinos
 - title: EL COLLACHIO (CASTILLO)
   desc: |-
