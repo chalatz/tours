@@ -29,23 +29,20 @@ sections:
 
     Las masivas torres y los bastiones proyectan de varios lugares y se adornan con el elaborado trabajo de piedra, mientras que una fosa seca ancha proporcionó la primera línea de defensa. Para asegurar al enemigo no podría llenarlo fácilmente, la tierra en el lado opuesto fue contenida por una pared masiva, que era difícil de desmontar.
   gallery_rows:
+  - figures: ''
   - figures:
     - thumb: img/Old_Town/set_1/the_walls_1_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_1_mod.jpg
-      alt: Rhodes Old Town, Island Tours of Rhodes, Rhodes Island Tours, Rhodes Island
-        Tour
+      alt: La Muralla, La Ciudad Medieval de Rodas
     - thumb: img/Old_Town/set_1/the_walls_2_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_2_mod.jpg
-      alt: Rhodes Old City Gate, Island Tours of Rhodes, Rhodes Island Tours, Rhodes
-        Island Tour
+      alt: La Muralla, La Ciudad Medieval de Rodas
     - thumb: img/Old_Town/set_1/the_walls_3_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_3_mod.jpg
-      alt: Rhodes Old Town, Island Tours of Rhodes, Rhodes Island Tours, Rhodes Island
-        Tour
+      alt: La Muralla, La Ciudad Medieval de Rodas
     - thumb: img/Old_Town/set_1/del_carrettos_bastion_mod_small.jpg
       href: img/Old_Town/set_1/del_carrettos_bastion_mod.jpg
-      alt: Rhodes Island Greece, Rhodes Island Tours Greece, Island Tours of Rhodes,
-        Rhodes Island Tours, Rhodes Island Tour
+      alt: La Muralla, La Ciudad Medieval de Rodas
 - title: LAS PUERTAS
   gallery_rows:
   - figures:
