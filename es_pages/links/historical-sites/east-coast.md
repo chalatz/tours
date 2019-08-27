@@ -111,7 +111,7 @@ sections:
       caption: Kleovoulos (Cleoboulus)
     - thumb: img/East_Coast/st_pauls_bay_mod_small.jpg
       href: img/East_Coast/st_pauls_bay_mod.jpg
-      alt: St. Paul's Bay Lindos Rhodes Greece
+      alt: La bahía de San Pablo Rodas Grecia
       caption: La bahía de San Pablo, donde el apóstol había parado en el año 51 D.M,
         para predicar cristianismo a la población de Rodas.
 - gallery_rows:
