@@ -76,8 +76,7 @@ sections:
   - figures:
     - thumb: img/Old_Town/set_1/st_pauls_gate_mod_small.jpg
       href: img/Old_Town/set_1/st_pauls_gate_mod.jpg
-      alt: Rhodes Old City Gate, Island Tours, Island Tours of Rhodes, Rhodes Island
-        Tours, Rhodes Island Tour
+      alt: Las Puertas, La Ciudad Medieval de Rodas
       caption: Puerta de San Pablo. La puerta está rodeada por un muro bajo y está
         protegida por una torre alta, donde el Gran Maestre d'Aubusson colocado un
         alivio retratar San Pablo.
