@@ -118,7 +118,7 @@ sections:
   - figures:
     - thumb: img/East_Coast/lindos_goats_mod_small.jpg
       href: img/East_Coast/lindos_goats_mod.jpg
-      alt: Ningunos comentarios!!
+      alt: rodas lindos burros
       caption: Ningunos comentarios!!
     - thumb: img/East_Coast/donkey_mod_small.jpg
       href: img/East_Coast/donkey_mod.jpg
