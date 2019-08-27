@@ -64,8 +64,7 @@ sections:
   - figures:
     - thumb: img/New_Town/two_bronze_deer_mod_small.jpg
       href: img/New_Town/two_bronze_deer_mod.jpg
-      alt: Two bronze deer, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
-        Rhodes Shore Excursions
+      alt: La Nueva Ciudad de Rodas
       caption: A la entrada del puerto, se encuentran los dos ciervos de bronce -
         monumentos característicos de la isla.
     - thumb: img/New_Town/deer_mod_small.jpg
