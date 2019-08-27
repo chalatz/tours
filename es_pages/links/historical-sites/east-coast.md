@@ -132,7 +132,8 @@ sections:
         hermoso contraste!
     - thumb: img/East_Coast/old_residences_mod_small.jpg
       href: img/East_Coast/old_residences_mod.jpg
-      alt: Lindos white houses, Rhodes Taxi Tours
+      alt: Lindos, Las casas blancas "casas de capitán", con el cielo oscuro crean
+        un hermoso contraste!
       caption: '"Casas de capitán" Las casas viejas preciosas, les están tomando de
         nuevo a los 16 y 17 siglos, cuando fueron construidas por los navegantes mercantil
         ricos, como pruebas claras de su éxito. '
