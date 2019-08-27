@@ -103,7 +103,7 @@ sections:
       caption: Lindos, 50km (35 millas) de la ciudad de Rodas.
     - thumb: img/East_Coast/ancient_lindos_acropolis_2_mod_small.jpg
       href: img/East_Coast/ancient_lindos_acropolis_2_mod.jpg
-      alt: Lindos Village, Rhodes Taxi Tours
+      alt: 'La acrópolis de Lindos '
       caption: La acrópolis antigua 410 pies (el 160m) sobre Lindos.
     - thumb: img/East_Coast/cleoboulus_statue_mod_small.jpg
       href: img/East_Coast/cleoboulus_statue_mod.jpg
