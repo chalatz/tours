@@ -153,7 +153,7 @@ sections:
       caption: Pueblo de Lindos.
     - thumb: img/East_Coast/lindos_village_4_mod_small.jpg
       href: img/East_Coast/lindos_village_4_mod.jpg
-      alt: Lindos Ancient Theatre, Rhodes Limo Services.
+      alt: Rodas Lindos burros
       caption: Taxi de Lindos!
 subtitle: ''
 summary: ''
