@@ -45,8 +45,7 @@ sections:
         “evasión a Atenea” (Escape to Athena) con Telly Savalas y a Roger Moore.
     - thumb: img/East_Coast/kalithea_beach_mod_small.jpg
       href: img/East_Coast/kalithea_beach_mod.jpg
-      alt: East coast of Rhodes, Taxi Tours, Rhodes Taxi Tours, Taxi Tours of Rhodes,
-        Taxi Tours Greece Rhodes
+      alt: "“Los cañones de Navarone”"
       caption: Algunas escenas de la película “Los cañones de Navarone” (The Guns
         of Navarone) también fueron filmadas aquí.
 - desc: |-
