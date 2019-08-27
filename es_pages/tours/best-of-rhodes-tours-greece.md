@@ -8,13 +8,13 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Best of Rhodes, Best tours of Rhodes Greece, Best Private tours of Rhodes
-    Island Greece.
-  description: Best of Rhodes, Best tours of Rhodes Greece, Best Private tours of
-    Rhodes Island Greece.
-  keywords: Best of Rhodes, Best tours of Rhodes Greece, Best Private tours of Rhodes
-    Island Greece
-  abstract: Best Rhodes private tours and shore excursions
+  title: Lo Mejor de Rodas Grecia, Excursión privada de medio día, Lo Mejor de Rodas,
+    Tours Privados de Rodas Grecia
+  description: Lo Mejor de Rodas Grecia, Excursión privada de medio día, Lo Mejor
+    de Rodas, Tours Privados de Rodas Grecia
+  keywords: Lo Mejor de Rodas Grecia, Excursión privada de medio día, Lo Mejor de
+    Rodas, Tours Privados de Rodas Grecia
+  abstract: Lo Mejor de Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: ''

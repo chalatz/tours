@@ -300,6 +300,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- es_pages/tours/best-of-rhodes-tours-greece.md
 - pages/tours/guided/knights-of-st-john.md
 - pages/tours/guided/jewish.md
 - pages/tours/guided/west-coast.md
@@ -315,7 +316,6 @@ pages:
 - es_pages/tours/fullday-private-tours-east-west-coast.md
 - es_pages/tours/jewish-sites-tours-greece.md
 - es_pages/tours/kids-tours-fun-children.md
-- es_pages/tours/best-of-rhodes-tours-greece.md
 - pages/tours/driving/kids-tours-fun-children.md
 - pages/tours/guided/ancient-medieval.md
 - pages/tours/guided/landscape-tour.md
