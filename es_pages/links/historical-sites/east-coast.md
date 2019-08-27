@@ -145,7 +145,7 @@ sections:
       caption: Pueblo de Lindos.
     - thumb: img/East_Coast/lindos_village_2_mod_small.jpg
       href: img/East_Coast/lindos_village_2_mod.jpg
-      alt: Lindos Ancient Theatre, Rhodes Limo Services.
+      alt: Pueblo de Lindos, Rodas Grecia
       caption: Pueblo de Lindos.
     - thumb: img/East_Coast/lindos_village_3_mod_small.jpg
       href: img/East_Coast/lindos_village_3_mod.jpg
