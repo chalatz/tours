@@ -99,7 +99,7 @@ sections:
       caption: El "Casino Rodos".
     - thumb: img/New_Town/byzantine_windmills_mod_small.jpg
       href: img/New_Town/byzantine_windmills_mod.jpg
-      alt: Byzantine windmills, Rhodes New Town, Private Shore Excursions
+      alt: tres molinos de viento bizantinos hechos de piedra
       caption: Cerca de la fortaleza con el faro, tres molinos de viento bizantinos
         hechos de piedra, dan el toque final a una de las vistas más preciosas de
         la ciudad.
