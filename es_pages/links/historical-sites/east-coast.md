@@ -27,8 +27,7 @@ sections:
   - figures:
     - thumb: img/East_Coast/kallithea_baths_mod_small.jpg
       href: img/East_Coast/kallithea_baths_mod.jpg
-      alt: East Coast of Rhodes, Kalithea, Taxi Tours, Rhodes Taxi Tours, Taxi Tours
-        of Rhodes, Taxi Tours Greece Rhodes
+      alt: 'La entrada del balneario de Kalithea. Baños de Kalithea '
       caption: La entrada del balneario de Kalithea. Baños de Kalithea (no más en
         funcionamiento) - renovado recientemente y absolutamente hermoso... El constraction
         de las instalaciones comenzó a finales de septiembre de 1928, por el italiano
