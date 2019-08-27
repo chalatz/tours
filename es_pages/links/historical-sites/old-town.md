@@ -82,7 +82,7 @@ sections:
         alivio retratar San Pablo.
     - thumb: img/Old_Town/set_1/canvas_old_town_mod_small.jpg
       href: img/Old_Town/set_1/canvas_old_town.jpg
-      alt: Rhodes Island Greece, Rhodes Island Tours Greece
+      alt: Las Puertas, La Ciudad Medieval de Rodas
       caption: Murallas con la Puerta de San Atanasio y cerca de Santa María Torre.
         La puerta se cerró en 1501 por el Gran Maestre d'Aubusson.
     - thumb: img/Old_Town/set_1/mills_gate_1_mod_small.jpg
