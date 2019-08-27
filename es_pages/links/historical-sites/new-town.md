@@ -43,8 +43,7 @@ sections:
   - figures:
     - thumb: img/New_Town/mandraki_harbor_mod_small.jpg
       href: img/New_Town/mandraki_harbor_mod.jpg
-      alt: Mandraki Harbor, Rhodes shore excursions, Shore Excursions of Rhodes, Shore
-        Excursions Greece Rhodes, Rhodes Shore Excursions
+      alt: La Nueva Ciudad de Rodas
       caption: Alrededor del puerto, el Mandraki, encontramos los imponentes edificios
         en estilo neocolonial y el estilo de Italianote, que prestan la grandeza a
         esta parte de la actual ciudad.
