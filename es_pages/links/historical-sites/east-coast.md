@@ -126,7 +126,8 @@ sections:
       caption: Ningunos comentarios!!
     - thumb: img/East_Coast/captain_houses_mod_small.jpg
       href: img/East_Coast/captain_houses_mod.jpg
-      alt: Lindos Panorama, Rhodes Taxi Tours
+      alt: Lindos, Las casas blancas "casas de capitán", con el cielo oscuro crean
+        un hermoso contraste!
       caption: Las casas blancas "casas de capitán", con el cielo oscuro crean un
         hermoso contraste!
     - thumb: img/East_Coast/old_residences_mod_small.jpg
