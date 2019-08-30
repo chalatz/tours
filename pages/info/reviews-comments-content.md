@@ -16,8 +16,22 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2019"
-  text: "Thank you so much we all had a great time and enjoyed our tour very much.
-    \ We loved the island of Rhodes and will be back<br>\nColleen (Aug 23rd)   lily.blyth@icloud.com\n\nHi
+  text: "Dear Nicholas,  Thank you for the service. We loved Stergos, it was wonderful.
+    He gave us a lot of insights regarding the island history. And big plus he was
+    so patient with the kids. At the end they were sad to leave him.  It‘s definitely
+    something we would do again or recommend. <br> Ciao, till next time Christelle
+    (30th Aug)  chrisn20@hotmail.com\n\nNicholas, Overall, our family had a great
+    time in Greece. You and Andrew were an important part of that success.  If we
+    find ourselves back in the region, we will not hesitate to call upon your company
+    and gladly refer our friends traveling to Rhodes to you. Once again, thank-you
+    very, very much.<br> Best wishes and good fortune.  \nJeffrey (Aug 28th)  Jeffrey_Ranney@msn.com\n\nExcellent
+    team, booked via the website and enjoyed the whole Rhodes experience with these
+    guys. Thank you to Nicholas and Michael who we had the pleasure of talking too.
+    Would highly recommend these guys if you want a reliable private tour of Rhodes.
+    <br>\nThanks guys. Anvesh (25th Aug)  anvesh.p.prasad@gmail.com\n\nNicholas, thank
+    you, we enjoyed our tour very much!! <br>\nRegards,  David,  david@rindinternational.com\n\nThank
+    you so much we all had a great time and enjoyed our tour very much.  We loved
+    the island of Rhodes and will be back<br>\nColleen (Aug 23rd)   lily.blyth@icloud.com\n\nHi
     Nicholas. Thanks so much for our wonderful time on Rhodes. Please give our warm
     regards to Andrew. Thanks again to you and Andrew for making it so special.<br>
     Patti (Aug 21st) pbaio@cox.net\n\nNicholas thank you so much.  We thoroughly enjoyed
