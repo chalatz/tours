@@ -146,8 +146,7 @@ faq:
       pass each landmark. So, you should be completely fine all the way.
   - q: We are two persons but would love to have a driver and a licensed tour guide.  Is
       it compulsory a minimum number of passengers?
-    a: No. The tour is private and sufficient even with one person. If you need to
-      reduce the individual cost, we would suggest having more people in your party
+    a: 'No. The tour is private and sufficient even with one person. '
   - q: There are four more people would like to join the tour with us, can we add
       them to our group?
     a: Any last-minute additions to the number of passengers must be submitted at
