@@ -5,16 +5,13 @@ has_gallery: true
 id: site_kritinia_castle
 ref: site_kritinia_castle
 meta:
-  title: Kritinia Castle, Kritinia Village, Rhodes Private Tours, Rhodes Allure Tours
-  http_desc: Kritinia Castle, Kritinia Village, Rhodes Private Tours, Rhodes Allure
-    Tours, Rhodes Taxi Tours Greece
-  description: Kritinia Castle, Kritinia Village, Rhodes Private Tours, Rhodes Allure
-    Tours, Taxi Tours of Rhodes Greece
-  keywords: Kritinia Castle, Kritinia Village, Rhodes Private Tours, Rhodes Allure
-    Tours, Rhodes Taxi Tours Greece
+  title: Rhodes Allure Tours, Kritinia Castle
+  http_desc: 'Rhodes Allure Tours, Rhodes Private Tours '
+  description: Rhodes Allure Tours, Rhodes Private Tours, Kritinia Castle
+  keywords: Rhodes Allure Tours, Rhodes Private Tours, Kritinia Castle
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Kritinia Castle, Kritinia Village, Rhodes Private Tours
+  abstract: Rhodes Allure Tours
 title: The Village and Castle of Kritinia
 summary: |-
   The village of Kritinia, meaning "New Crete", was founded by some families who came as refuges from Crete island. Originally, the settlement was located by the coast, in the current position of Kamiros Skala; but after the Byzantine era it was moved to the hills, for safety against pirates. In its heyday, the castle must have been a place of refuge for the inhabitants of nearby villages during enemy raids. From those hills, you have a panoramic view of the Aegean Sea.
@@ -43,6 +40,8 @@ sections:
       href: img/kritinia_castle/kritinia_castle_4_mod.jpg
       alt: Rhodes Allure Tours
       caption: "<strong>Kritinia Castle</strong> The main gate (interior)"
+  title: ''
+  desc: ''
 - title: Kritinia Castle
   desc: |-
     The Knights of the Order of St. John Hospitaller chose this site to build a castle because of its strategic location. Its 360-degree monitoring view of the sea allowed the inhabitants to keep track of the activities of pirates and enemies.
@@ -130,5 +129,6 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Allure Tours
+no_related_tours_text: ''
 
 ---
