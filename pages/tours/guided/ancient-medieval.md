@@ -31,7 +31,7 @@ overview:
   items:
   - title: The New Town, the Old Harbor - “Colossus of Rhodes”
   - title: The North Point of the Island – Aegean and Med Sea
-  - title: 'We drive to the west coast of the island to Mount Filerimos '
+  - title: 'We drive to the West Coast of the island to Mount Filerimos '
   - title: The Walking Tour of Ancient Acropolis of Ialyssos
   - title: 'The “Way of the Cross” and the Panoramic View  '
   - title: The Panoramic Drive of Monte Smith
