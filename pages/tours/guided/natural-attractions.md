@@ -27,9 +27,9 @@ tour:
 summary:
   paragraphs:
   - You can experience the great outdoors by touring Rhodes Island. Smouldering with
-    raw, natural beauty, the tour will take you through the blue sea waters, the cool
-    breeze, and the atmospheric corridors of this enchanting island. You’ll get a
-    chance to immerse yourself in nature like never before.
+    raw, natural beauty, This tour will take you past the blue waters of the sea and
+    into the cool breezes and atmospheric corridors of this enchanting island. You’ll
+    get a chance to immerse yourself in nature like never before.
 overview:
   items:
   - title: We drive via the East Coastal Road

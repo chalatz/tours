@@ -300,6 +300,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/tours/guided/natural-attractions.md
 - pages/tours/guided/ancient-medieval.md
 - pages/tours/guided/best-attractions.md
 - es_pages/tours/kids-tours-fun-children.md
@@ -321,7 +322,6 @@ pages:
 - pages/tours/guided/landscape-tour.md
 - pages/tours/driving/nature.md
 - pages/tours/guided/scenic-tour.md
-- pages/tours/guided/natural-attractions.md
 - pages/tours/walking/knights.md
 - pages/tours/walking/town.md
 - pages/tours/walking/night.md
