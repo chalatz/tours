@@ -22,11 +22,11 @@ tour:
   duration: Half Day
 summary:
   paragraphs:
-  - Are you curious about the famous historical sites in Rhodes? This island since
-    the antiquity was a crossroad served as the melting pot for eastern and western
-    cultures, and as a result stores a vault full of historical knowledge. You’ll
-    be guided by expert tour guides who will share local insights, facts, and historical
-    data that ultimately defined the island for what it is today.
+  - Are you curious about the famous historical sites in Rhodes? Since antiquity,
+    Rhodes Island has been a crossroad, serving as the melting pot for eastern and
+    western cultures; and as a result stores a vault full of historical knowledge.
+    You’ll be guided by expert tour guides who will share local insights, facts, and
+    historical data that ultimately defined the island for what it is today.
 overview:
   items:
   - title: The New Town, the Old Harbor - “Colossus of Rhodes”
