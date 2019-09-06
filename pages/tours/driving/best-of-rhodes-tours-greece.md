@@ -150,16 +150,6 @@ faq:
       in mind, there is no set time for each highlight. You will have plenty of time
       to look around and take photos of the landmarks and we watch how the tour progresses
       at each landmark and adjust the tour accordingly.
-  - q: Can we have a conversation with the Tour/Driver, can we ask him questions?
-    a: 'All our associate tour/drivers have lived and worked on the island of Rhodes
-      for many years and have exceptional background knowledge of the island and its
-      cultures and traditions. Tour/Drivers can give running commentaries of what
-      you are seeing  and of course enough time to visit each landmark. They also
-      come with you to get your photos when it is allowed and provide advice or adjust
-      the tour to your needs. Tour/Drivers cannot follow you into the archaeological
-      sites as restricted by laws in Greece and most EU countries
-
-'
   - q: Can we drive any closer to the Acropolis of Lindos? My mother will not be able
       to do extend walking.
     a: No cars can drive up. To reach the Acropolis of Lindos you will be required
