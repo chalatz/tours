@@ -9,11 +9,11 @@ trip_advisor_alt: true
 lang: en
 ref: home
 meta:
-  title: Rhodes Private Tours, ORIGINAL SITE, Shore Excursions, Private Day Tours, Rhodes Taxi Tours
-  http_desc: Rhodes Private Tours, ORIGINAL SITE by Nicholas A. Rhodes, Rhodes Shore Excursions, Private Day Tours, Rhodes Taxi Tours, Rhodes Allure Tours, Sightseeing group tours, VIP Tour Services and custom city tours of Rhodes Island Greece
-  description: Rhodes Private Tours, The ORIGINAL SITE by Nicholas A. Rhodes, Shore Excursions, Private Day Tours, Rhodes Allure Tours and Taxi Tours
-  keywords: Rhodes, Private, Tours, ORIGINAL SITE by Nicholas A. Rhodes, shore, excursions, day tours, allure tours, taxi tours, driving, guided, walking, customized, tailored, executive, accessible, limo ,VIP services, island tour
-  abstract: Rhodes Private Tours, Rhodes Shore Excursions, Rhodes Taxi Tours
+  title: RHODES PRIVATE TOURS - Original Site by Nicholas A. Rhodes. Rhodes
+  http_desc: RHODES PRIVATE TOURS - Original Site by Nicholas A. Rhodes, Rhodes Shore Excursions, Private Day Tours, Sightseeing group tours, Rhodes Taxi Tours, Rhodes Allure Tours, VIP Tour Services and custom city tours of Rhodes Island Greece
+  description: RHODES PRIVATE TOURS - Original Site by Nicholas A. Rhodes, Shore Excursions, Private Day Tours, Rhodes Allure Tours, Rhodes Taxi Tours
+  keywords: Rhodes, Private, Tours, Original Site by Nicholas A. Rhodes, shore, excursions, day tours, allure tours, taxi tours, driving, guided, walking, customized, tailored, executive, accessible, limo ,VIP services, island tour
+  abstract: RHODES PRIVATE TOURS - Original Site by Nicholas A. Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
 maximize:
