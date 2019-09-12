@@ -69,8 +69,7 @@ sections:
         encajados, representando las escenas de las Pasiones de Jesús.
     - thumb: img/West_Coast/steps_to_the_cross_filerimos_mod_small.jpg
       href: img/West_Coast/steps_to_the_cross_filerimos_mod.jpg
-      alt: West Coast Rhodes Private Tours, Rhodes Shore Trips, Shore Trips of Rhodes,
-        Shore Trips of Greece Rhodes
+      alt: Los Pasos a la cruz.
       caption: Los Pasos a la cruz. Aquí una concreta imponente cruz se está colocando
         en el centro.
 - gallery_rows:
