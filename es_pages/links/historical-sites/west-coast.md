@@ -101,7 +101,7 @@ sections:
   - figures:
     - thumb: img/West_Coast/valley_of_the_butterflies_mod_small.jpg
       href: img/West_Coast/valley_of_the_butterflies_mod.jpg
-      alt: The Valley of The Butterflies Rhodes Greece
+      alt: El valle de las mariposas
       caption: El valle de las mariposas. Esto es un enorme verde valle, con un pequeño
         río corriendo con él.
     - thumb: img/West_Coast/valley_of_the_butterflies_2_mod_small.jpg
