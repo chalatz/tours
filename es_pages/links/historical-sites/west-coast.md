@@ -132,7 +132,7 @@ sections:
         desde épocas prehistóricas.
     - thumb: img/West_Coast/ancient_kamiros_2_mod_small.jpg
       href: img/West_Coast/ancient_kamiros_2_mod.jpg
-      alt: Taxi Trips Rhodes Greece
+      alt: El Antiguo Kamiros.
       caption: El Antiguo Kamiros.
     - thumb: img/West_Coast/ancient_kamiros_3_mod_small.jpg
       href: img/West_Coast/ancient_kamiros_3_mod.jpg
