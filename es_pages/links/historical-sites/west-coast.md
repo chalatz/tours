@@ -168,10 +168,11 @@ sections:
     las pequeñas islas hermosas. A tu lado izquierdo está el verde de los pinos y
     a tu derecha, el azul turquesa del mar Egeo.
   gallery_rows:
+  - figures: ''
   - figures:
     - thumb: img/West_Coast/castle_west_coast_mod5_small.jpg
       href: img/West_Coast/castle_west_coast_mod5.jpg
-      alt: Rhodes private shore excursions
+      alt: Castillo de monolitos
       caption: Castillo de monolitos
     - thumb: img/West_Coast/castle_west_coast_mod6_small.jpg
       href: img/West_Coast/castle_west_coast_mod6.jpg
