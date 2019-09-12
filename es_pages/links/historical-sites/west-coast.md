@@ -62,8 +62,7 @@ sections:
         y otros árboles.
     - thumb: img/West_Coast/path_to_the_cross_filerimos_mod_small.jpg
       href: img/West_Coast/path_to_the_cross_filerimos_mod.jpg
-      alt: Rhodes Filerimos, Rhodes Day Trips, Rhodes Shore Trips, Shore Trips of
-        Rhodes, Shore Trips of Greece Rhodes
+      alt: Un camino que lleva del monasterio hacia el borde al sudoeste de la meseta
       caption: Un camino que lleva del monasterio hacia el borde al sudoeste de la
         meseta, a una pequeña plaza con una visión maravillosa. A lo largo del derecho
         de la trayectoria, los altares de piedra fueron construidos con los iconos
