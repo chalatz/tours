@@ -136,11 +136,11 @@ sections:
       caption: El Antiguo Kamiros.
     - thumb: img/West_Coast/ancient_kamiros_3_mod_small.jpg
       href: img/West_Coast/ancient_kamiros_3_mod.jpg
-      alt: Rhodes Greece Taxi Trips
+      alt: El Antiguo Kamiros.
       caption: El Antiguo Kamiros.
     - thumb: img/West_Coast/ancient_kamiros_4_mod_small.jpg
       href: img/West_Coast/ancient_kamiros_4_mod.jpg
-      alt: Rhodes Shore Trips
+      alt: El Antiguo Kamiros.
       caption: El Antiguo Kamiros.
 - desc: Continuamos hacia el sur y visitamos el castillo medieval de Kritinia (de
     los Caballeros de San Juan Hospitalarios) ubicado a las afueras del pueblo de
