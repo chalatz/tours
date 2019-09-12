@@ -114,11 +114,11 @@ sections:
         lleva al monasterio de la Virgen de Kalopetra, construida en 1784.
     - thumb: img/West_Coast/valley_of_the_butterflies_3_mod_small.jpg
       href: img/West_Coast/valley_of_the_butterflies_3_mod.jpg
-      alt: The Butterflies Valley Rhodes Greece
+      alt: El valle de las mariposas
       caption: Un puente en el valle de las mariposas.
     - thumb: img/West_Coast/lake_valley_of_the_butterflies_2_mod_small.jpg
       href: img/West_Coast/lake_valley_of_the_butterflies_2_mod.jpg
-      alt: The Butterflies Valley, Rhodes Private Shore Trips
+      alt: El valle de las mariposas
       caption: El valle de las mariposas es un único parque natural, en donde cada
         año de junio a septiembre, aparecen los millares de mariposas multicolores.
 - desc: Continuamos hacia el oeste a lo largo de la costa (35 kilómetros de Rodas)
