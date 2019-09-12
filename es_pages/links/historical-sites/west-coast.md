@@ -91,7 +91,7 @@ sections:
         Polias.
     - thumb: img/West_Coast/the_monastery_of_filerimos_2_mod_small.jpg
       href: img/West_Coast/the_monastery_of_filerimos_2_mod.jpg
-      alt: Shore Trips Rhodes Greece, Taxi Trips
+      alt: El monasterio de Filerimos
       caption: El monasterio de Filerimos
 - desc: |-
     Volvemos por el mismo camino a la carretera principal y continuamos al sudoeste hacia Kremasti, (12 kilómetros de la ciudad de Rodas), un pueblo con mucho alojamiento turístico, tiendas, etc...
