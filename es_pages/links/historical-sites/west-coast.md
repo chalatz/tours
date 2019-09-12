@@ -37,8 +37,7 @@ sections:
         se están colocando.
     - thumb: img/West_Coast/west_coast_mod_small.jpg
       href: img/West_Coast/west_coast_mod.jpg
-      alt: Ixia, Rhodes Shore Trips, Shore Trips of Rhodes, Shore Trips of Greece
-        Rhodes
+      alt: grande hoteles
       caption: A lo largo de la costa entera, hay una cadena grande de hoteles, de
         barras, de restaurantes, de clubes de noche y de todas las clases de tiendas.
     - thumb: img/West_Coast/hotels_west_coast_mod_small.jpg
