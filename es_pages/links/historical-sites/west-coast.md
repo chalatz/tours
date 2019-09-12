@@ -48,10 +48,11 @@ sections:
     a lo largo de los hermosos lados enselvados de la montaña de Filerimos, venimos
     a las ruinas de la antiguo Acrópolis de Ialyssos.
   gallery_rows:
+  - figures: ''
   - figures:
     - thumb: img/West_Coast/filerimos_hill_mod_small.jpg
       href: img/West_Coast/filerimos_hill_mod.jpg
-      alt: Shore Trips Rhodes Greece, Taxi Trips
+      alt: 'La montaña Filerimos '
       caption: La montaña Filerimos es una colina los 267m. alto, mirando sobre de
         la pequeña ciudad de Ialyssos y de la bahía del Ixia y de Trianda.
     - thumb: img/West_Coast/view_from_filerimos_hill_mod_small.jpg
