@@ -73,10 +73,11 @@ sections:
       caption: Los Pasos a la cruz. Aquí una concreta imponente cruz se está colocando
         en el centro.
 - gallery_rows:
+  - figures: ''
   - figures:
     - thumb: img/West_Coast/the_cross_filerimos_mod_small.png
       href: img/West_Coast/the_cross_filerimos_mod.jpg
-      alt: Private Shore Trips Rhodes Greece
+      alt: La concreta imponente cruz.
       caption: La concreta imponente cruz.
     - thumb: img/West_Coast/steps_to_monastery_filerimos_mod_small.jpg
       href: img/West_Coast/steps_to_monastery_filerimos_mod.jpg
