@@ -106,7 +106,9 @@ sections:
         río corriendo con él.
     - thumb: img/West_Coast/valley_of_the_butterflies_2_mod_small.jpg
       href: img/West_Coast/valley_of_the_butterflies_2_mod.jpg
-      alt: The Valley of The Butterflies West Coast of Rhodes
+      alt: |2-
+
+        El valle de las mariposas
       caption: El valle de las mariposas. El lugar se arregla maravillosamente, con
         los puentes de madera, los pasos de piedra y una trayectoria ascendente, que
         lleva al monasterio de la Virgen de Kalopetra, construida en 1784.
