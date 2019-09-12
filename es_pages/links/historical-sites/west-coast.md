@@ -184,7 +184,7 @@ sections:
       caption: El interior del castillo de monolitos.
     - thumb: img/West_Coast/castle_west_coast_mod8_small.jpg
       href: img/West_Coast/castle_west_coast_mod8.jpg
-      alt: Rhodes shore excursions
+      alt: La vista del mar Egeo desde el castillo.
       caption: La vista del mar Egeo desde el castillo.
 subtitle: ''
 
