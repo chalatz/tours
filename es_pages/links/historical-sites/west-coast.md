@@ -85,7 +85,7 @@ sections:
       caption: La entrada y los pasos al monasterio y a las ruinas del templo de Atenea.
     - thumb: img/West_Coast/the_monastery_of_filerimos_mod_small.jpg
       href: img/West_Coast/the_monastery_of_filerimos_mod.jpg
-      alt: Rhodes Day Trips, Rhodes Taxi Trips
+      alt: El monasterio de Filerimos
       caption: El monasterio de Filerimos, aquí una vez que había la acrópolis de
         la antigua ciudad de Ialyssos, con un templo importante dedicado a Atenea
         Polias.
