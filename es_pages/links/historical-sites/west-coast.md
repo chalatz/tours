@@ -28,8 +28,7 @@ sections:
   - figures:
     - thumb: img/West_Coast/neoclassical_villa_mod_small.jpg
       href: img/West_Coast/neoclassical_villa_mod.jpg
-      alt: West Coast of Rhodes, Shore Trips, Rhodes Shore Trips, Shore Trips of Rhodes,
-        Shore Trips of Greece Rhodes
+      alt: Kritika, con sus casas minúsculas
       caption: Kritika, con sus casas minúsculas
     - thumb: img/West_Coast/neoclassical_villa_2_mod_small.jpg
       href: img/West_Coast/neoclassical_villa_2_mod.jpg
@@ -144,7 +143,9 @@ sections:
       href: img/West_Coast/ancient_kamiros_4_mod.jpg
       alt: Rhodes Shore Trips
       caption: El Antiguo Kamiros.
-- desc: Continuamos hacia el sur y visitamos el castillo medieval de Kritinia (de los Caballeros de San Juan Hospitalarios) ubicado a las afueras del pueblo de Kritinia, construido en el siglo XVI.
+- desc: Continuamos hacia el sur y visitamos el castillo medieval de Kritinia (de
+    los Caballeros de San Juan Hospitalarios) ubicado a las afueras del pueblo de
+    Kritinia, construido en el siglo XVI.
   gallery_rows:
   - figures:
     - thumb: img/West_Coast/castle_west_coast_mod_small.jpg
@@ -163,7 +164,10 @@ sections:
       href: img/West_Coast/castle_west_coast_mod4.jpg
       alt: Rhodes taxi tours Greece
       caption: La puerta del castillo de Kritinia (interior)
-- desc: Luego su viaje a Monolithos 20 km / 12 millas en coche de la costa oeste de la isla. En el camino, se detiene en una posición ventajosa para ver más de cerca las pequeñas islas hermosas. A tu lado izquierdo está el verde de los pinos y a tu derecha, el azul turquesa del mar Egeo.
+- desc: Luego su viaje a Monolithos 20 km / 12 millas en coche de la costa oeste de
+    la isla. En el camino, se detiene en una posición ventajosa para ver más de cerca
+    las pequeñas islas hermosas. A tu lado izquierdo está el verde de los pinos y
+    a tu derecha, el azul turquesa del mar Egeo.
   gallery_rows:
   - figures:
     - thumb: img/West_Coast/castle_west_coast_mod5_small.jpg
