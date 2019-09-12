@@ -57,7 +57,7 @@ sections:
         la pequeña ciudad de Ialyssos y de la bahía del Ixia y de Trianda.
     - thumb: img/West_Coast/view_from_filerimos_hill_mod_small.jpg
       href: img/West_Coast/view_from_filerimos_hill_mod.jpg
-      alt: Private Shore Trips, Rhodes Taxi Trips
+      alt: La montaña Filerimos
       caption: La montaña Filerimos. Se planea grueso con los cipreses, los pinos
         y otros árboles.
     - thumb: img/West_Coast/path_to_the_cross_filerimos_mod_small.jpg
