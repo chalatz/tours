@@ -32,8 +32,7 @@ sections:
       caption: Kritika, con sus casas minúsculas
     - thumb: img/West_Coast/neoclassical_villa_2_mod_small.jpg
       href: img/West_Coast/neoclassical_villa_2_mod.jpg
-      alt: West Coast, Rhodes Shore Trips, Shore Trips of Rhodes, Shore Trips of Greece
-        Rhodes
+      alt: varios chales neoclásicos
       caption: En el pueblo, que está al lado del mar, varios chales neoclásicos todavía
         se están colocando.
     - thumb: img/West_Coast/west_coast_mod_small.jpg
