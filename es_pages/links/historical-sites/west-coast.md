@@ -127,7 +127,7 @@ sections:
   - figures:
     - thumb: img/West_Coast/ancient_kamiros_mod_small.jpg
       href: img/West_Coast/ancient_kamiros_mod.jpg
-      alt: Shore Trips of Rhodes
+      alt: Kamiros
       caption: Kamiros era una de las tres potentes ciudades de Rodas y se ha habitado,
         desde épocas prehistóricas.
     - thumb: img/West_Coast/ancient_kamiros_2_mod_small.jpg
