@@ -176,7 +176,7 @@ sections:
       caption: Castillo de monolitos
     - thumb: img/West_Coast/castle_west_coast_mod6_small.jpg
       href: img/West_Coast/castle_west_coast_mod6.jpg
-      alt: Shore excursions of Rhodes
+      alt: Castillo de monolitos
       caption: El interior del castillo de monolitos.
     - thumb: img/West_Coast/castle_west_coast_mod7_small.jpg
       href: img/West_Coast/castle_west_coast_mod7.jpg
