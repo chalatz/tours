@@ -22,9 +22,9 @@ reviews:
     beautiful island. Today is our last day and we are busy doing some last minute
     sightseeing and packing. When we get home I will be sure to post favorable and
     thorough reviews for you as we very very much enjoyed our trips and time with
-    your company and people. Thank you again for making our time on Rodos very special.
+    your company and people. Thank you again for making our time on Rhodes very special.
     Memorable. And amazing!!!! <br> All the best. Marcia (13 Sept) Johnstonhouse@verizon.net\n\nDear
-    Nicholas, Thank you for our tours of Rhodos conducted by your Company, it was
+    Nicholas, Thank you for our tours of Rhodes conducted by your Company, it was
     indeed very nice to see the beauty and historical buildings and scenery on our
     tour. Very well driven and explained by you brother Michael. Every thing was first
     class..Thank you. My wife and I look forward to our return to Rhodos and Kastellorizo.
@@ -45,7 +45,7 @@ reviews:
     and guide. Your island is so beautiful. It was a privilege to see it. We will
     certainly let our friends and family know about this amazing island and hope to
     return to have Dominic as our driver again! <br> \nWarmest regards and many thanks,
-    \ \nLisa.   lisa107107@gmail.com\n\n\nDear Nicholas,  Thank you for the service.
+    \ \nLisa.   lisa107107@gmail.com\n\nDear Nicholas,  Thank you for the service.
     We loved Stergos, it was wonderful. He gave us a lot of insights regarding the
     island history. And big plus he was so patient with the kids. At the end they
     were sad to leave him.  It‘s definitely something we would do again or recommend.
