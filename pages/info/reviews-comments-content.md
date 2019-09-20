@@ -16,19 +16,22 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2019"
-  text: "Good morning Nicholas! Thank you!  We had an excellent time both Tuesday
-    and Thursday with Michael and Andrew. We thank you very much for arranging such
-    wonderful days and providing tours and itineraries for us to enjoy while in your
-    beautiful island. Today is our last day and we are busy doing some last minute
-    sightseeing and packing. When we get home I will be sure to post favorable and
-    thorough reviews for you as we very very much enjoyed our trips and time with
-    your company and people. Thank you again for making our time on Rhodes very special.
-    Memorable. And amazing!!!! <br> All the best. Marcia (13 Sept) Johnstonhouse@verizon.net\n\nDear
-    Nicholas, Thank you for our tours of Rhodes conducted by your Company, it was
-    indeed very nice to see the beauty and historical buildings and scenery on our
-    tour. Very well driven and explained by you brother Michael. Every thing was first
-    class..Thank you. My wife and I look forward to our return to Rhodos and Kastellorizo.
-    For now ..we send our best wishes to you and Michael<br> \nJim and Jann (8th Sept)
+  text: "Dear Nicholas and Andrew,  We enjoyed the tour today and Andrews detailed
+    explanations.  Everything went very well as usual.  Thank you both and take care.
+    We will be back next year.  <br> Vanessa and Steve (Sept 18th) vanessavhoecke@yahoo.com\n\nGood
+    morning Nicholas! Thank you!  We had an excellent time both Tuesday and Thursday
+    with Michael and Andrew. We thank you very much for arranging such wonderful days
+    and providing tours and itineraries for us to enjoy while in your beautiful island.
+    Today is our last day and we are busy doing some last minute sightseeing and packing.
+    When we get home I will be sure to post favorable and thorough reviews for you
+    as we very very much enjoyed our trips and time with your company and people.
+    Thank you again for making our time on Rhodes very special. Memorable. And amazing!!!!
+    <br> All the best. Marcia (13 Sept) Johnstonhouse@verizon.net\n\nDear Nicholas,
+    Thank you for our tours of Rhodes conducted by your Company, it was indeed very
+    nice to see the beauty and historical buildings and scenery on our tour. Very
+    well driven and explained by you brother Michael. Every thing was first class..Thank
+    you. My wife and I look forward to our return to Rhodos and Kastellorizo. For
+    now ..we send our best wishes to you and Michael<br> \nJim and Jann (8th Sept)
     \  radi4@bigpond.com\n\nOur tour with Dominic was outstanding!  Beautiful sights
     and Dominic was a true professional who went above and beyond to help us enjoy
     our tour.  I have already passed on your company’s name to several friends planning
