@@ -19,7 +19,7 @@ meta:
   copyright: NK for Rhodes Private Tours,2018
 title: RHODES PRIVATE TOURS
 subtitle: Day Tours and Shore Excursions
-desc: The Official Website of "Rhodes Private Tours" (RhodesPrivateTours.Com)
+desc: The Genuine and Official Website of "Rhodes Private Tours" (RhodesPrivateTours.Com)
 profile:
   title: Profile
   img:
