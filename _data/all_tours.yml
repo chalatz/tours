@@ -53,7 +53,7 @@
   id: guided_best_attractions
   type: guided
 
-- name: 'Best off & Lunch Break-GT2'
+- name: 'Best of & Lunch Break-GT2'
   url: ./full_day.htm
   id: guided_best_full_day
   type: guided

@@ -34,8 +34,8 @@ gallery:
       thumb: "./img/rick-steves/rick_steves_3.jpg"
       alt: Rick Steves in Rhodes Greece, Rhodes Private Tours
       is_link: false
-    caption: Was a very busy and productive day...<br>Thank you, Rick, for showing
-      Rhodes on your TV.<br>It has been a pleasure working with you!
+    caption: It was a very busy and productive day...<br>Thank you, Rick, for showing
+      Rhodes on your program.<br>It was a pleasure working with you!
   - image:
       thumb: "./img/rick-steves/rick_steves_4.jpg"
       alt: Rick Steves' New Episode about Rhodes Greece

@@ -94,7 +94,7 @@ related_tours:
 - Best of Rhodes-DT1
 - Rhodes Full Day-DT2
 - Best Attractions-GT1
-- Best off & Lunch Break-GT2
+- Best of & Lunch Break-GT2
 - West Coast of Rhodes-GT3
 - The Knights of St John-GT6
 - Rhodes West Coast-DT3

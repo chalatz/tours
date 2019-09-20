@@ -45,7 +45,7 @@ main:
             li: 'tablet-only tablet-only--block'
         - title: 'Best Attractions-GT1'
           url: './best_attractions_in_rhodes.htm'
-        - title: 'Best off & Lunch Break-GT2'
+        - title: 'Best of & Lunch Break-GT2'
           url: './full_day.htm'
         - title: 'West Coast of RHODES-GT3'
           url: './west_coast.htm'

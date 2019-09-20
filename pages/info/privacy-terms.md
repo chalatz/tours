@@ -31,8 +31,6 @@ You can choose to remove your e-mail address from our database at any time. To d
 
 #### Additional Information
 
-No one can guarantee that transmission of data over the Internet is completely secure. It may be possible for third parties to unlawfully intercept or access transmissions or private communication. While we strive to protect your personal information, RhodesPrivateTours.com cannot warrant the security of any information you transmit to us and we shall not be liable for any special, incidental or consequential damages you may suffer in the event that your transmission of data was intercepted.
-
 RhodesPrivateTours.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online.  Please contact us via e-mail at info@RhodesPrivateTours.com if you have any questions or concerns about our Privacy Policy.
 
 ### TERMS AND CONDITIONS
@@ -41,7 +39,7 @@ By booking a tour/service with Rhodes PrivateTours.com and through this website,
 
 #### THE USE OF THIS WEBSITE IS SUBJECT TO THE FOLLOWING TERMS OF USE
 
-Once you have confirmed a reservation with us, you are legally bound to a contract with us.  Your use of this website and any dispute arising out of such use of this website is subject to the laws of Greece and by booking with us, you hereby submit to the jurisdiction of such courts for such purposes.
+Once you have confirmed a reservation with us, you are legally bound to a contract with us.
 
 For additional information that may be helpful to our clients, links to other websites may be available on this website. These links are not intended to be endorsements of those websites, and we do not accept any responsibility for content or activity on linked websites.
 
@@ -103,10 +101,8 @@ If you have preferences regarding A/C, heat, or typically experience motion sick
 
 If you are experiencing any issues or problems during the tour, please call us at the telephone number provided. If you do not have a working cell phone, please ask your Tour-Driver or your Tour Guide to call the office from his cell phone so we can help you and resolve any issues you may be experiencing.
 
-If you experienced any issues during your tour and did not call the company during the tour to rectify the situation, you agree to inform the company by email of the issues you experienced and allow the company reasonable attempts to resolve your issues satisfactorily before publishing any complaints anywhere publicly, including social sites, peer review sites, blogs, and any other areas on the Internet. If the company settles your issues satisfactorily and the matter is resolved, you agree to refrain from publishing any negative comments, ratings, or reviews about Rhodes PrivateTours.com on the Internet or elsewhere. Failure to honor this agreement is considered a violation of contract and the terms upon which you agreed prior to booking your service and entering a legal contract with Rhodes PrivateTours.com
+If you experienced any issues during your tour and did not call the company during the tour to rectify the situation, you agree to inform the company by email of the issues you experienced and allow the company reasonable attempts to resolve your issues satisfactorily before publishing any complaints anywhere publicly, including social sites, peer review sites, blogs, and any other areas on the Internet.
 
 If you have any questions regarding our Terms and Conditions, or there is something you do not understand, please feel free to ask us via email and we will be more than happy to answer any questions you may have. info@RhodesPrivateTours.com
-
-If you disagree with any parts of our terms of service, please DO NOT proceed to use this website.
 
 Last Updated: May 27, 2019

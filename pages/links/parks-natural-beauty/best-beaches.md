@@ -148,7 +148,7 @@ related_tours:
 - Beach Tour of Rhodes-DT7
 - Best of Rhodes-DT1
 - Rhodes Full Day-DT2
-- Best off & Lunch Break-GT2
+- Best of & Lunch Break-GT2
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
     Tour Experiences. We deliver Rhodes Beach Tours at very affordable rates. All

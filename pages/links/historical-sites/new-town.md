@@ -124,7 +124,7 @@ related_tours:
 - Rhodes Kids Tour-DT6
 - Ancient & Medieval-GT5
 - Best Attractions-GT1
-- Best off & Lunch Break-GT2
+- Best of & Lunch Break-GT2
 - Jewish Heritage Plus-GT4
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized

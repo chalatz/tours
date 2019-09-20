@@ -146,7 +146,7 @@ related_tours:
 - Knights Hospitallers-WT2
 - The Knights of St John-GT6
 - Ancient & Medieval-GT5
-- Best off & Lunch Break-GT2
+- Best of & Lunch Break-GT2
 - Best Attractions-GT1
 - Best of Rhodes-DT1
 - Rhodes Full Day-DT2

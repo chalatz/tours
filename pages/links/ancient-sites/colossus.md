@@ -77,7 +77,7 @@ related_tours:
 - Jewish Sites Plus-DT4
 - Rhodes Kids Tour-DT6
 - Best Attractions-GT1
-- Best off & Lunch Break-GT2
+- Best of & Lunch Break-GT2
 - West Coast of Rhodes-GT3
 - Jewish Heritage Plus-GT4
 - Ancient & Medieval-GT5

@@ -165,7 +165,7 @@ related_tours:
 - Jewish Sites Plus-DT4
 - Beach Tour of Rhodes-DT7
 - Best Attractions-GT1
-- Best off & Lunch Break-GT2
+- Best of & Lunch Break-GT2
 - Jewish Heritage Plus-GT4
 - The Knights of St John-GT6
 end_page:

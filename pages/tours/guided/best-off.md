@@ -16,9 +16,9 @@ meta:
   abstract: Full Day Tour of Rhodes, Greece Rhodes Full Day Tour
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"Best off & Lunch Break" GT2'
+title: '"Best of & Lunch Break" GT2'
 tour:
-  title: '"Best off & Lunch Break" GT2'
+  title: '"Best of & Lunch Break" GT2'
   summary: Rhodes Old & New Town / Acropolis of Rhodes / The East Coast / Free Olive
     Oil Taste / Village & Acropolis of Lindos / Lunch by the Sea
   duration: Full Day
