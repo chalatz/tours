@@ -150,6 +150,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/links/ancient-sites/filerimos.md
 - pages/links/ancient-sites/mount-smith-hill.md
 - pages/links/ancient-sites/kritinia.md
 - pages/links/ancient-sites/colossus.md
@@ -186,7 +187,6 @@ pages:
 - pages/links/museums-art-galleries/st-catherine-hospice.md
 - pages/links/parks-natural-beauty/seven-springs.md
 - pages/links/parks-natural-beauty/rodini-park.md
-- pages/links/ancient-sites/filerimos.md
 - pages/links/historical-sites/ottoman-sites.md
 - es_pages/links/juderia.md
 - es_pages/quick-facts/travel-guide.md

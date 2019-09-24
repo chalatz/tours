@@ -6,16 +6,16 @@ id: site_filerimos_hill
 ref: site_filerimos_hill
 meta:
   title: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos, Church
-    of our lady, Rhodes Private Tours
+    of our Lady of Filerimos
   description: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos,
-    Church of our lady of Filerimos, Ancient Ialyssos acropolis, Rhodes Private Tours
+    Church of our Lady of Filerimos, Ancient Ialyssos acropolis, Rhodes Private Tours
   keywords: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos, Church
-    of our lady of Filerimos, Ancient Ialyssos acropolis, Rhodes Private Tours
+    of our Lady of Filerimos, Ancient Ialyssos acropolis, Rhodes Private Tours
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos
   http_desc: Mount Filerimos, Filerimos Hill, Filerimos Monastery Rhodes Greece, Church
-    of our lady of Filerimos, Ancient Ialyssos acropolis
+    of our Lady of Filerimos, Ancient Ialyssos acropolis
 title: Mount Filerimos - The Acropolis of Ancient Ialyssos
 summary: Filerimos Mountain is located out of Rhodes Town about 14 km / 8 miles on
   the west coast of the island. In addition to the panoramic view of the Aegean Sea,
@@ -67,6 +67,8 @@ sections:
       href: img/filerimos_hill/filerimos_hill_8.jpg
       alt: Lady of Filerimos
       caption: The interior of the church of our Lady of Filerimos
+  title: ''
+  desc: ''
 - title: Monastery of Filerimos
   desc: The monastery was destroyed during the Turkish occupation. The Italians rebuilt
     the monastery during their occupation and kept it open with monks from the Capuchin
@@ -161,6 +163,7 @@ sections:
       href: img/filerimos_hill/filerimos_views_4.jpg
       alt: Rhodes Shore Excursions
       caption: Panoramic view
+  desc: ''
 subtitle: ''
 related_tours:
 - Rhodes Full Day-DT2
@@ -178,5 +181,6 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experst in Rhodes Private Tours '
+no_related_tours_text: ''
 
 ---
