@@ -5,14 +5,16 @@ has_gallery: true
 id: site_mount_smith_hill
 ref: site_mount_smith_hill
 meta:
-  title: Mount Smith Hill, Rhodes Private Tours, Rhodes Affordable Tours
-  description: Mount Smith Hill, Rhodes Private Tours, Rhodes Affordable Tours
-  keywords: Mount Smith Hill, Affordable Rhodes Tours, Rhodes Mount Smith Hill, Rhodes
-    Affordable Tours, Rhodes Private Tours Greece
+  title: Monte Smith Hill Rhodes Greece, Rhodes Private Tours
+  description: Monte Smith Hill Rhodes Greece, Rhodes Private Tours, Rhodes Affordable
+    Tours
+  keywords: Monte Smith Hill Rhodes Greece, Rhodes Private Tours, Rhodes Affordable
+    Tours, Rhodes Mount Smith Hill
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Mount Smith Hill, Rhodes Affordable Tours
-  http_desc: Mount Smith Hill, Rhodes Private Tours, Rhodes Affordable Tours
+  abstract: Monte Smith Hill Rhodes Greece
+  http_desc: Monte Smith Hill Rhodes Greece, Rhodes Private Tours, Rhodes Affordable
+    Tours
 keyphrase: Affordable Tours of Rhodes
 title: Mount Smith Hill - The Upper Acropolis of Ancient Rhodes
 summary: The hill took its name from the British admiral Sir William Sidney Smith
