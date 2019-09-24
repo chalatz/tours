@@ -5,17 +5,14 @@ has_gallery: true
 id: site_mount_smith_hill
 ref: site_mount_smith_hill
 meta:
-  title: Mount Smith Hill Rhodes Affordable Tours, Affordable Tours of Rhodes, Rhodes
-    Private Tours
-  description: Mount Smith Hill, Affordable Rhodes Tours, Rhodes Mount Smith Hill,
-    Rhodes Affordable Tours, Rhodes Private Tours Greece
+  title: Mount Smith Hill, Rhodes Private Tours, Rhodes Affordable Tours
+  description: Mount Smith Hill, Rhodes Private Tours, Rhodes Affordable Tours
   keywords: Mount Smith Hill, Affordable Rhodes Tours, Rhodes Mount Smith Hill, Rhodes
     Affordable Tours, Rhodes Private Tours Greece
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Rhodes private tours and shore excursions
-  http_desc: Mount Smith Hill Rhodes Affordable Tours, Affordable Tours of Rhodes,
-    Rhodes Private Tours
+  abstract: Mount Smith Hill, Rhodes Affordable Tours
+  http_desc: Mount Smith Hill, Rhodes Private Tours, Rhodes Affordable Tours
 keyphrase: Affordable Tours of Rhodes
 title: Mount Smith Hill - The Upper Acropolis of Ancient Rhodes
 summary: The hill took its name from the British admiral Sir William Sidney Smith
@@ -42,6 +39,8 @@ sections:
       href: img/mount_smith_hill/panoramic_view_4_mod.jpg
       alt: Affordable tours of Rhodes Greece
       caption: Panoramic view of the Aegean Sea
+  title: ''
+  desc: ''
 - desc: Just south of the top of the hill are a group of important ancient monuments.
     In a natural hollow lies the Stadium, a work most probably of the 2nd century
     B. C. which has in large part been rebuilt. It is 200 m. long and 35 m. wide.
@@ -74,6 +73,7 @@ sections:
       alt: Temple of Pythian Apollo, Private Tours of Greece, Affordable Tours of
         Rhodes, Rhodes Affordable Tours, Rhodes Greece Affordable Tours.
       caption: The Temple of Pythian Apollo
+  title: ''
 subtitle: ''
 related_tours:
 - Ancient & Medieval-GT5
@@ -92,5 +92,6 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Affordable Tours '
+no_related_tours_text: ''
 
 ---
