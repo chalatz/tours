@@ -5,17 +5,17 @@ has_gallery: true
 id: site_monolithos_castle
 ref: site_monolithos_castle
 meta:
-  title: Monolithos Castle Rhodes Greece, Monolithos Village in Rhodes, Rhodes Private
-    Tours
-  http_desc: Monolithos Castle Rhodes Greece, Monolithos Village in Rhodes, Rhodes
-    Private Tours, Rhodes Allure Tours
-  description: Monolithos Castle Rhodes Greece, Monolithos Village in Rhodes, Rhodes
+  title: Castle of Monolithos Rhodes Greece, Monolithos Village in Rhodes, Rhodes
+    Private Tours
+  http_desc: Castle of Monolithos Rhodes Greece, Monolithos Village in Rhodes, Rhodes
+    Private Tours
+  description: Castle of Monolithos Rhodes Greece, Monolithos Village in Rhodes, Rhodes
     Private Tours, Rhodes Taxi Tours, Allure Tours
-  keywords: Monolithos Castle Rhodes Greece, Monolithos Village in Rhodes, Rhodes
-    Private Tours, Rhodes Allure Tours
+  keywords: Castle of Monolithos Rhodes Greece, Monolithos Village in Rhodes, Rhodes
+    Private Tours, Monolithos Castle, Rhodes Allure Tours
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Monolithos Castle Rhodes Greece, Monolithos Village
+  abstract: Castle of Monolithos Rhodes Greece
 title: Castle of Monolithos Rhodes Greece
 summary: |-
   Monolithos village is located 73 km / 45 miles southwest of the city of Rhodes. It owes its name to the huge monolithic rock on top of which is a castle from the time of the Knights of St. John Hospitallers.
