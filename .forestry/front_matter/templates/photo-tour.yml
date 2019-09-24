@@ -150,6 +150,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/links/ancient-sites/kameiros.md
 - pages/links/parks-natural-beauty/butterflies.md
 - pages/links/parks-natural-beauty/kallithea-spa.md
 - pages/links/ancient-sites/mount-smith-hill.md
@@ -172,7 +173,6 @@ pages:
 - pages/links/museums-art-galleries/bee_museum.md
 - pages/links/parks-natural-beauty/water-park.md
 - pages/links/juderia.md
-- pages/links/ancient-sites/kameiros.md
 - pages/links/historical-sites/west-coast.md
 - pages/links/parks-natural-beauty/ostrich-farm.md
 - pages/links/ancient-sites/monolithos.md

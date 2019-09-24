@@ -5,17 +5,17 @@ has_gallery: true
 id: site_ancient_kameiros
 ref: site_ancient_kameiros
 meta:
-  title: 'Ancient Kamiros, Rhodes Ancient Kameiros, Special Tours of Rhodes, Rhodes
-    Allure Tours '
-  http_desc: Ancient Kamiros, Rhodes Ancient Kameiros, Rhodes Special Tours, Rhodes
-    Allure Tours, Specialized Tours of Rhodes
-  description: 'Rhodes Ancient Kameiros, Rhodes Special Tours Specialized Tours of
-    Rhodes Greece, Rhodes Allure Tours '
-  keywords: 'Ancient Kamiros, Rhodes Ancient Kameiros, special tours of Rhodes, Rhodes
-    Allure Tours '
+  title: 'Ancient Kamiros Rhodes Greece, Ancient Kameiros, Specialized Tours of Rhodes '
+  http_desc: 'Ancient Kamiros Rhodes Greece, Ancient Kameiros, Specialized Tours of
+    Rhodes '
+  description: 'Ancient Kamiros Rhodes Greece, Ancient Kameiros, Specialized Tours
+    of Rhodes '
+  keywords: 'Ancient Kamiros Rhodes Greece, Ancient Kameiros, Specialized Tours of
+    Rhodes '
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Ancient Kamiros, Rhodes Special Tours, Rhodes Allure Tours
+  abstract: 'Ancient Kamiros Rhodes Greece, Ancient Kameiros, Specialized Tours of
+    Rhodes '
 title: Ancient Kamiros - Rhodes Greece
 summary: The town of Kamiros was founded by the Dorians, just like lalyssos and Lindos
   and it's located 37 km / 23 ml from Rhodes City on the west coast of the Island.
@@ -55,6 +55,7 @@ sections:
       caption: "<strong>The Archaic Cistern:</strong> (Water Reservoir). It had a
         capacity sufficient for 300-400 families.Steps on the sides facilitated access
         to clean the reservoir, which was covered. It dates to the 6th-5th c. BC."
+  desc: ''
 - title: Private Dwellings - Hippodamian System (Level 2 - middle terrace)
   desc: 'The city was built according to the Hippodamian System with a grid of parallel
     streets and residential blocks of the same size. (Hippodamus of Miletus 498 –
@@ -114,6 +115,7 @@ sections:
       caption: "<strong>The Fountain Square:</strong> Inside it was an open cistern
         from which the water was drawn (mid-4th c. BC). At a later period (3rd c.
         BC) the cistern was replaced by a well"
+  desc: ''
 - title: A Rural Society
   desc: Contrary to Lindos, which had a great naval tradition, Kameiros was by and
     large a rural society whose main products were olive oil, figs and wine. The need
@@ -123,6 +125,7 @@ sections:
     during that same century Kameiros was the first Rhodian town to mint its own coins.
     After 408 BC (founding year of Rhodes Town) Kamiros went into decline and it vanished
     forever in the 2nd century AD.
+  gallery_rows: []
 - title: Louvre Museum - Paris
   desc: Many potteries and unique artifacts found during excavations on the Island
     of Rhodes (from the 19th century until today) great samples of the ancient Rhodian
@@ -158,5 +161,6 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Special Tours
+no_related_tours_text: ''
 
 ---
