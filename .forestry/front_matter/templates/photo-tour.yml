@@ -150,8 +150,8 @@ fields:
   label: End page
   template: end-page
 pages:
-- pages/links/parks-natural-beauty/kallithea-spa.md
 - pages/links/parks-natural-beauty/butterflies.md
+- pages/links/parks-natural-beauty/kallithea-spa.md
 - pages/links/ancient-sites/mount-smith-hill.md
 - pages/links/ancient-sites/filerimos.md
 - pages/links/ancient-sites/kritinia.md

@@ -15,7 +15,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Rhodes Butterflies Valley Tour
-title: The Valley of the Butterflies - One of the most unusual biotopes in Europe
+title: 'Valley of the Butterflies - Rhodes Tour '
 summary: |-
   It is a luxuriant ravine with abundant running water that attracts thousands of tourists each summer.  A German entomologist, Rheinhard Bger, visited the island a number of years ago and made a study of the butterflies that appear there from July to September.
 
@@ -70,7 +70,7 @@ sections:
       alt: Greece Butterflies Valley, Tours of Rhodes Greece
       caption: Gift shops at the main entrance of the Valley
   title: ''
-subtitle: ''
+subtitle: The Valley of the Butterflies - One of the most unusual biotopes in Europe
 related_tours:
 - Rhodes Full Day-DT2
 - Rhodes West Coast-DT3
