@@ -5,13 +5,15 @@ has_gallery: true
 id: site_kalithea_spa
 ref: site_kalithea_spa
 meta:
-  title: Kallithea Spa Rhodes,  Kallithea Spa Thermal, Rhodes Private Tours
-  http_desc: Kallithea Spa Rhodes,  Kallithea Spa Thermal, Rhodes Private Tours
-  description: Kallithea Spa Rhodes,  Kallithea Spa Thermal, Rhodes Private Tours
-  keywords: Rhodes private tours, Rhodes Allure Tours, Rhodes Shore Excursions
+  title: Kallithea Springs Rhodes Greece, Kallithea Thermal Rhodes Greece
+  http_desc: Kallithea Springs Rhodes Greece, Kallithea Thermal Rhodes Greece, Rhodes
+    Private Tours
+  description: Kallithea Springs Rhodes Greece, Kallithea Thermal Rhodes Greece, Rhodes
+    Private Tours
+  keywords: Kallithea Springs Rhodes Greece, Kallithea Thermal Rhodes Greece
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Kallithea Spa Rhodes,  Kallithea Spa Thermal
+  abstract: Kallithea Springs Rhodes Greece, Kallithea Thermal Rhodes Greece
 title: Kallithea Spa (Thermal) Rhodes Greece
 summary: Kalithea is located about 8Km (4,970mi) from Rhodes Town on the east coast
   of the island. The Bay of Kalithea has long been famous for its healing waters that
