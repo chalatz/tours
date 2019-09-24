@@ -5,13 +5,13 @@ has_gallery: true
 id: site_kritinia_castle
 ref: site_kritinia_castle
 meta:
-  title: Rhodes Allure Tours, Kritinia Castle
-  http_desc: 'Rhodes Allure Tours, Rhodes Private Tours '
-  description: Rhodes Allure Tours, Rhodes Private Tours, Kritinia Castle
-  keywords: Rhodes Allure Tours, Rhodes Private Tours, Kritinia Castle
+  title: Kritinia Castle, Rhodes Private Tours
+  http_desc: Kritinia Castle, Rhodes Private Tours
+  description: Kritinia Castle, Rhodes Private Tours
+  keywords: Kritinia Castle, Rhodes Private Tours
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Rhodes Allure Tours
+  abstract: Kritinia Castle, Rhodes Private Tours
 title: The Village and Castle of Kritinia
 summary: |-
   The village of Kritinia, meaning "New Crete", was founded by some families who came as refuges from Crete island. Originally, the settlement was located by the coast, in the current position of Kamiros Skala; but after the Byzantine era it was moved to the hills, for safety against pirates. In its heyday, the castle must have been a place of refuge for the inhabitants of nearby villages during enemy raids. From those hills, you have a panoramic view of the Aegean Sea.
