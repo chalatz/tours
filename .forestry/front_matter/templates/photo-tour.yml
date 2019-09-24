@@ -150,6 +150,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/links/parks-natural-beauty/kallithea-spa.md
 - pages/links/ancient-sites/filerimos.md
 - pages/links/ancient-sites/mount-smith-hill.md
 - pages/links/ancient-sites/kritinia.md
@@ -175,7 +176,6 @@ pages:
 - pages/links/parks-natural-beauty/ostrich-farm.md
 - pages/links/parks-natural-beauty/butterflies.md
 - pages/links/ancient-sites/monolithos.md
-- pages/links/parks-natural-beauty/kallithea-spa.md
 - pages/links/museums-art-galleries/modern-greek-art-museum.md
 - pages/links/museums-art-galleries/decorative-arts-museum.md
 - es_pages/quick-facts/pottery.md

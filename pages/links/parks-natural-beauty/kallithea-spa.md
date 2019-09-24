@@ -5,14 +5,10 @@ has_gallery: true
 id: site_kalithea_spa
 ref: site_kalithea_spa
 meta:
-  title: Kallithea Spa Rhodes,  Kallithea Spa Thermal, Rhodes Private Tours, Rhodes
-    Taxi Tours, Rhodes Allure Tours
-  http_desc: Kallithea Spa Rhodes,  Kallithea Spa Thermal, Rhodes Private Tours, Rhodes
-    Taxi Tours, Rhodes Allure Tours
-  description: Kallithea Spa Rhodes,  Kallithea Spa Thermal, Rhodes Private Tours,
-    Rhodes Taxi Tours, Rhodes Allure Tours
-  keywords: Rhodes private tours, Rhodes Allure Tours, Rhodes Shore Excursions, Taxi
-    Tours, Kallithea Spa Thermal
+  title: Kallithea Spa Rhodes,  Kallithea Spa Thermal, Rhodes Private Tours
+  http_desc: Kallithea Spa Rhodes,  Kallithea Spa Thermal, Rhodes Private Tours
+  description: Kallithea Spa Rhodes,  Kallithea Spa Thermal, Rhodes Private Tours
+  keywords: Rhodes private tours, Rhodes Allure Tours, Rhodes Shore Excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Kallithea Spa Rhodes,  Kallithea Spa Thermal
@@ -44,6 +40,8 @@ sections:
       alt: Kallithea baths, Rhodes Taxi Tourss
       caption: The stairway leads to the portico, and to another stairway that ends
         at the main Rotunda.
+  title: ''
+  desc: ''
 - desc: An extensive study of the waters began in 1927, while Rhodes was under Italian
     occupation. The results of the study proved that the specific waters at Kalithea
     Bay have a range of important properties, thus the development of the area was
@@ -71,6 +69,7 @@ sections:
       href: img/kallithea_spa/path_to_the_rotonda_2_mod.jpg
       alt: The big Rotonda, Rhodes Taxi Tours
       caption: The interior of the big Rotunda with the relief ground
+  title: ''
 - gallery_rows:
   - figures:
     - thumb: img/kallithea_spa/inside_the_big_rotonda_mod_small.jpg
@@ -91,6 +90,8 @@ sections:
       alt: Kallithea Beach, Rhodes Allure Tours
       caption: Some scenes from the film "The Guns of Navarone" were also filmed here
         too.
+  title: ''
+  desc: ''
 subtitle: ''
 related_tours:
 - Rhodes Nature Tour-DT9
@@ -101,5 +102,6 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Tailored Tours
+no_related_tours_text: ''
 
 ---
