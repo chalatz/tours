@@ -16,7 +16,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
   abstract: Monolithos Castle Rhodes Greece, Monolithos Village
-title: Monolithos Castle Rhodes Greece
+title: Castle of Monolithos Rhodes Greece
 summary: |-
   Monolithos village is located 73 km / 45 miles southwest of the city of Rhodes. It owes its name to the huge monolithic rock on top of which is a castle from the time of the Knights of St. John Hospitallers.
 
@@ -69,6 +69,7 @@ sections:
       href: img/monolithos_castle/monolithos_castle_mod_10.jpg
       alt: private tours of Rhodes Greece
       caption: The interior of the Castle of Monolithos
+  title: ''
 - title: Structural, Architectural, and Fortifications Elements
   desc: Construction was made under the authority of the Grand Master Pierre D'Aubusson
     (1476-1503). In old times, this castle was considered one of the four more powerful
