@@ -5,17 +5,16 @@ has_gallery: true
 id: site_butterflies
 ref: site_butterflies
 meta:
-  title: Butterflies Valley, Rhodes Valley of the Butterflies, Rhodes Private Tours,
-    Rhodes Allure Tours
-  http_desc: Butterflies Valley, Rhodes Valley of the Butterflies, Rhodes Private
-    Tours, Rhodes Allure Tours
-  description: 'Butterflies Valley, Rhodes Valley of the Butterflies, Rhodes Private
-    Tours, Rhodes Allure Tours, Butterflies Rhodes Greece '
-  keywords: Butterflies Valley, Rhodes Valley of the Butterflies, Rhodes Private Tours,
-    Rhodes Allure Tours
+  title: Rhodes Butterflies Valley Tour, Rhodes Private Tour
+  http_desc: Rhodes Butterflies Valley Tour, Rhodes Private Tour
+  description: 'Rhodes Butterflies Valley Tour, Rhodes Private Tour, Butterflies Valley,
+    Rhodes Valley of the Butterflies, Rhodes Private Tours, Rhodes Allure Tours, Butterflies
+    Rhodes Greece '
+  keywords: Rhodes Butterflies Valley Tour, Rhodes Private Tour, Rhodes Valley of
+    the Butterflies, Rhodes Private Tours, Rhodes Allure Tours
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Rhodes Valley of the Butterflies
+  abstract: Rhodes Butterflies Valley Tour
 title: The Valley of the Butterflies - One of the most unusual biotopes in Europe
 summary: |-
   It is a luxuriant ravine with abundant running water that attracts thousands of tourists each summer.  A German entomologist, Rheinhard Bger, visited the island a number of years ago and made a study of the butterflies that appear there from July to September.
@@ -42,6 +41,8 @@ sections:
       href: img/butterflies_valley/valley_of_the_butterflies_4.jpg
       alt: Valley of the butterflies, Rhodes Tours
       caption: The Valley of the Butterflies
+  title: ''
+  desc: ''
 - desc: 'The butterflies live in the valley during the summer, mate and fly away in
     September leaving their eggs at various points around the island. **In April these
     eggs produce the small larva which are transformed into chrysales in May and achieve
@@ -68,6 +69,7 @@ sections:
       href: img/butterflies_valley/valley_of_the_butterflies_8.jpg
       alt: Greece Butterflies Valley, Tours of Rhodes Greece
       caption: Gift shops at the main entrance of the Valley
+  title: ''
 subtitle: ''
 related_tours:
 - Rhodes Full Day-DT2
@@ -81,5 +83,6 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Private Tours of Rhodes
+no_related_tours_text: ''
 
 ---
