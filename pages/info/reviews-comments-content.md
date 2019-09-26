@@ -89,7 +89,7 @@ reviews:
     you for a wonderful day!  Steve (Stathis) our driver was awesome.  We are looking
     forward to coming back and will pass on your details to our friends :) Anita and
     family (Aug 16th)  anita01lee@gmail.com\n\nWhile I was in Rhodes on a cruise,
-    we used Rhodes Private Toues for a beach and island tour. Our driver was fantastic
+    we used Rhodes Private Tours for a beach and island tour. Our driver was fantastic
     and Nicholas made sure we were taken care of all day. We went to several beaches
     and with the suggestion from our driver we chose a great beach to enjoy our day
     in Rhodes. This is a fantastic company!  I would certainly use them again next
