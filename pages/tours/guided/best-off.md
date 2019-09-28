@@ -170,11 +170,11 @@ faq:
     a: The usual staying time at Lindos is 1.5 hours. However, it can vary depending
       on the travelers. (In case you need to spend more time in Lindos we need advance
       notice, on time of booking, as we must adjust the tour to your needs and wishes)
-  - q: My 84-year-old mother will be travelling with us. Since she won’t be able to
-      make the climb, is there something for her to do while my son climbs the Acropolis?
-    a: Certainly, we can drive her to a café just outside the village where she can
-      enjoy a drink while she waits. The café offers a spectacular view of the white
-      village and the Acropolis of Lindos, so she won’t be missing out on anything.
+  - q: My Grand mother will be travelling with us. Since she won’t be able to make
+      the climb, is there something for her to do while we climb the Acropolis?
+    a: 'Yes, we can drive her to a café just outside the white village where she can
+      enjoy a spectacular view of the village and the Acropolis of Lindos. You may
+      also look at our tours for Seniors '
   - q: How long is the walk back to the ship from the gate near the Palace of Grand
       Master and the Archaeological Museum?
     a: It normally takes 10 minutes, but you can go at your own leisurely pace, enjoying
