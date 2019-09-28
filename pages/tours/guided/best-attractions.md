@@ -176,9 +176,9 @@ faq:
       tour to your needs and wishes)
   - q: My 84 year old grandmother is along for the trip. Are there any options for
       her while my son climbs to the Acropolis of Lindos?
-    a: There is a café just outside the village that offers an enchanting view of
+    a: 'There is a café just outside the village that offers an enchanting view of
       the white village and the Acropolis. We can drive her there for a drink and
-      relaxation.
+      relaxation. You may also look at our tours for Seniors '
   - q: How near is the ship from the Palace of Grand Master and the Archaeological
       Museum?
     a: It’s ten minutes away, but you can take as long as you wish, enjoying the sights
