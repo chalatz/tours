@@ -29,19 +29,19 @@ sections:
   - figures:
     - thumb: img/rhodes_italian_architecture/the_bank_of_greece_mod_small.jpg
       href: img/rhodes_italian_architecture/the_bank_of_greece_mod.jpg
-      alt: The Bank of Greece, Rhodes Tours
+      alt: Banco de Grecia
       caption: Banco de Grecia.
     - thumb: img/rhodes_italian_architecture/the_court_building_mod_small.jpg
       href: img/rhodes_italian_architecture/the_court_building_mod.jpg
-      alt: The Court Building, Tours of Rhodes
+      alt: Edificio de la Corte
       caption: Edificio de la Corte.
     - thumb: img/rhodes_italian_architecture/the_st_francisco_church_mod_small.jpg
       href: img/rhodes_italian_architecture/the_st_francisco_church_mod.jpg
-      alt: Rhodes allure tours
+      alt: La Iglesia de San Francisco
       caption: La Iglesia de San Francisco.
     - thumb: img/rhodes_italian_architecture/the_st_francisco_church_2_mod_small.png
       href: img/rhodes_italian_architecture/the_st_francisco_church_2_mod.jpg
-      alt: Allure tours of Rhodes
+      alt: La estatua de San Francisco
       caption: La estatua de San Francisco.
 - desc: |-
     Durante los años de la ocupación, los italianos llevaron a cabo, aprovechando la mano de obra local casi gratuita, un extenso programa de restauraciones.
