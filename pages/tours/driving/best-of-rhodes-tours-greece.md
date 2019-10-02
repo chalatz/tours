@@ -193,7 +193,7 @@ faq:
     a: Yes, we can drive her down on the marvellous beach of Lindos have a drink and
       a nice discuss with the driver and enjoy the panoramic view of the white village
       and the Acropolis of Lindos while she is waiting for you. You may also look
-      at our Tours for <a href="./seniors-tours-in-rhodes.htm">seniors</a>
+      at our Tours for <a href="./Seniors-tours-in-rhodes.htm">seniors</a>
   - q: We are a family of 4 people, 2 adults and 2 children ages 6 and 9 years. Challenge
       is to see highlights AND keep kids entertained...
     a: The "Best of Rhodes" Half Day tour it is also an Educational and Entertainment
