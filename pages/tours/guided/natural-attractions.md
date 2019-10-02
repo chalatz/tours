@@ -147,8 +147,8 @@ faq:
       fee: Low season 3 Euros per person / High season 5 Euros per person / kids under
       12 years old, free'
   - q: How much are the entrance fees to Acropolis and the monastery of Ialyssos?
-    a: To Acropolis and to monastery is 6 euro per person. Seniors (with Id or Passport)
-      3 Euros / person.
+    a: To Acropolis and to monastery is 6 euro per person. <a href="./seniors-tours-in-rhodes.htm">seniors</a>
+      (with Id or Passport) 3 Euros / person.
 included:
   items:
   - text: Private Tour (just your party)
