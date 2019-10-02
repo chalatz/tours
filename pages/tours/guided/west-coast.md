@@ -135,8 +135,8 @@ gallery:
 faq:
   items:
   - q: How much are the entrance fees in Ancient Kamiros and the Monastery of Filerimos?
-    a: Entrance fee is 6 Euros per person. Seniors (with Id or Passport) 3 Euros per
-      person. Children under 18 years old free.
+    a: Entrance fee is 6 Euros per person. Seniors<a href="./seniors-tours-in-rhodes.htm">seniors</a>
+      (with Id or Passport) 3 Euros per person. Children under 18 years old free.
   - q: How much is the entrance fee in Acropolis of Rhodes / Monte Smith?
     a: No entrance fee, it's open sight
   - q: How long does it take a walk back to our ship from the gate near the Palace
