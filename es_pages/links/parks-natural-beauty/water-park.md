@@ -30,10 +30,10 @@ sections:
       alt: Parque Acuático en Faliraki – Rodas, Grecia
     - thumb: img/water_park/water_park_2_small.jpg
       href: img/water_park/water_park_2.jpg
-      alt: Rhodes Custom Tailored Tours, Water Park
+      alt: Parque Acuático en Faliraki – Rodas, Grecia
     - thumb: img/water_park/water_park_3_small.jpg
       href: img/water_park/water_park_3.jpg
-      alt: Rhodes Private Custom Tours, Water Park
+      alt: Parque Acuático en Faliraki – Rodas, Grecia
     - thumb: img/water_park/water_park_4_small.jpg
       href: img/water_park/water_park_4.jpg
       alt: Custom Tours in Rhodes , Water Park
