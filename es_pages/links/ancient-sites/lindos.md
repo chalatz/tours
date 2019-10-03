@@ -149,8 +149,8 @@ sections:
         la Acrópolis
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_3_small.jpg
       href: img/rhodes_lindos/view_from_lindos_acropolis_3.jpg
-      alt: Executive tours for Cruise Ship Passengers
-      caption: ''
+      alt: Vista de la playa principal de Lindos
+      caption: Vista de la playa principal de Lindos
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_4_small.jpg
       href: img/rhodes_lindos/view_from_lindos_acropolis_4.jpg
       alt: Executive Tours in Rhodes Greece
