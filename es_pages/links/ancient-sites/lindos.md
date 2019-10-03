@@ -106,8 +106,8 @@ sections:
       caption: 'Stoa helenística y escalera de propileas '
     - thumb: img/rhodes_lindos/lindos_acropolis_2_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_2.jpg
-      alt: Rhodes Private Shore Excursions
-      caption: ''
+      alt: Stoa helenística y la vista del mar Mediterráneo
+      caption: Stoa helenística y la vista del mar Mediterráneo
 - desc: 'Excavaciones realizadas en este sitio a principios de los años noventa trajeron
     a la luz una variedad de objetos que incluían herramientas de 5000 años y una
     placa inscrita que data del año 99 a.C. y que documentaba visitantes del templo:
