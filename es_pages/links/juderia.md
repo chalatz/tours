@@ -145,12 +145,12 @@ sections:
         Sefardita
     - thumb: img/La_Juderia/la_juderia_14_thumb.jpg
       href: img/La_Juderia/la_juderia_14.jpg
-      alt: The Kahal Shalom Synagogue, Rhodes Exclusive Tours
+      alt: la sinagoga Kahal Shalom
       caption: El estilo Sefardita de tener el “tevah” (mesa para lectura de oraciones)
         en el centro del santuario que da al sudeste hacia Jerusalén.
     - thumb: img/La_Juderia/la_juderia_15_thumb.jpg
       href: img/La_Juderia/la_juderia_15.jpg
-      alt: The Kahal Shalom Synagogue, Rhodes Custom Tailored Tours
+      alt: la sinagoga Kahal Shalom
       caption: También hay un balcón que fue creado en 1935, como resultado de una
         política de liberación religiosa, para ser empleado como el área de oración
         de las mujeres.
