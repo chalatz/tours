@@ -32,7 +32,7 @@ sections:
       caption: El Museo Arqueologico
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_2_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_2.jpg
-      alt: The Archaeological Museum of Rhodes Greece, Tours of Rhodes
+      alt: La entrada del museo Arqueologico, Rodas Grecia
       caption: La entrada del museo
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_3_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_3.jpg
