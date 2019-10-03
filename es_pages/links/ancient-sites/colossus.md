@@ -31,10 +31,10 @@ sections:
       alt: Coloso de Rodas
     - thumb: img/colossus_of_rhodes/colossus_2_small.jpg
       href: img/colossus_of_rhodes/colossus_2.jpg
-      alt: Rhodes private sightseeing tours
+      alt: Coloso de Rodas
     - thumb: img/colossus_of_rhodes/colossus_3_small.jpg
       href: img/colossus_of_rhodes/colossus_3.jpg
-      alt: Sightseeing tours in Rhodes island
+      alt: Coloso de Rodas
     - thumb: img/colossus_of_rhodes/colossus_4_small.jpg
       href: img/colossus_of_rhodes/colossus_4.jpg
       alt: Rhodes Greece Sightseeing Tours
