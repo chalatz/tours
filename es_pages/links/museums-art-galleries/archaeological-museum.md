@@ -62,8 +62,8 @@ sections:
       caption: 'Museo Arqueológico de Rodas Grecia '
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_8_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_8.jpg
-      alt: The Archaeological Museum of Rhodes, Rhodes Greece Tours
-      caption: ''
+      alt: 'Museo Arqueológico de Rodas Grecia '
+      caption: 'Museo Arqueológico de Rodas Grecia '
 - desc: |-
     La entrada se abre a un patio, rodeado de una historia galerías superiores accede por una escalera exterior. Fragmentos de piedra y montones de balas de cañón, las reliquias de varios sitios, se encuentran en el suelo.
 
