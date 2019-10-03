@@ -105,7 +105,7 @@ sections:
         con yeso y que soportan un entablamento. Paneles cierran los espacios intermedios."
     - thumb: img/ancient_kameiros/ancient_kameiros_12_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_12.jpg
-      alt: Private Specialized Tours Rhodes
+      alt: 'La Plaza de la Fuente Antigua Kámiros '
       caption: "<strong>La Plaza de la Fuente:</strong> En su interior había una cisterna
         abierta de la que se extraía el agua (mediados del siglo IV antes de Cristo).
         En un período posterior (siglo III antes de Cristo), la cisterna fue reemplazada
