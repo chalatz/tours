@@ -81,14 +81,14 @@ sections:
       por algunos meses!
     image:
       path: img/top_ten_reasons/top_ten_reasons_8.jpg
-      alt: Top 10 reasons to visit Rhodes Island Greece
+      alt: '10 razones para visitar la Isla de Rodas en Grecia '
   - title: '9) Los Alojamientos:'
     body: En la Isla de Rodas, encontrará una amplia gama de alojamientos, desde los
       hoteles más lujosos hasta estudios, apartamentos de alquiler, y villas y casas
       privadas.
     image:
       path: img/top_ten_reasons/top_ten_reasons_9.png
-      alt: 10 reasons to visit the Island of Rhodes Greece
+      alt: '10 razones para visitar la Isla de Rodas en Grecia '
   - title: '10) Fácil accesibilidad:'
     body: Es fácil llegar. Sea por avión o por barco, es fácil llegar a Rodas.
     image:
