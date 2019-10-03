@@ -36,7 +36,8 @@ sections:
       caption: "<strong>Los Caballeros de Rodas:</strong> El Palacio del Gran Maestre"
     - thumb: img/knights_of_rhodes/foto_2_thumb.jpg
       href: img/knights_of_rhodes/foto_2.jpg
-      alt: Bombard-Mortar of The Knights of Rhodes, AllureTours
+      alt: Los Caballeros de Rodas.  Mortero de Bombardeo de los Caballeros de Rodas
+        1408 – 1500.
       caption: "<strong>Los Caballeros de Rodas:</strong> Mortero de Bombardeo de
         los Caballeros de Rodas 1408 – 1500."
     - thumb: img/knights_of_rhodes/foto_3_thumb.jpg
