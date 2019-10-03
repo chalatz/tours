@@ -118,7 +118,7 @@ sections:
       caption: ''
     - thumb: img/filerimos_hill/filerimos_way_of_the_cross_4_thumb.jpg
       href: img/filerimos_hill/filerimos_way_of_the_cross_4.jpg
-      alt: The Way of the Cross
+      alt: Vía Dolorosa – Vía Crucis, Filerimos
       caption: ''
 - title: La Cruz
   desc: La imponente cruz de concreto de 16 metros / 48 pies se yerguen en el medio
