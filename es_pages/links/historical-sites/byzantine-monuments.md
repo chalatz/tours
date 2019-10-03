@@ -40,7 +40,7 @@ sections:
         de los Caballeros.
     - thumb: img/rhodes_byzantine_sites/byzantine_st_constantine_church_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_st_constantine_church_mod.jpg
-      alt: Byzantine church of St Constantine and Helen, Tours of Rhodes
+      alt: Iglesia Bizantina de Santa María
       caption: Iglesia Bizantina de Santa Constantina y Elena, de los siglos XII y
         XIII.
     - thumb: img/rhodes_byzantine_sites/byzantine_clock_tower_mod_small.jpg
