@@ -34,7 +34,7 @@ sections:
     - thumb: img/rhodes_lindos/ancient_lindos_acropolis_mod_small.jpg
       href: img/rhodes_lindos/ancient_lindos_acropolis_mod.jpg
       alt: Lindos, Rodas
-      caption: ''
+      caption: 'Lindos, Rodas '
     - thumb: img/rhodes_lindos/st_pauls_bay_mod_small.jpg
       href: img/rhodes_lindos/st_pauls_bay_mod.jpg
       alt: Bahia de San Pablo - Lindos Rodas
