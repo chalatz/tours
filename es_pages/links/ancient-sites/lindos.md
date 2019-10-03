@@ -77,8 +77,8 @@ sections:
       caption: El pueblo blanco de Lindos
     - thumb: img/rhodes_lindos/lindos_village_8_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_8_mod.jpg
-      alt: Lindos, Rhodes Allure Tours
-      caption: ''
+      alt: 'Lindos, Rodas '
+      caption: 'Lindos, Rodas '
 - title: La Acrópolis
   desc: La antigua acrópolis se encuentra a 160 metros (410 pies) sobre Lindos. Al
     acercarse a la cima se entra en el CASTILLO, fortaleza del siglo XIII y acceso
