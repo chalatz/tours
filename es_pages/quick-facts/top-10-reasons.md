@@ -93,7 +93,7 @@ sections:
     body: Es fácil llegar. Sea por avión o por barco, es fácil llegar a Rodas.
     image:
       path: img/top_ten_reasons/top_ten_reasons_10.png
-      alt: Rhodes private tours and shore excursions, Greece
+      alt: '10 razones para visitar la Isla de Rodas en Grecia '
 subtitle: ''
 
 ---
