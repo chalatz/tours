@@ -50,7 +50,7 @@ sections:
         de Rodas."
     - thumb: img/La_Juderia/la_juderia_4_thumb.jpg
       href: img/La_Juderia/la_juderia_4.jpg
-      alt: The Jewish Quarter, Rhodes Exclusive Tours
+      alt: Barrio Judío
       caption: Barrio Judío
   title: ''
   desc: ''
