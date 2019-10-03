@@ -160,7 +160,7 @@ sections:
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_16_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_16.jpg
-      alt: steamed mussels with white wine
+      alt: En los restaurantes de pescado
       caption: ''
 - desc: |-
     - **Rouzetia me Skorthalia** Pequeños peces rojos, con salsa de ajo (sólo en Rodas)
