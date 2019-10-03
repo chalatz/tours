@@ -243,7 +243,7 @@ sections:
   - figures:
     - thumb: img/La_Juderia/la_juderia_29_thumb.jpg
       href: img/La_Juderia/la_juderia_29.jpg
-      alt: The Jewish Cemetery, Customized Tours of Rhodes
+      alt: Cementerio Judío en Rodas
       caption: Monumento de mármol que identifica a los 2000 judíos de Rodas y Cos
         que fueron muertos durante el Holocausto, dedicado a la pérdida de la vida.
     - thumb: img/La_Juderia/la_juderia_30_thumb.jpg
