@@ -168,7 +168,7 @@ sections:
   - figures:
     - thumb: img/La_Juderia/la_juderia_17_thumb.jpg
       href: img/La_Juderia/la_juderia_17.jpg
-      alt: The Jewish Museum, Customized Tours in Greece
+      alt: Museo Judío de Rodas
       caption: ''
     - thumb: img/La_Juderia/la_juderia_18_thumb.jpg
       href: img/La_Juderia/la_juderia_18.jpg
