@@ -106,7 +106,7 @@ sections:
   - figures:
     - thumb: img/filerimos_hill/filerimos_way_of_the_cross_1_thumb.jpg
       href: img/filerimos_hill/filerimos_way_of_the_cross_1.jpg
-      alt: Taxi Tours of Rhodes Greece
+      alt: Vía Dolorosa – Vía Crucis, Filerimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_way_of_the_cross_2_thumb.jpg
       href: img/filerimos_hill/filerimos_way_of_the_cross_2.jpg
