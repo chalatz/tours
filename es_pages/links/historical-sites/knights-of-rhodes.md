@@ -42,7 +42,7 @@ sections:
         los Caballeros de Rodas 1408 – 1500."
     - thumb: img/knights_of_rhodes/foto_3_thumb.jpg
       href: img/knights_of_rhodes/foto_3.jpg
-      alt: Grand Masters Palace, Rhodes Allure Tours
+      alt: Las fortificaciones de la Palacio del Gran Maestre
       caption: "<strong>Los Caballeros de Rodas:</strong> Las fortificaciones de la
         Palacio del Gran Maestre"
     - thumb: img/knights_of_rhodes/foto_4_thumb.jpg
