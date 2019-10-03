@@ -186,15 +186,15 @@ sections:
   - figures:
     - thumb: img/La_Juderia/la_juderia_21_thumb.jpg
       href: img/La_Juderia/la_juderia_21.jpg
-      alt: The Jewish Museum, Rhodes Private Tours
+      alt: Museo Judío de Rodas
       caption: ''
     - thumb: img/La_Juderia/la_juderia_22_thumb.jpg
       href: img/La_Juderia/la_juderia_22.jpg
-      alt: The Jewish Museum, Rhodes Taxi Tours
+      alt: Museo Judío de Rodas
       caption: ''
     - thumb: img/La_Juderia/la_juderia_23_thumb.jpg
       href: img/La_Juderia/la_juderia_23.jpg
-      alt: The Jewish Museum, Rhodes Allure Tours
+      alt: Museo Judío de Rodas
       caption: ''
     - thumb: img/La_Juderia/la_juderia_24_thumb.jpg
       href: img/La_Juderia/la_juderia_24.jpg
