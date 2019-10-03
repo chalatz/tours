@@ -58,7 +58,7 @@ sections:
       caption: ''
     - thumb: img/decorative_arts_museum/decorative_arts_museum_7_mod_small.jpg
       href: img/decorative_arts_museum/decorative_arts_museum_7_mod.jpg
-      alt: Private Tour Guides in Rhodes Greece, Folklore Museum
+      alt: 'Isla de Rodas Grecia, Museo de Artes Decorativas - Museo del Folclor '
       caption: ''
     - thumb: img/decorative_arts_museum/decorative_arts_museum_8_mod_small.jpg
       href: img/decorative_arts_museum/decorative_arts_museum_8_mod.jpg
