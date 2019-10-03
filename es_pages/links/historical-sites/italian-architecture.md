@@ -57,7 +57,7 @@ sections:
       caption: Edificio de la Administración.
     - thumb: img/rhodes_italian_architecture/the_filerimos_monastery_mod_small.jpg
       href: img/rhodes_italian_architecture/the_filerimos_monastery_mod.jpg
-      alt: The Filerimos Monastery, Rhodes Private Tours
+      alt: Monasterio de Filérimos.
       caption: Monasterio de Filérimos.
     - thumb: img/rhodes_italian_architecture/theatre_small.jpg
       href: img/rhodes_italian_architecture/theatre.jpg
