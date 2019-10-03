@@ -140,7 +140,7 @@ sections:
   - figures:
     - thumb: img/La_Juderia/la_juderia_13_thumb.jpg
       href: img/La_Juderia/la_juderia_13.jpg
-      alt: The Kahal Shalom Synagogue, Custom Tours in Rhodes
+      alt: la sinagoga Kahal Shalom
       caption: Interior de la sinagoga Kahal Shalom que sigue el estilo tradicional
         Sefardita
     - thumb: img/La_Juderia/la_juderia_14_thumb.jpg
