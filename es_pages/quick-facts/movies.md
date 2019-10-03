@@ -57,7 +57,7 @@ sections:
   - title: Pedro y Pablo (1981)
     image:
       path: img/rhodes_movies/rhodes_movies_3_mod.jpg
-      alt: Movies of Rhodes Greece , Rhodes private tours
+      alt: Pedro y Pablo (1981)
     body: |-
       - Pedro y Pablo asumir el liderazgo de la Iglesia en su lucha contra la oposición violenta a las enseñanzas de Cristo y de sus propios conflictos personales... Filmada en la Ciudad Vieja
       - **Intérpretes: Anthony Hopkins, Robert Foxworth, Eddie Albert.**
