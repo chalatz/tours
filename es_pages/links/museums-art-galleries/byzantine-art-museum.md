@@ -38,7 +38,7 @@ sections:
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_6_mod_small.png
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_6_mod.jpg
-      alt: Private day tours in Rhodes
+      alt: la Iglesia Bizantina de Santa María (Panayía tou Kástrou o Vírgen del Fuerte)
       caption: ''
 - desc: Después de la caída de Rodas en manos de los turcos en 1522, se convirtió
     en la mezquita de Emberum.
