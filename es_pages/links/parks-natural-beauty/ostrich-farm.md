@@ -52,7 +52,7 @@ sections:
       caption: La Granja de los Avestruces y el Parque Zoológico
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_6_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_6.jpg
-      alt: Private Tours of Rhodes, Ostrich Farm
+      alt: La Granja de los Avestruces y el Parque Zoológico, Rodas Grecia
       caption: La Granja de los Avestruces y el Parque Zoológico
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_7_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_7.jpg
