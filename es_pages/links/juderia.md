@@ -110,18 +110,18 @@ sections:
         de mar"
     - thumb: img/La_Juderia/la_juderia_10_thumb.jpg
       href: img/La_Juderia/la_juderia_10.jpg
-      alt: The fountain with three seahorses, Rhodes Custom Tours
+      alt: Plaza de los Judíos Mártires
       caption: "<strong>Plaza de los Judíos Mártires:</strong> La con tres caballos
         de mar"
     - thumb: img/La_Juderia/la_juderia_11_thumb.jpg
       href: img/La_Juderia/la_juderia_11.jpg
-      alt: The Holocaust Memorial, Exclusive Tours in Rhodes Island
+      alt: Monumento conmemorativo del Holocausto
       caption: "<strong>Monumento conmemorativo del Holocausto,</strong>  dedicado
         el 23 de junio del 2002 a la memoria de las víctimas de la segunda guerra
         mundial, provenientes de Rodas y de la isla de Cos."
     - thumb: img/La_Juderia/la_juderia_12_thumb.jpg
       href: img/La_Juderia/la_juderia_12.jpg
-      alt: The Square of the Martyred Jews, Rhodes Exclusive Tours
+      alt: Plaza de los Judíos Mártires
       caption: "<strong>Plaza de los Judíos Mártires:</strong> The fountain with three
         seahorses"
 - title: Sinagoga “Kahal Shalom”
