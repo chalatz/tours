@@ -257,7 +257,7 @@ sections:
       caption: Cementerio Judío
     - thumb: img/La_Juderia/la_juderia_32_thumb.jpg
       href: img/La_Juderia/la_juderia_32.jpg
-      alt: The Jewish Cemetery, Rhodes Exclusive Tours
+      alt: Cementerio Judío en Rodas
       caption: 1938 Relocation of the Jewish Cemetery to its present site
 - gallery_rows:
   - figures:
