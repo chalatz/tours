@@ -52,7 +52,7 @@ sections:
     - thumb: img/monolithos_castle/monolithos_castle_mod_5_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_5.jpg
       alt: Taxi tours of Rhodes Greece
-      caption: ''
+      caption: 'Castillo de Monolitos '
     - thumb: img/monolithos_castle/monolithos_castle_mod_7_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_7.jpg
       alt: Rhodes Day Tours
