@@ -102,8 +102,8 @@ sections:
         de San Juan Hospitalarios)
     - thumb: img/rhodes_lindos/lindos_acropolis_1_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_1.jpg
-      alt: Executive Taxi Tours in Rhodes
-      caption: ''
+      alt: 'Stoa helenística y escalera de propileas '
+      caption: 'Stoa helenística y escalera de propileas '
     - thumb: img/rhodes_lindos/lindos_acropolis_2_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_2.jpg
       alt: Rhodes Private Shore Excursions
