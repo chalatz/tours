@@ -78,11 +78,11 @@ sections:
       caption: ''
     - thumb: img/grand_masters_palace/inside_the_grand_masters_palace_2_mod_small.png
       href: img/grand_masters_palace/inside_the_grand_masters_palace_2_mod.jpg
-      alt: Rhodes Allure Tours, Palace of the Grand Masters
+      alt: El Palacio del Gran Maestre  Rodas Grecia
       caption: ''
     - thumb: img/grand_masters_palace/hellenistic_and_roman_mosaics_mod_small.jpg
       href: img/grand_masters_palace/hellenistic_and_roman_mosaics_mod.jpg
-      alt: Tours in Rhodes Greece, Grand Masters Palace
+      alt: Conjunto de Laocoonte en el Palacio del Gran Maestre.
       caption: Conjunto de Laocoonte en el Palacio del Gran Maestre.
     - thumb: img/grand_masters_palace/hellenistic_and_roman_mosaics_2_mod_small.jpg
       href: img/grand_masters_palace/hellenistic_and_roman_mosaics_2_mod.jpg
