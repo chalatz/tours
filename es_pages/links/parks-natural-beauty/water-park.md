@@ -27,7 +27,7 @@ sections:
   - figures:
     - thumb: img/water_park/water_park_1_small.jpg
       href: img/water_park/water_park_1.jpg
-      alt: Rhodes Custom Tours, Rhodes Water Park
+      alt: Parque Acuático en Faliraki – Rodas, Grecia
     - thumb: img/water_park/water_park_2_small.jpg
       href: img/water_park/water_park_2.jpg
       alt: Rhodes Custom Tailored Tours, Water Park
