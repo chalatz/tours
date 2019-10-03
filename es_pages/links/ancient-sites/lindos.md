@@ -120,8 +120,8 @@ sections:
       caption: Templo de Atenea Lindia
     - thumb: img/rhodes_lindos/lindos_acropolis_4_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_4.jpg
-      alt: Rhodes customized executive tours
-      caption: ''
+      alt: Templo de Atenea Lindia
+      caption: Templo de Atenea Lindia
     - thumb: img/rhodes_lindos/lindos_acropolis_5_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_5.jpg
       alt: Executive Day Trips Rhodes Greece
