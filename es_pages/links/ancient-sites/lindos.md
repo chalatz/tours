@@ -132,8 +132,9 @@ sections:
         Fortificaciones medievales construidas por los Caballeros de San Juan Hospitalarios
     - thumb: img/rhodes_lindos/lindos_acropolis_6_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_6.jpg
-      alt: Executive Taxi Tours Rhodes Greece
-      caption: ''
+      alt: La iglesia ortodoxa griega Agios Ioannis (San Juan) del siglo XIII al XIV.
+      caption: La iglesia ortodoxa griega Agios Ioannis (San Juan) del siglo XIII
+        al XIV.
 - title: Vistas desde la Acrópolis
   gallery_rows:
   - figures:
