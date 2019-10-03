@@ -55,7 +55,9 @@ sections:
       caption: ''
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_7_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_7_mod.jpg
-      alt: Allure City Tours in Rhodes Greece
+      alt: |2-
+
+        Isla de Rodas, El Hospicio de Santa Caterina
       caption: ''
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_8_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_8_mod.jpg
