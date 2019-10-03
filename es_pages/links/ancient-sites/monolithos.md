@@ -59,11 +59,11 @@ sections:
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_8_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_8.jpg
-      alt: Rhodes Allure Tours
+      alt: 'Castillo de Monolitos '
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_10_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_10.jpg
-      alt: private tours of Rhodes Greece
+      alt: 'Castillo de Monolitos '
       caption: ''
 - title: Elementos Estructurales, Arquitectónicos y de Fortificación
   desc: La construcción se llevó a cabo bajo la autoridad del Gran Maestro Pierre
