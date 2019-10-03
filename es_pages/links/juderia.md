@@ -43,7 +43,7 @@ sections:
       caption: Barrio Judío.
     - thumb: img/La_Juderia/la_juderia_3_thumb.jpg
       href: img/La_Juderia/la_juderia_3.jpg
-      alt: Israelite Universelle School, Custom Tailored Tours in Rhodes
+      alt: Israelite Universelle School
       caption: "<strong>Israelite Universelle School;</strong> la placa de dedicación
         sobre la fuente de la escuela judía de Rodas es todo lo que queda de ella
         actualmente. Inscripción al General Ameglio, primer comandante militar italiano
