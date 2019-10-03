@@ -73,8 +73,8 @@ sections:
       caption: El pueblo blanco de Lindos
     - thumb: img/rhodes_lindos/lindos_village_7_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_7_mod.jpg
-      alt: Lindos, Allure Tours Rhodes Greece
-      caption: ''
+      alt: El pueblo blanco de Lindos
+      caption: El pueblo blanco de Lindos
     - thumb: img/rhodes_lindos/lindos_village_8_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_8_mod.jpg
       alt: Lindos, Rhodes Allure Tours
