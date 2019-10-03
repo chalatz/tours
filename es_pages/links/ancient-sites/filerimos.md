@@ -65,7 +65,7 @@ sections:
       caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_8_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_8.jpg
-      alt: Lady of Filerimos
+      alt: La Iglesia de Nuestra Señora de Filerimos
       caption: ''
 - title: Monasterio de Filerimos
   desc: El monasterio fue destruido durante la ocupación turca. Los italianos lo reconstruyeron
