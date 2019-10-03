@@ -140,7 +140,7 @@ sections:
       caption: ''
     - thumb: img/filerimos_hill/filerimos_cross_4_thumb.png
       href: img/filerimos_hill/filerimos_cross_4.jpg
-      alt: Cruise Shore Tours Rhodes Greece
+      alt: 'La Cruz, Filerimos, Rodas '
       caption: ''
 - title: Las vistas
   gallery_rows:
