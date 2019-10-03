@@ -28,11 +28,11 @@ sections:
         idílico.
     - thumb: img/rodini_park/rodini_park_2_small.jpg
       href: img/rodini_park/rodini_park_2.jpg
-      alt: Allure Tours in Rhodes Greece, Rodini Park
+      alt: 'Parque Rodini en Rodas Grecia '
       caption: El acueducto romano
     - thumb: img/rodini_park/rodini_park_3_small.jpg
       href: img/rodini_park/rodini_park_3.jpg
-      alt: Rhodes Greece Allure Tours, Rodini Park
+      alt: 'Parque Rodini en Rodas Grecia '
       caption: Los pavos reales se mueven libremente por todas partes y se pasean
         por el parque entero.
     - thumb: img/rodini_park/rodini_park_4_small.jpg
