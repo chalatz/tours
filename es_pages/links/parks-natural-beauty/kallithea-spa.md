@@ -72,7 +72,7 @@ sections:
   - figures:
     - thumb: img/kallithea_spa/inside_the_big_rotonda_mod_small.jpg
       href: img/kallithea_spa/inside_the_big_rotonda_mod.jpg
-      alt: Kallithea, Rhodes Shore Excursions
+      alt: Fuentes de Kallithea, Dentro de la gran Rotonda
       caption: Dentro de la gran Rotonda
     - thumb: img/kallithea_spa/inside_the_big_rotonda_2_mod_small.jpg
       href: img/kallithea_spa/inside_the_big_rotonda_2_mod.jpg
