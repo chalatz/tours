@@ -74,7 +74,7 @@ sections:
       hay una designada para el bronceado nudista.
     image:
       path: img/top_ten_reasons/top_ten_reasons_7.jpg
-      alt: Ten reasons to visit Rhodes
+      alt: '10 razones para visitar la Isla de Rodas en Grecia '
   - title: '8) La Gente:'
     body: La gente rodia es muy amable. Son amigables, corteses, y cálidos. En algunas
       aldeas pequeñas, ¡usted podría sentir que puede alquilar una habitación y quedarse
