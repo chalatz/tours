@@ -84,7 +84,7 @@ sections:
   - figures:
     - thumb: img/ancient_kameiros/ancient_kameiros_9_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_9.jpg
-      alt: Specialized Private Tours Rhodes
+      alt: El Templo Dórico
       caption: "<strong>El Templo Dórico:</strong> Ubicado en la tercera y más baja
         terraza de la zona arqueológica en el extremo noroeste de la Plaza de la Fuente.
         Era un templo de poros de dístilo in antis (con dos columnas en la fachada),
