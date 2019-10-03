@@ -128,7 +128,7 @@ sections:
   - figures:
     - thumb: img/filerimos_hill/filerimos_cross_1_thumb.jpg
       href: img/filerimos_hill/filerimos_cross_1.jpg
-      alt: The Cross of Filerimos
+      alt: 'La Cruz, Filerimos, Rodas '
       caption: ''
     - thumb: img/filerimos_hill/filerimos_cross_2_thumb.png
       href: img/filerimos_hill/filerimos_cross_2.jpg
