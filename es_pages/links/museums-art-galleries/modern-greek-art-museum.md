@@ -73,7 +73,7 @@ sections:
         autorizada del vigésimo siglo.
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_2_mod_small.jpg
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_2_mod.jpg
-      alt: Private Shore Excursions Rhodes Greece, The New Gallery
+      alt: La Nueva Galería del Museo de Arte Moderna Griega
       caption: La colección de la Galería de Arte Municipal incluye obras de K. Maleas,
         C. Parthenis, F. Kontoglou, y muchos otros artistas griegos.
 - gallery_rows:
