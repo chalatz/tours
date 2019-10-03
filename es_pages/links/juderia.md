@@ -172,11 +172,11 @@ sections:
       caption: ''
     - thumb: img/La_Juderia/la_juderia_18_thumb.jpg
       href: img/La_Juderia/la_juderia_18.jpg
-      alt: The Jewish Museum, Exclusive tours in Greece
+      alt: Museo Judío de Rodas
       caption: ''
     - thumb: img/La_Juderia/la_juderia_19_thumb.jpg
       href: img/La_Juderia/la_juderia_19.jpg
-      alt: The Jewish Museum, Rhodes Customized Tours
+      alt: Museo Judío de Rodas
       caption: ''
     - thumb: img/La_Juderia/la_juderia_20_thumb.jpg
       href: img/La_Juderia/la_juderia_20.jpg
