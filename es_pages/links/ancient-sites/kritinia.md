@@ -87,7 +87,7 @@ sections:
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_12_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_12_mod.jpg
-      alt: Private tours of Rhodes Greeces
+      alt: El Castillo de Kritinia Elementos Estructurales, Arquitectónicos y de Fortificación
       caption: ''
 - title: Las Vistas
   desc: Por su ubicación estratégica y sus vistas de las áreas aledañas, era una importante
