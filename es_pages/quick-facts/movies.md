@@ -27,7 +27,7 @@ sections:
   - title: Los Cañones de Navarone (1961)
     image:
       path: img/rhodes_movies/rhodes_movies_1_mod.jpg
-      alt: Movies filmed in Rhodes Greece, Rhodes private tours
+      alt: Los Cañones de Navarone (1961)
     body: "- Un equipo británico es enviado a través del territorio griego ocupados
       y destruir la masiva de armas alemán que los comandos de un canal de mar clave.
       Los acantilados entre Lindos & Pefkos, la Acrópolis de Lindos, la ciudad medieval,
