@@ -39,11 +39,11 @@ sections:
       caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_2_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_2.jpg
-      alt: Filerimos monastery,Rhodes Taxi Tours
+      alt: La Iglesia de Nuestra Señora de Filerimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_3_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_3.jpg
-      alt: Filerimos Rhodes,Shore Tours
+      alt: La Iglesia de Nuestra Señora de Filerimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_4_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_4.jpg
