@@ -96,8 +96,10 @@ sections:
       caption: Los pasos a la acrópolis de Lindos
     - thumb: img/rhodes_lindos/lindos_acropolis_8_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_8.jpg
-      alt: Executive Taxi Tours Rhodes Greece
-      caption: ''
+      alt: Las fortificaciones, los escalones y la entrada medieval (construida por
+        los Caballeros de San Juan Hospitalarios)
+      caption: Las fortificaciones, y la entrada medieval (construida por los Caballeros
+        de San Juan Hospitalarios)
     - thumb: img/rhodes_lindos/lindos_acropolis_1_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_1.jpg
       alt: Executive Taxi Tours in Rhodes
