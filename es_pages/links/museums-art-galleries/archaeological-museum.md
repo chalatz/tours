@@ -54,7 +54,7 @@ sections:
       caption: Piso de mosaico proveniente de Arkasa en Kárpathos.
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_6_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_6.jpg
-      alt: Crouching Venus, Rhodes Taxi Tours
+      alt: La bella estatua de Afrodita de baño del siglo primero.
       caption: La bella estatua de Afrodita de baño del siglo primero.
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_7_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_7.jpg
