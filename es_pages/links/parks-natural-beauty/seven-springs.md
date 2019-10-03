@@ -34,11 +34,11 @@ sections:
       caption: Las Siete Fuentes
     - thumb: img/seven_springs/seven_springs_valley_2_thumb.jpg
       href: img/seven_springs/seven_springs_valley_2.jpg
-      alt: Seven Springs Rhodes Greece, Rhodes Private Tours
+      alt: Las Siete Fuentes Rodas Grecia
       caption: Las Siete Fuentes
     - thumb: img/seven_springs/seven_springs_valley_3_thumb.jpg
       href: img/seven_springs/seven_springs_valley_3.jpg
-      alt: Seven Springs Rhodes Greece, Rhodes Taxi Tours
+      alt: Las Siete Fuentes Rodas Grecia
       caption: Las Siete Fuentes
     - thumb: img/seven_springs/seven_springs_valley_4_thumb.jpg
       href: img/seven_springs/seven_springs_valley_4.jpg
