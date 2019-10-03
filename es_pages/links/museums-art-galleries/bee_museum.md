@@ -52,7 +52,7 @@ sections:
       caption: El Museo de las Abejas
     - thumb: img/bee_museum/bee_museum_7_small.jpg
       href: img/bee_museum/bee_museum_7.jpg
-      alt: Rhodes Private Tours, Allure Tours in Rhodes
+      alt: El Museo de las Abejas en Rodas
       caption: El Museo de las Abejas
     - thumb: img/bee_museum/bee_museum_8_small.jpg
       href: img/bee_museum/bee_museum_8.jpg
