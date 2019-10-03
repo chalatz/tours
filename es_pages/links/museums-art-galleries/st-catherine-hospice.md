@@ -25,7 +25,7 @@ sections:
   - figures:
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_mod.jpg
-      alt: City tours of Rhodes, The Hospice of St. Catherine
+      alt: La entrada del Hospicio de Santa Catarina.
       caption: La entrada del Hospicio de Santa Catarina.
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_2_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_2_mod.jpg
