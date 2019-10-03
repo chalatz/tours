@@ -121,7 +121,7 @@ sections:
       caption: Centro del Arte Moderna
     - thumb: img/modern_greek_art_museum/old_almshouse_2_mod_small.jpg
       href: img/modern_greek_art_museum/old_almshouse_2_mod.jpg
-      alt: 'Rhodes Shore Excursions, The Modern Art Centre  '
+      alt: Centro del Arte Moderna, Isla de Rodas Grecia
       caption: Centro del Arte Moderna
 - desc: |-
     En el 2000 el museo adquirió el uso del edificio del “Paleó Sysitio” (Antigua Casa de Beneficencia) como sala de exhibiciones.
