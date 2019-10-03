@@ -58,8 +58,8 @@ sections:
       caption: La bella estatua de Afrodita de baño del siglo primero.
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_7_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_7.jpg
-      alt: The Archaeological Museum of Rhodes, Rhodes Shore Excursions
-      caption: ''
+      alt: 'Museo Arqueológico de Rodas Grecia '
+      caption: 'Museo Arqueológico de Rodas Grecia '
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_8_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_8.jpg
       alt: The Archaeological Museum of Rhodes, Rhodes Greece Tours
