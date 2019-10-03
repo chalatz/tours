@@ -72,11 +72,11 @@ sections:
   - figures:
     - thumb: img/La_Juderia/la_juderia_5_thumb.jpg
       href: img/La_Juderia/la_juderia_5.jpg
-      alt: The Jewish Quarter, Rhodes Custom Tailored Tours
+      alt: Barrio Judío
       caption: Barrio Judío
     - thumb: img/La_Juderia/la_juderia_6_thumb.jpg
       href: img/La_Juderia/la_juderia_6.jpg
-      alt: The Jewish Quarter, Rhodes Allure Tours
+      alt: Barrio Judío
       caption: Barrio Judío
     - thumb: img/La_Juderia/la_juderia_7_thumb.jpg
       href: img/La_Juderia/la_juderia_7.jpg
