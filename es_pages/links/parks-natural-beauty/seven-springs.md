@@ -42,7 +42,7 @@ sections:
       caption: Las Siete Fuentes
     - thumb: img/seven_springs/seven_springs_valley_4_thumb.jpg
       href: img/seven_springs/seven_springs_valley_4.jpg
-      alt: Seven Springs Rhodes Greece, Rhodes Tours
+      alt: Las Siete Fuentes Rodas Grecia
       caption: Las Siete Fuentes
 - desc: Las aguas caen de las fuentes durante todo el año, formando un pequeño lago
     artificial que provee un habitat natural a tortugas, anguilas, cangrejos y una
