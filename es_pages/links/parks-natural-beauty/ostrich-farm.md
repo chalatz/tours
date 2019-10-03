@@ -38,7 +38,7 @@ sections:
       caption: La Granja de los Avestruces
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_4_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_4.jpg
-      alt: Ostrich Farm, Rhodes Shore Excursions
+      alt: La Granja de los Avestruces
       caption: La Granja de los Avestruces
 - desc: Entre otros, pueden verse varias especies de animales raros como zorros, canguros,
     una llama, un mono, antílopes, cabras enanas, ponis, conejos, hurones, zorrillos,
