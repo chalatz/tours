@@ -148,15 +148,15 @@ sections:
   - figures:
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_13_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_13.jpg
-      alt: Rhodes Greece Food
+      alt: La Cocina Tradicional Griega de Rodas
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_14_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_14.jpg
-      alt: Greek Traditional Food in Rhodes
+      alt: La Cocina Tradicional Griega de Rodas
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_15_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_15.jpg
-      alt: Food in Rhodes Greece
+      alt: La Cocina Tradicional Griega de Rodas
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_16_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_16.jpg
