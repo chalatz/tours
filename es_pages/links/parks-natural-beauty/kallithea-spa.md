@@ -38,7 +38,7 @@ sections:
       caption: ''
     - thumb: img/kallithea_spa/kallithea_baths_mod_small.jpg
       href: img/kallithea_spa/kallithea_baths_mod.jpg
-      alt: Kallithea baths, Rhodes Taxi Tourss
+      alt: Kallithea Baños Termales Rodas Grecia
       caption: ''
 - desc: Se inició un estudio exhaustivo de las aguas en 1927 cuando Rodas se hallaba
     bajo la ocupación italiana. Los resultados de dicho estudio revelaron que las
