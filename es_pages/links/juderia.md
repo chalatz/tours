@@ -228,7 +228,7 @@ sections:
       caption: Museo establecido en 1997
     - thumb: img/La_Juderia/la_juderia_28_thumb.jpg
       href: img/La_Juderia/la_juderia_28.jpg
-      alt: Nicholas with Aron Hasson on Rhodes Island
+      alt: Nicolas con Aron en la isla de Rodas
       caption: Nicolas con Aron en la isla de Rodas
 - title: Cementerio Judío
   id: the_jewish_cemetery
