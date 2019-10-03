@@ -52,7 +52,7 @@ sections:
   - figures:
     - thumb: img/grand_masters_palace/defensive_fortifications_mod_small.jpg
       href: img/grand_masters_palace/defensive_fortifications_mod.jpg
-      alt: Tours of Rhodes, Grand Master Palace
+      alt: El Palacio del Gran Maestre, Rodas Grecia
       caption: ''
     - thumb: img/grand_masters_palace/defensive_fortifications_2_mod_small.jpg
       href: img/grand_masters_palace/defensive_fortifications_2_mod.jpg
