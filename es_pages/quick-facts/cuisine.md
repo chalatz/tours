@@ -107,7 +107,7 @@ sections:
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_12_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_12.jpg
-      alt: Greek Salad
+      alt: Menús Tradicionales de Rodas
       caption: ''
 - title: La Cocina Tradicional Griega de Rodas
   desc: |-
