@@ -180,7 +180,7 @@ sections:
       caption: ''
     - thumb: img/La_Juderia/la_juderia_20_thumb.jpg
       href: img/La_Juderia/la_juderia_20.jpg
-      alt: The Jewish Museum, Rhodes Exclusive tours
+      alt: Museo Judío de Rodas
       caption: ''
 - gallery_rows:
   - figures:
