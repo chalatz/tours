@@ -29,7 +29,7 @@ sections:
       caption: La entrada del Hospicio de Santa Catarina.
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_2_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_2_mod.jpg
-      alt: Rhodes City Tours, The Hospice
+      alt: El Hospicio de Santa Caterina, Rodas Grecia
       caption: El Hospicio de Santa Caterina
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_3_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_3_mod.jpg
