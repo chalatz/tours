@@ -65,8 +65,8 @@ sections:
   - figures:
     - thumb: img/rhodes_lindos/cleoboulus_statue_mod_small.jpg
       href: img/rhodes_lindos/cleoboulus_statue_mod.jpg
-      alt: Lindos Rhodes Greece Escorted Tours, escorted tours of Rhodes
-      caption: ''
+      alt: Lindos, Rodas, Kleovoulos - Cleobulos (625 - 555 B.C.)
+      caption: Lindos, Rodas, Kleovoulos - Cleobulos (625 - 555 B.C.)
     - thumb: img/rhodes_lindos/ancient_theatre_mod_small.jpg
       href: img/rhodes_lindos/ancient_theatre_mod.jpg
       alt: Lindos Rhodes Greece Executive Tours, escorted tours of Rhodes
