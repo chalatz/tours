@@ -33,11 +33,11 @@ sections:
       caption: ''
     - thumb: img/modern_greek_art_museum/municipal_art_gallery_mod_small.jpg
       href: img/modern_greek_art_museum/municipal_art_gallery_mod.jpg
-      alt: Tours of Rhodes, Taxi Tours of Rhodes, The Gallery
+      alt: 'Rodas Grecia, Museo de Arte Moderna Griega Galería Municipal '
       caption: ''
     - thumb: img/modern_greek_art_museum/municipal_art_gallery_2_mod_small.jpg
       href: img/modern_greek_art_museum/municipal_art_gallery_2_mod.jpg
-      alt: Rhodes Tours, Rhodes Private Tours, The Gallery
+      alt: Museo de Arte Moderna Griega Galería Municipal, Rodas Grecia
       caption: ''
     - thumb: img/modern_greek_art_museum/municipal_art_gallery_3_mod_small.jpg
       href: img/modern_greek_art_museum/municipal_art_gallery_3_mod.jpg
