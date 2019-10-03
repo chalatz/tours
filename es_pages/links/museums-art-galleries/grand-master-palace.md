@@ -60,11 +60,11 @@ sections:
       caption: ''
     - thumb: img/grand_masters_palace/the_castello_mod_small.jpg
       href: img/grand_masters_palace/the_castello_mod.jpg
-      alt: Rhodes Private Tours, The Castelo
+      alt: El Palacio del Gran Maestre, Rodas Grecia
       caption: ''
     - thumb: img/grand_masters_palace/the_lower_acropolis_mod_small.jpg
       href: img/grand_masters_palace/the_lower_acropolis_mod.jpg
-      alt: Rhodes Taxi Tours, The Castelo
+      alt: El Palacio del Gran Maestre, Rodas Grecia
       caption: ''
 - desc: The arrangement of the palace around the central courtyard with the apartments
     on the first floor and the storerooms on the ground floor show the Byzantine influences
