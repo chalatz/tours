@@ -219,7 +219,7 @@ sections:
       caption: Aron Hasson
     - thumb: img/La_Juderia/la_juderia_26_thumb.jpg
       href: img/La_Juderia/la_juderia_26.jpg
-      alt: The Rhodes Jewish Historical Foundation,  Exclusive tours in Greece
+      alt: Aron Hasson
       caption: La Fundación Histórica Judía de Rodas establecida para preservar la
         historia única de los judíos en Rodas.
     - thumb: img/La_Juderia/la_juderia_27_thumb.jpg
