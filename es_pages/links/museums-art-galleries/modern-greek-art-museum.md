@@ -92,7 +92,7 @@ sections:
       caption: ''
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_6_mod_small.jpg
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_6_mod.jpg
-      alt: Rhodes custom made tours, Rhodes Greece Tours, Rhodes Tours
+      alt: La Nueva Galería del Museo de Arte Moderna Griega, Rodas Grecia
       caption: ''
 - desc: |-
     La colección de la Galería de Arte Municipal incluye obras de K. Maleas, C. Parthenis, F. Kontoglou, Theofilos, N. Hadjikyriakos-Gikas, Sp. Vassiliou, J. Spyropoulos, Y. Gaitis, Fassianos, Kessanlis, Chr. Botsoglou, Moralis, Tsarouchis y muchos otros artistas griegos.
