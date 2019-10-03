@@ -66,7 +66,7 @@ sections:
   - figures:
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_9_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_9.jpg
-      alt: Rhodes Greece Tours, Ostrich Farm
+      alt: La Granja de los Avestruces. La tienda de regalos y bar
       caption: La tienda de regalos y bar
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_10_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_10.jpg
