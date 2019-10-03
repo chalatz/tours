@@ -99,7 +99,7 @@ sections:
         de la Orden."
     - thumb: img/knights_of_rhodes/flag3_thumb.jpg
       href: img/knights_of_rhodes/flag3.jpg
-      alt: Grand-Master's-Flag, Rhodes Shore Excursions
+      alt: Bandera del Gran Maestre
       caption: "<strong>Los Caballeros de San Juan hoy:</strong> Bandera del Gran
         Maestre."
     - thumb: img/knights_of_rhodes/flag4_thumb.jpg
