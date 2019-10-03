@@ -41,7 +41,7 @@ sections:
       caption: El Castillo de Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_4_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_4.jpg
-      alt: 'The castle of Monolithos, Rhodes Taxi Tours '
+      alt: 'Castillo de Monolitos  '
       caption: El Castillo de Monolithos
 - desc: |-
     El propósito del castillo era vigilar toda la parte sur de Rodas y proteger a los residentes de los ataques de los piratas. El Decreto 1479 les indicó a los habitantes de la aldea de Apolakkia (a 10 km / 6 millas de Monolithos) que regresaran al castillo cuando estuvieran bajo la amenaza de ataques. Por su ubicación y excelente fortificación natural, era uno de los cuatro fuertes de Rodas, y a diferencia de los otros sitios históricos, es probable que no se haya modificado mucho a lo largo del tiempo.
