@@ -40,7 +40,7 @@ sections:
       href: img/grand_masters_palace/grand_masters_palace_4.jpg
       alt: El Palacio del Gran Maestre, Rodas Grecia
       caption: El Palacio del Gran Maestre
-- desc: enía dimensiones imponentes (80 x 75 metros) y fortificaciones de defensa.
+- desc: Tenía dimensiones imponentes (80 x 75 metros) y fortificaciones de defensa.
     Era tan fuerte que durante el asedio de 1522 sufrió muy pocos daños. La entrada
     principal se encuentra en la fachada sur flanqueada por dos imponentes torres.
     La fachada occidental está perforada por una puerta frente a la cual se eleva
