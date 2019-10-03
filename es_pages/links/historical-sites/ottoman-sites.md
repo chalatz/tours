@@ -23,6 +23,7 @@ summary: En 1552 los turcos otomanos conquistaron la ciudad después de un largo
   los nuevos mecenas.
 sections:
 - gallery_rows:
+  - figures: ''
   - figures:
     - thumb: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_mod_small.jpg
       href: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_mod.jpg
@@ -51,7 +52,7 @@ sections:
   - figures:
     - thumb: img/rhodes_ottoman_sites/turkish_style_buildings_ottoman_sites_mod_small.jpg
       href: img/rhodes_ottoman_sites/turkish_style_buildings_ottoman_sites_mod.jpg
-      alt: Turkish style buildings, sachnisi, Tours of Rhodes
+      alt: Balcones de madera (sachnisi) de los edificios de estilo turco.
       caption: Balcones de madera (sachnisi) de los edificios de estilo turco.
     - thumb: img/rhodes_ottoman_sites/murat_reis_mosque_cemetery_mod_small.jpg
       href: img/rhodes_ottoman_sites/murat_reis_mosque_cemetery_mod.jpg
