@@ -54,7 +54,7 @@ sections:
       caption: ''
     - thumb: img/decorative_arts_museum/decorative_arts_museum_6_mod_small.jpg
       href: img/decorative_arts_museum/decorative_arts_museum_6_mod.jpg
-      alt: Museo de Artes Decorativas - Museo del Folclor Rodas Grecia
+      alt: 'Isla de Rodas, Museo de Artes Decorativas - Museo del Folclor '
       caption: ''
     - thumb: img/decorative_arts_museum/decorative_arts_museum_7_mod_small.jpg
       href: img/decorative_arts_museum/decorative_arts_museum_7_mod.jpg
