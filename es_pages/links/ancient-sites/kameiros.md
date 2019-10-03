@@ -134,11 +134,11 @@ sections:
       caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_15_thumb.png
       href: img/ancient_kameiros/ancient_kameiros_15.jpg
-      alt: Rhodes Taxi Tours
+      alt: 'Museo del Louvre: Cerámicas encontradas en Kamiros'
       caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_17_thumb.png
       href: img/ancient_kameiros/ancient_kameiros_17.jpg
-      alt: Rhodes Specialized excursion
+      alt: 'Museo del Louvre: Cerámicas encontradas en Kamiros'
       caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_14_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_14.jpg
