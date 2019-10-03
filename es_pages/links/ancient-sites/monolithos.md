@@ -112,7 +112,7 @@ sections:
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_22_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_22.jpg
-      alt: Rhodes shore excursions
+      alt: El Castillo de Monolithos las Vistas
       caption: ''
 subtitle: La Aldea de Monolithos
 
