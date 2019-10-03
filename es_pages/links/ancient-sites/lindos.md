@@ -124,8 +124,12 @@ sections:
       caption: Templo de Atenea Lindia
     - thumb: img/rhodes_lindos/lindos_acropolis_5_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_5.jpg
-      alt: Executive Day Trips Rhodes Greece
-      caption: ''
+      alt: |2-
+
+        Fortificaciones medievales construidas por los Caballeros de San Juan Hospitalarios
+      caption: |2-
+
+        Fortificaciones medievales construidas por los Caballeros de San Juan Hospitalarios
     - thumb: img/rhodes_lindos/lindos_acropolis_6_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_6.jpg
       alt: Executive Taxi Tours Rhodes Greece
