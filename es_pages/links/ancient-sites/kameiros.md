@@ -142,7 +142,7 @@ sections:
       caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_14_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_14.jpg
-      alt: Private Tours of Rhodes
+      alt: 'Museo del Louvre: Cerámicas encontradas en Kamiros'
       caption: ''
 
 ---
