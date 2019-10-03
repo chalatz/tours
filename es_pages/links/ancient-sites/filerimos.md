@@ -159,7 +159,7 @@ sections:
       caption: ''
     - thumb: img/filerimos_hill/filerimos_views_4_thumb.jpg
       href: img/filerimos_hill/filerimos_views_4.jpg
-      alt: Rhodes Shore Excursions
+      alt: Vista del Colina de Filérimos
       caption: ''
 
 ---
