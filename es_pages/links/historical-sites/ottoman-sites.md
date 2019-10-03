@@ -64,7 +64,7 @@ sections:
       caption: Biblioteca Musulmana.
     - thumb: img/rhodes_ottoman_sites/mehmet_aga_mosque_mod_small.jpg
       href: img/rhodes_ottoman_sites/mehmet_aga_mosque_mod.jpg
-      alt: Mehmet Aga Mosque in Socrates Street, Tours of Rhodes
+      alt: Mezquita de Mehmet Aga en la calle Sócrates
       caption: Mezquita de Mehmet Aga en la calle Sócrates.
 - desc: |-
     Las adiciones más características fueron los baños y los balcones de madera cerrados en las fachadas, sobre las callejuelas estrechas. El resultado fue una mezcla de arquitectura oriental con restos imponentes de arquitectura occidental y edificios más recientes que caracterizaban la arquitectura local del momento.
