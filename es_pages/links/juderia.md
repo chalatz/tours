@@ -80,7 +80,7 @@ sections:
       caption: Barrio Judío
     - thumb: img/La_Juderia/la_juderia_7_thumb.jpg
       href: img/La_Juderia/la_juderia_7.jpg
-      alt: The Jewish Quarter, Allure Tours in Rhodes Greece
+      alt: Barrio Judío
       caption: Barrio Judío
     - thumb: img/La_Juderia/la_juderia_8_thumb.jpg
       href: img/La_Juderia/la_juderia_8.jpg
