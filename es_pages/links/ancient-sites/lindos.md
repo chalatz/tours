@@ -144,8 +144,9 @@ sections:
       caption: Vista de la bahía de San Pablo desde la cima de la Acrópolis
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_2_small.jpg
       href: img/rhodes_lindos/view_from_lindos_acropolis_2.jpg
-      alt: Rhodes Greece Executive Tours
-      caption: ''
+      alt: Vista de la bahía de San Pablo y el pueblo blanco desde la cima de la Acrópolis
+      caption: Vista de la bahía de San Pablo y el pueblo blanco desde la cima de
+        la Acrópolis
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_3_small.jpg
       href: img/rhodes_lindos/view_from_lindos_acropolis_3.jpg
       alt: Executive tours for Cruise Ship Passengers
