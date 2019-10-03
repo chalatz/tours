@@ -29,7 +29,7 @@ sections:
   - figures:
     - thumb: img/modern_greek_art_museum/museum_of_modern_greek_art_mod_small.jpg
       href: img/modern_greek_art_museum/museum_of_modern_greek_art_mod.jpg
-      alt: Rhodes Tours, Rhodes Allure Tours, The Gallery
+      alt: 'Rodas Grecia, Museo de Arte Moderna Griega Galería Municipal '
       caption: ''
     - thumb: img/modern_greek_art_museum/municipal_art_gallery_mod_small.jpg
       href: img/modern_greek_art_museum/municipal_art_gallery_mod.jpg
