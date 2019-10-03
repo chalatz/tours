@@ -26,7 +26,7 @@ sections:
   - figures:
     - thumb: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_mod_small.jpg
       href: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_mod.jpg
-      alt: The sixteenth century Turkish bath Hammam in Arionos square, Rhodes Tours
+      alt: Entrada del baño turco Hammam en la plaza de Arionos
       caption: Entrada del baño turco Hammam en la plaza de Arionos. Construido en
         el siglo XVI.
     - thumb: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_2_mod_small.jpg
