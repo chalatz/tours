@@ -49,7 +49,7 @@ sections:
         cada costado están decorados por 21 columnas dóricas.
     - thumb: img/rodini_park/rodini_park_6_small.jpg
       href: img/rodini_park/rodini_park_6.jpg
-      alt: Rhodes Greece Allure Tours, Rodini Park
+      alt: El Parque Rodini, pavo real
       caption: El Parque Rodini, pavo real
     - thumb: img/rodini_park/rodini_park_7_small.jpg
       href: img/rodini_park/rodini_park_7.jpg
