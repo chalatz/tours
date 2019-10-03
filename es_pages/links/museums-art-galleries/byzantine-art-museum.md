@@ -46,7 +46,7 @@ sections:
   - figures:
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_8_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_8_mod.jpg
-      alt: Rhodes tailored made tours
+      alt: 'Museo de Arte Bizantino de Rodas, Grecia '
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_92_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_92_mod.jpg
