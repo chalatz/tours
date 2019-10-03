@@ -150,6 +150,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- es_pages/quick-facts/cuisine.md
 - es_pages/links/juderia.md
 - pages/links/ancient-sites/monolithos.md
 - pages/links/ancient-sites/kritinia.md
@@ -180,7 +181,6 @@ pages:
 - pages/links/museums-art-galleries/modern-greek-art-museum.md
 - pages/links/museums-art-galleries/decorative-arts-museum.md
 - es_pages/quick-facts/pottery.md
-- es_pages/quick-facts/cuisine.md
 - es_pages/quick-facts/history-of-rhodes.md
 - pages/quick-facts/travel-guide.md
 - pages/quick-facts/rhodes-map.md

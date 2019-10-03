@@ -35,7 +35,7 @@ sections:
   - figures:
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_1_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_1.jpg
-      alt: Food in Rhodes Greece
+      alt: 'Gastronomía Griega de Rodas - Comida Griega '
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_2_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_2.jpg
