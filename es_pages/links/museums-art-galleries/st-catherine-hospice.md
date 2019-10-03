@@ -33,7 +33,7 @@ sections:
       caption: El Hospicio de Santa Caterina
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_3_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_3_mod.jpg
-      alt: City tours in Rhodes Greece, The Hospice
+      alt: El Hospicio de Santa Caterina, Rodas Grecia
       caption: ''
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_4_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_4_mod.jpg
