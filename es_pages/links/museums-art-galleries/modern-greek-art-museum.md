@@ -64,11 +64,11 @@ sections:
       caption: ''
     - thumb: img/modern_greek_art_museum/hundred_palms_square_mod_small.jpg
       href: img/modern_greek_art_museum/hundred_palms_square_mod.jpg
-      alt: Rhodes Shore Excursions, Rhodes Day Tours Greece, The New Gallery
+      alt: La Nueva Galería del Museo de Arte Moderna Griega
       caption: ''
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_mod_small.jpg
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_mod.jpg
-      alt: Rhodes Tours, Rhodes Greece Private Tours, The New Gallery
+      alt: La Nueva Galería del Museo de Arte Moderna Griega
       caption: La galería alberga hoy una de las colecciones más representativas y
         autorizada del vigésimo siglo.
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_2_mod_small.jpg
