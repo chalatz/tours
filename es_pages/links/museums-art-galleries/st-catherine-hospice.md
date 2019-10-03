@@ -61,7 +61,7 @@ sections:
       caption: ''
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_8_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_8_mod.jpg
-      alt: Guided City Tours in Rhodes
+      alt: Isla de Rodas,  El Hospicio de Santa Caterina
       caption: ''
 subtitle: Hospicio de Santa Caterina - Rodas Grecia
 
