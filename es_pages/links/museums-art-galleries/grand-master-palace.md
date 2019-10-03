@@ -86,7 +86,7 @@ sections:
       caption: Conjunto de Laocoonte en el Palacio del Gran Maestre.
     - thumb: img/grand_masters_palace/hellenistic_and_roman_mosaics_2_mod_small.jpg
       href: img/grand_masters_palace/hellenistic_and_roman_mosaics_2_mod.jpg
-      alt: Rhodes Custom Tours, Mosaics
+      alt: el Palacio del Gran Maestre.
       caption: ''
 - desc: Las estatuas que se encuentran en el patio interior del palacio datan también
     de los períodos helenístico y romano. Existen indicios de que bajo sus cimientos
