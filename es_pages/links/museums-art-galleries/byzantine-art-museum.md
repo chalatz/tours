@@ -30,7 +30,7 @@ sections:
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_3_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_3_mod.jpg
-      alt: Our Lady of the castle, Rhodes Allure Tours
+      alt: la Iglesia Bizantina de Santa María (Panayía tou Kástrou o Vírgen del Fuerte)
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_4_mod_small.png
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_4_mod.jpg
