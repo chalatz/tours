@@ -76,7 +76,7 @@ sections:
       caption: Dentro de la gran Rotonda
     - thumb: img/kallithea_spa/inside_the_big_rotonda_2_mod_small.jpg
       href: img/kallithea_spa/inside_the_big_rotonda_2_mod.jpg
-      alt: Kallithea Spa, Rhodes Private Tours
+      alt: Fuentes de Kallithea
       caption: Exposiciones de fotos, pintura, escultura por parte de famosos artistas
         de la isla.
     - thumb: img/kallithea_spa/rotonda_kalithea_mod_small.jpg
