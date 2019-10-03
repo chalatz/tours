@@ -60,7 +60,7 @@ sections:
       caption: Mezquita del Murat Reis y cementerio.
     - thumb: img/rhodes_ottoman_sites/the_muslim_library_ottoman_sites_mod_small.jpg
       href: img/rhodes_ottoman_sites/the_muslim_library_ottoman_sites_mod.jpg
-      alt: The Muslim Library, Rhodes Tours
+      alt: Biblioteca Musulmana
       caption: Biblioteca Musulmana.
     - thumb: img/rhodes_ottoman_sites/mehmet_aga_mosque_mod_small.jpg
       href: img/rhodes_ottoman_sites/mehmet_aga_mosque_mod.jpg
