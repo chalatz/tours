@@ -95,7 +95,7 @@ sections:
   - figures:
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_9_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_9.jpg
-      alt: Greek Gastronomy of Rhodes
+      alt: Menús Tradicionales de Rodas
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_10_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_10.jpg
