@@ -66,7 +66,7 @@ sections:
       caption: Pequeño sendero que lleva a la gran Rotonda.
     - thumb: img/kallithea_spa/path_to_the_rotonda_2_mod_small.jpg
       href: img/kallithea_spa/path_to_the_rotonda_2_mod.jpg
-      alt: The big Rotonda, Rhodes Taxi Tours
+      alt: la gran Rotonda,  Fuentes de Kallithea
       caption: Dentro de la gran Rotonda
 - gallery_rows:
   - figures:
