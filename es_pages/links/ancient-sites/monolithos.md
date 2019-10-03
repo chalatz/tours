@@ -104,11 +104,11 @@ sections:
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_20_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_20.jpg
-      alt: The castle of Monolithos Rhodes Greece
+      alt: El Castillo de Monolithos las Vistas
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_21_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_21.jpg
-      alt: Rhodes private tours
+      alt: El Castillo de Monolithos las Vistas
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_22_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_22.jpg
