@@ -39,7 +39,7 @@ sections:
       Rodas no es solo una isla segura sino también una ciudad limpia y verde donde la naturaleza hace presencia, incluso en el centro, con parques públicos. Muy pocos grafitis, y un enorme equipo de personal de limpieza que recogen cualquier desperdicio mal ubicado de manera bastante rápida.
     image:
       path: img/top_ten_reasons/top_ten_reasons_3.jpg
-      alt: Top 10 reasons to visit Rhodes Island Greece
+      alt: '10 razones para visitar la Isla de Rodas en Grecia '
   - title: '4) Comida y Vinos Tradicionales:'
     body: La dieta mediterránea se considera una de las más sanas en el mundo, y para
       alguien que tenga aprecio por la comida del mar y los vegetales frescos, los
