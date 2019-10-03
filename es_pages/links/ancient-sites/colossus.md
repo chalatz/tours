@@ -37,7 +37,7 @@ sections:
       alt: Coloso de Rodas
     - thumb: img/colossus_of_rhodes/colossus_4_small.jpg
       href: img/colossus_of_rhodes/colossus_4.jpg
-      alt: Rhodes Greece Sightseeing Tours
+      alt: Coloso de Rodas
 - title: La estatua del Coloso hoy
   desc: |-
     Reportes recibidos de medios de comunicación en 1989 sugerían que las piedras de gran tamaño halladas en el lecho marino cerca de la costa de Rodas podrían haber sido los restos del Coloso pero esta teoría fue refutada más adelante y considerada sin fundamento.
