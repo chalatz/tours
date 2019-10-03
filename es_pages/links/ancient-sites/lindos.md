@@ -69,8 +69,8 @@ sections:
       caption: Lindos, Rodas, Kleovoulos - Cleobulos (625 - 555 B.C.)
     - thumb: img/rhodes_lindos/ancient_theatre_mod_small.jpg
       href: img/rhodes_lindos/ancient_theatre_mod.jpg
-      alt: Lindos Rhodes Greece Executive Tours, escorted tours of Rhodes
-      caption: ''
+      alt: El pueblo blanco de Lindos
+      caption: El pueblo blanco de Lindos
     - thumb: img/rhodes_lindos/lindos_village_7_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_7_mod.jpg
       alt: Lindos, Allure Tours Rhodes Greece
