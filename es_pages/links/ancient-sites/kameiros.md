@@ -77,7 +77,7 @@ sections:
       caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_8_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_8.jpg
-      alt: Specialized driver guide Rhodes
+      alt: Antigua Kámiros Rodas
       caption: ''
 - title: El Ágora (Nivel 3 - terraza inferior)
   gallery_rows:
