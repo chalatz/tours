@@ -56,7 +56,7 @@ sections:
       caption: Balcones de madera (sachnisi) de los edificios de estilo turco.
     - thumb: img/rhodes_ottoman_sites/murat_reis_mosque_cemetery_mod_small.jpg
       href: img/rhodes_ottoman_sites/murat_reis_mosque_cemetery_mod.jpg
-      alt: The Murat Reis Mosque and the Turkish Cemetery, Rhodes Private Tours
+      alt: Mezquita del Murat Reis y cementerio.
       caption: Mezquita del Murat Reis y cementerio.
     - thumb: img/rhodes_ottoman_sites/the_muslim_library_ottoman_sites_mod_small.jpg
       href: img/rhodes_ottoman_sites/the_muslim_library_ottoman_sites_mod.jpg
