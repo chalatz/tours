@@ -30,7 +30,7 @@ sections:
   - figures:
     - thumb: img/seven_springs/seven_springs_valley_1_thumb.jpg
       href: img/seven_springs/seven_springs_valley_1.jpg
-      alt: Seven Springs Rhodes Greece, Rhodes Allure Tours
+      alt: Las Siete Fuentes Rodas Grecia
       caption: Las Siete Fuentes
     - thumb: img/seven_springs/seven_springs_valley_2_thumb.jpg
       href: img/seven_springs/seven_springs_valley_2.jpg
