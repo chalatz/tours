@@ -23,7 +23,7 @@ sections:
       Ialisos… Y más…
     image:
       path: img/top_ten_reasons/top_ten_reasons_1.jpg
-      alt: Top 10 reasons to visit Rhodes Greece
+      alt: '10 razones para visitar la Isla de Rodas en Grecia '
   - title: '2) El Clima:'
     body: Rodas es el lugar más soleado de Grecia, con condiciones climáticas perfectas.
       La Isla de Rodas tiene el clima ideal para ofrecer a todos la oportunidad de
