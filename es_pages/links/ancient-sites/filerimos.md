@@ -47,7 +47,7 @@ sections:
       caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_4_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_4.jpg
-      alt: Ialyssos acropolis,Rhodes Day Tours
+      alt: La Iglesia de Nuestra Señora de Filerimos
       caption: ''
 - gallery_rows:
   - figures:
