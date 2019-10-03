@@ -40,7 +40,7 @@ sections:
       caption: El patio principal del museo.
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_4_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_4.jpg
-      alt: The Archaeological Museum of Rhodes Greece, Rhodes Tours
+      alt: El patio principal del museo.
       caption: En el patio principal está sentado un león, de piedra de Lardos, con
         la cabeza de un toro entre sus patas delanteras.
 - desc: Ocho arcos sencillos sostienen la fachada y la única decoración presente en
