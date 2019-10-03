@@ -36,7 +36,7 @@ sections:
       caption: La entrada del museo
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_3_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_3.jpg
-      alt: The Archaeological Museum of Rhodes Greece, Rhodes Private Tours
+      alt: El patio principal del museo.
       caption: El patio principal del museo.
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_4_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_4.jpg
