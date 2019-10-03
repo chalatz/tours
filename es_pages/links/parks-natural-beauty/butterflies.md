@@ -32,8 +32,8 @@ sections:
         Himalayensis
     - thumb: img/butterflies_valley/valley_of_the_butterflies_2_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_2.jpg
-      alt: Butterflies Valley Rhodes Greece, Allure Tours of Rhodes
-      caption: ''
+      alt: El Valle de las Mariposas
+      caption: El Valle de las Mariposas
     - thumb: img/butterflies_valley/valley_of_the_butterflies_3_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_3.jpg
       alt: Valley of the butterflies, Rhodes Private Tours
