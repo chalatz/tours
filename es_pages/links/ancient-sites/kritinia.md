@@ -106,11 +106,11 @@ sections:
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_15_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_15_mod.jpg
-      alt: City tours of Rhodes Greece
+      alt: El Castillo de Kritinia las Vistas
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_16_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_16_mod.jpg
-      alt: VIP tours in Rhodes Greece
+      alt: El Castillo de Kritinia las Vistas
       caption: ''
 
 ---
