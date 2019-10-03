@@ -53,7 +53,7 @@ sections:
       caption: El Parque Rodini, pavo real
     - thumb: img/rodini_park/rodini_park_7_small.jpg
       href: img/rodini_park/rodini_park_7.jpg
-      alt: Rhodes Allure Tours, Rodini Park
+      alt: El Parque Rodini, patos
       caption: El Parque Rodini, patos
     - thumb: img/rodini_park/rodini_park_8_small.jpg
       href: img/rodini_park/rodini_park_8.jpg
