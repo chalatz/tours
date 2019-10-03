@@ -50,11 +50,11 @@ sections:
   - figures:
     - thumb: img/decorative_arts_museum/decorative_arts_museum_5_mod_small.jpg
       href: img/decorative_arts_museum/decorative_arts_museum_5_mod.jpg
-      alt: Guided Tours in Rhodes Greece, Guided Rhodes Tours, Folklore Museum
+      alt: Museo de Artes Decorativas - Museo del Folclor Rodas
       caption: ''
     - thumb: img/decorative_arts_museum/decorative_arts_museum_6_mod_small.jpg
       href: img/decorative_arts_museum/decorative_arts_museum_6_mod.jpg
-      alt: Rhodes Private Tour Guide, Rhodes Greece Tours, Folklore Museum
+      alt: Museo de Artes Decorativas - Museo del Folclor Rodas Grecia
       caption: ''
     - thumb: img/decorative_arts_museum/decorative_arts_museum_7_mod_small.jpg
       href: img/decorative_arts_museum/decorative_arts_museum_7_mod.jpg
