@@ -248,12 +248,12 @@ sections:
         que fueron muertos durante el Holocausto, dedicado a la pérdida de la vida.
     - thumb: img/La_Juderia/la_juderia_30_thumb.jpg
       href: img/La_Juderia/la_juderia_30.jpg
-      alt: The Jewish Cemetery, Exclusive Tours of Rhodes
+      alt: Cementerio Judío en Rodas
       caption: Sepulturas excavadas, alineadas y listas para su traslado y exhibición
         en el Cementerio Judío.
     - thumb: img/La_Juderia/la_juderia_31_thumb.jpg
       href: img/La_Juderia/la_juderia_31.jpg
-      alt: Jewish marble monument, Custom Tours in Rhodes
+      alt: Cementerio Judío en Rodas
       caption: Cementerio Judío
     - thumb: img/La_Juderia/la_juderia_32_thumb.jpg
       href: img/La_Juderia/la_juderia_32.jpg
