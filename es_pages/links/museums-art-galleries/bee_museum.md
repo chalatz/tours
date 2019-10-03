@@ -44,11 +44,11 @@ sections:
   - figures:
     - thumb: img/bee_museum/bee_museum_5_small.jpg
       href: img/bee_museum/bee_museum_5.jpg
-      alt: Sightseeing Tours in Rhodes
+      alt: El Museo de las Abejas
       caption: ''
     - thumb: img/bee_museum/bee_museum_6_small.jpg
       href: img/bee_museum/bee_museum_6.jpg
-      alt: Rhodes Sightseeing Tours, Private Tours
+      alt: El Museo de las Abejas
       caption: El Museo de las Abejas
     - thumb: img/bee_museum/bee_museum_7_small.jpg
       href: img/bee_museum/bee_museum_7.jpg
