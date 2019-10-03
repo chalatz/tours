@@ -39,7 +39,7 @@ sections:
         una familia que vivió aquí en Rodas.
     - thumb: img/La_Juderia/la_juderia_2_thumb.jpg
       href: img/La_Juderia/la_juderia_2.jpg
-      alt: The Jewish Quarter, Exclusive Tours of Rhodes
+      alt: Barrio Judío.
       caption: Barrio Judío.
     - thumb: img/La_Juderia/la_juderia_3_thumb.jpg
       href: img/La_Juderia/la_juderia_3.jpg
