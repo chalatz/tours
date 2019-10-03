@@ -90,7 +90,7 @@ sections:
   - figures:
     - thumb: img/knights_of_rhodes/flag1_thumb.jpg
       href: img/knights_of_rhodes/flag1.jpg
-      alt: State-Flag, Rhodes Private Tours
+      alt: Los Caballeros de San Juan hoy, Bandera estatal.
       caption: "<strong>Los Caballeros de San Juan hoy:</strong> Bandera estatal."
     - thumb: img/knights_of_rhodes/flag2_thumb.jpg
       href: img/knights_of_rhodes/flag2.jpg
