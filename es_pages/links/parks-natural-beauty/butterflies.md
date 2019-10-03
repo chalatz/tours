@@ -36,8 +36,8 @@ sections:
       caption: El Valle de las Mariposas
     - thumb: img/butterflies_valley/valley_of_the_butterflies_3_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_3.jpg
-      alt: Valley of the butterflies, Rhodes Private Tours
-      caption: ''
+      alt: El Valle de las Mariposas
+      caption: El Valle de las Mariposas
     - thumb: img/butterflies_valley/valley_of_the_butterflies_4_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_4.jpg
       alt: Valley of the butterflies, Rhodes Tours
