@@ -91,7 +91,7 @@ sections:
         con pronaos, cella y opistódomos. Probablemente fue dedicado a Apolo Pitio."
     - thumb: img/ancient_kameiros/ancient_kameiros_10_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_10.jpg
-      alt: Specialized sightseeing Tours Rhodes
+      alt: 'El Santuario Helenístico  Antigua Kámiros '
       caption: "<strong>El Santuario Helenístico:</strong> Al otro lado de la Plaza
         de la Fuente se conserva un Santuario Helenístico dedicado a los dioses y
         héroes de Kamiros con altares dentro de un recinto. Este fue probablemente
