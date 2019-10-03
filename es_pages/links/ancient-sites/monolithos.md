@@ -29,7 +29,7 @@ sections:
   - figures:
     - thumb: img/monolithos_castle/monolithos_castle_mod_1_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_1.jpg
-      alt: The castle of Monolithos, Rhodes Allure Tours
+      alt: 'Castillo de Monolitos '
       caption: El Castillo de Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_2_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_2.jpg
