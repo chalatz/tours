@@ -67,7 +67,7 @@ sections:
   - figures:
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_12_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_12_mod.jpg
-      alt: Allure tours of Rhodes Greece, Exhibition
+      alt: 'Museo de Arte Bizantino de Rodas, Grecia '
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_13_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_13_mod.jpg
