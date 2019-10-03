@@ -91,7 +91,7 @@ sections:
       caption: ''
     - thumb: img/filerimos_hill/filerimos_monastery_4_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_4.jpg
-      alt: Monk's rooms in Monastery of Filerimos
+      alt: Monasterio de Filerimos
       caption: ''
 - title: Vía Dolorosa – Vía Crucis
   desc: 'Existe un sendero que se desprende de la plaza y que lleva al punto más occidental
