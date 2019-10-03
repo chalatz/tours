@@ -38,7 +38,7 @@ sections:
     - thumb: img/rhodes_lindos/st_pauls_bay_mod_small.jpg
       href: img/rhodes_lindos/st_pauls_bay_mod.jpg
       alt: Bahia de San Pablo - Lindos Rodas
-      caption: ''
+      caption: Bahia de San Pablo - Lindos Rodas
     - thumb: img/rhodes_lindos/lindos_village_1_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_1_mod.jpg
       alt: pueblo de lindos en rodas
