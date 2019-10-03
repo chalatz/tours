@@ -109,7 +109,7 @@ sections:
   - figures:
     - thumb: img/modern_greek_art_museum/gallery_of_the_modern_art_centre_mod_small.jpg
       href: img/modern_greek_art_museum/gallery_of_the_modern_art_centre_mod.jpg
-      alt: Rhodes Tours, Rhodes Taxi Tours, The Modern Art Center
+      alt: Centro del Arte Moderna, Rodas Grecia
       caption: Centro del Arte Moderna
     - thumb: img/modern_greek_art_museum/gallery_of_the_modern_art_centre_2_mod_small.jpg
       href: img/modern_greek_art_museum/gallery_of_the_modern_art_centre_2_mod.jpg
