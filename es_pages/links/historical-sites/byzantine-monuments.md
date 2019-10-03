@@ -45,7 +45,7 @@ sections:
         XIII.
     - thumb: img/rhodes_byzantine_sites/byzantine_clock_tower_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_clock_tower_mod.jpg
-      alt: The Byzantine Clock Tower, Rhodes Private Tours
+      alt: La torre del reloj que, The Byzantine Clock Tower
       caption: La torre del reloj que se encuentra en el lugar original de la torre
         noroeste de las fortificaciones internas del Colaquio, (antiguas fortificaciones
         bizantinas).
