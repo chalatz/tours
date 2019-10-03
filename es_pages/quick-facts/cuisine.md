@@ -195,7 +195,7 @@ sections:
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_20_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_20.jpg
-      alt: Pitaroudia-typical croquettes from Rhodes
+      alt: Tabernas en isla de Rodas, Grecia
       caption: ''
 - desc: |-
     - **Kouneli Stifatho** Conejo estofado, vino, cebolla, ajo, vinagre, apio, clavo de olor, perejil, albahaca, aceite de oliva
