@@ -44,7 +44,7 @@ sections:
   - figures:
     - thumb: img/rodini_park/rodini_park_5_small.jpg
       href: img/rodini_park/rodini_park_5.jpg
-      alt: Allure Tours in Rhodes Greece, Rodini Park
+      alt: 'Parque Rodini, La tumba de Ptolomeo '
       caption: La tumba de Ptolomeo data del período helenístico y los extremos de
         cada costado están decorados por 21 columnas dóricas.
     - thumb: img/rodini_park/rodini_park_6_small.jpg
