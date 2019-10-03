@@ -26,7 +26,7 @@ sections:
   - figures:
     - thumb: img/grand_masters_palace/grand_masters_palace_1_small.jpg
       href: img/grand_masters_palace/grand_masters_palace_1.jpg
-      alt: Rhodes Tours, Palace of the Grand Masters
+      alt: El Palacio del Gran Maestre, Rodas Grecia
       caption: El Palacio del Gran Maestre
     - thumb: img/grand_masters_palace/grand_masters_palace_2_small.jpg
       href: img/grand_masters_palace/grand_masters_palace_2.jpg
