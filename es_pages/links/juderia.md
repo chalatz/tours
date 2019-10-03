@@ -156,7 +156,7 @@ sections:
         de las mujeres.
     - thumb: img/La_Juderia/la_juderia_16_thumb.jpg
       href: img/La_Juderia/la_juderia_16.jpg
-      alt: The Kahal Shalom Synagogue, Rhodes Greece Exclusive Tours
+      alt: la sinagoga Kahal Shalom
       caption: Interior de la sinagoga Kahal Shalom
 - title: Museo Judío de Rodas
   id: the_jewish_museum
