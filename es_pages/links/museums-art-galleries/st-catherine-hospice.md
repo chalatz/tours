@@ -51,7 +51,7 @@ sections:
       caption: ''
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_6_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_6_mod.jpg
-      alt: Custom City Tours in Rhodes
+      alt: Rodas Grecia, El Hospicio de Santa Caterina
       caption: ''
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_7_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_7_mod.jpg
