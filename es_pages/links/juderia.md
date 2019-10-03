@@ -105,7 +105,7 @@ sections:
   - figures:
     - thumb: img/La_Juderia/la_juderia_9_thumb.jpg
       href: img/La_Juderia/la_juderia_9.jpg
-      alt: The Square of the Martyred Jews, Custom tours in Rhodes
+      alt: Plaza de los Judíos Mártires
       caption: "<strong>Plaza de los Judíos Mártires:</strong> La con tres caballos
         de mar"
     - thumb: img/La_Juderia/la_juderia_10_thumb.jpg
