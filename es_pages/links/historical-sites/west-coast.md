@@ -153,7 +153,7 @@ sections:
       caption: Castillo de Kritinia
     - thumb: img/West_Coast/castle_west_coast_mod2_small.jpg
       href: img/West_Coast/castle_west_coast_mod2.jpg
-      alt: Rhodes custom tailored private tours
+      alt: Castillo de Kritinia
       caption: Castillo de Kritinia
     - thumb: img/West_Coast/castle_west_coast_mod3_small.jpg
       href: img/West_Coast/castle_west_coast_mod3.jpg
