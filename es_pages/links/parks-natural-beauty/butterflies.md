@@ -65,7 +65,7 @@ sections:
       caption: 'El Valle de las Mariposas '
     - thumb: img/butterflies_valley/valley_of_the_butterflies_8_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_8.jpg
-      alt: Greece Butterflies Valley, Tours of Rhodes Greece
-      caption: ''
+      alt: El Valle de las Mariposas Rodas Grecia
+      caption: El Valle de las Mariposas
 
 ---
