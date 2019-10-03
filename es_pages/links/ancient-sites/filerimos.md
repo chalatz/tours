@@ -110,11 +110,11 @@ sections:
       caption: ''
     - thumb: img/filerimos_hill/filerimos_way_of_the_cross_2_thumb.jpg
       href: img/filerimos_hill/filerimos_way_of_the_cross_2.jpg
-      alt: Private Shore Excursions Rhodes Greece
+      alt: Vía Dolorosa – Vía Crucis, Filerimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_way_of_the_cross_3_thumb.jpg
       href: img/filerimos_hill/filerimos_way_of_the_cross_3.jpg
-      alt: The Way of the Cross
+      alt: Vía Dolorosa – Vía Crucis, Filerimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_way_of_the_cross_4_thumb.jpg
       href: img/filerimos_hill/filerimos_way_of_the_cross_4.jpg
