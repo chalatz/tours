@@ -79,7 +79,7 @@ sections:
   - figures:
     - thumb: img/filerimos_hill/filerimos_monastery_1_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_1.jpg
-      alt: filerimos mountain,Rhodes Shore Trips
+      alt: Monasterio de Filerimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_monastery_2_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_2.jpg
