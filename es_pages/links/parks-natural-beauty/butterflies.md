@@ -27,7 +27,7 @@ sections:
   - figures:
     - thumb: img/butterflies_valley/valley_of_the_butterflies_1_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_1.jpg
-      alt: Valley of the butterflies, Rhodes Allure Tours
+      alt: El Valle de las Mariposas
       caption: Dichas mariposas pertenecen a la especie Callimorpha Quadripunctaria
         Himalayensis
     - thumb: img/butterflies_valley/valley_of_the_butterflies_2_thumb.jpg
