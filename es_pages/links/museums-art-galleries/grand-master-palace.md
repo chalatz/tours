@@ -107,7 +107,7 @@ sections:
       caption: Las estatuas que se encuentran en el patio interior del palacio
     - thumb: img/grand_masters_palace/statues_in_the_inner_courtyard_mod_small.jpg
       href: img/grand_masters_palace/statues_in_the_inner_courtyard_mod.jpg
-      alt: Allure Tours in Rhodes Greece, Statues in the Grand Master Palace
+      alt: Las estatuas que se encuentran en el patio interior del palacio
       caption: Las estatuas que se encuentran en el patio interior del palacio
 
 ---
