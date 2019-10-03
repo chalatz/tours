@@ -53,7 +53,7 @@ sections:
   - figures:
     - thumb: img/rhodes_italian_architecture/the_administration_building_mod_small.jpg
       href: img/rhodes_italian_architecture/the_administration_building_mod.jpg
-      alt: The Administration building, Tours of Rhodes
+      alt: Edificio de la Administración.
       caption: Edificio de la Administración.
     - thumb: img/rhodes_italian_architecture/the_filerimos_monastery_mod_small.jpg
       href: img/rhodes_italian_architecture/the_filerimos_monastery_mod.jpg
