@@ -69,11 +69,11 @@ sections:
       caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_6_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_6.jpg
-      alt: Rhodes specialized shore excursions
+      alt: Antigua Kámiros Rodas
       caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_7_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_7.jpg
-      alt: Specialized taxi tours Rhodes
+      alt: Antigua Kámiros Rodas
       caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_8_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_8.jpg
