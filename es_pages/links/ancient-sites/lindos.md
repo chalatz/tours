@@ -116,8 +116,8 @@ sections:
   - figures:
     - thumb: img/rhodes_lindos/lindos_acropolis_3_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_3.jpg
-      alt: Rhodes Private Taxi Tours, Executive tours
-      caption: ''
+      alt: Templo de Atenea Lindia
+      caption: Templo de Atenea Lindia
     - thumb: img/rhodes_lindos/lindos_acropolis_4_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_4.jpg
       alt: Rhodes customized executive tours
