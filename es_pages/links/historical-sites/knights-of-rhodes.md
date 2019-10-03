@@ -94,7 +94,7 @@ sections:
       caption: "<strong>Los Caballeros de San Juan hoy:</strong> Bandera estatal."
     - thumb: img/knights_of_rhodes/flag2_thumb.jpg
       href: img/knights_of_rhodes/flag2.jpg
-      alt: The Flag of the Order’s works, Private Tours in Rhodes
+      alt: Bandera de los trabajos de la Orden.
       caption: "<strong>Los Caballeros de San Juan hoy:</strong> Bandera de los trabajos
         de la Orden."
     - thumb: img/knights_of_rhodes/flag3_thumb.jpg
