@@ -26,7 +26,7 @@ sections:
   - figures:
     - thumb: img/mount_smith_hill/panoramic_view_1_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_1_mod.jpg
-      alt: Rhodes allure tour
+      alt: Vista Panorámica desde la Colina Monte Smith
       caption: Vista Panorámica desde la Colina Monte Smith
     - thumb: img/mount_smith_hill/panoramic_view_2_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_2_mod.jpg
