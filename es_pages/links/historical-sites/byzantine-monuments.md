@@ -62,7 +62,7 @@ sections:
       caption: Iglesia Paleocristiana Bizantina del Arcangel Miguel.
     - thumb: img/rhodes_byzantine_sites/byzantine_archangel_michael_church_2_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_archangel_michael_church_2_mod.jpg
-      alt: Early Christian Byzantine church of Archangel Michael, Rhodes Private Tours
+      alt: Iglesia Paleocristiana Bizantina del Arcangel Miguel.
       caption: Iglesia Paleocristiana Bizantina del Arcangel Miguel.
     - thumb: img/rhodes_byzantine_sites/byzantine_st_spyridon_church_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_st_spyridon_church_mod.jpg
