@@ -51,15 +51,15 @@ sections:
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_6_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_6_mod.jpg
-      alt: Rhodes Greece Tours
+      alt: El Castillo de Kritinia
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_7_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_7_mod.jpg
-      alt: Rhodes Day Tours
+      alt: El Castillo de Kritinia
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_8_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_8_mod.jpg
-      alt: Rhodes luxury Excursions
+      alt: El Castillo de Kritinia
       caption: ''
 - title: Elementos Estructurales, Arquitectónicos y de Fortificación
   desc: El castillo de Kritinia es una mezcla de estilos bizantinos y medievales.
