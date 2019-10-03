@@ -78,7 +78,7 @@ sections:
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_10_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_10_mod.jpg
-      alt: Rhodes sightseeing tours
+      alt: Castillo de Kritinia Elementos Estructurales, Arquitectónicos y de Fortificación
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_11_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_11_mod.jpg
