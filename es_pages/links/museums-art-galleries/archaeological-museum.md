@@ -50,7 +50,7 @@ sections:
   - figures:
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_5_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_5.jpg
-      alt: Allure Tours of Rhodes, mosaic floor
+      alt: Piso de mosaico proveniente de Arkasa en Kárpathos.
       caption: Piso de mosaico proveniente de Arkasa en Kárpathos.
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_6_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_6.jpg
