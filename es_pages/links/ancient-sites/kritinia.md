@@ -73,7 +73,8 @@ sections:
   - figures:
     - thumb: img/kritinia_castle/kritinia_castle_9_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_9_mod.jpg
-      alt: Rhodes Private Custom Tours
+      alt: 'Elementos Estructurales, Arquitectónicos y de Fortificación  Castillo
+        de Kritinia '
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_10_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_10_mod.jpg
