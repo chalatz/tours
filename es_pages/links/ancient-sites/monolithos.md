@@ -89,7 +89,7 @@ sections:
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_15_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_15.jpg
-      alt: Private custom made tours of Rhodes
+      alt: Elementos Estructurales, Arquitectónicos y de Fortificación
       caption: ''
 - title: Las Vistas
   desc: |-
