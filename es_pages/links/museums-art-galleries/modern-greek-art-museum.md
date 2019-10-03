@@ -41,7 +41,7 @@ sections:
       caption: ''
     - thumb: img/modern_greek_art_museum/municipal_art_gallery_3_mod_small.jpg
       href: img/modern_greek_art_museum/municipal_art_gallery_3_mod.jpg
-      alt: Rhodes Tours, Rhodes Greece Tours, Rhodes Shore Excursions
+      alt: 'Museo de Arte Moderna Griega Galería Municipal, Rodas Grecia '
       caption: ''
 - desc: |-
     La Galería de Arte Municipal alberga una de las más significativas colecciones de pintura moderna griega en el país, con un total de 690 de piezas expuestas. Presentando trabajos de Maleas, Bouzianis, Kontoglou, Theofilos, Vassiliou, Hadzikyriakos-Gikas, Spyropoulos y otros artistas prominentes griegos, esta galería ofrece una experiencia invaluable al erudito en la pintura moderna griega.
