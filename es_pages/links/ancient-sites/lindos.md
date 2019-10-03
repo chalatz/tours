@@ -33,7 +33,7 @@ sections:
   - figures:
     - thumb: img/rhodes_lindos/ancient_lindos_acropolis_mod_small.jpg
       href: img/rhodes_lindos/ancient_lindos_acropolis_mod.jpg
-      alt: Executive Tours of Rhodes Greeces
+      alt: Lindos, Rodas
       caption: ''
     - thumb: img/rhodes_lindos/st_pauls_bay_mod_small.jpg
       href: img/rhodes_lindos/st_pauls_bay_mod.jpg
