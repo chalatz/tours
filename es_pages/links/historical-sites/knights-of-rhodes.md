@@ -28,10 +28,11 @@ summary: La Orden de San Juan es una orden católica romana con base en Roma, It
   desde Malta (1530 – 1798) sobre la cual era soberana.
 sections:
 - gallery_rows:
+  - figures: ''
   - figures:
     - thumb: img/knights_of_rhodes/foto_1_thumb.jpg
       href: img/knights_of_rhodes/foto_1.jpg
-      alt: The Grand Masters Palace, Allure Tours
+      alt: El Palacio del Gran Maestre
       caption: "<strong>Los Caballeros de Rodas:</strong> El Palacio del Gran Maestre"
     - thumb: img/knights_of_rhodes/foto_2_thumb.jpg
       href: img/knights_of_rhodes/foto_2.jpg
