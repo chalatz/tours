@@ -41,8 +41,8 @@ sections:
       caption: ''
     - thumb: img/rhodes_lindos/lindos_village_1_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_1_mod.jpg
-      alt: Rhodes Taxi Tours, Executive Tours
-      caption: ''
+      alt: pueblo de lindos en rodas
+      caption: Pueblo de Lindos en Rodas
     - thumb: img/rhodes_lindos/lindos_white_village_mod_small.jpg
       href: img/rhodes_lindos/lindos_white_village_mod.jpg
       alt: Rhodes Private Tours, Executive tours
