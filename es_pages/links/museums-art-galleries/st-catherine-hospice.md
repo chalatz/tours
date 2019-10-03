@@ -47,7 +47,7 @@ sections:
   - figures:
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_5_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_5_mod.jpg
-      alt: Rhodes City Tours, Rhodes Private Tours
+      alt: El Hospicio de Santa Caterina
       caption: ''
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_6_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_6_mod.jpg
