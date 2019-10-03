@@ -153,7 +153,7 @@ sections:
       caption: Vista de la playa principal de Lindos
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_4_small.jpg
       href: img/rhodes_lindos/view_from_lindos_acropolis_4.jpg
-      alt: Executive Tours in Rhodes Greece
-      caption: ''
+      alt: Vista de la bahía de San Pablo
+      caption: Vista de la bahía de San Pablo
 
 ---
