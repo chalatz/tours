@@ -100,7 +100,7 @@ sections:
   - figures:
     - thumb: img/monolithos_castle/monolithos_castle_mod_19_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_19.jpg
-      alt: Private tailored made tours, Rhodes Greece
+      alt: El Castillo de Monolithos las Vistas
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_20_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_20.jpg
