@@ -98,7 +98,7 @@ sections:
         el Hierothyteion de Kamiros, conocido por las escrituras."
     - thumb: img/ancient_kameiros/ancient_kameiros_11_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_11.jpg
-      alt: Specialized Shore Tours Rhodes
+      alt: 'La Plaza de la Fuente Antigua Kámiros '
       caption: "<strong>La Plaza de la Fuente:</strong> Al este del templo se encuentra
         la llamada Plaza de la Fuente, un área abierta rectangular con un gran número
         de bases votivas inscritas. La fachada consta de 6 semicolumnas dóricas revestidas
