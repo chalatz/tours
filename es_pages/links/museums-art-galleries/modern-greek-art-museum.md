@@ -80,7 +80,7 @@ sections:
   - figures:
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_3_mod_small.jpg
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_3_mod.jpg
-      alt: Rhodes Taxi Tours, Rhodes Tours, The New Gallery
+      alt: La Nueva Galería del Museo de Arte Moderna Griega
       caption: ''
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_4_mod_small.jpg
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_4_mod.jpg
