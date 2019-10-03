@@ -50,15 +50,15 @@ sections:
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_92_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_92_mod.jpg
-      alt: Rhodes Greece private tours
+      alt: 'Museo de Arte Bizantino de Rodas, Grecia '
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_10_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_10_mod.jpg
-      alt: Rhodes taxi tours
+      alt: 'Museo de Arte Bizantino de Rodas, Grecia '
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_11_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_11_mod.jpg
-      alt: Rhodes guided tours
+      alt: 'Museo de Arte Bizantino de Rodas, Grecia '
       caption: ''
 - desc: Las modificaciones realizadas al edificio comprendían la adición de un minarete
     al exterior de la esquina suroccidental así como la cal de la mampostería que
