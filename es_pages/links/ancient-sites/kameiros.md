@@ -65,7 +65,7 @@ sections:
   - figures:
     - thumb: img/ancient_kameiros/ancient_kameiros_5_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_5.jpg
-      alt: Rhodes Specialized excursion
+      alt: Antigua Kámiros Rodas
       caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_6_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_6.jpg
