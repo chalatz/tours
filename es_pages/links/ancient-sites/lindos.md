@@ -92,8 +92,8 @@ sections:
   - figures:
     - thumb: img/rhodes_lindos/lindos_acropolis_7_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_7.jpg
-      alt: Executive Day Trips Rhodes Greece
-      caption: ''
+      alt: Los pasos a la acrópolis de Lindos
+      caption: Los pasos a la acrópolis de Lindos
     - thumb: img/rhodes_lindos/lindos_acropolis_8_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_8.jpg
       alt: Executive Taxi Tours Rhodes Greece
