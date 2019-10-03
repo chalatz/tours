@@ -70,12 +70,12 @@ sections:
         Maestro Pierre D’ Aubusson (1476-1503)"
     - thumb: img/knights_of_rhodes/foto_7_thumb.jpg
       href: img/knights_of_rhodes/foto_7.jpg
-      alt: Emery D’Amboise, Rhodes Taxi Tours
+      alt: Escudo de armas del Gran Maestro Emery D’Amboise
       caption: "<strong>Los Caballeros de Rodas:</strong> Escudo de armas del Gran
         Maestro Emery D’Amboise (1503-1512)"
     - thumb: img/knights_of_rhodes/foto_8_thumb.jpg
       href: img/knights_of_rhodes/foto_8.jpg
-      alt: Fabrizio del Carretto, Rhodes Greece Allure Tours
+      alt: Escudo de armas del Gran Maestro Fabrizio del Carretto
       caption: "<strong>Los Caballeros de Rodas:</strong> Escudo de armas del Gran
         Maestro Fabrizio del Carretto (1513 - 1521)"
 - title: Los Caballeros de San Juan hoy
