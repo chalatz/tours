@@ -31,7 +31,7 @@ sections:
       mediados de abril hasta octubre.
     image:
       path: img/top_ten_reasons/top_ten_reasons_2.jpg
-      alt: 10 reasons to visit Rhodes Greece
+      alt: '10 razones para visitar la Isla de Rodas en Grecia '
   - title: '3) Seguridad y Limpieza:'
     body: |-
       La Isla de Rodas es un destino de viaje seguro. Es muy poco probable tener encuentros con el crimen en Rodas. ¡La seguridad no es un problema incluso para mujeres que viajen solas!
