@@ -34,7 +34,7 @@ sections:
   - figures:
     - thumb: img/rhodes_byzantine_sites/byzantine_st_mary_church_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_st_mary_church_mod.jpg
-      alt: The thirteenth century Byzantine Church of St Mary, Rhodes Tours
+      alt: Iglesia Bizantina de Santa María
       caption: Iglesia Bizantina de Santa María, del Siglo XIII (Panayía tou Kástrou
         o Virgen del Fuerte) que posteriormente se convirtió en la primera catedral
         de los Caballeros.
