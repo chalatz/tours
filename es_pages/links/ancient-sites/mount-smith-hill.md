@@ -30,8 +30,7 @@ sections:
       caption: Vista Panorámica desde la Colina Monte Smith
     - thumb: img/mount_smith_hill/panoramic_view_2_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_2_mod.jpg
-      alt: Acropolis of Rhodes, Rhodes affordable private tours, Affordable Tours
-        of Rhodes, Rhodes Affordable Tours, Rhodes Greece Affordable Tours.
+      alt: Vista Panorámica desde la Colina Monte Smith
       caption: Vista Panorámica desde la Colina Monte Smith
     - thumb: img/mount_smith_hill/panoramic_view_3_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_3_mod.jpg
