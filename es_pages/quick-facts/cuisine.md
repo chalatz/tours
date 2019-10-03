@@ -99,11 +99,11 @@ sections:
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_10_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_10.jpg
-      alt: Main Dishes in Rhodes Greece
+      alt: Pedir en un Restaurante
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_11_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_11.jpg
-      alt: Greek Traditional Desserts from Rhodes Island
+      alt: Pedir en un Restaurante
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_12_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_12.jpg
