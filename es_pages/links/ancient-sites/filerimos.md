@@ -57,11 +57,11 @@ sections:
       caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_6_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_6.jpg
-      alt: Rhodes Taxi Trips Greece
+      alt: La Iglesia de Nuestra Señora de Filerimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_7_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_7.jpg
-      alt: Lady of Filerimos
+      alt: La Iglesia de Nuestra Señora de Filerimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_8_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_8.jpg
