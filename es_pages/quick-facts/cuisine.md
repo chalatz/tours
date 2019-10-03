@@ -219,15 +219,15 @@ sections:
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_22_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_22.jpg
-      alt: Greek food recipes in Rhodes
+      alt: Postres Tradicionales en Rodas Grecia
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_23_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_23.jpg
-      alt: Greek Gastronomy of Rhodes
+      alt: Postres Tradicionales en Rodas Grecia
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_24_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_24.jpg
-      alt: Galaktobouriko
+      alt: Postres Tradicionales en Rodas Grecia
       caption: ''
 - desc: |-
     - **De yogur con miel y frutos secos** Yogur de cabra o leche de oveja. La miel de Rodas en Grecia es famosa por su buena calidad, aroma y sabor excepcional, es también el más alto de los antioxidantes de acuerdo con un estudio de la Universidad de Tesalónica realizado en el 2002.
