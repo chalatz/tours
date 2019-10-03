@@ -130,7 +130,7 @@ sections:
   - figures:
     - thumb: img/ancient_kameiros/ancient_kameiros_13_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_13.jpg
-      alt: Specialized Tours of Rhodes
+      alt: 'Museo del Louvre: Cerámicas encontradas en Kamiros'
       caption: ''
     - thumb: img/ancient_kameiros/ancient_kameiros_15_thumb.png
       href: img/ancient_kameiros/ancient_kameiros_15.jpg
