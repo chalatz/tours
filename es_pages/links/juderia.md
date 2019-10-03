@@ -198,7 +198,7 @@ sections:
       caption: ''
     - thumb: img/La_Juderia/la_juderia_24_thumb.jpg
       href: img/La_Juderia/la_juderia_24.jpg
-      alt: 'The Jewish Museum, Rhodes Shore Excursions  '
+      alt: Museo Judío de Rodas
       caption: ''
   title: ''
   desc: ''
