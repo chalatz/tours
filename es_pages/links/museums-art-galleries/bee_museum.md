@@ -26,7 +26,7 @@ sections:
   - figures:
     - thumb: img/bee_museum/bee_museum_1_small.jpg
       href: img/bee_museum/bee_museum_1.jpg
-      alt: Rhodes Sightseeing Tours, Bee museum
+      alt: La entrada del Museo de las Abejas, Rodas Grecia
       caption: La entrada del Museo de las Abejas
     - thumb: img/bee_museum/bee_museum_2_small.jpg
       href: img/bee_museum/bee_museum_2.jpg
