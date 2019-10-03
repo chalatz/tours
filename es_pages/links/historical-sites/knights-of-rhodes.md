@@ -47,7 +47,7 @@ sections:
         Palacio del Gran Maestre"
     - thumb: img/knights_of_rhodes/foto_4_thumb.jpg
       href: img/knights_of_rhodes/foto_4.jpg
-      alt: Pierre D'Aubusson Armories, Allure Tours
+      alt: Los Caballeros de Rodas, Armarios de Pierre D´Aubusson.
       caption: "<strong>Los Caballeros de Rodas:</strong> Armarios de Pierre D´Aubusson."
 - desc: Los años durante los cuales Rodas estuvo ocupada por la Orden de los Caballeros
     de San Juan podrían considerarse uno de los períodos de mayor prosperidad. Los
