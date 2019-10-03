@@ -84,7 +84,7 @@ sections:
       caption: ''
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_4_mod_small.jpg
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_4_mod.jpg
-      alt: Private Tours of Rhodes, Rhodes Tours, the new gallery
+      alt: Isla de Rodas, La Nueva Galería del Museo de Arte Moderna Griega
       caption: ''
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_5_mod_small.jpg
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_5_mod.jpg
