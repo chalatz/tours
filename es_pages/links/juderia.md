@@ -215,7 +215,7 @@ sections:
   - figures:
     - thumb: img/La_Juderia/la_juderia_25_thumb.jpg
       href: img/La_Juderia/la_juderia_25.jpg
-      alt: The Rhodes Jewish Historical Foundation, Customized Tours in Greece
+      alt: Aron Hasson
       caption: Aron Hasson
     - thumb: img/La_Juderia/la_juderia_26_thumb.jpg
       href: img/La_Juderia/la_juderia_26.jpg
