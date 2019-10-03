@@ -81,11 +81,11 @@ sections:
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_12_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_12.jpg
-      alt: Rhodes sightseeing tours Greece
+      alt: Elementos Estructurales, Arquitectónicos y de Fortificación
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_14_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_14.jpg
-      alt: Custom tailored tours in Rhodes Greece
+      alt: Elementos Estructurales, Arquitectónicos y de Fortificación
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_15_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_15.jpg
