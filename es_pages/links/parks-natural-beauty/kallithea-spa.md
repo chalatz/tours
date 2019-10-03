@@ -85,7 +85,7 @@ sections:
       caption: El centro de la gran rotonda con la pequeña estatua.
     - thumb: img/kallithea_spa/kallithea_beach_4_mod_small.jpg
       href: img/kallithea_spa/kallithea_beach_4_mod.jpg
-      alt: Kallithea Beach, Rhodes Allure Tours
+      alt: Fuentes de Kallithea
       caption: Algunas escenas de la película “Los Cañones de Navarone” también fueron
         filmadas ahí.
 
