@@ -28,7 +28,7 @@ sections:
   - figures:
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_1_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_1.jpg
-      alt: The Hospital of the Knights, Rhodes Tours
+      alt: El Museo Arqueologico
       caption: El Museo Arqueologico
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_2_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_2.jpg
