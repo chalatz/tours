@@ -78,7 +78,7 @@ sections:
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_8_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_8.jpg
-      alt: Greek Traditional Pastitsio
+      alt: Menús Tradicionales de Rodas
       caption: ''
 - title: Pedir en un Restaurante
   desc: |-
