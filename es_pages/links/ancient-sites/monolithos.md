@@ -33,11 +33,11 @@ sections:
       caption: El Castillo de Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_2_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_2.jpg
-      alt: The castle of Monolithos, Rhodes Private Tours Greece
+      alt: 'Castillo de Monolitos '
       caption: El Castillo de Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_3_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_3.jpg
-      alt: The castle of Monolithos, Rhodes shore excursions
+      alt: 'Castillo de Monolitos '
       caption: El Castillo de Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_4_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_4.jpg
