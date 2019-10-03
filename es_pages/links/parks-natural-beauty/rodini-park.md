@@ -37,7 +37,7 @@ sections:
         por el parque entero.
     - thumb: img/rodini_park/rodini_park_4_small.jpg
       href: img/rodini_park/rodini_park_4.jpg
-      alt: Allure Tours of Rhodes, Rodini Park
+      alt: 'Parque Rodini en Rodas Grecia '
       caption: Los ciervos, las tortugas, los galápagos, los patos, los cisnes y los
         pavos reales son los más populares.
 - gallery_rows:
