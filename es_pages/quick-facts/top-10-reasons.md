@@ -49,14 +49,14 @@ sections:
       la isla que se benefician de la fertilidad del suelo y del constante sol.
     image:
       path: img/top_ten_reasons/top_ten_reasons_4.jpg
-      alt: 10 reasons to visit the Island of Rhodes Greece
+      alt: '10 razones para visitar la Isla de Rodas en Grecia '
   - title: '5) La Fotografía:'
     body: Sea usted un aficionado o un profesional de la fotografía, la belleza natural
       de Rodas y de la Ciudad Medieval inspirarán su creatividad y expandirán sus
       habilidades técnicas. ¡Es difícil tomar una mala foto en Rodas!
     image:
       path: img/top_ten_reasons/top_ten_reasons_5.jpg
-      alt: Rhodes private tours and shore excursions, Greece
+      alt: '10 razones para visitar la Isla de Rodas en Grecia '
   - title: '6) Romance:'
     body: Viva unas vacaciones románticas, en un sitio increíble. La Isla de Rodas
       es un destino sinónimo de bodas, de lunas de miel, y del romance… Asimismo,
