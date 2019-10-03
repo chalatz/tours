@@ -36,7 +36,7 @@ sections:
       alt: Parque Acuático en Faliraki – Rodas, Grecia
     - thumb: img/water_park/water_park_4_small.jpg
       href: img/water_park/water_park_4.jpg
-      alt: Custom Tours in Rhodes , Water Park
+      alt: Parque Acuático en Faliraki – Rodas, Grecia
 - desc: También cuenta con una cafetería y una tienda de recuerdos, salas de baño
     y cabinas para cambiarse. Los visitantes pagan directamente en el sitio por comidas
     o bebidas compradas por lo que no se permite traer éstas de fuera del parque.
