@@ -34,7 +34,7 @@ sections:
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_4_mod_small.png
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_4_mod.jpg
-      alt: Rhodes private tours
+      alt: la Iglesia Bizantina de Santa María (Panayía tou Kástrou o Vírgen del Fuerte)
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_6_mod_small.png
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_6_mod.jpg
