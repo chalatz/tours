@@ -65,7 +65,7 @@ sections:
         Maestro Giovanni Battista degli Orsini (1467-1476)"
     - thumb: img/knights_of_rhodes/foto_6_thumb.jpg
       href: img/knights_of_rhodes/foto_6.jpg
-      alt: Pierre D’ Aubusson, Rhodes Private Tours
+      alt: Escudo de armas del Gran Maestro Pierre D’ Aubusson
       caption: "<strong>Los Caballeros de Rodas:</strong> Escudo de armas del Gran
         Maestro Pierre D’ Aubusson (1476-1503)"
     - thumb: img/knights_of_rhodes/foto_7_thumb.jpg
