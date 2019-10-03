@@ -65,7 +65,7 @@ sections:
       caption: El teatro de Rodas
     - thumb: img/rhodes_italian_architecture/cathedral_small.jpg
       href: img/rhodes_italian_architecture/cathedral.jpg
-      alt: Allure tours of Rhodes
+      alt: La Catedral de rodas
       caption: La Catedral de rodas
 - desc: Los métodos de restauración que utilizaron son el sujeto de una encarnizada
     crítica en la actualidad. A pesar de haber sido métodos impuestos por las circunstancias
