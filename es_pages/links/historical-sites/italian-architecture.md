@@ -61,7 +61,7 @@ sections:
       caption: Monasterio de Filérimos.
     - thumb: img/rhodes_italian_architecture/theatre_small.jpg
       href: img/rhodes_italian_architecture/theatre.jpg
-      alt: Rhodes allure tours
+      alt: El teatro de Rodas
       caption: El teatro de Rodas
     - thumb: img/rhodes_italian_architecture/cathedral_small.jpg
       href: img/rhodes_italian_architecture/cathedral.jpg
