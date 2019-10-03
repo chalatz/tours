@@ -56,7 +56,7 @@ sections:
       caption: El Museo de las Abejas
     - thumb: img/bee_museum/bee_museum_8_small.jpg
       href: img/bee_museum/bee_museum_8.jpg
-      alt: Rhodes Allure Tours, Rhodes Tours
+      alt: Rodas isla, El Museo de las Abejas
       caption: ''
 - desc: Hay cuatro tipos diferentes de panales en el museo. En algunas islas griegas,
     al igual que en Rodas, se usaban células de piedra con varios fines en el afán
