@@ -26,11 +26,11 @@ sections:
   - figures:
     - thumb: img/kallithea_spa/main_entrance_kalithea_mod_small.jpg
       href: img/kallithea_spa/main_entrance_kalithea_mod.jpg
-      alt: Kalithea Spa, Rhodes Private Tours
+      alt: Fuentes Kallithea Rodas Grecia
       caption: Entrada al Balneario de Kalithea.
     - thumb: img/kallithea_spa/main_entrance_kalithea_2_mod_small.jpg
       href: img/kallithea_spa/main_entrance_kalithea_2_mod.jpg
-      alt: Kalithea Thermals. Private Tours of Rhodes
+      alt: Fuentes Kallithea Rodas Grecia
       caption: ''
     - thumb: img/kallithea_spa/kallithea_entrance_mod_small.jpg
       href: img/kallithea_spa/kallithea_entrance_mod.jpg
