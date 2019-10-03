@@ -151,11 +151,11 @@ sections:
       caption: ''
     - thumb: img/filerimos_hill/filerimos_views_2_thumb.jpg
       href: img/filerimos_hill/filerimos_views_2.jpg
-      alt: Rhodes Private Tours Greece
+      alt: Vista del Colina de Filérimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_views_3_thumb.jpg
       href: img/filerimos_hill/filerimos_views_3.jpg
-      alt: Rhodes Shore Tours
+      alt: Vista del Colina de Filérimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_views_4_thumb.jpg
       href: img/filerimos_hill/filerimos_views_4.jpg
