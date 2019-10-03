@@ -23,7 +23,7 @@ sections:
   - figures:
     - thumb: img/rodini_park/rodini_park_1_small.jpg
       href: img/rodini_park/rodini_park_1.jpg
-      alt: Rhodes Allure Tours, Rodini Park
+      alt: 'Parque Rodini en Rodas Grecia '
       caption: Hay lagunas con lirios flotantes y pequeños puentes que forman un paisaje
         idílico.
     - thumb: img/rodini_park/rodini_park_2_small.jpg
