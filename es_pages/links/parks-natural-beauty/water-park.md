@@ -53,7 +53,7 @@ sections:
       alt: Parque Acuático en Faliraki – Rodas, Grecia
     - thumb: img/water_park/water_park_8_small.jpg
       href: img/water_park/water_park_8.jpg
-      alt: Rhodes Custom Tours, Rhodes Water Park
+      alt: Parque Acuático en Faliraki – Rodas, Grecia
 
 ---
 El Parque Acuático de Rodas ofrece un total de 20 atracciones diferentes que incluyen:
