@@ -104,7 +104,7 @@ sections:
         Maestre."
     - thumb: img/knights_of_rhodes/flag4_thumb.jpg
       href: img/knights_of_rhodes/flag4.jpg
-      alt: The Emblem, Rhodes Allure Tours
+      alt: El emblema de la Orden Soberana de Malta con armadura
       caption: "<strong>Los Caballeros de San Juan hoy:</strong> El emblema de la
         Orden Soberana de Malta con armadura"
 - desc: |-
