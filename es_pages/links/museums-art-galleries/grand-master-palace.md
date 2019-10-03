@@ -66,15 +66,10 @@ sections:
       href: img/grand_masters_palace/the_lower_acropolis_mod.jpg
       alt: El Palacio del Gran Maestre, Rodas Grecia
       caption: ''
-- desc: The arrangement of the palace around the central courtyard with the apartments
-    on the first floor and the storerooms on the ground floor show the Byzantine influences
-    at work. During the early years of their occupation, the Turks used it as a prison
-    and then left it to crumble. The palace was completely destroyed by the great
-    explosion at the church of St. John in 1856. When the Kingdom of Italy occupied
-    Rhodes in 1912, the Italians rebuilt the palace as a holiday residence for Victor
-    Emmanuel III of Italy , and later for Benito Mussolini. Its floors are decorated
-    with marvelous mosaics of the Hellenistic and Roman period which were brought
-    in from Kos Island.
+- desc: |-
+    Las influencias bizantinas son visibles en la manera que está diseñado el palacio con los apartamentos en la primera planta alrededor del patio central y las despensas en la planta baja. Durante los primeros años de la ocupación, los turcos lo utilizaron como prisión y luego lo dejaron derrumbarse. El palacio fue completamente destruido por una gran explosión en la iglesia de San Juan en 1852.
+
+    Cuando el reino de Italia ocupó Rodas en 1912, los italianos reconstruyeron el palacio como residencia vacacional para Victor Emmanuel III de Italia y luego para Benito Mussolini. Sus pisos están decorados con maravillosos mosaicos de los períodos helenístico y romano, traídos de la isla de Kos.
   gallery_rows:
   - figures:
     - thumb: img/grand_masters_palace/inside_the_grand_masters_palace_mod_small.jpg
