@@ -53,7 +53,7 @@ sections:
   - figures:
     - thumb: img/butterflies_valley/valley_of_the_butterflies_5_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_5.jpg
-      alt: Rhodes Butterflies Valley, Rhodes Shore Excursions
+      alt: El Valle de las Mariposas
       caption: El Valle de las Mariposas
     - thumb: img/butterflies_valley/valley_of_the_butterflies_6_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_6.jpg
