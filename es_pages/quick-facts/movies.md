@@ -37,7 +37,7 @@ sections:
   - title: Mikres Afrodites (1963) / Joven Afrodita (1966)
     image:
       path: img/rhodes_movies/rhodes_movies_7_mod.jpg
-      alt: Movies of Rhodes Greece , Rhodes private tours
+      alt: Mikres Afrodites (1963) / Joven Afrodita (1966)
     body: "- Historias paralelas de Eros establecido en 200 a.C."
   - title: Koritsia Gia Filima (1965)
     image:
