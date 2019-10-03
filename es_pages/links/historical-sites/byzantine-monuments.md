@@ -66,12 +66,12 @@ sections:
       caption: Iglesia Paleocristiana Bizantina del Arcangel Miguel.
     - thumb: img/rhodes_byzantine_sites/byzantine_st_spyridon_church_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_st_spyridon_church_mod.jpg
-      alt: The thirteenth century Byzantine Church of St. Spyridon, Rhodes Tours
+      alt: 'Iglesia Bizantina de San Spiridon del siglo XIII '
       caption: Iglesia Bizantina de San Spiridon del siglo XIII (convertida en mezquita
         durante la época otomana).
     - thumb: img/rhodes_byzantine_sites/byzantine_st_nicholas_church_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_st_nicholas_church_mod.jpg
-      alt: The fifteenth century Byzantine Church of St. Nicholas, Tours of Rhodes
+      alt: glesia Bizantina de San Nicolás Fundukli, del siglo XV
       caption: Iglesia Bizantina de San Nicolás Fundukli, del siglo XV al pie de la
         montaña del Profeta Elías (Profitis Ilias).
 subtitle: ''
