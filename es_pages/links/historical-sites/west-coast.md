@@ -157,11 +157,11 @@ sections:
       caption: Castillo de Kritinia
     - thumb: img/West_Coast/castle_west_coast_mod3_small.jpg
       href: img/West_Coast/castle_west_coast_mod3.jpg
-      alt: Rhodes taxi tours Greece
+      alt: La puerta del castillo de Kritinia (interior)
       caption: La puerta del castillo de Kritinia (interior)
     - thumb: img/West_Coast/castle_west_coast_mod4_small.jpg
       href: img/West_Coast/castle_west_coast_mod4.jpg
-      alt: Rhodes taxi tours Greece
+      alt: La puerta del castillo de Kritinia (interior)
       caption: La puerta del castillo de Kritinia (interior)
 - desc: Luego su viaje a Monolithos 20 km / 12 millas en coche de la costa oeste de
     la isla. En el camino, se detiene en una posición ventajosa para ver más de cerca
