@@ -37,7 +37,7 @@ sections:
       caption: ''
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_4_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_4_mod.jpg
-      alt: Rhodes Greece city tours, The Hospice
+      alt: El Hospicio de Santa Caterina, Rodas Grecia
       caption: ''
 - desc: |-
     Aparentemente, el edificio fue destruido durante el asedio de 1480 y en el sismo de 1481. En 1944 la sección oriental del Hospicio fue destruida de nuevo por el bombardeo de los Aliados, junto con otros muchos edificios en el corazón del Barrio Judío.
