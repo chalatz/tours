@@ -31,15 +31,15 @@ sections:
         el siglo XVI.
     - thumb: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_2_mod_small.jpg
       href: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_2_mod.jpg
-      alt: The sixteenth century Turkish bath Hammam in Arionos square, Tours of Rhodes
+      alt: El domo del baño turco Hammam.
       caption: El domo del baño turco Hammam.
     - thumb: img/rhodes_ottoman_sites/suleiman_mosque_ottoman_sites_mod_small.png
       href: img/rhodes_ottoman_sites/suleiman_mosque_ottoman_sites_mod.jpg
-      alt: The sixteenth century Suleiman Mosque, Rhodes Private Tours
+      alt: Mezquita de Solimán.
       caption: Mezquita de Solimán.
     - thumb: img/rhodes_ottoman_sites/entrance_of_mustafa_pasha_mosque_mod_small.jpg
       href: img/rhodes_ottoman_sites/entrance_of_mustafa_pasha_mosque_mod.jpg
-      alt: The Mustafa Pasha Mosque in Arionos square, Rhodes Tours
+      alt: Entrada de la Mezquita de Mustaffa Pasha (plaza de Ariono
       caption: Entrada de la Mezquita de Mustaffa Pasha (plaza de Arionos).
 - desc: |-
     Tras el establecimiento de su soberanía en la isla, los turcos otomanos convirtieron la mayoría de las iglesias en mezquitas y transformaron las principales viviendas en mansiones privadas o edificios públicos.
