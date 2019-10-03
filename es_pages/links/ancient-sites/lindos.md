@@ -45,8 +45,8 @@ sections:
       caption: Pueblo de Lindos en Rodas
     - thumb: img/rhodes_lindos/lindos_white_village_mod_small.jpg
       href: img/rhodes_lindos/lindos_white_village_mod.jpg
-      alt: Rhodes Private Tours, Executive tours
-      caption: ''
+      alt: Pueblo de Lindos en Rodas
+      caption: Pueblo de Lindos en Rodas
 - desc: Existen informaciones que indican que Lindos ya tenía colonias por el siglo
     VII y que monopolizaba una gran parte del tráfico marítimo del Mediterráneo. Los
     lindianos fueron los primeros en redactar un código de derecho naval, luego conocido
