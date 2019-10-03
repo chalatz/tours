@@ -51,7 +51,7 @@ sections:
         bizantinas).
     - thumb: img/rhodes_byzantine_sites/byzantine_fortifications_mod_small.jpg
       href: img/rhodes_byzantine_sites/byzantine_fortifications_mod.jpg
-      alt: The Byzantine fortifications, Rhodes Tours
+      alt: Las murallas fortificadas bizantinas de Rodas
       caption: Las murallas fortificadas bizantinas de Rodas dividían la ciudad en
         dos secciones
 - gallery_rows:
