@@ -64,7 +64,7 @@ sections:
       peligrosa” …
     image:
       path: img/top_ten_reasons/top_ten_reasons_6.jpg
-      alt: Top ten reasons to visit Rhodes Greece
+      alt: '10 razones para visitar la Isla de Rodas en Grecia '
   - title: '7) Las Playas:'
     body: La gran atracción de Rodas es su conjunto de fabulosas y limpias playas
       que rodean toda la isla. Visite Rodas y encuentre la playa perfecta para su
