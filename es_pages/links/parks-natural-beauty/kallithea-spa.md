@@ -51,7 +51,7 @@ sections:
   - figures:
     - thumb: img/kallithea_spa/kallithea_rotunda_mod_small.jpg
       href: img/kallithea_spa/kallithea_rotunda_mod.jpg
-      alt: Kallithea Rotonda, Rhodes Private Tours
+      alt: 'Pergola. Fuentes Kallithea '
       caption: En el centro de la Rotonda domina una cúpula voluminosa e impresionante
         con una intrincada decoración. Aquí están los baños de las siete fuentes cuyas
         aguas fluyen del mismo número de manantiales.
