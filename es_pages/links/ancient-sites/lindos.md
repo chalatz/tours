@@ -140,8 +140,8 @@ sections:
   - figures:
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_1_small.jpg
       href: img/rhodes_lindos/view_from_lindos_acropolis_1.jpg
-      alt: Rhodes Private Taxi Tours, Executive tours
-      caption: ''
+      alt: Vista de la bahía de San Pablo desde la cima de la Acrópolis
+      caption: Vista de la bahía de San Pablo desde la cima de la Acrópolis
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_2_small.jpg
       href: img/rhodes_lindos/view_from_lindos_acropolis_2.jpg
       alt: Rhodes Greece Executive Tours
