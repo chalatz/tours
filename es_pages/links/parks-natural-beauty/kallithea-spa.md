@@ -34,7 +34,7 @@ sections:
       caption: ''
     - thumb: img/kallithea_spa/kallithea_entrance_mod_small.jpg
       href: img/kallithea_spa/kallithea_entrance_mod.jpg
-      alt: Kalithea Spa, Rhodes Allure Tours
+      alt: 'Rodas Grecia Fuentes Kallithea '
       caption: ''
     - thumb: img/kallithea_spa/kallithea_baths_mod_small.jpg
       href: img/kallithea_spa/kallithea_baths_mod.jpg
