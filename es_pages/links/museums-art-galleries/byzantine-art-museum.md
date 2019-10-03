@@ -26,7 +26,7 @@ sections:
   - figures:
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_mod.jpg
-      alt: The Byzantine Church of St Mary, Rhodes Tours
+      alt: Museo de Arte Bizantino de Rodas, Grecia
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_3_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_3_mod.jpg
