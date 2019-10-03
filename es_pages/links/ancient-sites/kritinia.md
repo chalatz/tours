@@ -24,7 +24,7 @@ sections:
   - figures:
     - thumb: img/kritinia_castle/kritinia_castle_1_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_1_mod.jpg
-      alt: Rhodes Allure Tours
+      alt: 'La Aldea y Castillo de Kritinia '
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_2_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_2_mod.jpg
