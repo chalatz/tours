@@ -37,7 +37,7 @@ sections:
       caption: ''
     - thumb: img/rhodes_lindos/st_pauls_bay_mod_small.jpg
       href: img/rhodes_lindos/st_pauls_bay_mod.jpg
-      alt: Rhodes Executive Tours, Taxi Tours
+      alt: Bahia de San Pablo - Lindos Rodas
       caption: ''
     - thumb: img/rhodes_lindos/lindos_village_1_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_1_mod.jpg
