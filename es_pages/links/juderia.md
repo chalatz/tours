@@ -34,7 +34,7 @@ sections:
   - figures:
     - thumb: img/La_Juderia/la_juderia_1_thumb.jpg
       href: img/La_Juderia/la_juderia_1.jpg
-      alt: Al Chatef Street, Customized Tours of Rhodes
+      alt: La calle Al Chatef
       caption: La calle <strong>"Al Chatef"</strong> recibió su nombre en honor a
         una familia que vivió aquí en Rodas.
     - thumb: img/La_Juderia/la_juderia_2_thumb.jpg
