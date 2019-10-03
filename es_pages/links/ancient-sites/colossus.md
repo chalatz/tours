@@ -28,7 +28,7 @@ sections:
   - figures:
     - thumb: img/colossus_of_rhodes/colossus_1_small.jpg
       href: img/colossus_of_rhodes/colossus_1.jpg
-      alt: Rhodes Sightseeing Tours
+      alt: Coloso de Rodas
     - thumb: img/colossus_of_rhodes/colossus_2_small.jpg
       href: img/colossus_of_rhodes/colossus_2.jpg
       alt: Rhodes private sightseeing tours
