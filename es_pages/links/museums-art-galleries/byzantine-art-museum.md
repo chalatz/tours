@@ -75,11 +75,11 @@ sections:
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_14_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_14_mod.jpg
-      alt: Rhodes Custom Tours, Exhibition
+      alt: 'Museo de Arte Bizantino de Rodas, Grecia '
       caption: ''
     - thumb: img/byzantine_art_museum/byzantine_church_of_st_mary_15_mod_small.jpg
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_15_mod.jpg
-      alt: Taxi Tours of Rhodes, Mosaic floor
+      alt: 'Museo de Arte Bizantino de Rodas, Grecia '
       caption: ''
 
 ---
