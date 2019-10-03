@@ -77,7 +77,7 @@ sections:
   - figures:
     - thumb: img/monolithos_castle/monolithos_castle_mod_11_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_11.jpg
-      alt: Day tours of Rhodes Greece
+      alt: Elementos Estructurales, Arquitectónicos y de Fortificación
       caption: ''
     - thumb: img/monolithos_castle/monolithos_castle_mod_12_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_12.jpg
