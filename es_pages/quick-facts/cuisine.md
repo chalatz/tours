@@ -47,7 +47,7 @@ sections:
       caption: ''
     - thumb: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_4_thumb.jpg
       href: img/food_greece_menus_meals_cuisine/food_greece_menus_meals_cuisine_4.jpg
-      alt: Classic Moussaka
+      alt: 'Gastronomía Griega de Rodas - Comida Griega '
       caption: ''
   title: ''
   desc: ''
