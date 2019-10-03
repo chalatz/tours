@@ -88,7 +88,7 @@ sections:
       caption: ''
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_5_mod_small.jpg
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_5_mod.jpg
-      alt: Allure tours in Rhodes, Custom tours, the new gallery
+      alt: Rodas Grecia, La Nueva Galería del Museo de Arte Moderna Griega
       caption: ''
     - thumb: img/modern_greek_art_museum/painting_in_the_new_gallery_6_mod_small.jpg
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_6_mod.jpg
