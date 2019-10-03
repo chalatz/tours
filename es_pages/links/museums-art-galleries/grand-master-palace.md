@@ -30,11 +30,11 @@ sections:
       caption: El Palacio del Gran Maestre
     - thumb: img/grand_masters_palace/grand_masters_palace_2_small.jpg
       href: img/grand_masters_palace/grand_masters_palace_2.jpg
-      alt: Tours of Rhodes, The Acropolis of the Knights
+      alt: El Palacio del Gran Maestre, Rodas Grecia
       caption: El Palacio del Gran Maestre
     - thumb: img/grand_masters_palace/grand_masters_palace_3_small.jpg
       href: img/grand_masters_palace/grand_masters_palace_3.jpg
-      alt: Rhodes Tours, The Grand Master Palace
+      alt: El Palacio del Gran Maestre, Rodas Grecia
       caption: El Palacio del Gran Maestre
     - thumb: img/grand_masters_palace/grand_masters_palace_4_small.jpg
       href: img/grand_masters_palace/grand_masters_palace_4.jpg
