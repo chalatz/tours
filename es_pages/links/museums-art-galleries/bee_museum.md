@@ -34,7 +34,7 @@ sections:
       caption: El Museo de las Abejas
     - thumb: img/bee_museum/bee_museum_3_small.jpg
       href: img/bee_museum/bee_museum_3.jpg
-      alt: Rhodes Private Sightseeing Tours, Bee museum
+      alt: Isla de Rodas, El Museo de las Abejas
       caption: El Museo de las Abejas
     - thumb: img/bee_museum/bee_museum_4_small.jpg
       href: img/bee_museum/bee_museum_4.jpg
