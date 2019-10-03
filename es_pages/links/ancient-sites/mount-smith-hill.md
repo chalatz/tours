@@ -34,11 +34,11 @@ sections:
       caption: Vista Panorámica desde la Colina Monte Smith
     - thumb: img/mount_smith_hill/panoramic_view_3_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_3_mod.jpg
-      alt: Rhodes affordable tours
+      alt: Vista Panorámica desde la Colina Monte Smith
       caption: Vista Panorámica desde la Colina Monte Smith
     - thumb: img/mount_smith_hill/panoramic_view_4_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_4_mod.jpg
-      alt: Affordable tours of Rhodes Greece
+      alt: Vista Panorámica desde la Colina Monte Smith
       caption: Vista Panorámica desde la Colina Monte Smith
 - desc: Justo al sur de la cima de la colina se encuentra un importante grupo de monumentos
     antiguos. En una hondonada natural se halla el Estadio, obra que muy probablemente
