@@ -83,11 +83,11 @@ sections:
       caption: ''
     - thumb: img/filerimos_hill/filerimos_monastery_2_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_2.jpg
-      alt: Monk's rooms in Monastery of Filerimos
+      alt: Monasterio de Filerimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_monastery_3_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_3.jpg
-      alt: Monk's rooms in Monastery of Filerimos with the icon of Virgin Mary
+      alt: Monasterio de Filerimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_monastery_4_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_4.jpg
