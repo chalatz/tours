@@ -28,15 +28,15 @@ sections:
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_2_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_2_mod.jpg
-      alt: Allure Tours Rhodes Greece
+      alt: 'La Aldea y Castillo de Kritinia '
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_3_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_3_mod.jpg
-      alt: Allure Tours in Rhodes
+      alt: 'La Aldea y Castillo de Kritinia '
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_4_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_4_mod.jpg
-      alt: Rhodes Allure Tours
+      alt: 'La Aldea y Castillo de Kritinia '
       caption: ''
 - title: El Castillo de Kritinia
   desc: |-
