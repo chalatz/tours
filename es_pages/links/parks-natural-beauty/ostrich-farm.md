@@ -26,8 +26,8 @@ sections:
   - figures:
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_1_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_1.jpg
-      alt: Ostrich Farm, Rhodes Private Tours
-      caption: Over 120 ostriches live within a purely natural environment.
+      alt: 'La Granja de los Avestruces '
+      caption: Más de 120 avestruces viven en un entorno natural.
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_2_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_2.jpg
       alt: Ostrich Farm, Rhodes Allure Tours
