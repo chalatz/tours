@@ -60,7 +60,7 @@ sections:
   - figures:
     - thumb: img/modern_greek_art_museum/the_new_gallery_mod_small.jpg
       href: img/modern_greek_art_museum/the_new_gallery_mod.jpg
-      alt: Rhodes Tours, Allure Tours of Rhodes, The New Gallery
+      alt: La Nueva Galería del Museo de Arte Moderna Griega
       caption: ''
     - thumb: img/modern_greek_art_museum/hundred_palms_square_mod_small.jpg
       href: img/modern_greek_art_museum/hundred_palms_square_mod.jpg
