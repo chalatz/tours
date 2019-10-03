@@ -62,7 +62,7 @@ sections:
         Telly Savalas y Roger Moore, “Escape to Athena” (“Escape a Atenas”).
     - thumb: img/kallithea_spa/path_to_the_rotonda_mod_small.jpg
       href: img/kallithea_spa/path_to_the_rotonda_mod.jpg
-      alt: Natural Therapeutic Springs, Rhodes Allure Tours
+      alt: Pequeño sendero que lleva a la gran Rotonda.
       caption: Pequeño sendero que lleva a la gran Rotonda.
     - thumb: img/kallithea_spa/path_to_the_rotonda_2_mod_small.jpg
       href: img/kallithea_spa/path_to_the_rotonda_2_mod.jpg
