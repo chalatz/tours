@@ -60,7 +60,7 @@ sections:
   - figures:
     - thumb: img/knights_of_rhodes/foto_5_thumb.jpg
       href: img/knights_of_rhodes/foto_5.jpg
-      alt: Giovanni Battista degli Orsini, Rhodes Tours
+      alt: Escudo de armas del Gran Maestro Giovanni Battista degli Orsini
       caption: "<strong>Los Caballeros de Rodas:</strong> Escudo de armas del Gran
         Maestro Giovanni Battista degli Orsini (1467-1476)"
     - thumb: img/knights_of_rhodes/foto_6_thumb.jpg
