@@ -35,7 +35,7 @@ sections:
   - figures:
     - thumb: img/filerimos_hill/filerimos_hill_1_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_1.jpg
-      alt: Filerimos Hill Rhodes Greece,Private Tours
+      alt: La Iglesia de Nuestra Señora de Filerimos
       caption: ''
     - thumb: img/filerimos_hill/filerimos_hill_2_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_2.jpg
@@ -68,8 +68,13 @@ sections:
       alt: Lady of Filerimos
       caption: ''
 - title: Monasterio de Filerimos
-  desc: |-
-    El monasterio fue destruido durante la ocupación turca. Los italianos lo reconstruyeron durante su ocupación y lo mantuvieron abierto con monjes de la Orden Capuchina. Detrás de la iglesia se encuentran las celdas de los monjes, cuyas paredes están decoradas con representaciones de santos en mosaicos. Durante la guerra los monjes regresaron a Italia y desde entonces el monasterio ha permanecido cerrado. La iglesia principal del monasterio era más como una pequeña capilla dedicada a la Virgen María y muchas jóvenes parejas celebraron bodas románticas allí.
+  desc: El monasterio fue destruido durante la ocupación turca. Los italianos lo reconstruyeron
+    durante su ocupación y lo mantuvieron abierto con monjes de la Orden Capuchina.
+    Detrás de la iglesia se encuentran las celdas de los monjes, cuyas paredes están
+    decoradas con representaciones de santos en mosaicos. Durante la guerra los monjes
+    regresaron a Italia y desde entonces el monasterio ha permanecido cerrado. La
+    iglesia principal del monasterio era más como una pequeña capilla dedicada a la
+    Virgen María y muchas jóvenes parejas celebraron bodas románticas allí.
   gallery_rows:
   - figures:
     - thumb: img/filerimos_hill/filerimos_monastery_1_thumb.jpg
@@ -89,8 +94,14 @@ sections:
       alt: Monk's rooms in Monastery of Filerimos
       caption: ''
 - title: Vía Dolorosa – Vía Crucis
-  desc: |-
-    Existe un sendero que se desprende de la plaza y que lleva al punto más occidental de la colina. El Camino al Gólgota (Vía Dolorosa o Vía Crucis) usado por los Católicos está ornamentado con bases con imágenes de bronce con representaciones de la Pasión de Cristo. Aquí, una imponente Cruz de hierro se erguía en el medio. (Hoy es una Cruz de concreto). La Vía Dolorosa es el camino emprendido por Jesús, que comienza en el lugar donde Pilato lo sentenció a muerte y que finaliza en el Monte Gólgota (Calvario) y que es conocido también como Vía Crucis. Jesús camina esta distancia cargando la cruz sobre la cual será crucificado. 
+  desc: 'Existe un sendero que se desprende de la plaza y que lleva al punto más occidental
+    de la colina. El Camino al Gólgota (Vía Dolorosa o Vía Crucis) usado por los Católicos
+    está ornamentado con bases con imágenes de bronce con representaciones de la Pasión
+    de Cristo. Aquí, una imponente Cruz de hierro se erguía en el medio. (Hoy es una
+    Cruz de concreto). La Vía Dolorosa es el camino emprendido por Jesús, que comienza
+    en el lugar donde Pilato lo sentenció a muerte y que finaliza en el Monte Gólgota
+    (Calvario) y que es conocido también como Vía Crucis. Jesús camina esta distancia
+    cargando la cruz sobre la cual será crucificado. '
   gallery_rows:
   - figures:
     - thumb: img/filerimos_hill/filerimos_way_of_the_cross_1_thumb.jpg
@@ -110,8 +121,9 @@ sections:
       alt: The Way of the Cross
       caption: ''
 - title: La Cruz
-  desc: |-
-    La imponente cruz de concreto de 16 metros / 48 pies se yerguen en el medio de la pequeña plaza. Incluso se puede subir por la cruz y apreciar la vista desde los brazos.
+  desc: La imponente cruz de concreto de 16 metros / 48 pies se yerguen en el medio
+    de la pequeña plaza. Incluso se puede subir por la cruz y apreciar la vista desde
+    los brazos.
   gallery_rows:
   - figures:
     - thumb: img/filerimos_hill/filerimos_cross_1_thumb.jpg
