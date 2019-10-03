@@ -47,7 +47,7 @@ sections:
   - figures:
     - thumb: img/kritinia_castle/kritinia_castle_5_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_5_mod.jpg
-      alt: Rhodes Private Day Tours
+      alt: El Castillo de Kritinia
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_6_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_6_mod.jpg
