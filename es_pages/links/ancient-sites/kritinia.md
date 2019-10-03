@@ -98,11 +98,11 @@ sections:
   - figures:
     - thumb: img/kritinia_castle/kritinia_castle_13_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_13_mod.jpg
-      alt: Private day tours of Rhodes
+      alt: El Castillo de Kritinia las Vistas
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_14_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_14_mod.jpg
-      alt: Taxi tours of Rhodes Greece
+      alt: El Castillo de Kritinia las Vistas
       caption: ''
     - thumb: img/kritinia_castle/kritinia_castle_15_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_15_mod.jpg
