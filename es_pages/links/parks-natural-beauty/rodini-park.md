@@ -57,7 +57,7 @@ sections:
       caption: El Parque Rodini, patos
     - thumb: img/rodini_park/rodini_park_8_small.jpg
       href: img/rodini_park/rodini_park_8.jpg
-      alt: Allure Tours of Rhodes, Rodini Park
+      alt: El Parque Rodini Rodas Grecia
       caption: El Parque Rodini, un túnel en la roca
 
 ---
