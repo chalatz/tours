@@ -80,7 +80,7 @@ sections:
       caption: ''
     - thumb: img/bee_museum/bee_museum_12_small.jpg
       href: img/bee_museum/bee_museum_12.jpg
-      alt: Rhodes Taxi Tours
+      alt: El Museo de las Abejas
       caption: ''
 
 ---
