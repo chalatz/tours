@@ -72,11 +72,11 @@ sections:
   - figures:
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_9_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_9.jpg
-      alt: Rhodes Archaeological Museum, Rhodes Private Tours
+      alt: 'Museo Arqueológico de Rodas Grecia '
       caption: ''
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_10_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_10.jpg
-      alt: Archaeological Museum of Rhodes, Rhodes Day Tours
+      alt: 'Museo Arqueológico de Rodas Grecia '
       caption: ''
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_11_small.jpg
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_11.jpg
