@@ -99,11 +99,11 @@ sections:
       caption: ''
     - thumb: img/grand_masters_palace/inside_the_grand_masters_palace_4_mod_small.jpg
       href: img/grand_masters_palace/inside_the_grand_masters_palace_4_mod.jpg
-      alt: Rhodes Tours, the interior of the Palace
+      alt: el Palacio del Gran Maestre. Rodas Grecia
       caption: ''
     - thumb: img/grand_masters_palace/inner_courtyard_of_the_palace_mod_small.jpg
       href: img/grand_masters_palace/inner_courtyard_of_the_palace_mod.jpg
-      alt: Rhodes Taxi Tours, Statues in the Grand Master Palace
+      alt: Las estatuas que se encuentran en el patio interior del palacio
       caption: Las estatuas que se encuentran en el patio interior del palacio
     - thumb: img/grand_masters_palace/statues_in_the_inner_courtyard_mod_small.jpg
       href: img/grand_masters_palace/statues_in_the_inner_courtyard_mod.jpg
