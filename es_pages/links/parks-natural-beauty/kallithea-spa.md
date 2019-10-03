@@ -57,7 +57,7 @@ sections:
         aguas fluyen del mismo número de manantiales.
     - thumb: img/kallithea_spa/kallithea_beach_mod_small.jpg
       href: img/kallithea_spa/kallithea_beach_mod.jpg
-      alt: The big Rotonda, Kallithea, Rhodes Tours
+      alt: 'Pergola. Fuentes Kallithea '
       caption: En este escenario naturalmente ajardinado se filmó la película con
         Telly Savalas y Roger Moore, “Escape to Athena” (“Escape a Atenas”).
     - thumb: img/kallithea_spa/path_to_the_rotonda_mod_small.jpg
