@@ -120,7 +120,7 @@ sections:
       Tragedy of Twelve Islands 1928'
     image:
       path: img/rhodes_books/rhodes_books_2_mod.jpg
-      alt: Books of Rhodes, Private Tours
+      alt: Libros sobre la isla de Rodas Grecia
     body: "- Los escritores, describir la situación histórica y política en la isla
       de Rodas (y el grupo del Dodecaneso) en 1928.\n- **Editor: Arrowsmith**    "
   - title: Lawrence Durrell Reflections on a Marine Venus<br>A Companion to the Landscape
