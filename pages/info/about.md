@@ -76,7 +76,7 @@ gallery:
       Guns of Navarone” filmed in Rhodes, (for their magazine After the Battle Issue
       177)
   - image:
-      thumb: "/img/ΤΗΕ ΒΟΟΚ-1.JPG"
+      thumb: "/img/ΤΗΕ ΒΟΟΚ-2.JPG"
       href: "./img/pages/about/3.jpg"
       alt: 'Nicholas with the Writer Celina Prag and the Photographer Ana Santl, while
         shooting and writing about Rhodes Island  '
