@@ -4794,14 +4794,14 @@ reviews:
     AGAIN <br>\nJo-Ann GIOMARIA@aol.com\n\nDear Nick, We had a chance to tour the
     Island with you on both East and West Coasts, and have great time.<br>\nComing
     back I looked at your web site. I hope your business approach works well.<br>\nWith
-    the best wishes to you and your cosmopolitan family, Yuri<br>\nDr. Yuri Rosenberg<br>\nTEL-AVIV
-    UNIVERSITY<br>\nISRAEL yurir@post.tau.ac.il\n\nMy wife, Nancy, and I spent a couple
-    of hours with Nicholas last September.We had a wonderful time, got lots of information
-    on Rhodes. He knows the Island of Rhodes as well as how life in Rhodes is today.<br>\nNicholas
-    speaks 5 or 6 languages and is very easy to listen to. He was in no rush, but
-    ready to move on when we were. I think he made our stop there wonderful instead
-    of just nice. I would not hesitate to recommend him as a private tour.<br>\nGraham
-    & Nancy<br>\ncsdiwhitt@musfiber.com       "
+    the best wishes to you and your cosmopolitan family, Yuri<br>\nDr. Yuri Rosenberg\n\n\nMy
+    wife, Nancy, and I spent a couple of hours with Nicholas last September.We had
+    a wonderful time, got lots of information on Rhodes. He knows the Island of Rhodes
+    as well as how life in Rhodes is today.<br>\nNicholas speaks 5 or 6 languages
+    and is very easy to listen to. He was in no rush, but ready to move on when we
+    were. I think he made our stop there wonderful instead of just nice. I would not
+    hesitate to recommend him as a private tour.<br>\nGraham & Nancy<br>\ncsdiwhitt@musfiber.com
+    \      "
 - year: "1998"
   text: |-
     Hi Nick.   Just thought you would like to know that I have included your name and email on the Net so that everyone can have the wonderful experience we had with you. Here is a portion of my "review" of our cruise that I just uploaded:  Rhodes...TIPS: Yes, you can take a tour of Lindos, which is a small town with two beautiful harbors .....We took this "tour" with a wonderful driver named Nicholas. He was funny, knew everything about the island and showed us the sights in an air-conditioned Mercedes.<br>
