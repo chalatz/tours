@@ -89,8 +89,8 @@ gallery:
       alt: Nicholas with India Pearson the Production Manager of Holiday Extras Travel
         Guides, while filming in Rhodes
       is_link: false
-    caption: Nicholas with India Pearson, the Production Manager of Holiday Extras
-      Travel Guides, while filming in Rhodes
+    caption: Nicholas with India Pearson, the Production Manager of "Holiday Extras
+      Travel Guides", while filming in Rhodes
 
 ---
 We started offering high-quality private tours of Rhodes in 1984 and have been online since 1998. **We are pioneers in the field, being the first to offer such services on the island.** Every year, we refine and expand our services. Our associate professional tour/drivers and licensed tour guides are natives of Rhodes and they always try to find new ways to share their love of this island with you.
