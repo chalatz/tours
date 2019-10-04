@@ -76,10 +76,10 @@ gallery:
       Guns of Navarone” filmed in Rhodes, (for their magazine After the Battle Issue
       177)
   - image:
-      thumb: "./img/pages/about/3-thumb.jpg"
+      thumb: "/img/ΤΗΕ ΒΟΟΚ.JPG"
       href: "./img/pages/about/3.jpg"
-      alt: Nicholas with Aron Hasson, the man who spearheaded the movement to preserve
-        a vital part of history of Rhodes.
+      alt: 'Nicholas with the Writer Celina Prag and the Photographer Ana Santl, while
+        shooting and writing about Rhodes Island  '
       is_link: false
     caption: 'Nicholas with the Writer Celina Prag and the Photographer Ana Santl,
       while shooting and writing about Rhodes Island  '
