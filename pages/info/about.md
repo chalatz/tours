@@ -55,8 +55,8 @@ gallery:
       alt: Nicholas with Rick Steves in Rhodes island while planning, writing and
         filming for the TV show Rick Steves Europe
       is_link: false
-    caption: Nicholas with <strong>Rick Steves</strong> in Rhodes island while planning,
-      writing and filming for the TV show <strong>Rick Steves Europe</strong>
+    caption: Nicholas with Rick Steves in Rhodes island while planning, writing and
+      filming for the TV show Rick Steves Europe
   - image:
       thumb: "./img/pages/about/2-thumb.jpg"
       href: "./img/pages/about/2.jpg"
