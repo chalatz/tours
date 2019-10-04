@@ -136,7 +136,7 @@ sections:
   - title: 'This Way to Paradise : Dancing on the Tables: Willard Manus'
     image:
       path: img/rhodes_books/rhodes_books_4_mod.jpg
-      alt: Books about Rhodes, Private Tours
+      alt: Libros sobre la isla de Rodas Grecia
     body: "- Una memoria (en 1960), relativo a los 35 años él y su esposa Mavis han
       pasado en el pueblo de Lindos. Escrito en un estilo cálido y exuberante, el
       libro pinta un vívido cuadro de la vida en el pueblo: el aprendizaje del idioma,
@@ -147,7 +147,7 @@ sections:
   - title: 'Elias Kollias: The Knights of Rhodes. The Palace and the City.'
     image:
       path: img/rhodes_books/rhodes_books_5_mod.jpg
-      alt: Books about Rhodes Island Greece, Private Tours
+      alt: Libros sobre la isla de Rodas Grecia
     body: "- Después de una introducción histórica a los Caballeros, la mayor parte
       del libro ofrece una guía ilustrada de los sitios asociados con ellos en Rodas.
       Color ilustraciones o fotografías de Rodas de hoy, la arquitectura, el arte,
