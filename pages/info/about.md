@@ -66,14 +66,6 @@ gallery:
     caption: Nicholas and Michael helped Matt Barrett (the Greece Travel Expert) to
       explore Rhodes island for his Greece Travel Guide
   - image:
-      thumb: "./img/pages/about/3-thumb.jpg"
-      href: "./img/pages/about/3.jpg"
-      alt: Nicholas with Aron Hasson, the man who spearheaded the movement to preserve
-        a vital part of history of Rhodes.
-      is_link: false
-    caption: Nicholas with <strong>Aron Hasson</strong>, the man who spearheaded the
-      movement to preserve a vital part of history of Rhodes.
-  - image:
       thumb: "./img/pages/about/4-thumb.jpg"
       href: "./img/pages/about/4.jpg"
       alt: Nicholas helped Winston and Gail Ramsay to find the locations where the
@@ -83,6 +75,14 @@ gallery:
     caption: Nicholas helped Winston and Gail Ramsay to find the locations where the
       Guns of Navarone” filmed in Rhodes, (for their magazine After the Battle Issue
       177)
+  - image:
+      thumb: "./img/pages/about/3-thumb.jpg"
+      href: "./img/pages/about/3.jpg"
+      alt: Nicholas with Aron Hasson, the man who spearheaded the movement to preserve
+        a vital part of history of Rhodes.
+      is_link: false
+    caption: 'Nicholas with the Writer Celina Prag and the Photographer Ana Santl,
+      while shooting and writing about Rhodes Island  '
   - image:
       thumb: "./img/pages/about/5-thumb.jpg"
       href: "./img/pages/about/5.jpg"
