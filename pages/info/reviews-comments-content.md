@@ -33,7 +33,7 @@ reviews:
     thank you once again for the perfect day we spent in Rhodes. Michael was absolutely
     perfect and the memories that he gave us will last forever.  I have posted an
     amazing review of your company and Michael on tripadvisor. I will tell everyone
-    I know how great our experience with you was. <br>\nThanks again Jeff (Sept 28th)
+    I know how great our experience with you was.   Thanks again Jeff (Sept 28th)
     mcmurdojeff@gmail.com>\n\nNicholas. It was a TERRIFIC day!  Perfect in every way!!
     Everyone loved the day and had a great time.  I cannot thank you enough for the
     service, your professionalism and client communication! <br>\nWishing you all
