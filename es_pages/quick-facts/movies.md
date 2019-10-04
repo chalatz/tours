@@ -112,7 +112,7 @@ sections:
   - title: 'Rhodes in Modern Times: Cecil Torr in 1887'
     image:
       path: img/rhodes_books/rhodes_books_1_mod.jpg
-      alt: Books about Rhodes Island Greece, Private Tours
+      alt: "“Rhodes en Tiempos Modernos”"
     body: |-
       - Cecil Torr libro sobre Rodas: "Rhodes en Tiempos Modernos", fue publicado por primera vez en 1887. En el libro Torr se da cuenta de la historia de Rodas bizantinos y los tiempos de los Caballeros de San Juan, incluyendo los hechos del Gran Asedio, que culminó en la expulsión de los caballeros de la isla en 1522.
       - **Editor: <http://www.archaeopress.com>**
