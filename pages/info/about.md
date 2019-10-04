@@ -73,8 +73,8 @@ gallery:
         www.afterthebattle.com  Issue 177)
       is_link: false
     caption: Nicholas helped Winston and Gail Ramsay to find the locations where the
-      "Guns of Navarone” filmed in Rhodes, (for their magazine After the Battle Issue
-      177)
+      "Guns of Navarone” filmed in Rhodes, for their magazine "After the Battle" Issue
+      177
   - image:
       thumb: "/img/pages/about/Nicholas_Rhodes-Celina_Prag-Ana Santl-thumb.jpg"
       href: "./img/pages/about/Nicholas_Rhodes-Celina_Prag-Ana Santl.jpg"
