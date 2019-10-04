@@ -63,8 +63,8 @@ gallery:
       alt: Nicholas and Michael helped Matt Barrett (the Greece Travel Expert) to
         explore Rhodes island for his Greece Travel Guide
       is_link: false
-    caption: Nicholas and Michael helped <strong>Matt Barrett</strong> (the Greece
-      Travel Expert) to explore Rhodes island for his <strong>Greece Travel Guide</strong>
+    caption: Nicholas and Michael helped Matt Barrett (the Greece Travel Expert) to
+      explore Rhodes island for his Greece Travel Guide
   - image:
       thumb: "./img/pages/about/3-thumb.jpg"
       href: "./img/pages/about/3.jpg"
