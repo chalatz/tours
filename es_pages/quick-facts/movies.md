@@ -88,7 +88,7 @@ sections:
   - title: El Greco (2007)
     image:
       path: img/rhodes_movies/rhodes_movies_6_mod.jpg
-      alt: Movies of Rhodes Greece , Rhodes private tours
+      alt: El Greco (2007)
     body: |-
       - Una dramatización de la vida del siglo 16 pintor griego, Dominicos Theotokopoulos, quien, en busca de libertad y de amor, sale de Creta y se va a Venecia y finalmente Toledo... Filmada en la Ciudad Medieval.
       - **Intérpretes. Nick Ashdon, Juan Diego Botto, Laia Marull, Lakis Lazopoulos.**
