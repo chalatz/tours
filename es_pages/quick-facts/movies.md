@@ -72,7 +72,7 @@ sections:
   - title: Pascali's Island (1988)
     image:
       path: img/rhodes_movies/rhodes_movies_4_mod.jpg
-      alt: Movies filmed in Rhodes Greece, Rhodes private tours
+      alt: Pascali's Island (1988)
     body: |-
       - Un thriller ambientado en una isla griega bajo la ocupación turca durante la caída del Imperio Otomano. Filmada en la Ciudad Vieja y en varias playas.
       - **Intérpretes. Ben Kingsley, Charles Dance, Kevork Malikyan.**
