@@ -28,9 +28,9 @@ reviews:
     open as they are too busy.  We then had a great lunch, again a place that was
     recommended by Kiriakos. <br>\nSo all in all, 10 out of 10.  Thank you for all
     of your assistance and I know that if any of my friends are going to Rhodes, I
-    will definitely recommend you and your team. <br>\nThank you for a great day.
-    \ kind regards  Lindsay (Oct 4th) LB43 lb43@orange.fr\n\nHi Nicholas, I just want
-    to thank you once again for the perfect day we spent in Rhodes. Michael was absolutely
+    will definitely recommend you and your team.  Thank you for a great day.  kind
+    regards  Lindsay (Oct 4th) LB43 lb43@orange.fr\n\nHi Nicholas, I just want to
+    thank you once again for the perfect day we spent in Rhodes. Michael was absolutely
     perfect and the memories that he gave us will last forever.  I have posted an
     amazing review of your company and Michael on tripadvisor. I will tell everyone
     I know how great our experience with you was. <br>\nThanks again Jeff (Sept 28th)
