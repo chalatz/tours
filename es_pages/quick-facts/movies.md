@@ -80,7 +80,7 @@ sections:
   - title: O Jerusalem (2006)
     image:
       path: img/rhodes_movies/rhodes_movies_5_mod.jpg
-      alt: Movies filmed in Rhodes Greece, Rhodes private tours
+      alt: O Jerusalem (2006)
     body: |-
       - Una historia de amistad entre dos hombres, uno judío y otro árabe, como el estado de Israel está creando... Filmada en la Ciudad Medieval.
       - **Intérpretes. JJ Feild, Said Taghmaooui, Maria Papas.**
