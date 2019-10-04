@@ -156,7 +156,7 @@ sections:
   - title: 'Rhodes a Story: 1306-1522 by Vangelis Pavlidis 1999'
     image:
       path: img/rhodes_books/rhodes_books_6_mod.jpg
-      alt: Books of Rhodes, Private Tours
+      alt: Libros sobre la isla de Rodas Grecia
     body: |-
       - Esta es una historia real acerca de los caballeros, griegos, turcos, piratas, dragones y otras criaturas extrañas y peligrosas. escrito e ilustrado en una especie de forma de cómic.
       - Dijo e ilustrado por Vangelis Pavlidis.
