@@ -65,7 +65,7 @@ sections:
   - title: High Season (1987)
     image:
       path: img/rhodes_movies/rhodes_movies_10_mod.jpg
-      alt: Movies Rhodes, Rhodes private tours
+      alt: High Season (1987)
     body: |-
       - En la isla de Rodas, Katherine, un expatriado fotógrafo Inglés, vive con su hija. Un local de jóvenes quiere fomentar el turismo...
       - **Intérpretes: Kenneth Branagh, Jaqueline Bisset, James Fox and Irene Pappas. Filmada en Lindos.**
