@@ -56,7 +56,7 @@ gallery:
         filming for the TV show Rick Steves Europe
       is_link: false
     caption: Nicholas with Rick Steves in Rhodes island while planning, writing and
-      filming for the TV show Rick Steves Europe
+      filming for the TV show "Rick Steves Europe"
   - image:
       thumb: "./img/pages/about/2-thumb.jpg"
       href: "./img/pages/about/2.jpg"
