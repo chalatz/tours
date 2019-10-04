@@ -37,14 +37,18 @@ reviews:
     mcmurdojeff@gmail.com>\n\nNicholas. It was a TERRIFIC day!  Perfect in every way!!
     Everyone loved the day and had a great time.  I cannot thank you enough for the
     service, your professionalism and client communication! <br>\nWishing you all
-    the best always.\nJane (Sept 25th)  kurlyjane@aol.com \n\nNicholas! I must tell
-    you that our time was fabulous and everyone enjoyed it.  Michael did a great job
-    of driving us, describing everything, answering all of our questions and even
-    taking some group pictures of us together. It was a pleasure to meet him. Please
-    convey our best wishes to him for a job well done. If we ever return or know of
-    any friends or family visiting Rhodes, please know you will get the highest of
-    recommendations!  Thank you again for your help in arranging the tour, making
-    it easy for us and helping us have a most memorable time in Rhodes. <br>\nRegards,
+    the best always.\nJane (Sept 25th)  kurlyjane@aol.com \n\nHi Nicholas, Once again
+    \"Nicholas Rhodes Private Tours\" did not disappoint.  We had a wonderful day
+    in beautiful Rhodes.  Dora was so much fun! Her knowledge on the history of Rhodes
+    is incredible. We couldn’t ask for a better driver than Jacob.  <br> Thanks to
+    you, Dora and Jacob our day in Rhodes was really special.  Sincerely, Susan suemendes423@gmail.com\n\nNicholas!
+    I must tell you that our time was fabulous and everyone enjoyed it.  Michael did
+    a great job of driving us, describing everything, answering all of our questions
+    and even taking some group pictures of us together. It was a pleasure to meet
+    him. Please convey our best wishes to him for a job well done. If we ever return
+    or know of any friends or family visiting Rhodes, please know you will get the
+    highest of recommendations!  Thank you again for your help in arranging the tour,
+    making it easy for us and helping us have a most memorable time in Rhodes. <br>\nRegards,
     \ Mark and Jamie, Miles and Lisa (Sept 23rd)  mstick85@yahoo.com\n\nThanks Nicholas.
     Dominic was a wonderful driver.  I hope to recommend your company and hire your
     services again in the future. <br>\nThank you very much Hiedi (Sept 23rd)  hiediweiss@gmail.com\n\nDear
