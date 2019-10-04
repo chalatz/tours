@@ -127,7 +127,7 @@ sections:
       of Rhodes 1953
     image:
       path: img/rhodes_books/rhodes_books_3_mod.jpg
-      alt: Books about Rhodes, Private Tours
+      alt: Libros sobre la isla de Rodas Grecia
     body: "- “Reflexiones sobre una Venus marina”, es el segundo de Lawrence Durrell
       libro de viajes. Al igual que el trabajo anterior, que se dedica a una isla
       griega, en este caso Rodas, y conmemora un período clave en la vida de su autor.
