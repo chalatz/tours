@@ -110,7 +110,7 @@ gallery:
     position: first
   - thumb: "./img/Tour4/jewish_sites_tours_7_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_7.jpg"
-    alt: Grecia, Rhodas Isla
+    alt: 'Rodas Tour Judío '
     position: following
   - thumb: "./img/Tour4/jewish_sites_tours_8_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_8.jpg"
