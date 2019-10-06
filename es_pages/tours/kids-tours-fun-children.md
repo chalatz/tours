@@ -132,7 +132,7 @@ gallery:
     position: following
   - thumb: "./img/Tour6/foto4_thumb.jpg"
     href: "./img/Tour6/foto4.jpg"
-    alt: Rhodes Greece Kids Tours
+    alt: Rodas Allure Tours
     position: following
   - thumb: "./img/Tour6/foto5_thumb.jpg"
     href: "./img/Tour6/foto5.jpg"
