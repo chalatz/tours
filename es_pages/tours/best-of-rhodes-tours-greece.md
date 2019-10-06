@@ -120,12 +120,12 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_9_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_9.jpg"
-    alt: Best tours of Rhodes Greece
+    alt: Grecia, Tours Privados
     position: following
   group_3:
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_10_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_10.jpg"
-    alt: Best private tours of Rhodes Island
+    alt: Lo Mejor de Rodas, Grecia
     position: first
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_12_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_12.jpg"
