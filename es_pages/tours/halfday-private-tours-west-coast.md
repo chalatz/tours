@@ -133,7 +133,7 @@ gallery:
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_14_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_14.jpg"
-    alt: Private tour guide of Rhodes
+    alt: Servicios Privados Del Taxi de Rodas
     position: following
 faq:
   items:
