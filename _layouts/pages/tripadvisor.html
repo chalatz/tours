@@ -23,7 +23,15 @@ layout: plain-page
 
   <div class="section centered">
     {%- for banner in page.banners -%}
-      <img class="tripadvisor__banner-img" src="{{- banner.path -}}" alt="{{- banner.alt_text -}}" style="vertical-align: middle;{% if banner.width %} width: {{ banner.width }};{% endif %}">
+      {%- assign caption_size = banner.caption | size -%}
+      <div class="tripadvisor__banner-img">
+        <img src="{{- banner.path -}}" alt="{{- banner.alt_text -}}" style="vertical-align: middle;{% if banner.width %} width: {{ banner.width }};{% endif %}">
+        {%- if caption_size > 0 -%}
+          <p>
+            <strong>{{ banner.caption }}</strong>
+          </p>
+        {%- endif -%}
+      </div>
     {%- endfor -%}
   </div>
 

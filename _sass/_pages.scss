@@ -105,6 +105,8 @@
 .tripadvisor {
 
     &__banner-img {
+        display: inline-block;
+        text-align: center;
         margin-right: .5rem;
         @include breakpoint(smaller) {
             margin-right: 2rem;

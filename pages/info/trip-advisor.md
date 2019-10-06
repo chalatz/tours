@@ -25,8 +25,10 @@ subtitle:
 
 banners:
   - path: './img/trip-advisor/hall_of_fame_2019.png'
+    caption: HALL OF FAME 2019
     alt_text: Rhodes, Private Tours, Greece
   - path: './img/trip-advisor/hall_of_fame.png'
+    caption: HALL OF FAME 2018
     alt_text: Rhodes, Private Tours, Greece
     width: 152px
 
