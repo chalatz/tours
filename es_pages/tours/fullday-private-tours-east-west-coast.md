@@ -105,7 +105,7 @@ gallery:
   group_2:
   - thumb: "./img/Tour2/fullday_private_tour_6_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_6.jpg"
-    alt: Full day private tour of Rhodes
+    alt: Rodas Allure Tours
     position: first
   - thumb: "./img/Tour2/fullday_private_tour_7_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_7.jpg"
