@@ -27,7 +27,7 @@ summary:
     y verás una belleza natural extraordinaria. Al final del día sentirás que realmente
     lo has visto todo.
 tour:
-  title: '"TOUR PRIVADO DE DÍA COMPLETO" '
+  title: '"Tour Privado de Dia Completo" '
   summary: Medieval & Nueva Ciudad de Rodas / Pueblo y Acrópolis de Lindos / Almuerzo
     en el Mar / Valle de las Mariposas / Filerimos'
   duration: Día Completo
