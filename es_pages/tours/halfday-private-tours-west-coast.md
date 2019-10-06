@@ -91,12 +91,12 @@ gallery:
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_4_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_4.jpg"
-    alt: Private tour guide of Rhodes
+    alt: Rodas, guía privada
     position: following
   group_2:
   - thumb: "./img/Tour3/halfday_private_tour_5_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_5.jpg"
-    alt: Rhodes West Coast Travel Guide
+    alt: Viajes individuales de lujo
     position: first
   - thumb: "./img/Tour3/halfday_private_tour_6_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_6.jpg"
