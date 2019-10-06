@@ -130,7 +130,7 @@ gallery:
     position: first
   - thumb: "./img/Tour2/fullday_private_tour_12_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_12.jpg"
-    alt: Shore trips of Rhodes Greece
+    alt: Viajes individuales de lujo
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_13_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_13.jpg"
