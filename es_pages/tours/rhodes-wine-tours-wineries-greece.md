@@ -106,7 +106,7 @@ gallery:
   group_2:
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_1_thumb_.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_1_.jpg"
-    alt: Best wines of Rhodes Greece
+    alt: La familia Triantafyllou, propietarios de Vinos Emery
     position: first
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_2_thumb_.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_2_.jpg"
