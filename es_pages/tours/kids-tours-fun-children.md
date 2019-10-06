@@ -128,7 +128,7 @@ gallery:
     position: following
   - thumb: "./img/Tour6/foto3_thumb.jpg"
     href: "./img/Tour6/foto3.jpg"
-    alt: Tours for families with children on Rhodes
+    alt: Tours de Rodas
     position: following
   - thumb: "./img/Tour6/foto4_thumb.jpg"
     href: "./img/Tour6/foto4.jpg"
