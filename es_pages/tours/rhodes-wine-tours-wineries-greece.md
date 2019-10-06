@@ -89,7 +89,7 @@ gallery:
     position: first
   - thumb: "./img/Tour5/rhodes_wineries_tours_greece_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_wineries_tours_greece_mod_.jpg"
-    alt: Rhodes wineries tours Greece
+    alt: 'Rodas, Ruta del Vino '
     position: following
   - thumb: "./img/Tour5/rhodes_free_wine_tasting_greece4_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_free_wine_tasting_greece4_mod_.jpg"
