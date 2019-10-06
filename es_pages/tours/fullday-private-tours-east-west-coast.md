@@ -121,12 +121,12 @@ gallery:
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_10_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_10.jpg"
-    alt: Rhodes Greece full day tours
+    alt: Excursiones Privadas de Rodas Grecia
     position: following
   group_3:
   - thumb: "./img/Tour2/fullday_private_tour_11_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_11.jpg"
-    alt: Full day tours of Rhodes Greece
+    alt: " Rodas, viajes individualess"
     position: first
   - thumb: "./img/Tour2/fullday_private_tour_12_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_12.jpg"
