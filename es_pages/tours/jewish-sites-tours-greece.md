@@ -143,7 +143,7 @@ gallery:
     position: following
   - thumb: "./img/Tour4/jewish_sites_tours_15_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_15.jpg"
-    alt: Rhodes private tours
+    alt: Rodas, viajes individualess
     position: following
 faq:
   items:
