@@ -131,7 +131,7 @@ gallery:
     position: first
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_6_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_6.jpg"
-    alt: Rhodes wine tour
+    alt: Tours de Rodas
     position: following
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_7_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_7.jpg"
