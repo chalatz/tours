@@ -32,6 +32,8 @@
         <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
     {%- endif -%}
 
+    {%- include partials/hreflangs.html -%}
+
     {%- include favicon.html -%}
 
     <!--build:css css/styles.min.css-->

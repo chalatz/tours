@@ -1,0 +1,18 @@
+{%- include helpers/check_empty_string.html the_string = page.ref -%}
+{%- if page.ref and string_not_empty -%}
+
+    {%- assign alt_pages = site.pages | where: 'ref', page.ref  -%}
+
+    {%- assign alt_pages_size = alt_pages | size -%}
+
+    {%- if alt_pages_size > 1 -%}
+        {%- for alt_page in alt_pages -%}
+            {%- capture alt_page_url -%}{{ site.url }}{{ alt_page.url | replace:'index.html',''}}{%- endcapture -%}
+            {%- if alt_page.ref == 'home' and alt_page.lang == 'en' -%}
+                {%- capture alt_page_url -%}{{ site.url | replace:'index.htm',''}}{%- endcapture -%}
+            {%- endif -%}
+            <link rel="alternate" hreflang="{{ alt_page.lang }}" href="{{- alt_page_url -}}" />
+        {%- endfor -%}
+    {%- endif -%}
+
+{%- endif -%}
