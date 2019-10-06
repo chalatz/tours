@@ -129,7 +129,7 @@ gallery:
     position: first
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_12_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_12.jpg"
-    alt: Best private tours of Rhodes Island
+    alt: Viajes individuales de lujo
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_15_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_15.jpg"
