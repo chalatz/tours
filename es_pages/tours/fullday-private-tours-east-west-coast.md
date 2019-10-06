@@ -100,7 +100,7 @@ gallery:
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_5_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_5.jpg"
-    alt: Rhodes Greece full day tours
+    alt: 'Rodas, Grecia, Tours '
     position: following
   group_2:
   - thumb: "./img/Tour2/fullday_private_tour_6_thumb.jpg"
