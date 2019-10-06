@@ -100,7 +100,7 @@ gallery:
     position: first
   - thumb: "./img/Tour3/halfday_private_tour_6_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_6.jpg"
-    alt: Rhodes Private tours
+    alt: Grecia, Tours Privados
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_7_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_7.jpg"
