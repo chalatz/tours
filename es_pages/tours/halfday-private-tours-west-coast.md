@@ -108,11 +108,11 @@ gallery:
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_8_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_8.jpg"
-    alt: Private tours of Rhodes West Coast
+    alt: Viajes culturales, Rodas Grecia
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_9_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_9.jpg"
-    alt: Private tour guide of Rhodes
+    alt: Tours de Rodas
     position: following
   group_3:
   - thumb: "./img/Tour3/halfday_private_tour_10_thumb.jpg"
