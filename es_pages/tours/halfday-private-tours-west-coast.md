@@ -87,7 +87,7 @@ gallery:
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_3_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_3.jpg"
-    alt: Rhodes private tour guide
+    alt: Grecia, Rhodas Isla
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_4_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_4.jpg"
