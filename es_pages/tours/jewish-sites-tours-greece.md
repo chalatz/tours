@@ -106,7 +106,7 @@ gallery:
   group_2:
   - thumb: "./img/Tour4/jewish_sites_tours_6_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_6.jpg"
-    alt: Rhodes Jewish sites private tour
+    alt: Servicios Privados Del Taxi de Rodas
     position: first
   - thumb: "./img/Tour4/jewish_sites_tours_7_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_7.jpg"
