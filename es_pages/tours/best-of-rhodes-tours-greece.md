@@ -116,7 +116,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_5_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_5.jpg"
-    alt: Best tours of Rhodes Greece
+    alt: Rodas isla, Grecia, Tours
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_9_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_9.jpg"
