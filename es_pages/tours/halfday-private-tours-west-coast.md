@@ -83,7 +83,7 @@ gallery:
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_2_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_2.jpg"
-    alt: Private tours of Rhodes West Coast
+    alt: Tours Privados de Rodas Grecia
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_3_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_3.jpg"
