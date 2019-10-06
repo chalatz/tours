@@ -122,12 +122,12 @@ gallery:
     position: following
   - thumb: "./img/Tour5/rhodes_taxi_tour_greece2_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_taxi_tour_greece2_mod_.jpg"
-    alt: Rhodes Taxi Tour Greece
+    alt: La Ruta del Vino Rodas Grecia
     position: following
   group_3:
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_5_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_5.jpg"
-    alt: Best wine tours of Rhodes
+    alt: Viajes culturales, Rodas Greci
     position: first
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_6_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_6.jpg"
