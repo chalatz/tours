@@ -90,11 +90,11 @@ gallery:
     position: following
   - thumb: "./img/Tour6/4_thumb.jpg"
     href: "./img/Tour6/4.jpg"
-    alt: Rhodes children tours
+    alt: 'Rodas, Grecia, Tours '
     position: following
   - thumb: "./img/Tour6/5_thumb.jpg"
     href: "./img/Tour6/5.jpg"
-    alt: Family Kids Tour Rhodes Greece
+    alt: Excursiones Privadas de Rodas Grecia
     position: following
   group_2:
   - thumb: "./img/Tour6/6_thumb.jpg"
