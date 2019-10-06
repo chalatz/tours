@@ -92,7 +92,7 @@ gallery:
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_2_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_2.jpg"
-    alt: Land tours of Rhodes Greece
+    alt: Servicios Privados Del Taxi de Rodas
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_4_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_4.jpg"
