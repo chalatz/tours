@@ -118,7 +118,7 @@ gallery:
     position: following
   - thumb: "./img/Tour5/rhodes_free_wine_tasting_greece5_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_free_wine_tasting_greece5_mod_.jpg"
-    alt: Rhodes free wine tasting Greece
+    alt: 'Vinos de Grecia '
     position: following
   - thumb: "./img/Tour5/rhodes_taxi_tour_greece2_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_taxi_tour_greece2_mod_.jpg"
