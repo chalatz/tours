@@ -135,7 +135,7 @@ gallery:
     position: following
   - thumb: "./img/Tour4/jewish_sites_tours_13_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_13.jpg"
-    alt: Rhodes private driver tour guide
+    alt: Rodas, viajes individualess
     position: following
   - thumb: "./img/Tour4/jewish_sites_tours_14_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_14.jpg"
