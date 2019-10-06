@@ -19,16 +19,16 @@ title: Rhodes Private Tours on TripAdvisor
 
 subtitle:
   - heading: 'The travelers of TripAdvisor have voted us:'
-    text:  'Number 1 out of 161 Tours on Rhodes Island and Number 1 out of 63 Tours in Rhodes Town'
+    text:  'Number 1 out of 161 Tours on Rhodes Island and Number 1 out of 72 Tours in Rhodes Town'
   - heading: 'For the sixth consecutive year, our customers have awarded us:'
     text:  'The Certificate of Excellence (2019) for our Private Tour Services'
 
 banners:
+  - path: './img/trip-advisor/hall_of_fame_2019.png'
+    alt_text: Rhodes, Private Tours, Greece
   - path: './img/trip-advisor/hall_of_fame.png'
     alt_text: Rhodes, Private Tours, Greece
     width: 152px
-  - path: './img/trip-advisor/hall_of_fame_2019.png'
-    alt_text: Rhodes, Private Tours, Greece
 
 gallery:
   items_per_row: 6
@@ -72,6 +72,9 @@ gallery:
     url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
     new_window: true
 ---
+{:.centered}
+**TRIPADVISOR RECOGNISING 6 YEARS OF CONSISTENTLY HIGH RATINGS FROM TRAVELLERS**
+
 We would like to thank you, our customers, for this honor. Your positive comments and recommendations to other travelers have made this award possible. It is a huge vote of confidence to be recognized in this way. Your support is greatly appreciated!
 
 We would like to thank our team, as well. Their efforts and professionalism are why we stand here. We are pleased that our work results in superlative services, making it possible for our customers to have memorable visits to our beautiful island. We will continue to work hard to earn our customers' support by offering the best and highest quality tours.
