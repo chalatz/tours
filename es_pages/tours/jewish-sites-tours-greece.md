@@ -101,7 +101,7 @@ gallery:
     position: following
   - thumb: "./img/Tour4/jewish_sites_tours_5_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_5.jpg"
-    alt: Jewish travel guide of Rhodes
+    alt: Grecia, Rhodas Isla
     position: following
   group_2:
   - thumb: "./img/Tour4/jewish_sites_tours_6_thumb.jpg"
