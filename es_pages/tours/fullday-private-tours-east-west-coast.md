@@ -142,7 +142,7 @@ gallery:
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_15_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_15.jpg"
-    alt: Rhodes East and West coast tour
+    alt: 'Rodas Taxi Tours '
     position: following
 faq:
   items:
