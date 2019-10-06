@@ -127,7 +127,7 @@ gallery:
   group_3:
   - thumb: "./img/Tour4/jewish_sites_tours_11_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_11.jpg"
-    alt: Rhodes Jewish sites private tour
+    alt: Servicio de limusinas Rodas
     position: first
   - thumb: "./img/Tour4/jewish_sites_tours_12_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_12.jpg"
