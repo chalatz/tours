@@ -85,8 +85,7 @@ gallery:
   group_1:
   - thumb: "./img/Tour5/map_of_rhodes_mod_4_small.jpg"
     href: "./img/rhodes_maps/map_of_rhodes_mod_4_zoomed.jpg"
-    alt: Wine tours of Rhodes Greece, Rhodes free wine tasting Greece, Rhodes wineries
-      tours Greece
+    alt: Rodas Bodegas de Vino
     position: first
   - thumb: "./img/Tour5/rhodes_wineries_tours_greece_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_wineries_tours_greece_mod_.jpg"
