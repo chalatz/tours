@@ -82,7 +82,7 @@ gallery:
     position: first
   - thumb: "./img/Tour6/2_thumb.jpg"
     href: "./img/Tour6/2.jpg"
-    alt: Rhodes children tours
+    alt: La Ruta del Vino Rodas Grecia
     position: following
   - thumb: "./img/Tour6/3_thumb.jpg"
     href: "./img/Tour6/3.jpg"
