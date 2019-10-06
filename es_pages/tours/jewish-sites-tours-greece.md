@@ -85,8 +85,7 @@ gallery:
   group_1:
   - thumb: "./img/Tour1/map_of_rhodes_mod.jpg"
     href: "./img/rhodes_maps/map_of_rhodes_mod_1_zoomed.jpg"
-    alt: Rhodes private tours. Jewish Sights tour, Rhodes Jewish Sights, Jewish Sites,
-      Greece
+    alt: Servicio de limusinas Rodas
     position: first
   - thumb: "./img/Tour4/jewish_sites_tours_2_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_2.jpg"
