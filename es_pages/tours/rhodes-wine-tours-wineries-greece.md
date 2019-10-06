@@ -139,11 +139,11 @@ gallery:
     position: following
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_8_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_8.jpg"
-    alt: Rhodes best wines
+    alt: 'Rodas, Ruta del Vino '
     position: following
   - thumb: "./img/Tour5/rhodes_free_wine_tasting_greece_mod_small.jpg"
     href: "./img/Tour5/rhodes_free_wine_tasting_greece_mod.jpg"
-    alt: Rhodes free wine tasting Greece
+    alt: El vino de CAIR
     position: following
 faq:
   items:
