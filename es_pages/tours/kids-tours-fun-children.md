@@ -136,7 +136,7 @@ gallery:
     position: following
   - thumb: "./img/Tour6/foto5_thumb.jpg"
     href: "./img/Tour6/foto5.jpg"
-    alt: Rhodes Greece tours for kids
+    alt: Rodas isla, Grecia, Tours
     position: following
 faq:
   items:
