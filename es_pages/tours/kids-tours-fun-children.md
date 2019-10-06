@@ -103,7 +103,7 @@ gallery:
     position: first
   - thumb: "./img/Tour6/7_thumb.jpg"
     href: "./img/Tour6/7.jpg"
-    alt: Rhodes tours for kids Greece
+    alt: " Excursión Para Niños "
     position: following
   - thumb: "./img/Tour6/8_thumb.jpg"
     href: "./img/Tour6/8.jpg"
