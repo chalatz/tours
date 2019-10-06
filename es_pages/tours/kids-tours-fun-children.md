@@ -78,8 +78,7 @@ gallery:
   group_1:
   - thumb: "./img/Tour6/map_of_rhodes_mod_5_small.jpg"
     href: "./img/rhodes_maps/map_of_rhodes_mod_5_zoomed.jpg"
-    alt: Kids Tours in Rhodes, Kids Fun Tours, Children Tours in Rhodes Greece, Rhodes
-      private tours, Educational Tours, Family tours, activities
+    alt: 'Excursión Para Niños '
     position: first
   - thumb: "./img/Tour6/2_thumb.jpg"
     href: "./img/Tour6/2.jpg"
