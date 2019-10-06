@@ -2,7 +2,7 @@ main:
   en:
     items:
     - title: HOME
-      url: './index.htm'
+      url: '/'
       type: home
     - title: ABOUT
       url: './rhodes_private_day_tours.htm'

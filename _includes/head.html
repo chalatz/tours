@@ -26,6 +26,12 @@
     <meta name="rating" content="{{ site.data.global-data.meta.rating }}">
     <meta http-equiv="resource-type" content="document">
 
+    {%- if page.lang == 'en' page.id == 'home' -%}
+        <link rel="canonical" href="{{ site.url | replace:'index.htm',''}}">
+    {%- else -%}
+        <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+    {%- endif -%}
+
     {%- include favicon.html -%}
 
     <!--build:css css/styles.min.css-->

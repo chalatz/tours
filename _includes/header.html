@@ -34,6 +34,9 @@
         {%- assign langs_counter = langs_counter | plus: 1 -%}
         {%- unless page.lang == a_page.lang -%}
           {%- assign other_lang_page_url = a_page.url -%}
+          {%- if page.lang != 'en' and page.id == 'home' -%}
+            {%- assign other_lang_page_url = '/' -%}
+          {%- endif -%}
           {%- assign other_lang_page_lang = a_page.lang -%}
         {%- endunless -%}
       {%- endif -%}
@@ -59,7 +62,7 @@
                   ES
                 </a>
               {%- elsif page.lang == 'es' -%}
-                <a class="langs__link" href="./index.htm">
+                <a class="langs__link" href="/">
                   EN
                 </a>
               {%- endif -%}

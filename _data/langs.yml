@@ -1,7 +1,7 @@
 en:
   code: en-US
   home_page:
-    url: ./index.htm
+    url: /
   contact_page:
     url: ./contact_us.htm
 
