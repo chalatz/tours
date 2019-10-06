@@ -114,11 +114,11 @@ gallery:
     position: following
   - thumb: "./img/Tour4/jewish_sites_tours_8_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_8.jpg"
-    alt: Rhodes private driver tour guide
+    alt: 'Tour Exclusivo de Medio Día '
     position: following
   - thumb: "./img/Tour4/jewish_sites_tours_9_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_9.jpg"
-    alt: Private tours of Rhodes
+    alt: Rodas isla, Grecia, Tours
     position: following
   - thumb: "./img/Tour4/jewish_sites_tours_10_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_10.jpg"
