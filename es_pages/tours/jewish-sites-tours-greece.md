@@ -139,7 +139,7 @@ gallery:
     position: following
   - thumb: "./img/Tour4/jewish_sites_tours_14_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_14.jpg"
-    alt: Rhodes Jewish sites private tour
+    alt: Rodas, conductor privado
     position: following
   - thumb: "./img/Tour4/jewish_sites_tours_15_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_15.jpg"
