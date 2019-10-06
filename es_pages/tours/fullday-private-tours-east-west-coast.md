@@ -109,7 +109,7 @@ gallery:
     position: first
   - thumb: "./img/Tour2/fullday_private_tour_7_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_7.jpg"
-    alt: Private shore excursions of Rhodes
+    alt: Tours Privados de Rodas Grecia
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_8_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_8.jpg"
