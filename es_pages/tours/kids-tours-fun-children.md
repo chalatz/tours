@@ -107,7 +107,7 @@ gallery:
     position: following
   - thumb: "./img/Tour6/8_thumb.jpg"
     href: "./img/Tour6/8.jpg"
-    alt: Rhodes Family Tours
+    alt: Grecia, Tours Privados
     position: following
   - thumb: "./img/Tour6/9_thumb.jpg"
     href: "./img/Tour6/9.jpg"
