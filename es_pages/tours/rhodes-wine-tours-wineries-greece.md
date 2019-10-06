@@ -110,7 +110,7 @@ gallery:
     position: first
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_2_thumb_.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_2_.jpg"
-    alt: Wineries of Rhodes Greece
+    alt: La bodega vinícola Alexandris
     position: following
   - thumb: "./img/Tour5/rhodes_private_tours_greece2_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_private_tours_greece2_mod_.jpg"
