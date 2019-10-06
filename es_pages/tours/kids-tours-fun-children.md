@@ -124,7 +124,7 @@ gallery:
     position: first
   - thumb: "./img/Tour6/foto2_thumb.jpg"
     href: "./img/Tour6/foto2.jpg"
-    alt: Rhodes family tours
+    alt: 'Tours Para Niños '
     position: following
   - thumb: "./img/Tour6/foto3_thumb.jpg"
     href: "./img/Tour6/foto3.jpg"
