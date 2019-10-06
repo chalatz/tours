@@ -135,7 +135,7 @@ gallery:
     position: following
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_7_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_7.jpg"
-    alt: Rhodes wineries
+    alt: 'Rodas Bodegas de Vino '
     position: following
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_8_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_8.jpg"
