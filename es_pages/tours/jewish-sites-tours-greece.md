@@ -89,7 +89,7 @@ gallery:
     position: first
   - thumb: "./img/Tour4/jewish_sites_tours_2_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_2.jpg"
-    alt: Rhodes private tours
+    alt: Rodas Allure Tours
     position: following
   - thumb: "./img/Tour4/jewish_sites_tours_3_thumb.jpg"
     href: "./img/Tour4/jewish_sites_tours_3.jpg"
