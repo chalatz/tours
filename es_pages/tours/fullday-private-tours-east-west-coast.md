@@ -84,8 +84,7 @@ gallery:
   group_1:
   - thumb: "./img/Tour2/map_of_rhodes_mod_2_small.jpg"
     href: "./img/rhodes_maps/map_of_rhodes_mod_2_zoomed.jpg"
-    alt: Rhodes private tours, Rhodes private shore excursions, Private tours of Rhodes
-      Island Greece, East West coast full day tour
+    alt: Tour Privado de Dia Completo
     position: first
   - thumb: "./img/Tour2/fullday_private_tour_1_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_1.jpg"
