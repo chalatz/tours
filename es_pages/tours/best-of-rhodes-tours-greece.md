@@ -112,7 +112,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_7_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_7.jpg"
-    alt: Best tours of Rhodes Greece
+    alt: Rodas, viajes individualess
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_5_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_5.jpg"
