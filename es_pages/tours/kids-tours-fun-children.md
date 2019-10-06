@@ -115,12 +115,12 @@ gallery:
     position: following
   - thumb: "./img/Tour6/10_thumb.jpg"
     href: "./img/Tour6/10.jpg"
-    alt: Greece Rhodes Tours for Kids
+    alt: Rodas isla, Grecia, Tours
     position: following
   group_3:
   - thumb: "./img/Tour6/11_thumb.jpg"
     href: "./img/Tour6/11.jpg"
-    alt: Tours for Kids Rhodes Greece
+    alt: 'Excursión Para Niños '
     position: first
   - thumb: "./img/Tour6/foto2_thumb.jpg"
     href: "./img/Tour6/foto2.jpg"
