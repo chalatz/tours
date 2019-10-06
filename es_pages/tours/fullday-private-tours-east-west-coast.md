@@ -134,11 +134,11 @@ gallery:
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_13_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_13.jpg"
-    alt: Land tours of Rhodes Greece
+    alt: Viajes culturales, Rodas Grecia
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_14_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_14.jpg"
-    alt: Day trips of Rhodes Greece
+    alt: Tours Privados de Rodas Grecia
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_15_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_15.jpg"
