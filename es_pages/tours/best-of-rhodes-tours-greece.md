@@ -91,7 +91,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_2_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_2.jpg"
-    alt: Rhodes best private tour guide Greece
+    alt: Tours de Rodas
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_3_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_3.jpg"
