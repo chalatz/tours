@@ -93,11 +93,11 @@ gallery:
     position: following
   - thumb: "./img/Tour5/rhodes_free_wine_tasting_greece4_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_free_wine_tasting_greece4_mod_.jpg"
-    alt: Rhodes free wine tasting Greece
+    alt: El vino de CAIR, rodas grecia
     position: following
   - thumb: "./img/Tour5/rhodes_wineries_tours_greece4_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_wineries_tours_greece4_mod_.jpg"
-    alt: Rhodes wineries tours Greece
+    alt: La bodega de Anastasia
     position: following
   - thumb: "./img/Tour5/rhodes_wineries_tours_greece5_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_wineries_tours_greece5_mod_.jpg"
