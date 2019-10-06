@@ -75,8 +75,7 @@ gallery:
   group_1:
   - thumb: "./img/Tour3/map_of_rhodes_mod_3_small.jpg"
     href: "./img/rhodes_maps/map_of_rhodes_mod_3_zoomed.jpg"
-    alt: Rhodes private tours. Rhodes private shore excursions, Private tours of West
-      Coast, Rhodes Island Greece
+    alt: 'Ciudad de Rodas y Costa Oeste '
     position: first
   - thumb: "./img/Tour3/halfday_private_tour_1_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_1.jpg"
