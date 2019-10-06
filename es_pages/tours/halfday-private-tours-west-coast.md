@@ -104,7 +104,7 @@ gallery:
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_7_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_7.jpg"
-    alt: Rhodes private tour guide
+    alt: Rodas, guía privada
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_8_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_8.jpg"
