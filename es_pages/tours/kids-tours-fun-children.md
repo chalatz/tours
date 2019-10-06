@@ -99,7 +99,7 @@ gallery:
   group_2:
   - thumb: "./img/Tour6/6_thumb.jpg"
     href: "./img/Tour6/6.jpg"
-    alt: Family Tours Rhodes Greece
+    alt: Tours Privados de Rodas Grecia
     position: first
   - thumb: "./img/Tour6/7_thumb.jpg"
     href: "./img/Tour6/7.jpg"
