@@ -111,7 +111,7 @@ gallery:
     position: following
   - thumb: "./img/Tour6/9_thumb.jpg"
     href: "./img/Tour6/9.jpg"
-    alt: Rhodes children tours
+    alt: Viajes culturales, Rodas Grecia
     position: following
   - thumb: "./img/Tour6/10_thumb.jpg"
     href: "./img/Tour6/10.jpg"
