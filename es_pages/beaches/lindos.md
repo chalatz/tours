@@ -37,10 +37,10 @@ gallery_rows:
     alt: Playa de LINDOS Rodas Grecia
   - thumb: img/rhodes_beaches/lindos_beach/lindos_beach_3-thumb.jpg
     href: img/rhodes_beaches/lindos_beach/lindos_beach_3.jpg
-    alt: Lindos Beach Rhodes Greece, Private tours of Rhodes
+    alt: Playa de LINDOS Rodas Grecia
   - thumb: img/rhodes_beaches/lindos_beach/lindos_beach_4-thumb.jpg
     href: img/rhodes_beaches/lindos_beach/lindos_beach_4.jpg
-    alt: Lindos Beach in Rhodes Greece, Rhodes Tours
+    alt: Playa de LINDOS Rodas Grecia
 
 ---
 La playa de Lindos es vista desde lo alto desde la hermosa acrópolis, y está bien protegida contra la intemperie por una península rocosa. La bahía de Lindos ofrece una pequeña playa de arena para tomar el sol. Dispone de tumbonas y sombrillas y también hay vestuarios y duchas. La playa tiende a estar muy concurrida en temporada alta.
