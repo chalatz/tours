@@ -38,7 +38,7 @@ gallery_rows:
     alt: Playa de Kallithea Rodas Grecia
   - thumb: img/rhodes_beaches/kallithea_beach/kallithea_beach_4-thumb.jpg
     href: img/rhodes_beaches/kallithea_beach/kallithea_beach_4.jpg
-    alt: Playa de IXIA Rodas Grecia
+    alt: Playa de Kallithea Rodas Grecia
 
 ---
 La playa Spa principal de Kalithea es un blanco favorito de los barcos de excursión de un día de la ciudad de Rodas, de modo que se llena rápidamente de excursionistas, especialmente en la temporada alta. Hay sombrillas y tumbonas en cada una de las calas de Kalithea y la playa principal también tiene su propio "café" que abre en temporada alta; un buen sitio para tomar un café o una copa en un ambiente fantástico.
