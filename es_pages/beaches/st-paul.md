@@ -32,10 +32,10 @@ gallery_rows:
 - figures:
   - thumb: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_1-thumb.jpg
     href: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_1.jpg
-    alt: St. Paul's Bay, Lindos, Rhodes Greece, Tours of Rhodes
+    alt: Playa de San Pablo Rodas Grecia (St. Paul)
   - thumb: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_2-thumb.jpg
     href: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_2.jpg
-    alt: St. Paul's Bay, Lindos, Rhodes Greece, Private Tours
+    alt: Playa de San Pablo Rodas Grecia (St. Paul)
   - thumb: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_3-thumb.jpg
     href: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_3.jpg
     alt: St. Paul's Bay Rhodes Greece, Tours in Rhodes
