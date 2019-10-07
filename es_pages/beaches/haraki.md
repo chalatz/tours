@@ -40,7 +40,7 @@ gallery_rows:
     alt: Playa de HARAKI Rodas Grecia (CHARAKI)
   - thumb: img/rhodes_beaches/haraki_beach/haraki_beach_4-thumb.jpg
     href: img/rhodes_beaches/haraki_beach/haraki_beach_4.jpg
-    alt: Haraki Beach, Charaki, Rhodes Greece
+    alt: Playa de HARAKI Rodas Grecia (CHARAKI)
 
 ---
 Haraki es un pequeño y bonito pueblo de pescadores. La playa es mixta, en el lado derecho tiene piedras grandes, a la izquierda hay arena. Hay tumbonas y sombrillas disponibles y también hay vestuarios y duchas. Desde la playa se disfruta de una vista del castillo Feraklos (utilizado por los Caballeros del San Juan en 1309). Algunas embarcaciones pequeñas de pesca salen a diario a capturar peces para el restaurante local que es muy popular entre los griegos locales, y elegido por numerosas celebridades en el pasado.
