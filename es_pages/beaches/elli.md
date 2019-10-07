@@ -30,7 +30,7 @@ gallery_rows:
 - figures:
   - thumb: img/rhodes_beaches/elli_beach/elli_beach_1-thumb.jpg
     href: img/rhodes_beaches/elli_beach/elli_beach_1.jpg
-    alt: Playa de Elli, Tours of Rhodes
+    alt: Playa de Elli (Playa Eli) Rodas Grecia
   - thumb: img/rhodes_beaches/elli_beach/elli_beach_2-thumb.jpg
     href: img/rhodes_beaches/elli_beach/elli_beach_2.jpg
     alt: Playa de Elli, Tours in Rhodes Greece
