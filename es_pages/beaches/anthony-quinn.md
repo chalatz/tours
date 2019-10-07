@@ -35,7 +35,7 @@ gallery_rows:
     alt: La Bahía de Anthony Quinn Rodas Grecia
   - thumb: img/rhodes_beaches/anthony_quinn_beach/anthony_quinn_2-thumb.jpg
     href: img/rhodes_beaches/anthony_quinn_beach/anthony_quinn_2.jpg
-    alt: Rhodes Anthony Quinn Beach, Rhodes Private Tours
+    alt: La Bahía de Anthony Quinn en Rodas Grecia
   - thumb: img/rhodes_beaches/anthony_quinn_beach/anthony_quinn_3-thumb.jpg
     href: img/rhodes_beaches/anthony_quinn_beach/anthony_quinn_3.jpg
     alt: Rhodes Greece, Anthony Quinn Bay, Ladiko Beach
