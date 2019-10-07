@@ -29,13 +29,13 @@ gallery_rows:
 - figures:
   - thumb: img/rhodes_beaches/kallithea_beach/kallithea_beach_1-thumb.jpg
     href: img/rhodes_beaches/kallithea_beach/kallithea_beach_1.jpg
-    alt: Playa de IXIA Rodas Grecia
+    alt: Playa de Kallithea Rodas Grecia
   - thumb: img/rhodes_beaches/kallithea_beach/kallithea_beach_2-thumb.jpg
     href: img/rhodes_beaches/kallithea_beach/kallithea_beach_2.jpg
-    alt: Playa de IXIA Rodas Grecia
+    alt: Playa de Kallithea Rodas Grecia
   - thumb: img/rhodes_beaches/kallithea_beach/kallithea_beach_3-thumb.jpg
     href: img/rhodes_beaches/kallithea_beach/kallithea_beach_3.jpg
-    alt: Playa de IXIA Rodas Grecia
+    alt: Playa de Kallithea Rodas Grecia
   - thumb: img/rhodes_beaches/kallithea_beach/kallithea_beach_4-thumb.jpg
     href: img/rhodes_beaches/kallithea_beach/kallithea_beach_4.jpg
     alt: Playa de IXIA Rodas Grecia
