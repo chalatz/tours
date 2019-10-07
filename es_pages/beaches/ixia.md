@@ -34,10 +34,10 @@ gallery_rows:
     alt: Playa de IXIA Rodas Grecia
   - thumb: img/rhodes_beaches/ixia_beach/ixia_beach_3-thumb.jpg
     href: img/rhodes_beaches/ixia_beach/ixia_beach_3.jpg
-    alt: Ixia beach in Rhodes Greece, Rhodes Private Tours
+    alt: Playa de IXIA Rodas Grecia
   - thumb: img/rhodes_beaches/ixia_beach/ixia_beach_4-thumb.jpg
     href: img/rhodes_beaches/ixia_beach/ixia_beach_4.jpg
-    alt: Rhodes Ixia Beach, Tours in Rhodes Greece
+    alt: Playa de IXIA Rodas Grecia
 
 ---
 Si usted busca olas y vientos fuertes, esta es la playa para usted. Ixia es realmente una serie de playas en lugar de una sola. Es un lugar favorito para los amantes del windsurf y el kitesurf. Usted también encontrará una serie de centros que ofrecen equipos de windsurf así como entrenamiento para que pueda mejorar su técnica, tanto en el surf como en el windsurf y el kitesurf. En Ixia se puede deleitar con las románticas puestas de sol.
