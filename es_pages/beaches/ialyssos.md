@@ -37,10 +37,10 @@ gallery_rows:
     alt: Playa de IALYSSOS Rodas Grecia (IALISSOS)
   - thumb: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_3-thumb.jpg
     href: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_3.jpg
-    alt: Rhodes Ialyssos Beach, Trianta Beach, Excursions in Rhodes
+    alt: Playa de IALYSSOS Rodas Grecia (IALISSOS)
   - thumb: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_4-thumb.jpg
     href: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_4.jpg
-    alt: Greece Rhodes Ialyssos Beach, Shore excursions in Rhodes
+    alt: Playa de IALYSSOS Rodas Grecia (IALISSOS)
 
 ---
 Al igual que en Ixia, las playas de los hoteles se alternan con organizadas playas públicas, utilizadas principalmente por los visitantes de los hoteles locales. Es un lugar ideal para los amantes de la natación, y para los surfistas puesto que a menudo hay un viento favorable. Dispone de tumbonas y sombrillas y también hay vestuarios y duchas.
