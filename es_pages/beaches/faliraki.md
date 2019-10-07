@@ -37,7 +37,7 @@ gallery_rows:
     alt: 'Rodas Grecia, Playa de Faliraki '
   - thumb: img/rhodes_beaches/faliraki_beach/faliraki_beach_4-thumb.jpg
     href: img/rhodes_beaches/faliraki_beach/faliraki_beach_4.jpg
-    alt: Faliraki Beach Rhodes, Tours in Rhodes Greece
+    alt: 'Rodas Grecia, Playa de Faliraki '
 
 ---
 Abierta sólo durante la temporada de verano, su único propósito es proporcionar a sus visitantes unas vacaciones que no olvidarán. Las playas son principalmente de arena y las aguas son cristalinas, lisas como un espejo. Hay una abundante cantidad de camas de sol para que se tumbe y trabaje en su bronceado. Para los más activos, también hay muchos deportes acuáticos para elegir, incluyendo el Salto en “Bungee”. Las playas de Faliraki son sólo superadas por su vida nocturna. Faliraki rebosa de bares, clubes, salas de baile y algunos de los mejores restaurantes que se pueda encontrar.
