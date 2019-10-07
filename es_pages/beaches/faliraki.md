@@ -31,10 +31,10 @@ gallery_rows:
     alt: Playa de Faliraki Rodas Grecia
   - thumb: img/rhodes_beaches/faliraki_beach/faliraki_beach_2-thumb.jpg
     href: img/rhodes_beaches/faliraki_beach/faliraki_beach_2.jpg
-    alt: Faliraki Beach Rhodes Greece, Private shore excursions in Rhodes
+    alt: Playa de Faliraki Rodas Grecia
   - thumb: img/rhodes_beaches/faliraki_beach/faliraki_beach_3-thumb.jpg
     href: img/rhodes_beaches/faliraki_beach/faliraki_beach_3.jpg
-    alt: Rhodes Faliraki Beach, Tours in Rhodes Greece
+    alt: 'Rodas Grecia, Playa de Faliraki '
   - thumb: img/rhodes_beaches/faliraki_beach/faliraki_beach_4-thumb.jpg
     href: img/rhodes_beaches/faliraki_beach/faliraki_beach_4.jpg
     alt: Faliraki Beach Rhodes, Tours in Rhodes Greece
