@@ -38,10 +38,10 @@ gallery_rows:
     alt: Playa de San Pablo Rodas Grecia (St. Paul)
   - thumb: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_3-thumb.jpg
     href: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_3.jpg
-    alt: St. Paul's Bay Rhodes Greece, Tours in Rhodes
+    alt: Playa de San Pablo Rodas Grecia (St. Paul)
   - thumb: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_4-thumb.jpg
     href: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_4.jpg
-    alt: St. Paul's Bay, Lindos, Rhodes Greece, Tours of Rhodes
+    alt: Playa de San Pablo Rodas Grecia (St. Paul)
 
 ---
 Pequeña playa de arena, con agua de mar poco profundo, y un paisaje atractivo.
