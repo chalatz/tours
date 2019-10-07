@@ -38,10 +38,10 @@ gallery_rows:
     alt: La Bahía de Anthony Quinn en Rodas Grecia
   - thumb: img/rhodes_beaches/anthony_quinn_beach/anthony_quinn_3-thumb.jpg
     href: img/rhodes_beaches/anthony_quinn_beach/anthony_quinn_3.jpg
-    alt: Rhodes Greece, Anthony Quinn Bay, Ladiko Beach
+    alt: La Bahía de Anthony Quinn,  Rodas Grecia
   - thumb: img/rhodes_beaches/anthony_quinn_beach/anthony_quinn_4-thumb.jpg
     href: img/rhodes_beaches/anthony_quinn_beach/anthony_quinn_4.jpg
-    alt: Rhodes Anthony Quinn Beach, Tours in Rhodes
+    alt: 'Rodas Grecia, La Bahía de Anthony Quinn '
 
 ---
 Toma su nombre del famoso actor de Hollywood, que posee una gran propiedad en esta área. (Desde la filmación de la película “Cañones de Navarone” aquí). Hay un costo por tumbonas y sombrillas. Los italianos frecuentan la pequeña bahía. Ideal para el buceo. La playa tiende a ser muy concurrida en temporada alta.
