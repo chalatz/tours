@@ -20,8 +20,6 @@ title: Rhodes Private Tours on TripAdvisor
 subtitle:
   - heading: 'The travelers of TripAdvisor have voted us:'
     text:  'Number 1 out of 161 Tours on Rhodes Island and Number 1 out of 72 Tours in Rhodes Town'
-  - heading: 'For the sixth consecutive year, our customers have awarded us:'
-    text:  'The Certificate of Excellence (2019) for our Private Tour Services'
 
 banners:
   - path: './img/trip-advisor/hall_of_fame_2019.png'
