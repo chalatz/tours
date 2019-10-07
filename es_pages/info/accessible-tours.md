@@ -27,7 +27,7 @@ meta:
 title: TOURS Accesibles para Discapacitados - Rodas Grecia
 head_photo:
   src: "./img/tours-pages/head-photos/head-photo-accessible-tours.jpg"
-  alt: Rhodes Island Private Accessible Tours
+  alt: Tours Accesibles para Discapacitados - Rodas Grecia
 sections:
 - text: |-
     {:.centered}
