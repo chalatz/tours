@@ -28,10 +28,10 @@ gallery_rows:
 - figures:
   - thumb: img/rhodes_beaches/traganou_beach/traganou_beach_1-thumb.jpg
     href: img/rhodes_beaches/traganou_beach/traganou_beach_1.jpg
-    alt: Traganou Beach, Rhodes Private Tours
+    alt: Playa de traganou Rodas Grecia
   - thumb: img/rhodes_beaches/traganou_beach/traganou_beach_2-thumb.jpg
     href: img/rhodes_beaches/traganou_beach/traganou_beach_2.jpg
-    alt: Traganou Beach, Rhodes Greece Private Tours
+    alt: Playa de traganou Rodas Grecia
   - thumb: img/rhodes_beaches/traganou_beach/traganou_beach_3-thumb.jpg
     href: img/rhodes_beaches/traganou_beach/traganou_beach_3.jpg
     alt: Beautiful beaches in Europe, Traganou Beach, Rhodes Greece
