@@ -34,10 +34,10 @@ gallery_rows:
     alt: Playa de traganou Rodas Grecia
   - thumb: img/rhodes_beaches/traganou_beach/traganou_beach_3-thumb.jpg
     href: img/rhodes_beaches/traganou_beach/traganou_beach_3.jpg
-    alt: Beautiful beaches in Europe, Traganou Beach, Rhodes Greece
+    alt: Playa de traganou Rodas Grecia
   - thumb: img/rhodes_beaches/traganou_beach/traganou_beach_4-thumb.jpg
     href: img/rhodes_beaches/traganou_beach/traganou_beach_4.jpg
-    alt: Traganou Beach Rhodes Greece, Rhodes Tours
+    alt: Playa de traganou Rodas Grecia
 
 ---
 La playa es ideal para aquellos que prefieren nadar en soledad y evitan las multitudes. Sólo una pequeña zona de la playa está organiza con sombrillas y tumbonas, el resto se ha dejado en su forma natural.
