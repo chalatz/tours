@@ -31,10 +31,10 @@ gallery_rows:
 - figures:
   - thumb: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_1-thumb.jpg
     href: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_1.jpg
-    alt: Rhodes Ialyssos Beach, Trianta Beach, Private tours in Rhodes
+    alt: Playa de IALYSSOS Rodas Grecia (IALISSOS)
   - thumb: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_2-thumb.jpg
     href: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_2.jpg
-    alt: Greece Rhodes Ialyssos Beach, Rhodes shore excursions
+    alt: Playa de IALYSSOS Rodas Grecia (IALISSOS)
   - thumb: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_3-thumb.jpg
     href: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_3.jpg
     alt: Rhodes Ialyssos Beach, Trianta Beach, Excursions in Rhodes
