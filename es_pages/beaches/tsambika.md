@@ -35,10 +35,10 @@ gallery_rows:
     alt: Playa de TSAMBIKA Rodas Grecia (TSAMPIKA)
   - thumb: img/rhodes_beaches/tsambika_beach/tsambika_beach_2-thumb.jpg
     href: img/rhodes_beaches/tsambika_beach/tsambika_beach_2.jpg
-    alt: Tsambika Beach, Rhodes Greece, Tours in Rhodes
+    alt: Playa de TSAMBIKA Rodas Grecia (TSAMPIKA)
   - thumb: img/rhodes_beaches/tsambika_beach/tsambika_beach_3-thumb.jpg
     href: img/rhodes_beaches/tsambika_beach/tsambika_beach_3.jpg
-    alt: Tsambika Beach, Rhodes Greece, Private tours in Rhodes
+    alt: Playa de TSAMBIKA Rodas Grecia (TSAMPIKA)
   - thumb: img/rhodes_beaches/tsambika_beach/tsambika_beach_4-thumb.jpg
     href: img/rhodes_beaches/tsambika_beach/tsambika_beach_4.jpg
     alt: Tsambika Beach, Tsampika, Rhodes Greece
