@@ -37,7 +37,7 @@ gallery_rows:
     alt: Playa de HARAKI Rodas Grecia (CHARAKI)
   - thumb: img/rhodes_beaches/haraki_beach/haraki_beach_3-thumb.jpg
     href: img/rhodes_beaches/haraki_beach/haraki_beach_3.jpg
-    alt: Haraki Beach Rhodes Greece, Tours in Rhodes Island
+    alt: Playa de HARAKI Rodas Grecia (CHARAKI)
   - thumb: img/rhodes_beaches/haraki_beach/haraki_beach_4-thumb.jpg
     href: img/rhodes_beaches/haraki_beach/haraki_beach_4.jpg
     alt: Haraki Beach, Charaki, Rhodes Greece
