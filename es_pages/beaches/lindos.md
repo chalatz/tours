@@ -31,10 +31,10 @@ gallery_rows:
 - figures:
   - thumb: img/rhodes_beaches/lindos_beach/lindos_beach_1-thumb.jpg
     href: img/rhodes_beaches/lindos_beach/lindos_beach_1.jpg
-    alt: Lindos Beach Rhodes Greece, Private Excursions
+    alt: Playa de LINDOS Rodas Grecia
   - thumb: img/rhodes_beaches/lindos_beach/lindos_beach_2-thumb.jpg
     href: img/rhodes_beaches/lindos_beach/lindos_beach_2.jpg
-    alt: Lindos Beach Rhodes Greece, Tours of Rhodes
+    alt: Playa de LINDOS Rodas Grecia
   - thumb: img/rhodes_beaches/lindos_beach/lindos_beach_3-thumb.jpg
     href: img/rhodes_beaches/lindos_beach/lindos_beach_3.jpg
     alt: Lindos Beach Rhodes Greece, Private tours of Rhodes
