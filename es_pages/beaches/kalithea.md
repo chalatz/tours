@@ -32,10 +32,10 @@ gallery_rows:
     alt: Playa de IXIA Rodas Grecia
   - thumb: img/rhodes_beaches/kallithea_beach/kallithea_beach_2-thumb.jpg
     href: img/rhodes_beaches/kallithea_beach/kallithea_beach_2.jpg
-    alt: Kalithea beach Rhodes Greece, Private Tours of Rhodes
+    alt: Playa de IXIA Rodas Grecia
   - thumb: img/rhodes_beaches/kallithea_beach/kallithea_beach_3-thumb.jpg
     href: img/rhodes_beaches/kallithea_beach/kallithea_beach_3.jpg
-    alt: Rhodes Kalithea beach, Rhodes Tours
+    alt: Playa de IXIA Rodas Grecia
   - thumb: img/rhodes_beaches/kallithea_beach/kallithea_beach_4-thumb.jpg
     href: img/rhodes_beaches/kallithea_beach/kallithea_beach_4.jpg
     alt: Kalithea beach Rhodes, Private tours in Rhodes
