@@ -20,7 +20,7 @@ profile:
   title: Biografía
   img:
     src: "./img/pages/about/nicholas.jpg"
-    alt: Nicholas - Rhodes Private Day Tours
+    alt: EXCURSIONES GUIADAS PRIVADAS EN RODAS GRECIA
   content: |-
     Nicolás A.Rhodes nació en Egipto, Alejandría. Sus padres eran griegos, pertenecientes a la gran "Comunidad Helénica de Alejandría".
 
