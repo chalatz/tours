@@ -29,7 +29,7 @@ gallery_rows:
 - figures:
   - thumb: img/rhodes_beaches/kallithea_beach/kallithea_beach_1-thumb.jpg
     href: img/rhodes_beaches/kallithea_beach/kallithea_beach_1.jpg
-    alt: Kalithea Beach, The most beautiful beaches in Greece
+    alt: Playa de IXIA Rodas Grecia
   - thumb: img/rhodes_beaches/kallithea_beach/kallithea_beach_2-thumb.jpg
     href: img/rhodes_beaches/kallithea_beach/kallithea_beach_2.jpg
     alt: Kalithea beach Rhodes Greece, Private Tours of Rhodes
