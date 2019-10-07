@@ -28,10 +28,10 @@ gallery_rows:
 - figures:
   - thumb: img/rhodes_beaches/ixia_beach/ixia_beach_1-thumb.jpg
     href: img/rhodes_beaches/ixia_beach/ixia_beach_1.jpg
-    alt: Ixia beach Rhodes Greece, Private Tours in Rhodes
+    alt: Playa de IXIA Rodas Grecia
   - thumb: img/rhodes_beaches/ixia_beach/ixia_beach_2-thumb.jpg
     href: img/rhodes_beaches/ixia_beach/ixia_beach_2.jpg
-    alt: Rhodes Ixia Beach, Rhodes Tours
+    alt: Playa de IXIA Rodas Grecia
   - thumb: img/rhodes_beaches/ixia_beach/ixia_beach_3-thumb.jpg
     href: img/rhodes_beaches/ixia_beach/ixia_beach_3.jpg
     alt: Ixia beach in Rhodes Greece, Rhodes Private Tours
