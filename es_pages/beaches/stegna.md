@@ -31,7 +31,7 @@ gallery_rows:
     alt: Playa de Stegná Rodas Grecia (Pueblo de Arcángelos)
   - thumb: img/rhodes_beaches/stegna_beach/stegna_beach_2-thumb.jpg
     href: img/rhodes_beaches/stegna_beach/stegna_beach_2.jpg
-    alt: Stegna Beach, Rhodes Greece, Private tours in Rhodes
+    alt: Playa de Stegná Rodas Grecia (Pueblo de Arcángelos)
   - thumb: img/rhodes_beaches/stegna_beach/stegna_beach_3-thumb.jpg
     href: img/rhodes_beaches/stegna_beach/stegna_beach_3.jpg
     alt: Best beaches in Greece, Islands beaches, Stegna Beach Rhodes
