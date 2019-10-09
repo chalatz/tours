@@ -50,7 +50,7 @@ sections:
       caption: ''
     - thumb: img/water_park/water_park_6_small.jpg
       href: img/water_park/water_park_6.jpg
-      alt: Rhodes Private Custom Tours, Water Park
+      alt: Rhodes Private Custom Tour for the Water Park in Faliraki
       caption: ''
     - thumb: img/water_park/water_park_7_small.jpg
       href: img/water_park/water_park_7.jpg
