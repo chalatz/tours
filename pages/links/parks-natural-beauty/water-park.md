@@ -27,7 +27,7 @@ sections:
       caption: ''
     - thumb: img/water_park/water_park_2_small.jpg
       href: img/water_park/water_park_2.jpg
-      alt: Rhodes Custom Tailored Tours, Water Park
+      alt: 'Rhodes Private Tour, Water Park in Rhodes '
       caption: ''
     - thumb: img/water_park/water_park_3_small.jpg
       href: img/water_park/water_park_3.jpg
