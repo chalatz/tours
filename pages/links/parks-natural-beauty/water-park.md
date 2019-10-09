@@ -46,7 +46,7 @@ sections:
   - figures:
     - thumb: img/water_park/water_park_5_small.jpg
       href: img/water_park/water_park_5.jpg
-      alt: Private Custom Tours in Rhodes, Water Park
+      alt: 'The Water Park in Faliraki Rhodes Greece '
       caption: ''
     - thumb: img/water_park/water_park_6_small.jpg
       href: img/water_park/water_park_6.jpg
