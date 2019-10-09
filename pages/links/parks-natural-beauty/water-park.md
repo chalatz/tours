@@ -5,13 +5,13 @@ has_gallery: true
 id: site_water_park
 ref: site_water_park
 meta:
-  title: Rhodes Custom Tours, Private Custom Tours in Rhodes
-  http_desc: Rhodes Custom Tours, Private Custom Tours in Rhodes, Water Park
-  description: Rhodes Custom Tours, Private Custom Tours in Rhodes, Water Park
-  keywords: Rhodes Custom Tours, Private Custom Tours in Rhodes, Water Park
+  title: Water Park Faliraki Rhodes Greece
+  http_desc: 'Water Park Faliraki Rhodes Greece, Private Tour for Rhodes Water Park '
+  description: 'Water Park Faliraki Rhodes Greece, Private Tour for Rhodes Water Park '
+  keywords: 'Water Park Faliraki Rhodes Greece, Private Tour for Rhodes Water Park '
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Rhodes Custom Tours
+  abstract: Water Park Faliraki Rhodes Greece
 title: The Water Park in Faliraki Rhodes Greece
 summary: The Water Park in Rhodes is one of the largest in Europe and has been designed
   with all the latest facilities. The Water Park in Rhodes offers remarkable and spectacular
@@ -24,15 +24,21 @@ sections:
     - thumb: img/water_park/water_park_1_small.jpg
       href: img/water_park/water_park_1.jpg
       alt: Rhodes Custom Tours, Rhodes Water Park
+      caption: ''
     - thumb: img/water_park/water_park_2_small.jpg
       href: img/water_park/water_park_2.jpg
       alt: Rhodes Custom Tailored Tours, Water Park
+      caption: ''
     - thumb: img/water_park/water_park_3_small.jpg
       href: img/water_park/water_park_3.jpg
       alt: Rhodes Private Custom Tours, Water Park
+      caption: ''
     - thumb: img/water_park/water_park_4_small.jpg
       href: img/water_park/water_park_4.jpg
       alt: Custom Tours in Rhodes , Water Park
+      caption: ''
+  title: ''
+  desc: ''
 - desc: It also features a selection of snack bars as well as a souvenir shop, shower
     rooms and changing cabins. Guests pay direct on site for any food and drinks purchased
     and food or drinks from outside the park may not be consumed on site.
@@ -41,15 +47,20 @@ sections:
     - thumb: img/water_park/water_park_5_small.jpg
       href: img/water_park/water_park_5.jpg
       alt: Private Custom Tours in Rhodes, Water Park
+      caption: ''
     - thumb: img/water_park/water_park_6_small.jpg
       href: img/water_park/water_park_6.jpg
       alt: Rhodes Private Custom Tours, Water Park
+      caption: ''
     - thumb: img/water_park/water_park_7_small.jpg
       href: img/water_park/water_park_7.jpg
       alt: Rhodes Custom Tailored Tours, Water Park
+      caption: ''
     - thumb: img/water_park/water_park_8_small.jpg
       href: img/water_park/water_park_8.jpg
       alt: Rhodes Custom Tours, Rhodes Water Park
+      caption: ''
+  title: ''
 subtitle: ''
 related_tours: []
 end_page:

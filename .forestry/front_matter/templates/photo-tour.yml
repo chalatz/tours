@@ -150,6 +150,7 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/links/parks-natural-beauty/water-park.md
 - es_pages/quick-facts/cuisine.md
 - es_pages/links/juderia.md
 - pages/links/ancient-sites/monolithos.md
@@ -174,7 +175,6 @@ pages:
 - pages/links/historical-sites/italian-architecture.md
 - pages/links/historical-sites/byzantine-monuments.md
 - pages/links/museums-art-galleries/bee_museum.md
-- pages/links/parks-natural-beauty/water-park.md
 - pages/links/juderia.md
 - pages/links/historical-sites/west-coast.md
 - pages/links/parks-natural-beauty/ostrich-farm.md
