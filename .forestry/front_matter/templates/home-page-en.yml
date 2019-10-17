@@ -1,0 +1,146 @@
+---
+label: Home page en
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: type
+  label: type
+  hidden: true
+- type: text
+  name: id
+  label: id
+  hidden: true
+- type: text
+  name: permalink
+  label: permalink
+  hidden: true
+- type: boolean
+  name: has_form
+  label: has_form
+  hidden: true
+- type: boolean
+  name: has_gallery
+  label: has_gallery
+  hidden: true
+- type: boolean
+  name: trip_advisor_alt
+  label: trip_advisor_alt
+  hidden: true
+- type: text
+  name: lang
+  label: lang
+  hidden: true
+- type: text
+  name: ref
+  label: ref
+  hidden: true
+- type: field_group
+  name: meta
+  label: meta
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: http_desc
+    label: http_desc
+  - type: textarea
+    name: description
+    label: description
+    config:
+      wysiwyg: false
+      schema:
+        format: markdown
+  - type: textarea
+    name: keywords
+    label: keywords
+  - type: text
+    name: abstract
+    label: abstract
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: copyright
+    label: copyright
+- type: field_group
+  name: maximize
+  label: maximize
+  fields:
+  - type: text
+    name: keyword
+    label: keyword
+    hidden: true
+  - type: textarea
+    name: text
+    label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+- type: field_group
+  name: our_goal
+  label: our_goal
+  fields:
+  - type: text
+    name: keyword
+    label: keyword
+    hidden: true
+  - type: field_group
+    name: title
+    label: title
+    fields:
+    - type: field_group_list
+      name: lines
+      label: lines
+      fields:
+      - type: text
+        name: line
+        label: line
+  - type: textarea
+    name: description
+    label: description
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: text
+    name: end_message
+    label: end_message
+- type: field_group
+  name: not_finding
+  label: not_finding
+  fields:
+  - type: text
+    name: keyword
+    label: keyword
+    hidden: true
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: text
+    name: contact_us_button_text
+    label: contact_us_button_text
+- type: field_group
+  name: end_page
+  label: end_page
+  fields:
+  - type: textarea
+    name: long_text
+    label: long_text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: text
+    name: short_text
+    label: short_text
+pages:
+- index.md
