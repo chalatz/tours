@@ -94,7 +94,7 @@ fields:
   label: End page
   template: end-page
 pages:
-- pages/tours-pages/guided.md
 - pages/tours-pages/driving.md
+- pages/tours-pages/guided.md
 - pages/quick-facts/history-of-rhodes.md
 - pages/tours-pages/walking.md
