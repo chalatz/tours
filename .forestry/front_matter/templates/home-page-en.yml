@@ -5,30 +5,39 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: type
   label: type
+  hidden: true
 - type: text
   name: id
   label: id
+  hidden: true
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: boolean
   name: has_form
   label: has_form
+  hidden: true
 - type: boolean
   name: has_gallery
   label: has_gallery
+  hidden: true
 - type: boolean
   name: trip_advisor_alt
   label: trip_advisor_alt
+  hidden: true
 - type: text
   name: lang
   label: lang
+  hidden: true
 - type: text
   name: ref
   label: ref
+  hidden: true
 - type: field_group
   name: meta
   label: meta
@@ -42,6 +51,10 @@ fields:
   - type: textarea
     name: description
     label: description
+    config:
+      wysiwyg: false
+      schema:
+        format: markdown
   - type: textarea
     name: keywords
     label: keywords
@@ -61,9 +74,14 @@ fields:
   - type: text
     name: keyword
     label: keyword
+    hidden: true
   - type: textarea
     name: text
     label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 - type: field_group
   name: our_goal
   label: our_goal
@@ -71,6 +89,7 @@ fields:
   - type: text
     name: keyword
     label: keyword
+    hidden: true
   - type: field_group
     name: title
     label: title
@@ -85,6 +104,10 @@ fields:
   - type: textarea
     name: description
     label: description
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: text
     name: end_message
     label: end_message
@@ -95,6 +118,7 @@ fields:
   - type: text
     name: keyword
     label: keyword
+    hidden: true
   - type: text
     name: title
     label: title
@@ -111,6 +135,10 @@ fields:
   - type: textarea
     name: long_text
     label: long_text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: text
     name: short_text
     label: short_text
