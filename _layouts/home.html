@@ -53,22 +53,22 @@ layout: default
             {%- for tour in site.data.guided_tours.items -%}
                 {%- if tour.home_page == true -%}
                     <div class="private-tours-suggestions__item">
-                            <a class="private-tours-suggestions__img-link" href="{{- tour.url -}}">
-                                <img src="{{- tour.img -}}" alt="" class="private-tours-suggestions__img private-tours-suggestions__img--guided">
-                            </a>
-                            <div class="private-tours-suggestions__item-content">
-                                <p>
-                                    <a class="private-tours-suggestions__link private-tours-suggestions__link--guided" href="{{- tour.url -}}">
-                                        {{- tour.name | upcase -}}
-                                    </a>                            
-                                </p>
-                                <p>
-                                    {{ tour.desc }}
-                                </p>
-                                <p>
-                                    {{ tour.duration }}
-                                </p>
-                            </div>
+                        <a class="private-tours-suggestions__img-link" href="{{- tour.url -}}">
+                            <img src="{{- tour.img -}}" alt="" class="private-tours-suggestions__img private-tours-suggestions__img--guided">
+                        </a>
+                        <div class="private-tours-suggestions__item-content">
+                            <p>
+                                <a class="private-tours-suggestions__link private-tours-suggestions__link--guided" href="{{- tour.url -}}">
+                                    {{- tour.name | upcase -}}
+                                </a>                            
+                            </p>
+                            <p>
+                                {{ tour.desc }}
+                            </p>
+                            <p>
+                                {{ tour.duration }}
+                            </p>
+                        </div>
                     </div>
                 {%- endif -%}                        
             {%- endfor -%}            
