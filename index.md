@@ -10,9 +10,14 @@ lang: en
 ref: home
 meta:
   title: RHODES PRIVATE TOURS - Original Site by Nicholas A. Rhodes.
-  http_desc: RHODES PRIVATE TOURS - Original Site by Nicholas A. Rhodes, Rhodes Shore Excursions, Private Day Tours, Sightseeing group tours, Rhodes Taxi Tours, Rhodes Allure Tours, VIP Tour Services and custom city tours of Rhodes Island Greece
-  description: RHODES PRIVATE TOURS - Original Site by Nicholas A. Rhodes, Shore Excursions, Private Day Tours, Rhodes Allure Tours, Rhodes Taxi Tours
-  keywords: Rhodes, Private, Tours, Original Site by Nicholas A. Rhodes, shore, excursions, day tours, allure tours, taxi tours, driving, guided, walking, customized, tailored, executive, accessible, limo ,VIP services, island tour
+  http_desc: RHODES PRIVATE TOURS - Original Site by Nicholas A. Rhodes, Rhodes Shore
+    Excursions, Private Day Tours, Sightseeing group tours, Rhodes Taxi Tours, Rhodes
+    Allure Tours, VIP Tour Services and custom city tours of Rhodes Island Greece
+  description: RHODES PRIVATE TOURS - Original Site by Nicholas A. Rhodes, Shore Excursions,
+    Private Day Tours, Rhodes Allure Tours, Rhodes Taxi Tours
+  keywords: Rhodes, Private, Tours, Original Site by Nicholas A. Rhodes, shore, excursions,
+    day tours, allure tours, taxi tours, driving, guided, walking, customized, tailored,
+    executive, accessible, limo ,VIP services, island tour
   abstract: RHODES PRIVATE TOURS - Original Site by Nicholas A. Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
@@ -41,10 +46,11 @@ not_finding:
   subtitle: No problem, we can create and customize a personalized itinerary for you.
     Tell us about your Tour!
   contact_us_button_text: CONTACT US
-
 end_page:
-  long_text: |-
-    **"Rhodes Private Tours"** is a Provider of Exclusive and Personalized Tour Experiences. We deliver Private Sightseeing tours at very affordable rates. All our tours are fully customizable to suit your travel needs, interests, schedules, and dates.
-  short_text: 'Experts in Private Tours of Rhodes'  
+  long_text: '**"Rhodes Private Tours"** is a Provider of Exclusive and Personalized
+    Tour Experiences. We deliver Private Sightseeing tours at very affordable rates.
+    All our tours are fully customizable to suit your travel needs, interests, schedules,
+    and dates.'
+  short_text: Experts in Private Tours of Rhodes
 
 ---

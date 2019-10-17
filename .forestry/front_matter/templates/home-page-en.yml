@@ -142,3 +142,5 @@ fields:
   - type: text
     name: short_text
     label: short_text
+pages:
+- index.md
