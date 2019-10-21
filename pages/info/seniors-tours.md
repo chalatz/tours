@@ -9,15 +9,18 @@ banners_2: true
 has_form: false
 has_gallery: false
 meta:
-  title: 'SENIORS TOURS IN RHODES, Seniors Private Tour in Rhodes'
-  http_desc: 'Seniors Tours in Rhodes, Seniors Private Tour in Rhodes Greece'
-  description: 'Seniors Tours in Rhodes, Seniors Private Tour in Rhodes Greece'
-  keywords: 'Seniors Tours in Rhodes, Seniors Private Tour in Rhodes Greece'
-  abstract: 'Seniors Tours in Rhodes, Seniors Private Tour in Rhodes Greece'
+  title: 'RHODES TOURS FOR SENIORS, Seniors Private Tour in Rhodes'
+  http_desc: 'RHODES TOURS FOR SENIORS, No Extensive Walking, Seniors Private Tour in Rhodes Greece'
+  description: 'RHODES TOURS FOR SENIORS, No Extensive Walking, Seniors Private Tour in Rhodes Greece'
+  keywords: 'RHODES TOURS FOR SENIORS, No Extensive Walking, Seniors Private Tour in Rhodes Greece'
+  abstract: 'RHODES TOURS FOR SENIORS, No Extensive Walking, Seniors Private Tour in Rhodes Greece'
   author: 'Nick'
   copyright: 'NK for Rhodes Private Tours,2018'
 
-title: 'SENIORS TOURS IN RHODES'
+title: 'RHODES TOURS FOR SENIORS'
+
+subtitle: 'Rhodes tours that do not require extensive walking'
+subtitle_text_transform: none 
 
 head_photo:
   src: './img/tours-pages/head-photos/head-photo-group-tours.jpg'

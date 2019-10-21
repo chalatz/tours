@@ -21,7 +21,11 @@ layout: default
 
       {%- if page.subtitle -%}
         <h2 class="page__subtitle page__subtitle--{{ page.id }}">
-          {{- page.subtitle | upcase -}}
+          {%- if page.subtitle_text_transform == 'none' -%}
+            {{- page.subtitle -}}
+          {%- else -%}
+            {{- page.subtitle | upcase -}}
+          {%- endif -%}
         </h2>  
       {%- endif -%}
 

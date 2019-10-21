@@ -65,11 +65,11 @@
             font-weight: normal;
         }
     }
-
+    
     &__subtitle {
         font-size: 1.35rem;
         color: $darkergray;
-
+        
         &--general {
             font-size: 1.5rem;
         }
@@ -90,6 +90,10 @@
         }
         &--reviews-comments_page {
             font-size: 1.2rem;
+        }
+        &--seniors_tours_page {
+            font-weight: normal;
+            font-size: 1.3rem;
         }
     }
     
