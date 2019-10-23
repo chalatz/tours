@@ -25,6 +25,8 @@ $driving: #0070c0;
 $guided: #7030a0;
 $walking: #4c7430;
 
+$logo_red: #e3322a;
+
 @mixin breakpoint($point) {
   @if $point == larger {
     @media (min-width: 1200px) { @content; }

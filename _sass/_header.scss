@@ -85,6 +85,13 @@
             }
         }
 
+        &--subtitle-primary {
+            color: $logo_red;
+            &:hover {
+                color: lighten($logo_red, 10%);
+            }
+        }
+
         &--subtitle-inline {
             display: block;
             padding: .3rem 0;

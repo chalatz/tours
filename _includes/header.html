@@ -9,7 +9,7 @@
   <a href="{{- site.data.langs[page.lang].home_page.url -}}" class="site-logo site-header__item" title="Rhodes Private Tours and Shore Excursions">
       <!-- <span class='site-logo__item site-logo__item--title'>Rhodes Private Tours</span> -->
       {%- include helpers/check_empty_string.html the_string = page.start_page.title -%}
-      <span class='site-logo__item site-logo__item--subtitle'>
+      <span class='site-logo__item site-logo__item--subtitle site-logo__item--subtitle-primary'>
         {%- if page.start_page.title and string_not_empty -%}
             {{- page.start_page.title -}}
         {%- else -%}
