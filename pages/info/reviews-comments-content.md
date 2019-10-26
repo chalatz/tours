@@ -19,10 +19,10 @@ reviews:
   text: "Nicholas, we enjoyed the tour immensely!  What a beautiful island with so
     much history.  Emmanuel did a fantastic job of showing us the highlights we wanted
     to see in the time available.  He was very personable and knowledgeable and spoke
-    excellent English.  He is the consummate professional tour driver. <br>  Thanks
-    for your excellent service.  Wayne (Oct 22nd)  whjmej@cox.net\n\nHi Nicholas The
-    tour was great. Michael did a great job with the tour, while giving us some of
-    our own time to explore. Your island was a great surprise to us because we underestimated
+    excellent English.  He is the consummate professional tour driver. Thanks for
+    your excellent service.  Wayne (Oct 22nd)  whjmej@cox.net\n\nHi Nicholas The tour
+    was great. Michael did a great job with the tour, while giving us some of our
+    own time to explore. Your island was a great surprise to us because we underestimated
     the beauty and its sights. I see why your tours get great reviews. <br> \nRegards
     Jeffrey  (Oct 20th) jeff354@optonline.net\n\nHello Nicholas and Michael, I just
     submitted a review of 5 stars for you.  It was such a nice experience to see Rhodes
