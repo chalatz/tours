@@ -28,42 +28,41 @@ reviews:
     submitted a review of 5 stars for you.  It was such a nice experience to see Rhodes
     as a local with Michael. We all agreed Rhodes was the favorite island we visited.
     In fact one lady who was traveling with me decided she wants to come back and
-    stay a few months maybe next year. So you may see some of us again! <br> \nThanks
-    so much for a lovely visit to your island home. <br> \nJoyce, Phillip, Sabrina,
-    Adrienne     Joyce (Oct 19th) soprasorrento@gmail.com\n\nThank you for the business
-    you provide and Dominic did a wonderful job. As I told him, he is perfect for
-    that position. He had my dad laughing like I have not seen in a while.  We were
-    very pleased and when I have a good internet connection, I will definitely write
-    a review on trip advisor and your site. <br> \nBlessings to you and your great
-    crew, Jenny (Oct 19th) jennydmt@yahoo.com \n\nHi Nicholas, Thank you for arranging
-    a wonderful day, Roberto and I really enjoyed our day in Rhodes very much and
-    loved each and every stop!  Our experience was thanks to Mike as well, he was
-    extremely kind, knowledgeable and took his time to explain the sights and give
-    us great suggestions.  He was also a really good driver and made the trip very
-    comfortable. If I have the opportunity to visit Rhodes again, I would absolutely
-    go on this trip again and request Mike as the driver. :)  I would also definitely
-    recommend your services without a doubt to other people.<br>\nKeep up the great
-    work!  Kind regards, Janet (Oct 18th)  janezita45@gmail.com>\n\nNicholas Thank
-    you very much!!!  Everything was perfect and we enjoyed the whole day. Michael
-    is great and we had so much fun with him.  I'm adding a screen shot of the review
-    I published in TripAdvisor. <br>\nThank's again for everything. I'm sure we'll
-    meet again.  (Oct 17th) Keren kerenisc@gmail.com\n\nNicholas: Thank you for the
-    tour. Rhodes was the highlight of our trip, and the tour with you was a large
-    part of that.<br>\nBill wbleibdrey@gmail.com>\n\nThank you very much for two wonderful
-    tours.  We really enjoyed both guides and learned so much.  The service, knowledge
-    and professionalism was amazing. We are so glad that we used your services<br>\nBest
-    Linda (Oct 13th)  ltbcpa@gmail.com\n\nGood Day, We really enjoyed the tour - the
-    driver Michael was exceptional in his knowledge and overall delivery. All was
-    perfect!<br>  ​\nHelene & Romeo (Oct 12th) helenehemon@hotmail.com\n\nHi Nicholas,
-    Thanks for the great service! Mike is awesome! We will definitely engage your
-    service for more tours the next time we are back!<br>\nCheers, Brenda (Oct 10th)
-    bren.lizzie@gmail.com\n\nHi Nicholas we had an amazing day and Kostas was the
-    best guide we've had on this trip.  We feel very lucky to have him as our guide.
-    \ This was our first time to Greece and Rhodes was our favourite of the 4 islands
-    we visited.  It was a truly memorable day.  Your teams attention to detail is
-    superb.  I plan to write a review on trip advisor when we get home.  I hope to
-    return to Rhodes again and will definitely contact you if we are lucky enough
-    to get that opportunity.<br>\nAll the best,  Lynda  (Oct 9th) lyndapedersen1962@gmail.com\n\nNicholas,
+    stay a few months maybe next year. So you may see some of us again!  Thanks so
+    much for a lovely visit to your island home. <br> \nJoyce, Phillip, Sabrina, Adrienne.
+    \ (Oct 19th) soprasorrento@gmail.com\n\nThank you for the business you provide
+    and Dominic did a wonderful job. As I told him, he is perfect for that position.
+    He had my dad laughing like I have not seen in a while.  We were very pleased
+    and when I have a good internet connection, I will definitely write a review on
+    trip advisor and your site. <br> \nBlessings to you and your great crew, Jenny
+    (Oct 19th) jennydmt@yahoo.com \n\nHi Nicholas, Thank you for arranging a wonderful
+    day, Roberto and I really enjoyed our day in Rhodes very much and loved each and
+    every stop!  Our experience was thanks to Mike as well, he was extremely kind,
+    knowledgeable and took his time to explain the sights and give us great suggestions.
+    \ He was also a really good driver and made the trip very comfortable. If I have
+    the opportunity to visit Rhodes again, I would absolutely go on this trip again
+    and request Mike as the driver. :)  I would also definitely recommend your services
+    without a doubt to other people.<br>\nKeep up the great work!  Kind regards, Janet
+    (Oct 18th)  janezita45@gmail.com>\n\nNicholas Thank you very much!!!  Everything
+    was perfect and we enjoyed the whole day. Michael is great and we had so much
+    fun with him.  I'm adding a screen shot of the review I published in TripAdvisor.
+    <br>\nThank's again for everything. I'm sure we'll meet again.  (Oct 17th) Keren
+    kerenisc@gmail.com\n\nNicholas: Thank you for the tour. Rhodes was the highlight
+    of our trip, and the tour with you was a large part of that.<br>\nBill wbleibdrey@gmail.com>\n\nThank
+    you very much for two wonderful tours.  We really enjoyed both guides and learned
+    so much.  The service, knowledge and professionalism was amazing. We are so glad
+    that we used your services<br>\nBest Linda (Oct 13th)  ltbcpa@gmail.com\n\nGood
+    Day, We really enjoyed the tour - the driver Michael was exceptional in his knowledge
+    and overall delivery. All was perfect!<br>  ​\nHelene & Romeo (Oct 12th) helenehemon@hotmail.com\n\nHi
+    Nicholas, Thanks for the great service! Mike is awesome! We will definitely engage
+    your service for more tours the next time we are back!<br>\nCheers, Brenda (Oct
+    10th) bren.lizzie@gmail.com\n\nHi Nicholas we had an amazing day and Kostas was
+    the best guide we've had on this trip.  We feel very lucky to have him as our
+    guide.  This was our first time to Greece and Rhodes was our favourite of the
+    4 islands we visited.  It was a truly memorable day.  Your teams attention to
+    detail is superb.  I plan to write a review on trip advisor when we get home.
+    \ I hope to return to Rhodes again and will definitely contact you if we are lucky
+    enough to get that opportunity.<br>\nAll the best,  Lynda  (Oct 9th) lyndapedersen1962@gmail.com\n\nNicholas,
     \ We had a wonderful tour with Yannis and Mike and I have given you a very positive
     review on TripAdvisor. I was in the car with Yannis and found him very interesting
     on all sites of subjects. You certainly gave us a great driver who I would ask
