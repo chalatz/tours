@@ -16,20 +16,35 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2019"
-  text: "Thank you for the business you provide and Dominic did a wonderful job. As
-    I told him, he is perfect for that position. He had my dad laughing like I have
-    not seen in a while.  We were very pleased and when I have a good internet connection,
-    I will definitely write a review on trip advisor and your site. <br> \nBlessings
-    to you and your great crew, Jenny (Oct 19th) jennydmt@yahoo.com \n\nHi Nicholas,
-    Thank you for arranging a wonderful day, Roberto and I really enjoyed our day
-    in Rhodes very much and loved each and every stop!  Our experience was thanks
-    to Mike as well, he was extremely kind, knowledgeable and took his time to explain
-    the sights and give us great suggestions.  He was also a really good driver and
-    made the trip very comfortable. If I have the opportunity to visit Rhodes again,
-    I would absolutely go on this trip again and request Mike as the driver. :)  I
-    would also definitely recommend your services without a doubt to other people.<br>\nKeep
-    up the great work!  Kind regards, Janet (Oct 18th)  janezita45@gmail.com>\n\nNicholas
-    Thank you very much!!!  Everything was perfect and we enjoyed the whole day. Michael
+  text: "Nicholas, we enjoyed the tour immensely!  What a beautiful island with so
+    much history.  Emmanuel did a fantastic job of showing us the highlights we wanted
+    to see in the time available.  He was very personable and knowledgeable and spoke
+    excellent English.  He is the consummate professional tour driver. <br>  Thanks
+    for your excellent service.  Wayne (Oct 22nd)  whjmej@cox.net\n\nHi Nicholas The
+    tour was great. Michael did a great job with the tour, while giving us some of
+    our own time to explore. Your island was a great surprise to us because we underestimated
+    the beauty and its sights. I see why your tours get great reviews. <br> \nRegards
+    Jeffrey  (Oct 20th) jeff354@optonline.net\n\nHello Nicholas and Michael, I just
+    submitted a review of 5 stars for you.  It was such a nice experience to see Rhodes
+    as a local with Michael. We all agreed Rhodes was the favorite island we visited.
+    In fact one lady who was traveling with me decided she wants to come back and
+    stay a few months maybe next year. So you may see some of us again! <br> \nThanks
+    so much for a lovely visit to your island home. <br> \nJoyce, Phillip, Sabrina,
+    Adrienne     Joyce (Oct 19th) soprasorrento@gmail.com\n\nThank you for the business
+    you provide and Dominic did a wonderful job. As I told him, he is perfect for
+    that position. He had my dad laughing like I have not seen in a while.  We were
+    very pleased and when I have a good internet connection, I will definitely write
+    a review on trip advisor and your site. <br> \nBlessings to you and your great
+    crew, Jenny (Oct 19th) jennydmt@yahoo.com \n\nHi Nicholas, Thank you for arranging
+    a wonderful day, Roberto and I really enjoyed our day in Rhodes very much and
+    loved each and every stop!  Our experience was thanks to Mike as well, he was
+    extremely kind, knowledgeable and took his time to explain the sights and give
+    us great suggestions.  He was also a really good driver and made the trip very
+    comfortable. If I have the opportunity to visit Rhodes again, I would absolutely
+    go on this trip again and request Mike as the driver. :)  I would also definitely
+    recommend your services without a doubt to other people.<br>\nKeep up the great
+    work!  Kind regards, Janet (Oct 18th)  janezita45@gmail.com>\n\nNicholas Thank
+    you very much!!!  Everything was perfect and we enjoyed the whole day. Michael
     is great and we had so much fun with him.  I'm adding a screen shot of the review
     I published in TripAdvisor. <br>\nThank's again for everything. I'm sure we'll
     meet again.  (Oct 17th) Keren kerenisc@gmail.com\n\nNicholas: Thank you for the
