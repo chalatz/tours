@@ -32,6 +32,20 @@
 
 .reviews-comments {
 
+    .page__headings {
+        color: $blue_alt;
+    }
+    
+    .page__title,
+    .page__subtitle {
+        color: $blue_alt;
+        text-shadow: none;
+    }
+
+    .page__content {
+        color: $blue_alt;
+    }
+
     &__years-list {
         text-align: center;
         &-item {
