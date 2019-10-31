@@ -48,15 +48,26 @@
 
     &__years-list {
         text-align: center;
+        padding-top: 2rem;
         &-item {
             display: inline-block;
-            margin: 0 .5rem;
+            margin: 0 .5rem 1rem .5rem;
             line-height: 2;
         }
         &-link {
             font-size: 1.1rem;
-            color: $darkgray;
+            text-decoration: none;
+            padding: 3px 12px;
             font-weight: bold;
+            color: $blue_alt;
+            border: 2px solid $blue_alt;
+            border-radius: 4px;
+            transition: all .1s linear;
+            &:hover {
+                color: #fff !important;
+                background-color: $red;
+                border-color: $red;
+            }
         }
     }
 
