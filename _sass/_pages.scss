@@ -188,3 +188,14 @@
     background-color: #fff;
     padding-bottom: 0;
 }
+
+.page--contact-us {
+    .page__headings {
+        color: $blue_alt;
+        .page__title,
+        .page__subtitle {
+            color: $blue_alt;
+            text-shadow: none;
+        }
+    }
+}

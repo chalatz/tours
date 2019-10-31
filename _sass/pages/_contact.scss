@@ -5,13 +5,22 @@
     }
 
     &__content {
-        color: $darkishblue;
+        color: $blue_alt;
         font-weight: 500;
         p {
             line-height: 1.8;
         }
         &.cols {
             padding-bottom: 1rem;
+        }
+        .col-of-3 {
+            display: block;
+            text-align: center;
+            width: 100%;
+            @include breakpoint(large) {
+                width: 33%;
+                text-align: left;
+            }
         }
     }
 
