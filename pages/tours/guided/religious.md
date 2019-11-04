@@ -60,68 +60,71 @@ details:
     desc: Cruise Port / Hotel / Airport (Meeting point varies depending on option booked)
 gallery:
   group_1:
-  - thumb: "./img/tours/guided/01/1-thumb.jpg"
-    href: "./img/tours/guided/01/1.jpg"
-    alt: Best Rhodes attractions, Rhodes Tours
+  - thumb: "./img/tours/guided/10/1AA-thumb.jpg"
+    href: "./img/tours/guided/10/1AA.jpg"
+    alt: St Mary Icon - Christian religious tour in Rhodes Greece
+    position: first
+  - thumb: "./img/tours/guided/10/2AA-thumb.jpg"
+    href: "./img/tours/guided/10/2AA.jpg"
+    alt: Byzantine Art - religious tours in Rhodes island
     position: following
-  - thumb: "./img/tours/guided/01/2-thumb.jpg"
-    href: "./img/tours/guided/01/2.jpg"
-    alt: Rhodes best attractions, Rhodes Tours
+  - thumb: "./img/tours/guided/10/3AA-thumb.jpg"
+    href: "./img/tours/guided/10/3AA.jpg"
+    alt: Our Lady of Victory - biblical tours of Rhodes
     position: following
-  - thumb: "./img/tours/guided/01/3-thumb.jpg"
-    href: "./img/tours/guided/01/3.jpg"
-    alt: Rhodes allure attractions, Rhodes allure tours
+  - thumb: "./img/tours/guided/10/4AA-thumb.jpg"
+    href: "./img/tours/guided/10/4AA.jpg"
+    alt: Orthodox Art - Rhodes Greece in the bible
     position: following
-  - thumb: "./img/tours/guided/01/4-thumb.jpg"
-    href: "./img/tours/guided/01/4.jpg"
-    alt: Best destinations on Rhodes, Tours of Rhodes
+  - thumb: "./img/tours/guided/10/5AA-thumb.jpg"
+    href: "./img/tours/guided/10/5AA.jpg"
+    alt: St Paul - biblical sites in Rhodes Greece
     position: following
-  - thumb: "./img/tours/guided/01/5-thumb.jpg"
-    href: "./img/tours/guided/01/5.jpg"
-    alt: Rhodes best destinations, Rhodes Tours
-    position: following
+
   group_2:
-  - thumb: "./img/tours/guided/01/6-thumb.jpg"
-    href: "./img/tours/guided/01/6.jpg"
-    alt: Top destinations Rhodes tours, private tours
+  - thumb: "./img/tours/guided/10/6AA-thumb.jpg"
+    href: "./img/tours/guided/10/6AA.jpg"
+    alt: St Panteleimonas - Rhodes Greece in the bible
     position: first
-  - thumb: "./img/tours/guided/01/7-thumb.jpg"
-    href: "./img/tours/guided/01/7.jpg"
-    alt: Top Attractions of Rhodes, Best Tours of Rhodes
+  - thumb: "./img/tours/guided/10/7AA-thumb.jpg"
+    href: "./img/tours/guided/10/7AA.jpg"
+    alt: Santa Maria Della Vittoria - Christian Rhodes tours
     position: following
-  - thumb: "./img/tours/guided/01/8-thumb.jpg"
-    href: "./img/tours/guided/01/8.jpg"
-    alt: Best attractions in Rhodes, Rhodes Tours
+  - thumb: "./img/tours/guided/10/8AA-thumb.jpg"
+    href: "./img/tours/guided/10/8AA.jpg"
+    alt: The Way of the Cross - Christian tour in Rhodes
     position: following
-  - thumb: "./img/tours/guided/01/9-thumb.jpg"
-    href: "./img/tours/guided/01/9.jpg"
-    alt: Top destinations on Rhodes, Rhodes best tours
+  - thumb: "./img/tours/guided/10/9AA-thumb.jpg"
+    href: "./img/tours/guided/10/9AA.jpg"
+    alt: Monastery Kalopetras - Religious Tour of Rhodes
     position: following
-  - thumb: "./img/tours/guided/01/10-thumb.jpg"
-    href: "./img/tours/guided/01/10.jpg"
-    alt: Best attractions and destinations on Rhodes
+  - thumb: "./img/tours/guided/10/10AA-thumb.jpg"
+    href: "./img/tours/guided/10/10AA.jpg"
+    alt: Filerimos Monastery - Christian Tours in Rhodes
     position: following
+
   group_3:
-  - thumb: "./img/tours/guided/01/11-thumb.jpg"
-    href: "./img/tours/guided/01/11.jpg"
-    alt: Attractions in Rhodes Greece, Rhodes Tours
+  - thumb: "./img/tours/guided/10/II1-thumb.jpg"
+    href: "./img/tours/guided/10/II1.jpg"
+    alt: Panoramic view of the west coast of Rhodes island
     position: first
-  - thumb: "./img/tours/guided/01/12-thumb.jpg"
-    href: "./img/tours/guided/01/12.jpg"
-    alt: Best attractions on Rhodes Greece, Rhodes Private Tours
+  - thumb: "./img/tours/guided/10/II2-thumb.jpg"
+    href: "./img/tours/guided/10/II2.jpg"
+    alt: Panoramic view of Rhodes Town
     position: following
-  - thumb: "./img/tours/guided/01/13-thumb.jpg"
-    href: "./img/tours/guided/01/13.jpg"
-    alt: Best destinations on Rhodes Greece, Tours on Rhodes
+  - thumb: "./img/tours/guided/10/II3-thumb.jpg"
+    href: "./img/tours/guided/10/II3.jpg"
+    alt: The Cross on Filerimos Hill
     position: following
-  - thumb: "./img/tours/guided/01/14-thumb.jpg"
-    href: "./img/tours/guided/01/14.jpg"
-    alt: Top Rhodes tours and destinations
+  - thumb: "./img/tours/guided/10/II4-thumb.jpg"
+    href: "./img/tours/guided/10/II4.jpg"
+    alt: Panoramic view of the west coast from the Cross on Filerimos
     position: following
-  - thumb: "./img/tours/guided/01/15-thumb.jpg"
-    href: "./img/tours/guided/01/15.jpg"
-    alt: Top Rhodes tours and attractions
+  - thumb: "./img/tours/guided/10/II5-thumb.jpg"
+    href: "./img/tours/guided/10/II5.jpg"
+    alt: Panoramic view from the Cross on Filerimos
     position: following
+
 
 body:
 - text: |-
@@ -152,62 +155,15 @@ body:
 
 faq:
   items:
-  - q: Does the tour give us time to stop and take photos as well as to truly appreciate
-      the beauty of the island?
-    a: Yes, there is plenty of time, and you will find that you can look around and
-      take photos pretty comfortably. This is because as long as you remain within
-      25-50 feet of the tour guide, you’ll be able to hear him through your special
-      headsets. The tour guide also has enough experience to adjust the tour as you
-      pass each landmark. So, you should be completely fine all the way.
-  - q: We are two persons but would love to have a driver and a licensed tour guide.  Is
-      it compulsory a minimum number of passengers?
-    a: 'No. The tour is private and sufficient even with one person. '
-  - q: There are four more people would like to join the tour with us, can we add
-      them to our group?
-    a: Any last-minute additions to the number of passengers must be submitted at
-      least 24 hours in advance so we can check for availability and update your reservation.
-      In order to comply with Port Authority and Security, we provide the tour only
-      for the number of passengers declared in the reservation.
-  - q: What is the cost to enter the Acropolis of Lindos?
-    a: Adults must pay 12 Euros per person; seniors pay half of that, which amounts
-      to 6 Euros, and the entrance is free for children under 18 years of age. Lindos
-      Village doesn’t have an entrance fee at all.
-  - q: If some of us don’t want to climb the Acropolis, is it feasible to take photos
-      from the bottom? For those of us that do, are there handrails?
-    a: The stairs are mostly safe and secure. The risers are 5-7 inches, and the treads
-      measure about 18-24 inches. These aren’t your typical stairs, and there aren’t
-      any handrails to support you on either side. You can take pictures of the hillside
-      if you decide not to go, but the truly great views are at the top.
-  - q: Each of our 16 members may not be interested in climbing to the Acropolis.
-      What are they to do?
-    a: The members that want to climb can go with our tour guide, and the rest can
-      explore Lindos village by themselves. The two groups can meet at a prearranged
-      place and time.
-  - q: How long is the stay in Lindos and how long will the climb to the Acropolis
-      take?
-    a: The tour stays there for approximately 90 minutes, but it can vary depending
-      on the time guests take to enjoy Lindos. (In case you need to spend more time
-      in Lindos we need advance notice, on time of booking, as we must adjust the
-      tour to your needs and wishes)
-  - q: My 84 year old grandmother is along for the trip. Are there any options for
-      her while my son climbs to the Acropolis of Lindos?
-    a: There is a café just outside the village that offers an enchanting view of
-      the white village and the Acropolis. We can drive her there for a drink and
-      relaxation. You may also look at our tours for <a href="./seniors-tours-in-rhodes.htm">Seniors</a>
-      in Rhodes
-  - q: How near is the ship from the Palace of Grand Master and the Archaeological
-      Museum?
-    a: It’s ten minutes away, but you can take as long as you wish, enjoying the sights
-      of the Old Town.
-  - q: What are the scrumptious delicacies Rhodes is famous for? What shouldn’t we
-      miss?
-    a: The great <a href="./rhodes_wine_tours_wineries_greece.htm">wines</a> and <a
-      href="./food_greece_menus_meals_cuisine.htm">traditional food</a> at Rhodes
-      is worth every cent. The famous <a href="./handmade_pottery_greece.htm">pottery,
-      ceramics</a>, and the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
-      Beaches</a></span>
-  - q: I have read some of the reviews, so I’m sure we’ll have fun.
-    a: We certainly hope so!
+  - q: Does the tour give us time to stop and take photos as well as to appreciate the Christian art and architecture?
+    a: Yes, there is plenty of time, and you will find that you can look around and take photos pretty comfortably. This is because as long as you remain within 25-50 feet of the tour guide, you’ll be able to hear him through your special headsets, so you should be completely fine all the way.
+  - q: How much are the entrance fees on this tour?
+    a: The only entrance fee is to Monastery of Filerimos, 6 euro per person. <a href="./seniors-tours-in-rhodes.htm">Seniors</a> (with Id or Passport) 3 Euros / person
+  - q: Can we add other sites, or customize this tour?
+    a: Yes, all the tours are customizable. Just let us know the sites you wish to visit and we’ll plan a custom private tour for you.
+  - q: How near is the ship from the Church of St Panteleimonas?
+    a: It’s 5 minutes away, but you can take as long as you wish, enjoying the sights of the Old Town.
+  
 included:
   items:
   - text: Private Tour (just your party)
@@ -225,11 +181,5 @@ included:
 not_included:
   items:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
-end_page:
-  long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
-    Tour Experiences. We deliver Top Attractions Tours at very affordable rates. All
-    our tours are fully customizable to suit your travel needs, interests, schedules,
-    and dates."
-  short_text: Experts in Rhodes Top Attractions
 
 ---
