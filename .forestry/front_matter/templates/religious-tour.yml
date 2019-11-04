@@ -1,0 +1,332 @@
+---
+label: religious tour
+hide_body: true
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: true
+  default: ''
+- name: id
+  label: Id
+  type: text
+  hidden: true
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: true
+  default: ''
+- name: has_form
+  label: Has form
+  type: boolean
+  hidden: true
+  default: ''
+- name: has_gallery
+  label: Has gallery
+  type: boolean
+  hidden: true
+  default: ''
+- name: is_of
+  label: Is of
+  type: text
+  hidden: true
+  default: ''
+- name: meta
+  label: Meta
+  type: field_group
+  fields:
+  - name: title
+    label: Title
+    type: textarea
+    hidden: false
+    default: ''
+  - name: http_desc
+    label: http-equiv
+    type: text
+    hidden: false
+    default: ''
+    description: Εάν μείνει κενό, χρησιμοποιείται το description
+  - name: keywords
+    label: Keywords
+    type: textarea
+    hidden: false
+    default: ''
+  - name: description
+    label: Description
+    type: textarea
+    hidden: false
+    default: ''
+  - name: abstract
+    label: Abstract
+    type: text
+    hidden: false
+    default: ''
+  - name: author
+    label: Author
+    type: text
+    hidden: false
+    default: ''
+  - name: copyright
+    label: Copyright
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: true
+  default: ''
+- name: tour
+  label: Tour
+  type: field_group
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: summary
+    label: 'Itinerary '
+    type: textarea
+    hidden: false
+    default: ''
+  - name: duration
+    label: Duration
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: summary
+  label: Tour Summary
+  type: field_group
+  fields:
+  - name: paragraphs
+    label: Paragraphs
+    type: list
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: overview
+  label: Overview
+  type: field_group
+  fields:
+  - name: items
+    label: Items
+    type: field_group_list
+    fields:
+    - name: title
+      label: Title
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: details
+  label: Details
+  type: field_group
+  fields:
+  - name: items
+    label: Items
+    type: field_group_list
+    fields:
+    - name: title
+      label: Title
+      type: text
+      hidden: false
+      default: ''
+    - name: desc
+      label: Description
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: gallery
+  label: Gallery
+  type: field_group
+  fields:
+  - name: group_1
+    label: Group 1
+    type: field_group_list
+    fields:
+    - name: thumb
+      type: file
+      config:
+        maxSize: 250
+      label: Thumb
+    - name: href
+      label: Href
+      type: text
+      hidden: true
+      default: ''
+    - name: alt
+      label: Keywords
+      type: textarea
+      hidden: false
+      default: ''
+    - name: position
+      label: Position
+      type: text
+      hidden: true
+      default: ''
+    hidden: false
+    default: ''
+  - name: group_2
+    label: Group 2
+    type: field_group_list
+    fields:
+    - name: thumb
+      type: file
+      config:
+        maxSize: 250
+      label: Thumb
+    - name: href
+      label: Href
+      type: text
+      hidden: true
+      default: ''
+    - name: alt
+      label: Keywords
+      type: text
+      hidden: false
+      default: ''
+    - name: position
+      label: Position
+      type: text
+      hidden: true
+      default: ''
+    hidden: false
+    default: ''
+  - name: group_3
+    label: Group 3
+    type: field_group_list
+    fields:
+    - name: thumb
+      type: file
+      config:
+        maxSize: 250
+      label: Thumb
+    - name: href
+      label: Href
+      type: text
+      hidden: true
+      default: ''
+    - name: alt
+      label: Keywords
+      type: text
+      hidden: false
+      default: ''
+    - name: position
+      label: Position
+      type: text
+      hidden: true
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: faq
+  label: Faq
+  type: field_group
+  fields:
+  - name: items
+    label: Items
+    type: field_group_list
+    fields:
+    - name: q
+      label: Q
+      type: textarea
+      hidden: false
+      default: ''
+    - name: a
+      label: A
+      type: textarea
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: included
+  label: Included
+  type: field_group
+  fields:
+  - name: items
+    label: Items
+    type: field_group_list
+    fields:
+    - name: text
+      label: Text
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: not_included
+  label: Not included
+  type: field_group
+  fields:
+  - name: items
+    label: Items
+    type: field_group_list
+    fields:
+    - name: text
+      label: Text
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- type: field_group_list
+  name: body
+  label: body
+  fields:
+  - type: textarea
+    name: text
+    label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: field_group_list
+    name: gallery
+    label: gallery
+    fields:
+    - type: file
+      name: thumb
+      label: thumb
+    - type: file
+      name: href
+      label: href
+      hidden: true
+    - type: text
+      name: alt
+      label: keywords
+    - type: text
+      name: position
+      label: position
+      hidden: true  
+- type: include
+  name: end_page
+  label: End page
+  template: end-page
+pages:
+- pages/tours/guided/religious.md
