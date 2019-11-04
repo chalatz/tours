@@ -78,6 +78,7 @@ sections:
 subtitle: ''
 related_tours:
 - Town Walking Tour-WT1
+- Religious Tour of Rhodes-GT10
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
     Tour Experiences. We deliver Private Historical Tours at very affordable rates.

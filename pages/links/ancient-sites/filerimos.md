@@ -175,6 +175,7 @@ related_tours:
 - The Knights of St John-GT6
 - Natural Attractions-GT7
 - Rhodes Scenic Tour-GT9
+- Religious Tour of Rhodes-GT10
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
     Tour Experiences. We deliver Private Custom Tours at very affordable rates. All
