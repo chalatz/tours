@@ -323,7 +323,7 @@ fields:
     - type: text
       name: position
       label: position
-      hidden: true  
+      hidden: true
 - type: include
   name: end_page
   label: End page
