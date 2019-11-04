@@ -17,7 +17,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
   http_desc: ''
-title: Rhodes Wine Tour DT5
 summary:
   paragraphs:
   - This tour is for people who know how to appreciate "the drink of the Gods". Why
@@ -74,7 +73,7 @@ details:
     desc: Sedan Car Mercedes Benz - hold 4 passengers comfortably, plus the driver
       (<a href="./group_mini_bus.htm">bigger group?</a>)
   - title: 'Private Tour Driver:'
-    desc: English speaking knowledgeable tour/driver specialize in Private Tours
+    desc: English speaking knowledgeable tour/driver specialized in Private Tours
   - title: 'Private Tour Start Time:'
     desc: 9:00 AM. Or later<br>If you are a Cruise Ship Passenger - depend on your
       cruise ship dock time. If the ship arrives late into port, we'll adjust our
