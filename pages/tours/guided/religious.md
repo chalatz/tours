@@ -14,6 +14,7 @@ meta:
   abstract: Religious Tour of Rhodes, Christian Tours in Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
+title: '"Religious Tour of Rhodes" GT10'
 tour:
   title: '"Religious Tour of Rhodes" GT10'
   summary: Christian Churches / Monasteries / Chapels / Christian Cultural Sites

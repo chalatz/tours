@@ -36,6 +36,7 @@ summary:
     aromas of dried apricot, caramel and nuts and creating a pleasant taste that enchants
     the senses. Local wineries specialize in producing sparkling wines even using
     the champagne method of second fermentation in the bottle.</li>\n    </ol>      \n"
+title: '"Rhodes Wine Tour" DT5'
 tour:
   title: '"Rhodes Wine Tour" DT5'
   summary: Panoramic View of Rhodes Town / Free Wine Tasting / Green Tour of the West
