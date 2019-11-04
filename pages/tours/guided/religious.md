@@ -382,7 +382,10 @@ not_included:
   items:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
 end_page:
-  long_text: ''
+  long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
+    Tour Experiences. We deliver Private Religious Tours at very affordable rates
+    All our tours are fully customizable to suit your travel needs, interests, schedules,
+    and dates."
   short_text: Experts in Rhodes Religious Tours
 
 ---
