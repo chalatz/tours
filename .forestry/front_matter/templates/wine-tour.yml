@@ -238,5 +238,5 @@ fields:
     name: short_text
     label: short_text
 pages:
-- es_pages/tours/rhodes-wine-tours-wineries-greece.md
 - pages/tours/driving/rhodes-wine-tours-wineries-greece.md
+- es_pages/tours/rhodes-wine-tours-wineries-greece.md

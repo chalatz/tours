@@ -16,14 +16,40 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2019"
-  text: "Nicholas, we enjoyed the tour immensely!  What a beautiful island with so
-    much history.  Emmanuel did a fantastic job of showing us the highlights we wanted
-    to see in the time available.  He was very personable and knowledgeable and spoke
-    excellent English.  He is the consummate professional tour driver. Thanks for
-    your excellent service.  Wayne (Oct 22nd)  whjmej@cox.net\n\nHi Nicholas The tour
-    was great. Michael did a great job with the tour, while giving us some of our
-    own time to explore. Your island was a great surprise to us because we underestimated
-    the beauty and its sights. I see why your tours get great reviews. <br> \nRegards
+  text: "Nicholas, It was an outstanding day with a fabulous tour-driver!  He was
+    very informative, considerate, professional and made our day very enjoyable. Your
+    island is lovely!  I would highly recommend your company. Thank you for making
+    our day on Rhodes so memorable!<br> \nCyndi and Larry (Nov 7th) grammycyndi@gmail.com\n\nWe
+    had a wonderful time!  Stamos was a great driver, as soon as we get home, I will
+    put a review on trip advisor. Thank you.....<br> \nMarilyn (Nov 6th)  tmc351@comcast.net\n\nNicholas,
+    Thank you, the tour by Sergio, and the beauty of Rhodes made it a really wonderful
+    day.  We were so glad we could invite our new friends to join us, we all had a
+    great time.  If I know anyone else going to Rhodes, I will definitely share your
+    contact information. <br> \nBest, Cyd  (Nov 4th) cyd.friedman@gmail.com\n\nHello
+    Nicholas, We are back in our home now and cherish the memories we made in Rhodes.
+    Our special thanks to Sergio. He was informative and interesting. Your Island
+    is beautiful and we hope to have an opportunity to visit again. <br> With fond
+    memories, Harriet and Larry (Nov 4th)  harrietgallas@gmail.com \n\nNicholas, the
+    tour by Kostas & Illias was fantastic.  Kostas is a fountain of knowledge and
+    you can tell he is very passionate about his country. <br> Glenys (Nov 3rd) grodwell@cogeco.ca\n\nNicholas,
+    We really enjoyed our visit to Rhodes and found Michael to be an excellent host!
+    We’ve never done a private tour before. You and Michael both set the bar high
+    in terms of customer service! <br> Thank you for being part of our trip to Rhodes.
+    Bev (Nov 1st)  bbraun-allard@peoplefirsthr.com\n\nNicholas, Can not thank Kostas
+    enough, a real Rhodes scholar. He is a charming, engaging, and entertaining tour
+    guide. A special thanks to the driver Jacob for those special photo ops and taking
+    us around the island in comfortable relaxed way.  I would definitely recommend
+    your team as a best  way to experience Rhodes. <br> Ken  (Nov 1st) kennskoretz@gmail.com\n\nHi
+    Nicholas, I agree with Ken’s comments.  It was an informative and fun way to enjoy
+    your beautiful island!!  <br> Linda and John (Nov 1st) lindajheyman@gmail.com\n\nNicholas,
+    we enjoyed the tour immensely!  What a beautiful island with so much history.
+    \ Emmanuel did a fantastic job of showing us the highlights we wanted to see in
+    the time available.  He was very personable and knowledgeable and spoke excellent
+    English.  He is the consummate professional tour driver. Thanks for your excellent
+    service.  Wayne (Oct 22nd)  whjmej@cox.net\n\nHi Nicholas The tour was great.
+    Michael did a great job with the tour, while giving us some of our own time to
+    explore. Your island was a great surprise to us because we underestimated the
+    beauty and its sights. I see why your tours get great reviews. <br> \nRegards
     Jeffrey  (Oct 20th) jeff354@optonline.net\n\nHello Nicholas and Michael, I just
     submitted a review of 5 stars for you.  It was such a nice experience to see Rhodes
     as a local with Michael. We all agreed Rhodes was the favorite island we visited.

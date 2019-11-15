@@ -93,6 +93,11 @@
   id: guided_scenic
   type: guided
 
+- name: 'Religious Tour of Rhodes-GT10'
+  url: ./religious-tour-christian.htm
+  id: guided_religious
+  type: guided
+
 - name: 'Town Walking Tour-WT1'
   url: ./old_town_walking_tour.htm
   id: walking_old_town

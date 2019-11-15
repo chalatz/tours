@@ -61,6 +61,8 @@ main:
           url: './landscape_tour.htm'
         - title: 'Rhodes Scenic Tour-GT9'
           url: './scenic_tour.htm'
+        - title: 'Religious Tour of Rhodes-GT10'
+          url: './religious-tour-christian.htm'
     - title: WALKING TOURS
       url: './walking_tours.htm'
       type: walking_tours_page

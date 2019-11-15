@@ -148,6 +148,7 @@ related_tours:
 - Ancient & Medieval-GT5
 - Best of & Lunch Break-GT2
 - Best Attractions-GT1
+- Religious Tour of Rhodes-GT10
 - Best of Rhodes-DT1
 - Rhodes Full Day-DT2
 end_page:

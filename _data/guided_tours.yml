@@ -88,3 +88,11 @@ items:
     img: './img/tours-suggestions/GT9.jpg' 
     duration: 'Duration: 4:30 hours'
     id: guided_scenic
+
+  - name: 'Religious Tour-GT10'
+    long_desc: 'This tour is designed for those interested in culturally and historically significant Christian sites in Rhodes. In this Half Day Tour, we include the most important sites which shows the Christian art and architecture on the island, combined with some scenic views'
+    notes: 'Suggested time for this tour: April to October'
+    url: ./religious-tour-christian.htm
+    img: './img/tours-suggestions/GT10.jpg' 
+    duration: 'Duration: 3:30 hours'
+    id: guided_religious

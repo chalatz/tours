@@ -126,6 +126,7 @@ related_tours:
 - Best Attractions-GT1
 - Best of & Lunch Break-GT2
 - Jewish Heritage Plus-GT4
+- Religious Tour of Rhodes-GT10
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
     Tour Experiences. We deliver Private Shore Excursions at very affordable rates.

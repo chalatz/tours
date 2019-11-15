@@ -200,6 +200,7 @@ related_tours:
 - Ancient & Medieval-GT5
 - Rhodes Landscape Tour-GT8
 - Rhodes Scenic Tour-GT9
+- Religious Tour of Rhodes-GT10
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
     Tour Experiences. We deliver Private Shore Trips at very affordable rates. All

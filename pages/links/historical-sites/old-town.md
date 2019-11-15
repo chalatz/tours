@@ -191,6 +191,7 @@ related_tours:
 - West Coast of Rhodes-GT3
 - Ancient & Medieval-GT5
 - The Knights of St John-GT6
+- Religious Tour of Rhodes-GT10
 - Town Walking Tour-WT1
 - Knights Hospitallers-WT2
 end_page:
