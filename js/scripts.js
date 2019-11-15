@@ -28,8 +28,8 @@
             parent_item.on('click', function(e){
                 e.preventDefault();                
                 var $this = $(this),
-                submenu = $this.find('.site-menu__subitems')
-                angle_icon = $this.find('.site-menu__angle-icon');
+                    submenu = $this.find('.site-menu__subitems'),
+                    angle_icon = $this.find('.site-menu__angle-icon');
 
                 $this.children().on('click', function(e){
                     e.stopPropagation();
@@ -42,7 +42,7 @@
         } else {
             parent_item.hoverIntent(function(){
                 var $this = $(this),
-                    submenu = $this.find('.site-menu__subitems')
+                    submenu = $this.find('.site-menu__subitems'),
                     angle_icon = $this.find('.site-menu__angle-icon'),
                     the_link = $this.find('.site-menu__link site-menu__sublink');
     
