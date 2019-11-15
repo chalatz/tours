@@ -59,16 +59,18 @@ $party_num = $_POST['party_num'];
 $comments = $_POST['comments'];
 
 function passed(){
-    if(isset($_POST['meli_tria'])){
-        $meli_tria_passed = false;
-    } else {
-        $meli_tria_passed = true;
-    }
-    if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed){
-        return true;
-    } else {
-        return false;
-    }
+    // if(isset($_POST['meli_tria'])){
+    //     $meli_tria_passed = false;
+    // } else {
+    //     $meli_tria_passed = true;
+    // }
+    // if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed){
+    //     return true;
+    // } else {
+    //     return false;
+    // }
+
+    return true;
 }
 
 if ($debug) {
