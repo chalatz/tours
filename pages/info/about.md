@@ -16,7 +16,7 @@ meta:
     Excursions
   abstract: Rhodes Private Day Tours
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours, 2018
 title: RHODES PRIVATE TOURS
 subtitle: Private Day Tours and Shore Excursions
 desc: The Genuine and Official Website of "Rhodes Private Tours" (RhodesPrivateTours.Com)
