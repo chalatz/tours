@@ -155,7 +155,7 @@ end_page:
   short_text: Experts in Rhodes Island Tours
 
 ---
-**SEVEN SPTINGS**
+**SEVEN SPRINGS**
 
 The tour will begin from your selected drop off point, and you'll be driven to the east coast in a Mercedes-Benz Sedan. The first place on your tour will be the **Seven Springs**, a valley filled with springs and pine trees. It's an oasis in the summer for inhabitants and tourists alike. The scenery allows visitors to attain a sense of calm while they navigate through the streams, and flowers, and take in the sights of the peacocks and ducks.  (Stop Visit Photos)
 
