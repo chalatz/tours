@@ -169,18 +169,30 @@ end_page:
   short_text: 'Experts in Rhodes Kids Tours   '
 
 ---
-From your selected point, you'll be driven to the entrance of the old harbor, atop tall columns, stand the two bronze deer - characteristic landmarks of the island. Here, according to tradition, was the place where the famous **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood (Stop Visit Photos)
+**COLOSSUS OF RHODES**
 
-Then past the imposing buildings of the New town and the **North Point of the Island** (where the Aegean and Mediterranean sea meet) continuing up the hillside to **Monte Smith (The Acropolis of Rhodes city).** Enjoy excellent views of the new and old town of Rhodes (Stop Photos)
+From your selected point, you'll be driven to the entrance of the old harbor, atop tall columns, stand the two bronze deer - characteristic landmarks of the island. Here, according to tradition, was the place where the famous Colossus of Rhodes, one of the seven wonders of the ancient world, once stood (Stop Visit Photos)
 
-Then we drive to the **Temple of Apollo**, and the restored **Greek Stadium** and the **Greek Theatre**. The kids can run into the Old Stadium and feel the **Ancient Greek athletic spirit**. (Stop Visit Photos)
+**THE NORTH POINT OF THE ISLAND**
 
-Your journey to the "**Valley of the Batterflies**" will take you along a beautiful, 20km (14,3mi) drive on the west coast of the island. This site is beautifully arranged with wooden bridges, from mid-June to mid-September thousands of butterflies appear. We drive you to the upper gate, so you walk down the valley (Stop Visit Photos)
+Then past the imposing buildings of the New town and the North Point of the Island (where the Aegean and Mediterranean sea meet) 
 
-We continue our drive to "**Rhodes Ostrich Farm and Zoo Park**"
+**MONTE SMITH** 
 
-This animal farm will delight both young and old. Here you'll have the opportunity to get a closer look at these feathered birds (Over 120 ostriches) living within a purely natural environment. As well as kinds of rare animals. (Stop Visit Photos)
+Continuing up the hillside to Monte Smith **(The Acropolis of Rhodes city).** Enjoy excellent views of the new and old town of Rhodes (Stop Photos)    Then we drive to the **Temple of Apollo**, and the restored **Greek Stadium** and the **Greek Theatre**. The kids can run into the Old Stadium and feel the Ancient Greek athletic spirit. (Stop Visit Photos)
 
-On the way back we visit the "**Bee Museum**" (the only Bee Museum in Greece) Discover the life circle of the bees and their caste system in transparent hives and learn everything about the honey. The various types, and its nutritional value. Free honey tasting and the traditional **"melekounia"** (traditional snack) which is made from honey, sesame seeds, almonds, cinnamon and orange. They also have different types of honey products as cosmetics 
+**VALLEY OF THE BUTTERFLIES**
+
+Your journey to the "Valley of the Batterflies" will take you along a beautiful, 20km (14,3mi) drive on the west coast of the island. This site is beautifully arranged with wooden bridges, from mid-June to mid-September thousands of butterflies appear. We drive you to the upper gate, so you walk down the valley (Stop Visit Photos)
+
+**RHODES OSTRICH FARM AND ZOO PARK**
+
+We continue our drive to "Rhodes Ostrich Farm and Zoo Park" This animal farm will delight both young and old. Here you'll have the opportunity to get a closer look at these feathered birds (Over 120 ostriches) living within a purely natural environment. As well as kinds of rare animals. (Stop Visit Photos)
+
+**BEE MUSEUM**
+
+On the way back we visit the "Bee Museum" (the only Bee Museum in Greece) Discover the life circle of the bees and their caste system in transparent hives and learn everything about the honey. The various types, and its nutritional value. Free honey tasting and the traditional **"melekounia"** (traditional snack) which is made from honey, sesame seeds, almonds, cinnamon and orange. They also have different types of honey products as cosmetics
+
+**BACK TO THE STARTING POINT**
 
 Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
