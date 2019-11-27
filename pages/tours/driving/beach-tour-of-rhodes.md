@@ -182,22 +182,38 @@ end_page:
   short_text: Experts in Rhodes Beach Tours
 
 ---
-**Faliraki Beach:**  Faliraki is one of the most beautiful beaches in Rhodes** located 14 km / 8.6 miles from Rhodes Town**. A long stretch sandy beach 4 km / 2.4 miles, with crystal clear water. There is an abundant amount of sun beds to lay back on and work on your tan. There are also **many water sports to choose from including jet skiing, banana rides, ringos, paragliding, pedalos, and bungee jumping**. (Stop Visit Photos)
+**FALIRAKI BEACH**
 
-**Anthony Quinn Bay:** Anthony Quinn Bay beach is one of the most beautiful small bays of the island, **located 15 km / 9.32 miles from Rhodes Town**. It's a small pebble beach with crystal clear water. **Takes its name from the famous Hollywood actor**, who owns a large property in this area. (**Since filming the Guns of Navarone here**). There's a charge for sun beds and parasols. **Ideal for diving and snorkelling**. (Stop Visit Photos)
+Faliraki is one of the most beautiful beaches in Rhodes** located 14 km / 8.6 miles from Rhodes Town**. A long stretch sandy beach 4 km / 2.4 miles, with crystal clear water. There is an abundant amount of sun beds to lay back on and work on your tan. There are also **many water sports to choose from including jet skiing, banana rides, ringos, paragliding, pedalos, and bungee jumping**. (Stop Visit Photos)
 
-**Tsambika Beach:** Probably the most famous beach on the island.  **Located 30 km / 18.64 miles from Rhodes Town.** A long, broad beach with **fine golden sand** and crystal clear water. Up on the top of the hill is the **Monastery of the Virgin of Tsambika**, from which the beach has taken its name. There is an abundant amount of sun beds, **also available all kind of water sports** and few small canteens. (Stop Visit Photos)
+**ANTHONY QUINN BAY**
 
-**Charaki Village (Bay):**  Haraki is a small beautiful seaside village **located 40 km / 24.85 miles from Rhodes Town.** The beach is mixed, on the right hand side has large pebbles, to the left there is sand, the water is crystal clear. Beds and umbrellas are available; also there is a changing area and showers. **From the beach you'll have a view of the Feraklos castle** (located on the place once stood an ancient Acropolis The castle was used by pirates before the Knights of St. John ousted them, reinforced the castle than used it as a prison). **Few small fishing boats set out daily to catch fish for the local restaurant** which is very popular with the local Greeks and chosen by numerous celebrities in the past. (Stop Visit Photos)
+Anthony Quinn Bay beach is one of the most beautiful small bays of the island, **located 15 km / 9.32 miles from Rhodes Town**. It's a small pebble beach with crystal clear water. **Takes its name from the famous Hollywood actor**, who owns a large property in this area. (**Since filming the Guns of Navarone here**). There's a charge for sun beds and parasols. **Ideal for diving and snorkelling**. (Stop Visit Photos)
+
+**TSAMBIKA BEACH**
+
+Tsambika Beach: Probably the most famous beach on the island.  **Located 30 km / 18.64 miles from Rhodes Town.** A long, broad beach with **fine golden sand** and crystal clear water. Up on the top of the hill is the **Monastery of the Virgin of Tsambika**, from which the beach has taken its name. There is an abundant amount of sun beds, **also available all kind of water sports** and few small canteens. (Stop Visit Photos)
+
+**HARAKI VILLAGE (BAY)**
+
+Haraki is a small beautiful seaside village **located 40 km / 24.85 miles from Rhodes Town.** The beach is mixed, on the right hand side has large pebbles, to the left there is sand, the water is crystal clear. Beds and umbrellas are available; also there is a changing area and showers. **From the beach you'll have a view of the Feraklos castle** (located on the place once stood an ancient Acropolis The castle was used by pirates before the Knights of St. John ousted them, reinforced the castle than used it as a prison). **Few small fishing boats set out daily to catch fish for the local restaurant** which is very popular with the local Greeks and chosen by numerous celebrities in the past. (Stop Visit Photos)
+
+**LINDOS AND ST PAUL'S BAY**
 
 From a vantage point along the coast, **the impressive Acropolis of Lindos** will come into view with the village situated in a picturesque bay below (Stop Photos)
 
 **St Paul's Bay:** St Paul's Bay is a small sandy beach, with shallow sea water, and an attractive landscape. **Here is where the apostle is said to have landed in the year 51 AD to preach Christianity to the Rhodians**. From this point you can also view **the cave where the film "The Guns of Navarone" was filmed**. (Stop Visit Photos)
 
+**LINDOS VILLAGE AND ACROPOLIS**
+
 Then we drive to the **Central Square of Lindos** so you can explore the village, or climb up to the Acropolis of Lindos, or ride the donkeys - the "Lindos Taxi"!! (Stop Visit Photos)
 
 Later your driver will meet you at the main square of Lindos (at a prearranged time) **to drive you to one of the above beaches -- of your own choice for sea bath.**
 
+**RHODIAN TRADITIONAL ART**
+
 You can also choose an optional **short stop at a** **pottery workshop where the traditional pottery of Rhodes is made.** You can see the wonderful pieces of art, and watch the potter working at his wheel. You can even learn the mystery of the Pythagorean cup. Just let your tour/driver know that you wish to make this short stop.
+
+**BACK TO THE STARTING POINT**
 
 Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
