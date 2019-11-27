@@ -198,7 +198,7 @@ end_page:
 ---
 **MONASTERY OF FILERIMOS - MOUNT FILERIMOS**
 
-From your selected point, you'll be driven along the west coast of the island up to **Mount Filerimos**, where we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the **Church of Our Lady**, built upon the foundations of the ancient **Temple of Athena** from early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted **Chapel of St. George**. 
+From your selected point, you'll be driven along the west coast of the island up to **Mount Filerimos**, where we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the **Church of Our Lady**, built upon the foundations of the ancient **Temple of Athena** from early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted **Chapel of St. George**.
 
 **FILERIMOS - THE WAY OF THE CROSS**
 
@@ -214,11 +214,9 @@ We continue south and visit the medieval **Castle of Kritinia** (of the Knights 
 
 **MONOLITHOS  VILLAGE**
 
-Then your journey to **Monolithos** will take you along a beautiful, 20 km / 12 miles drive of the west coast of the island, through natural pine tree woods revealing beautiful **Aegean Sea** vistas. On the way, you stop at a vantage point for a closer view of the little beautiful islands. On your left side is the green of the pine trees and on your right, is the turquoise blue of the Aegean Sea. (Stop Photos)
+Then your journey to **Monolithos** will take you along a beautiful, 20 km / 12 miles drive of the west coast of the island, through natural pine tree woods revealing beautiful **Aegean Sea** vistas. On the way, you stop at a vantage point for a closer view of the little beautiful islands. On your left side is the green of the pine trees and on your right, is the turquoise blue of the Aegean Sea. (Stop Photos)   
 
-From a vantage point along the coast, the impressive rock of Monolithos will come into view with the remains of the castle situated on the top of it. (Stop Photos)
-
-Your Tour/Driver will drive you down to the foot of the cliff, and you follow the narrow little steps all the way up until you reach the summit. (Access to the castle is by a staircase cut into the rock).
+From a vantage point along the coast, the impressive rock of Monolithos will come into view with the remains of the castle situated on the top of it. (Stop Photos) Your Tour/Driver will drive you down to the foot of the cliff, and you follow the narrow little steps all the way up until you reach the summit. (Access to the castle is by a staircase cut into the rock).
 
 **CASTLE OF MONOLITHOS**
 
