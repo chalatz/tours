@@ -194,18 +194,34 @@ end_page:
   short_text: 'Experts in Rhodes Tours   '
 
 ---
+**MEDIEVAL CITY**
+
 From your selected point, you'll be driven to the Old town (Medieval City - World Heritage Site) to see the most imposing buildings and get your photos from outside (Stop Photos).
+
+**NEW TOWN - OLD PORT**
 
 You continue to the New Town to the entrance of the old harbour (Stop Visit Photos), the Church of the Annunciation (Stop Visit Photos) and the north point of the Island (Stop Photos)
 
-The drive continues 48 km / 30 miles south west of the Island to **Ancient Kamiros**, once a thriving Doric city during the 5th century BC. Kamiros retains much of its historic past, if you enjoy ruins you will not be disappointed by the atmospheric site of Kamiros. The **Agora Square**, the **Temple of Pythian Apollo**, the **Fountain Square**, the Sanctuary dedicated to the Gods and Heroes of Kamiros, the **Baths-House**, the **Main Street**, the Houses, and more... On the Acropolis you can see the remains of the **Temple of Athena Kameiras**, and the remains of the large Stoa and the **Archaic Cistern** (water reservoir), also you can enjoy a panoramic view over the **Aegean Sea** and the surrounding agricultural area (Stop Visit Photos)
+**ANCIENT KAMIROS**
 
-On the way back you visit the **Valley of the Butterflies** - we drive you to the upper gate so you can walk down the valley easier. Here you can witness a spectacular phenomenon which occurs only rarely in nature. Huge numbers of butterflies congregate in this small valley during the final stage of their life cycle (mid-June to mid-September). Actually you are permanently surrounded by butterflies camouflaging themselves against the tree trunks as you walk through the valley. Wooden bridges and paths will guide you through the rich vegetation of this rare biotope (Stop Visit Photos)
+The drive continues 48 km / 30 miles south west of the Island to Ancient Kamiros, once a thriving Doric city during the 5th century BC. Kamiros retains much of its historic past, if you enjoy ruins you will not be disappointed by the atmospheric site of Kamiros. The **Agora Square**, the **Temple of Pythian Apollo**, the **Fountain Square**, the Sanctuary dedicated to the Gods and Heroes of Kamiros, the **Baths-House**, the **Main Street**, the Houses, and more... On the Acropolis you can see the remains of the **Temple of Athena Kameiras**, and the remains of the large Stoa and the **Archaic Cistern** (water reservoir), also you can enjoy a panoramic view over the **Aegean Sea** and the surrounding agricultural area (Stop Visit Photos)
+
+**VALLEY OF THE BUTTERFLIES**
+
+On the way back you visit the Valley of the Butterflies - we drive you to the upper gate so you can walk down the valley easier. Here you can witness a spectacular phenomenon which occurs only rarely in nature. Huge numbers of butterflies congregate in this small valley during the final stage of their life cycle (mid-June to mid-September). Actually you are permanently surrounded by butterflies camouflaging themselves against the tree trunks as you walk through the valley. Wooden bridges and paths will guide you through the rich vegetation of this rare biotope (Stop Visit Photos)
+
+**TRADITIONAL WINERY**
 
 We visit a small Greek traditional winery, here you have the opportunity to taste a selection of locally produced wines. As well as you get your pictures of the aging facilities. (Stop Visit Photos -- Free Wine Tasting)
 
-Then we will travel up to **Filerimos mountain**, is a marvellous panoramic view, we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the **Church of Our Lady**, built upon the foundations of the ancient temple of Athena of early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted Chapel of St. George. On the right hand side there is a beautiful tree sheltered pathway the **"Way of the Cross"** This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos)
+**FILERIMOS MOUNTAIN**
 
-On the way back we drive up the hillside to **Monte Smith**, **Acropolis of Rhodes City**, which offers a panoramic view of the city, the Temple of Apollo, the Hellenistic Stadium, and the Ancient Theater. (Stop Visit Photos)
+Then we will travel up to Filerimos mountain, is a marvellous panoramic view, we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the **Church of Our Lady**, built upon the foundations of the ancient temple of Athena of early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted Chapel of St. George. On the right hand side there is a beautiful tree sheltered pathway the **"Way of the Cross"** This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos)
+
+**MONTE SMITH**
+
+On the way back we drive up the hillside to Monte Smith, **Acropolis of Rhodes City**, which offers a panoramic view of the city, the Temple of Apollo, the Hellenistic Stadium, and the Ancient Theater. (Stop Visit Photos)
+
+**BACK TO THE STARTING POINT**
 
 Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
