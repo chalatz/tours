@@ -196,9 +196,13 @@ end_page:
   short_text: ''
 
 ---
-**MONASTERY OF FILERIMOS** 
+**MONASTERY OF FILERIMOS - MOUNT FILERIMOS**
 
-From your selected point, you'll be driven along the west coast of the island up to **Mount Filerimos**, where we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the **Church of Our Lady**, built upon the foundations of the ancient **Temple of Athena** from early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted **Chapel of St. George**. On the right-hand side there is a beautiful tree-sheltered pathway the **"Way of the Cross"** where are displayed a series of shrines with relief scenes depicting the Passion of Christ. This pathway leads from the main square to the west edge of the plateau where there is a large cross (16 meters / 48 feet tall), from the site of which you can enjoy a stunning view of the west coast. (Stop Visit Photos)
+From your selected point, you'll be driven along the west coast of the island up to **Mount Filerimos**, where we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the **Church of Our Lady**, built upon the foundations of the ancient **Temple of Athena** from early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted **Chapel of St. George**. 
+
+**FILERIMOS - THE WAY OF THE CROSS**
+
+On the right-hand side there is a beautiful tree-sheltered pathway the **"Way of the Cross"** where are displayed a series of shrines with relief scenes depicting the Passion of Christ. This pathway leads from the main square to the west edge of the plateau where there is a large cross (16 meters / 48 feet tall), from the site of which you can enjoy a stunning view of the west coast. (Stop Visit Photos)
 
 **ANCIENT KAMIROS**
 
@@ -222,5 +226,6 @@ The Castle of Monolithos was one of the four main castles of Rhodes, built in th
 
 **EMBONA VILLAGE**
 
-On the way back, you'll be driven to Embona village the most important grape producing village on the island. You will take a break for delicious snack or lunch experience (at your own expense) at a **Traditional Greek Taverna**, with Rhodian cuisine and excellent homemade wines. Locals come from everywhere to eat **grilled meat** in Embona, for which it is widely known.  
+On the way back, you'll be driven to Embona village the most important grape producing village on the island. You will take a break for delicious snack or lunch experience (at your own expense) at a **Traditional Greek Taverna**, with Rhodian cuisine and excellent homemade wines. Locals come from everywhere to eat **grilled meat** in Embona, for which it is widely known.
+
 Later your Tour/Driver, using an inland route through pine-tree woods, will drive you back to Rhodes Town or to your place.
