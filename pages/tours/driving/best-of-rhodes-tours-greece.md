@@ -241,7 +241,11 @@ end_page:
   short_text: 'Experts in Rhodes Tours   '
 
 ---
+**THE MEDIEVAL CITY**
+
 From your selected point, you'll be driven to the **Old town -- Medieval City** (World Heritage Site), you'll pass through one of the gateways and by the Agora and the Collachium, where the **Knights of St. John of Jerusalem** lived and worked, building a stronghold of Christendom in the Eastern Mediterranean. Remaining remarkably intact, the Old Town is home to the churches, marble coats of arms of the Knights, cannon balls, the inns of the Knights, and most impressive the restored **Palace of the Grand Masters** (Stop Photos).
+
+**THE NEW TOWN** 
 
 Then past the imposing buildings of the New town, in neo-colonial and Italianate style, which lend grandeur to this part of the present-day town. You continue to the entrance of the old harbor, atop tall columns, stand the two bronze deer - characteristic landmarks of the island. Here, according to tradition, was the place where the famous **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood (Stop Visit Photos).
 
@@ -251,26 +255,38 @@ Then past the rest of the imposing buildings, where the Venetian, Gothic and Ori
 
 The **Aquarium of Rhodes**, hosting an Aquarium and a Museum, located on the north point of the island where the Mediterranean and the Aegean Sea meet. (Stop Photos)
 
-Continuing up the hillside to **Monte Smith (The Acropolis of Rhodes City)** which overlooks the city. Enjoy excellent views of the new and old town of Rhodes (Stop Visit Photos)
+**MONTE SMITH** 
 
-Then you visit the **Temple of Apollo**, and the restored **Ancient Stadium** and the **Greek Theatre** (Stop Visit Photos)
+Continuing up the hillside to Monte Smith **(The Acropolis of Rhodes City)** which overlooks the city. Enjoy excellent views of the new and old town of Rhodes (Stop Visit Photos)  Then you visit the Temple of Apollo, and the restored Ancient Stadium and the Greek Theatre (Stop Visit Photos)
+
+**THE JOURNEY TO LINDOS** 
 
 Then your journey to **Lindos** will take you along a beautiful, 50 km / 32 miles drive of the east coast of the island, past picturesque little villages, with many glimpses of the sea and a splendid landscape of orange and gnarled olive trees.
 
-On the way you visit the **Anthony Quinn Bay**> - Takes its name from the famous Hollywood actor, who owns a large property in this area. Since filming the Guns of Navarone in Rhodes Island - scenic (Stop Visit Photos)
+**ANTHONY QUINN BAY**
 
-A short stop for the panoramic view of the **Tsambica beach** - scenic (Stop Photos)
+On the way you visit the Anthony Quinn Bay> - Takes its name from the famous Hollywood actor, who owns a large property in this area. Since filming the Guns of Navarone in Rhodes Island - scenic (Stop Visit Photos)  A short stop for the panoramic view of the **Tsambica beach** - scenic (Stop Photos)
+
+**RHODIAN TRADITIONAL ART**
 
 On the way to Lindos, you can choose an optional short stop at a pottery workshop where the traditional pottery of Rhodes is made. You can see the wonderful pieces of art, and watch the potter working at his wheel. You can even learn the mystery of the Pythagorean cup. Just let your tour/driver know that you wish to make this short stop.
 
+**LINDOS**
+
 From a vantage point along the coast, the impressive Acropolis of Lindos will come into view with the white village situated in a picturesque bay below (Stop Photos)
 
-You continue to the south of Lindos, to **St. Paul 's Bay**, where the apostle is said to have landed in the year 51 AD to preach Christianity to the Rhodians. From this point you can also view the cave where the film **"The Guns of Navarone"** was filmed. (Stop Visit Photos)
+**ST PAULS BAY**
+
+You continue to the south of Lindos, to St. Paul 's Bay, where the apostle is said to have landed in the year 51 AD to preach Christianity to the Rhodians. From this point you can also view the cave where the film **"The Guns of Navarone"** was filmed. (Stop Visit Photos)
+
+**LINDOS VILLAGE AND ACROPOLIS**
 
 Then we drive to the **main square of Lindos** so you can climb up to the Acropolis of Lindos, or ride the donkeys - the **"Lindos Taxi"** !!.
 
 Walk through Lindos Village and up the many steps and narrow uphill cobblestone pathways to the summit of the Acropolis to see the magnificent remains of past civilizations. Marvel at the 4th century B.C. **Doric Temple of Athena Lindia**, a **double winged portico**, a **Byzantine church** and the **fortifications of the Knights**, including the remains of the Governor's quarters. This view is truly panoramic (Stop Visit Photos)
 
 On the way back you drive along the coastal road to **Faliraki** a marvellous sandy beach and **Kallithea**.
+
+**BACK TO THE STARTING POINT**
 
 Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
