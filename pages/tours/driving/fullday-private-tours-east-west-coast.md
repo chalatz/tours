@@ -199,14 +199,28 @@ end_page:
   short_text: 'Experts in Rhodes Full Day Tours   '
 
 ---
+**BREAK FOR LUNCH**
+
 This is a longer program includes the **"Best of Rhodes"** half day tour, and more time on the East Coast for break for delicious lunch experiences at a seaside village at the Mediterranean Sea right on the water’s edge (scenic) with fresh seafood, Rhodian cuisine and excellent local wines. (Stop Visit Taste Photos)
+
+**VALLEY OF THE BUTTERFLIES**
 
 On the way back you drive through the island, from the **East to the West Coast**, the road passes through villages and densely wooded areas, we come to the **Valley of the Butterflies**. This site is beautifully arranged with wooden bridges, from mid-June to mid-September thousands of butterflies appear. (Stop Visit Photos).
 
-After few miles we stop at a small **Traditional Winery**. Here you have the opportunity to free taste a selection of locally produced wines. As well as you get your pictures of the aging facilities. (Stop Visit Photos)
+**THE TRADITIONAL WINERY**
 
-We continue on the west coast, and after winding upwards for 3 miles on the **Filerimos Mountain**, we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the **Church of Our Lady**, built upon the foundations of the ancient **temple of Athena**. You'll also see the exterior of the monastery and courtyard, as well as the barrel-vaulted Chapel of St. George. On the right hand side there is a beautiful tree sheltered pathway the **"Way of the Cross"** This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos)
+After few miles we stop at a small Traditional Winery. Here you have the opportunity to free taste a selection of locally produced wines. As well as you get your pictures of the aging facilities. (Stop Visit Photos)
+
+**FILERIMOS MOUNTAIN**
+
+We continue on the west coast, and after winding upwards for 3 miles on the **Filerimos Mountain**, we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the **Church of Our Lady**, built upon the foundations of the ancient **temple of Athena**. You'll also see the exterior of the monastery and courtyard, as well as the barrel-vaulted Chapel of St. George. 
+
+**FILERIMOS - THE WAY OF THE CROSS**
+
+On the right hand side there is a beautiful tree sheltered pathway the "Way of the Cross**"** This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos)
 
 And through **Ixia**, one of the largest tourist settlements, back to Rhodes town.
+
+**BACK TO THE STARTING POINT**
 
 Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
