@@ -196,11 +196,19 @@ end_page:
   short_text: ''
 
 ---
+**MONASTERY OF FILERIMOS** 
+
 From your selected point, you'll be driven along the west coast of the island up to **Mount Filerimos**, where we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the **Church of Our Lady**, built upon the foundations of the ancient **Temple of Athena** from early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted **Chapel of St. George**. On the right-hand side there is a beautiful tree-sheltered pathway the **"Way of the Cross"** where are displayed a series of shrines with relief scenes depicting the Passion of Christ. This pathway leads from the main square to the west edge of the plateau where there is a large cross (16 meters / 48 feet tall), from the site of which you can enjoy a stunning view of the west coast. (Stop Visit Photos)
+
+**ANCIENT KAMIROS**
 
 The drive continues 22 km / 13 miles southwest on the Island to **Ancient Kamiros**, which was, during the 5th century BC, a thriving Doric city. Kamiros retains much of its historic past. If you enjoy ruins you will not be disappointed by the atmospheric site of Kamiros. The **Agora Square**, the **Temple of Pythian Apollo**, the **Fountain Square**, the Sanctuary dedicated to the Gods and Heroes of Kamiros, the **Baths-House**, the **Main Street**, the Houses, and more... On the Acropolis you can see the remains of the **Temple of Athena Kameiras**, and the remains of the large **Stoa** and the **Archaic Cistern** (water reservoir), also you can enjoy a panoramic view over the **Aegean Sea** and the surrounding agricultural area. (Stop Visit Photos)
 
+**CASTLE OF KRITINIA**
+
 We continue south and visit the medieval **Castle of Kritinia** (of the Knights of St. John Hospitaller) located just outside the village of Kritinia, built in the 16th century which stands proudly overlooking the bay atop a pine clad hill. From this vantage point you can have a 360° view, and see the islands of **Chalki**, **Alimia**, **Makri**, **Strongyle**, **Tragoussa** and **Symi**. (Stop Visit Photos)
+
+**MONOLITHOS  VILLAGE**
 
 Then your journey to **Monolithos** will take you along a beautiful, 20 km / 12 miles drive of the west coast of the island, through natural pine tree woods revealing beautiful **Aegean Sea** vistas. On the way, you stop at a vantage point for a closer view of the little beautiful islands. On your left side is the green of the pine trees and on your right, is the turquoise blue of the Aegean Sea. (Stop Photos)
 
@@ -208,7 +216,11 @@ From a vantage point along the coast, the impressive rock of Monolithos will com
 
 Your Tour/Driver will drive you down to the foot of the cliff, and you follow the narrow little steps all the way up until you reach the summit. (Access to the castle is by a staircase cut into the rock).
 
-The **Castle of Monolithos** was one of the four main castles of Rhodes, built in the 14th century by the Knights of St. John to have control of the sea and to protect the inhabitants from pirate raids. Today only the external wall fortifications remain. Inside the perimeter of the walls there are a few remnants of the fortifications, the very well preserved 15th century **Chapel of St. Panteleimon**, and the shell of a **chapel dedicated to St. George**. The view from it is breath-taking. You will see pine-tree forests far below you and the island of Halki, also the little rock islands Strogylo and Gria of the western coast in the cool waters of the turquoise blue Aegean Sea.
+**CASTLE OF MONOLITHOS**
 
-On the way back, you'll be driven to **Embona village** the most important grape producing village on the island. You will take a break for delicious snack or lunch experience (at your own expense) at a **Traditional Greek Taverna**, with Rhodian cuisine and excellent homemade wines. Locals come from everywhere to eat **grilled meat** in Embona, for which it is widely known.\
+The Castle of Monolithos was one of the four main castles of Rhodes, built in the 14th century by the Knights of St. John to have control of the sea and to protect the inhabitants from pirate raids. Today only the external wall fortifications remain. Inside the perimeter of the walls there are a few remnants of the fortifications, the very well preserved 15th century **Chapel of St. Panteleimon**, and the shell of a **chapel dedicated to St. George**. The view from it is breath-taking. You will see pine-tree forests far below you and the island of Halki, also the little rock islands Strogylo and Gria of the western coast in the cool waters of the turquoise blue Aegean Sea.
+
+**EMBONA VILLAGE**
+
+On the way back, you'll be driven to Embona village the most important grape producing village on the island. You will take a break for delicious snack or lunch experience (at your own expense) at a **Traditional Greek Taverna**, with Rhodian cuisine and excellent homemade wines. Locals come from everywhere to eat **grilled meat** in Embona, for which it is widely known.  
 Later your Tour/Driver, using an inland route through pine-tree woods, will drive you back to Rhodes Town or to your place.
