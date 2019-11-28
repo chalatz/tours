@@ -169,14 +169,24 @@ end_page:
   short_text: Experts in Rhodes Scenic Tours
 
 ---
-To start off, you will be driven from your chosen drop off point to the **Valley of the Butterflies**. The walk down from the valley will allow you to witness the beautiful butterflies in the final stages of their life cycle. Hundreds of butterflies will camouflage themselves against the trees as you walk through the bridges and natural pathways that make up a natural navigation system through the valley. This life cycle occurs from mid-June to mid-September. <u>Guided Walking Tour</u> (Stop Visit Photos)
+**THE VALLEY OF THE BUTTERFLIES**
 
-After the Butterflies, we will drive through the coastal road of Kremasti and Ialysos up to the **Filerimos Mountain.**
+To start off, you will be driven from your chosen drop off point to the Valley of the Butterflies. The walk down from the valley will allow you to witness the beautiful butterflies in the final stages of their life cycle. Hundreds of butterflies will camouflage themselves against the trees as you walk through the bridges and natural pathways that make up a natural navigation system through the valley. This life cycle occurs from mid-June to mid-September. <u>Guided Walking Tour</u> (Stop Visit Photos)
 
-The Mountain will offer a 180-degree view of the west coast. A walking tour will begin when you reach **Acropolis of the Ancient Ialyssos**. From there you will take a detour to the **Church of Our Lady**, which is built on the remains of the **Ancient temple of Athena** during the Early Christian Era. The barrel-vaulted **Chapel of St. George**, as well as the exterior of the **Filerimos Monastery**. <u>Guided Walking Tour</u> (Stop Visit Photos)
+**FILERIMOS MOUNTAIN** 
+
+After the Butterflies, we will drive through the coastal road of Kremasti and Ialysos up to the Filerimos Mountain.
+
+The Mountain will offer a 180-degree view of the west coast. A walking tour will begin when you reach **Acropolis of the Ancient Ialyssos**. From there you will take a detour to the Church of **Our Lady of Filerimos**, which is built on the remains of the **Ancient temple of Athena** during the Early Christian Era. The barrel-vaulted **Chapel of St. George**, as well as the exterior of the **Filerimos Monastery**. <u>Guided Walking Tour</u> (Stop Visit Photos)
+
+**FILERIMOS - THE WAY OF THE CROSS**
 
 To the right, there lies the **Way of the Cross**, a sheltered pathway dotted with many shrines that stretch from the main square to the west edge of the plateau. This pathway will lead you to the famous 16 meter/48 feet tall Cross. <u>Guided Walking Tour</u> (Stop Visit Photos)
 
-From here you will pass through **Ixia** and then to the **Monte** **Smith** and the **Ancient Acropolis of Rhodes Town.** Your experienced passionate tour guide will lead you for a  <u>Guided Walking Tour</u> to the **Temple of Apollo**, the restored **Ancient Theater**, the **Stadium, and Gymnasium**. You can even walk into the Ancient Stadium to feel the spirit of the ancient athletes.  (Stop Visit Photos)
+**MONTE SMITH**
+
+From here you will pass through **Ixia** and then to the Monte Smith and the **Ancient Acropolis of Rhodes Town.** Your experienced passionate tour guide will lead you for a  <u>Guided Walking Tour</u> to the **Temple of Apollo**, the restored **Ancient Theater**, the **Stadium, and Gymnasium**. You can even walk into the Ancient Stadium to feel the spirit of the ancient athletes.  (Stop Visit Photos)
+
+**BACK TO THE STARTING POINT**
 
 Then you will be escorted back to Rhodes town, where you can be choosing to be dropped off at the hotel or the ship. If you wish to get off at the gates of Old Town for some sightseeing, you will have to make your way back to the ship yourself, which is docked a quarter of a mile away.
