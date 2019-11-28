@@ -179,7 +179,7 @@ We continue south-west ofthe island to Embona village, the drive up here has bea
 
 The medieval castle of Kritinia is next on our list. Built in the sixteenth century by the Knights of St. John Hospitallers, it is located outside the village of Kritinia. It overlooks the bay atop a pine dotted hill and presents a panoramic view of the islands of **Chalki, Alimia, Makri, Strongyle, Tragoussa and Symi**. (Stop Visit Photos)
 
-**LUNCH BREAK**
+**LUNCH BREAK AT A SEASIDE RESTAURANT**
 
 After this you can take a break and indulge in some snacks or some lunch (at your own expense). You can try one of the seaside restaurants that serves seafood, Greek cuisine and homemade wines by the shore.
 
