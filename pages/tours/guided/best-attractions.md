@@ -218,24 +218,46 @@ end_page:
   short_text: Experts in Rhodes Top Attractions
 
 ---
-Your tour will begin from Old Town, Medieval City, which is a world heritage site where you will pass through the **D'Amboise Gate**. This begins your Guided Walking Tour with your tour guide. Here you can take pictures from outside of the most important monuments of the old town including: **The Grand Masters Palace**, **the Street of the Knights**, **the Ruins of Sent John Cathedral**, **the Archeological Museum**, **the Byzantine Museum.** This marks the end of your walking trip. (Stop Photos)
+**THE MEDIEVAL CITY**
 
-You will find your driver/vehicle waiting for you at the Gate to start the next phase of your trip.
+Your tour will begin from Old Town, Medieval City, which is a world heritage site where you will pass through the **D'Amboise Gate**. This begins your Guided Walking Tour with your tour guide. Here you can take pictures from outside of the most important monuments of the old town including: **The Grand Masters Palace**, **the Street of the Knights**, **the Ruins of Sent John Cathedral**, **the Archeological Museum**, **the Byzantine Museum.** This marks the end of your walking trip. (Stop Photos)  You will find your driver/vehicle waiting for you at the Gate to start the next phase of your trip.
 
-You will be driven to the **New Town** where you will be able to catch a glimpse of **the Old Harbor**. According to tradition, **the Colossus of Rhodes**, one of the seven wonders of the ancient world, was built here. <u>Guided Tour</u> (Stop Visit Photos).
+**THE NEW TOWN**
+
+You will be driven to the New Town where you will be able to catch a glimpse of the Old Harbor. According to tradition, **the Colossus of Rhodes**, one of the seven wonders of the ancient world, was built here. <u>Guided Tour</u> (Stop Visit Photos).
 
 Near the harbor is the **Church of the Annunciation**, which is home to famous wall artwork by the likes of Fotis Kontoglou and other artists. The place has since been transformed into the town's Cathedral.
 
-Then past the rest of the imposing buildings, where the **Venetian, Gothic and Oriental elements** blend and the north point of the island where the **Mediterranean and the Aegean Sea meet**.  Your trip will continue upwards to **Monte Smith** -- **the Acropolis of Rhodes City** -- for a panoramic drive for picturesque views of the town. The temple of Apollo is situated towards your left and the beautiful Aegean Sea with its vibrant blue water is towards the right. (Stop Photos).
+Then past the rest of the imposing buildings, where the **Venetian, Gothic and Oriental elements** blend and the north point of the island where the Mediterranean and the Aegean Sea meet.  
 
-The journey to **Lindos** takes you through a 50-km or 32-mile drive along the east coast of the island, where you'll catch glimpses of beautiful villages, the blue turquoise sea, and a landscape filled with orange and olive trees. Your tour guide will make a brief stop at a local pottery workshop. Here you'll see how the potter works at his wheel to make the famous rhodian potteries. You can also learn the mystery of the Pythagorean cup. <u>Guided Tour</u> (Stop Visit Photos).
+**MONTE SMITH**
+
+Your trip will continue upwards to Monte Smith - **the Acropolis of Rhodes City** -- for a panoramic drive for picturesque views of the town. The temple of Apollo is situated towards your left and the beautiful Aegean Sea with its vibrant blue water is towards the right. (Stop Photos).
+
+**THE JOURNEY TO LINDOS**
+
+The journey to Lindos takes you through a 50-km or 32-mile drive along the east coast of the island, where you'll catch glimpses of beautiful villages, the blue turquoise sea, and a landscape filled with orange and olive trees. Y
+
+**RHODIAN TRADITIONAL ART** 
+
+our tour guide will make a brief stop at a local pottery workshop. Here you'll see how the potter works at his wheel to make the famous rhodian potteries. You can also learn the mystery of the Pythagorean cup. <u>Guided Tour</u> (Stop Visit Photos).
+
+**PANORAMIC VIEW OF LINDOS**
 
 The east coast also provides impressive views of **the Acropolis of Lindos** along with glimpses of the **white village** in a strikingly beautiful bay below. (Stop Photos).
 
-Your next visit is **to St. Paul's Bay**, towards the south of Lindos, where according to local tradition, **apostle Paul** used to preach Christianity to the Rhodians. The famous cave, where **the film** **"The Guns of Navarone"** was made, also comes into view. (Guided Tour) (Stop Photos)
+**ST PAUL'S BAY**
 
-At this point, your <u>Guided Walking Tour</u> through **Lindos Village** starts. You will make your way up the steps across narrow pathways laced with cobblestone to the Acropolis's summit. This will open you up to a bird's eye view of what remains of the previous civilizations. (Stop Visit Photos)
+Your next visit is to St. Paul's Bay, towards the south of Lindos, where according to local tradition, **apostle Paul** used to preach Christianity to the Rhodians. The famous cave, where the film **"The Guns of Navarone"** was made, also comes into view. (Guided Tour) (Stop Photos)
 
-The return journey will take you to the sandy beaches **of Faliraki** through the coastal road and the **Kallithea Sea**.
+**LINDOS VILLAGE AND ACROPOLIS**
+
+At this point, your <u>Guided Walking Tour</u> through Lindos Village starts. You will make your way up the steps across narrow pathways laced with cobblestone to the Acropolis's summit. This will open you up to a bird's eye view of what remains of the previous civilizations. (Stop Visit Photos)
+
+**COASTAL ROAD OF FALIRAKI AND KALLITHEA**
+
+The return journey will take you to the sandy beaches of Faliraki through the coastal road and the Kallithea Sea.
+
+**BACK TO THE STARTING POINT**
 
 Towards the end of your journey to Rhodes Town, you can choose to go back to your hotel, to your ship, or near the Old Town's city gates to visit the area on your own. The ship is docked just a quarter of a mile away but returning back on foot is your own responsibility.
