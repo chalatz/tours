@@ -334,9 +334,9 @@ body:
     href: "./img/tours/guided/10/HH5.jpg"
     alt: Orthodox Church of St Panteleimonas in Rhodes island Greece
     position: following
-- text: 'Towards the end of your tour, you can choose to go back to your hotel, to
+- text: Towards the end of your tour, you can choose to go back to your hotel, to
     your ship, or stay in the Old Town to visit the area on your own. The ship is
-    docked just a quarter of a mile away but returning back on foot is your own responsibility.    '
+    docked just a quarter of a mile away but returning back on foot is your own responsibility.
   gallery: []
 faq:
   items:
