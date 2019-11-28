@@ -243,25 +243,25 @@ end_page:
 ---
 **THE MEDIEVAL CITY**
 
-From your selected point, you'll be driven to the **Old town -- Medieval City** (World Heritage Site), you'll pass through one of the gateways and by the Agora and the Collachium, where the **Knights of St. John of Jerusalem** lived and worked, building a stronghold of Christendom in the Eastern Mediterranean. Remaining remarkably intact, the Old Town is home to the churches, marble coats of arms of the Knights, cannon balls, the inns of the Knights, and most impressive the restored **Palace of the Grand Masters** (Stop Photos).
+From your selected point, you'll be driven to the Old town - Medieval City (**World Heritage Site**), you'll pass through one of the gateways and by the Agora and the Collachium, where the **Knights of St. John of Jerusalem** lived and worked, building a stronghold of Christendom in the Eastern Mediterranean. Remaining remarkably intact, the Old Town is home to the churches, marble coats of arms of the Knights, cannon balls, the inns of the Knights, and most impressive the restored **Palace of the Grand Masters** (Stop Photos).
 
-**THE NEW TOWN** 
+**THE NEW TOWN**
 
 Then past the imposing buildings of the New town, in neo-colonial and Italianate style, which lend grandeur to this part of the present-day town. You continue to the entrance of the old harbor, atop tall columns, stand the two bronze deer - characteristic landmarks of the island. Here, according to tradition, was the place where the famous **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood (Stop Visit Photos).
 
 Near to the harbour is the **Church of the Annunciation** that houses amazing gothic wall paintings by Fotis Kontoglou and impressive chandeliers. Today it is the town's cathedral (Stop Visit Photos)
 
-Then past the rest of the imposing buildings, where the Venetian, Gothic and Oriental elements blend. The **City Hall** located at the centre of Rhodes town at the historical location of the port. The impressive **Administration building** or **Governor's Palace** which houses the Prefecture of the Dodecanese. (Venetian Palace style design, with details of the Doge's Palace in Venice). The **National Theatre of Rhodes** is an impressive building ideally located in the Town Hall Square. It is one of the finest specimens of the International and the Italian style of architecture **"Teatro Puccini"**. The imposing **"Hotel of the Roses"** was built by the Italians, in 1932. Today it house's the **"Casino of Rhodes"**.
+Then past the rest of the imposing buildings, where the Venetian, Gothic and Oriental elements blend. The **City Hall** located at the centre of Rhodes town at the historical location of the port. The impressive **Administration building** or **Governor's Palace** which houses the Prefecture of the Dodecanese. (Venetian Palace style design, with details of the Doge's Palace in Venice). The **National Theatre of Rhodes** it is one of the finest specimens of the International and the Italian style of architecture **"Teatro Puccini"**. The imposing **"Hotel of the Roses"** was built by the Italians, in 1932. Today it house's the **"Casino of Rhodes"**.
 
-The **Aquarium of Rhodes**, hosting an Aquarium and a Museum, located on the north point of the island where the Mediterranean and the Aegean Sea meet. (Stop Photos)
+The North Point of the island where the Mediterranean and the Aegean Sea meet. (Stop Photos)
 
-**MONTE SMITH** 
+**MONTE SMITH**
 
 Continuing up the hillside to Monte Smith **(The Acropolis of Rhodes City)** which overlooks the city. Enjoy excellent views of the new and old town of Rhodes (Stop Visit Photos)  Then you visit the Temple of Apollo, and the restored Ancient Stadium and the Greek Theatre (Stop Visit Photos)
 
-**THE JOURNEY TO LINDOS** 
+**THE JOURNEY TO LINDOS**
 
-Then your journey to **Lindos** will take you along a beautiful, 50 km / 32 miles drive of the east coast of the island, past picturesque little villages, with many glimpses of the sea and a splendid landscape of orange and gnarled olive trees.
+Then your journey to Lindos will take you along a beautiful, 50 km / 32 miles drive of the east coast of the island, past picturesque little villages, with many glimpses of the sea and a splendid landscape of orange and gnarled olive trees.
 
 **ANTHONY QUINN BAY**
 
@@ -271,7 +271,7 @@ On the way you visit the Anthony Quinn Bay> - Takes its name from the famous Ho
 
 On the way to Lindos, you can choose an optional short stop at a pottery workshop where the traditional pottery of Rhodes is made. You can see the wonderful pieces of art, and watch the potter working at his wheel. You can even learn the mystery of the Pythagorean cup. Just let your tour/driver know that you wish to make this short stop.
 
-**LINDOS**
+**PANORAMIC VIEW OF LINDOS**
 
 From a vantage point along the coast, the impressive Acropolis of Lindos will come into view with the white village situated in a picturesque bay below (Stop Photos)
 
@@ -285,7 +285,9 @@ Then we drive to the **main square of Lindos** so you can climb up to the Acro
 
 Walk through Lindos Village and up the many steps and narrow uphill cobblestone pathways to the summit of the Acropolis to see the magnificent remains of past civilizations. Marvel at the 4th century B.C. **Doric Temple of Athena Lindia**, a **double winged portico**, a **Byzantine church** and the **fortifications of the Knights**, including the remains of the Governor's quarters. This view is truly panoramic (Stop Visit Photos)
 
-On the way back you drive along the coastal road to **Faliraki** a marvellous sandy beach and **Kallithea**.
+**COASTAL ROAD OF FALIRAKI AND KALLITHEA**
+
+On the way back you drive along the coastal road to Faliraki a marvellous sandy beach and Kallithea Spa.
 
 **BACK TO THE STARTING POINT**
 
