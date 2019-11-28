@@ -190,13 +190,10 @@ body:
     href: "./img/tours/guided/10/CC5.jpg"
     alt: The Way of the Cross - Filerimos
     position: following
-- text: As we return, we take the road of Monte Smith. The road meanders through the
-    Ancient Acropolis of Rhodes Town. One the way you are treated to stunning views
-    of the City and the Aegean and Mediterranean Seas. The first site we see as we
-    arrive at the **Gate of St Athanasius** of the Medieval City, is the **Catholic
-    Church of St. Francis of Assisi.** This is the official Latin Rite Parish church
-    of Rhodes; it was completed in 1939. Larger than the Santa Maria, this Church
-    eventually became the Parish church of the Franciscan Mission in Rhodes.
+- text: |-
+    **ST FRANCIS OF ASSISI**
+
+    As we return, we take the road of Monte Smith. The road meanders through the Ancient Acropolis of Rhodes Town. One the way you are treated to stunning views of the City and the Aegean and Mediterranean Seas. The first site we see as we arrive at the **Gate of St Athanasius** of the Medieval City, is the **Catholic Church of St. Francis of Assisi.** This is the official Latin Rite Parish church of Rhodes; it was completed in 1939. Larger than the Santa Maria, this Church eventually became the Parish church of the Franciscan Mission in Rhodes.
   gallery:
   - thumb: "./img/tours/guided/10/DD1-thumb.jpg"
     href: "./img/tours/guided/10/DD1.jpg"
