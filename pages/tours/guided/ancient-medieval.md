@@ -170,22 +170,32 @@ end_page:
   short_text: Experts in Rhodes Medieval City Tours
 
 ---
-Your tour begins from your designated point, where you will be driven to the **New Town** at the entrance of the **Old Harbor**, where according to tradition, one of the seven wonders of the ancient world, the famous **Colossus of Rhodes** once stood. <u>Guided Tour</u> (Stop Visit Photos)
+**THE NEW TOWN**
 
-You will make your way past the **north point of the island** where the Mediterranean and the Aegean Sea meet.
+Your tour begins from your designated point, where you will be driven to the New Town at the entrance of the Old Harbor, where according to tradition, one of the seven wonders of the ancient world, the famous **Colossus of Rhodes** once stood. <u>Guided Tour</u> (Stop Visit Photos)
 
-Next stop is to **Filerimos Mount**, which is past the west coast of the island, across the Ixia beach revealing the vibrant blue color of the **Aegean Sea**.
+**THE NORTH POINT OF THE ISLAND**
+
+You will make your way past the north point of the island where the Mediterranean and the Aegean Sea meet.
+
+**FILERIMOS MOUNT** 
+
+Next stop is to Filerimos Mount, which is past the west coast of the island, across the Ixia beach revealing the vibrant blue color of the Aegean Sea.
 
 The **Acropolis of Ancient Ialyssos** comes into view, marking the beginning of your <u>Guided Walking Tour</u>. Our first stop is at the church of **Our Lady of Filerimos**, which shares the same foundations as the ancient **temple of Athena** since early Christian times, the exterior of the **Filerimos Monastery** and the barrel-vaulted Chapel of St. George. (Stop Visit Photos)
 
 You continue with your <u>Guided Walking Tour</u> and visit the famous sheltered pathway known as the "**Way of the Cross"**. This pathway is studded with several shrines dedicated to scenes of the Passion. You will be led across from the main square to the western edge of the plateau which will reveal the **16-meter-tall Cross**, from where you can enjoy picturesque views of the west coast. (Stop Visit Photos)
 
-On the way back your panoramic drive up the hillside will continue to **Monte Smith**, also known as the **Ancient Acropolis of Rhodes City**, which provides excellent views of the city and the west coast. This will start your <u>Guided Walking Tour</u> where you will visit the following sites: The **Temple of Apollo**, the **Ancient Theatre,** the **Greek Stadium** andthe **Gymnasium** (Stop Visit Photos)
+**MONTE SMITH** 
 
-Your drive continues to the Medieval City. You will pass through the **D'Amboise Gate** which will mark the beginning of our <u>Guided Walking Tour</u>. Your first stop is the visit to impressive **Grand Masters Palace**. (*Walking Guided Tour into the Grand Master Palace*)
+On the way back your panoramic drive up the hillside will continue to Monte Smith, also known as the **Ancient Acropolis of Rhodes City**, which provides excellent views of the city and the west coast. This will start your <u>Guided Walking Tour</u> where you will visit the following sites: The **Temple of Apollo**, the **Ancient Theatre,** the **Greek Stadium** and the **Gymnasium** (Stop Visit Photos)
 
-After visiting the Grand Master Palace, you will make your way downhill the **Street of the Knights** to take **pictures from outside** of important monuments including; **The Ruins of Sent John Cathedral, the Archeological Museum** (New Hospital of the Knights), **the Byzantine Museum** (Our Lady of the Castle).
+**THE MEDIEVAL CITY**
 
-Your guided walking tour comes to an end as you reach the Marina Gate.
+Your drive continues to the Medieval City. You will pass through the **D'Amboise Gate** which will mark the beginning of our <u>Guided Walking Tour</u>. Your first stop is the visit to impressive **Grand Masters Palace**. (_Walking Guided Tour into the Grand Master Palace_)
+
+After visiting the Grand Master Palace, you will make your way downhill the **Street of the Knights** to take **pictures from outside** of important monuments including; **The Ruins of Sent John Cathedral, the Archeological Museum** (New Hospital of the Knights), **the Byzantine Museum** (Our Lady of the Castle). Your guided walking tour comes to an end as you reach the Marina Gate.
+
+**BACK TO THE STARTING POINT**
 
 You can choose to make go back to the hotel, ship or continue the journey into the old town on your own, in which case you will be responsible for your own return to the ship on foot, which is docked a quarter of a mile away.
