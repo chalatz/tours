@@ -136,15 +136,10 @@ gallery:
     alt: Panoramic view from the Cross on Filerimos
     position: following
 body:
-- text: The tour will begin with the "**Annunciation of the Virgin Mary**" or "Evangelismos
-    tis Theotokou". It's an Orthodox Church which is located very near the entrance
-    of the old port Mandraki. Is a copy of the St. John's the Baptist catholic church
-    in the Medieval City which was built by the Knights of St John Hospitallers. The
-    Church is styled as a 3 aisled gothic basilica with a wooden roof. The roof contains
-    a beautiful blend of Byzantine and Gothic elements. Due to the needs of the Orthodox
-    denomination, the interior was adjusted in 1947 according to their requirements.
-    The frescos were pained by the hagiographer extraordinaire, Photis Kontoglou (1952-
-    1962 A.D.) However, it still remains as it was on the outside.
+- text: |-
+    **ANNUNCIATION OF THE VIRGIN MARY**
+
+    The tour will begin with the church of the "Annunciation of the Virgin Mary" or "Evangelismos tis Theotokou". It's an Orthodox Church which is located very near the entrance of the old port Mandraki. Is a copy of the St. John's the Baptist catholic church in the Medieval City which was built by the Knights of St John Hospitallers. The Church is styled as a 3 aisled gothic basilica with a wooden roof. The roof contains a beautiful blend of Byzantine and Gothic elements. Due to the needs of the Orthodox denomination, the interior was adjusted in 1947 according to their requirements. The frescos were pained by the hagiographer extraordinaire, Photis Kontoglou (1952- 1962 A.D.) However, it still remains as it was on the outside.
   gallery:
   - thumb: "./img/tours/guided/10/BB1-thumb.jpg"
     href: "./img/tours/guided/10/BB1.jpg"
