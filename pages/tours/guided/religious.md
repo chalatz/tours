@@ -162,9 +162,13 @@ body:
     alt: Annunciation of the Virgin Mary with Byzantine and Gothic elements
     position: following
 - text: |-
-    As we move on from this breathtaking site, we venture out of Rhodes Town and come upon the West Coast. Here, the Church of "**Our Lady of Filerimos**" awaits us. It is situated atop the Filerimos hill - the Acropolis of Ancient Lalisos. In the days of early Christianity, this was the temple of Athena Polias. It was turned into a Christian three-aisled basilica dedicated to the Virgin Mary. Since then, the Church has become well known for housing the **Virgin of Filerimos** (Our Lady of Filerimos), which is an icon for the Island. The "Lady of Filerimos" is kept in the monastery surrounded by cloisters and cells. The monastery was constructed in the 14th century under the rule of the Knights of St. John. Today the icon can be seen at the Blue Chapel of the National Museum of Montenegro, in Filerimos Monastery you can see a copy of it
+    **OUR LADY OF FILERIMOS**
 
-    If you cross the outside fence opposite the entrance, you will be treated to the sight of the beautiful "**Way of the Cross**". It's a paved corridor with engravings on one side. The entire pathway is perched on pedestals that represent the Passion of the Christ. When you come to the end, you are witness to an 18-meter tall Cross. There is even a staircase that leads to the top for a breathtaking 360-degree view of the west and east coast of the island.
+    As we move on from this breathtaking site, we venture out of Rhodes Town and come upon the West Coast. Here, the Church of "Our Lady of Filerimos" awaits us. It is situated atop the Filerimos hill - the Acropolis of Ancient Lalisos. In the days of early Christianity, this was the temple of Athena Polias. It was turned into a Christian three-aisled basilica dedicated to the Virgin Mary. Since then, the Church has become well known for housing the **Virgin of Filerimos** (Our Lady of Filerimos), which is an icon for the Island. The "Lady of Filerimos" is kept in the monastery surrounded by cloisters and cells. The monastery was constructed in the 14th century under the rule of the Knights of St. John. Today the icon can be seen at the Blue Chapel of the National Museum of Montenegro, in Filerimos Monastery you can see a copy of it
+
+    **THE WAY OF THE CROSS**
+
+    If you cross the outside fence opposite the entrance, you will be treated to the sight of the beautiful "Way of the Cross". It's a paved corridor with engravings on one side. The entire pathway is perched on pedestals that represent the Passion of the Christ. When you come to the end, you are witness to an 18-meter tall Cross. There is even a staircase that leads to the top for a breathtaking 360-degree view of the west and east coast of the island.
   gallery:
   - thumb: "./img/tours/guided/10/CC1-thumb.jpg"
     href: "./img/tours/guided/10/CC1.jpg"
