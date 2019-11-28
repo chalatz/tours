@@ -216,15 +216,15 @@ body:
     href: "./img/tours/guided/10/DD5.jpg"
     alt: Handmade antique gallery - traditional Christian art
     position: following
-- text: The Gate of St Athanasius is the point where your walking guided tour begins.
-    The tour will take you through the Old Town to visit the Orthodox church of **Agios
-    Fanourios** (St Fanourios). It is located at the namesake street in the Medieval
-    Town of Rhodes. Built in the 13th century A.D, the interior adorned with beautiful
-    frescos. During the Ottoman Occupation, it was officiated as a Mesgit (Small Mosque).
-    Before the Ottoman Period, there is no known testimony for its name. The Italian
-    Archaeological Service preserved its interior during the 1920s. Following WWII,
-    it was taken over by the Greeks and then inaugurated and dedicated to Agios Fanourios
-    in 1946.
+- text: "**AGIOS FANOURIOS** \n\nThe Gate of St Athanasius is the point where your
+    walking guided tour begins. The tour will take you through the Old Town to visit
+    the Orthodox church of **Agios Fanourios** (St Fanourios). It is located at the
+    namesake street in the Medieval Town of Rhodes. Built in the 13th century A.D,
+    the interior adorned with beautiful frescos. During the Ottoman Occupation, it
+    was officiated as a Mesgit (Small Mosque). Before the Ottoman Period, there is
+    no known testimony for its name. The Italian Archaeological Service preserved
+    its interior during the 1920s. Following WWII, it was taken over by the Greeks
+    and then inaugurated and dedicated to Agios Fanourios in 1946."
   gallery:
   - thumb: "./img/tours/guided/10/EE1-thumb.jpg"
     href: "./img/tours/guided/10/EE1.jpg"
