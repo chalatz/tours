@@ -184,11 +184,19 @@ end_page:
   short_text: Experts in Jewish Tours of Rhodes
 
 ---
-From your selected point, you'll be driven to the entrance of the old harbor. Here, **according to tradition**, was the place where the famous **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood <u>Guided Tour</u> (Stop Visit Photos).
+**NEW TOWN**
 
-Then past the imposing buildings, continuing for a **Panoramic Drive** up the hillside to **Monte Smith (The Acropolis of Rhodes City)** which overlooks the city. Enjoy excellent views of the new and old town of Rhodes and the west coast.  (Stop Photos)
+From your selected point, you'll be driven to the entrance of the old harbor. Here, according to tradition, was the place where the famous **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood <u>Guided Tour</u> (Stop Visit Photos).
 
-Your journey will take you to the East Coast of the city where you will make a stop with your tour guide for a <u>Guided Walking Tour</u> at the best-preserved **Jewish Cemetery** in Europe. (Stop Visit Photos)
+**MONTE SMITH**
+
+Then past the imposing buildings, continuing for a **Panoramic Drive** up the hillside to Monte Smith **(The Acropolis of Rhodes City)** which overlooks the city. Enjoy excellent views of the new and old town of Rhodes and the west coast.  (Stop Photos)
+
+**THE JEWISH CEMETERY**
+
+Your journey will take you to the East Coast of the city where you will make a stop with your tour guide for a <u>Guided Walking Tour</u> at the best-preserved Jewish Cemetery in Europe. (Stop Visit Photos)
+
+**THE JEWISH QUARTER - LA JUDERIA**
 
 The drive will make its way to the **Medieval City** to a gate close to **La Juderia** (Jewish Quarter). This marks the beginning of your <u>Guided Walking Tour</u> with your tour guide. (Stop Visit Photos)
 
@@ -202,12 +210,26 @@ On your way you will see the famous **Sea Horse fountain** in **Square of the Je
 
 Only a short walk away is the **Marina Gate** which leads to your vehicle which will drive across 50 km / 32 miles of picturesque land southeast to **Lindos**.
 
-You will make a brief stop at a **traditional pottery workshop** on the way to Lindos. This is your chance to watch the potter work at his wheel to make his wonderful pieces of art. <u>Guided Tour</u> (Stop Visit Photos)
+**RHODIAN TRADITIONAL ART**
 
-The drive across the coast will give provide you with an impressive vantage point of the **Acropolis of Lindos**, revealing the white village located in a picturesque bay below. Your journey will continue to **St. Paul's Bay** to the south of Lindos, bringing into view the famous cave where the film **"The Guns of Navarone"** was filmed. <u>Guided Tour</u> (Stop Photos).
+You will make a brief stop at a traditional pottery workshop on the way to Lindos. This is your chance to watch the potter work at his wheel to make his wonderful pieces of art. <u>Guided Tour</u> (Stop Visit Photos)
 
-As you enter **Lindos Village**, your <u>Guided Walking Tour</u> will start. You will make our way up the narrow cobblestone pathway leading to the summit of the Acropolis of Lindos, which will provide you with a beautiful view of the remains of past civilizations. (Stop Visit Photos)
+**PANORAMIC VIEW OF LINDOS**
 
-Your return journey will take you across the coastal road to **Faliraki** sandy beach and the **Kallithea Spa**.
+The drive across the coast will give provide you with an impressive vantage point of the Acropolis of Lindos, revealing the white village located in a picturesque bay below.
+
+**ST PAUL’S BAY**
+
+Your journey will continue to St. Paul's Bay to the south of Lindos, bringing into view the famous cave where the film **"The Guns of Navarone"** was filmed. <u>Guided Tour</u> (Stop Photos).
+
+**THE VILLAGE AND ACROPOLIS OF LINDOS**
+
+As you enter Lindos Village, your <u>Guided Walking Tour</u> will start. You will make our way up the narrow cobblestone pathway leading to the summit of the Acropolis of Lindos, which will provide you with a beautiful view of the remains of past civilizations. (Stop Visit Photos)
+
+**COASTAL ROAD OF FALIRAKI AND KALLITHEA**
+
+Your return journey will take you across the coastal road to Faliraki sandy beach and the Kallithea Spa.
+
+**BACK TO THE STARTING POINT**
 
 Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
