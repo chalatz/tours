@@ -208,9 +208,7 @@ We drive to the East Coast of Rhodes Town and visit the Jewish Cemetery one of
 
 **JEWISH QUARTER - LA JUDERIA**
 
-Then you'll pass through one of the gateways of the Medieval City and enter the Jewish Quarter named "La Juderia"
-
-Here your Tour/Driver will park the car at the Parking Lot (Car Park) and show you how to walk to the Jewish Synagogue and Museum (Tour/Drivers are not permitted to provide walking tours, so he’ll wait at the Parking Lot for your return)
+Then you'll pass through one of the gateways of the Medieval City and enter the Jewish Quarter named "La Juderia".  Here your Tour/Driver will park the car at the Parking Lot (Car Park) and show you how to walk to the Jewish Synagogue and Museum (Tour/Drivers are not permitted to provide walking tours, so he’ll wait at the Parking Lot for your return)
 
 * **"Al Chatef"** street which is named for an honored family who once lived here in Rhodes (Stop Photos)
 * **The Square of the Martyred Jews** with the "seahorse" fountain. Also known in Greek as **"Evreon Martyron"**. (Stop Visit Photos)
