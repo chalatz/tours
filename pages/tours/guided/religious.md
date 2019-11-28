@@ -301,18 +301,18 @@ body:
     href: "./img/tours/guided/10/GG5.jpg"
     alt: Virgin Mary of Mercy, Rhodes Greece
     position: following
-- text: The final stop on our tour is the **Orthodox Church of St Panteleimonas.**
-    Located on the Northeast end of Medieval Town, near Agia Ekaterini's Gate, it
-    was constructed after the first Ottoman Siege on July 27th, 1480 AD. The day is
-    commemorated with The Day of the Churches Celebration. There is no evidence of
-    it being turned in to a Mosque during the Ottoman Period. According to Allert
-    Gabriel, who visited Rhodes in 1923, it had become a residence for Jewish families.
-    However, it became a customs office run by Italians at an unknown time. The British
-    used it as a police station, and after the Second World War, it was used as a
-    shelter for refugees. The Metropolitan Bishop of Rhodes, on one of his visits,
-    realized the site was a temple. After considerable restoration work in collaboration
-    with the Archaeological Service, the Church was consecrated on April 25th 1948
-    A.D.
+- text: "**ST PANTELEIMONAS** \n\n* The final stop on our tour is the Orthodox Church
+    of St Panteleimonas. Located on the Northeast end of Medieval Town, near Agia
+    Ekaterini's Gate, it was constructed after the first Ottoman Siege on July 27th,
+    1480 AD. The day is commemorated with The Day of the Churches Celebration. There
+    is no evidence of it being turned in to a Mosque during the Ottoman Period. According
+    to Allert Gabriel, who visited Rhodes in 1923, it had become a residence for Jewish
+    families. However, it became a customs office run by Italians at an unknown time.
+    The British used it as a police station, and after the Second World War, it was
+    used as a shelter for refugees. The Metropolitan Bishop of Rhodes, on one of his
+    visits, realized the site was a temple. After considerable restoration work in
+    collaboration with the Archaeological Service, the Church was consecrated on April
+    25th 1948 A.D."
   gallery:
   - thumb: "./img/tours/guided/10/HH1-thumb.jpg"
     href: "./img/tours/guided/10/HH1.jpg"
