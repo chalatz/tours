@@ -200,9 +200,7 @@ From your selected point, you'll be driven to the Historical Buildings and the O
 
 **MONTE SMITH**
 
-Monte Smith - **Acropolis of Rhodes Town**, Panoramic view of the City, also the Temple of Apollo, the Greek Stadium, and the Ancient Theater (Stop Visit Photos)
-
-We drive to the East Coast of Rhodes Town and visit:
+Monte Smith - **Acropolis of Rhodes Town**, Panoramic view of the City, also the Temple of Apollo, the Greek Stadium, and the Ancient Theater (Stop Visit Photos).  We drive to the East Coast of Rhodes Town and visit:
 
 **JEWISH CEMETERY**
 
