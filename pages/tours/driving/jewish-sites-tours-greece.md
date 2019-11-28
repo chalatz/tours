@@ -196,9 +196,7 @@ end_page:
 ---
 **NEW TOWN**
 
-From your selected point, you'll be driven to the Historical Buildings and the Old Harbor, where according to the tradition, the **Colossus of Rhodes** once stood (Stop Visit Pictures)
-
-The **North Point of the Island** where the Mediterranean and the Aegean Sea meet (Stop Photos)
+From your selected point, you'll be driven to the Historical Buildings and the Old Harbor, where according to the tradition, the **Colossus of Rhodes** once stood (Stop Visit Pictures)  The **North Point of the Island** where the Mediterranean and the Aegean Sea meet (Stop Photos)
 
 **MONTE SMITH**
 
