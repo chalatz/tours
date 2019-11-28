@@ -200,11 +200,11 @@ From your selected point, you'll be driven to the Historical Buildings and the O
 
 **MONTE SMITH**
 
-Monte Smith - **Acropolis of Rhodes Town**, Panoramic view of the City, also the Temple of Apollo, the Greek Stadium, and the Ancient Theater (Stop Visit Photos).  We drive to the East Coast of Rhodes Town and visit:
+Monte Smith - **Acropolis of Rhodes Town**, Panoramic view of the City, also the Temple of Apollo, the Greek Stadium, and the Ancient Theater (Stop Visit Photos).  
 
 **JEWISH CEMETERY**
 
-The Jewish Cemetery one of the best preserved in Europe and it contains tombstones from the 1840's to the present. Today many of these tombstones have been unearthed and exposed. Some of them are extremely interesting, both on account of their form and the inscriptions they bear. (Stop Visit Photos)
+We drive to the East Coast of Rhodes Town and visit the Jewish Cemetery one of the best preserved in Europe and it contains tombstones from the 1840's to the present. Today many of these tombstones have been unearthed and exposed. Some of them are extremely interesting, both on account of their form and the inscriptions they bear. (Stop Visit Photos)
 
 **JEWISH QUARTER - LA JUDERIA**
 
