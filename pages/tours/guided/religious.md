@@ -246,15 +246,10 @@ body:
     href: "./img/tours/guided/10/EE5.jpg"
     alt: church of Agios Fanourios, 13th century A.D
     position: following
-- text: The walking guided tour will take you next to the Grand Master Palace where
-    the ruins of the **Catholic church of Saint John's of the Knights Hospitallers**
-    await. The Knights officially handed over rule to the Ottomans on December 27th
-    1522 A.D. Sultan Suleiman the Magnificent himself prayed at this church. It was
-    later to become the most important Muslim place of worship, the "Great Mosque
-    of Rhodes". The temple, like many others on the island was a three-aisled gothic
-    basilica with a wooden roof. However, an unfortunate explosion occurred that destroyed
-    it. The Metropolitan Church of "**Virgin Mary's Annunciation"** mimics the patterns
-    of this temple.
+- text: |-
+    **SAINT JOHN OF THE KNIGHTS HOSPITALLERS**
+
+    The walking guided tour will take you next to the Grand Master Palace where the ruins of the Catholic church of Saint John's of the Knights Hospitallers await. The Knights officially handed over rule to the Ottomans on December 27th 1522 A.D. Sultan Suleiman the Magnificent himself prayed at this church. It was later to become the most important Muslim place of worship, the "Great Mosque of Rhodes". The temple, like many others on the island was a three-aisled gothic basilica with a wooden roof. However, an unfortunate explosion occurred that destroyed it. The Metropolitan Church of "**Virgin Mary's Annunciation"** mimics the patterns of this temple.
   gallery:
   - thumb: "./img/tours/guided/10/FF1-thumb.jpg"
     href: "./img/tours/guided/10/FF1.jpg"
