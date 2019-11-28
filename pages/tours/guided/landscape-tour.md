@@ -162,22 +162,36 @@ end_page:
   short_text: Experts in Rhodes Landscape Tours
 
 ---
-From your selected point, you'll be driven to the east coast of the island to the **Seven Springs**. The Seven Springs is a valley flowing with clear springs and covered with enormous plane and pine trees, a real oasis, especially in the heat of high summer.  This natural scenery offers the visitor a calm and relaxing atmosphere, bridges, streams, flowers, ducks and peacocks. <u>Guided Walking Tour</u> (Stop Visit Photos)
+**SEVEN SPRINGS**
 
-Next stop is the beautiful **Church of St Nectarios** located on the way from the Seven Springs to Archipoli village. A big **old hollow plane** **tree** stands in front and provides the fun experience of being inside a tree. There is a fountain next to the tree with tasty cool water. (Stop Photos)
+From your selected point, you'll be driven to the east coast of the island to the Seven Springs. The Seven Springs is a valley flowing with clear springs and covered with enormous plane and pine trees, a real oasis, especially in the heat of high summer.  This natural scenery offers the visitor a calm and relaxing atmosphere, bridges, streams, flowers, ducks and peacocks. <u>Guided Walking Tour</u> (Stop Visit Photos)
+
+**CHURCH OF ST NECTARIOS**
+
+Next stop is the beautiful Church of St Nectarios located on the way from the Seven Springs to Archipoli village. A big **old hollow plane** **tree** stands in front and provides the fun experience of being inside a tree. There is a fountain next to the tree with tasty cool water. (Stop Photos)
+
+**CHURCH OF ST NICHOLAS FOUNTOUKLI**
 
 We drive through **Archipoli** and **Eleousa** villages and visit the little Byzantine historic church of St Nickolas Fountoukli 15^th^ century. Inside is beautiful, the frescos are very detailed, and you can get up close and personal. It is worth noting that worship still takes place, in an arounding of old olive trees and a wonderful nature. <u>Guided Tour</u> (Stop Visit Photos)
 
-We continue the scenic drive from the east to the west coast through Pines and Cypress forests and visit:
+**MOUNT PROFITIS ELIAS**
 
-The **Elafos Hotel** which located on the top of **Mount Profitis Elias** (798m / 2600-foot elevation) built in 1929 during the Italian era.The building has a very distinctive architectural character, build like the traditional hostels of the Alps, with large, stone build walls in the basement and high-pitched wooden roofs. Mount Profitis Ilias is the second-highest mountain on Rhodes and offers wonderful views over the island's Aegean coastline. It's an ideal stop for photos or a cup of coffee <u>Guided Tour</u> (Stop Visit Photos)
+We continue the scenic drive from the east to the west coast through Pines and Cypress forests and visit:  The **Elafos Hotel** which located on the top of Mount Profitis Elias (798m / 2600-foot elevation) built in 1929 during the Italian era.The building has a very distinctive architectural character, build like the traditional hostels of the Alps, with large, stone build walls in the basement and high-pitched wooden roofs. Mount Profitis Ilias is the second-highest mountain on Rhodes and offers wonderful views over the island's Aegean coastline. It's an ideal stop for photos or a cup of coffee <u>Guided Tour</u> (Stop Visit Photos)
 
-We continue south-west and visit **Embona village**, the biggest grapes producer on the island. Here you visit a winery and taste the three well-known wine labels of Rhodes: **White wine** from the white grape variety Athiri. **Red wine** from a red grape variety Mandilaria and **Sweet white** wine produced by blending two varieties of Muscat grapes. (Stop Visit Taste Photos)
+**EMBONA VILLAGE**
 
-We continue to the west coast and visit the medieval **Castle of Kritinia**, (built in the 16th century by the Knights of St. John Hospitallers). Located just outside the village of Kritinia and stands proudly overlooking the bay atop a pine clad hill. From this vantage point you can have a **360° view**, and see the islands of **Chalki, Alimia, Makri, Strongyle, Tragoussa and Symi**. <u>Guided Walking Tour</u> (Stop Visit Photos)
+We continue south-west and visit Embona village, the biggest grapes producer on the island. Here you visit a winery and taste the three well-known wine labels of Rhodes: **White wine** from the white grape variety Athiri. **Red wine** from a red grape variety Mandilaria and **Sweet white** wine produced by blending two varieties of Muscat grapes. (Stop Visit Taste Photos)
 
-**Break for Delicious Snack or Lunch Experience** (at your own expense)at a seaside restaurant at the Aegean Sea right on the water's edge, with fresh seafood / Greek cuisine and excellent homemade wines.
+**CASTLE OF KRITINIA**
+
+We continue to the west coast and visit the medieval Castle of Kritinia, (built in the 16th century by the Knights of St. John Hospitallers). Located just outside the village of Kritinia and stands proudly overlooking the bay atop a pine clad hill. From this vantage point you can have a **360° view**, and see the islands of **Chalki, Alimia, Makri, Strongyle, Tragoussa and Symi**. <u>Guided Walking Tour</u> (Stop Visit Photos)
+
+**BREAK FOR LUNCH AT THE SEA**
+
+Break for Delicious Snack or Lunch Experience (at your own expense)at a seaside restaurant at the Aegean Sea right on the water's edge, with fresh seafood / Greek cuisine and excellent homemade wines.  
 
 Back through the west coast with **breath-taking views of the Aegean Sea.**
+
+**BACK TO THE STARTING POINT**
 
 Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to your hotel.
