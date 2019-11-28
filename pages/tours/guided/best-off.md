@@ -211,28 +211,50 @@ end_page:
   short_text: Experts in Rhodes Full Day Tours
 
 ---
-Upon reaching your designated point, you will be driven to the Medieval City, a World Heritage Site. You will make a brief stop at **the D'Amboise Gate** where you can take pictures of the environment. This marks the beginning of your <u>Guided Walking Tour</u> with your tour guide. You will make a tour of the most iconic monuments of the Old Town, (for pictures from outside) including the following: **Grand Masters Palace, Street of the Knights, Ruins of Sent John Cathedral,** **Archeological Museum, Byzantine Museum** (Stop Photos)
+**THE MEDIEVAL CITY**
 
-Reaching Marina Gate will mark the end of your walking tour.
+Upon reaching your designated point, you will be driven to the Medieval City, a World Heritage Site. You will make a brief stop at **the D'Amboise Gate** where you can take pictures of the environment. This marks the beginning of your <u>Guided Walking Tour</u> with your tour guide. You will make a tour of the most iconic monuments of the Old Town, (for pictures from outside) including the following: **Grand Masters Palace, Street of the Knights, Ruins of Sent John Cathedral,** **Archeological Museum, Byzantine Museum** (Stop Photos)  Reaching Marina Gate will mark the end of your walking tour.
+
+**THE NEW TOWN**
 
 The next phase of your journey begins towards the entrance of the **Old Harbor**, where according to tradition the famous **Colossus of Rhodes** once stood tall. Your tour guide will make a brief stop at this location so you can take photographs of the place. <u>Guided Tour</u> (Stop Visit Photos)
 
-You will be driven up the hillside to **Monte Smith**, giving you the best of the city's landmarks from the comforts of your vehicle. Towards the left lies the temple of Apollo against the contrasting blue water of the Aegean Sea on the right. (Stop Photos)
+**MONTE SMITH**
 
-In your **journey to Lindos**, you will drive across 50 km / 32 miles of the east coast of the island, catching glimpses of the picturesque villages. You will make a brief stop at the local pottery workshop where the famous pottery of Rhodes is produced. Here, you can witness firsthand how the potter works at his wheel to makes these wonderful pieces of art. <u>Guided Tour</u> (Stop Visit Photos)
+You will be driven up the hillside to Monte Smith, giving you the best of the city's landmarks from the comforts of your vehicle. Towards the left lies the temple of Apollo against the contrasting blue water of the Aegean Sea on the right. (Stop Photos)
 
-Next stop is for **free Olive Oil Taste**. Here you can taste a big variety of different **flavors of olive oil infused with dried herbs**, examples include chilies, thyme, hot peppers, rosemary, garlic, oregano, and sun-dried tomatoes. You can also taste some of the local wines. (Stop Visit Taste Photos)
+**THE JOURNEY TO LINDOS**
+
+In your journey to Lindos, you will drive across 50 km / 32 miles of the east coast of the island, catching glimpses of the picturesque villages. 
+
+**RHODIAN TRADITIONAL ART**
+
+You will make a brief stop at the local pottery workshop where the famous pottery of Rhodes is produced. Here, you can witness firsthand how the potter works at his wheel to makes these wonderful pieces of art. <u>Guided Tour</u> (Stop Visit Photos)
+
+**FREE OLIVE OIL TASTE** 
+
+Next stop is for free Olive Oil Taste. Here you can taste a big variety of different **flavors of olive oil infused with dried herbs**, examples include chilies, thyme, hot peppers, rosemary, garlic, oregano, and sun-dried tomatoes. You can also taste some of the local wines. (Stop Visit Taste Photos)
+
+**PANORAMIC VIEW OF LINDOS**
 
 The coast provides an excellent vantage point that provides you with a bird's eye view of the Acropolis of Lindos, with the tiny white village studded across the visually striking bay below. (Stop Photos)
 
-You will make your way to **St. Paul's Bay**, just south of Lindos, where the **apostle Paul** is said to have landed in the year 51 AD to preach Christianity to the Rhodians. You can also see the cave where the famous film **"The Guns of Navarone"** was filmed. <u>Guided Tour</u> (Stop Photos)
+**ST PAUL'S BAY**
 
-This will mark the end of your driving journey.
+You will make your way to **St. Paul's Bay**, just south of Lindos, where the **apostle Paul** is said to have landed in the year 51 AD to preach Christianity to the Rhodians. You can also see the cave where the famous film **"The Guns of Navarone"** was filmed. <u>Guided Tour</u> (Stop Photos)  This will mark the end of your driving journey.
+
+**LINDOS VILLAGE AND ACROPOLIS**
 
 Your <u>Guided Walking Tour</u> of **Lindos Village** starts here. You will make your way through the village, walking up narrow cobblestone steps uphill until you reach the summit of the **Acropolis of Lindos**. Here, you can see the ancient remains of past civilizations. (Stop Visit Photos)
 
+**BREAK FOR LUNCH AT THE SEA**
+
 Your return journey from Lindos will include a stop for some delicious snacks and lunch at a picturesque seaside village right near the Mediterranean Sea's edge. (at your own expense). Here, you can indulge in the best that **Greek Gastronomy** has to offer, including fresh seafood, local cuisine and excellent local wines.
 
-Your guided tour will include a strikingly beautiful driveway along the coastal sandy beach of **Faliraki** and the blue turquoise **Kallithea Spa**.
+**COASTAL ROAD OF FALIRAKI AND KALLITHEA**
+
+Your guided tour will include a strikingly beautiful driveway along the coastal sandy beach of Faliraki and the blue turquoise Kallithea Spa.
+
+**BACK TO THE STARTING POINT**
 
 After you make your stop back to Rhodes Town, you can choose to stay at your hotel or your ship. You can also opt to take a free time for independent tour of the Old Town by stopping near the city gates. In which case you will be responsible for your own return to the ship, which is docked a quarter of a mile away for easy access.
