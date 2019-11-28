@@ -194,16 +194,25 @@ end_page:
   short_text: 'Experts in Rhodes Exclusive Tours   '
 
 ---
-From your selected point, you'll be driven to the Historical Buildings and the Old Harbor, where according to the tradition, the Colossus of Rhodes once stood (Stop Visit Pictures)
+**NEW TOWN**
 
-* The North point of the Island where the Mediterranean and the Aegean Sea meet (Stop Photos)
-* **Monte Smith - Acropolis of Rhodes**, Panoramic view of the City, also the Temple of Apollo, the Greek Stadium, and the Ancient Theater (Stop Visit Photos)
+From your selected point, you'll be driven to the Historical Buildings and the Old Harbor, where according to the tradition, the **Colossus of Rhodes** once stood (Stop Visit Pictures)
+
+The **North Point of the Island** where the Mediterranean and the Aegean Sea meet (Stop Photos)
+
+**MONTE SMITH**
+
+Monte Smith - **Acropolis of Rhodes Town**, Panoramic view of the City, also the Temple of Apollo, the Greek Stadium, and the Ancient Theater (Stop Visit Photos)
 
 We drive to the East Coast of Rhodes Town and visit:
 
-* The **Jewish Cemetery** one of the best preserved in Europe and it contains tombstones from the 1840's to the present. Today many of these tombstones have been unearthed and exposed. Some of them are extremely interesting, both on account of their form and the inscriptions they bear. (Stop Visit Photos)
+**JEWISH CEMETERY**
 
-Then you'll pass through one of the gateways of the Medieval City and enter the **Jewish Quarter** named **"La Juderia"**
+The Jewish Cemetery one of the best preserved in Europe and it contains tombstones from the 1840's to the present. Today many of these tombstones have been unearthed and exposed. Some of them are extremely interesting, both on account of their form and the inscriptions they bear. (Stop Visit Photos)
+
+**JEWISH QUARTER - LA JUDERIA**
+
+Then you'll pass through one of the gateways of the Medieval City and enter the Jewish Quarter named "La Juderia"
 
 Here your Tour/Driver will park the car at the Parking Lot (Car Park) and show you how to walk to the Jewish Synagogue and Museum (Tour/Drivers are not permitted to provide walking tours, so he’ll wait at the Parking Lot for your return)
 
@@ -213,18 +222,32 @@ Here your Tour/Driver will park the car at the Parking Lot (Car Park) and show y
 * Then onto the **"Kahal Shalom" Synagogue** (Open at 10:00 AM) the oldest synagogue in Greece. It was built in the year 1577 and is still in service. The full name of the building is **"Kahal Kadosh Shalom"** (Holy Congregation of Peace). It is used for prayer services when visitors or former residents and their families visit the Island for Friday night prayer services, High Holiday services and for special occasions. Most features of the Kahal Shalom Synagogue are typical of Sephardic Synagogues. An unusual feature of the temple is the fact that there are two hekháls (Torah arks), on either side of the door leading into the interior courtyard. (Stop Visit Photos)
 * You will visit the **Rhodes Jewish Museum** that collected a large number of pictures of the past Jewish community in Rhodes and the 800 Year-Old Torah which is one of the oldest Torahs in the world. Originally from and used by the Sephardic Jewish of the Iberian Peninsula and brought to Rhodes Island by the Sephardic Jewish refugees when they fled Spain and Portugal. The Jewish Museum of Rhodes opens for the first time in 1997. **Aron Hasson**, attorney, from Los Angeles and Rhodian third generation, is the founder and the one who inspired the idea of creating a museum. (Stop Visit Photos)
 
+**ANTHONY QUINN BAY**
+
 Once you get back to the Parking Lot, your journey to **Lindos** will take you along a beautiful, 50km / 32 miles drive of the east coast of the island, past picturesque little villages.
 
 On the way you visit the **Anthony Quinn Bay** - Takes its name from the famous Hollywood actor, who owns a large property in this area. Since filming the Guns of Navarone in Rhodes Island - scenic (Stop Visit Photos)
 
+**RHODIAN TRADITIONAL ART**
+
 On the way to Lindos, you can choose an optional short stop at a pottery workshop where the traditional pottery of Rhodes is made. You can see the wonderful pieces of art, and watch the potter working at his wheel. You can even learn the mystery of the Pythagorean cup. Just let your tour/driver know that you wish to make this short stop.
+
+**PANORAMIC VIEW OF LINDOS**
 
 From a vantage point along the coast, the impressive Acropolis will come into view with the village of Lindos situated in a picturesque bay below (Stop Photos)
 
-You continue to the south of Lindos, to **St. Paul 's Bay**, from this point you can view the cave where **the film "The Guns of Navarone"** was filmed. (Stop Visit Photos)
+**ST PAUL'S BAY**
 
-Then we drive to the main square of Lindos so you can climb up to the **Acropolis of Lindos**, or ride the donkeys - the **"Lindos Taxi"**!! Walk through Lindos village and up the many steps and narrow uphill cobblestone pathways to the summit of the Acropolis to see the magnificent remains of past civilizations, as well as the panoramic view. (Stop Visit Photos)
+You continue to the south of Lindos, to St. Paul 's Bay, from this point you can view the cave where the movie **"The Guns of Navarone"** was filmed. (Stop Visit Photos)
 
-On the way back we drive along the coastal road to **Faliraki** famous sandy beach, and **Kallithea** spa.
+**THE VILLAGE AND ACROPOLIS OF LINDOS**
+
+Then we drive to the main square of Lindos so you can climb up to the Acropolis of Lindos, or ride the donkeys - the **"Lindos Taxi"**!! Walk through Lindos village and up the many steps and narrow uphill cobblestone pathways to the summit of the Acropolis to see the magnificent remains of past civilizations, as well as the panoramic view. (Stop Visit Photos)
+
+**COASTAL ROAD OF FALIRAKI AND KALLITHEA**
+
+On the way back we drive along the coastal road to Faliraki famous sandy beach, and Kallithea Spa.
+
+**BACK TO THE STARTING POINT**
 
 Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
