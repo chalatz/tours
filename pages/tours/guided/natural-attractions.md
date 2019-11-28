@@ -174,18 +174,32 @@ end_page:
   short_text: Experts in Rhodes Natural Tours
 
 ---
-In the beginning, you will experience the **Kallithea Spa** on the east coast of the island. You will be driven there from your selected drop off point. The Springs date back to Classical Antiquity and have become a popular tourist attraction, as well as a wedding destination since it was renovated.   Some classic **Hollywood flicks** have even been filmed here with the most prominent being **Escape to Athena,** starring the ethereal **Roger Moore** and the rugged **Telly Savalas**. The action classic, the **Guns of Navarone** also had some of its scenes filmed here. <u>Guided Walking Tour</u> (Stop Visit Photos)
+**KALLITHEA SPA**
 
-Up next is **Anthony Quinn Bay**, named after the star of the **Golden Age of Hollywood**. A large property named after him has existed in Rhodes Island since the filming of the **Guns of Navarone** on Rhodes Island - scenic <u>Guided Tour</u> (Stop Visit Photos)
+In the beginning, you will experience the Kallithea Spa on the east coast of the island. You will be driven there from your selected drop off point. The Springs date back to Classical Antiquity and have become a popular tourist attraction, as well as a wedding destination since it was renovated.   Some classic **Hollywood flicks** have even been filmed here with the most prominent being **Escape to Athena,** starring the ethereal **Roger Moore** and the rugged **Telly Savalas**. The action classic, the **Guns of Navarone** also had some of its scenes filmed here. <u>Guided Walking Tour</u> (Stop Visit Photos)
 
-Moving on from there, we will take a scenic ride from the East to the West Coast of the island and pass through the **villages of Kallithies a**nd **Psinthos.**
+**ANTHONY QUINN BAY**
 
-After which we will arrive at the **Valley of the Butterflies**. You will be dropped at the upper gate by vehicle to make the walk down from the valley much easier. Here you can bear witness to the final stages of the life cycle of hundreds of butterflies in congregation. This only happens from mid-June to mid-September. It is a rare, natural occurrence that includes the majestic insects camouflaging themselves against the trees. While bearing witness to this phenomenon, you can take a walk through the wooden bridges and the natural carved out paths through the valley. <u>Guided Walking Tour</u> (Stop Visit Photos)
+Up next is Anthony Quinn Bay, named after the star of the Golden Age of Hollywood. A large property named after him has existed in Rhodes Island since the filming of the Guns of Navarone on Rhodes Island - scenic <u>Guided Tour</u> (Stop Visit Photos)
 
-After that, the coastal road of **Kremasti** and **Ialysos** will proceed along the west coast until it leads us to **Filerimos** **Mountain** Plateau which rises 267 meters / 876 feet above sea level.. Our vehicle will take you to the top of the mountain so that you can get a 360 degree view of the magnificent ruins of the **Acropolis** **of the Ancient** **Ialyssos**.  
+**SCENIC DRIVE FROM THE EAST TO THE WEST COAST**
 
-The **Church of Our Lady** will appear next, built on the foundation of the **Ancient Temple of Athena** (built in the Early Christian Era). The exterior of the **Filerimos Monastery** as well as the barrel-vaulted **Chapel of St. George** are both sights to behold. <u>Guided Walking Tour</u> (Stop Visit Photos)
+Moving on from there, we will take a scenic ride from the East to the West Coast of the island and pass through the **villages of Kallithies** and **Psinthos.**
 
-The Pathway on the right sheltered by beautiful trees is called the **Way of the Cross**. It is adorned with shrines that depict the relief scene of the Passion. The path finally leads from the main square to the west edge of the Plateau and up to the 16 meter / 48 feet cross. Here you can take in the incredible view of the west coast of Rhodes Island. <u>Guided Walking Tour</u> (Stop Visit Photos)
+**THE VALLEY OF THE BUTTERFLIES**
+
+After which we will arrive at the Valley of the Butterflies. You will be dropped at the upper gate by vehicle to make the walk down from the valley much easier. Here you can bear witness to the final stages of the life cycle of hundreds of butterflies in congregation. This only happens from mid-June to mid-September. It is a rare, natural occurrence that includes the majestic insects camouflaging themselves against the trees. While bearing witness to this phenomenon, you can take a walk through the wooden bridges and the natural carved out paths through the valley. <u>Guided Walking Tour</u> (Stop Visit Photos)
+
+**FILERIMOS MOUNTAIN**
+
+After that, the coastal road of **Kremasti** and **Ialysos** will proceed along the west coast until it leads us to Filerimos Mountain Plateau which rises 267 meters / 876 feet above sea level.. Our vehicle will take you to the top of the mountain so that you can get a 360 degree view of the magnificent ruins of the **Acropolis** **of the Ancient** **Ialyssos**.
+
+The church **of Our Lady** **of Filerimos** will appear next, built on the foundation of the Ancient Temple of Athena (built in the Early Christian Era). The exterior of the **Filerimos Monastery** as well as the barrel-vaulted **Chapel of St. George** are both sights to behold. <u>Guided Walking Tour</u> (Stop Visit Photos)
+
+**FILERIMOS - THE WAY OF THE CROSS**
+
+The Pathway on the right sheltered by beautiful trees is called the Way of the Cross. It is adorned with shrines that depict the relief scene of the Passion. The path finally leads from the main square to the west edge of the Plateau and up to the 16 meter / 48 feet cross. Here you can take in the incredible view of the west coast of Rhodes Island. <u>Guided Walking Tour</u> (Stop Visit Photos)
+
+**BACK TO THE STARTING POINT**
 
 Returning to Rhodes Town, you may choose to go back to a hotel, or your ship, or better yet, to the city gates of the Old Town to continue your exploration. Note that choosing the last option will leave you responsible for your own trudge back to the ship, which will be docked a quarter of a mile away.
