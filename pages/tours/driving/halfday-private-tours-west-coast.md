@@ -200,9 +200,7 @@ From your selected point, you'll be driven to the Old town Medieval City (**Worl
 
 **NEW TOWN - OLD PORT**
 
-You continue to the New Town to the entrance of the old harbour where according to the tradition, the **Colossus of Rhodes** once stood (Stop Visit Photos) 
-
-The **Church of the Annunciation** (Stop Visit Photos) and the North Point of the Island (Stop Photos)
+You continue to the New Town to the entrance of the old harbour where according to the tradition, the **Colossus of Rhodes** once stood (Stop Visit Photos).  The **Church of the Annunciation** (Stop Visit Photos) and the North Point of the Island (Stop Photos)
 
 **ANCIENT KAMIROS**
 
