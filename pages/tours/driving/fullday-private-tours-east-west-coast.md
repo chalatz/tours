@@ -205,7 +205,7 @@ This is a longer program includes the **"Best of Rhodes"** half day tour, and mo
 
 **VALLEY OF THE BUTTERFLIES**
 
-On the way back you drive through the island, from the **East to the West Coast**, the road passes through villages and densely wooded areas, we come to the **Valley of the Butterflies**. This site is beautifully arranged with wooden bridges, from mid-June to mid-September thousands of butterflies appear. (Stop Visit Photos).
+On the way back you drive through the island, from the **East to the West Coast**, the road passes through villages and densely wooded areas, we come to the Valley of the Butterflies. This site is beautifully arranged with wooden bridges, from mid-June to mid-September thousands of butterflies appear. (Stop Visit Photos).
 
 **THE TRADITIONAL WINERY**
 
