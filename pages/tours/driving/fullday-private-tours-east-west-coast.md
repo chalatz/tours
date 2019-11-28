@@ -217,9 +217,7 @@ We continue on the west coast, and after winding upwards for 3 miles on the File
 
 **FILERIMOS - THE WAY OF THE CROSS**
 
-On the right hand side there is a beautiful tree sheltered pathway the "Way of the Cross" This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos)
-
-And through **Ixia**, one of the largest tourist settlements, back to Rhodes town.
+On the right hand side there is a beautiful tree sheltered pathway the "Way of the Cross" This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos).  And through **Ixia**, one of the largest tourist settlements, back to Rhodes town.
 
 **BACK TO THE STARTING POINT**
 
