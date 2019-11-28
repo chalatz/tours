@@ -209,15 +209,15 @@ On the way back you drive through the island, from the **East to the West Coast*
 
 **THE TRADITIONAL WINERY**
 
-After few miles we stop at a small Traditional Winery. Here you have the opportunity to free taste a selection of locally produced wines. As well as you get your pictures of the aging facilities. (Stop Visit Photos)
+After few miles we stop at a small Traditional Winery. Here you have the opportunity to free taste a selection of locally produced wines. As well as you get your pictures of the aging facilities. (Stop Visit Taste Photos)
 
 **FILERIMOS MOUNTAIN**
 
-We continue on the west coast, and after winding upwards for 3 miles on the **Filerimos Mountain**, we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the **Church of Our Lady**, built upon the foundations of the ancient **temple of Athena**. You'll also see the exterior of the monastery and courtyard, as well as the barrel-vaulted Chapel of St. George. 
+We continue on the west coast, and after winding upwards for 3 miles on the Filerimos Mountain, we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the Church of **Our Lady of Filerimos**, built upon the foundations of the ancient **temple of Athena**. You'll also see the exterior of the monastery and courtyard, as well as the barrel-vaulted Chapel of St. George.
 
 **FILERIMOS - THE WAY OF THE CROSS**
 
-On the right hand side there is a beautiful tree sheltered pathway the "Way of the Cross**"** This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos)
+On the right hand side there is a beautiful tree sheltered pathway the "Way of the Cross" This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos)
 
 And through **Ixia**, one of the largest tourist settlements, back to Rhodes town.
 
