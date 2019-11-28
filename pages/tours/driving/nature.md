@@ -172,27 +172,29 @@ end_page:
 ---
 **KALLITHEA SPA**
 
-You'll be driven to **Kallithea Spa (**Springs) which lies on the East Coast of the island from your selected drop off point. The **Kallithea Spa** date back to the times of Classical Antiquity. The monument has become a popular tourist attraction and wedding destination ever since its renovation. It has even captured the imagination of **Hollywood**, attracting shoots for international and Greek productions. "**Escape to Athena**" starring **Roger Moore** (the second actor to play James Bond), and **Telly Savalas** (Kojack) was filmed here. A few scenes from "**The Guns of Navarone**" were also filmed on site. (Stop Visit Photos)
+You'll be driven to Kallithea Spa (Springs) which lies on the East Coast of the island from your selected drop off point. The Kallithea Spa date back to the times of Classical Antiquity. The monument has become a popular tourist attraction and wedding destination ever since its renovation. It has even captured the imagination of **Hollywood**, attracting shoots for international and Greek productions. "**Escape to Athena**" starring **Roger Moore** (the second actor to play James Bond), and **Telly Savalas** (Kojack) was filmed here. A few scenes from "The Guns of Navarone" were also filmed on site. (Stop Visit Photos)
 
 **ANTHONY QUINN BAY**
 
-The next stop on the tour of the island is the **Anthony Quinn Bay.** It takes its name from the Golden Age Hollywood star who owns a significant property here, ever since the filming of the "Guns of Navarone" in Rhodes Island - scenic (Stop Visit Photos)
+The next stop on the tour of the island is the Anthony Quinn Bay. It takes its name from the Golden Age Hollywood star who owns a significant property here, ever since the filming of the "Guns of Navarone" in Rhodes Island - scenic (Stop Visit Photos)
 
 **SEVEN SPRINGS**
 
-The **Seven Springs** lie to the southeast. The valley is dotted with clear springs and humongous plane and pine trees. The place presents itself as an oasis, especially in the heat of high summer. Surrounded by the bridges, streams, flowers, ducks and peacocks, the visitor can't help but be calm and relaxed. (Stop Visit Photos)
+The Seven Springs lie to the southeast. The valley is dotted with clear springs and humongous plane and pine trees. The place presents itself as an oasis, especially in the heat of high summer. Surrounded by the bridges, streams, flowers, ducks and peacocks, the visitor can't help but be calm and relaxed. (Stop Visit Photos)
 
 **VALLEY OF THE BUTTERFLIES**
 
-Up next is the **Valley of the Butterflies.** The walk down the valley is easier since you are dropped at the upper gate. You can witness the splendor of hundreds of congregating butterflies during the final stages of their life cycle; which takes place starting from mid-June to mid-September. This rare, natural phenomenon includes butterflies camouflaging themselves against the trees. As you walk through the valley, the wooden bridges and natural paths will be your guide. (Stop Visit Photos)
+Up next is the Valley of the Butterflies**.** The walk down the valley is easier since you are dropped at the upper gate. You can witness the splendor of hundreds of congregating butterflies during the final stages of their life cycle; which takes place starting from mid-June to mid-September. This rare, natural phenomenon includes butterflies camouflaging themselves against the trees. As you walk through the valley, the wooden bridges and natural paths will be your guide. (Stop Visit Photos)
 
-**FILERIMOS - ACROPOLIS OF ANCIENT IALYSSOS**
+**FILERIMOS MOUNTAIN** 
 
-From there the coastal road of **Kremasti and Ialysos** will take us along the west coast until we reach the **Filerimos Mountain**
+From there the coastal road of **Kremasti and Ialysos** will take us along the west coast until we reach the Filerimos Mountain
 
-The car will take you to the top to experience the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. The tour will proceed on from there to the **Church of Our Lady**, the foundation of which is the ancient **temple of Athena** built during the early Christian Era. While there, you will also get to see the exterior of the **Filerimos Monastery** and the barrel-vaulted **Chapel of St. George**. (Stop Visit Photos)
+The car will take you to the top to experience the ruins of the Acropolis of the Ancient Ialyssos. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. The tour will proceed on from there to the church of Our Lady of Filerimos, the foundation of which is the ancient temple of Athena built during the early Christian Era. While there, you will also get to see the exterior of the Filerimos Monastery and the barrel-vaulted Chapel of St. George. (Stop Visit Photos)
 
-You'll notice a pathway on your right, sheltered by beautiful trees. This is the **"Way of the Cross".** The path is adorned with shrines depicting the 'relief scene of the Passion'. The path leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross. And here you can enjoy the splendor of an incredible view. (Stop Visit Photos)
+**FILERIMOS - THE WAY OF THE CROSS**
+
+You'll notice a pathway on your right, sheltered by beautiful trees. This is the "Way of the Cross"**.** The path is adorned with shrines depicting the 'relief scene of the Passion'. The path leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross. And here you can enjoy the splendor of an incredible view. (Stop Visit Photos)
 
 **BACK TO THE STARTING POINT**
 
