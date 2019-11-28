@@ -192,9 +192,7 @@ After which we will arrive at the Valley of the Butterflies. You will be dropped
 
 **FILERIMOS MOUNTAIN**
 
-After that, the coastal road of **Kremasti** and **Ialysos** will proceed along the west coast until it leads us to Filerimos Mountain Plateau which rises 267 meters / 876 feet above sea level.. Our vehicle will take you to the top of the mountain so that you can get a 360 degree view of the magnificent ruins of the **Acropolis** **of the Ancient** **Ialyssos**.
-
-The church **of Our Lady** **of Filerimos** will appear next, built on the foundation of the Ancient Temple of Athena (built in the Early Christian Era). The exterior of the **Filerimos Monastery** as well as the barrel-vaulted **Chapel of St. George** are both sights to behold. <u>Guided Walking Tour</u> (Stop Visit Photos)
+After that, the coastal road of **Kremasti** and **Ialysos** will proceed along the west coast until it leads us to Filerimos Mountain Plateau which rises 267 meters / 876 feet above sea level.. Our vehicle will take you to the top of the mountain so that you can get a 360 degree view of the magnificent ruins of the **Acropolis** **of the Ancient** **Ialyssos**.  The church **of Our Lady** **of Filerimos** will appear next, built on the foundation of the Ancient Temple of Athena (built in the Early Christian Era). The exterior of the **Filerimos Monastery** as well as the barrel-vaulted **Chapel of St. George** are both sights to behold. <u>Guided Walking Tour</u> (Stop Visit Photos)
 
 **FILERIMOS - THE WAY OF THE CROSS**
 
