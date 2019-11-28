@@ -196,13 +196,13 @@ end_page:
   short_text: ''
 
 ---
-**MONASTERY OF FILERIMOS - MOUNT FILERIMOS**
+**MOUNT FILERIMOS - MONASTERY OF FILERIMOS -** 
 
-From your selected point, you'll be driven along the west coast of the island up to Mount Filerimos, where we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the Church of **Our Lady of Filerimos**, built upon the foundations of the ancient Temple of Athena from early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted **Chapel of St. George**.
+From your selected point, you'll be driven along the west coast of the island up to Mount Filerimos, where we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the Church of **Our Lady of Filerimos**, built upon the foundations of the ancient Temple of Athena from early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted Chapel of St. George.
 
 **FILERIMOS - THE WAY OF THE CROSS**
 
-On the right-hand side there is a beautiful tree-sheltered pathway the **"Way of the Cross"** where are displayed a series of shrines with relief scenes depicting the Passion of Christ. This pathway leads from the main square to the west edge of the plateau where there is a large cross (16 meters / 48 feet tall), from the site of which you can enjoy a stunning view of the west coast. (Stop Visit Photos)
+On the right-hand side there is a beautiful tree-sheltered pathway the "Way of the Cross" where are displayed a series of shrines with relief scenes depicting the Passion of Christ. This pathway leads from the main square to the west edge of the plateau where there is a large cross (16 meters / 48 feet tall), from the site of which you can enjoy a stunning view of the west coast. (Stop Visit Photos)
 
 **ANCIENT KAMIROS**
 
@@ -212,7 +212,7 @@ The drive continues 22 km / 13 miles southwest on the Island to Ancient Kamiros,
 
 We continue south and visit the medieval Castle of Kritinia (of the Knights of St. John Hospitaller) located just outside the village of Kritinia, built in the 16th century which stands proudly overlooking the bay atop a pine clad hill. From this vantage point you can have a 360° view, and see the islands of **Chalki**, **Alimia**, **Makri**, **Strongyle**, **Tragoussa** and **Symi**. (Stop Visit Photos)
 
-**YOUR JOURNEY TO MONOLITHOS** 
+**YOUR JOURNEY TO MONOLITHOS**
 
 Then your journey to Monolithos will take you along a beautiful, 20 km / 12 miles drive of the west coast of the island, through natural pine tree woods revealing beautiful **Aegean Sea** **Vistas**. On the way, you stop at a vantage point for a closer view of the little beautiful islands. On your left side is the green of the pine trees and on your right, is the turquoise blue of the Aegean Sea. (Stop Photos)
 
