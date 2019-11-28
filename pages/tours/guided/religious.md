@@ -272,14 +272,14 @@ body:
     href: "./img/tours/guided/10/FF5.jpg"
     alt: At the top of the Street of the Knights are the ruins of Saint John’s church
     position: following
-- text: As we proceed through the tour, we go down the Street of the Knights, and
-    pass the Ippocratous Square and the Martyron Evreon Square with the Seahorses
-    Fountain. Here awaits the **Panagia tou Bourgou** (Virgin Mary of Burgos). This
-    is another gothic basilica with three aisles; however, it also features two arcades
-    created by four columns and pointed arches. Built in the 14th century, the Church
-    also goes by the "**Church of the Virgin Mary of Mercy**". Partial restoration
-    has occurred over the years and the area is open to the public. Even music events
-    are held here at times.
+- text: "\n**VIRGIN MARY OF THE BOURGOU** \n\nAs we proceed through the tour, we go
+    down the Street of the Knights, and pass the Ippocratous Square and the Martyron
+    Evreon Square with the Seahorses Fountain. Here awaits the **Panagia tou Bourgou**
+    (Virgin Mary of Burgos). This is another gothic basilica with three aisles; however,
+    it also features two arcades created by four columns and pointed arches. Built
+    in the 14th century, the Church also goes by the \"**Church of the Virgin Mary
+    of Mercy**\". Partial restoration has occurred over the years and the area is
+    open to the public. Even music events are held here at times."
   gallery:
   - thumb: "./img/tours/guided/10/GG1-thumb.jpg"
     href: "./img/tours/guided/10/GG1.jpg"
