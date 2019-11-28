@@ -175,24 +175,32 @@ end_page:
   short_text: Experts in Rhodes Private Tours
 
 ---
-After reaching your designated meeting point, your tour of the Old Town, Medieval City -- a World Heritage Site -- will commence. You will make a stop through the **D'Amboise Gate** to take pictures of the site. This marks the beginning of your <u>Guided Walking Tour</u> with your tour guide. You will get picturesque views from the outside of important monuments including: **Grand Masters Palace, Street of the Knights, Ruins of Sent John Cathedral,** **Archeological Museum, Byzantine Museum** (Stop Photos)
+**THE MEDIEVAL CITY**
 
-Your walking tour ends upon reaching the Marine Gate.
+After reaching your designated meeting point, your tour of the Old Town, Medieval City -- a World Heritage Site -- will commence. You will make a stop through the **D'Amboise Gate** to take pictures of the site. This marks the beginning of your <u>Guided Walking Tour</u> with your tour guide. You will get picturesque views from the outside of important monuments including: **Grand Masters Palace, Street of the Knights, Ruins of Sent John Cathedral,** **Archeological Museum, Byzantine Museum** (Stop Photos)  Your walking tour ends upon reaching the Marine Gate.
+
+**THE NEW TOWN**
 
 You will make your way past impressive buildings of the New Town and visit the Old Port Mandraki. Legend has it that the iconic **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood tall. <u>Guided Tour</u>  (Stop Visit Photos).
 
-Your **Panoramic Drive** will make its way up to **Monte Smith**, also known as the **Acropolis of Rhodes City**, which provides a beautiful vantage point of the city. You will also enjoy picturesque views of the blue turquoise **Aegean Sea** and the beautiful west coast. (Stop Photos).
+**MONTE SMITH**
 
-Next, your trip to the **Ancient Kamiros** will take you past the strikingly impressive 48 km / 30 miles of the island's west coast, across small villages.
+Your **Panoramic Drive** will make its way up to Monte Smith, also known as the **Acropolis of Rhodes City**, which provides a beautiful vantage point of the city. You will also enjoy picturesque views of the blue turquoise Aegean Sea and the beautiful west coast. (Stop Photos).
 
-Your <u>Guided Walking Tour</u> will begin upon arriving at Ancient Kamiros, which was a prosperous Doric city during the 5th century BC. Some of the monuments you will get to see include the following: **Agora Square, Temple of Pythian Apollo, Fountain Square, Sanctuary dedicated to the Gods and Heroes of Kamiros, Baths-House, Main Street, Houses** and more! The **Acropolis** will open up exciting views of the ruins of the **Temple of Athena Kameiras**, **Large Stoa** and the **Archaic Cistern**, (a water reservoir). The Ancient Kamiros has a thriving agricultural landscape surrounding it, which also adds to the lush beauty of the region. (Stop Visit Photos)
+**ANCIENT KAMIROS** 
+
+Next, your trip to the Ancient Kamiros will take you past the strikingly impressive 48 km / 30 miles of the island's west coast, across small villages.   Your <u>Guided Walking Tour</u> will begin upon arriving at Ancient Kamiros, which was a prosperous Doric city during the 5th century BC. Some of the monuments you will get to see include the following: **Agora Square, Temple of Pythian Apollo, Fountain Square, Sanctuary dedicated to the Gods and Heroes of Kamiros, Baths-House, Main Street, Houses** and more! The Acropolis will open up exciting views of the ruins of the **Temple of Athena Kameiras**, **Large Stoa** and the **Archaic Cistern**, (a water reservoir). The Ancient Kamiros has a thriving agricultural landscape surrounding it, which also adds to the lush beauty of the region. (Stop Visit Photos)
+
+**BREAK FOR LUNCH AT THE SEA**
 
 A pause at one of the Aegean Sea's seaside restaurant, which is located near the water's edge. Here you can experiment (at your own expense) with fresh seafood and some of the best that local cuisine has to offer, including the excellent homemade local wines.
 
-Your return journey will include a picturesque drive to **Filerimos mountain**, which offers a breathtaking panoramic view. The exciting <u>Guided Walking Tour</u> will start just as you reach the ruins of the **Acropolis of the Ancient Ialyssos**. Here you will make a detour to the **Church of Our Lady**, which is erected over the **temple of Athena**. The barrel-vaulted **Chapel of St George** and the **Filerimos Monastery's** exterior will also come into view for photography enthusiasts. (Stop Visit Photos)
+**FILERIMOS MOUNTAIN**
 
-You will visit the sheltered pathway known as the **"Way of the Cross"**. Here you will find several shrines, stretching all the way from the main square to the west edge of the plateau to the famous **16 meter /**  **48 feet tall Cross, **from where you can have a magnificent view of the west coast. <u>Guided Walking Tour</u> (Stop Visit Photos) 
+Your return journey will include a picturesque drive to Filerimos mountain, which offers a breathtaking panoramic view. The exciting <u>Guided Walking Tour</u> will start just as you reach the ruins of the **Acropolis of the Ancient Ialyssos**. Here you will make a detour to the church of **Our Lady of Filerimos**, which is erected over the temple of Athena. The barrel-vaulted **Chapel of St George** and the **Filerimos Monastery's** exterior will also come into view for photography enthusiasts. (Stop Visit Photos)
 
-You will also pass through the **Ixia** before returning to Rhodes Town.
+You will visit the sheltered pathway known as the **"Way of the Cross"**. Here you will find several shrines, stretching all the way from the main square to the west edge of the plateau to the famous **16 meter /**  **48 feet tall Cross, **from where you can have a magnificent view of the west coast. <u>Guided Walking Tour</u> (Stop Visit Photos)
 
-At this point, you can be dropped at your hotel, back to your ship or near the Old Town for independent tourism. You will have to back the return journey to the ship on your own, which is docked at a distance of a quarter of a mile.
+**BACK TO THE STARTING POINT**
+
+You will also pass through the **Ixia** before returning to Rhodes Town. At this point, you can be dropped at your hotel, back to your ship or near the Old Town for independent tourism. You will have to back the return journey to the ship on your own, which is docked at a distance of a quarter of a mile.
