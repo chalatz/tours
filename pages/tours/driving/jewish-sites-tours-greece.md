@@ -218,9 +218,7 @@ Then you'll pass through one of the gateways of the Medieval City and enter the�
 
 **ANTHONY QUINN BAY**
 
-Once you get back to the Parking Lot, your journey to **Lindos** will take you along a beautiful, 50km / 32 miles drive of the east coast of the island, past picturesque little villages.
-
-On the way you visit the **Anthony Quinn Bay** - Takes its name from the famous Hollywood actor, who owns a large property in this area. Since filming the Guns of Navarone in Rhodes Island - scenic (Stop Visit Photos)
+Once you get back to the Parking Lot, your journey to Lindos will take you along a beautiful, 50km / 32 miles drive of the east coast of the island, past picturesque little villages. On the way you visit the **Anthony Quinn Bay** - Takes its name from the famous Hollywood actor, who owns a large property in this area. Since filming the Guns of Navarone in Rhodes Island - scenic (Stop Visit Photos)
 
 **RHODIAN TRADITIONAL ART**
 
