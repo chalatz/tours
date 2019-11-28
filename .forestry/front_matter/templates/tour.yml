@@ -300,9 +300,9 @@ fields:
   label: End page
   template: end-page
 pages:
+- pages/tours/guided/landscape-tour.md
 - pages/tours/guided/natural-attractions.md
 - pages/tours/guided/scenic-tour.md
-- pages/tours/guided/landscape-tour.md
 - pages/tours/guided/knights-of-st-john.md
 - pages/tours/guided/ancient-medieval.md
 - pages/tours/guided/jewish.md

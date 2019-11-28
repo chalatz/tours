@@ -188,9 +188,7 @@ We continue to the west coast and visit the medieval Castle of Kritinia, (built 
 
 **BREAK FOR LUNCH AT THE SEA**
 
-Break for Delicious Snack or Lunch Experience (at your own expense)at a seaside restaurant at the Aegean Sea right on the water's edge, with fresh seafood / Greek cuisine and excellent homemade wines.  
-
-Back through the west coast with **breath-taking views of the Aegean Sea.**
+Break for Delicious Snack or Lunch Experience (at your own expense)at a seaside restaurant at the Aegean Sea right on the water's edge, with fresh seafood / Greek cuisine and excellent homemade wines.  Back through the west coast with breath-taking views of the Aegean Sea.
 
 **BACK TO THE STARTING POINT**
 
