@@ -281,9 +281,7 @@ You continue to the south of Lindos, to St. Paul 's Bay, where the apostle is s
 
 **LINDOS VILLAGE AND ACROPOLIS**
 
-Then we drive to the **main square of Lindos** so you can climb up to the Acropolis of Lindos, or ride the donkeys - the **"Lindos Taxi"** !!.
-
-Walk through Lindos Village and up the many steps and narrow uphill cobblestone pathways to the summit of the Acropolis to see the magnificent remains of past civilizations. Marvel at the 4th century B.C. **Doric Temple of Athena Lindia**, a **double winged portico**, a **Byzantine church** and the **fortifications of the Knights**, including the remains of the Governor's quarters. This view is truly panoramic (Stop Visit Photos)
+Then we drive to the **main square of Lindos** so you can climb up to the Acropolis of Lindos, or ride the donkeys - the **"Lindos Taxi"** !!.  Walk through Lindos Village and up the many steps and narrow uphill cobblestone pathways to the summit of the Acropolis to see the magnificent remains of past civilizations. Marvel at the 4th century B.C. **Doric Temple of Athena Lindia**, a **double winged portico**, a **Byzantine church** and the **fortifications of the Knights**, including the remains of the Governor's quarters. This view is truly panoramic (Stop Visit Photos)
 
 **COASTAL ROAD OF FALIRAKI AND KALLITHEA**
 
