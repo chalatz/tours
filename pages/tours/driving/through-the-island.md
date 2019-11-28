@@ -157,7 +157,7 @@ end_page:
 ---
 **SEVEN SPRINGS**
 
-The tour will begin from your selected drop off point, and you'll be driven to the east coast in a Mercedes-Benz Sedan. The first place on your tour will be the **Seven Springs**, a valley filled with springs and pine trees. It's an oasis in the summer for inhabitants and tourists alike. The scenery allows visitors to attain a sense of calm while they navigate through the streams, and flowers, and take in the sights of the peacocks and ducks.  (Stop Visit Photos)
+The tour will begin from your selected drop off point, and you'll be driven to the east coast in a Mercedes-Benz Sedan Car. The first place on your tour will be the Seven Springs, a valley filled with springs and pine trees. It's an oasis in the summer for inhabitants and tourists alike. The scenery allows visitors to attain a sense of calm while they navigate through the streams, and flowers, and take in the sights of the peacocks and ducks.  (Stop Visit Photos)
 
 **CHURCH OF ST NECTARIOS**
 
@@ -165,23 +165,23 @@ The Church of St Nectarios is next. It is situated on the way to Achipoli villag
 
 **CHURCH OF ST NICHOLAS FOUNTOUKLI**
 
-The tour takes you through the villages of **Archipoli** and **Eleousa** and to the historic Byzantine Church of **St. Nickolas Fountoukli**, built in the 15^th^ century. The frescoes inside are incredibly detailed and beautiful. Some come and perform their worship even to till this day, around the old olive trees and the canopy of nature. (Stop Visit Photos)
+The tour takes you through the villages of **Archipoli** and **Eleousa** and to the historic Byzantine Church of St. Nickolas Fountoukli, built in the 15^th^ century. The frescoes inside are incredibly detailed and beautiful. Some come and perform their worship even to till this day, around the old olive trees and the canopy of nature. (Stop Visit Photos)
 
 **MOUNT PROFITIS ELIAS**
 
-The tour takes us through the **Pines and Cypress Forests** to the **Elafos Hotel**. Located atop **Mount Profitis** **Elias**, the second highest mountain on Rhodes (798 meters / 2600 feet tall), it was built in 1929 during the Italian Era. It is built like traditional Alps Hostels with stone build walls in the basement, and high pitched wooden roofs.  You can take in the breath-taking views of the Aegean Sea and take a breather for coffee or some memorable photos. (Stop Visit Photos)
+The tour takes us through the Pines and Cypress Forests to the **Elafos Hotel**. Located atop Mount Profitis Elias, the second highest mountain on Rhodes (798 meters / 2600 feet tall), it was built in 1929 during the Italian Era. It is built like traditional Alps Hostels with stone build walls in the basement, and high pitched wooden roofs.  You can take in the breath-taking views of the Aegean Sea and take a breather for coffee or some memorable photos. (Stop Visit Photos)
 
 **EMBONA VILLAGE**
 
-We continue south-west ofthe island **to Embona village,** the drive up here has beautiful winding roads through forests, along cliff sides, and through grape vineyards. The village is the biggest grape producer on the island, as well as the best wines. You'll visit **a winery for free wine taste** of the three well known labels of Rhodes: The **White wine,** the **Red wine,** and the **Sweet white**. Embona village also known for the honey, olives and olive oil, **Souma** (Rhodian aperitif like ouzo), herbs and many other homemade local Rhodian products.  These are some of the best gifts you can get for your friends back home because they can taste traditional products of Greece that keep well without refrigeration. (Stop Visit Taste Photos)
+We continue south-west ofthe island to Embona village, the drive up here has beautiful winding roads through forests, along cliff sides, and through grape vineyards. The village is the biggest grape producer on the island, as well as the best wines. You'll visit a winery for **free wine taste** of the three well known labels of Rhodes: The **White wine,** the **Red wine,** and the **Sweet white**. Embona village also known for the honey, olives, olive oil, and **Souma** (Rhodian aperitif like ouzo), herbs and many other homemade local Rhodian products.  These are some of the best gifts you can get for your friends back home because they can taste traditional products of Greece that keep well without refrigeration. (Stop Visit Taste Photos)
 
 **CASTLE OF KRITINIA**
 
-The medieval **castle of Kritinia** is next on our list. Built in the sixteenth century by the **Knights of St. John Hospitallers**, it is located outside the village of Kritinia. It overlooks the bay atop a pine dotted hill and presents a panoramic view of the islands of **Chalki, Alimia, Makri, Strongyle, Tragoussa and Symi**. (Stop Visit Photos)
+The medieval castle of Kritinia is next on our list. Built in the sixteenth century by the Knights of St. John Hospitallers, it is located outside the village of Kritinia. It overlooks the bay atop a pine dotted hill and presents a panoramic view of the islands of **Chalki, Alimia, Makri, Strongyle, Tragoussa and Symi**. (Stop Visit Photos)
 
 **LUNCH BREAK**
 
-After this you can take **a break and indulge in some snacks or some lunch** (at your own expense). You can try one of the seaside restaurants that serves seafood, Greek cuisine and homemade wines by the shore.
+After this you can take a break and indulge in some snacks or some lunch (at your own expense). You can try one of the seaside restaurants that serves seafood, Greek cuisine and homemade wines by the shore.
 
 **BACK TO THE STARTING POINT**
 
