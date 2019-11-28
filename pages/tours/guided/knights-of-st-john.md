@@ -182,28 +182,46 @@ end_page:
   short_text: Experts in Private Tours of Rhodes
 
 ---
-You will be driven to **St. John Gate or Red Gate** from your designated location. This will mark the beginning of your <u>Guided Walking Tour</u>, making your way across the neighborhoods and alleyways of the Medieval City where you can take pictures (from outside) of some of the most important monuments of this trip include; **Gate of St Athanasius, D'Amboise Gate, Ruins of Sent John Cathedral, Grand Masters Palace, Street of the Knights, New Hospital of the Knights, Our Lady of the Castel** (Stop Photos)
+**THE MEDIEVAL CITY**
 
-Your walking tour concludes at the **Marina Gate**.
+You will be driven to **St. John Gate or Red Gate** from your designated location. This will mark the beginning of your <u>Guided Walking Tour</u>, making your way across the neighborhoods and alleyways of the Medieval City where you can take pictures (from outside) of some of the most important monuments of this trip include; **Gate of St Athanasius, D'Amboise Gate, Ruins of Sent John Cathedral, Grand Masters Palace, Street of the Knights, New Hospital of the Knights, Our Lady of the Castel** (Stop Photos)  Your walking tour concludes at the **Marina Gate**.
 
-From here on out, you will exit Rhodes Town on vehicle and make your way to the west portion of the island towards the **Acropolis of Ialyssos**, **Filerimos**. You will visit the **church of Our Lady of Filerimos**, and the exterior of Filerimos Monastery which was built by the Knights of St. John. You'll also visit the "**Way of the Cross"**. <u>Guided Walking Tour</u> (Stop Visit Photos)
+**FILERIMOS MONASTERY** 
 
-**Lindos** is your next stop. It is located along the east portion of the island, just a scenic drive from the west coast, making way across little villages.
+From here on out, you will exit Rhodes Town on vehicle and make your way to the west portion of the island towards the **Acropolis of Ialyssos**, **Filerimos**. You will visit the church of **Our Lady of Filerimos**, and the exterior of Filerimos Monastery which was built by the Knights of St. John. You'll also visit the "**Way of the Cross"**. <u>Guided Walking Tour</u> (Stop Visit Photos)
+
+**THE JOURNEY TO LINDOS**
+
+ is your next stop. It is located along the east portion of the island, just a scenic drive from the west coast, making way across little villages.
+
+**RHODIAN POTTERY ART**
 
 You will make a brief stay at the iconic pottery workshop where the beautiful pieces of art are made. Here you can observe the potter make his art and craft and lay the mystery to rest. <u>Guided Tour</u> (Stop Visit Photos)
 
+**PANORAMIC VIEW OF LINDOS** 
+
 The drive along the coast will take you to an elevated point that will reveal the strikingly beautiful **Acropolis of Lindos** with its white village situated in a picturesque bay below. (Stop Photos)
 
-You will make your way to **St. Paul's Bay** towards the south of Lindos, where legend has it that **Apostle Paul** landed sometimes around year 51 to spread the word of Christianity to the Rhodians. The cave in which the film **"The Guns of Navarone"** was shot also comes into view. <u>Guided Tour</u> (Stop Photos)
+**ST PAUL'S BAY**
+
+You will make your way to St. Paul's Bay towards the south of Lindos, where legend has it that **Apostle Paul** landed sometimes around year 51 to spread the word of Christianity to the Rhodians. The cave in which the film **"The Guns of Navarone"** was shot also comes into view. <u>Guided Tour</u> (Stop Photos)
+
+**LINDOS VILLAGE AND ACROPOLIS**
 
 After reaching Lindos village, your <u>Guided Walking Tour</u> starts. You and your tour guide will walk up the narrow cobblestone pathway to the peak of the summit of the Acropolis, revealing the **Fortifications of the Knights of St. John Hospitallers**. (Stop Visit Photos)
 
-On your return journey, you will make a brief stop at the **Charaki Village**, giving you ample opportunities to take pictures (from a distance) of the famous **Feraklos Castle**. The structure itself is in complete ruin and only a few areas of the external wall still exist. <u>Guided Tour</u> (Stop Photos)
+**HARAKI VILLAGE - FERAKLOS CASTLE**
+
+On your return journey, you will make a brief stop at the Charaki Village, giving you ample opportunities to take pictures (from a distance) of the famous Feraklos Castle. The structure itself is in complete ruin and only a few areas of the external wall still exist. <u>Guided Tour</u> (Stop Photos)
 
 This place once belonged to the Byzantine Empire before it was **captured on Tuesday 20 September 1306 by the Knights Hospitallers**. By 1408, the castle as in complete shambles before it was restored under the **Giovanni Battista Orsini** (1467-76) and the Grand Master **Pierre D'Aubusson** (1476-1503) to defend the place from invaders.
 
 The fortified castle was captured by the Ottomans just a few months later after a long siege. Feraklos Castle was the final stronghold in Rhodes to fall to foreign invasion by the Ottomans. **On Thursday 2 January 1523, the Knights evacuated Rhodes** while the Ottomans abandoned the castle shortly thereafter.
 
-The return journey will take you to the sandy beaches **of Faliraki** through the coastal road and the **Kallithea Sea**.
+**THE RETURN JOURNEY VIA FALIRAKI AND KALLITHEA** 
+
+The return journey will take you to the sandy beaches of Faliraki through the coastal road and the Kallithea Sea.
+
+**BACK TO THE STARTING POINT**
 
 Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
