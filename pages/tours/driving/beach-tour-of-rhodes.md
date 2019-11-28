@@ -184,7 +184,7 @@ end_page:
 ---
 **FALIRAKI BEACH**
 
-Faliraki is one of the most beautiful beaches in Rhodes** located 14 km / 8.6 miles from Rhodes Town**. A long stretch sandy beach 4 km / 2.4 miles, with crystal clear water. There is an abundant amount of sun beds to lay back on and work on your tan. There are also many water sports to choose from including **jet skiing, banana rides, ringos, paragliding, pedalos, and bungee jumping**. (Stop Visit Photos)
+Faliraki is one of the most beautiful beaches in Rhodes located 14 km / 8.6 miles from Rhodes Town. A long stretch sandy beach 4 km / 2.4 miles, with crystal clear water. There is an abundant amount of sun beds to lay back on and work on your tan. There are also many water sports to choose from including **jet skiing, banana rides, ringos, paragliding, pedalos, and bungee jumping**. (Stop Visit Photos)
 
 **ANTHONY QUINN BAY**
 
