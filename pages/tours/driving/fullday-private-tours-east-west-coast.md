@@ -213,7 +213,7 @@ After few miles we stop at a small Traditional Winery. Here you have the opportu
 
 **FILERIMOS MOUNTAIN**
 
-We continue on the west coast, and after winding upwards for 3 miles on the Filerimos Mountain, we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the Church of **Our Lady of Filerimos**, built upon the foundations of the ancient **temple of Athena**. You'll also see the exterior of the monastery and courtyard, as well as the barrel-vaulted Chapel of St. George.
+We continue on the west coast, and after winding upwards for 3 miles on the Filerimos Mountain, we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the Church of **Our Lady of Filerimos**, built upon the foundations of the ancient temple of Athena. You'll also see the exterior of the monastery and courtyard, as well as the barrel-vaulted Chapel of St. George.
 
 **FILERIMOS - THE WAY OF THE CROSS**
 
