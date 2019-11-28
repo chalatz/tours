@@ -196,11 +196,13 @@ end_page:
 ---
 **MEDIEVAL CITY**
 
-From your selected point, you'll be driven to the Old town (Medieval City - World Heritage Site) to see the most imposing buildings and get your photos from outside (Stop Photos).
+From your selected point, you'll be driven to the Old town Medieval City (**World Heritage Site**) to see the most imposing buildings and get your photos from outside (Stop Photos).
 
 **NEW TOWN - OLD PORT**
 
-You continue to the New Town to the entrance of the old harbour (Stop Visit Photos), the Church of the Annunciation (Stop Visit Photos) and the north point of the Island (Stop Photos)
+You continue to the New Town to the entrance of the old harbour where according to the tradition, the **Colossus of Rhodes** once stood (Stop Visit Photos) 
+
+The **Church of the Annunciation** (Stop Visit Photos) and the North Point of the Island (Stop Photos)
 
 **ANCIENT KAMIROS**
 
@@ -212,11 +214,11 @@ On the way back you visit the Valley of the Butterflies - we drive you to the up
 
 **TRADITIONAL WINERY**
 
-We visit a small Greek traditional winery, here you have the opportunity to taste a selection of locally produced wines. As well as you get your pictures of the aging facilities. (Stop Visit Photos -- Free Wine Tasting)
+We visit a small traditional winery, here you have the opportunity to taste a selection of locally produced wines. As well as you get your pictures of the aging facilities. (Stop Visit Photos - Free Wine Tasting)
 
 **FILERIMOS MOUNTAIN**
 
-Then we will travel up to Filerimos mountain, is a marvellous panoramic view, we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the **Church of Our Lady**, built upon the foundations of the ancient temple of Athena of early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted Chapel of St. George. On the right hand side there is a beautiful tree sheltered pathway the **"Way of the Cross"** This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos)
+Then we will travel up to Filerimos mountain, is a marvellous panoramic view, we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the Church of **Our Lady of Filerimos**, built upon the foundations of the ancient temple of Athena of early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted Chapel of St. George. On the right hand side there is a beautiful tree sheltered pathway the **"Way of the Cross"** This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos)
 
 **MONTE SMITH**
 
