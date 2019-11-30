@@ -275,7 +275,7 @@ On the way to Lindos, you can choose an optional short stop at a pottery worksho
 
 From a vantage point along the coast, the impressive Acropolis of Lindos will come into view with the white village situated in a picturesque bay below (Stop Photos)
 
-**ST PAULS BAY**
+**ST PAUL'S BAY**
 
 You continue to the south of Lindos, to St. Paul 's Bay, where the apostle is said to have landed in the year 51 AD to preach Christianity to the Rhodians. From this point you can also view the cave where the film **"The Guns of Navarone"** was filmed. (Stop Visit Photos)
 
