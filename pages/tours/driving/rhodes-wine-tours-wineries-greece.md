@@ -183,12 +183,12 @@ not_included:
   items:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
 body:
-- text: If the **Tour Starts from Rhodes City**, then we will include the Highlights
-    of Rhodes New Town. We drive up the hillside to **Monte Smith**, Acropolis of
-    Rhodes City, for a panoramic view of the town (Stop Visit Photos) on the way we
-    visit the Old Harbor, and the North point of the Island. Then you'll be driven
-    to **South West of Rhodes 55 km / 37 miles** to Embona Village using an inland
-    route.
+- text: "**HIGHLIGHTS OF RHODES NEW TOWN** \n\nIf the **Tour Starts from Rhodes City**,
+    then we will include the Highlights of Rhodes New Town. We drive up the hillside
+    to Monte Smith, Acropolis of Rhodes City, for a panoramic view of the town (Stop
+    Visit Photos) on the way we visit the Old Harbor, and the North point of the Island.
+    Then you'll be driven to **South West of Rhodes 55 km / 37 miles** to Embona Village
+    using an inland route."
   gallery:
   - thumb: "./img/Tour5/IMGP0905_mod_small.jpg"
     href: "./img/Tour5/IMGP0905_mod.jpg"
@@ -210,21 +210,22 @@ body:
     href: "./img/Tour5/rhodes_taxi_tour_greece_mod.jpg"
     alt: Rhodes Taxi Tour Greece
     position: following
-- text: "On the way we stop close to the Valley of the Butterflies to a small **traditional
-    local winery of Mrs. Anastasia**. The Anastasia's winery was started on 1995 and
-    later on 2002 moved here to this beautiful location. She started with only two
-    wines and now she is producing more than 10 different type of wines. **Athiri,
-    Red wine Mandilari, Muscat, Cabernet Sauvignon**......She is also producing **Souma**
-    (distillate of wine) and extra virgin oil of olives. She is using **biological
-    - organic** growth and biological - organic process for the vineyards and wines.
-    **Here you have the opportunity to test all the types of wines she produces, and
-    get your pictures of the ageing facilities.**\n\nThen we continue south west to
-    Empona, admire the Island's lush vegetation along the drive towards this beautiful
+- text: "**THE TRADITIONAL WINERY OF Mrs. ANASTASIA** \n\nOn the way we stop close
+    to the Valley of the Butterflies to a small traditional local winery of Mrs. Anastasia.
+    The Anastasia's winery was started on 1995 and later on 2002 moved here to this
+    beautiful location. She started with only two wines and now she is producing more
+    than 10 different type of wines. **Athiri, Red wine Mandilari, Muscat, Cabernet
+    Sauvignon**......She is also producing **Souma** (distillate of wine) and extra
+    virgin oil of olives. She is using biological - organic growth and biological
+    - organic process for the vineyards and wines. Here you have the opportunity to
+    test all the types of wines she produces, and get your pictures of the ageing
+    facilities.\n\n**THE JOURNEY TO EMBONA VILLAGE**\n\nThen we continue south west
+    to Embona, admire the Island's lush vegetation along the drive towards this beautiful
     village which has known days of glory in the past. The drive along the mountains
     path will surely reward the visitor. Empona the large village at the foot of Ataviros
     mountain, **is the most important grape producing village on the island**, which
     combines folklore, a lively atmosphere and good food at the local traditional
-    tavernas. "
+    tavernas."
   gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_emery_1_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_emery_1.jpg"
