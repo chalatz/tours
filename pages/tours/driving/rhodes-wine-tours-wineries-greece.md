@@ -247,16 +247,16 @@ body:
     href: "./img/Tour5/rhodes_shore_excursions_greece_mod_1__.jpg"
     alt: Rhodes Shore Excursions Greece
     position: following
-- text: The **Triantafyllou family**, owners of **Emery Wines**, first entered the
-    beverage business in Rhodes in 1923 mainly as distillers. Exporting spirits worldwide,
-    the company was one of the few of its kind to survive the second World War. In
-    1966 the company began making wine on a large scale. In 1974, a winery was constructed
-    near the village of Embonas on Mount Atavyros, in the heart of the island's best
-    growing region. Today Emery is one of Greece's oldest wine and and spirits producers
-    and occupies a position high on the list of the country's largest wineries. **The
-    name Emery originates from Emeric D'Amboise of French origin who was the Great
-    Magistrate of Rhodes from 1503-1512.** **Free wine tasting for visitors is available
-    and pictures of the ageing facilities.**
+- text: "**EMERY WINERY** \n\nThe Triantafyllou family, owners of Emery Wines, first
+    entered the beverage business in Rhodes in 1923 mainly as distillers. Exporting
+    spirits worldwide, the company was one of the few of its kind to survive the second
+    World War. In 1966 the company began making wine on a large scale. In 1974, a
+    winery was constructed near the village of Embonas on Mount Atavyros, in the heart
+    of the island's best growing region. Today Emery is one of Greece's oldest wine
+    and and spirits producers and occupies a position high on the list of the country's
+    largest wineries. The name Emery originates from Emeric D'Amboise of French origin
+    who was the Great Magistrate of Rhodes from 1503-1512. Free wine tasting for visitors
+    is available and pictures of the ageing facilities."
   gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_1_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_1.jpg"
