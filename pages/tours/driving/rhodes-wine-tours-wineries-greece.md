@@ -297,12 +297,10 @@ body:
     href: "./img/Tour5/rhodes_private_tour_greece_mod_1.jpg"
     alt: Rhodes Private tour Greece
     position: following
-- text: The **Kounakis Winery** started from the grandfather Kyriakos Kounakis on
-    1928 and it still produce excellent wines till today, they can produce more than
-    20000 bottles of wine a year. They use the traditional natural way for growth
-    and process. Athiri, Mandilaria (Amorgiano) Merlot, Grenache rouge, Syrah, Chardonnay.
-    Here you can test free all the types of wines they produce, and get your pictures
-    of the ageing facilities.
+- text: |-
+    **KOUNAKIS WINERY**
+
+    The Kounakis Winery started from the grandfather Kyriakos Kounakis on 1928 and it still produce excellent wines till today, they can produce more than 20000 bottles of wine a year. They use the traditional natural way for growth and process. Athiri, Mandilaria (Amorgiano) Merlot, Grenache rouge, Syrah, Chardonnay. Here you can test free all the types of wines they produce, and get your pictures of the ageing facilities.
   gallery:
   - thumb: "./img/Tour5/IMGP1002_mod_thumb.jpg"
     href: "./img/Tour5/IMGP1002_mod_1.jpg"
@@ -325,11 +323,15 @@ body:
     alt: Rhodes Shore Excursions Greece
     position: following
 - text: |-
-    **The Alexandris Winery** it is a small second generation wine producer, started by the father Michael, and now his sons Stergos and Panayiotis run the winery. **Panayiotis studied in France Enologist Winemaker in the university of Montpellier,** they use French wooden barrels, they produce **Red wine (VDQS), White wine from the white grape variety Athiri, Sweet white wine (VDQS)...** Free wine taste and pictures.
+    **ALEXANDRIS WINERY**
 
-    **Break for Delicious Snack or Lunch Experiences at a Greek traditional tavern** / Rhodian cuisine and excellent homemade wines. (at your own expense).  Embona also is a known place by locals coming from everywhere to eat grilled meat. Here you can really feel the Greek life; the wineries and restaurants have the perfect traditional sensation.
+    The Alexandris Winery it is a small second generation wine producer, started by the father Michael, and now his sons Stergos and Panayiotis run the winery. Panayiotis studied in France Enologist Winemaker in the university of Montpellier, they use French wooden barrels, they produce **Red wine (VDQS), White wine from the white grape variety Athiri, Sweet white wine (VDQS)...** Free wine taste and pictures.
 
-    Back through the west coast with **breathtaking views of the Aegean Sea.**
+    **BREAK FOR LUNCH**
+
+    Break for Delicious Snack or Lunch Experiences at a Greek traditional tavern / Rhodian cuisine and excellent homemade wines. (at your own expense).  Embona also is a known place by locals coming from everywhere to eat grilled meat. Here you can really feel the Greek life; the wineries and restaurants have the perfect traditional sensation. Back through the west coast with breathtaking views of the Aegean Sea.
+
+    **BACK TO THE STARTING POINT**
 
     Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
   gallery: []
