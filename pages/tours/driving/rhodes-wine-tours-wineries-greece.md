@@ -272,8 +272,10 @@ body:
     href: "./img/Tour5/rhodes_wine_tour_greece_mod.jpg"
     alt: Rhodes wine tour Greece
     position: following
-- text: We continue with **Dionysos Free Wine Tasting**. Here you can taste a big
-    variety of fresh wines and the strong local spirit **Souma of Merkouris Winery.**
+- text: |-
+    **DIONYSOS WINES FROM MERKOURIS FAMILY**
+
+    We continue with Dionysos Free Wine Tasting. Here you can taste a big variety of fresh wines and the strong local spirit Souma of Merkouris Winery.
   gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_kounakis_1_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_kounakis_1.jpg"
