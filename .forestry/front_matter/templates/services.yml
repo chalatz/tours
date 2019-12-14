@@ -145,6 +145,6 @@ fields:
   hidden: true
   default: ''
 pages:
+- pages/services/car_driver.md
 - pages/services/special_occasions.md
 - pages/services/vip.md
-- pages/services/car_driver.md
