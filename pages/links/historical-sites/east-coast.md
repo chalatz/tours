@@ -110,7 +110,7 @@ sections:
       caption: Kleovoulos (Cleoboulus), Lindos Rhodes Greece
     - thumb: img/East_Coast/st_pauls_bay_mod_small.jpg
       href: img/East_Coast/st_pauls_bay_mod.jpg
-      alt: St. Paul's Bay Lindos Rhodes Greece
+      alt: St. Paul's Bay Lindos Rhodes Greece, Taxi Tour
       caption: St. Paul 's Bay, where the apostle is said to have landed in the year
         51 AD to preach Christianity to the Rhodians.
   title: ''
