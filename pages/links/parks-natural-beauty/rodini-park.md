@@ -40,13 +40,15 @@ sections:
       caption: The Roman aqueduct
     - thumb: img/rodini_park/rodini_park_3_small.jpg
       href: img/rodini_park/rodini_park_3.jpg
-      alt: Rhodes Greece Allure Tours, Rodini Park
+      alt: Rhodes tours from cruise ship, Rodini Park
       caption: Peacocks are free to go anywhere and roam around in this beautiful
         park.
     - thumb: img/rodini_park/rodini_park_4_small.jpg
       href: img/rodini_park/rodini_park_4.jpg
       alt: Allure Tours of Rhodes, Rodini Park
       caption: Turtles, terrapins, ducks, swan and peacocks are the most popular.
+  title: ''
+  desc: ''
 - gallery_rows:
   - figures:
     - thumb: img/rodini_park/rodini_park_5_small.jpg
@@ -65,6 +67,8 @@ sections:
       href: img/rodini_park/rodini_park_8.jpg
       alt: Allure Tours of Rhodes, Rodini Park
       caption: The Rodini Park, a tunnel into the rock
+  title: ''
+  desc: ''
 subtitle: ''
 related_tours: []
 end_page:
