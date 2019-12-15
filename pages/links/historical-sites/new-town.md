@@ -63,8 +63,7 @@ sections:
         Nicholas.
     - thumb: img/New_Town/saint_nicholas_fort_2_mod_small.jpg
       href: img/New_Town/saint_nicholas_fort_2_mod.jpg
-      alt: Saint Nicholas fort, Rhodes Private Tours, Shore Excursions of Rhodes,
-        Shore Excursions Greece Rhodes, Rhodes Shore Excursions
+      alt: 'Saint Nicholas fort, Rhodes tours from cruise ship '
       caption: The fort of Saint Nicholas
   title: ''
   desc: ''
