@@ -159,7 +159,7 @@ sections:
       caption: Kritinia Castle
     - thumb: img/West_Coast/castle_west_coast_mod3_small.jpg
       href: img/West_Coast/castle_west_coast_mod3.jpg
-      alt: Rhodes taxi tours Greece
+      alt: The Gate of Kritinia Castle, rhodes shore trips
       caption: The Gate of Kritinia Castle (interior)
     - thumb: img/West_Coast/castle_west_coast_mod4_small.jpg
       href: img/West_Coast/castle_west_coast_mod4.jpg
