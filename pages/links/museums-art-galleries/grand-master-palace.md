@@ -5,14 +5,14 @@ has_gallery: true
 id: site_grand_masters_palace
 ref: site_grand_masters_palace
 meta:
-  title: The Palace of the Grand Master of the Knights of Rhodes Greece,  Grand Master
+  title: Palace of the Grand Master of the Knights of Rhodes Greece,  Grand Master
     Palace
-  http_desc: The Palace of the Grand Master of the Knights of Rhodes Greece, Grand
-    Master Palace, Rhodes Tours, Rhodes Private Tours
-  description: 'The Palace of the Grand Master of the Knights of Rhodes Greece, Grand
+  http_desc: Palace of the Grand Master of the Knights of Rhodes Greece, Grand Master
+    Palace, Rhodes Tours, Rhodes Private Tours
+  description: 'Palace of the Grand Master of the Knights of Rhodes Greece, Grand
     Master Palace, Rhodes Tours, Rhodes Private Tours '
-  keywords: The Palace of the Grand Master of the Knights of Rhodes Greece, Grand
-    Master Palace, Rhodes Tours, Rhodes Private Tours
+  keywords: Palace of the Grand Master of the Knights of Rhodes Greece, Grand Master
+    Palace, Rhodes Tours, Rhodes Private Tours
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: The Palace of the Grand Master of the Knights of Rhodes
