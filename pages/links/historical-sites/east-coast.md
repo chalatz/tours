@@ -141,7 +141,7 @@ sections:
   - figures:
     - thumb: img/East_Coast/lindos_village_1_mod_small.jpg
       href: img/East_Coast/lindos_village_1_mod.jpg
-      alt: The Ancient Theatre of Lindos, Rhodes day trips.
+      alt: 'Lindos Village, Rhodes Private Taxi Tours  '
       caption: Lindos Village
     - thumb: img/East_Coast/lindos_village_2_mod_small.jpg
       href: img/East_Coast/lindos_village_2_mod.jpg
