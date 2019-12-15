@@ -40,7 +40,7 @@ sections:
       caption: The Church of St. Francis of Assisi
     - thumb: img/rhodes_italian_architecture/the_st_francisco_church_2_mod_small.png
       href: img/rhodes_italian_architecture/the_st_francisco_church_2_mod.jpg
-      alt: Allure tours of Rhodes
+      alt: 'The statue of St. Francis, Rhodes cruise excursions  '
       caption: The statue of St. Francis
   title: ''
   desc: ''
