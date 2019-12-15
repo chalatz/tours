@@ -106,7 +106,7 @@ sections:
   - figures:
     - thumb: img/grand_masters_palace/inside_the_grand_masters_palace_3_mod_small.jpg
       href: img/grand_masters_palace/inside_the_grand_masters_palace_3_mod.jpg
-      alt: Tours of Rhodes Greece, Mosaics
+      alt: Rhodes tours from cruise ship, Mosaics
       caption: Mosaics,  the interior of the Palace
     - thumb: img/grand_masters_palace/inside_the_grand_masters_palace_4_mod_small.jpg
       href: img/grand_masters_palace/inside_the_grand_masters_palace_4_mod.jpg
