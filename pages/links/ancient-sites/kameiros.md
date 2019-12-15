@@ -145,7 +145,7 @@ sections:
       caption: "<strong>Louvre Museum:</strong> Potteries found at Kamiros"
     - thumb: img/ancient_kameiros/ancient_kameiros_17_thumb.png
       href: img/ancient_kameiros/ancient_kameiros_17.jpg
-      alt: Rhodes Specialized excursion
+      alt: 'Louvre Museum, Specialized Rhodes cruise excursions  '
       caption: "<strong>Louvre Museum:</strong> Potteries found at Kamiros"
     - thumb: img/ancient_kameiros/ancient_kameiros_14_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_14.jpg
