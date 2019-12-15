@@ -50,7 +50,7 @@ sections:
   - figures:
     - thumb: img/West_Coast/filerimos_hill_mod_small.jpg
       href: img/West_Coast/filerimos_hill_mod.jpg
-      alt: Shore Trips Rhodes Greece, Taxi Trips
+      alt: Mt. Filerimos, Shore Trips Rhodes Greece
       caption: Mt. Filerimos is a hill 267m. high, overlooking the small town of Ialyssos
         and the bay of Ixia and Trianda. Thickly planned with cypresses, pines and
         other trees.
