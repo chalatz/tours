@@ -56,8 +56,8 @@ sections:
         built in 1478 by Grand Master Pierre d'Aubusson.
     - thumb: img/Old_Town/set_1/damboise_gate_mod_small.jpg
       href: img/Old_Town/set_1/damboise_gate_mod.jpg
-      alt: D'Amboise gate, Island Tour of Rhodes
-      caption: D'Amboise gate. The most impressive gate of Rhodes from a military
+      alt: D'Amboise Gate, Island Tour of Rhodes
+      caption: D'Amboise Gate. The most impressive gate of Rhodes from a military
         viewpoint, built by Grand Master Emery d'Amboise, it was completed in 1512.
     - thumb: img/Old_Town/set_1/st_anthonys_gate_mod_small.jpg
       href: img/Old_Town/set_1/st_anthonys_gate_mod.jpg
