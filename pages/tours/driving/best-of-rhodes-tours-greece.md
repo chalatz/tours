@@ -108,7 +108,7 @@ gallery:
     position: first
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_6_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_6.jpg"
-    alt: Best tours of Rhodes Greece
+    alt: Best Tours of Lindos and Rhodes Town
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_7_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_7.jpg"
