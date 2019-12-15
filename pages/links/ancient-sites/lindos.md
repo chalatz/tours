@@ -41,7 +41,7 @@ sections:
       caption: St Paul's Bay
     - thumb: img/rhodes_lindos/lindos_village_1_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_1_mod.jpg
-      alt: Rhodes Taxi Tours, Executive Tours
+      alt: 'Lindos Village, Rhodes on your own from cruise ship '
       caption: Lindos Village
     - thumb: img/rhodes_lindos/lindos_white_village_mod_small.jpg
       href: img/rhodes_lindos/lindos_white_village_mod.jpg
