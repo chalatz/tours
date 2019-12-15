@@ -100,7 +100,7 @@ gallery:
     position: following
   - thumb: "./img/Tour5/rhodes_wineries_tours_greece4_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_wineries_tours_greece4_mod_.jpg"
-    alt: Rhodes wineries tours Greece
+    alt: Wine Roads Rhodes Greece
     position: following
   - thumb: "./img/Tour5/rhodes_wineries_tours_greece5_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_wineries_tours_greece5_mod_.jpg"
