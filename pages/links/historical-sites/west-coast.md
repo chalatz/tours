@@ -106,7 +106,7 @@ sections:
         little river running through it.
     - thumb: img/West_Coast/valley_of_the_butterflies_2_mod_small.jpg
       href: img/West_Coast/valley_of_the_butterflies_2_mod.jpg
-      alt: The Valley of The Butterflies,  West Coast of Rhodes Greece
+      alt: 'The Valley of The Butterflies,  Rhodes tours from cruise ship '
       caption: The Valley of the Butterflies.  The site is beautifully arranged, with
         wooden bridges, stone steps and an uphill path, which leads to the Monastery
         of the Virgin of Kalopetra, built in 1784.
