@@ -31,7 +31,7 @@ sections:
       caption: ''
     - thumb: img/water_park/water_park_3_small.jpg
       href: img/water_park/water_park_3.jpg
-      alt: 'Water Park in Faliraki Rhodes, Private Custom Tour '
+      alt: 'Water Park in Faliraki Rhodes, Rhodes cruise excursions   '
       caption: ''
     - thumb: img/water_park/water_park_4_small.jpg
       href: img/water_park/water_park_4.jpg
