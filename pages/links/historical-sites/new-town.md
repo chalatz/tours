@@ -6,14 +6,14 @@ id: site_new_town
 ref: site_new_town
 meta:
   title: Rhodes Excursions, Rhodes Tours from Cruise Ship
-  description: 'Rhodes Excursions, Rodes Tours from Cruise Ship, Shore Excursions
+  description: 'Rhodes Excursions, Rhodes Tours from Cruise Ship, Shore Excursions
     in Rhodes New Town, Rhodes Private Shore Excursions Greece '
-  keywords: Rhodes Excursions, Rodes Tours from Cruise Ship, Shore Excursions in Rhodes
-    New Town, Greece
+  keywords: Rhodes Excursions, Rhodes Tours from Cruise Ship, Shore Excursions in
+    Rhodes New Town, Greece
   author: NK for Rhodes Private Tours
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Rhodes Excursions, Rodes Tours from Cruise Ship
-  http_desc: Rhodes Excursions, Rodes Tours from Cruise Ship, Shore Excursions in
+  abstract: Rhodes Excursions, Rhodes Tours from Cruise Ship
+  http_desc: Rhodes Excursions, Rhodes Tours from Cruise Ship, Shore Excursions in
     Rhodes New Town, Greece
 keyphrase: Rhodes Shore Excursions
 title: 'Rhodes Excursions - Rodes Tours from Cruise Ship - New Town '
