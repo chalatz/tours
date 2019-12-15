@@ -76,8 +76,7 @@ sections:
         deer - characteristic landmarks of the island.
     - thumb: img/New_Town/deer_mod_small.jpg
       href: img/New_Town/deer_mod.jpg
-      alt: Deer, Rhodes Taxi Services, Shore Excursions of Rhodes, Shore Excursions
-        Greece Rhodes, Rhodes Shore Excursions
+      alt: The entrance to the harbor, Rhodes Excursions
       caption: "(The entrance to the harbor) Here, according to tradition, was the
         place where the famous Colossus of Rhodes, one of the seven wonders of the
         ancient world, once stood."
