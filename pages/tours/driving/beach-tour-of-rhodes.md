@@ -89,7 +89,7 @@ gallery:
     position: following
   - thumb: "./img/Tour7/beach_tour_8_thumb.jpg"
     href: "./img/Tour7/beach_tour_8.jpg"
-    alt: Anthony Quinn Bay tours in Rhodes
+    alt: Anthony Quinn Beach tour in Rhodes
     position: following
   - thumb: "./img/Tour7/beach_tour_9_thumb.jpg"
     href: "./img/Tour7/beach_tour_9.jpg"
