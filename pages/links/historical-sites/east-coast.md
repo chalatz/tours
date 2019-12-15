@@ -106,8 +106,8 @@ sections:
       caption: The ancient Acropolis 410 feet (160m) above Lindos.
     - thumb: img/East_Coast/cleoboulus_statue_mod_small.jpg
       href: img/East_Coast/cleoboulus_statue_mod.jpg
-      alt: Acropolis of Lindos, Rhodes Taxi Tours
-      caption: Kleovoulos (Cleoboulus), East Coast Rhodes Greece
+      alt: Kleovoulos (Cleoboulus), Lindos Rhodes Greece,  Taxi Tour
+      caption: Kleovoulos (Cleoboulus), Lindos Rhodes Greece
     - thumb: img/East_Coast/st_pauls_bay_mod_small.jpg
       href: img/East_Coast/st_pauls_bay_mod.jpg
       alt: St. Paul's Bay Lindos Rhodes Greece
