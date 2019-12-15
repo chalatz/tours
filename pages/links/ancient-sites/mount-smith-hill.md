@@ -34,7 +34,7 @@ sections:
       caption: Panoramic view of Rhodes Town
     - thumb: img/mount_smith_hill/panoramic_view_3_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_3_mod.jpg
-      alt: Rhodes affordable tours
+      alt: Panoramic view of the West Coast, Rhodes affordable tours
       caption: Panoramic view of the West Coast
     - thumb: img/mount_smith_hill/panoramic_view_4_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_4_mod.jpg
