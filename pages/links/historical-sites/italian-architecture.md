@@ -5,15 +5,16 @@ has_gallery: true
 id: site_italian
 ref: site_italian
 meta:
-  title: Rhodes Tours, Italian Historic Tours in Rhodes, Italian Sites and Landmarks
-  description: Rhodes Tours, Italian Historic Tours in Rhodes, Italian Sites and Landmarks,
-    Italian Monuments in Rhodes, Restorations and Architecture, Rhodes private tours
-  keywords: Rhodes Tours, Italian Historic Tours in Rhodes, Italian Sites and Landmarks,
+  title: Rhodes Tours, Italian Historical Tours in Rhodes, Italian Sites and Landmarks
+  description: Rhodes Tours, Italian Historical Tours in Rhodes, Italian Sites and
+    Landmarks, Italian Monuments in Rhodes, Restorations and Architecture, Rhodes
+    private tours
+  keywords: Rhodes Tours, Italian Historical Tours in Rhodes, Italian Sites and Landmarks,
     Restorations and Architecture
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Rhodes Tours, Italian Historic Tours in Rhodes
-  http_desc: Rhodes Tours, Italian Historic Tours in Rhodes, Italian Sites and Landmarks,
+  abstract: Rhodes Tours, Italian Historical Tours in Rhodes
+  http_desc: Rhodes Tours, Italian Historical Tours in Rhodes, Italian Sites and Landmarks,
     Rhodes private tours
 title: Rhodes Tours - Italian Architecture. 1912 - 1943
 summary: |-
