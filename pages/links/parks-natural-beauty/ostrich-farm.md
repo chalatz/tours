@@ -53,7 +53,7 @@ sections:
   - figures:
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_5_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_5.jpg
-      alt: Allure Tours of Rhodes, Ostrich Farm
+      alt: Rhodes tours from cruise ship, Ostrich Farm
       caption: The Ostrich Farm and Zoo
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_6_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_6.jpg
