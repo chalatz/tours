@@ -100,7 +100,7 @@ sections:
         Today house&#39;s the "Casino Rodos".
     - thumb: img/New_Town/casino_rodos_mod_small.jpg
       href: img/New_Town/casino_rodos_mod.jpg
-      alt: Casino Rodos, Rhodes Personal Guide
+      alt: Casino Rodos, Rhodes Excursions
       caption: The "Casino Rodos".
     - thumb: img/New_Town/byzantine_windmills_mod_small.jpg
       href: img/New_Town/byzantine_windmills_mod.jpg
