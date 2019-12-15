@@ -30,8 +30,7 @@ sections:
       caption: Panoramic view of Rhodes Town and the West Coast (Aegean Sea)
     - thumb: img/mount_smith_hill/panoramic_view_2_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_2_mod.jpg
-      alt: Acropolis of Rhodes, Rhodes affordable private tours, Affordable Tours
-        of Rhodes, Rhodes Affordable Tours, Rhodes Greece Affordable Tours.
+      alt: Acropolis of Rhodes Town, Rhodes affordable tours
       caption: Panoramic view of Rhodes Town
     - thumb: img/mount_smith_hill/panoramic_view_3_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_3_mod.jpg
