@@ -15,7 +15,7 @@ meta:
   abstract: Rhodes Shore Excursions
   http_desc: Shore Excursions in Rhodes Town, Private Shore Excursions in Rhodes Greece
 keyphrase: Rhodes Shore Excursions
-title: Rhodes New Town in Pictures - Photo Gallery
+title: 'Rhodes Excursions - New Town in Pictures  '
 summary: The modern town developed outside the walls of mediaeval Rhodes and throbs
   with life and activity throughout the year. It is full of surprising contrasts.
   Historic buildings rub elbows with modern blocks of flats. It is made up of wide
@@ -26,8 +26,7 @@ sections:
   - figures:
     - thumb: img/New_Town/administration_building_mod_small.jpg
       href: img/New_Town/administration_building_mod.jpg
-      alt: Administration, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
-        Rhodes Shore Excursions
+      alt: 'Administration Building, Rhodes Excursions '
       caption: The impressive Administration Building which houses the Prefecture
         of the Dodecanese.
     - thumb: img/New_Town/post_office_mod_small.jpg
@@ -45,6 +44,8 @@ sections:
       alt: Town Hall, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
         Rhodes Shore Excursions
       caption: The Town Hall.
+  title: ''
+  desc: ''
 - gallery_rows:
   - figures:
     - thumb: img/New_Town/mandraki_harbor_mod_small.jpg
@@ -70,6 +71,8 @@ sections:
       alt: Saint Nicholas fort, Rhodes Private Tours, Shore Excursions of Rhodes,
         Shore Excursions Greece Rhodes, Rhodes Shore Excursions
       caption: The fort of Saint Nicholas
+  title: ''
+  desc: ''
 - gallery_rows:
   - figures:
     - thumb: img/New_Town/two_bronze_deer_mod_small.jpg
@@ -94,6 +97,8 @@ sections:
       href: img/New_Town/church_of_the_annunciation_3_mod.jpg
       alt: Church of the Annunciation, Rhodes Travel Guide
       caption: The church of the Annunciation
+  title: ''
+  desc: ''
 - gallery_rows:
   - figures:
     - thumb: img/New_Town/hotel_of_the_roses_mod_small.jpg
@@ -114,6 +119,8 @@ sections:
       href: img/New_Town/byzantine_windmills_2_mod.jpg
       alt: Byzantine windmills, Rhodes New City, City Tour
       caption: The three stone Byzantine windmills
+  title: ''
+  desc: ''
 subtitle: ''
 related_tours:
 - Best of Rhodes-DT1
@@ -133,5 +140,6 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Shore Excursions   '
+no_related_tours_text: ''
 
 ---
