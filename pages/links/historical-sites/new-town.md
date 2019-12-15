@@ -16,7 +16,7 @@ meta:
   http_desc: Rhodes Excursions, Rhodes Tours from Cruise Ship, Shore Excursions in
     Rhodes New Town, Greece
 keyphrase: Rhodes Shore Excursions
-title: 'Rhodes Excursions - Rodes Tours from Cruise Ship - New Town '
+title: 'Rhodes Excursions - Rhodes Tours from Cruise Ship - New Town '
 summary: The modern town developed outside the walls of mediaeval Rhodes and throbs
   with life and activity throughout the year. It is full of surprising contrasts.
   Historic buildings rub elbows with modern blocks of flats. It is made up of wide
