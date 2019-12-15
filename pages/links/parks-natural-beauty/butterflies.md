@@ -52,8 +52,8 @@ sections:
   - figures:
     - thumb: img/butterflies_valley/valley_of_the_butterflies_5_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_5.jpg
-      alt: Rhodes Butterflies Valley, Rhodes Shore Excursions
-      caption: The Valley of the Butterflies in Rhodes
+      alt: Butterflies Valley Rhodes Excursion
+      caption: The Valley of the Butterflies in Rhodes Greece
     - thumb: img/butterflies_valley/valley_of_the_butterflies_6_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_6.jpg
       alt: Greece Butterflies Valley, Rhodes Private Tours
