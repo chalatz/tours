@@ -61,7 +61,7 @@ sections:
       caption: The Rodini Park, peacock
     - thumb: img/rodini_park/rodini_park_7_small.jpg
       href: img/rodini_park/rodini_park_7.jpg
-      alt: Rhodes Allure Tours, Rodini Park
+      alt: Rhodes Port Excursions, Rodini Park
       caption: The Rodini Park, ducks
     - thumb: img/rodini_park/rodini_park_8_small.jpg
       href: img/rodini_park/rodini_park_8.jpg
