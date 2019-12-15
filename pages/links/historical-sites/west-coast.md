@@ -40,9 +40,8 @@ sections:
         night clubs and all sort of shops.
     - thumb: img/West_Coast/hotels_west_coast_mod_small.jpg
       href: img/West_Coast/hotels_west_coast_mod.jpg
-      alt: Ialyssos west coast, Rhodes Shore Trips, Shore Trips of Rhodes, Shore Trips
-        of Greece Rhodes
-      caption: Ixia, Luxury Hotels.
+      alt: Ixia and Ialyssos, Shore Trips of Rhodes
+      caption: Ixia and Ialyssos, Luxury Hotels.
   title: ''
 - desc: The road passes through the village, and after winding upwards for 5.5 kilometers
     along the densely wooded flanks of the Philerimos mountain, we come to the ruins
