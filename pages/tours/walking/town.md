@@ -72,7 +72,7 @@ gallery:
     position: first
   - thumb: "./img/tours/walking/01/2_thumb.jpg"
     href: "./img/tours/walking/01/2.jpg"
-    alt: Rhodes Old Town Walking Tour, Rhodes Private Tours
+    alt: The Church, Rhodes Old Town Walking Tour
     position: following
   - thumb: "./img/tours/walking/01/3_thumb.jpg"
     href: "./img/tours/walking/01/3.jpg"
