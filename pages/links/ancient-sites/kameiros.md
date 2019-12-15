@@ -88,7 +88,7 @@ sections:
   - figures:
     - thumb: img/ancient_kameiros/ancient_kameiros_9_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_9.jpg
-      alt: Specialized Private Tours Rhodes
+      alt: 'The Doric Temple, Specialized Rhodes Port Excursions  '
       caption: "<strong>The Doric Temple:</strong> Located on the third and lowest
         terrace of the archaeological zone at the north west edge of the Fountain
         Square. It was a poros distyle temple (having two columns in antis at the
