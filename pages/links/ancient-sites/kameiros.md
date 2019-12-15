@@ -149,7 +149,7 @@ sections:
       caption: "<strong>Louvre Museum:</strong> Potteries found at Kamiros"
     - thumb: img/ancient_kameiros/ancient_kameiros_14_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_14.jpg
-      alt: Private Tours of Rhodes
+      alt: Louvre Museum, Private Tours of Rhodes
       caption: "<strong>Louvre Museum:</strong> Potteries found at Kamiros"
 subtitle: ''
 related_tours:
