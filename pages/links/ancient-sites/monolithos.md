@@ -93,7 +93,7 @@ sections:
       caption: The shell of a chapel dedicated to St. George
     - thumb: img/monolithos_castle/monolithos_castle_mod_15_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_15.jpg
-      alt: Private custom made tours of Rhodes
+      alt: 'The shell of a chapel dedicated to St. George, Rhodes cruise excursions  '
       caption: The shell of a chapel dedicated to St. George
 - title: The Views
   desc: |-
