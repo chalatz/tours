@@ -86,7 +86,7 @@ sections:
         the materials for this purpose
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_12_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_12.jpg
-      alt: Rhodes Allure Tours, Ostrich Farm
+      alt: Rhodes on your own from cruise ship, Ostrich Farm
       caption: Neat, sculpted or painted, an ostrich egg is an excellent gift for
         decoration.
   title: ''
