@@ -68,7 +68,7 @@ sections:
   - figures:
     - thumb: img/ancient_kameiros/ancient_kameiros_5_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_5.jpg
-      alt: Rhodes Specialized excursion
+      alt: Private Dwellings, Rhodes Specialized tours
       caption: "<strong>Private Dwellings:</strong> The Main Street"
     - thumb: img/ancient_kameiros/ancient_kameiros_6_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_6.jpg
