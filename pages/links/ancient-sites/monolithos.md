@@ -41,7 +41,7 @@ sections:
       caption: The Castle of Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_3_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_3.jpg
-      alt: The castle of Monolithos, Rhodes shore excursions
+      alt: 'The castle of Monolithos, Rhodes on your own from cruise ship '
       caption: The Castle of Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_4_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_4.jpg
