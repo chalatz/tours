@@ -40,8 +40,7 @@ sections:
       caption: The Wall with the wide dry Moat
     - thumb: img/Old_Town/set_1/the_walls_3_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_3_mod.jpg
-      alt: Rhodes Old Town, Island Tours of Rhodes, Rhodes Island Tours, Rhodes Island
-        Tour
+      alt: The Wall, Rhodes Tour, Rhodes Island Tours
       caption: The Wall
     - thumb: img/Old_Town/set_1/del_carrettos_bastion_mod_small.jpg
       href: img/Old_Town/set_1/del_carrettos_bastion_mod.jpg
