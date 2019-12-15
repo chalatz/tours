@@ -61,8 +61,7 @@ sections:
         viewpoint, built by Grand Master Emery d'Amboise, it was completed in 1512.
     - thumb: img/Old_Town/set_1/st_anthonys_gate_mod_small.jpg
       href: img/Old_Town/set_1/st_anthonys_gate_mod.jpg
-      alt: Knights of St John, Fortifications, Gates of the Old City of Rhodes, Island
-        Tours of Rhodes, Rhodes Island Tours, Rhodes Island Tour
+      alt: St Anthony's Gate, Rhodes Tour
       caption: 'St Anthony''s Gate. Was the old western gate of Rhodes: with the redesign
         of the walls it became the last gate of d''Amboise''s Gate.'
     - thumb: img/Old_Town/set_1/outer_st_johns_gate_mod_small.jpg
