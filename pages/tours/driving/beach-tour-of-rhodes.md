@@ -114,7 +114,7 @@ gallery:
     position: following
   - thumb: "./img/Tour7/beach_tour_21_thumb.jpg"
     href: "./img/Tour7/beach_tour_21.jpg"
-    alt: Lindos beach
+    alt: Lindos Beach Tour
     position: following
   group_3:
   - thumb: "./img/Tour7/beach_tour_22_thumb.jpg"
