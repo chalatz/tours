@@ -31,7 +31,7 @@ sections:
         in the 16th century
     - thumb: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_2_mod_small.jpg
       href: img/rhodes_ottoman_sites/entrance_of_the_turkish_bath_hammam_2_mod.jpg
-      alt: The sixteenth century Turkish bath Hammam in Arionos square, Tours of Rhodes
+      alt: 'The dome of the Turkish Bath - Hammam, rhodes tours from cruise ship '
       caption: The dome of the Turkish Bath - Hammam
     - thumb: img/rhodes_ottoman_sites/suleiman_mosque_ottoman_sites_mod_small.png
       href: img/rhodes_ottoman_sites/suleiman_mosque_ottoman_sites_mod.jpg
@@ -41,6 +41,8 @@ sections:
       href: img/rhodes_ottoman_sites/entrance_of_mustafa_pasha_mosque_mod.jpg
       alt: The Mustafa Pasha Mosque in Arionos square, Rhodes Tours
       caption: The entrance of Mustafa Pasha Mosque (in Arionos square).
+  title: ''
+  desc: ''
 - desc: |-
     After the establishment of their sovereignty on the island, the Ottoman Turks converted most of the churches into mosques and transformed the major houses into private mansions or public buildings.
 
@@ -65,10 +67,13 @@ sections:
       href: img/rhodes_ottoman_sites/mehmet_aga_mosque_mod.jpg
       alt: Mehmet Aga Mosque in Socrates Street, Tours of Rhodes
       caption: Mehmet Aga Mosque in Socrates Street.
+  title: ''
 - desc: |-
     The most characteristic additions were the baths, and the enclosed wooden balconies on the facades over the narrow streets. The result was a mixture of oriental architecture with imposing western architectural remains and more recent buildings, which were characteristic of the local architecture of the time.
 
     The Muslim Library was founded in 1793 by Hafiz Ahmet Aga is situated opposite the mosque of Suleiman. The building is well preserved, with a small garden. It houses an interesting collection of rare manuscripts and scrolls written in Turkish, Arabian and Persian, the most significant being the one that narrates the siege and conquer of the island by the Turks in 1522. Only the front room can be visited.
+  title: ''
+  gallery_rows: []
 subtitle: ''
 related_tours:
 - Town Walking Tour-WT1
@@ -78,5 +83,6 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Monuments Tours '
+no_related_tours_text: ''
 
 ---
