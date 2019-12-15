@@ -50,7 +50,7 @@ sections:
   - figures:
     - thumb: img/seven_springs/seven_springs_valley_5_thumb.jpg
       href: img/seven_springs/seven_springs_valley_5.jpg
-      alt: Water Springs, Rhodes Shore Excursions
+      alt: 'The Seven Springs, Rhodes on your own from cruise ship '
       caption: The Seven Springs, duck
     - thumb: img/seven_springs/seven_springs_valley_6_thumb.jpg
       href: img/seven_springs/seven_springs_valley_6.jpg
