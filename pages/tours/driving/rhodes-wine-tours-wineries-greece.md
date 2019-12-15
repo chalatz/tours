@@ -104,7 +104,7 @@ gallery:
     position: following
   - thumb: "./img/Tour5/rhodes_wineries_tours_greece5_mod_thumb_.jpg"
     href: "./img/Tour5/rhodes_wineries_tours_greece5_mod_.jpg"
-    alt: Rhodes wineries tours Greece
+    alt: Rhodes wineries, free wine tasting
     position: following
   group_2:
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_1_thumb_.jpg"
