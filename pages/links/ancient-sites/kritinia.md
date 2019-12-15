@@ -30,7 +30,7 @@ sections:
         stands proudly atop a pine clad hill"
     - thumb: img/kritinia_castle/kritinia_castle_2_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_2_mod.jpg
-      alt: Allure Tours Rhodes Greece
+      alt: Kritinia Castle, Allure Tours Rhodes Greece
       caption: "<strong>Kritinia Castle</strong>"
     - thumb: img/kritinia_castle/kritinia_castle_3_mod_small.jpg
       href: img/kritinia_castle/kritinia_castle_3_mod.jpg
