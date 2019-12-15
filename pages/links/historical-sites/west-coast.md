@@ -79,7 +79,7 @@ sections:
       caption: The imposing concrete Cross.
     - thumb: img/West_Coast/steps_to_monastery_filerimos_mod_small.jpg
       href: img/West_Coast/steps_to_monastery_filerimos_mod.jpg
-      alt: 'The entrance to Monastery, Shore Trips in Rhodes '
+      alt: 'The entrance to Monastery, rhodes on your own from cruise ship  '
       caption: The entrance and the steps to Monastery and to ruins of the temple
         of Athena.
     - thumb: img/West_Coast/the_monastery_of_filerimos_mod_small.jpg
