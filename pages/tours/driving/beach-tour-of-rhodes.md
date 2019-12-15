@@ -106,7 +106,7 @@ gallery:
     position: following
   - thumb: "./img/Tour7/beach_tour_18_thumb.jpg"
     href: "./img/Tour7/beach_tour_18.jpg"
-    alt: Charaki Best beach
+    alt: Charaki Best beach tour
     position: following
   - thumb: "./img/Tour7/beach_tour_20_thumb.jpg"
     href: "./img/Tour7/beach_tour_20.jpg"
