@@ -137,7 +137,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_17_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_17.jpg"
-    alt: Best Rhodes private taxi tours
+    alt: Best Rhodes Private Taxi Tours
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_20_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_20.jpg"
