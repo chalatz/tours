@@ -161,7 +161,7 @@ sections:
       caption: Panoramic view of the West Coast
     - thumb: img/filerimos_hill/filerimos_views_4_thumb.jpg
       href: img/filerimos_hill/filerimos_views_4.jpg
-      alt: Rhodes Shore Excursions
+      alt: 'Panoramic view, Rhodes Port Excursions  '
       caption: Panoramic view
   desc: ''
 subtitle: ''
