@@ -41,8 +41,7 @@ sections:
         to Athena" with Telly Savalas and Roger Moore was filmed.
     - thumb: img/East_Coast/kalithea_beach_mod_small.jpg
       href: img/East_Coast/kalithea_beach_mod.jpg
-      alt: East coast of Rhodes, Taxi Tours, Rhodes Taxi Tours, Taxi Tours of Rhodes,
-        Taxi Tours Greece Rhodes
+      alt: 'The east coast of Rhodes, Taxi Tours of Rhodes Greece '
       caption: Some scenes from the film "The Guns of Navarone" were also filmed here
         too.
   title: ''
