@@ -140,7 +140,7 @@ sections:
       caption: The Ancient Kamiros.
     - thumb: img/West_Coast/ancient_kamiros_4_mod_small.jpg
       href: img/West_Coast/ancient_kamiros_4_mod.jpg
-      alt: Rhodes Shore Trips
+      alt: Rhodes Shore Trips, The Ancient Kamiros
       caption: The Ancient Kamiros.
   title: ''
 - desc: We continue south and visit the mediaeval Castle of Kritinia (of the Knights
