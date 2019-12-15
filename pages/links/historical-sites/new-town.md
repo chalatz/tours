@@ -5,17 +5,18 @@ has_gallery: true
 id: site_new_town
 ref: site_new_town
 meta:
-  title: Shore Excursions in Rhodes New Town, Private Shore Excursions in Rhodes Greece
-  description: 'Rhodes Excursions, Rhodes Shore Excursions in Rhodes Town, Rhodes
-    Private Shore Excursions Greece '
-  keywords: 'Rhodes excursions, Rhodes shorex, Rhodes shore excursions, Rhodes private
-    excursions, Greece, '
+  title: Rhodes Excursions, Rodes Tours from Cruise Ship
+  description: 'Rhodes Excursions, Rodes Tours from Cruise Ship, Shore Excursions
+    in Rhodes New Town, Rhodes Private Shore Excursions Greece '
+  keywords: Rhodes Excursions, Rodes Tours from Cruise Ship, Shore Excursions in Rhodes
+    New Town, Greece
   author: NK for Rhodes Private Tours
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Rhodes Shore Excursions
-  http_desc: Shore Excursions in Rhodes Town, Private Shore Excursions in Rhodes Greece
+  abstract: Rhodes Excursions, Rodes Tours from Cruise Ship
+  http_desc: Rhodes Excursions, Rodes Tours from Cruise Ship, Shore Excursions in
+    Rhodes New Town, Greece
 keyphrase: Rhodes Shore Excursions
-title: 'Rhodes Excursions - New Town in Pictures  '
+title: 'Rhodes Excursions - Rodes Tours from Cruise Ship - New Town '
 summary: The modern town developed outside the walls of mediaeval Rhodes and throbs
   with life and activity throughout the year. It is full of surprising contrasts.
   Historic buildings rub elbows with modern blocks of flats. It is made up of wide
