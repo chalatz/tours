@@ -35,8 +35,7 @@ sections:
       caption: The Post Office.
     - thumb: img/New_Town/buildings_mod_small.jpg
       href: img/New_Town/buildings_mod.jpg
-      alt: Buildings, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
-        Rhodes Shore Excursions
+      alt: 'New Town Buildings, Rhodes Excursions '
       caption: Venetian, Gothic and Arabic Architecture.
     - thumb: img/New_Town/town_hall_mod_small.jpg
       href: img/New_Town/town_hall_mod.jpg
