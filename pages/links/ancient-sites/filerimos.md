@@ -138,7 +138,7 @@ sections:
       caption: The entrance of the Cross
     - thumb: img/filerimos_hill/filerimos_cross_3_thumb.png
       href: img/filerimos_hill/filerimos_cross_3.jpg
-      alt: Cruise Shore Tours Rhodes Greece
+      alt: 'The Cross, Rhodes tours from cruise ship '
       caption: The Cross
     - thumb: img/filerimos_hill/filerimos_cross_4_thumb.png
       href: img/filerimos_hill/filerimos_cross_4.jpg
