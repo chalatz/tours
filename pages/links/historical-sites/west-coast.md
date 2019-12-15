@@ -151,7 +151,7 @@ sections:
   - figures:
     - thumb: img/West_Coast/castle_west_coast_mod_small.jpg
       href: img/West_Coast/castle_west_coast_mod.jpg
-      alt: Rhodes private tours Greece
+      alt: 'Kritinia Castle, Rhodes private shore tours '
       caption: Kritinia Castle
     - thumb: img/West_Coast/castle_west_coast_mod2_small.jpg
       href: img/West_Coast/castle_west_coast_mod2.jpg
