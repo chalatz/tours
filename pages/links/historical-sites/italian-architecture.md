@@ -5,18 +5,17 @@ has_gallery: true
 id: site_italian
 ref: site_italian
 meta:
-  title: Italian Monuments in Rhodes, Italian Historic Tours in Rhodes, Italian Sites
-    and Landmarks, Rhodes private tours
-  description: Italian Monuments Rhodes, Italian Historic Tours in Rhodes, Italian
-    Sights Landmarks, Restorations and Architecture, Rhodes private tours
-  keywords: Italian Monuments Rhodes, Italian Historic Tours in Rhodes, Italian Sights
-    Landmarks, Restorations and Architecture
+  title: Rhodes Tours, Italian Historic Tours in Rhodes, Italian Sites and Landmarks
+  description: Rhodes Tours, Italian Historic Tours in Rhodes, Italian Sites and Landmarks,
+    Italian Monuments in Rhodes, Restorations and Architecture, Rhodes private tours
+  keywords: Rhodes Tours, Italian Historic Tours in Rhodes, Italian Sites and Landmarks,
+    Restorations and Architecture
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Italian Monuments Rhodes, Italian Historic Tours in Rhodes
-  http_desc: Italian Monuments in Rhodes, Italian Historic Tours in Rhodes, Italian
-    Sites and Landmarks, Rhodes private tours
-title: Italian Architecture. 1912 - 1943
+  abstract: Rhodes Tours, Italian Historic Tours in Rhodes
+  http_desc: Rhodes Tours, Italian Historic Tours in Rhodes, Italian Sites and Landmarks,
+    Rhodes private tours
+title: Rhodes Tours - Italian Architecture. 1912 - 1943
 summary: |-
   In 1912 Italian troops took control of Rhodes and 11 other islands in the Dodecanese. They established an Italian colony known as "Isole Italiane dell'Egeo" (Italian Islands of the Aegean Sea).
 
@@ -42,6 +41,8 @@ sections:
       href: img/rhodes_italian_architecture/the_st_francisco_church_2_mod.jpg
       alt: Allure tours of Rhodes
       caption: The statue of St. Francis
+  title: ''
+  desc: ''
 - desc: |-
     The new Italian buildings reflect the spirit of public administration, and set new benchmarks in the urban landscape. All this public buildings are samples of a colonial policy and are closely linked to the presence of two general governors, equally active, but diametrically opposed in their choices in architecture, Mario Lago (1924-1936) and Cesare Maria De Vechi (1936-1943).
 
@@ -68,10 +69,13 @@ sections:
       href: img/rhodes_italian_architecture/cathedral.jpg
       alt: Allure tours of Rhodes
       caption: The Cathedral of Rhodes
+  title: ''
 - desc: The restoration methods they used are the subject of fierce criticism today.
     Although they were imposed by the political circumstances of their day, they nevertheless
     helped to preserve many monuments that would possibly not otherwise have survived
     to the present.
+  title: ''
+  gallery_rows: []
 subtitle: ''
 related_tours:
 - Best of Rhodes-DT1
@@ -88,5 +92,6 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Historic Tours   '
+no_related_tours_text: ''
 
 ---
