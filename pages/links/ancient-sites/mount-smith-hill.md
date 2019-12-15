@@ -38,7 +38,7 @@ sections:
       caption: Panoramic view of the West Coast
     - thumb: img/mount_smith_hill/panoramic_view_4_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_4_mod.jpg
-      alt: Affordable tours of Rhodes Greece
+      alt: Panoramic view of the Aegean Sea, Affordable tours of Rhodes Greece
       caption: Panoramic view of the Aegean Sea
   title: ''
   desc: ''
