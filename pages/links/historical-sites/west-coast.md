@@ -127,7 +127,7 @@ sections:
   - figures:
     - thumb: img/West_Coast/ancient_kamiros_mod_small.jpg
       href: img/West_Coast/ancient_kamiros_mod.jpg
-      alt: Shore Trips of Rhodes
+      alt: Kamiros, Shore Trips of Rhodes
       caption: Kamiros was one of the three powerful cities of Rhodes and has been
         inhabited, since prehistoric times.
     - thumb: img/West_Coast/ancient_kamiros_2_mod_small.jpg
