@@ -85,7 +85,7 @@ sections:
       caption: The 15th century chapel of St. Panteleimon
     - thumb: img/monolithos_castle/monolithos_castle_mod_12_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_12.jpg
-      alt: Rhodes sightseeing tours Greece
+      alt: The 15th century chapel of St. Panteleimon, Rhodes sightseeing tours Greece
       caption: The very well preserved 15th century chapel of St. Panteleimon
     - thumb: img/monolithos_castle/monolithos_castle_mod_14_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_14.jpg
