@@ -70,7 +70,8 @@ sections:
       caption: Kleovoulos - Cleobulos (625 - 555 B.C.)
     - thumb: img/rhodes_lindos/ancient_theatre_mod_small.jpg
       href: img/rhodes_lindos/ancient_theatre_mod.jpg
-      alt: Lindos Rhodes Greece Executive Tours, escorted tours of Rhodes
+      alt: The white Village of Lindos, Rhodes cruise excursions, escorted tours of
+        Rhodes
       caption: The white Village of Lindos
     - thumb: img/rhodes_lindos/lindos_village_7_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_7_mod.jpg
