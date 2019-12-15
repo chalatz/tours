@@ -126,7 +126,7 @@ gallery:
     position: first
   - thumb: "./img/Tour3/halfday_private_tour_11_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_11.jpg"
-    alt: Rhodes Private tours
+    alt: Rhodes Private tour
     position: following
   - thumb: "./img/Tour3/halfday_private_tour_12_thumb.jpg"
     href: "./img/Tour3/halfday_private_tour_12.jpg"
