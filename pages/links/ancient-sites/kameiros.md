@@ -111,7 +111,7 @@ sections:
         spaces."
     - thumb: img/ancient_kameiros/ancient_kameiros_12_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_12.jpg
-      alt: Private Specialized Tours Rhodes
+      alt: 'The Fountain Square, Rhodes on your own from cruise ship '
       caption: "<strong>The Fountain Square:</strong> Inside it was an open cistern
         from which the water was drawn (mid-4th c. BC). At a later period (3rd c.
         BC) the cistern was replaced by a well"
