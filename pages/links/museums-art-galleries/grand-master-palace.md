@@ -68,7 +68,7 @@ sections:
       caption: The interior of the Palace
     - thumb: img/grand_masters_palace/the_lower_acropolis_mod_small.jpg
       href: img/grand_masters_palace/the_lower_acropolis_mod.jpg
-      alt: Rhodes Taxi Tours, The Castelo
+      alt: Rhodes on your own from cruise ship, The Castelo
       caption: The interior of the Palace
   title: ''
 - desc: The arrangement of the palace around the central courtyard with the apartments
