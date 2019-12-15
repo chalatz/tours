@@ -118,7 +118,7 @@ sections:
       href: img/monolithos_castle/monolithos_castle_mod_22.jpg
       alt: Rhodes shore excursions
       caption: The View from the Castle of Monolithos
-subtitle: The Village of Monolithos
+subtitle: ''
 related_tours:
 - South West Coast Tour-DT8
 end_page:
