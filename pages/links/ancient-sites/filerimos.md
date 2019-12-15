@@ -85,7 +85,7 @@ sections:
       caption: Monastery of Filerimos
     - thumb: img/filerimos_hill/filerimos_monastery_2_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_2.jpg
-      alt: Monk's rooms in Monastery of Filerimos
+      alt: 'Monk''s rooms in Monastery of Filerimos, Rhodes Port Excursions  '
       caption: Monk's rooms in Monastery of Filerimos
     - thumb: img/filerimos_hill/filerimos_monastery_3_thumb.jpg
       href: img/filerimos_hill/filerimos_monastery_3.jpg
