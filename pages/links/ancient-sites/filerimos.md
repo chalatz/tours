@@ -42,7 +42,7 @@ sections:
       caption: The remains of the temple of Athena Polias
     - thumb: img/filerimos_hill/filerimos_hill_3_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_3.jpg
-      alt: Filerimos Rhodes,Shore Tours
+      alt: 'Virgin Mary Church, Rhodes tours from cruise ship '
       caption: The temple was converted into an early Christian three-basilica dedicated
         to Virgin Mary
     - thumb: img/filerimos_hill/filerimos_hill_4_thumb.jpg
