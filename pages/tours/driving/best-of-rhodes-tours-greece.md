@@ -125,7 +125,7 @@ gallery:
   group_3:
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_10_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_10.jpg"
-    alt: Best private tours of Rhodes Island
+    alt: Best private shore tours of Rhodes Island
     position: first
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_12_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_12.jpg"
