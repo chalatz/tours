@@ -114,7 +114,7 @@ gallery:
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_9_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_9.jpg"
-    alt: Rhodes private driver guide
+    alt: 'Rhodes on your own from cruise ship '
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_10_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_10.jpg"
