@@ -27,7 +27,7 @@ sections:
   - figures:
     - thumb: img/New_Town/administration_building_mod_small.jpg
       href: img/New_Town/administration_building_mod.jpg
-      alt: 'Administration Building, Rhodes Excursions '
+      alt: 'Administration Building, Rhodes tours from cruise ship '
       caption: The impressive Administration Building which houses the Prefecture
         of the Dodecanese.
     - thumb: img/New_Town/post_office_mod_small.jpg
