@@ -36,8 +36,7 @@ sections:
       caption: The interior of the Wall
     - thumb: img/Old_Town/set_1/the_walls_2_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_2_mod.jpg
-      alt: Rhodes Old City Gate, Island Tours of Rhodes, Rhodes Island Tours, Rhodes
-        Island Tour
+      alt: 'The Wall with the wide dry Moat, Rhodes Tour, Rhodes Island Tour '
       caption: The Wall with the wide dry Moat
     - thumb: img/Old_Town/set_1/the_walls_3_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_3_mod.jpg
