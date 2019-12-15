@@ -72,7 +72,7 @@ sections:
       caption: "<strong>Private Dwellings:</strong> The Main Street"
     - thumb: img/ancient_kameiros/ancient_kameiros_6_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_6.jpg
-      alt: Rhodes specialized shore excursions
+      alt: Private Dwellings, Rhodes specialized shore excursions
       caption: "<strong>Private Dwellings:</strong> A house with an interior colonnaded
         courtyard"
     - thumb: img/ancient_kameiros/ancient_kameiros_7_thumb.jpg
