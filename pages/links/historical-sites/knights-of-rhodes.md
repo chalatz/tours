@@ -141,7 +141,7 @@ sections:
       caption: The Medieval Rose Festival
     - thumb: img/knights_of_rhodes/festival_4_thumb.jpg
       href: img/knights_of_rhodes/festival_4.jpg
-      alt: Medieval Rose, Allure Tours in Rhodes Greece
+      alt: 'Medieval Rose, rhodes tours from cruise ship '
       caption: The Medieval Rose Festival
 - desc: |-
     Agenda also includes artistic events, seminars, bazaars, workshops, exhibitions and conventions related to the era. All participants should be dressed in a medieval manner and all settings and equipment used made of appropriate to the epoch materials.  Hosting venue is the Moat and Gate d' Amboise, while various happenings take place around the Medieval town. Main aim is to maintain the cultural heritage of Rhodes island and highlight the value of the extant byzantine and medieval architectural treasures.
