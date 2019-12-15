@@ -153,7 +153,7 @@ sections:
       caption: Castellania Fountain in Ippocratous square.
     - thumb: img/Old_Town/set_3/lady_of_the_burg_church_mod_small.jpg
       href: img/Old_Town/set_3/lady_of_the_burg_church_mod.jpg
-      alt: Rhodes Old City, Church, Tour of Rhodes Island
+      alt: Our Lady of the Burg, Tour of Rhodes
       caption: '"Our Lady of the Burg" Church.'
     - thumb: img/Old_Town/set_3/view_from_the_old_town_mod_small.jpg
       href: img/Old_Town/set_3/view_from_the_old_town_mod.jpg
