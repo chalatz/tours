@@ -54,7 +54,7 @@ sections:
   - figures:
     - thumb: img/rhodes_ottoman_sites/turkish_style_buildings_ottoman_sites_mod_small.jpg
       href: img/rhodes_ottoman_sites/turkish_style_buildings_ottoman_sites_mod.jpg
-      alt: Turkish style buildings, sachnisi, Tours of Rhodes
+      alt: 'Turkish style buildings, Rhodes Port Excursions  '
       caption: Wooden balconies (sachnisi) of the Turkish style buildings.
     - thumb: img/rhodes_ottoman_sites/murat_reis_mosque_cemetery_mod_small.jpg
       href: img/rhodes_ottoman_sites/murat_reis_mosque_cemetery_mod.jpg
