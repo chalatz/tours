@@ -149,7 +149,7 @@ sections:
       caption: A panoramic view of the Old Town.
     - thumb: img/Old_Town/set_3/ippokratous_square_mod_small.jpg
       href: img/Old_Town/set_3/ippokratous_square_mod.jpg
-      alt: Old City of Rhodes, Square, Rhodes Tours Greece
+      alt: Castellania Fountain in the Old City, Rhodes Tours Greece
       caption: Castellania Fountain in Ippocratous square.
     - thumb: img/Old_Town/set_3/lady_of_the_burg_church_mod_small.jpg
       href: img/Old_Town/set_3/lady_of_the_burg_church_mod.jpg
