@@ -163,7 +163,7 @@ sections:
       caption: The Gate of Kritinia Castle (interior)
     - thumb: img/West_Coast/castle_west_coast_mod4_small.jpg
       href: img/West_Coast/castle_west_coast_mod4.jpg
-      alt: Rhodes taxi tours Greece
+      alt: Rhodes shore tours Greece, The Gate of Kritinia Castle
       caption: The Gate of Kritinia Castle (interior)
   title: ''
 - desc: Then your journey to Monolithos will take you along a beautiful, 20 km / 12
