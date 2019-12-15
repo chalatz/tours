@@ -75,7 +75,7 @@ sections:
       caption: The white Village of Lindos
     - thumb: img/rhodes_lindos/lindos_village_7_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_7_mod.jpg
-      alt: Lindos, Allure Tours Rhodes Greece
+      alt: 'The white Village of Lindos, Rhodes tours from cruise ship '
       caption: The white Village of Lindos
     - thumb: img/rhodes_lindos/lindos_village_8_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_8_mod.jpg
