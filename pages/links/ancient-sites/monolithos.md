@@ -37,7 +37,7 @@ sections:
       caption: The Castle of Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_2_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_2.jpg
-      alt: The castle of Monolithos, Rhodes Private Tours Greece
+      alt: 'The castle of Monolithos, Rhodes tours from cruise ship '
       caption: The Castle of Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_3_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_3.jpg
