@@ -170,7 +170,7 @@ sections:
       caption: The Hospice of St. Catherine.
     - thumb: img/Old_Town/set_3/the_burgo_7_small.jpg
       href: img/Old_Town/set_3/the_burgo_7.jpg
-      alt: Rhodes Island Tours Greece
+      alt: A street in the Burgo in the Old Town, Rhodes Tour
       caption: A street in the Burgo
     - thumb: img/Old_Town/set_3/the_burgo_8_small.jpg
       href: img/Old_Town/set_3/the_burgo_8.jpg
