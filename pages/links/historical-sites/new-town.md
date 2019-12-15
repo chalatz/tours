@@ -95,7 +95,7 @@ sections:
   - figures:
     - thumb: img/New_Town/hotel_of_the_roses_mod_small.jpg
       href: img/New_Town/hotel_of_the_roses_mod.jpg
-      alt: Hotel of the Roses, Rhodes Private Guide
+      alt: Hotel of the Roses, Rhodes Shore Excursions
       caption: The imposing "Hotel of the Roses" was built by the Italians, in 1932.
         Today house&#39;s the "Casino Rodos".
     - thumb: img/New_Town/casino_rodos_mod_small.jpg
