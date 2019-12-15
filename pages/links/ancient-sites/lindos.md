@@ -33,7 +33,7 @@ sections:
   - figures:
     - thumb: img/rhodes_lindos/ancient_lindos_acropolis_mod_small.jpg
       href: img/rhodes_lindos/ancient_lindos_acropolis_mod.jpg
-      alt: Executive Tours of Rhodes Greeces
+      alt: Lindos Village and Acropolis, Executive Tours of Rhodes Greece
       caption: Lindos Village and Acropolis
     - thumb: img/rhodes_lindos/st_pauls_bay_mod_small.jpg
       href: img/rhodes_lindos/st_pauls_bay_mod.jpg
@@ -47,6 +47,8 @@ sections:
       href: img/rhodes_lindos/lindos_white_village_mod.jpg
       alt: Rhodes Private Tours, Executive tours
       caption: Lindos Village
+  title: ''
+  desc: ''
 - desc: There is information that Lindos already had colonies by the 7th century and
     that it monopolized a large part of trade and shipping in the Mediterranean. The
     Lindians were the first to draw up a naval code of justice, later known as the
@@ -77,6 +79,7 @@ sections:
       href: img/rhodes_lindos/lindos_village_8_mod.jpg
       alt: Lindos, Rhodes Allure Tours
       caption: Lindos
+  title: ''
 - title: The Acropolis of Lindos
   desc: The ancient Acropolis 410 feet (160m) above Lindos. On the approach to the
     top you will come to the CASTLE, a 13th century fortress that is at the entrance
@@ -126,6 +129,7 @@ sections:
       href: img/rhodes_lindos/lindos_acropolis_6.jpg
       alt: Executive Taxi Tours Rhodes Greece
       caption: 'The Greek Orthodox church Ayios Ioannis (St John) 13th – 14th century '
+  title: ''
 - title: Views from the summit of the Acropolis
   gallery_rows:
   - figures:
@@ -146,6 +150,7 @@ sections:
       href: img/rhodes_lindos/view_from_lindos_acropolis_4.jpg
       alt: Executive Tours in Rhodes Greece
       caption: View of St Paul's Bay
+  desc: ''
 subtitle: ''
 related_tours:
 - Best of Rhodes-DT1
@@ -162,5 +167,6 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Executive Tours '
+no_related_tours_text: ''
 
 ---
