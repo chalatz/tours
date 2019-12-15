@@ -25,8 +25,7 @@ sections:
   - figures:
     - thumb: img/East_Coast/kallithea_baths_mod_small.jpg
       href: img/East_Coast/kallithea_baths_mod.jpg
-      alt: East Coast of Rhodes, Kalithea, Taxi Tours, Rhodes Taxi Tours, Taxi Tours
-        of Rhodes, Taxi Tours Greece Rhodes
+      alt: 'East Coast of Rhodes, Kalithea, Rhodes Taxi Tours '
       caption: The entrance of Kalithea Spa. Kallithea baths (no longer in operation).
         The construction of the facilities began at the end of December 1928, by the
         italian architect Pietro Lombardi.
@@ -48,6 +47,7 @@ sections:
         Taxi Tours Greece Rhodes
       caption: Some scenes from the film "The Guns of Navarone" were also filmed here
         too.
+  title: ''
 - desc: |-
     We continue along the coastal road, which is lined with ultra-modern tourist complexes, and we come to Faliraki.  This is one of the largest tourist settlements of the island, with a marvelous beach, many hotels, shops, sports facilities, etc...
 
@@ -73,6 +73,7 @@ sections:
       alt: Antony Queen Bay, Rhodes Private Tours, Rhodes Taxi Tours, Taxi Tours of
         Rhodes, Taxi Tours Greece Rhodes
       caption: Anthony Quinn Bay
+  title: ''
 - desc: |-
     We turn to the main road, and pass through the village of Afandou. At a distance of 6 Kilometers to the south, is the site called Kolymbia, where the Epta Pighes (Seven Springs) are located.
 
@@ -96,6 +97,7 @@ sections:
       href: img/East_Coast/archagelos_village_2_mod.jpg
       alt: Archagelos Village Rhodes
       caption: Archangelos Village
+  title: ''
 - desc: We continue to the south on the main road and after a turn, the impressive
     rock of Lindos rises up to meet us, with the acropolis on its top and the dazzling
     white village at its foot.
@@ -118,6 +120,7 @@ sections:
       alt: St. Paul's Bay Lindos Rhodes Greece
       caption: St. Paul 's Bay, where the apostle is said to have landed in the year
         51 AD to preach Christianity to the Rhodians.
+  title: ''
 - gallery_rows:
   - figures:
     - thumb: img/East_Coast/lindos_goats_mod_small.jpg
@@ -139,6 +142,8 @@ sections:
       caption: '"Captain houses" Lovely old residences, hearkening back to the 16th
         and 17th centuries, when they were constructed by wealthy merchant seafarers
         as visible evidence of their success.'
+  title: ''
+  desc: ''
 - gallery_rows:
   - figures:
     - thumb: img/East_Coast/lindos_village_1_mod_small.jpg
@@ -157,6 +162,8 @@ sections:
       href: img/East_Coast/lindos_village_4_mod.jpg
       alt: Lindos Ancient Theatre, Rhodes Limo Services.
       caption: Lindos Taxi!
+  title: ''
+  desc: ''
 subtitle: ''
 summary: ''
 related_tours:
@@ -174,5 +181,6 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Taxi Tours   '
+no_related_tours_text: ''
 
 ---
