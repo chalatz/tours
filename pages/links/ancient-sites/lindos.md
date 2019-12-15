@@ -130,7 +130,7 @@ sections:
       caption: Medieval fortifications built by the Knights of Saint John Hospitallers
     - thumb: img/rhodes_lindos/lindos_acropolis_6_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_6.jpg
-      alt: Executive Taxi Tours Rhodes Greece
+      alt: The Greek Orthodox church, Executive Taxi Tours Rhodes Greece
       caption: 'The Greek Orthodox church Ayios Ioannis (St John) 13th – 14th century '
   title: ''
 - title: Views from the summit of the Acropolis
