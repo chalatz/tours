@@ -107,7 +107,7 @@ gallery:
     position: following
   - thumb: "./img/Tour10/9-thumb.jpg"
     href: "./img/Tour10/9.jpg"
-    alt: Rhodes Island Taxi Tours, Greece
+    alt: 'Rhodes on your own from cruise ship '
     position: following
   - thumb: "./img/Tour10/10-thumb.jpg"
     href: "./img/Tour10/10.jpg"
