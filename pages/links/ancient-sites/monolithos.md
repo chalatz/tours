@@ -45,7 +45,7 @@ sections:
       caption: The Castle of Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_4_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_4.jpg
-      alt: 'The castle of Monolithos, Rhodes Taxi Tours '
+      alt: 'The castle of Monolithos, Rhodes Taxi Port Excursions  '
       caption: The Castle of Monolithos
 - desc: |-
     The purpose of the castle was to oversee the entire southern part of Rhodes and provide protection to the residents from the attacks of the pirates. The 1479 Decree stated that the inhabitants of Apolakkia village (10 km / 6 miles from Monolithos) had to return to the castle when threatened with attacks. Because of its location and the excellent natural fortification, it was one of the four strong fortresses of Rhodes, and unlike other historic sites, probably was not changed much over time.
