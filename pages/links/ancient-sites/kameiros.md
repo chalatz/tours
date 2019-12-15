@@ -33,7 +33,7 @@ sections:
   - figures:
     - thumb: img/ancient_kameiros/ancient_kameiros_1_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_1.jpg
-      alt: Rhodes Allure Tours
+      alt: The temple of Athina, Rhodes Allure Tours
       caption: "<strong>The temple of Athina:</strong> The remains of the temple of
         Athina. Only its foundation has survived, was a tetrastyle peripteral with
         porticos on all four sides, was surrounded by a peribolos."
