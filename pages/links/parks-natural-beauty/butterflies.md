@@ -65,7 +65,7 @@ sections:
       caption: Life Cicle of the Butterflies
     - thumb: img/butterflies_valley/valley_of_the_butterflies_8_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_8.jpg
-      alt: Greece Butterflies Valley, Tours of Rhodes Greece
+      alt: 'Gift shops, Butterflies Valley, Rhodes Tour '
       caption: Gift shops at the main entrance of the Valley
   title: ''
 subtitle: ''
