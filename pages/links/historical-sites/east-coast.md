@@ -57,8 +57,7 @@ sections:
       caption: Faliraki Tourist Settlement
     - thumb: img/East_Coast/faliraki_beach_2_mod_small.jpg
       href: img/East_Coast/faliraki_beach_2_mod.jpg
-      alt: Rhodes Faliraki, East Coast Taxi Tours, Rhodes Taxi Tours, Taxi Tours of
-        Rhodes, Taxi Tours Greece Rhodes
+      alt: Rhodes Faliraki, East Coast Taxi Tours
       caption: Faliraki Tourist Settlement
     - thumb: img/East_Coast/antony_queen_bay_mod_small.jpg
       href: img/East_Coast/antony_queen_bay_mod.jpg
