@@ -133,7 +133,7 @@ sections:
         of Rhodes.
     - thumb: img/Old_Town/set_2/grand_masters_palace_7_small.jpg
       href: img/Old_Town/set_2/grand_masters_palace_7.jpg
-      alt: Rhodes Greece Island Tour
+      alt: 'The Grand Masters Palace, rhodes on your own from cruise ship '
       caption: The Grand Masters Palace.
     - thumb: img/Old_Town/set_2/grand_masters_palace_8_small.jpg
       href: img/Old_Town/set_2/grand_masters_palace_8.jpg
