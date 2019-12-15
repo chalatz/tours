@@ -8,16 +8,18 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Rhodes private tours. Rhodes private shore excursions, Private tours of Rhodes
-    Island Greece, full day tour.
-  description: Rhodes private tours. Rhodes private shore excursions, Private tours
-    of Rhodes Island Greece, East West coast full day tour.
-  keywords: Rhodes private tours, Rhodes private shore excursions, Private tours of
-    Rhodes Island Greece, East West coast full day tour
+  title: Rhodes Town, East Coast of the Island and Lindos, Lunch Break Right on the
+    Water’s Edge, West Coast of the Island, Full day tour.
+  description: Rhodes Town, East Coast of the Island and Lindos, Lunch Break Right
+    on the Water’s Edge, West Coast of the Island, Full day tour. Rhodes private tours.
+    Rhodes private shore excursions, Private tours of Rhodes Island Greece
+  keywords: 'Rhodes Town, East Coast of the Island and Lindos, Lunch Break Right on
+    the Water’s Edge, West Coast of the Island, Full day tour. '
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  http_desc: ''
+  http_desc: Rhodes Town, East Coast of the Island and Lindos, Lunch Break Right on
+    the Water’s Edge, West Coast of the Island, Full day tour.
 title: Rhodes Full Day DT2
 summary:
   paragraphs:
