@@ -39,8 +39,7 @@ sections:
       caption: Venetian, Gothic and Arabic Architecture.
     - thumb: img/New_Town/town_hall_mod_small.jpg
       href: img/New_Town/town_hall_mod.jpg
-      alt: Town Hall, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
-        Rhodes Shore Excursions
+      alt: The Town Hall, Shore Excursions of Rhodes
       caption: The Town Hall.
   title: ''
   desc: ''
