@@ -110,7 +110,7 @@ gallery:
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_8_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_8.jpg"
-    alt: Rhodes shore excursions
+    alt: 'Rhodes full day tours from cruise ship '
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_9_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_9.jpg"
