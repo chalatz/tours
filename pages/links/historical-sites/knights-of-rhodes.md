@@ -47,6 +47,8 @@ sections:
       href: img/knights_of_rhodes/foto_4.jpg
       alt: Pierre D'Aubusson Armories, Allure Tours
       caption: "<strong>The Knights of Rhodes:</strong> Pierre D'Aubusson Armories"
+  title: ''
+  desc: ''
 - desc: The years when Rhodes was occupied by the Order of the Knights of St. John
     could be considered as one of the Rhodes' most flourishing periods. The Knights
     stayed at Rhodes for 213 whole years, since 1309 till 1522 when the last Grand
@@ -76,6 +78,7 @@ sections:
       alt: Fabrizio del Carretto, Rhodes Greece Allure Tours
       caption: "<strong>The Knights of Rhodes:</strong> Coat of arms of the Grand
         Master Fabrizio del Carretto (1513 - 1521)"
+  title: ''
 - title: The Knights of St John Today
   desc: |-
     **The Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes, and of Malta (Official Name)**
@@ -83,6 +86,7 @@ sections:
     The Order of Malta is one of the few Orders created in the Middle Ages and still active today. It is also the only one that is at the same time religious and sovereign.
 
     After the loss of Malta the Order settled definitively in Rome in 1834 where it owns, with extraterritoriality status, the Magistral Palace in Via Condotti 68 and the Magistral Villa on the Aventine Hill.
+  gallery_rows: []
 - title: The Flags and Emblems of the Order
   gallery_rows:
   - figures:
@@ -104,6 +108,7 @@ sections:
       alt: The Emblem, Rhodes Allure Tours
       caption: "<strong>The Knights of St John Today:</strong> The Emblem of the Sovereign
         Order of Malta’s armorial bearing"
+  desc: ''
 - desc: |-
     The Sovereign Order of Malta is a sovereign subject of international law, with its own constitution, passports, stamps, and public institutions.
 
@@ -112,6 +117,8 @@ sections:
     On 2 May 2018,  Fra' Giacomo Dalla Torre has been elected the 80th Grand Master of the Sovereign Order of Malta.
 
     For more information please visit the official website of the Order at: <http://www.orderofmalta.int/>
+  title: ''
+  gallery_rows: []
 - title: Τhe Medieval Rose Festival
   desc: Τhe Medieval Rose Festival is held every year on Rhodes since 2006, organized
     by the "**Medieval Rose**" association and is a unique of its kind event in Greece..
@@ -134,12 +141,14 @@ sections:
       caption: The Medieval Rose Festival
     - thumb: img/knights_of_rhodes/festival_4_thumb.jpg
       href: img/knights_of_rhodes/festival_4.jpg
-      alt: Medieval Rose, Allure Ttours in Rhodes Greece
+      alt: Medieval Rose, Allure Tours in Rhodes Greece
       caption: The Medieval Rose Festival
 - desc: |-
     Agenda also includes artistic events, seminars, bazaars, workshops, exhibitions and conventions related to the era. All participants should be dressed in a medieval manner and all settings and equipment used made of appropriate to the epoch materials.  Hosting venue is the Moat and Gate d' Amboise, while various happenings take place around the Medieval town. Main aim is to maintain the cultural heritage of Rhodes island and highlight the value of the extant byzantine and medieval architectural treasures.
 
     For more information please visit: [http://www.medievalfestival.gr](http://www.medievalfestival.gr/)
+  title: ''
+  gallery_rows: []
 subtitle: ''
 related_tours:
 - Town Walking Tour-WT1
@@ -157,5 +166,6 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Medieval Tours   '
+no_related_tours_text: ''
 
 ---
