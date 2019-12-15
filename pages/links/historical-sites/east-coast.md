@@ -36,8 +36,7 @@ sections:
         cistern.
     - thumb: img/East_Coast/kallithea_rocks_mod_small.jpg
       href: img/East_Coast/kallithea_rocks_mod.jpg
-      alt: Kalithea, Rhodes Taxi Tour, Rhodes Taxi Tours, Taxi Tours of Rhodes, Taxi
-        Tours Greece Rhodes
+      alt: Kalithea Beach, Rhodes Taxi Tour
       caption: Kalithea Beach. In this naturally landscaped setting the film "Escape
         to Athena" with Telly Savalas and Roger Moore was filmed.
     - thumb: img/East_Coast/kalithea_beach_mod_small.jpg
