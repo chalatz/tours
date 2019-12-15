@@ -65,8 +65,7 @@ sections:
       caption: Anthony Quinn Bay
     - thumb: img/East_Coast/antony_queen_beach_mod_small.jpg
       href: img/East_Coast/antony_queen_beach_mod.jpg
-      alt: Antony Queen Bay, Rhodes Private Tours, Rhodes Taxi Tours, Taxi Tours of
-        Rhodes, Taxi Tours Greece Rhodes
+      alt: Antony Queen Bay, Rhodes Private Taxi Tours
       caption: Anthony Quinn Bay
   title: ''
 - desc: |-
