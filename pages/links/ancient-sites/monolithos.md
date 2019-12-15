@@ -81,7 +81,7 @@ sections:
   - figures:
     - thumb: img/monolithos_castle/monolithos_castle_mod_11_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_11.jpg
-      alt: Day tours of Rhodes Greece
+      alt: 'The 15th century chapel of St. Panteleimon, Rhodes tours from cruise ship '
       caption: The 15th century chapel of St. Panteleimon
     - thumb: img/monolithos_castle/monolithos_castle_mod_12_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_12.jpg
