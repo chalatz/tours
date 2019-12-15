@@ -47,7 +47,7 @@ sections:
         to Virgin Mary
     - thumb: img/filerimos_hill/filerimos_hill_4_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_4.jpg
-      alt: Ialyssos acropolis,Rhodes Day Tours
+      alt: 'The church of our Lady of Filerimos, Rhodes on your own from cruise ship '
       caption: The church of our Lady of Filerimos
 - gallery_rows:
   - figures:
