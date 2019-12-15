@@ -153,7 +153,7 @@ sections:
       caption: Lindos Village
     - thumb: img/East_Coast/lindos_village_4_mod_small.jpg
       href: img/East_Coast/lindos_village_4_mod.jpg
-      alt: Lindos Ancient Theatre, Rhodes Limo Services.
+      alt: 'Lindos Taxi Tour '
       caption: Lindos Taxi!
   title: ''
   desc: ''
