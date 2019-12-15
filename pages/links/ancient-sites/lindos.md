@@ -122,7 +122,7 @@ sections:
       caption: Temple of Athina Lindia
     - thumb: img/rhodes_lindos/lindos_acropolis_4_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_4.jpg
-      alt: Rhodes customized executive tours
+      alt: 'Temple of Athina Lindia, Rhodes executive tours from cruise ship '
       caption: Temple of Athina Lindia
     - thumb: img/rhodes_lindos/lindos_acropolis_5_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_5.jpg
