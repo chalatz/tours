@@ -179,7 +179,7 @@ sections:
       caption: Castle of Monolithos
     - thumb: img/West_Coast/castle_west_coast_mod6_small.jpg
       href: img/West_Coast/castle_west_coast_mod6.jpg
-      alt: Shore excursions of Rhodes
+      alt: The interior of the Castle of Monolithos, Shore trips of Rhodes
       caption: The interior of the Castle of Monolithos
     - thumb: img/West_Coast/castle_west_coast_mod7_small.jpg
       href: img/West_Coast/castle_west_coast_mod7.jpg
