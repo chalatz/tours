@@ -101,7 +101,7 @@ sections:
   - figures:
     - thumb: img/West_Coast/valley_of_the_butterflies_mod_small.jpg
       href: img/West_Coast/valley_of_the_butterflies_mod.jpg
-      alt: The Valley of The Butterflies Rhodes Greece
+      alt: The Valley of The Butterflies, rhodes shore tours Greece
       caption: The Valley of the Butterflies. This is a lush green valley, with a
         little river running through it.
     - thumb: img/West_Coast/valley_of_the_butterflies_2_mod_small.jpg
