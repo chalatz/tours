@@ -56,7 +56,7 @@ sections:
       caption: The Valley of the Butterflies in Rhodes Greece
     - thumb: img/butterflies_valley/valley_of_the_butterflies_6_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_6.jpg
-      alt: Greece Butterflies Valley, Rhodes Private Tours
+      alt: Wooden bridge in butterfly valley, Rhodes tour
       caption: Wooden bridge in the Valley of the Butterflies
     - thumb: img/butterflies_valley/valley_of_the_butterflies_7_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_7.jpg
