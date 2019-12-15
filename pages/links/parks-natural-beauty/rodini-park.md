@@ -65,7 +65,7 @@ sections:
       caption: The Rodini Park, ducks
     - thumb: img/rodini_park/rodini_park_8_small.jpg
       href: img/rodini_park/rodini_park_8.jpg
-      alt: Allure Tours of Rhodes, Rodini Park
+      alt: Rhodes cruise excursions, Rodini Park
       caption: The Rodini Park, a tunnel into the rock
   title: ''
   desc: ''
