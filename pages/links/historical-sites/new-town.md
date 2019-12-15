@@ -47,9 +47,8 @@ sections:
   - figures:
     - thumb: img/New_Town/mandraki_harbor_mod_small.jpg
       href: img/New_Town/mandraki_harbor_mod.jpg
-      alt: Mandraki Harbor, Rhodes shore excursions, Shore Excursions of Rhodes, Shore
-        Excursions Greece Rhodes, Rhodes Shore Excursions
-      caption: Around the port, the Mandraki, we find the imposing buildings in neo-colonial
+      alt: Mandraki Harbor, Rhodes shore excursions
+      caption: Around the port "Mandraki", we find the imposing buildings in neo-colonial
         and Italianate style, which lend grandeur to this part of the present-day
         town.
     - thumb: img/New_Town/mandraki_harbor_2_mod_small.jpg
