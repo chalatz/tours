@@ -89,7 +89,7 @@ sections:
         town of Ialyssos with an important temple dedicated to Athena Polias.
     - thumb: img/West_Coast/the_monastery_of_filerimos_2_mod_small.jpg
       href: img/West_Coast/the_monastery_of_filerimos_2_mod.jpg
-      alt: 'The Monastery of Filerimos, Rhodes Shore Trips '
+      alt: 'The Monastery of Filerimos, Rhodes tours from cruise ship '
       caption: The Monastery of Filerimos
   title: ''
   desc: ''
