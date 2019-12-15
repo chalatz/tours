@@ -45,7 +45,7 @@ sections:
         letter Π and was 200 meter / 700 feet long."
     - thumb: img/ancient_kameiros/ancient_kameiros_3_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_3.jpg
-      alt: Rhodes Allure Tours, Rhodes Taxi Tours
+      alt: The Archaic Cistern, Rhodes Allure Tours
       caption: "<strong>The Archaic Cistern:</strong> (Water Reservoir). A rectangular
         construction lined with plaster. Terra-cotta pipes and two apertures with
         stone covers on the bottom served to carry the water to the settlement."
