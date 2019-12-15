@@ -183,7 +183,7 @@ sections:
       caption: The interior of the Castle of Monolithos
     - thumb: img/West_Coast/castle_west_coast_mod7_small.jpg
       href: img/West_Coast/castle_west_coast_mod7.jpg
-      alt: Rhodes Greece tours
+      alt: Rhodes Greece tours, Castle of Monolithos
       caption: The interior of the Castle of Monolithos
     - thumb: img/West_Coast/castle_west_coast_mod8_small.jpg
       href: img/West_Coast/castle_west_coast_mod8.jpg
