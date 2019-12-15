@@ -127,7 +127,7 @@ gallery:
     position: following
   - thumb: "./img/Tour7/beach_tour_27_thumb.jpg"
     href: "./img/Tour7/beach_tour_27.jpg"
-    alt: St Paul's Bay beach
+    alt: St Paul's Bay beach Tour
     position: following
   - thumb: "./img/Tour7/beach_tour_29_thumb.jpg"
     href: "./img/Tour7/beach_tour_29.jpg"
