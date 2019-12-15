@@ -37,7 +37,7 @@ sections:
       caption: ''
     - thumb: img/colossus_of_rhodes/colossus_3_small.jpg
       href: img/colossus_of_rhodes/colossus_3.jpg
-      alt: Sightseeing tours in Rhodes island
+      alt: Colossus of rhodes, Sightseeing tours in Rhodes island
       caption: ''
     - thumb: img/colossus_of_rhodes/colossus_4_small.jpg
       href: img/colossus_of_rhodes/colossus_4.jpg
