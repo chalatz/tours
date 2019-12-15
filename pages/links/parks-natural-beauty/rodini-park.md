@@ -53,7 +53,7 @@ sections:
   - figures:
     - thumb: img/rodini_park/rodini_park_5_small.jpg
       href: img/rodini_park/rodini_park_5.jpg
-      alt: Allure Tours in Rhodes Greece, Rodini Park
+      alt: Rhodes on your own from cruise ship, Rodini Park
       caption: The tomb of the Ptolemy's dates back to the Hellenistic period
     - thumb: img/rodini_park/rodini_park_6_small.jpg
       href: img/rodini_park/rodini_park_6.jpg
