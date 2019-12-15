@@ -37,7 +37,7 @@ sections:
       caption: Lindos Village and Acropolis
     - thumb: img/rhodes_lindos/st_pauls_bay_mod_small.jpg
       href: img/rhodes_lindos/st_pauls_bay_mod.jpg
-      alt: Rhodes Executive Tours, Taxi Tours
+      alt: 'St Paul''s Bay, Rhodes tours from cruise ship '
       caption: St Paul's Bay
     - thumb: img/rhodes_lindos/lindos_village_1_mod_small.jpg
       href: img/rhodes_lindos/lindos_village_1_mod.jpg
