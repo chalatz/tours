@@ -35,8 +35,7 @@ sections:
         still standing.
     - thumb: img/West_Coast/west_coast_mod_small.jpg
       href: img/West_Coast/west_coast_mod.jpg
-      alt: Ixia, Rhodes Shore Trips, Shore Trips of Rhodes, Shore Trips of Greece
-        Rhodes
+      alt: 'Ixia West Coast, Rhodes Shore Tours '
       caption: Along the entire coast, there is a whole chain of hotels, bars, restaurants,
         night clubs and all sort of shops.
     - thumb: img/West_Coast/hotels_west_coast_mod_small.jpg
