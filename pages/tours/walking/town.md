@@ -68,7 +68,7 @@ gallery:
   group_1:
   - thumb: "./img/tours/walking/01/1_thumb.jpg"
     href: "./img/tours/walking/01/1.jpg"
-    alt: Rhodes New Town Walking Tour, Rhodes Tours
+    alt: The Gate, Rhodes Old Town Walking Tour, Rhodes Tours
     position: first
   - thumb: "./img/tours/walking/01/2_thumb.jpg"
     href: "./img/tours/walking/01/2.jpg"
