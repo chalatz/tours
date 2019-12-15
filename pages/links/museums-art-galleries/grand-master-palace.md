@@ -84,7 +84,7 @@ sections:
   - figures:
     - thumb: img/grand_masters_palace/inside_the_grand_masters_palace_mod_small.jpg
       href: img/grand_masters_palace/inside_the_grand_masters_palace_mod.jpg
-      alt: Rhodes Tours, The interior of the Grand Masters Palace
+      alt: Rhodes Port Excursions, The interior of the Grand Masters Palace
       caption: The interior of the Grand Master Palace
     - thumb: img/grand_masters_palace/inside_the_grand_masters_palace_2_mod_small.png
       href: img/grand_masters_palace/inside_the_grand_masters_palace_2_mod.jpg
