@@ -104,7 +104,7 @@ sections:
       caption: The "Casino Rodos".
     - thumb: img/New_Town/byzantine_windmills_mod_small.jpg
       href: img/New_Town/byzantine_windmills_mod.jpg
-      alt: Byzantine windmills in Rhodes New Town, Rhodes Shore Excursions
+      alt: 'Byzantine windmills, Rhodes on your own from cruise ship '
       caption: Near the fortress with the lighthouse, three stone Byzantine windmills
         lend the finishing touch to one of the loveliest views of the town.
     - thumb: img/New_Town/byzantine_windmills_2_mod_small.jpg
