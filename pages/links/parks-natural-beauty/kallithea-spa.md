@@ -54,7 +54,7 @@ sections:
   - figures:
     - thumb: img/kallithea_spa/kallithea_rotunda_mod_small.jpg
       href: img/kallithea_spa/kallithea_rotunda_mod.jpg
-      alt: Kallithea Rotonda, Rhodes Private Tours
+      alt: 'Kallithea Rotonda, Rhodes tours from cruise ship '
       caption: In the centre the main Rotunda dominates an impressive dome with intricate
         decoration. The six springs fed from an equal number of fountain heads.
     - thumb: img/kallithea_spa/kallithea_beach_mod_small.jpg
