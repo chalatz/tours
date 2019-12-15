@@ -95,7 +95,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_3_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_3.jpg"
-    alt: Best private tours of Rhodes Island
+    alt: 'Best tour guide driver of Rhodes '
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_4_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_4.jpg"
