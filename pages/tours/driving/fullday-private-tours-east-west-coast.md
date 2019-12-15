@@ -85,7 +85,7 @@ gallery:
     position: first
   - thumb: "./img/Tour2/fullday_private_tour_1_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_1.jpg"
-    alt: Shore trips of Rhodes Greece
+    alt: Full Day Shore Tours of Rhodes Greece
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_2_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_2.jpg"
