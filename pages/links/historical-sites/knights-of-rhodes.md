@@ -31,7 +31,7 @@ sections:
   - figures:
     - thumb: img/knights_of_rhodes/foto_1_thumb.jpg
       href: img/knights_of_rhodes/foto_1.jpg
-      alt: The Grand Masters Palace, Allure Tours
+      alt: 'The Grand Masters Palace, rhodes on your own from cruise ship '
       caption: "<strong>The Knights of Rhodes:</strong> The Grand Master's Palace"
     - thumb: img/knights_of_rhodes/foto_2_thumb.jpg
       href: img/knights_of_rhodes/foto_2.jpg
