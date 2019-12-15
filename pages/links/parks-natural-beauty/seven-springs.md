@@ -54,7 +54,7 @@ sections:
       caption: The Seven Springs, duck
     - thumb: img/seven_springs/seven_springs_valley_6_thumb.jpg
       href: img/seven_springs/seven_springs_valley_6.jpg
-      alt: Water Springs, Rhodes Taxi Tours
+      alt: 'The Seven Springs, Rhodes Port Excursions  '
       caption: The Seven Springs, duck
     - thumb: img/seven_springs/seven_springs_valley_7_thumb.jpg
       href: img/seven_springs/seven_springs_valley_7.jpg
