@@ -26,7 +26,7 @@ sections:
   - figures:
     - thumb: img/mount_smith_hill/panoramic_view_1_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_1_mod.jpg
-      alt: Rhodes allure tour
+      alt: Panoramic view of Rhodes Town, Rhodes allure tour
       caption: Panoramic view of Rhodes Town and the West Coast (Aegean Sea)
     - thumb: img/mount_smith_hill/panoramic_view_2_mod_small.jpg
       href: img/mount_smith_hill/panoramic_view_2_mod.jpg
