@@ -145,7 +145,7 @@ sections:
   - figures:
     - thumb: img/Old_Town/set_3/old_town_panorama_the_burgus_mod_small.jpg
       href: img/Old_Town/set_3/old_town_panorama_the_burgus_mod.jpg
-      alt: Old Town of Rhodes, View, Island Tour
+      alt: View of the Old Town, Rhodes Island Tour
       caption: A panoramic view of the Old Town.
     - thumb: img/Old_Town/set_3/ippokratous_square_mod_small.jpg
       href: img/Old_Town/set_3/ippokratous_square_mod.jpg
