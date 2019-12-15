@@ -57,8 +57,7 @@ sections:
       caption: The Mandraki Port
     - thumb: img/New_Town/saint_nicholas_fort_mod_small.jpg
       href: img/New_Town/saint_nicholas_fort_mod.jpg
-      alt: Saint Nicholas fort, Rhodes Excursions, Shore Excursions of Rhodes, Shore
-        Excursions Greece Rhodes, Rhodes Shore Excursions
+      alt: Saint Nicholas fort, Rhodes Excursions
       caption: Opposite, the small old harbor of Mandraki, stands the fort of Saint
         Nicholas.
     - thumb: img/New_Town/saint_nicholas_fort_2_mod_small.jpg
