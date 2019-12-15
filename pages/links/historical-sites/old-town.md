@@ -157,7 +157,7 @@ sections:
       caption: '"Our Lady of the Burg" Church.'
     - thumb: img/Old_Town/set_3/view_from_the_old_town_mod_small.jpg
       href: img/Old_Town/set_3/view_from_the_old_town_mod.jpg
-      alt: Old Town of Rhodes, View, Island Tour
+      alt: Old Town of Rhodes, Island Tour of Rhodes
       caption: View from the Old Town, and site of Naillac's Tower.
   - figures:
     - thumb: img/Old_Town/set_3/old_town_walls_boats_mod_small.jpg
