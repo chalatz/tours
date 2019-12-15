@@ -103,7 +103,7 @@ sections:
         known from inscriptions"
     - thumb: img/ancient_kameiros/ancient_kameiros_11_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_11.jpg
-      alt: Specialized Shore Tours Rhodes
+      alt: 'The Fountain Square, Specialized Rhodes tours from cruise ship '
       caption: "<strong>The Fountain Square:</strong> To the east of the temple is
         the so called Fountain Square, a rectangular open area with a large number
         of inscribed votive bases. The facade consists of 6 Doric half-columns faced
