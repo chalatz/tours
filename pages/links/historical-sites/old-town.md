@@ -84,7 +84,7 @@ sections:
         The gate was closed in 1501 by Grand Master d'Aubusson.
     - thumb: img/Old_Town/set_1/mills_gate_1_mod_small.jpg
       href: img/Old_Town/set_1/mills_gate_1_mod.jpg
-      alt: The Mills Gate, Tours of Rhodes Island Greece
+      alt: 'The Mills Gate, rhodes on your own from cruise ship '
       caption: 'Mills Gate: the gate was the access to the Emporium from the Jewish
         quarter.'
     - thumb: img/Old_Town/set_1/mills_gate_2_mod_small.jpg
