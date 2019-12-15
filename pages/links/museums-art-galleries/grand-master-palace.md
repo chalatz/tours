@@ -15,7 +15,7 @@ meta:
     Palace, Rhodes Tours, Rhodes Private Tours
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: The Palace of the Grand Master of the Knights of Rhodes
+  abstract: Palace of the Grand Master of the Knights of Rhodes
 title: Palace of the Grand Master of the Knights of Rhodes - Greece
 summary: At the highest point of the Castle, stands The Palace of the Grand Masters.
   It has been a fortress, an administration center for the Knights Hospitaller, and
