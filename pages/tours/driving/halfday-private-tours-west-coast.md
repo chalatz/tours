@@ -8,16 +8,18 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Rhodes private tours. Rhodes private shore excursions, Private tours of West
-    Coast, Rhodes Island Greece
-  description: Rhodes private tours. Rhodes private shore excursions, Private tours
-    of West Coast, Rhodes Island Greece.
-  keywords: Rhodes private tours. Rhodes private shore excursions, Private tours of
-    West Coast, Rhodes Island Greece
+  title: Rhodes Medieval City, Rhodes New Town, West Coast of the Island, Filerimos,
+    Valley of the Butterflies, Winery, Ancient Kamiros
+  description: Rhodes Medieval City, Rhodes New Town, West Coast of the Island, Filerimos,
+    Valley of the Butterflies, Winery, Ancient Kamiros, Rhodes private tours. Rhodes
+    private shore excursions
+  keywords: Rhodes Medieval City, Rhodes New Town, West Coast of the Island, Filerimos,
+    Valley of the Butterflies, Winery, Ancient Kamiros
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  http_desc: ''
+  http_desc: Rhodes Medieval City, Rhodes New Town, West Coast of the Island, Filerimos,
+    Valley of the Butterflies, Winery, Ancient Kamiros
 title: Rhodes West Coast DT3
 summary:
   paragraphs:
