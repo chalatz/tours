@@ -104,7 +104,7 @@ sections:
         the Knights of St John Hospitallers)
     - thumb: img/rhodes_lindos/lindos_acropolis_1_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_1.jpg
-      alt: Executive Taxi Tours in Rhodes
+      alt: Hellenistic Stoa and Propylaea Stairway, Executive Taxi Tours in Rhodes
       caption: Hellenistic Stoa and Propylaea Stairway
     - thumb: img/rhodes_lindos/lindos_acropolis_2_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_2.jpg
