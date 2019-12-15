@@ -5,7 +5,7 @@ has_gallery: true
 id: site_west_coast
 ref: site_west_coast
 meta:
-  title: 'Rhodes Shore Trips, Rhodes Private Shore Tours '
+  title: 'Rhodes Shore Trips, Rhodes Shore Tours '
   description: 'Shore Trips in Rhodes Greece, Private Shore Tours  of Rhodes West
     Coast, Rhodes Private Shore Trips   '
   keywords: Rhodes Shore Trips, Rhodes Private Shore Tours, Shore Trips of Rhodes
