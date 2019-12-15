@@ -16,7 +16,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: The Palace of the Grand Master of the Knights of Rhodes
-title: The Palace of the Grand Master of the Knights of Rhodes - Greece
+title: Palace of the Grand Master of the Knights of Rhodes - Greece
 summary: At the highest point of the Castle, stands The Palace of the Grand Masters.
   It has been a fortress, an administration center for the Knights Hospitaller, and
   a Palace for the Grand Masters. In the 20th century, it was a holiday residence
@@ -42,6 +42,8 @@ sections:
       href: img/grand_masters_palace/grand_masters_palace_4.jpg
       alt: Tours in Rhodes, The Grand Master Palace
       caption: The main gate of the Grand Master Palace
+  title: ''
+  desc: ''
 - desc: It had very imposing dimensions (80 x 75 meters - 262 x 240 foot) and defensive
     fortifications. It was so strong that during the siege of 1522 it suffered little
     damage. The main entrance is in the south facade, flanked by two imposing towers.
@@ -68,6 +70,7 @@ sections:
       href: img/grand_masters_palace/the_lower_acropolis_mod.jpg
       alt: Rhodes Taxi Tours, The Castelo
       caption: The interior of the Palace
+  title: ''
 - desc: The arrangement of the palace around the central courtyard with the apartments
     on the first floor and the storerooms on the ground floor show the Byzantine influences
     at work. During the early years of their occupation, the Turks used it as a prison
@@ -95,6 +98,7 @@ sections:
       href: img/grand_masters_palace/hellenistic_and_roman_mosaics_2_mod.jpg
       alt: Rhodes Custom Tours, Mosaics
       caption: Mosaics,  the interior of the Palace
+  title: ''
 - desc: The statues in the inner courtyard of the palace are also from the Hellenistic
     and Roman period. There are indications that under its foundations lies the famous
     ancient temple of Helios with Its lavish decoration.
@@ -116,6 +120,7 @@ sections:
       href: img/grand_masters_palace/statues_in_the_inner_courtyard_mod.jpg
       alt: Allure Tours in Rhodes Greece, Statues in the Grand Master Palace
       caption: Statues in the inner courtyard of the Palace
+  title: ''
 subtitle: ''
 related_tours:
 - Ancient & Medieval-GT5
@@ -134,5 +139,6 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Private Tours
+no_related_tours_text: ''
 
 ---
