@@ -38,7 +38,7 @@ sections:
       caption: The entrance and steps to the church and to monastery
     - thumb: img/filerimos_hill/filerimos_hill_2_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_2.jpg
-      alt: Filerimos monastery,Rhodes Taxi Tours
+      alt: The remains of the temple of Athena Polias, Rhodes Taxi Tours
       caption: The remains of the temple of Athena Polias
     - thumb: img/filerimos_hill/filerimos_hill_3_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_3.jpg
