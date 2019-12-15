@@ -45,7 +45,7 @@ sections:
         park.
     - thumb: img/rodini_park/rodini_park_4_small.jpg
       href: img/rodini_park/rodini_park_4.jpg
-      alt: Allure Tours of Rhodes, Rodini Park
+      alt: 'Rodini Park, Rhodes Port Excursions  '
       caption: Turtles, terrapins, ducks, swan and peacocks are the most popular.
   title: ''
   desc: ''
