@@ -37,7 +37,7 @@ sections:
       caption: The Ostrich Farm
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_3_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_3.jpg
-      alt: Ostrich Farm, Rhodes Shore Excursions
+      alt: Ostrich Farm, Rhodes Greece Shore Excursions
       caption: The Ostrich Farm
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_4_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_4.jpg
