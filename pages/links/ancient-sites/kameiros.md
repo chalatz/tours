@@ -125,7 +125,8 @@ sections:
     during that same century Kameiros was the first Rhodian town to mint its own coins.
     After 408 BC (founding year of Rhodes Town) Kamiros went into decline and it vanished
     forever in the 2nd century AD.
-  gallery_rows: []
+  gallery_rows:
+  - figures: []
 - title: Louvre Museum - Paris
   desc: Many potteries and unique artifacts found during excavations on the Island
     of Rhodes (from the 19th century until today) great samples of the ancient Rhodian
@@ -136,7 +137,7 @@ sections:
   - figures:
     - thumb: img/ancient_kameiros/ancient_kameiros_13_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_13.jpg
-      alt: Specialized Tours of Rhodes
+      alt: 'Louvre Museum, Rhodes Port Excursions  '
       caption: "<strong>Louvre Museum:</strong> Potteries found at Kamiros"
     - thumb: img/ancient_kameiros/ancient_kameiros_15_thumb.png
       href: img/ancient_kameiros/ancient_kameiros_15.jpg
