@@ -112,7 +112,7 @@ sections:
         of the Virgin of Kalopetra, built in 1784.
     - thumb: img/West_Coast/valley_of_the_butterflies_3_mod_small.jpg
       href: img/West_Coast/valley_of_the_butterflies_3_mod.jpg
-      alt: The Butterflies Valley Rhodes Greece
+      alt: A bridge in the Valley of the Butterflies, rhodes shore tours
       caption: A bridge in the Valley of the Butterflies
     - thumb: img/West_Coast/lake_valley_of_the_butterflies_2_mod_small.jpg
       href: img/West_Coast/lake_valley_of_the_butterflies_2_mod.jpg
