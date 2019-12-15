@@ -12,9 +12,9 @@ meta:
     West Coast, Greece
   author: NK for Rhodes Private Tours
   copyright: NK for Rhodes Private Tours,2018
-  abstract: 'Rhodes Shore Trips, Rhodes Private Shore Tours '
+  abstract: 'Rhodes Shore Trips, Rhodes Shore Tours '
   http_desc: Rhodes Shore Trips, Rhodes Private Shore Tours, Shore Trips of Rhodes
-    West Coast, Greece
+    West Coast
 keyphrase: Shore Trips of Rhodes
 title: Shore Trips - Rhodes West Coast in Pictures
 sections:
