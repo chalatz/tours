@@ -5,10 +5,8 @@ has_gallery: true
 id: site_colossus
 ref: site_colossus
 meta:
-  title: Colossus of Rhodes Sightseeing Tours,  Colossus of Rhodes Private Sightseeing
-    Tours
-  description: Colossus of Rhodes Private Sightseeing Tours,  Colossus of Rhodes Sightseeing
-    Tours, Sightseeing Tours Rhodes Greece
+  title: Colossus of Rhodes, Sightseeing Tours
+  description: Colossus of Rhodes Private Sightseeing Tours in Rhodes Greece
   keywords: Sightseeing Tours in Rhodes, Colossus of Rhodes Greece
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
