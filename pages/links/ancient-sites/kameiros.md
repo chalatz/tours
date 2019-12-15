@@ -141,7 +141,7 @@ sections:
       caption: "<strong>Louvre Museum:</strong> Potteries found at Kamiros"
     - thumb: img/ancient_kameiros/ancient_kameiros_15_thumb.png
       href: img/ancient_kameiros/ancient_kameiros_15.jpg
-      alt: Rhodes Taxi Tours
+      alt: Louvre Museum, Rhodes Taxi Tours
       caption: "<strong>Louvre Museum:</strong> Potteries found at Kamiros"
     - thumb: img/ancient_kameiros/ancient_kameiros_17_thumb.png
       href: img/ancient_kameiros/ancient_kameiros_17.jpg
