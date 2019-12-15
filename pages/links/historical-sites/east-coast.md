@@ -88,7 +88,7 @@ sections:
       caption: Rhodian Potteries
     - thumb: img/East_Coast/archagelos_village_2_mod_small.jpg
       href: img/East_Coast/archagelos_village_2_mod.jpg
-      alt: Archagelos Village Rhodes
+      alt: Archagelos Village, Taxi Tour of Rhodes
       caption: Archangelos Village
   title: ''
 - desc: We continue to the south on the main road and after a turn, the impressive
