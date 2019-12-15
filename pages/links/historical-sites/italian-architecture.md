@@ -64,7 +64,7 @@ sections:
       caption: Filerimos Monastery.
     - thumb: img/rhodes_italian_architecture/theatre_small.jpg
       href: img/rhodes_italian_architecture/theatre.jpg
-      alt: Rhodes allure tours
+      alt: 'The Theatre of Rhodes, Rhodes on your own from cruise ship '
       caption: The Theatre of Rhodes
     - thumb: img/rhodes_italian_architecture/cathedral_small.jpg
       href: img/rhodes_italian_architecture/cathedral.jpg
