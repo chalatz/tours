@@ -36,8 +36,8 @@ sections:
         of this rare biotope
     - thumb: img/butterflies_valley/valley_of_the_butterflies_4_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_4.jpg
-      alt: Valley of the butterflies, Rhodes Tours
-      caption: The Valley of the Butterflies
+      alt: Pelekanos river, Butterfly Valley Rhodes Tour
+      caption: The Valley of the Butterflies, Pelekanos river
   title: ''
   desc: ''
 - desc: 'The butterflies live in the valley during the summer, mate and fly away in
