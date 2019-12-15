@@ -37,12 +37,14 @@ sections:
       caption: The Ostrich Farm
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_3_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_3.jpg
-      alt: Ostrich Farm, Rhodes Taxi Tours
+      alt: Ostrich Farm, Rhodes Shore Excursions
       caption: The Ostrich Farm
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_4_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_4.jpg
       alt: Ostrich Farm, Rhodes Shore Excursions
       caption: The Ostrich Farm
+  title: ''
+  desc: ''
 - desc: 'Also to be seen are various kinds of rare animals such as: Camel, foxes,
     kangaroo, a lama, a monkey, antelopes, dwarf goats, ponies, rabbits, ferrets,
     skunks, roe deer, black swans, different types of ducks, golden pheasants, yellow
@@ -65,6 +67,7 @@ sections:
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_8.jpg
       alt: Shore Excursions in Rhodes, Ostrich Farm
       caption: The Ostrich Farm and Zoo
+  title: ''
 - gallery_rows:
   - figures:
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_9_small.jpg
@@ -86,6 +89,8 @@ sections:
       alt: Rhodes Allure Tours, Ostrich Farm
       caption: Neat, sculpted or painted, an ostrich egg is an excellent gift for
         decoration.
+  title: ''
+  desc: ''
 subtitle: ''
 related_tours:
 - Rhodes Kids Tour-DT6
@@ -95,5 +100,6 @@ end_page:
     tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Custom-Made Tours
+no_related_tours_text: ''
 
 ---
