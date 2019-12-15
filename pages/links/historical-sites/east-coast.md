@@ -122,7 +122,7 @@ sections:
       caption: No Comments!!
     - thumb: img/East_Coast/donkey_mod_small.jpg
       href: img/East_Coast/donkey_mod.jpg
-      alt: Lindos Donkey, Rhodes Taxi Tours
+      alt: Lindos Donkey, Lindos Taxi Tours
       caption: No Comments!!
     - thumb: img/East_Coast/captain_houses_mod_small.jpg
       href: img/East_Coast/captain_houses_mod.jpg
