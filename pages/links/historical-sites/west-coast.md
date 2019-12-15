@@ -155,7 +155,7 @@ sections:
       caption: Kritinia Castle
     - thumb: img/West_Coast/castle_west_coast_mod2_small.jpg
       href: img/West_Coast/castle_west_coast_mod2.jpg
-      alt: Rhodes custom tailored private tours
+      alt: 'Kritinia Castle, Rhodes custom shore trips '
       caption: Kritinia Castle
     - thumb: img/West_Coast/castle_west_coast_mod3_small.jpg
       href: img/West_Coast/castle_west_coast_mod3.jpg
