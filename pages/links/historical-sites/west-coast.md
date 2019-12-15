@@ -30,8 +30,7 @@ sections:
       caption: The settlements of Kritika with its tiny houses
     - thumb: img/West_Coast/neoclassical_villa_2_mod_small.jpg
       href: img/West_Coast/neoclassical_villa_2_mod.jpg
-      alt: West Coast, Rhodes Shore Trips, Shore Trips of Rhodes, Shore Trips of Greece
-        Rhodes
+      alt: West Coast, Rhodes Shore Trips
       caption: In the village, which is by the sea, several neoclassical villas are
         still standing.
     - thumb: img/West_Coast/west_coast_mod_small.jpg
