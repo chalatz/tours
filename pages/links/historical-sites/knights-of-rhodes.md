@@ -45,7 +45,7 @@ sections:
         Grand Masters Palace"
     - thumb: img/knights_of_rhodes/foto_4_thumb.jpg
       href: img/knights_of_rhodes/foto_4.jpg
-      alt: Pierre D'Aubusson Armories, Allure Tours
+      alt: 'Pierre D''Aubusson Armories, rhodes tours from cruise ship '
       caption: "<strong>The Knights of Rhodes:</strong> Pierre D'Aubusson Armories"
   title: ''
   desc: ''
