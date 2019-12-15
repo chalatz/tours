@@ -96,7 +96,7 @@ sections:
         to Pythian Apollo."
     - thumb: img/ancient_kameiros/ancient_kameiros_10_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_10.jpg
-      alt: Specialized sightseeing Tours Rhodes
+      alt: 'Hellenistic Sanctuary, Specialized Rhodes cruise excursions  '
       caption: "<strong>The Hellenistic Sanctuary:</strong> Opposite Fountain Square
         preserved a Hellenistic Sanctuary dedicated to the gods and heroes of Kamiros
         with altars within an enclosure. This was probably the Hierothyteion of Kamiros,
