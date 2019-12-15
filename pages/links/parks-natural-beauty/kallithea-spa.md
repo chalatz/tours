@@ -69,7 +69,7 @@ sections:
         once supported a pergola covered with bougainvillea plants
     - thumb: img/kallithea_spa/path_to_the_rotonda_2_mod_small.jpg
       href: img/kallithea_spa/path_to_the_rotonda_2_mod.jpg
-      alt: The big Rotonda, Rhodes Taxi Tours
+      alt: 'The interior of the big Rotunda, Rhodes Port Excursions  '
       caption: The interior of the big Rotunda with the relief ground
   title: ''
 - gallery_rows:
