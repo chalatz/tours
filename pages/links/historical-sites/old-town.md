@@ -66,8 +66,7 @@ sections:
         of the walls it became the last gate of d''Amboise''s Gate.'
     - thumb: img/Old_Town/set_1/outer_st_johns_gate_mod_small.jpg
       href: img/Old_Town/set_1/outer_st_johns_gate_mod.jpg
-      alt: Old City of Rhodes Fortifications, Rhodes Private Tours, Island Tours of
-        Rhodes, Rhodes Island Tours, Rhodes Island Tour
+      alt: Outer St John's Gate, Rhodes Island Tours
       caption: Outer St John's Gate. Coat of arms of Grand Master d'Aubusson. In 1912
         Italian troops made their entrance into Rhodes through this gate.
   - figures:
