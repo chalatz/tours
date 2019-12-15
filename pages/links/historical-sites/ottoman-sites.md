@@ -62,7 +62,7 @@ sections:
       caption: The Murat Reis Mosque and cemetery.
     - thumb: img/rhodes_ottoman_sites/the_muslim_library_ottoman_sites_mod_small.jpg
       href: img/rhodes_ottoman_sites/the_muslim_library_ottoman_sites_mod.jpg
-      alt: The Muslim Library, Rhodes Tours
+      alt: 'The Muslim Library, Rhodes cruise excursions  '
       caption: The Muslim Library.
     - thumb: img/rhodes_ottoman_sites/mehmet_aga_mosque_mod_small.jpg
       href: img/rhodes_ottoman_sites/mehmet_aga_mosque_mod.jpg
