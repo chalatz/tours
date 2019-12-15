@@ -80,7 +80,7 @@ gallery:
     position: following
   - thumb: "./img/tours/walking/01/4_thumb.jpg"
     href: "./img/tours/walking/01/4.jpg"
-    alt: Walking tour of the old city, Rhodes city tours
+    alt: The Old City, Walking tour of the old town, Rhodes city tours
     position: following
   - thumb: "./img/tours/walking/01/5_thumb.jpg"
     href: "./img/tours/walking/01/5.jpg"
