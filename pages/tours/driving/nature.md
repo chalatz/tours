@@ -8,12 +8,14 @@ has_gallery: true
 is_of: driven_tours
 meta:
   title: Rhodes Nature Tour, Private Nature Tours in Rhodes Greece
-  http_desc: Rhodes Nature Tour. Private Nature Tours in Rhodes Greece
-  description: Rhodes Nature Tour, Private Nature Tours in Rhodes Greece
+  http_desc: 'Rhodes Nature Tour. Private Nature Tours in Rhodes Greece, Kalithea
+    Spa, Anthony Quinn Bay, Seven Springs, Valley of the Butterflies, Filerimos Mountain  '
+  description: 'Rhodes Nature Tour. Private Nature Tours in Rhodes Greece, Kalithea
+    Spa, Anthony Quinn Bay, Seven Springs, Valley of the Butterflies, Filerimos Mountain '
   keywords: Rhodes Nature Tour, Private Nature Tours in Rhodes Greece
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Rhodes Nature Tour, Private Nature Tours in Rhodes Greece
+  abstract: Rhodes Nature Tour
 title: Rhodes Nature Tour DT9
 summary:
   paragraphs:
