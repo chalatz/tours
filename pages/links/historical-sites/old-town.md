@@ -44,8 +44,7 @@ sections:
       caption: The Wall
     - thumb: img/Old_Town/set_1/del_carrettos_bastion_mod_small.jpg
       href: img/Old_Town/set_1/del_carrettos_bastion_mod.jpg
-      alt: Rhodes Island Greece, Rhodes Island Tours Greece, Island Tours of Rhodes,
-        Rhodes Island Tours, Rhodes Island Tour
+      alt: 'Del Carretto Bastion, Rhodes Tour, Rhodes Island Tours '
       caption: Del Carretto Bastion
 - title: THE GATES
   gallery_rows:
