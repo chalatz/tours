@@ -99,7 +99,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_4_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_4.jpg"
-    alt: Best private tour guide driver of Rhodes
+    alt: Best driver guide in Rhodes
     position: following
   group_2:
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_8_thumb.jpg"
