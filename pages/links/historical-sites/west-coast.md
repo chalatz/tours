@@ -84,7 +84,7 @@ sections:
         of Athena.
     - thumb: img/West_Coast/the_monastery_of_filerimos_mod_small.jpg
       href: img/West_Coast/the_monastery_of_filerimos_mod.jpg
-      alt: Rhodes Day Trips, Rhodes Taxi Trips
+      alt: The Monastery of Filerimos, Rhodes trips
       caption: The Monastery of Filerimos, here once stood the Acropolis of the ancient
         town of Ialyssos with an important temple dedicated to Athena Polias.
     - thumb: img/West_Coast/the_monastery_of_filerimos_2_mod_small.jpg
