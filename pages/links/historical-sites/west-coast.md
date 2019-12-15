@@ -60,8 +60,7 @@ sections:
       caption: Mt. Filerimos. Thickly planned with cypresses, pines and other trees.
     - thumb: img/West_Coast/path_to_the_cross_filerimos_mod_small.jpg
       href: img/West_Coast/path_to_the_cross_filerimos_mod.jpg
-      alt: Rhodes Filerimos, Rhodes Day Trips, Rhodes Shore Trips, Shore Trips of
-        Rhodes, Shore Trips of Greece Rhodes
+      alt: Filerimos Monastery, Rhodes Shore Trip
       caption: A pathway that leads from the monastery towards the south-western edge
         of the plateau, to a small square with a stunning view. Along the right side
         of the path, stone altars were built with embedded reliefs, depicting scenes
