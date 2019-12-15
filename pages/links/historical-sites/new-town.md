@@ -53,8 +53,7 @@ sections:
         town.
     - thumb: img/New_Town/mandraki_harbor_2_mod_small.jpg
       href: img/New_Town/mandraki_harbor_2_mod.jpg
-      alt: Mandraki Harbor, Shore Excursions of Rhodes, Shore Excursions Greece Rhodes,
-        Rhodes Shore Excursions
+      alt: Mandraki Harbor, Excursions of Rhodes
       caption: The Mandraki Port
     - thumb: img/New_Town/saint_nicholas_fort_mod_small.jpg
       href: img/New_Town/saint_nicholas_fort_mod.jpg
