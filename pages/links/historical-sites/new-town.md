@@ -71,7 +71,7 @@ sections:
   - figures:
     - thumb: img/New_Town/two_bronze_deer_mod_small.jpg
       href: img/New_Town/two_bronze_deer_mod.jpg
-      alt: 'Two bronze deer, Rhodes Shore Excursions Greece '
+      alt: 'The entrance to the harbor, Rhodes on your own from cruise ship '
       caption: At the entrance to the harbor, atop tall columns, stand the two bronze
         deer - characteristic landmarks of the island.
     - thumb: img/New_Town/deer_mod_small.jpg
