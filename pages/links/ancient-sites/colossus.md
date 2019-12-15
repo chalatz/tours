@@ -29,7 +29,7 @@ sections:
   - figures:
     - thumb: img/colossus_of_rhodes/colossus_1_small.jpg
       href: img/colossus_of_rhodes/colossus_1.jpg
-      alt: Rhodes Sightseeing Tours
+      alt: Colossus of rhodes, Rhodes Sightseeing Tours
       caption: ''
     - thumb: img/colossus_of_rhodes/colossus_2_small.jpg
       href: img/colossus_of_rhodes/colossus_2.jpg
