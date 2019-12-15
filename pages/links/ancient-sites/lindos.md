@@ -45,7 +45,7 @@ sections:
       caption: Lindos Village
     - thumb: img/rhodes_lindos/lindos_white_village_mod_small.jpg
       href: img/rhodes_lindos/lindos_white_village_mod.jpg
-      alt: Rhodes Private Tours, Executive tours
+      alt: Lindos Village, Rhodes Port Excursions, Executive tours
       caption: Lindos Village
   title: ''
   desc: ''
