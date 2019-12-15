@@ -149,7 +149,7 @@ sections:
   - figures:
     - thumb: img/filerimos_hill/filerimos_views_1_thumb.jpg
       href: img/filerimos_hill/filerimos_views_1.jpg
-      alt: Rhodes Private Tours Greece
+      alt: Panoramic view of Ialyssos Bay, Rhodes Private Tours Greece
       caption: Panoramic view of Ialyssos Bay
     - thumb: img/filerimos_hill/filerimos_views_2_thumb.jpg
       href: img/filerimos_hill/filerimos_views_2.jpg
