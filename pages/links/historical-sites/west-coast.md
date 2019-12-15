@@ -67,8 +67,7 @@ sections:
         of the Passions of Jesus.
     - thumb: img/West_Coast/steps_to_the_cross_filerimos_mod_small.jpg
       href: img/West_Coast/steps_to_the_cross_filerimos_mod.jpg
-      alt: West Coast Rhodes Private Tours, Rhodes Shore Trips, Shore Trips of Rhodes,
-        Shore Trips of Greece Rhodes
+      alt: The Steps to the Cross, Shore Trips in Rhodes Greece
       caption: The Steps to the Cross. Here an imposing concrete Cross standing in
         the middle of a small square.
   title: ''
