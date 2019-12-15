@@ -142,7 +142,7 @@ sections:
       caption: View of St Paul's Bay from the summit of the Acropolis
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_2_small.jpg
       href: img/rhodes_lindos/view_from_lindos_acropolis_2.jpg
-      alt: Rhodes Greece Executive Tours
+      alt: 'View of St Paul''s Bay, Rhodes cruise excursions  '
       caption: View of St Paul's Bay and the white village from the summit of the
         Acropolis
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_3_small.jpg
