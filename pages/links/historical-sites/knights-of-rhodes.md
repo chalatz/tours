@@ -129,7 +129,7 @@ sections:
   - figures:
     - thumb: img/knights_of_rhodes/festival_1_thumb.jpg
       href: img/knights_of_rhodes/festival_1.jpg
-      alt: Medieval Rose, Allure tours of Rhodes
+      alt: 'Medieval Rose, rhodes on your own from cruise ship '
       caption: The Medieval Rose Festival
     - thumb: img/knights_of_rhodes/festival_2_thumb.jpg
       href: img/knights_of_rhodes/festival_2.jpg
