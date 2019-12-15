@@ -87,7 +87,7 @@ sections:
         stands next to the prefecture's premises at the centre of Rhodes town.
     - thumb: img/New_Town/church_of_the_annunciation_3_mod_small.jpg
       href: img/New_Town/church_of_the_annunciation_3_mod.jpg
-      alt: Church of the Annunciation, Shore Excursions of Rhodes
+      alt: 'Church of the Annunciation, rhodes tours from cruise ship '
       caption: The church of the Annunciation
   title: ''
   desc: ''
