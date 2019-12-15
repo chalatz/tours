@@ -20,7 +20,7 @@ meta:
   http_desc: " Byzantine Archaeological Sites in Rhodes Greece, Byzantine Historical
     Monuments in Rhodes, Byzantine Sights, Landmarks and Architecture,  Rhodes Historical
     Tours"
-title: Byzantine Monuments in Rhodes. 330AD - 1309AD
+title: 'Rhodes Tours - Byzantine Monuments in Rhodes 330AD to 1309AD '
 summary: "During the early Christian period, Rhodes belonged to the Byzantine Empire.
   The Byzantine period lasted on and off for almost 1,000 years. During this time,
   Rhodes was an important Byzantine trading port and a crossroads for ships sailing
@@ -55,6 +55,8 @@ sections:
       alt: The Byzantine fortifications, Rhodes Tours
       caption: A part of the former Byzantine Wall which divided the town into two
         sections
+  title: ''
+  desc: ''
 - gallery_rows:
   - figures:
     - thumb: img/rhodes_byzantine_sites/byzantine_archangel_michael_church_mod_small.jpg
@@ -75,6 +77,8 @@ sections:
       alt: The fifteenth century Byzantine Church of St. Nicholas, Tours of Rhodes
       caption: Byzantine church of St Nicholas Fundukli 15th c, at the foot of the
         mountain Profitis Ilias.
+  title: ''
+  desc: ''
 subtitle: ''
 related_tours:
 - Town Walking Tour-WT1
@@ -85,6 +89,7 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Historical Tours   '
+no_related_tours_text: ''
 
 ---
 We have little information concerning the Byzantine period. The restoration work of the Italians neglected surviving buildings in favor of the Knights period.
