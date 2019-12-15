@@ -59,7 +59,7 @@ sections:
         decoration. The six springs fed from an equal number of fountain heads.
     - thumb: img/kallithea_spa/kallithea_beach_mod_small.jpg
       href: img/kallithea_spa/kallithea_beach_mod.jpg
-      alt: The big Rotonda, Kallithea, Rhodes Tours
+      alt: 'The big Rotonda Kallithea, Rhodes on your own from cruise ship '
       caption: In this naturally landscaped setting, the film "Escape to Athena" with
         Telly Savalas and Roger Moore was filmed.
     - thumb: img/kallithea_spa/path_to_the_rotonda_mod_small.jpg
