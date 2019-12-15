@@ -51,7 +51,7 @@ sections:
         stone covers on the bottom served to carry the water to the settlement."
     - thumb: img/ancient_kameiros/ancient_kameiros_4_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_4.jpg
-      alt: Allure Tours in Rhodes Greece
+      alt: The Archaic Cistern, Allure Tours in Rhodes Greece
       caption: "<strong>The Archaic Cistern:</strong> (Water Reservoir). It had a
         capacity sufficient for 300-400 families.Steps on the sides facilitated access
         to clean the reservoir, which was covered. It dates to the 6th-5th c. BC."
