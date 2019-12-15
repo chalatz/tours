@@ -15,7 +15,7 @@ meta:
   abstract: Colossus of Rhodes Sightseeing Tours
   http_desc: Colossus of Rhodes Sightseeing Tours,  Colossus of Rhodes Private Sightseeing
     Tours
-title: The World Famous Colossus of Rhodes
+title: The Colossus of Rhodes
 sections:
 - desc: |-
     In 305 BC, Demetrius I of Macedon laid siege to the city of Rhodes for an entire year. In spite of his title as "Besieger of Cities" he failed to conquer the Rhodians. To celebrate their victory, the Rhodians sold his siege equipment and used the funds to erect a triumphal statue to their great god, Helios. The work was assigned to Chares of Lindos who worked on it for twelve years (292 BC to 280 BC).
@@ -32,15 +32,20 @@ sections:
     - thumb: img/colossus_of_rhodes/colossus_1_small.jpg
       href: img/colossus_of_rhodes/colossus_1.jpg
       alt: Rhodes Sightseeing Tours
+      caption: ''
     - thumb: img/colossus_of_rhodes/colossus_2_small.jpg
       href: img/colossus_of_rhodes/colossus_2.jpg
       alt: Rhodes private sightseeing tours
+      caption: ''
     - thumb: img/colossus_of_rhodes/colossus_3_small.jpg
       href: img/colossus_of_rhodes/colossus_3.jpg
       alt: Sightseeing tours in Rhodes island
+      caption: ''
     - thumb: img/colossus_of_rhodes/colossus_4_small.jpg
       href: img/colossus_of_rhodes/colossus_4.jpg
       alt: Rhodes Greece Sightseeing Tours
+      caption: ''
+  title: ''
 - title: The statue of Colossus today
   desc: "Media reports in 1989 initially suggested that large stones found on the
     seabed off the coast of Rhodes might have been the remains of the Colossus; however
@@ -68,6 +73,7 @@ sections:
     discussed. The conclusion coming up after all is that this project known as one
     of the destroyed seven wonders will rise up the European heritage on civilization.
     \           \n    "
+  gallery_rows: []
 subtitle: ''
 summary: ''
 related_tours:
@@ -82,9 +88,12 @@ related_tours:
 - Jewish Heritage Plus-GT4
 - Ancient & Medieval-GT5
 end_page:
-  long_text: |-
-    **“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized Tour Experiences. We deliver Private Sightseeing Tours at very affordable rates. All our tours are fully customizable to suit your travel needs, interests, schedules, and dates.
+  long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
+    Tour Experiences. We deliver Private Sightseeing Tours at very affordable rates.
+    All our tours are fully customizable to suit your travel needs, interests, schedules,
+    and dates."
   short_text: 'Experts in Rhodes Sightseeing Tours '
+no_related_tours_text: ''
 
 ---
 <div class="centered">
