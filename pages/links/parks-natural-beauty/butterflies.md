@@ -5,16 +5,13 @@ has_gallery: true
 id: site_butterflies
 ref: site_butterflies
 meta:
-  title: Rhodes Butterflies Valley Tour, Rhodes Private Tour
-  http_desc: Rhodes Butterflies Valley Tour, Rhodes Private Tour
-  description: 'Rhodes Butterflies Valley Tour, Rhodes Private Tour, Butterflies Valley,
-    Rhodes Valley of the Butterflies, Rhodes Private Tours, Rhodes Allure Tours, Butterflies
-    Rhodes Greece '
-  keywords: Rhodes Butterflies Valley Tour, Rhodes Private Tour, Rhodes Valley of
-    the Butterflies, Rhodes Private Tours, Rhodes Allure Tours
+  title: Butterflies Valley Rhodes Tour, Rhodes Private Tour
+  http_desc: Butterflies Valley Rhodes Tour, Rhodes Private Tour
+  description: Butterflies Valley Rhodes Tour, Rhodes Private Tour Greece
+  keywords: Rhodes Valley of the Butterflies, Rhodes Private Tours
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Rhodes Butterflies Valley Tour
+  abstract: Butterflies Valley Rhodes Tour
 title: 'Valley of the Butterflies - Rhodes Tour '
 summary: |-
   It is a luxuriant ravine with abundant running water that attracts thousands of tourists each summer.  A German entomologist, Rheinhard Bger, visited the island a number of years ago and made a study of the butterflies that appear there from July to September.
