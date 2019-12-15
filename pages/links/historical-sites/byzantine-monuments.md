@@ -5,21 +5,16 @@ has_gallery: true
 id: site_byzantine
 ref: site_byzantine
 meta:
-  title: Byzantine Historical Monuments in Rhodes, Byzantine Archaeological Sites
-    in Rhodes Greece, Rhodes Historical Tours
-  description: Byzantine Historical Monuments in Rhodes, Byzantine Archaeological
-    Sites in Rhodes Greece, Byzantine Sights, Landmarks and Architecture, Rhodes Historical
-    Tours
-  keywords: Byzantine Historical Monuments in Rhodes, Byzantine Archaeological Sites
-    in Rhodes Greece, Byzantine Sights, Landmarks and Architecture, Rhodes Historical
+  title: Rhodes Tours, Byzantine Monuments in Rhodes, Rhodes Historical Tours
+  description: Rhodes Tours, Byzantine Monuments in Rhodes Greece, Rhodes Historical
+    Tours, Byzantine Archaeological Sights, Landmarks and Architecture
+  keywords: Rhodes Tours, Byzantine Monuments in Rhodes Greece, Rhodes Historical
     Tours
   author: NK for Rhodes Private Tours
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Rhodes Historical Tours, Byzantine Historical Monuments in Rhodes, Byzantine
-    Archaeological Sites
-  http_desc: " Byzantine Archaeological Sites in Rhodes Greece, Byzantine Historical
-    Monuments in Rhodes, Byzantine Sights, Landmarks and Architecture,  Rhodes Historical
-    Tours"
+  abstract: Rhodes Tours, Byzantine Monuments in Rhodes
+  http_desc: Rhodes Tours, Byzantine Monuments in Rhodes Greece, Rhodes Historical
+    Tours
 title: 'Rhodes Tours - Byzantine Monuments in Rhodes 330AD to 1309AD '
 summary: "During the early Christian period, Rhodes belonged to the Byzantine Empire.
   The Byzantine period lasted on and off for almost 1,000 years. During this time,
