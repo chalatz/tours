@@ -131,7 +131,7 @@ gallery:
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_13_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_13.jpg"
-    alt: Land tours of Rhodes Greece
+    alt: 'Full Day Rhodes Cruise Excursions  '
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_14_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_14.jpg"
