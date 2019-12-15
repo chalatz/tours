@@ -35,7 +35,7 @@ sections:
       caption: ''
     - thumb: img/water_park/water_park_4_small.jpg
       href: img/water_park/water_park_4.jpg
-      alt: Water Park Faliraki, Rhodes, Private Tours for Water Park
+      alt: 'Water Park Faliraki, Rhodes, Rhodes Port Excursions  '
       caption: ''
   title: ''
   desc: ''
