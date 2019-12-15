@@ -67,7 +67,7 @@ sections:
       caption: The interior of the Castle of Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_10_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_10.jpg
-      alt: private tours of Rhodes Greece
+      alt: 'The interior of the Castle of Monolithos, Rhodes cruise excursions  '
       caption: The interior of the Castle of Monolithos
   title: ''
 - title: Structural, Architectural, and Fortifications Elements
