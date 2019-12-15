@@ -16,7 +16,7 @@ meta:
   http_desc: 'Rhodes Tour, Rhodes Island Tour, Rhodes Old Town Tours, Rhodes Private
     Tour '
 keyphrase: RHODES ISLAND PRIVATE TOURS GREECE
-title: Rhodes Old Town in Pictures - Photo Gallery
+title: Rhodes Tour - Rhodes Old Town in Pictures
 summary: The Old Town is encircled by strong medieval walls, typical examples of the
   techniques of fortification of the 14th - 15th century. The walls of Rhodes are
   unique in Europe because of their style and wonderful state of preservation. Contained
