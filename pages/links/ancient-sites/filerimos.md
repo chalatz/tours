@@ -142,7 +142,7 @@ sections:
       caption: The Cross
     - thumb: img/filerimos_hill/filerimos_cross_4_thumb.png
       href: img/filerimos_hill/filerimos_cross_4.jpg
-      alt: Cruise Shore Tours Rhodes Greece
+      alt: The stairs of the Cross, Cruise Shore Tours in Rhodes Greece
       caption: The stairs lead up to the arms of the Cross
 - title: The Views
   gallery_rows:
