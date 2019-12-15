@@ -159,7 +159,7 @@ sections:
       caption: Kritinia Castle
     - thumb: img/West_Coast/castle_west_coast_mod3_small.jpg
       href: img/West_Coast/castle_west_coast_mod3.jpg
-      alt: The Gate of Kritinia Castle, rhodes shore trips
+      alt: The Gate of Kritinia Castle, Rhodes on your own from cruise ship s
       caption: The Gate of Kritinia Castle (interior)
     - thumb: img/West_Coast/castle_west_coast_mod4_small.jpg
       href: img/West_Coast/castle_west_coast_mod4.jpg
