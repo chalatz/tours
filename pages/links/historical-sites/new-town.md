@@ -54,7 +54,7 @@ sections:
         town.
     - thumb: img/New_Town/mandraki_harbor_2_mod_small.jpg
       href: img/New_Town/mandraki_harbor_2_mod.jpg
-      alt: Mandraki Harbor, Excursions of Rhodes
+      alt: 'Mandraki Harbor, Excursions of Rhodes from cruise ship '
       caption: The Mandraki Port
     - thumb: img/New_Town/saint_nicholas_fort_mod_small.jpg
       href: img/New_Town/saint_nicholas_fort_mod.jpg
