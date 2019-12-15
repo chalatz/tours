@@ -131,7 +131,7 @@ sections:
         contrast!
     - thumb: img/East_Coast/old_residences_mod_small.jpg
       href: img/East_Coast/old_residences_mod.jpg
-      alt: Lindos white houses, Rhodes Taxi Tours
+      alt: Lindos Village, Taxi Tour
       caption: '"Captain houses" Lovely old residences, hearkening back to the 16th
         and 17th centuries, when they were constructed by wealthy merchant seafarers
         as visible evidence of their success.'
