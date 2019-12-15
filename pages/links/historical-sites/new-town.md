@@ -109,7 +109,7 @@ sections:
         lend the finishing touch to one of the loveliest views of the town.
     - thumb: img/New_Town/byzantine_windmills_2_mod_small.jpg
       href: img/New_Town/byzantine_windmills_2_mod.jpg
-      alt: Byzantine windmills in Rhodes New City, Rhodes Excursions
+      alt: 'Byzantine windmills in Rhodes City, Rhodes on your own from cruise ship '
       caption: The three stone Byzantine windmills
   title: ''
   desc: ''
