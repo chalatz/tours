@@ -105,7 +105,8 @@ sections:
       caption: The main street of Collachio (Street of The Knights).
     - thumb: img/Old_Town/set_2/street_of_the_knights_2_mod_small.jpg
       href: img/Old_Town/set_2/street_of_the_knights_2_mod.jpg
-      alt: Street of the Knights in the Old City, Rhodes Tour
+      alt: 'Street of the Knights in the Old City, rhodes on your own from cruise
+        ship '
       caption: "(Street of The Knights) Several Langues had their palaces along the
         street. They had decorated portals and windows in addition to many coats of
         arms."
