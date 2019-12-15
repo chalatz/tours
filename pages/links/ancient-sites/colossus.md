@@ -33,7 +33,7 @@ sections:
       caption: ''
     - thumb: img/colossus_of_rhodes/colossus_2_small.jpg
       href: img/colossus_of_rhodes/colossus_2.jpg
-      alt: Rhodes private sightseeing tours
+      alt: Colossus of rhodes, Rhodes private sightseeing tours
       caption: ''
     - thumb: img/colossus_of_rhodes/colossus_3_small.jpg
       href: img/colossus_of_rhodes/colossus_3.jpg
@@ -41,7 +41,7 @@ sections:
       caption: ''
     - thumb: img/colossus_of_rhodes/colossus_4_small.jpg
       href: img/colossus_of_rhodes/colossus_4.jpg
-      alt: colossus of rhodes, Rhodes Greece Sightseeing Tours
+      alt: Colossus of rhodes, Rhodes Greece Sightseeing Tours
       caption: ''
   title: ''
 - title: The statue of Colossus today
