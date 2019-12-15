@@ -132,7 +132,7 @@ sections:
         inhabited, since prehistoric times.
     - thumb: img/West_Coast/ancient_kamiros_2_mod_small.jpg
       href: img/West_Coast/ancient_kamiros_2_mod.jpg
-      alt: Taxi Trips Rhodes Greece
+      alt: The Ancient Kamiros, rhodes west coast shore trips
       caption: The Ancient Kamiros.
     - thumb: img/West_Coast/ancient_kamiros_3_mod_small.jpg
       href: img/West_Coast/ancient_kamiros_3_mod.jpg
