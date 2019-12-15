@@ -116,7 +116,7 @@ sections:
         Jean de Lastic in 1440 and enlarged by Grand Master d'Aubusson in 1481-89."
     - thumb: img/Old_Town/set_2/rhodes_archaeological_museum_mod_small.jpg
       href: img/Old_Town/set_2/rhodes_archaeological_museum_mod.jpg
-      alt: Medieval City of Rhodes, Rhodes Archaeological Museum
+      alt: Rhodes Archaeological Museum, Rhodes Tour
       caption: "(Rhodes Archaeological Museum)  It was restored by the Italian administration
         in 1913-18 and later on used to house the Rhodes Archaeological Museum."
   - figures:
