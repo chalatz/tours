@@ -60,7 +60,8 @@ sections:
       caption: Wooden bridge in the Valley of the Butterflies
     - thumb: img/butterflies_valley/valley_of_the_butterflies_7_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_7.jpg
-      alt: Rhodes Butterflies Valley, Rhodes Allure Tours
+      alt: Rhodes Butterflies Valley, Life Cicle of the Butterflies, Rhodes Allure
+        Tours
       caption: Life Cicle of the Butterflies
     - thumb: img/butterflies_valley/valley_of_the_butterflies_8_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_8.jpg
