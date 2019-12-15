@@ -137,7 +137,7 @@ gallery:
     position: following
   - thumb: "./img/Tour8/rhodes_south_west_coast_13_thumb.jpg"
     href: "./img/Tour8/rhodes_south_west_coast_13.jpg"
-    alt: Rhodes Greece private tours
+    alt: Rhodes Allure Tours
     position: following
   - thumb: "./img/Tour8/rhodes_south_west_coast_14_thumb.jpg"
     href: "./img/Tour8/rhodes_south_west_coast_14.jpg"
