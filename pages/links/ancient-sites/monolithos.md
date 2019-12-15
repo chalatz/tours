@@ -59,7 +59,7 @@ sections:
       caption: The interior of the Castle of Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_7_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_7.jpg
-      alt: Rhodes Day Tours
+      alt: The interior of the Castle of Monolithos, Rhodes Day Tours
       caption: The interior of the Castle of Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_8_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_8.jpg
