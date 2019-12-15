@@ -68,7 +68,7 @@ sections:
       caption: The Theatre of Rhodes
     - thumb: img/rhodes_italian_architecture/cathedral_small.jpg
       href: img/rhodes_italian_architecture/cathedral.jpg
-      alt: Allure tours of Rhodes
+      alt: The Cathedral of Rhodes, Allure tours of Rhodes
       caption: The Cathedral of Rhodes
   title: ''
 - desc: The restoration methods they used are the subject of fierce criticism today.
