@@ -55,7 +55,7 @@ sections:
   - figures:
     - thumb: img/monolithos_castle/monolithos_castle_mod_5_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_5.jpg
-      alt: Taxi tours of Rhodes Greece
+      alt: The interior of the Castle of Monolithos, Taxi tours of Rhodes Greece
       caption: The interior of the Castle of Monolithos
     - thumb: img/monolithos_castle/monolithos_castle_mod_7_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_7.jpg
