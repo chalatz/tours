@@ -111,7 +111,7 @@ sections:
         arms."
     - thumb: img/Old_Town/set_2/the_hospital_of_the_knights_mod_small.jpg
       href: img/Old_Town/set_2/the_hospital_of_the_knights_mod.jpg
-      alt: The Hospital of the Knights, Rhodes Medieval City
+      alt: 'The Hospital of the Knights, Rhodes Tours '
       caption: "(Rhodes Archaeological Museum) The Hospital was built by Grand Master
         Jean de Lastic in 1440 and enlarged by Grand Master d'Aubusson in 1481-89."
     - thumb: img/Old_Town/set_2/rhodes_archaeological_museum_mod_small.jpg
