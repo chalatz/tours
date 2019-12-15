@@ -56,7 +56,7 @@ sections:
         other trees.
     - thumb: img/West_Coast/view_from_filerimos_hill_mod_small.jpg
       href: img/West_Coast/view_from_filerimos_hill_mod.jpg
-      alt: Mt. Filerimos, Rhodes Shore Trips
+      alt: 'Mt. Filerimos, Rhodes on your own from cruise ship '
       caption: Mt. Filerimos. Thickly planned with cypresses, pines and other trees.
     - thumb: img/West_Coast/path_to_the_cross_filerimos_mod_small.jpg
       href: img/West_Coast/path_to_the_cross_filerimos_mod.jpg
