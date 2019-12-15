@@ -51,8 +51,7 @@ sections:
   - figures:
     - thumb: img/Old_Town/set_1/st_catherines_gate_mod_small.jpg
       href: img/Old_Town/set_1/st_catherines_gate_mod.jpg
-      alt: Rhodes Old Town, Island Tours of Rhodes, Rhodes Island Tours, Rhodes Island
-        Tour
+      alt: The Marina Gate, Rhodes Island Tour
       caption: The Marina Gate (or Sea Gate) was the main gate of the town. It was
         built in 1478 by Grand Master Pierre d'Aubusson.
     - thumb: img/Old_Town/set_1/damboise_gate_mod_small.jpg
