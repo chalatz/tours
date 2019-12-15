@@ -166,7 +166,7 @@ sections:
       caption: The walls of the old city and fisherman boats.
     - thumb: img/Old_Town/set_3/the_hospice_of_st_catherine_mod_small.jpg
       href: img/Old_Town/set_3/the_hospice_of_st_catherine_mod.jpg
-      alt: Old Town of Rhodes, View, Island Tour
+      alt: The Hospice of St. Catherine, Rhodes Tours
       caption: The Hospice of St. Catherine.
     - thumb: img/Old_Town/set_3/the_burgo_7_small.jpg
       href: img/Old_Town/set_3/the_burgo_7.jpg
