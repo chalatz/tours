@@ -126,7 +126,7 @@ sections:
       caption: Temple of Athina Lindia
     - thumb: img/rhodes_lindos/lindos_acropolis_5_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_5.jpg
-      alt: Executive Day Trips Rhodes Greece
+      alt: 'Medieval fortifications, Rhodes on your own from cruise ship '
       caption: Medieval fortifications built by the Knights of Saint John Hospitallers
     - thumb: img/rhodes_lindos/lindos_acropolis_6_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_6.jpg
