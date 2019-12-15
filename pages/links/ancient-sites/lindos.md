@@ -138,7 +138,7 @@ sections:
   - figures:
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_1_small.jpg
       href: img/rhodes_lindos/view_from_lindos_acropolis_1.jpg
-      alt: Rhodes Private Taxi Tours, Executive tours
+      alt: View of St Paul's Bay, Rhodes Executive Port Excursions
       caption: View of St Paul's Bay from the summit of the Acropolis
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_2_small.jpg
       href: img/rhodes_lindos/view_from_lindos_acropolis_2.jpg
