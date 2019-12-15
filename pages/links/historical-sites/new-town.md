@@ -82,7 +82,7 @@ sections:
         ancient world, once stood."
     - thumb: img/New_Town/church_of_the_annunciation_2_mod_small.jpg
       href: img/New_Town/church_of_the_annunciation_2_mod.jpg
-      alt: Church of the Annunciation, Rhodes Taxi Tours
+      alt: 'Church of the Annunciation, Rhodes Excursions  '
       caption: The church of the Annunciation (Today it is the town's cathedral.)
         stands next to the prefecture's premises at the centre of Rhodes town.
     - thumb: img/New_Town/church_of_the_annunciation_3_mod_small.jpg
