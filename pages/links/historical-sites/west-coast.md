@@ -136,7 +136,7 @@ sections:
       caption: The Ancient Kamiros.
     - thumb: img/West_Coast/ancient_kamiros_3_mod_small.jpg
       href: img/West_Coast/ancient_kamiros_3_mod.jpg
-      alt: Rhodes Greece Taxi Trips
+      alt: The Ancient Kamiros, shore tours in rhodes greece
       caption: The Ancient Kamiros.
     - thumb: img/West_Coast/ancient_kamiros_4_mod_small.jpg
       href: img/West_Coast/ancient_kamiros_4_mod.jpg
