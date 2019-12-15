@@ -53,7 +53,7 @@ sections:
   - figures:
     - thumb: img/filerimos_hill/filerimos_hill_5_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_5.jpg
-      alt: Rhodes Taxi Trips Greece
+      alt: 'Copy of the miracle-working icon, Rhodes Port Excursions  '
       caption: Copy of the miracle-working icon
     - thumb: img/filerimos_hill/filerimos_hill_6_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_6.jpg
