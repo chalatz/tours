@@ -89,7 +89,7 @@ sections:
       caption: The very well preserved 15th century chapel of St. Panteleimon
     - thumb: img/monolithos_castle/monolithos_castle_mod_14_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_14.jpg
-      alt: Custom tailored tours in Rhodes Greece
+      alt: 'The shell of a chapel dedicated to St. George, Custom Rhodes Port Excursions  '
       caption: The shell of a chapel dedicated to St. George
     - thumb: img/monolithos_castle/monolithos_castle_mod_15_small.jpg
       href: img/monolithos_castle/monolithos_castle_mod_15.jpg
