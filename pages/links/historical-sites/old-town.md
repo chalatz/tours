@@ -5,14 +5,16 @@ has_gallery: true
 id: site_old_town
 ref: site_old_town
 meta:
-  title: Rhodes Island Private Tours, Rhodes Private Tours Greece
-  description: Rhodes Private Tours Greece, Rhodes Island Private Tours and Shore
-    Excursions
-  keywords: Rhodes Island Private Tours, Rhodes Private Tours Greece
+  title: 'Rhodes Tour, Rhodes Island Tour, Rhodes Old Town Tours '
+  description: Rhodes Tour, Rhodes Island Tour, Rhodes Old Town Tours, Rhodes Private
+    Tour Greece
+  keywords: Rhodes Tour, Rhodes Island Tour, Rhodes Old Town Tours, Rhodes Private
+    Tour
   author: NK for Rhodes Private Tours
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Rhodes Island Private Tours
-  http_desc: Rhodes Island Private Tours, Rhodes Private Tours Greece
+  abstract: Rhodes Tour, Rhodes Island Tour
+  http_desc: 'Rhodes Tour, Rhodes Island Tour, Rhodes Old Town Tours, Rhodes Private
+    Tour '
 keyphrase: RHODES ISLAND PRIVATE TOURS GREECE
 title: Rhodes Old Town in Pictures - Photo Gallery
 summary: The Old Town is encircled by strong medieval walls, typical examples of the
@@ -30,8 +32,7 @@ sections:
   - figures:
     - thumb: img/Old_Town/set_1/the_walls_1_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_1_mod.jpg
-      alt: Rhodes Old Town, Island Tours of Rhodes, Rhodes Island Tours, Rhodes Island
-        Tour
+      alt: Rhodes Tour, Rhodes Island Tour, The interior of the Wall
       caption: The interior of the Wall
     - thumb: img/Old_Town/set_1/the_walls_2_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_2_mod.jpg
@@ -55,8 +56,8 @@ sections:
       href: img/Old_Town/set_1/st_catherines_gate_mod.jpg
       alt: Rhodes Old Town, Island Tours of Rhodes, Rhodes Island Tours, Rhodes Island
         Tour
-      caption: The Marina Gate (or Sea Gate) was the main gate of the town. It
-        was built in 1478 by Grand Master Pierre d'Aubusson.
+      caption: The Marina Gate (or Sea Gate) was the main gate of the town. It was
+        built in 1478 by Grand Master Pierre d'Aubusson.
     - thumb: img/Old_Town/set_1/damboise_gate_mod_small.jpg
       href: img/Old_Town/set_1/damboise_gate_mod.jpg
       alt: Rhodes Old City Gate, Island Tours of Rhodes, Rhodes Island Tours, Rhodes
@@ -97,6 +98,7 @@ sections:
       href: img/Old_Town/set_1/mills_gate_2_mod.jpg
       alt: Rhodes Island Greece, Rhodes Island Tours Greece
       caption: Mills Gate
+  desc: ''
 - title: THE COLLACHIO (CASTLE)
   desc: |-
     An interior wall running east-west divided the city into two unequal parts. The more northerly, and smaller, of these parts was called the Collachium.
@@ -200,6 +202,7 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Island Tours '
+no_related_tours_text: ''
 
 ---
 **The Medieval Town of Rhodes is inscribed in the List World Heritage Sites of the Convention for the Protection of World Heritage of the UNESCO.  Inclusion in this list recognizes the exceptional value of a cultural site so that it may be protected for the benefit of all Humanity.**
