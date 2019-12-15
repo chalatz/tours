@@ -60,7 +60,7 @@ sections:
       caption: Administration building.
     - thumb: img/rhodes_italian_architecture/the_filerimos_monastery_mod_small.jpg
       href: img/rhodes_italian_architecture/the_filerimos_monastery_mod.jpg
-      alt: The Filerimos Monastery, Rhodes Private Tours
+      alt: 'The Filerimos Monastery, Rhodes cruise excursions  '
       caption: Filerimos Monastery.
     - thumb: img/rhodes_italian_architecture/theatre_small.jpg
       href: img/rhodes_italian_architecture/theatre.jpg
