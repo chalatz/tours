@@ -84,7 +84,7 @@ gallery:
     position: following
   - thumb: "./img/tours/walking/01/5_thumb.jpg"
     href: "./img/tours/walking/01/5.jpg"
-    alt: Rhodes Allure Tours, Walking tours of Rhodes
+    alt: The Old Town, Rhodes Walking Guided Tours
     position: following
   group_2:
   - thumb: "./img/tours/walking/01/6_thumb.jpg"
