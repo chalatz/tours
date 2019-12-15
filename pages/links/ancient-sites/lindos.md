@@ -151,7 +151,7 @@ sections:
       caption: View of the main beach of Lindos
     - thumb: img/rhodes_lindos/view_from_lindos_acropolis_4_small.jpg
       href: img/rhodes_lindos/view_from_lindos_acropolis_4.jpg
-      alt: Executive Tours in Rhodes Greece
+      alt: View of St Paul's Bay, Executive Tours in Rhodes Greece
       caption: View of St Paul's Bay
   desc: ''
 subtitle: ''
