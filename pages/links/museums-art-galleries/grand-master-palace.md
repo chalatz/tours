@@ -96,7 +96,7 @@ sections:
       caption: Laocoön in the Grand Master Palace.
     - thumb: img/grand_masters_palace/hellenistic_and_roman_mosaics_2_mod_small.jpg
       href: img/grand_masters_palace/hellenistic_and_roman_mosaics_2_mod.jpg
-      alt: Rhodes Custom Tours, Mosaics
+      alt: Rhodes cruise excursions, Mosaics
       caption: Mosaics,  the interior of the Palace
   title: ''
 - desc: The statues in the inner courtyard of the palace are also from the Hellenistic
