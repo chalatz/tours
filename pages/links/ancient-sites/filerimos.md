@@ -34,7 +34,7 @@ sections:
   - figures:
     - thumb: img/filerimos_hill/filerimos_hill_1_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_1.jpg
-      alt: Filerimos Hill Rhodes Greece,Private Tours
+      alt: Filerimos Hill Rhodes Greece, Private Tours
       caption: The entrance and steps to the church and to monastery
     - thumb: img/filerimos_hill/filerimos_hill_2_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_2.jpg
