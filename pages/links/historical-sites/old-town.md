@@ -32,7 +32,7 @@ sections:
   - figures:
     - thumb: img/Old_Town/set_1/the_walls_1_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_1_mod.jpg
-      alt: Rhodes Tour, Rhodes Island Tour, The interior of the Wall
+      alt: 'The interior of the Wall, Rhodes tours from cruise ship  '
       caption: The interior of the Wall
     - thumb: img/Old_Town/set_1/the_walls_2_mod_small.jpg
       href: img/Old_Town/set_1/the_walls_2_mod.jpg
