@@ -26,7 +26,7 @@ summary:
     and know that you have seen the most important sites. This private tour combines
     fabulous scenery with plenty of fascinating and historic sites.
 tour:
-  title: '"Best of Rhodes" DT1'
+  title: '"Best of Rhodes and Lindos" DT1'
   summary: Rhodes Medieval City / Rhodes New Town / Acropolis of Rhodes / East Coast
     of the Island / Village and Acropolis of Lindos
   duration: Half Day
