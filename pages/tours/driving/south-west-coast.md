@@ -30,7 +30,7 @@ summary:
     get an overview of the West Coast of the island, and for visitors staying for
     a longer period.
 tour:
-  title: '"Rhodes South&#8209;West" DT8'
+  title: '"Rhodes South-West" DT8'
   summary: Acropolis of Ancient Ialyssos / Ancient City of Kamiros / Castle of Kritinia
     / Monolithos Castle / Lunch Break in Embona
   duration: Full Day
