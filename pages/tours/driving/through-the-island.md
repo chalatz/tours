@@ -8,8 +8,12 @@ has_gallery: true
 is_of: driven_tours
 meta:
   title: Rhodes Island Tour, Through the Island Tour, Rhodes Private Tours
-  http_desc: Rhodes Island Tour, Through the Island Tour, Rhodes Private Tours Greece
-  description: Rhodes Island Tour, Through the Island Tour, Rhodes Private Tours Greece
+  http_desc: Rhodes Island Tour, Through the Island Tour, East Coast, Seven Springs,
+    Mt Profitis Ilias, Embona Free Wine Taste, Castle of Kritinia, Lunch by the Sea,
+    West Coast
+  description: Rhodes Island Tour, Through the Island Tour, Rhodes Private Tours Greece,
+    East Coast, Seven Springs, Mt Profitis Ilias, Embona Free Wine Taste, Castle of
+    Kritinia, Lunch by the Sea, West Coast
   keywords: Rhodes Island Tour, Through the Island Tour, Rhodes Private Tours Greece
   abstract: Rhodes Island Tour, Through the Island Tour
   author: Nick
