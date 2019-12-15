@@ -77,7 +77,7 @@ gallery:
   group_1:
   - thumb: "./img/Tour1/map_of_rhodes_mod.jpg"
     href: "./img/rhodes_maps/map_of_rhodes_mod_6_zoomed.jpg"
-    alt: Beach Tour of Rhodes, Private Tours in Rhodes
+    alt: Beach Tour of Rhodes, Private Beach Tours in Rhodes
     position: first
   - thumb: "./img/Tour7/beach_tour_4_thumb.jpg"
     href: "./img/Tour7/beach_tour_4.jpg"
