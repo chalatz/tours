@@ -57,7 +57,7 @@ sections:
       caption: The Ostrich Farm and Zoo
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_6_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_6.jpg
-      alt: Private Tours of Rhodes, Ostrich Farm
+      alt: Rhodes Port Excursions, Ostrich Farm
       caption: The Ostrich Farm and Zoo
     - thumb: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_7_small.jpg
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_7.jpg
