@@ -94,8 +94,9 @@ sections:
   - figures:
     - thumb: img/rhodes_lindos/lindos_acropolis_7_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_7.jpg
-      alt: Executive Day Trips Rhodes Greece
-      caption: The steps lead to the ancient acropolis of Lindos)
+      alt: The steps lead to the ancient acropolis of Lindos, Rhodes Executive Day
+        Tours
+      caption: The steps lead to the ancient acropolis of Lindos
     - thumb: img/rhodes_lindos/lindos_acropolis_8_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_8.jpg
       alt: Executive Taxi Tours Rhodes Greece
