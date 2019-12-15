@@ -36,7 +36,7 @@ sections:
       caption: The Post Office.
     - thumb: img/New_Town/buildings_mod_small.jpg
       href: img/New_Town/buildings_mod.jpg
-      alt: 'New Town Buildings, Rhodes Excursions '
+      alt: 'New Town Buildings, Rhodes on your own from cruise ship '
       caption: Venetian, Gothic and Arabic Architecture.
     - thumb: img/New_Town/town_hall_mod_small.jpg
       href: img/New_Town/town_hall_mod.jpg
