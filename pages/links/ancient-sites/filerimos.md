@@ -153,7 +153,7 @@ sections:
       caption: Panoramic view of Ialyssos Bay
     - thumb: img/filerimos_hill/filerimos_views_2_thumb.jpg
       href: img/filerimos_hill/filerimos_views_2.jpg
-      alt: Rhodes Private Tours Greece
+      alt: 'Panoramic view of the West Coast, Rhodes on your own from cruise ship '
       caption: Panoramic view of the West Coast and the Aegean Sea
     - thumb: img/filerimos_hill/filerimos_views_3_thumb.jpg
       href: img/filerimos_hill/filerimos_views_3.jpg
