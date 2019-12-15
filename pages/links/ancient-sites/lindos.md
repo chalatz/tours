@@ -118,7 +118,7 @@ sections:
   - figures:
     - thumb: img/rhodes_lindos/lindos_acropolis_3_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_3.jpg
-      alt: Rhodes Private Taxi Tours, Executive tours
+      alt: 'Temple of Athina Lindia, Rhodes cruise excursions    '
       caption: Temple of Athina Lindia
     - thumb: img/rhodes_lindos/lindos_acropolis_4_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_4.jpg
