@@ -126,7 +126,7 @@ sections:
       caption: No Comments!!
     - thumb: img/East_Coast/captain_houses_mod_small.jpg
       href: img/East_Coast/captain_houses_mod.jpg
-      alt: Lindos Panorama, Rhodes Taxi Tours
+      alt: The white houses of Lindos, Rhodes Taxi Tour
       caption: The white houses "Captain houses" with the blue sky create a beautiful
         contrast!
     - thumb: img/East_Coast/old_residences_mod_small.jpg
