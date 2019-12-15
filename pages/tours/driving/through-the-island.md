@@ -99,7 +99,7 @@ gallery:
     position: first
   - thumb: "./img/Tour10/7-thumb.jpg"
     href: "./img/Tour10/7.jpg"
-    alt: Rhodes Private Tours in Rhodes Island Greece
+    alt: 'Rhodes island tours from cruise ship '
     position: following
   - thumb: "./img/Tour10/8-thumb.jpg"
     href: "./img/Tour10/8.jpg"
