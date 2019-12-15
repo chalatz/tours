@@ -7,17 +7,17 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Rhodes Private Tours and Shore Excursions, South-West Coast, Private Day
-    tours, Rhodes Taxi Tours
-  description: Rhodes Private Tours and Shore Excursions, South-West Coast, Private
-    day tours and Rhodes Taxi Tours in Rhodes Island Greece
+  title: Acropolis of Ancient Ialyssos, Ancient City of Kamiros, Castle of Kritinia,
+    Monolithos Castle, Lunch Break in Embona
+  description: Acropolis of Ancient Ialyssos, Ancient City of Kamiros, Castle of Kritinia,
+    Monolithos Castle, Lunch Break in Embona, Taxi Tours in Rhodes Island Greece
   keywords: 'Rhodes, Private, Tours, Greece, South-West Coast, shore, excursions,
     taxi tours, allure tours, '
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  http_desc: Rhodes Private Tours and Shore Excursions, South-West Coast, Private
-    Day tours, Rhodes Taxi Tours
+  http_desc: Acropolis of Ancient Ialyssos, Ancient City of Kamiros, Castle of Kritinia,
+    Monolithos Castle, Lunch Break in Embona
 title: Rhodes South-West DT8
 summary:
   paragraphs:
