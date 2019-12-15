@@ -65,7 +65,7 @@ sections:
       caption: The interior of the church of our Lady of Filerimos
     - thumb: img/filerimos_hill/filerimos_hill_8_thumb.jpg
       href: img/filerimos_hill/filerimos_hill_8.jpg
-      alt: Lady of Filerimos
+      alt: The interior of the church, Rhodes Private Tours
       caption: The interior of the church of our Lady of Filerimos
   title: ''
   desc: ''
