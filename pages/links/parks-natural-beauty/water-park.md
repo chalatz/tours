@@ -58,7 +58,7 @@ sections:
       caption: ''
     - thumb: img/water_park/water_park_8_small.jpg
       href: img/water_park/water_park_8.jpg
-      alt: 'Rhodes Greece Faliraki Water Park '
+      alt: 'Rhodes tours from cruise ship to Faliraki Water Park '
       caption: ''
   title: ''
 subtitle: ''
