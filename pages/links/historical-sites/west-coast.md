@@ -75,7 +75,7 @@ sections:
   - figures:
     - thumb: img/West_Coast/the_cross_filerimos_mod_small.png
       href: img/West_Coast/the_cross_filerimos_mod.jpg
-      alt: Private Shore Trips Rhodes Greece
+      alt: 'The imposing concrete Cross, Rhodes Shore Trip '
       caption: The imposing concrete Cross.
     - thumb: img/West_Coast/steps_to_monastery_filerimos_mod_small.jpg
       href: img/West_Coast/steps_to_monastery_filerimos_mod.jpg
