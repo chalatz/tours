@@ -35,7 +35,8 @@ sections:
       caption: The dome of the Turkish Bath - Hammam
     - thumb: img/rhodes_ottoman_sites/suleiman_mosque_ottoman_sites_mod_small.png
       href: img/rhodes_ottoman_sites/suleiman_mosque_ottoman_sites_mod.jpg
-      alt: The sixteenth century Suleiman Mosque, Rhodes Private Tours
+      alt: 'The sixteenth century Suleiman Mosque, rhodes on your own from cruise
+        ship '
       caption: Suleiman Mosque.
     - thumb: img/rhodes_ottoman_sites/entrance_of_mustafa_pasha_mosque_mod_small.jpg
       href: img/rhodes_ottoman_sites/entrance_of_mustafa_pasha_mosque_mod.jpg
