@@ -16,7 +16,7 @@ meta:
   http_desc: Rhodes Shore Trips, Rhodes Private Shore Tours, Shore Trips of Rhodes
     West Coast, Greece
 keyphrase: Shore Trips of Rhodes
-title: Rhodes West Coast in Pictures - Photo Gallery
+title: Shore Trips - Rhodes West Coast in Pictures
 sections:
 - desc: |-
     We set out from the town of Rhodes and follow the road which leads to the southwest, parallel to the western coast of the island.
@@ -26,8 +26,7 @@ sections:
   - figures:
     - thumb: img/West_Coast/neoclassical_villa_mod_small.jpg
       href: img/West_Coast/neoclassical_villa_mod.jpg
-      alt: West Coast of Rhodes, Shore Trips, Rhodes Shore Trips, Shore Trips of Rhodes,
-        Shore Trips of Greece Rhodes
+      alt: The settlements of Kritika, Rhodes Shore Trips
       caption: The settlements of Kritika with its tiny houses
     - thumb: img/West_Coast/neoclassical_villa_2_mod_small.jpg
       href: img/West_Coast/neoclassical_villa_2_mod.jpg
@@ -46,6 +45,7 @@ sections:
       alt: Ialyssos west coast, Rhodes Shore Trips, Shore Trips of Rhodes, Shore Trips
         of Greece Rhodes
       caption: Ixia, Luxury Hotels.
+  title: ''
 - desc: The road passes through the village, and after winding upwards for 5.5 kilometers
     along the densely wooded flanks of the Philerimos mountain, we come to the ruins
     of the acropolis of Ancient Ialyssos.
@@ -75,6 +75,7 @@ sections:
         Shore Trips of Greece Rhodes
       caption: The Steps to the Cross. Here an imposing concrete Cross standing in
         the middle of a small square.
+  title: ''
 - gallery_rows:
   - figures:
     - thumb: img/West_Coast/the_cross_filerimos_mod_small.png
@@ -95,6 +96,8 @@ sections:
       href: img/West_Coast/the_monastery_of_filerimos_2_mod.jpg
       alt: Shore Trips Rhodes Greece, Taxi Trips
       caption: The Monastery of Filerimos
+  title: ''
+  desc: ''
 - desc: |-
     We return by the same road to the main highway and continue to the southwest towards Kremasti [12 kilometers, from the town of Rhodes], a village with ample tourist accommodation, shops, etc...
 
@@ -121,6 +124,7 @@ sections:
       alt: The Butterflies Valley, Rhodes Private Shore Trips
       caption: The Valley of the Butterflies is a unique natural park, where each
         year, from June to September, thousands of butterflies appear.
+  title: ''
 - desc: We continue westwards along the coast (35 kilometers of Rhodes) to the archeological
     site of Ancient Kamiros. The town of Kamiros was founded by the Dorians, just
     like lalyssos and Lindos and its located 37 km / 23 ml from Rhodes City.
@@ -143,6 +147,7 @@ sections:
       href: img/West_Coast/ancient_kamiros_4_mod.jpg
       alt: Rhodes Shore Trips
       caption: The Ancient Kamiros.
+  title: ''
 - desc: We continue south and visit the mediaeval Castle of Kritinia (of the Knights
     of St. John Hospitallers) located just outside the village of Kritinia, built
     in the 16th century which stands proudly overlooking the bay atop a pine clad
@@ -165,6 +170,7 @@ sections:
       href: img/West_Coast/castle_west_coast_mod4.jpg
       alt: Rhodes taxi tours Greece
       caption: The Gate of Kritinia Castle (interior)
+  title: ''
 - desc: Then your journey to Monolithos will take you along a beautiful, 20 km / 12
     miles drive of the west coast of the island, through natural pine tree woods revealing
     beautiful Aegean Sea vistas. On the way, you stop at a vantage point for a closer
@@ -188,6 +194,7 @@ sections:
       href: img/West_Coast/castle_west_coast_mod8.jpg
       alt: Rhodes shore excursions
       caption: The view of the Aegean Sea from the Castle
+  title: ''
 subtitle: ''
 summary: ''
 related_tours:
@@ -207,5 +214,6 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Shore Tours   '
+no_related_tours_text: ''
 
 ---
