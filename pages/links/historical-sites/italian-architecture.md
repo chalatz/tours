@@ -56,7 +56,7 @@ sections:
   - figures:
     - thumb: img/rhodes_italian_architecture/the_administration_building_mod_small.jpg
       href: img/rhodes_italian_architecture/the_administration_building_mod.jpg
-      alt: The Administration building, Tours of Rhodes
+      alt: 'The Administration building, Rhodes Port Excursions  '
       caption: Administration building.
     - thumb: img/rhodes_italian_architecture/the_filerimos_monastery_mod_small.jpg
       href: img/rhodes_italian_architecture/the_filerimos_monastery_mod.jpg
