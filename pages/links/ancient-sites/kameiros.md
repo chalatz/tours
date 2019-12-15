@@ -39,7 +39,7 @@ sections:
         porticos on all four sides, was surrounded by a peribolos."
     - thumb: img/ancient_kameiros/ancient_kameiros_2_thumb.jpg
       href: img/ancient_kameiros/ancient_kameiros_2.jpg
-      alt: Allure tours of Rhodes
+      alt: The Hellenistic Stoa, Allure tours of Rhodes
       caption: "<strong>The Hellenistic Stoa:</strong> The remains of the two rows
         of Doric columns of the Hellenistic Stoa. The Stoa had the shape of the Greek
         letter Π and was 200 meter / 700 feet long."
