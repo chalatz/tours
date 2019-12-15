@@ -116,7 +116,7 @@ sections:
       caption: A bridge in the Valley of the Butterflies
     - thumb: img/West_Coast/lake_valley_of_the_butterflies_2_mod_small.jpg
       href: img/West_Coast/lake_valley_of_the_butterflies_2_mod.jpg
-      alt: The Butterflies Valley, Rhodes Private Shore Trips
+      alt: 'The Butterflies Valley, Rhodes on your own from cruise ship '
       caption: The Valley of the Butterflies is a unique natural park, where each
         year, from June to September, thousands of butterflies appear.
   title: ''
