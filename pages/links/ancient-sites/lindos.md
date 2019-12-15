@@ -108,7 +108,7 @@ sections:
       caption: Hellenistic Stoa and Propylaea Stairway
     - thumb: img/rhodes_lindos/lindos_acropolis_2_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_2.jpg
-      alt: Rhodes Private Shore Excursions
+      alt: 'Hellenistic Stoa, Rhodes on your own from cruise ship '
       caption: Hellenistic Stoa and the view of the Mediterranean Sea
 - desc: 'Excavations on this site in the early 1900''s brought to the surface a variety
     of items including 5000 years old tools and an inscribed plaque dating back to
