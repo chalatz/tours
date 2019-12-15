@@ -56,7 +56,7 @@ sections:
         other trees.
     - thumb: img/West_Coast/view_from_filerimos_hill_mod_small.jpg
       href: img/West_Coast/view_from_filerimos_hill_mod.jpg
-      alt: Private Shore Trips, Rhodes Taxi Trips
+      alt: Mt. Filerimos, Rhodes Shore Trips
       caption: Mt. Filerimos. Thickly planned with cypresses, pines and other trees.
     - thumb: img/West_Coast/path_to_the_cross_filerimos_mod_small.jpg
       href: img/West_Coast/path_to_the_cross_filerimos_mod.jpg
