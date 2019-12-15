@@ -12,7 +12,7 @@ meta:
   author: 'Nick '
   copyright: NK for Rhodes Private Tours, 2018
   abstract: The Seven Springs Rhodes, Epta Piges
-title: The Seven Springs in Rhodes Greece
+title: The Seven Springs Rhodes, Epta Piges
 summary: One of the most charming destinations on Rhodes , Seven Springs offers a
   cool, magical landscape, a real oasis, especially in the heat of high summer, swamped
   in greenery. The Seven Springs is a valley flowing with clear springs and covered
@@ -38,7 +38,7 @@ sections:
       caption: The Seven Springs
     - thumb: img/seven_springs/seven_springs_valley_4_thumb.jpg
       href: img/seven_springs/seven_springs_valley_4.jpg
-      alt: Seven Springs Rhodes Greece, Rhodes Tours
+      alt: 'Seven Springs Rhodes, Rhodes tours from cruise ship '
       caption: The Seven Springs
   title: ''
   desc: ''
