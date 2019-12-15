@@ -58,7 +58,7 @@ sections:
       caption: The Seven Springs, duck
     - thumb: img/seven_springs/seven_springs_valley_7_thumb.jpg
       href: img/seven_springs/seven_springs_valley_7.jpg
-      alt: Water Springs, Rhodes Private Tours
+      alt: 'The narrow dark tunnel, Water Springs, Rhodes cruise excursions  '
       caption: The narrow dark tunnel
     - thumb: img/seven_springs/seven_springs_valley_8_thumb.jpg
       href: img/seven_springs/seven_springs_valley_8.jpg
