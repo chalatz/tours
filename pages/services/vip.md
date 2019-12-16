@@ -8,15 +8,15 @@ has_form: false
 has_gallery: false
 has_cta_links: true
 meta:
-  title: Rhodes Taxi and Limo Service, VIP Services of Rhodes, Luxury Limousine tours,
+  title: VIP Tours in Rhodes, VIP Rhodes Taxi and Limo Service, Luxury Limousine Tours,
     Greece
-  http_desc: Rhodes Taxi and Limo Service, VIP Services of Rhodes, Luxury Limousine
-    tours, Greece
-  description: Rhodes Taxi and Limo Service, VIP Services of Rhodes, Luxury Limousine
-    tours, Greece
-  keywords: Rhodes Taxi and Limo Service, VIP Services of Rhodes, Luxury Limousine
-    tours, Greece
-  abstract: Rhodes Taxi and Limo Service, VIP Services, Limousine tours
+  http_desc: VIP Tours in Rhodes, VIP Rhodes Taxi and Limo Service, Luxury Limousine
+    Tours, Greece
+  description: VIP Tours in Rhodes, VIP Rhodes Taxi and Limo Service, Luxury Limousine
+    Tours, Greece
+  keywords: VIP Tours in Rhodes, VIP Rhodes Taxi and Limo Service, Luxury Limousine
+    Tours, Greece
+  abstract: VIP Tours in Rhodes, VIP Rhodes Taxi and Limo Service
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
 head_photo:
