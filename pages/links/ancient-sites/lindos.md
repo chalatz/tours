@@ -5,17 +5,17 @@ has_gallery: true
 id: site_acropolis_lindos
 ref: site_acropolis_lindos
 meta:
-  title: Executive tours of Rhodes, Escorted tours of Rhodes, Acropolis of Lindos,
-    Rhodes Lindos Tours
-  description: Rhodes Executive Tours, Rhodes Escorted Tours. Acropolis of Lindos,
-    Rhodes Lindos tours
-  keywords: Acropolis of Lindos, Rhodes Lindos tours,  executive tours of Rhodes,
-    escorted tours of Rhodes
+  title: 'Lindos Tours in Rhodes, Acropolis of Lindos Tours, Executive tours and Escorted
+    tours of Rhodes. '
+  description: Lindos Tours in Rhodes, Acropolis of Lindos Tours, Executive tours
+    and Escorted tours of Rhodes.
+  keywords: Lindos Tours in Rhodes, Acropolis of Lindos Tours, Executive tours and
+    Escorted tours of Rhodes.
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Executive tours of Rhodes, Escorted tours of Rhodes, Acropolis of Lindos
-  http_desc: Executive tours of Rhodes, Escorted tours of Rhodes, Acropolis of Lindos,
-    Rhodes Lindos Tours
+  abstract: Lindos Tours in Rhodes, Acropolis of Lindos Tours
+  http_desc: Lindos Tours in Rhodes, Acropolis of Lindos Tours, Executive tours and
+    Escorted tours of Rhodes.
 title: Lindos - The Traditional Settlement
 summary: The ancient town of Lindos lies on the east coast of the island at a distance
   of 55 km / 34 miles from the capital of Rhodes. Some of the 15th century structures
