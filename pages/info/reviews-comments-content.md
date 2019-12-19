@@ -1752,10 +1752,6 @@ reviews:
     Laura Baird (June 9th)<br>
     laurasuebaird@gmail.com
 
-    Dear Nicholas: Thank you for a very enjoyable and informative day. I will keep you in mind when I learn of friends going to Rhodes.<br>
-    Best wishes, Frank (June 4th)<br>
-    forban@comcast.net
-
     Good evening, Nicholas!, Just got home today! The trip was amazing and Rhodes was one of our favorite days! Manuel and Stamos took very good care of us and made sure we have wonderful memories of the island!! Thank you, again, for taking the time to greet us at port. I'm looking forward to writing another great review on Trip Advisor and will recommend your company anytime!<br>
     Kindest regards,<br>
     Stephanie (June 1st)<br>
