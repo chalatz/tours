@@ -210,7 +210,7 @@ body:
     href: "./img/Tour5/rhodes_taxi_tour_greece_mod.jpg"
     alt: Rhodes Taxi Tour Greece
     position: following
-- text: "**THE TRADITIONAL WINERY OF Mrs. ANASTASIA** \n\nOn the way we stop close
+- text: "**THE TRADITIONAL WINERY OF Mrs. ANASTASIA**\n\nOn the way we stop close
     to the Valley of the Butterflies to a small traditional local winery of Mrs. Anastasia.
     The Anastasia's winery was started on 1995 and later on 2002 moved here to this
     beautiful location. She started with only two wines and now she is producing more
@@ -219,13 +219,13 @@ body:
     virgin oil of olives. She is using biological - organic growth and biological
     - organic process for the vineyards and wines. Here you have the opportunity to
     test all the types of wines she produces, and get your pictures of the ageing
-    facilities.\n\n**THE JOURNEY TO EMBONA VILLAGE**\n\nThen we continue south west
-    to Embona, admire the Island's lush vegetation along the drive towards this beautiful
-    village which has known days of glory in the past. The drive along the mountains
-    path will surely reward the visitor. Empona the large village at the foot of Ataviros
-    mountain, **is the most important grape producing village on the island**, which
-    combines folklore, a lively atmosphere and good food at the local traditional
-    tavernas."
+    facilities.\n\n**THE JOURNEY TO EMBONA WINERY RHODES** \n\nThen we continue south
+    west to Embona, admire the Island's lush vegetation along the drive towards this
+    beautiful village which has known days of glory in the past. The drive along the
+    mountains path will surely reward the visitor. Empona the large village at the
+    foot of Ataviros mountain, is the most important grape producing village on the
+    island, which combines folklore, a lively atmosphere and good food at the local
+    traditional tavernas."
   gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_emery_1_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_emery_1.jpg"
