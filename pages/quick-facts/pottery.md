@@ -179,6 +179,7 @@ related_tours:
 - Rhodes Full Day-DT2
 - Jewish Sites Plus-DT4
 - Beach Tour of Rhodes-DT7
+- Lindos on Your Own-DT11
 - Through the Island-DT10
 - Best Attractions-GT1
 - Best of & Lunch Break-GT2

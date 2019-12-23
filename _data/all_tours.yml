@@ -48,6 +48,11 @@
   id: through_the_island
   type: driving
 
+- name: 'Lindos on Your Own-DT11'
+  url: ./lindos-on-your-own.htm
+  id: lindos_on_your_own
+  type: driving
+
 - name: 'Best Attractions-GT1'
   url: ./best_attractions_in_rhodes.htm
   id: guided_best_attractions

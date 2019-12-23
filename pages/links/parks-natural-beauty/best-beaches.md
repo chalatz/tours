@@ -148,6 +148,7 @@ related_tours:
 - Beach Tour of Rhodes-DT7
 - Best of Rhodes-DT1
 - Rhodes Full Day-DT2
+- Lindos on Your Own-DT11
 - Best of & Lunch Break-GT2
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized

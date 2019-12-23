@@ -46,7 +46,7 @@ details:
   - title: "(Stop Visit Photos)"
     desc: Stop and visit - go inside the sight/building for photos
   - title: 'Private Tour Activity Level:'
-    desc: Moderate (or "Easy" if you skip the Acropolis of Lindos)
+    desc: Moderate
   - title: 'Private Tour Vehicle:'
     desc: Sedan Car Mercedes Benz - hold 4 passengers comfortably, plus the driver
       (<a href="./group_mini_bus.htm">bigger group?</a>)
