@@ -35,7 +35,7 @@ main:
           url: './nature_tour.htm'
         - title: Through the Island-DT10
           url: './island_tour.htm'
-        - title: Lindos on Your Own-DT1
+        - title: Lindos on Your Own-DT11
           url: './lindos-on-your-own.htm'
     - title: GUIDED TOURS
       url: './guided_tours.htm'

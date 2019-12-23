@@ -77,3 +77,11 @@
   itinerary: ''
   duration: 'Duration: 7:00 hours'
   id: through_the_island
+
+- name: 'Lindos on Your Own-DT11'
+  desc: 'Half Day Private Tour'
+  url: ./lindos-on-your-own.htm
+  img: '' 
+  itinerary: ''
+  duration: 'Duration: 5:00 hours'
+  id: lindos_on_your_own
