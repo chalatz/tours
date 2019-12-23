@@ -6,11 +6,11 @@ permalink: greece_travel_guide.htm
 has_form: false
 has_gallery: true
 meta:
-  title: Greece Travel Guide, Information about Greece, Planning your trip to Greece, Travel Guide to the Greek Islands
-  http_desc: Greece Travel Guide, Information about Greece, Planning your trip to Greece, Travel Guide to the Greek Islands
-  description: Greece Travel Guide, Information about Greece, Planning your trip to Greece, Travel Guide to the Greek Islands
-  keywords: Greece Travel Guide, Information about Greece, Planning your trip to Greece, Travel Guide to the Greek Islands
-  abstract: Rhodes private tours and shore excursions
+  title: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek Islands
+  http_desc: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek Islands
+  description: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek Islands, Information about Greece, Planning your trip to Greece
+  keywords: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek Islands, Information about Greece, Planning your trip to Greece
+  abstract: Matt Barrett Rhodes Greece Travel Guide
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
   
