@@ -150,11 +150,6 @@ faq:
       in mind, there is no set time for each highlight. You will have plenty of time
       to look around and take photos of the landmarks and we watch how the tour progresses
       at each landmark and adjust the tour accordingly.
-  - q: Can we have conversations with the driver, can we ask him questions?
-    a: 'The Drivers can give running commentaries of what you are seeing, lots of
-      facts on every place you visit and of course enough time to visit each landmark,
-      they also come with you to get your photos when it is allowed. They can also
-      provide advice or adjust the tour to your needs in case you wish to extend it   '
   - q: Can we drive any closer to the Acropolis of Lindos? My mother will not be able
       to do extend walking.
     a: No cars can drive up. To reach the Acropolis of Lindos you will be required
