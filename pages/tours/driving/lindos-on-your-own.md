@@ -9,19 +9,27 @@ has_gallery: true
 is_of: driven_tours
 meta:
   title: Lindos on Your Own, Lindos Tours from Rhodes
-  description: Tour Lindos on Your Own, Lindos tours from rhodes, Lindos Cheap Tours, Lindos on a budget, Rhodes Private Tours Greece
-  keywords: Tour Lindos on Your Own, Lindos tours from rhodes, Lindos Cheap Tours, Lindos on a budget, Rhodes Private Tours Greece
+  description: Tour Lindos on Your Own, Lindos tours from rhodes, Lindos Cheap Tours,
+    Lindos on a budget, Rhodes Private Tours Greece
+  keywords: Tour Lindos on Your Own, Lindos tours from rhodes, Lindos Cheap Tours,
+    Lindos on a budget, Rhodes Private Tours Greece
   abstract: Tour Lindos on Your Own, Lindos Tours from Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  http_desc: Tour Lindos on Your Own, Lindos tours from rhodes, Lindos Cheap Tours, Lindos on a budget, Rhodes Private Tours Greece
-title: 'Lindos on Your Own" DT11'
+  http_desc: Tour Lindos on Your Own, Lindos tours from rhodes, Lindos Cheap Tours,
+    Lindos on a budget, Rhodes Private Tours Greece
+title: Lindos on Your Own" DT11
 summary:
   paragraphs:
-  - For those of you wish to visit Lindos on their own pace this tour is perfect. This private tour combines fabulous scenery with plenty of time (3:00 hours) in Lindos. You’ll get to see the best of Rhodes’ destination and you can choose to do whatever you like without clashing with other tour groups or getting sidetracked. Enjoy what you want to!!
+  - For those of you wish to visit Lindos on their own pace this tour is perfect.
+    This private tour combines fabulous scenery with plenty of time (3:00 hours) in
+    Lindos. You’ll get to see the best of Rhodes’ destination and you can choose to
+    do whatever you like without clashing with other tour groups or getting sidetracked.
+    Enjoy what you want to!!
 tour:
   title: '"Lindos on Your Own" DT11'
-  summary: Rhodes East Coast / Rhodian Pottery Art / Panoramic View Lindos Beach, Village, Acropolis / St Pauls Bay / Visit Village and Acropolis
+  summary: Rhodes East Coast / Rhodian Pottery Art / Panoramic View Lindos Beach,
+    Village, Acropolis / St Pauls Bay / Visit Village and Acropolis
   duration: Half Day
 overview:
   items:
@@ -37,7 +45,7 @@ overview:
     classes: bold
   - title: 'Extensions: You can add more Attractions / Lunch Time / Beach Time'
     classes: bold
-  - title: 'Suggested time for this tour: All the year round'
+  - title: 'Suggested time for this tour: All year round'
     classes: bold
 details:
   items:
@@ -72,65 +80,62 @@ gallery:
     position: first
   - thumb: "./img/Tour11/2-thumb.jpg"
     href: "./img/Tour11/2.jpg"
-    alt: 'Lindos Village and Acropolis, Rhodes Island'
+    alt: Lindos Village and Acropolis, Rhodes Island
     position: following
   - thumb: "./img/Tour11/3-thumb.jpg"
     href: "./img/Tour11/3.jpg"
-    alt: 'White Houses in Lindos Village, Rhodes Island'
+    alt: White Houses in Lindos Village, Rhodes Island
     position: following
   - thumb: "./img/Tour11/4-thumb.jpg"
     href: "./img/Tour11/4.jpg"
-    alt: 'Panoramic View of Lindos'
+    alt: Panoramic View of Lindos
     position: following
   - thumb: "./img/Tour11/5-thumb.jpg"
     href: "./img/Tour11/5.jpg"
-    alt: "St' Paul's Bay, Lindos Rhodes"
+    alt: St' Paul's Bay, Lindos Rhodes
     position: following
-  
   group_2:
   - thumb: "./img/Tour11/6-thumb.jpg"
     href: "./img/Tour11/6.jpg"
-    alt: "St Paul's Bay, Lindos on your own"
+    alt: St Paul's Bay, Lindos on your own
     position: first
   - thumb: "./img/Tour11/7-thumb.jpg"
     href: "./img/Tour11/7.jpg"
-    alt: 'Fishing boat, Lindos on budget'
+    alt: Fishing boat, Lindos on budget
     position: following
   - thumb: "./img/Tour11/8-thumb.jpg"
     href: "./img/Tour11/8.jpg"
-    alt: 'Lindos village, Lindos cheap tours'
+    alt: Lindos village, Lindos cheap tours
     position: following
   - thumb: "./img/Tour11/9-thumb.jpg"
     href: "./img/Tour11/9.jpg"
-    alt: 'Village of Lindos, tours from Rhodes to Lindos'
+    alt: Village of Lindos, tours from Rhodes to Lindos
     position: following
   - thumb: "./img/Tour11/10-thumb.jpg"
     href: "./img/Tour11/10.jpg"
-    alt: 'Donkeys in Lindos, Taxi Lindos'
+    alt: Donkeys in Lindos, Taxi Lindos
     position: following
-  
   group_3:
   - thumb: "./img/Tour11/11-thumb.jpg"
     href: "./img/Tour11/11.jpg"
-    alt: 'Lindos Village, Lindos tours from Rhodes'
+    alt: Lindos Village, Lindos tours from Rhodes
     position: first
   - thumb: "./img/Tour11/12-thumb.jpg"
     href: "./img/Tour11/12.jpg"
-    alt: 'Entrance of Acropolis of Lindos, Tour Lindos on your own'
+    alt: Entrance of Acropolis of Lindos, Tour Lindos on your own
     position: following
   - thumb: "./img/Tour11/13-thumb.jpg"
     href: "./img/Tour11/13.jpg"
-    alt: 'Lindos Acropolis, temple of Athena'
+    alt: Lindos Acropolis, temple of Athena
     position: following
   - thumb: "./img/Tour11/14-thumb.jpg"
     href: "./img/Tour11/14.jpg"
-    alt: 'Temple of Athena on the Acropolis of Lindos'
+    alt: Temple of Athena on the Acropolis of Lindos
     position: following
   - thumb: "./img/Tour11/15-thumb.jpg"
     href: "./img/Tour11/15.jpg"
-    alt: "Panoramic View of St Paul's Bay"
+    alt: Panoramic View of St Paul's Bay
     position: following
-  
 faq:
   items:
   - q: Can we drive any closer to the Acropolis of Lindos? My mother will not be able
