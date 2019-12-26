@@ -187,6 +187,8 @@ faq:
       and looking at the Acropolis take?"
     a: Usually we spend one hour in Lindos, but it depends on you for how long you
       need to visit Lindos. To climb up it takes 10 - 15 min, to take a look 30min.
+      However you may look at our tour "LINDOS ON YOUR OWN" which can give you 3:00
+      hours in Lindos
   - q: I will be travelling with an elderly grandmother. She is 84-year-old. If my
       mother decides not to go up, is there anything for a lady in her age to do while
       my son and I go up?
