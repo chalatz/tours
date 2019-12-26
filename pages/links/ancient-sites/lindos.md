@@ -98,7 +98,7 @@ sections:
       caption: The steps lead to the ancient acropolis of Lindos
     - thumb: img/rhodes_lindos/lindos_acropolis_8_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_8.jpg
-      alt: 'The fortifications, Rhodes Port Excursions  '
+      alt: Acropolis of Lindos, Tours to Lindos from Rhodes
       caption: The fortifications, the steps, and the Medieval entrance (built by
         the Knights of St John Hospitallers)
     - thumb: img/rhodes_lindos/lindos_acropolis_1_small.jpg
