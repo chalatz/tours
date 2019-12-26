@@ -45,7 +45,7 @@ overview:
   - title: Back to Rhodes New Town / Cruise Ship / or to your place
   - title: 'Duration: Approximately 3:30 hours'
     classes: bold
-  - title: 'Suggested time for this tour: All the year round'
+  - title: 'Suggested time for this tour: All year round'
     classes: bold
 details:
   items:
