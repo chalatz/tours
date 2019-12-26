@@ -51,7 +51,7 @@ overview:
     classes: bold
   - title: 'Extensions: You can add more Attractions / Lunch Time / Beach Time'
     classes: bold
-  - title: 'Suggested time for this tour: All the year round'
+  - title: 'Suggested time for this tour: All year round'
     classes: bold
 details:
   items:
