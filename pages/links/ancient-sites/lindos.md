@@ -94,8 +94,7 @@ sections:
   - figures:
     - thumb: img/rhodes_lindos/lindos_acropolis_7_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_7.jpg
-      alt: The steps lead to the ancient acropolis of Lindos, Rhodes Executive Day
-        Tours
+      alt: The steps lead to the ancient acropolis of Lindos, Rhodes Lindos Tour
       caption: The steps lead to the ancient acropolis of Lindos
     - thumb: img/rhodes_lindos/lindos_acropolis_8_small.jpg
       href: img/rhodes_lindos/lindos_acropolis_8.jpg
