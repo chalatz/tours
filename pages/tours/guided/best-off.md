@@ -174,7 +174,8 @@ faq:
       the climb, is there something for her to do while we climb the Acropolis?
     a: 'Yes, we can drive her to a café just outside the white village where she can
       enjoy a spectacular view of the village and the Acropolis of Lindos. You may
-      also look at our tours for <a href="./seniors-tours-in-rhodes.htm">seniors</a> '
+      also look at our <a href="./seniors-tours-in-rhodes.htm">tours for seniors in
+      Rhodes</a> '
   - q: How long is the walk back to the ship from the gate near the Palace of Grand
       Master and the Archaeological Museum?
     a: It normally takes 10 minutes, but you can go at your own leisurely pace, enjoying
