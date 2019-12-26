@@ -53,7 +53,7 @@ overview:
   - title: 'Extensions: You can add the Valley of the Butterflies (mid-June - mid-Sept)
       / or Free Wine Tasting in Embona Village'
     classes: bold
-  - title: 'Suggested times for this tour: All the year round'
+  - title: 'Suggested times for this tour: All year round'
     classes: bold
 details:
   items:
