@@ -44,7 +44,7 @@ overview:
   - title: The Tour Finish at the Marina Gate
   - title: 'Duration: 3:00 hours'
     classes: bold
-  - title: 'Suggested time for this walking tour: All the year round'
+  - title: 'Suggested time for this walking tour: All year round'
     classes: bold
 details:
   items:
