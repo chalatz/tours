@@ -9,7 +9,7 @@ is_of: driven_tours
 meta:
   title: Rhodes Wine Tour Greece, Wine Roads Rhodes, Wine Tours in Greece Rhodes,
     Free Wine Tasting Greece Rhodes, Rhodes Wineries
-  description: Rhodes Wine Tour Greece, Wine Roads Rhodes, Wine Tours in Greece Rhodes,
+  description: RHODES WINE TOUR Greece, Wine Roads Rhodes, Wine Tours in Greece Rhodes,
     Free Wine Tasting Greece Rhodes, Rhodes Wineries
   keywords: Rhodes Wine Tour Greece, Wine Roads Rhodes, Wine Tours in Greece Rhodes,
     Free Wine Tasting Greece Rhodes, Rhodes Wineries
