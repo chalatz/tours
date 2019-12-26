@@ -16,7 +16,7 @@ meta:
   abstract: Lindos Tours in Rhodes, Acropolis of Lindos Tours
   http_desc: Lindos Tours in Rhodes, Acropolis of Lindos Tours, Executive tours and
     Escorted tours of Rhodes.
-title: Lindos - The Traditional Settlement
+title: 'Rhodes Lindos Tour '
 summary: The ancient town of Lindos lies on the east coast of the island at a distance
   of 55 km / 34 miles from the capital of Rhodes. Some of the 15th century structures
   in the whitewashed town have been declared traditional buildings to be preserved.
@@ -154,7 +154,7 @@ sections:
       alt: View of St Paul's Bay, Executive Tours in Rhodes Greece
       caption: View of St Paul's Bay
   desc: ''
-subtitle: ''
+subtitle: The Traditional Settlement
 related_tours:
 - Best of Rhodes-DT1
 - Rhodes Full Day-DT2
