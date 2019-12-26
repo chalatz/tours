@@ -177,10 +177,10 @@ faq:
       ON YOUR OWN</a> which give you 3:00 hours in Lindos
   - q: My 84 year old grandmother is along for the trip. Are there any options for
       her while my son climbs to the Acropolis of Lindos?
-    a: There is a café just outside the village that offers an enchanting view of
+    a: 'There is a café just outside the village that offers an enchanting view of
       the white village and the Acropolis. We can drive her there for a drink and
-      relaxation. You may also look at our tours for <a href="./seniors-tours-in-rhodes.htm">Seniors</a>
-      in Rhodes
+      relaxation. You may also look at our <a href="./seniors-tours-in-rhodes.htm">Tours
+      for Seniors in Rhodes</a> '
   - q: How near is the ship from the Palace of Grand Master and the Archaeological
       Museum?
     a: It’s ten minutes away, but you can take as long as you wish, enjoying the sights
