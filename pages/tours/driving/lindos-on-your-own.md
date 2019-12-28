@@ -101,7 +101,7 @@ gallery:
     position: first
   - thumb: "./img/Tour11/7-thumb.jpg"
     href: "./img/Tour11/7.jpg"
-    alt: Fishing boat, Lindos on budget
+    alt: 'Fishing boat, Private Lindos Tour '
     position: following
   - thumb: "./img/Tour11/8-thumb.jpg"
     href: "./img/Tour11/8.jpg"
