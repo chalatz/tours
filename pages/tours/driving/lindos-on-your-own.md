@@ -80,7 +80,7 @@ gallery:
     position: first
   - thumb: "./img/Tour11/2-thumb.jpg"
     href: "./img/Tour11/2.jpg"
-    alt: Lindos Village and Acropolis, Rhodes Island
+    alt: Lindos Village and Acropolis, Visit Lindos on your own pace
     position: following
   - thumb: "./img/Tour11/3-thumb.jpg"
     href: "./img/Tour11/3.jpg"
