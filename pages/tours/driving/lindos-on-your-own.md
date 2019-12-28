@@ -126,7 +126,7 @@ gallery:
     position: following
   - thumb: "./img/Tour11/13-thumb.jpg"
     href: "./img/Tour11/13.jpg"
-    alt: Lindos Acropolis, temple of Athena
+    alt: Lindos Acropolis, temple of Athena, Rhodes Lindos Private Tours
     position: following
   - thumb: "./img/Tour11/14-thumb.jpg"
     href: "./img/Tour11/14.jpg"
