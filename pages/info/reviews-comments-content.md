@@ -16,23 +16,23 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2019"
-  text: "We had a fantastic time with Michael in Rhodes.  Not only was he a good driver,
-    but we learned so much from his as well.  We all left him feeling like we would
-    love to experience the same day all over again! <br> Thanks again Orva (Dec 28th)
-    \ osschramm@gmail.com\n\nNicholas, We had such a wonderful time in Rhodes and
-    your company provided outstanding service! . Kostas and Manolis were amazing and
-    especially helpful. It was one of our favorite trips and destinations yet. Please
-    pass on my sincere thanks and best wishes to them as well. <br>\nHappy Holidays!
-    Kristine (Dec 26th) tworaads@aol.com\n\nHello Nicholas and Dominic: Our tour,
-    it was everything we could have hoped for. We enjoyed the entire tour and your
-    flexibility and desire to help us. We will certainly recommend you and your company
-    to anyone asking for similar services. <br>\nBest regards,  Libby and Les (Dec
-    14th)  lesaco@gmail.com\n\nThank you Nicholas for the very interesting tour you
-    gave us.  We all fully enjoyed the day with you.  You gave us a great deal of
-    information and took us to many memorable areas on this tour.  <br>\nThanks again,
-    Pat, Marie, and Suzy (Dec 8th)  pburnett295@gmail.com \n\nHi Nicholas, We had
-    the best day ever! Manuel was so helpful and kind. Best to your company ☺ <br>Friends
-    from USA. Shelly, Judy, Fred and Sheila (Dec 1st) hellyreed61@gmail.com\n\nDear
+  text: "Nicholas, We had such a wonderful time in Rhodes and your company provided
+    outstanding service! . Kostas and Manolis were amazing and especially helpful.
+    It was one of our favorite trips and destinations yet. Please pass on my sincere
+    thanks and best wishes to them as well. <br>\nHappy Holidays! Kristine (Dec 28th)
+    tworaads@aol.com\n\nWe had a fantastic time with Michael in Rhodes.  Not only
+    was he a good driver, but we learned so much from his as well.  We all left him
+    feeling like we would love to experience the same day all over again! <br> Thanks
+    again Orva (Dec 26th)  osschramm@gmail.com\n\nHello Nicholas and Dominic: Our
+    tour, it was everything we could have hoped for. We enjoyed the entire tour and
+    your flexibility and desire to help us. We will certainly recommend you and your
+    company to anyone asking for similar services. <br>\nBest regards,  Libby and
+    Les (Dec 14th)  lesaco@gmail.com\n\nThank you Nicholas for the very interesting
+    tour you gave us.  We all fully enjoyed the day with you.  You gave us a great
+    deal of information and took us to many memorable areas on this tour.  <br>\nThanks
+    again, Pat, Marie, and Suzy (Dec 8th)  pburnett295@gmail.com \n\nHi Nicholas,
+    We had the best day ever! Manuel was so helpful and kind. Best to your company
+    ☺ <br>Friends from USA. Shelly, Judy, Fred and Sheila (Dec 1st) hellyreed61@gmail.com\n\nDear
     Nicholas, We are safe and sound back on the ship. Thank you so much for your impeccable,
     professional, and warm correspondence in coordinating our brief visit - we all
     had a lovely day and will be departing Rhodes with fond memories. Please extend
