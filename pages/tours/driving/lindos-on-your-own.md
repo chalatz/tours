@@ -88,7 +88,7 @@ gallery:
     position: following
   - thumb: "./img/Tour11/4-thumb.jpg"
     href: "./img/Tour11/4.jpg"
-    alt: Panoramic View of Lindos
+    alt: Panoramic View of Lindos, Rhodes Lindos Tour
     position: following
   - thumb: "./img/Tour11/5-thumb.jpg"
     href: "./img/Tour11/5.jpg"
