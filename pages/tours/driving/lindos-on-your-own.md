@@ -105,7 +105,7 @@ gallery:
     position: following
   - thumb: "./img/Tour11/8-thumb.jpg"
     href: "./img/Tour11/8.jpg"
-    alt: Lindos village, Lindos cheap tours
+    alt: 'Lindos village, Lindos Private Tours '
     position: following
   - thumb: "./img/Tour11/9-thumb.jpg"
     href: "./img/Tour11/9.jpg"
