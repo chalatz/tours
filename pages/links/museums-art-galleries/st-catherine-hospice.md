@@ -29,7 +29,7 @@ sections:
       caption: The entrance of the Hospice of St. Catherine
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_2_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_2_mod.jpg
-      alt: Rhodes City Tours, The Hospice
+      alt: Rhodes Private City Tour, The Hospice
       caption: The Hospice of St. Catherine
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_3_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_3_mod.jpg
