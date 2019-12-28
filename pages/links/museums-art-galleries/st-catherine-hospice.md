@@ -5,19 +5,17 @@ has_gallery: true
 id: site_st_catherine_hospice
 ref: site_st_catherine_hospice
 meta:
-  title: City Tours in Rhodes, Private City Tours in Rhodes,  The Hospice of St. Catherine
-    in Rhodes, Rhodes City Tours
-  http_desc: City Tours in Rhodes, Private City Tours in Rhodes,  The Hospice of St.
-    Catherine in Rhodes, Rhodes City Tours
-  description: City Tours in Rhodes, Private City Tours in Rhodes,  The Hospice of
-    St. Catherine in Rhodes, Rhodes City Tours
-  keywords: City Tours in Rhodes, Private City Tours in Rhodes,  The Hospice of St.
-    Catherine in Rhodes, Rhodes City Tours
+  title: 'Rhodes City Tour, Rhodes Private City Tour, City Tour in Rhodes '
+  http_desc: 'Rhodes City Tour, Rhodes Private City Tour, City Tour in Rhodes, Rhodes
+    City Tours, Rhodes Private Tours '
+  description: 'Rhodes City Tour, Rhodes Private City Tour, City Tour in Rhodes, Rhodes
+    City Tours, Rhodes Private Tours '
+  keywords: 'Rhodes City Tour, Rhodes Private City Tour, City Tour in Rhodes, Rhodes
+    City Tours, Rhodes Private Tours '
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: 'Rhodes City Tours '
-title: Rhodes City Tour, Rhodes Private City Tour, Rhodes City Tours  The Hospice
-  of St. Catherine - Rhodes Greece
+  abstract: 'Rhodes City Tour, Rhodes Private City Tour, City Tour in Rhodes '
+title: 'Rhodes City Tour, Rhodes Private City Tour, Rhodes City Tours  '
 summary: |-
   The Hospice of St. Catherine was built in 1391-92 by the Order of the Knights of St. John (Knights Hospitallers) to house and entertain esteemed guests. The Hospice built under Grand Master Heredia, by the Italian Domenico d'Allemagna, admiral of the Order of the Knights. 
 
