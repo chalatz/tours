@@ -97,7 +97,7 @@ gallery:
   group_2:
   - thumb: "./img/Tour11/6-thumb.jpg"
     href: "./img/Tour11/6.jpg"
-    alt: St Paul's Bay, Lindos on your own
+    alt: St Paul's Bay, Lindos on your own pace
     position: first
   - thumb: "./img/Tour11/7-thumb.jpg"
     href: "./img/Tour11/7.jpg"
