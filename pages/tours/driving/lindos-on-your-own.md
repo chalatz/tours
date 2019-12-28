@@ -8,16 +8,16 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Lindos on Your Own, Lindos Tours from Rhodes
-  description: Tour Lindos on Your Own, Lindos tours from rhodes, Lindos Cheap Tours,
-    Lindos on a budget, Rhodes Private Tours Greece
-  keywords: Tour Lindos on Your Own, Lindos tours from rhodes, Lindos Cheap Tours,
-    Lindos on a budget, Rhodes Private Tours Greece
-  abstract: Tour Lindos on Your Own, Lindos Tours from Rhodes
+  title: 'Lindos on Your Own Pace, Lindos Tours from Rhodes. '
+  description: Visit Lindos on Your Own Pace, Lindos tours from rhodes, Rhodes Private
+    Tours Greece
+  keywords: Visit Lindos on Your Own Pace, Lindos tours from rhodes, Rhodes Private
+    Tours Greece
+  abstract: Visit Lindos on Your Own Pace
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  http_desc: Tour Lindos on Your Own, Lindos tours from rhodes, Lindos Cheap Tours,
-    Lindos on a budget, Rhodes Private Tours Greece
+  http_desc: Visit Lindos on Your Own Pace, Lindos tours from rhodes, Rhodes Private
+    Tours Greece
 title: Lindos on Your Own Pace" DT11
 summary:
   paragraphs:
