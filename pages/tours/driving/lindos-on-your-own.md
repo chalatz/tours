@@ -161,10 +161,10 @@ faq:
   - q: I will be travelling with an elderly grandmother. She is 84-year-old. If my
       mother decides not to go up, is there anything for a lady in her age to do while
       my son and I go up?
-    a: Yes, we can drive her down on the marvellous beach of Lindos have a drink and
-      a nice discuss with the driver and enjoy the panoramic view of the white village
-      and the Acropolis of Lindos while she is waiting for you. You may also look
-      at our Tours for <a href="./Seniors-tours-in-rhodes.htm">Seniors</a> in Rhodes
+    a: 'Yes, we can drive her down on the marvellous beach of Lindos have a drink
+      and a nice discuss with the driver and enjoy the panoramic view of the white
+      village and the Acropolis of Lindos while she is waiting for you. You may also
+      look at our <a href="./Seniors-tours-in-rhodes.htm">Tours for Seniors in Rhodes</a> '
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <span class="link_inline"><a href="food_greece_menus_meals_cuisine.htm">Traditional
