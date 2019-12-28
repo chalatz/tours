@@ -92,7 +92,7 @@ gallery:
     position: following
   - thumb: "./img/Tour11/5-thumb.jpg"
     href: "./img/Tour11/5.jpg"
-    alt: St' Paul's Bay, Lindos Rhodes
+    alt: St' Paul's Bay, Lindos Private Tours
     position: following
   group_2:
   - thumb: "./img/Tour11/6-thumb.jpg"
