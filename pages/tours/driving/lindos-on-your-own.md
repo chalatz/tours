@@ -84,7 +84,7 @@ gallery:
     position: following
   - thumb: "./img/Tour11/3-thumb.jpg"
     href: "./img/Tour11/3.jpg"
-    alt: White Houses in Lindos Village, Rhodes Island
+    alt: White Houses in Lindos Village, Lindos Tours from Rhodes
     position: following
   - thumb: "./img/Tour11/4-thumb.jpg"
     href: "./img/Tour11/4.jpg"
