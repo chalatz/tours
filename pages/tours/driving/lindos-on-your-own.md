@@ -130,11 +130,11 @@ gallery:
     position: following
   - thumb: "./img/Tour11/14-thumb.jpg"
     href: "./img/Tour11/14.jpg"
-    alt: Temple of Athena on the Acropolis of Lindos
+    alt: 'Temple of Athena on the Acropolis of Lindos, '
     position: following
   - thumb: "./img/Tour11/15-thumb.jpg"
     href: "./img/Tour11/15.jpg"
-    alt: Panoramic View of St Paul's Bay
+    alt: 'Panoramic View of St Paul''s Bay '
     position: following
 faq:
   items:
