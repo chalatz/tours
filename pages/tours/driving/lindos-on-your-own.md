@@ -122,7 +122,7 @@ gallery:
     position: first
   - thumb: "./img/Tour11/12-thumb.jpg"
     href: "./img/Tour11/12.jpg"
-    alt: Entrance of Acropolis of Lindos, Tour Lindos on your own
+    alt: Entrance of Acropolis of Lindos, Tour Lindos on your own pace
     position: following
   - thumb: "./img/Tour11/13-thumb.jpg"
     href: "./img/Tour11/13.jpg"
