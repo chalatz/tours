@@ -84,7 +84,7 @@ gallery:
     position: following
   - thumb: "./img/Tour6/3_thumb.jpg"
     href: "./img/Tour6/3.jpg"
-    alt: Greece Rhodes Tours for Kids
+    alt: Greece Rhodes Tours for Kids, Rhodes Family Trips
     position: following
   - thumb: "./img/Tour6/4_thumb.jpg"
     href: "./img/Tour6/4.jpg"
