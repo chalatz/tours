@@ -92,7 +92,7 @@ gallery:
     position: following
   - thumb: "./img/Tour6/5_thumb.jpg"
     href: "./img/Tour6/5.jpg"
-    alt: Family Kids Educational Tours
+    alt: Rhodes Family Tour, Educational Tour
     position: following
   group_2:
   - thumb: "./img/Tour6/6_thumb.jpg"
