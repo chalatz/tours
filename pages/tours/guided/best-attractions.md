@@ -173,8 +173,8 @@ faq:
     a: The tour stays there for approximately 90 minutes, but it can vary depending
       on the time guests take to enjoy Lindos. In case you need to spend more time
       in Lindos we need advance notice, on time of booking, as we must adjust the
-      tour to your needs and wishes.  However you may also look at our tour <a href="./lindos-on-your-own.htm">LINDOS
-      ON YOUR OWN</a> which give you 3:00 hours in Lindos
+      tour to your needs and wishes.  However you may also look at our tour <a href="./lindos-on-your-own.htm">Visit
+      Lindos on your own pace</a> which give you 3:00 hours in Lindos
   - q: My 84 year old grandmother is along for the trip. Are there any options for
       her while my son climbs to the Acropolis of Lindos?
     a: 'There is a café just outside the village that offers an enchanting view of
