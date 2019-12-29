@@ -8,15 +8,17 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Rhodes Kids Tours, Rhodes Family Tours, Children Fun Tours in Rhodes
-  description: Kids Tours in Rhodes, Kids Fun Tours, Family Tours in Rhodes Greece,
-    Children Tours, Rhodes private tours
-  keywords: Kids Tours in Rhodes, Kids Fun Tours, Family Tours in Rhodes Greece, Rhodes
-    private tours
-  abstract: Rhodes Kids Tours, Rhodes Family Tours
+  title: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children Fun
+    Tours in Rhodes
+  description: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children
+    Fun Tours in Rhodes
+  keywords: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children
+    Fun Tours in Rhodes
+  abstract: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  http_desc: Rhodes Kids Tours, Rhodes Family Tours, Children Fun Tours in Rhodes
+  http_desc: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children
+    Fun Tours in Rhodes
 title: Rhodes Kids Tour DT6
 summary:
   paragraphs:
