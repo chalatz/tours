@@ -21,11 +21,11 @@ meta:
 title: Lindos on Your Own Pace" DT11
 summary:
   paragraphs:
-  - If you are planning to visit Lindos on own pace this tour is perfect. This private
-    tour combines fabulous scenery with plenty of time (3:00 hours) in Lindos. You’ll
-    get to see the best of Rhodes’ destination and you can choose to do whatever you
-    like without clashing with other tour groups or getting sidetracked. Enjoy what
-    you want to!!
+  - If you are planning to visit Lindos on your own pace this tour is perfect. This
+    private tour combines fabulous scenery with plenty of time (3:00 hours) in Lindos.
+    You’ll get to see the best of Rhodes’ destination and you can choose to do whatever
+    you like without clashing with other tour groups or getting sidetracked. Enjoy
+    what you want to!!
 tour:
   title: '"Lindos on Your Own" DT11'
   summary: Rhodes East Coast / Rhodian Pottery Art / Panoramic View of Lindos Beach,
