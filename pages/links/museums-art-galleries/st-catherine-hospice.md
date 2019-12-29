@@ -53,7 +53,7 @@ sections:
       caption: The lavish bedchamber
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_6_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_6_mod.jpg
-      alt: Custom City Tours in Rhodes
+      alt: City Tour in Rhodes
       caption: The grand hall
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_7_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_7_mod.jpg
