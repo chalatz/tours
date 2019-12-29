@@ -88,7 +88,7 @@ gallery:
     position: following
   - thumb: "./img/Tour6/4_thumb.jpg"
     href: "./img/Tour6/4.jpg"
-    alt: Rhodes Kids Fun Tours
+    alt: Rhodes Kids Fun Tours, Rhodes Family Tour
     position: following
   - thumb: "./img/Tour6/5_thumb.jpg"
     href: "./img/Tour6/5.jpg"
