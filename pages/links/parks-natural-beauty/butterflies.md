@@ -22,7 +22,7 @@ sections:
   - figures:
     - thumb: img/butterflies_valley/valley_of_the_butterflies_1_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_1.jpg
-      alt: butterfly valley rhodes tour
+      alt: Rhodes Butterfly Valley Tour
       caption: These butterflies belong to the species Callimorpha Qudripunctaria
         Himalaiensis
     - thumb: img/butterflies_valley/valley_of_the_butterflies_2_thumb.jpg
