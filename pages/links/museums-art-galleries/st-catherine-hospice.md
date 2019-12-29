@@ -33,7 +33,7 @@ sections:
       caption: The Hospice of St. Catherine
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_3_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_3_mod.jpg
-      alt: City tours in Rhodes Greece, The Hospice
+      alt: City tours in Rhodes, The Hospice
       caption: The stairs lead to the upper floor
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_4_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_4_mod.jpg
