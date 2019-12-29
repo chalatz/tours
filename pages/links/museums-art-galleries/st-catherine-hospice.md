@@ -37,7 +37,7 @@ sections:
       caption: The stairs lead to the upper floor
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_4_mod_small.jpg
       href: img/st_catherine_hospice/hospice_of_st_catherine_4_mod.jpg
-      alt: Rhodes Greece city tours, The Hospice
+      alt: Rhodes Private City Tours, The Hospice
       caption: The interior with the fireplace
   title: ''
   desc: ''
