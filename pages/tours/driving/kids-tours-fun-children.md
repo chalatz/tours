@@ -80,7 +80,7 @@ gallery:
     position: first
   - thumb: "./img/Tour6/2_thumb.jpg"
     href: "./img/Tour6/2.jpg"
-    alt: Rhodes Family Trips, Rhodes children tours
+    alt: 'Rhodes Family Trips, Rhodes Family Tour '
     position: following
   - thumb: "./img/Tour6/3_thumb.jpg"
     href: "./img/Tour6/3.jpg"
