@@ -31,7 +31,7 @@ sections:
       caption: The butterflies camouflaging themselves against the tree trunks
     - thumb: img/butterflies_valley/valley_of_the_butterflies_3_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_3.jpg
-      alt: Wooden bridges and paths in the Valley of the butterflies, Rhodes Tour
+      alt: Rhodes Butterfly Valley Tour, Rhodes Private Tours
       caption: Wooden bridges and paths will guide you through the rich vegetation
         of this rare biotope
     - thumb: img/butterflies_valley/valley_of_the_butterflies_4_thumb.jpg
