@@ -6,7 +6,7 @@ id: site_st_catherine_hospice
 ref: site_st_catherine_hospice
 meta:
   title: 'Rhodes City Tour, Rhodes Private City Tour, City Tour in Rhodes '
-  http_desc: 'Rhodes City Tour, Rhodes Private City Tour, City Tour in Rhodes, Rhodes
+  http_desc: 'Rhodes City Tour, Private Rhodes City Tour, City Tour in Rhodes, Rhodes
     City Tours, Rhodes Private Tours '
   description: 'Rhodes City Tour, Rhodes Private City Tour, City Tour in Rhodes, Rhodes
     City Tours, Rhodes Private Tours '
