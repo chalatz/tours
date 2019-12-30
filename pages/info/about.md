@@ -37,7 +37,7 @@ profile:
     and successful private tours business.\n\nNick and Michael are fluent in Greek
     (obviously!), English and Arabic are perfect (spoken and written), Spanish, German
     and Italian are comprehensible, also some French - enough for basic conversation."
-  message: WE LOVE THOSE WHO SUPORT RHODES ISLAND IN SOME WAYS...
+  message: ''
 info:
   items: []
 end_page:
