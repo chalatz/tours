@@ -35,7 +35,8 @@ our_goal:
   keyword: Our goal
   title:
     lines:
-    - line: 'Our goal is to make available to you tours that:'
+    - line: 'Welcome to "Rhodes Private Tours". Our goal is to make available to you
+        tours that:'
     - line: will Expand Your knowledge, Give You a Taste of Culture, Satisfy Your
         Curiosity, and Feed Your Soul
   description: |-
