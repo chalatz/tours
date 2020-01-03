@@ -212,9 +212,9 @@ body:
     alt: Rhodes Taxi Tour Greece
     position: following
 - text: |-
-    **THE TRADITIONAL WINERY OF Mrs. ANASTASIA**
+    **THE TRADITIONAL WINERY OF Mrs. ANASTASIA - FREE WINE AND OLIVE OIL TASTING**
 
-    On the way we stop close to the Valley of the Butterflies to a small traditional local winery of Mrs. Anastasia. The Anastasia's winery was started on 1995 and later on 2002 moved here to this beautiful location. She started with only two wines and now she is producing more than 10 different type of wines. **Athiri, Red wine Mandilari, Muscat, Cabernet Sauvignon**......She is also producing **Souma** (distillate of wine) and extra virgin oil of olives. She is using biological - organic growth and biological - organic process for the vineyards and wines. Here you have the opportunity to test all the types of wines she produces, and get your pictures of the ageing facilities.
+    On the way we stop close to the Valley of the Butterflies to a small traditional local winery of Mrs. Anastasia. The Anastasia's winery was started on 1995 and later on 2002 moved here to this beautiful location. She started with only two wines and now she is producing more than 10 different type of wines. **Athiri, Red wine Mandilari, Muscat, Cabernet Sauvignon**......She is also producing **Souma** (distillate of wine) and extra virgin olive oil, you can have a free olive oil tasting.  She is using biological - organic growth and biological - organic process for the vineyards and wines. Here you have the opportunity to test all the types of wines she produces, and get your pictures of the ageing facilities.
 
     **THE JOURNEY TO EMBONA VILLAGE**
 
