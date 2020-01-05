@@ -5,14 +5,14 @@ has_gallery: false
 id: info_history_rhodes
 ref: info_history_rhodes
 meta:
-  title: Historia de Rodas Grecia, Historia de Grecia Rodas Isla, Periodo helenístico,
+  title: Historia de Rodas Grecia, historia de la isla de rodas grecia, Periodo helenístico,
     Historia mitología griega, Rodas Tour Privados
-  http_desc: Historia de Rodas Grecia, Historia de Grecia Rodas Isla, Periodo helenístico,
-    Historia mitología griega, Rodas Tour Privados
-  description: Historia de Rodas Grecia, Historia de Grecia Rodas Isla, Periodo helenístico,
-    Historia mitología griega, Rodas Tour Privados
-  keywords: Historia de Rodas Grecia, Historia de Grecia Rodas Isla, Periodo helenístico,
-    Historia mitología griega, Rodas Tour Privados
+  http_desc: Historia de Rodas Grecia, historia de la isla de rodas grecia, Periodo
+    helenístico, Historia mitología griega, Rodas Tour Privados
+  description: Historia de Rodas Grecia, historia de la isla de rodas grecia, Periodo
+    helenístico, Historia mitología griega, Rodas Tour Privados
+  keywords: Historia de Rodas Grecia, historia de la isla de rodas grecia, Periodo
+    helenístico, Historia mitología griega, Rodas Tour Privados
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Historia de Rodas Grecia
   author: Nick
