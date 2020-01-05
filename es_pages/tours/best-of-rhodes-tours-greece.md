@@ -26,7 +26,7 @@ summary:
     has visto los sitios más importantes. Este tour privado combina un paisaje fabuloso
     con muchos sitios fascinantes e históricos.
 tour:
-  title: '"Lo Mejor de Rodas"'
+  title: '"Lo Mejor de Rodas y Lindos"'
   summary: Ciudad Medieval de Rodas / Ciudad Nueva de Rodas / Acrópolis de Rodas /
     Costa Este de la Isla / Pueblo y Acrópolis de Lindos
   duration: Medio Día
