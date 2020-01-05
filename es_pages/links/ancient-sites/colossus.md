@@ -7,11 +7,11 @@ ref: site_colossus
 meta:
   title: Coloso de Rodas Grecia, El Coloso de Rodas Isla
   description: Coloso de Rodas Grecia, El Coloso de Rodas Isla
-  keywords: Coloso de Rodas Grecia, El Coloso de Rodas Isla
+  keywords: COLOSO DE RODAS, El Coloso de Rodas Isla
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Coloso de Rodas Grecia, El Coloso de Rodas Isla
-  http_desc: Coloso de Rodas Grecia, El Coloso de Rodas Isla
+  http_desc: COLOSO DE RODAS, El Coloso de Rodas Isla
 title: El Coloso de Rodas
 sections:
 - desc: |-
