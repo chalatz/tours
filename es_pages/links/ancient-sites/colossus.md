@@ -12,7 +12,7 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Coloso de Rodas Grecia, El Coloso de Rodas Isla
   http_desc: Coloso de Rodas Grecia, El Coloso de Rodas Isla
-title: El mundialmente famoso Coloso de Rodas
+title: El Coloso de Rodas
 sections:
 - desc: |-
     Relacionado con el fracasado asedio de Demetrio el Sitiador en el 305 . Orgullosos de su gran victoria y con los fondos recaudados tras la venta del equipo de guerra abandonados después del intento de toma, los rodianos decidieron erigir una estatua triunfante de su dios Helios. La obra fue asignada a Jaris de Lindos quien trabajo en ella por doce años (304-292).
