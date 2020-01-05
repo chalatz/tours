@@ -10,11 +10,11 @@ is_of: driven_tours
 meta:
   title: Lo Mejor de Rodas y Lindos Grecia, Excursión privada de medio día, Lo Mejor
     de Rodas, Tours Privados de Rodas y Lindos Grecia
-  description: Lo Mejor de Rodas Grecia, Excursión privada de medio día, Lo Mejor
-    de Rodas, Tours Privados de Rodas Grecia
-  keywords: Lo Mejor de Rodas Grecia, Excursión privada de medio día, Lo Mejor de
-    Rodas, Tours Privados de Rodas Grecia
-  abstract: Lo Mejor de Rodas Grecia
+  description: Lo Mejor de Rodas y Lindos Grecia, Excursión privada de medio día,
+    Lo Mejor de Rodas, Tours Privados de Rodas Grecia
+  keywords: Lo Mejor de Rodas y Lindos Grecia, Excursión privada de medio día, Lo
+    Mejor de Rodas, Tours Privados de Rodas Grecia
+  abstract: Lo Mejor de Rodas y Lindos Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: ''
