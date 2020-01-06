@@ -16,60 +16,63 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2019"
-  text: "Nicholas, We had such a wonderful time in Rhodes and your company provided
-    outstanding service! . Kostas and Manolis were amazing and especially helpful.
-    It was one of our favorite trips and destinations yet. Please pass on my sincere
-    thanks and best wishes to them as well. <br>\nHappy Holidays! Kristine (Dec 28th)
-    tworaads@aol.com\n\nWe had a fantastic time with Michael in Rhodes.  Not only
-    was he a good driver, but we learned so much from his as well.  We all left him
-    feeling like we would love to experience the same day all over again! <br> Thanks
-    again Orva (Dec 26th)  osschramm@gmail.com\n\nHello Nicholas and Dominic: Our
-    tour, it was everything we could have hoped for. We enjoyed the entire tour and
-    your flexibility and desire to help us. We will certainly recommend you and your
-    company to anyone asking for similar services. <br>\nBest regards,  Libby and
-    Les (Dec 14th)  lesaco@gmail.com\n\nThank you Nicholas for the very interesting
-    tour you gave us.  We all fully enjoyed the day with you.  You gave us a great
-    deal of information and took us to many memorable areas on this tour.  <br>\nThanks
-    again, Pat, Marie, and Suzy (Dec 8th)  pburnett295@gmail.com \n\nHi Nicholas,
-    We had the best day ever! Manuel was so helpful and kind. Best to your company
-    ☺ <br>Friends from USA. Shelly, Judy, Fred and Sheila (Dec 1st) hellyreed61@gmail.com\n\nDear
-    Nicholas, We are safe and sound back on the ship. Thank you so much for your impeccable,
-    professional, and warm correspondence in coordinating our brief visit - we all
-    had a lovely day and will be departing Rhodes with fond memories. Please extend
-    our thanks to Michael as well; we so enjoyed getting to share a meal with him,
-    hearing about Rhodes, and his safe and courteous guidance through our trip today.
-    \   I hope you, your team, and your families have a safe and happy close to the
-    calendar year. <br> Warm regards,  Jeff and family (Nov 26th) maojiataiwan@gmail.com\n\nDear
-    Nicholas - Our visit to your beautiful island was totally enjoyable. Michael was
-    excellent - fun, friendly and very informative. We have given you an EXCELLENT
-    review on TripAdvisor! <br>  Best Regards, Don & Pat (Nov 25th)  donb@plainhookey.com\n\nVoy
-    a expresarme de forma personal, pero hablo también de parte de todos los del grupo.\nLa
-    visita el día de hoy a Rhodas ha sido una de las visitas más memorables de este
-    viaje.\nRhodas, por sí misma, tiene un encanto particular.  Alex hizo que ese
-    encanto a demás de particular fuera dinámico, entrañable, exclusivo y sobretodo
-    sensible.  Su conocimiento, pasión por su tierra y sus orígenes son impresionantes.
-    Manolis, encantador, su habilidad en el volante hizo que tuviéramos un paseo sin
-    sobresaltos.  Les decimos a los dos: MUCHAS GRACIAS!!!  \nCuenta con mis sinceras
-    recomendaciones para quien sepa venga a Rhodas. \nTambién pondré mi comentario
-    en Trip Advisor.<br> \nHa sido un placer haberte conocido.\nMónica (18 de noviembre)
-    \ monicarevesz@hotmail.com\n\nNicholas, we had a wonderful tour with Andrew who
-    was exceptional! Thank you for the quality service.<br>\nDonald (Nov 13) dharris5@nycap.rr.com\n\nNicholas,
-    It was an outstanding day with a fabulous tour-driver!  He was very informative,
-    considerate, professional and made our day very enjoyable. Your island is lovely!
-    \ I would highly recommend your company. Thank you for making our day on Rhodes
-    so memorable!<br> \nCyndi and Larry (Nov 7th) grammycyndi@gmail.com\n\nWe had
-    a wonderful time!  Stamos was a great driver, as soon as we get home, I will put
-    a review on trip advisor. Thank you.....<br> \nMarilyn (Nov 6th)  tmc351@comcast.net\n\nNicholas,
-    Thank you, the tour by Sergio, and the beauty of Rhodes made it a really wonderful
-    day.  We were so glad we could invite our new friends to join us, we all had a
-    great time.  If I know anyone else going to Rhodes, I will definitely share your
-    contact information. <br> \nBest, Cyd  (Nov 4th) cyd.friedman@gmail.com\n\nHello
-    Nicholas, We are back in our home now and cherish the memories we made in Rhodes.
-    Our special thanks to Sergio. He was informative and interesting. Your Island
-    is beautiful and we hope to have an opportunity to visit again. <br> With fond
-    memories, Harriet and Larry (Nov 4th)  harrietgallas@gmail.com \n\nNicholas, the
-    tour by Kostas & Illias was fantastic.  Kostas is a fountain of knowledge and
-    you can tell he is very passionate about his country. <br> Glenys (Nov 3rd) grodwell@cogeco.ca\n\nNicholas,
+  text: "Thank you to Micheal for his expertise and the knowledge you shared with
+    us. Plus your humor which we greatly appreciated. We wish you all a great New
+    Year. <br>\nKind regards Gregor and Vicky gstewartsmythe@yahoo.com\n\nNicholas,
+    We had such a wonderful time in Rhodes and your company provided outstanding service!
+    . Kostas and Manolis were amazing and especially helpful. It was one of our favorite
+    trips and destinations yet. Please pass on my sincere thanks and best wishes to
+    them as well. <br>\nHappy Holidays! Kristine (Dec 28th) tworaads@aol.com\n\nWe
+    had a fantastic time with Michael in Rhodes.  Not only was he a good driver, but
+    we learned so much from his as well.  We all left him feeling like we would love
+    to experience the same day all over again! <br> Thanks again Orva (Dec 26th)  osschramm@gmail.com\n\nHello
+    Nicholas and Dominic: Our tour, it was everything we could have hoped for. We
+    enjoyed the entire tour and your flexibility and desire to help us. We will certainly
+    recommend you and your company to anyone asking for similar services. <br>\nBest
+    regards,  Libby and Les (Dec 14th)  lesaco@gmail.com\n\nThank you Nicholas for
+    the very interesting tour you gave us.  We all fully enjoyed the day with you.
+    \ You gave us a great deal of information and took us to many memorable areas
+    on this tour.  <br>\nThanks again, Pat, Marie, and Suzy (Dec 8th)  pburnett295@gmail.com
+    \n\nHi Nicholas, We had the best day ever! Manuel was so helpful and kind. Best
+    to your company ☺ <br>Friends from USA. Shelly, Judy, Fred and Sheila (Dec 1st)
+    hellyreed61@gmail.com\n\nDear Nicholas, We are safe and sound back on the ship.
+    Thank you so much for your impeccable, professional, and warm correspondence in
+    coordinating our brief visit - we all had a lovely day and will be departing Rhodes
+    with fond memories. Please extend our thanks to Michael as well; we so enjoyed
+    getting to share a meal with him, hearing about Rhodes, and his safe and courteous
+    guidance through our trip today.    I hope you, your team, and your families have
+    a safe and happy close to the calendar year. <br> Warm regards,  Jeff and family
+    (Nov 26th) maojiataiwan@gmail.com\n\nDear Nicholas - Our visit to your beautiful
+    island was totally enjoyable. Michael was excellent - fun, friendly and very informative.
+    We have given you an EXCELLENT review on TripAdvisor! <br>  Best Regards, Don
+    & Pat (Nov 25th)  donb@plainhookey.com\n\nVoy a expresarme de forma personal,
+    pero hablo también de parte de todos los del grupo.\nLa visita el día de hoy a
+    Rhodas ha sido una de las visitas más memorables de este viaje.\nRhodas, por sí
+    misma, tiene un encanto particular.  Alex hizo que ese encanto a demás de particular
+    fuera dinámico, entrañable, exclusivo y sobretodo sensible.  Su conocimiento,
+    pasión por su tierra y sus orígenes son impresionantes. Manolis, encantador, su
+    habilidad en el volante hizo que tuviéramos un paseo sin sobresaltos.  Les decimos
+    a los dos: MUCHAS GRACIAS!!!  \nCuenta con mis sinceras recomendaciones para quien
+    sepa venga a Rhodas. \nTambién pondré mi comentario en Trip Advisor.<br> \nHa
+    sido un placer haberte conocido.\nMónica (18 de noviembre)  monicarevesz@hotmail.com\n\nNicholas,
+    we had a wonderful tour with Andrew who was exceptional! Thank you for the quality
+    service.<br>\nDonald (Nov 13) dharris5@nycap.rr.com\n\nNicholas, It was an outstanding
+    day with a fabulous tour-driver!  He was very informative, considerate, professional
+    and made our day very enjoyable. Your island is lovely!  I would highly recommend
+    your company. Thank you for making our day on Rhodes so memorable!<br> \nCyndi
+    and Larry (Nov 7th) grammycyndi@gmail.com\n\nWe had a wonderful time!  Stamos
+    was a great driver, as soon as we get home, I will put a review on trip advisor.
+    Thank you.....<br> \nMarilyn (Nov 6th)  tmc351@comcast.net\n\nNicholas, Thank
+    you, the tour by Sergio, and the beauty of Rhodes made it a really wonderful day.
+    \ We were so glad we could invite our new friends to join us, we all had a great
+    time.  If I know anyone else going to Rhodes, I will definitely share your contact
+    information. <br> \nBest, Cyd  (Nov 4th) cyd.friedman@gmail.com\n\nHello Nicholas,
+    We are back in our home now and cherish the memories we made in Rhodes. Our special
+    thanks to Sergio. He was informative and interesting. Your Island is beautiful
+    and we hope to have an opportunity to visit again. <br> With fond memories, Harriet
+    and Larry (Nov 4th)  harrietgallas@gmail.com \n\nNicholas, the tour by Kostas
+    & Illias was fantastic.  Kostas is a fountain of knowledge and you can tell he
+    is very passionate about his country. <br> Glenys (Nov 3rd) grodwell@cogeco.ca\n\nNicholas,
     We really enjoyed our visit to Rhodes and found Michael to be an excellent host!
     We’ve never done a private tour before. You and Michael both set the bar high
     in terms of customer service! <br> Thank you for being part of our trip to Rhodes.
