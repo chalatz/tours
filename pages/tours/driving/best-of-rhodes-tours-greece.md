@@ -112,7 +112,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_7_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_7.jpg"
-    alt: Best Private Tours of Rhodes Greece
+    alt: 'Best Private Tour of Rhodes and Lindos '
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_5_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_5.jpg"
