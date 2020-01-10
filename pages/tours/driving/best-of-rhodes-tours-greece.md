@@ -91,7 +91,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_2_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_2.jpg"
-    alt: Rhodes best private tour guide Greece
+    alt: Rhodes and Lindos Tour, Best private tour guide in Rhodes Greece
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_3_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_3.jpg"
