@@ -8,13 +8,14 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Best of Rhodes and Lindos, Best tours of Rhodes Greece, Best Private tours
-    of Rhodes Island Greece.
-  description: Best of Rhodes and Lindos, Best tours of Rhodes Greece, Best Private
-    tours of Rhodes Island Greece.
-  keywords: Best of Rhodes and Lindos, Best tours of Rhodes Greece, Best Private tours
-    of Rhodes Island Greece
-  abstract: Best Rhodes private tours and shore excursions
+  title: 'Best of Rhodes and Lindos Tour, Best Lindos Tours Best Rhodes and Lindos
+    Private Tour '
+  description: Best of Rhodes and Lindos Tour, Best Lindos Tours Best Rhodes and Lindos
+    Private Tour Greece
+  keywords: Best of Rhodes and Lindos Tour, Best Lindos Tours Best Rhodes and Lindos
+    Private Tour Greece
+  abstract: 'Best of Rhodes and Lindos Tour, Best Lindos Tours Best Rhodes and Lindos
+    Private Tour '
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: ''
