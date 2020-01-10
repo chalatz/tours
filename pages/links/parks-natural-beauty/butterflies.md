@@ -27,7 +27,7 @@ sections:
         Himalaiensis
     - thumb: img/butterflies_valley/valley_of_the_butterflies_2_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_2.jpg
-      alt: Butterflies Valley in Rhodes Greece, Rhodes Tour
+      alt: Butterfliy Valley in Rhodes Greece, Rhodes Tour
       caption: The butterflies camouflaging themselves against the tree trunks
     - thumb: img/butterflies_valley/valley_of_the_butterflies_3_thumb.jpg
       href: img/butterflies_valley/valley_of_the_butterflies_3.jpg
