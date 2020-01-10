@@ -134,7 +134,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_15_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_15.jpg"
-    alt: Best Taxi Tours of Rhodes Island
+    alt: 'Best Lindos Rhodes Tours '
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_17_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_17.jpg"
