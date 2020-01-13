@@ -7,11 +7,11 @@ permalink: rhodes_island_Greece_private_tours.htm
 has_form: false
 has_gallery: false
 meta:
-  title: Rhodes Private Driver Tours, Driving Tours in Rhodes Island Greece
-  http_desc: Rhodes Private Driver Tours, Driving Tours in Rhodes Island Greece
-  description: Rhodes Private Driver Tours, Driving Tours in Rhodes Island Greece
-  keywords: Rhodes Private Driver Tours, Driving Tours in Rhodes Island Greece
-  abstract: Rhodes Private Driver Tours, Driving Tours in Rhodes Island Greece
+  title: Destinations in Rhodes Greece, Rhodes Destinations. Rhodes Greece Destinations
+  http_desc: Destinations in Rhodes Greece, Rhodes Destinations. Rhodes Greece Destinations and Attractions
+  description: Destinations in Rhodes Greece, Rhodes Destinations. Rhodes Greece Destinations and Attractions, Places to visit
+  keywords: Destinations in Rhodes Greece, Rhodes Destinations. Attractions
+  abstract: Destinations in Rhodes Greece, Rhodes Destinations
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: PRIVATE CHAUFFEURED TOURS
