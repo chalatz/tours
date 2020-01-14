@@ -55,68 +55,46 @@ details:
     desc: Hotel / Port / Airport (Meeting point varies depending on option booked)
 gallery:
   group_1:
-  - thumb: "./img/Tour1/map_of_rhodes_mod.jpg"
-    href: "./img/rhodes_maps/map_of_rhodes_mod_1_zoomed.jpg"
-    alt: 'Best of Rhodes and Lindos Tour, Best Lindos Tours '
+  - thumb: "./img/Tour12/A-thumb.jpg"
+    href: "./img/Tour12/A.jpg"
+    alt: 'Lindos Beach, Rhodes Custom Tour'
     position: first
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_1_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_1.jpg"
-    alt: 'Best Lindos Rhodes Private Tour '
+  - thumb: "./img/Tour12/B-thumb.jpg"
+    href: "./img/Tour12/B.jpg"
+    alt: 'Grand Master Palace, Custom Tours in Rhodes Greece'
     position: following
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_2_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_2.jpg"
-    alt: Rhodes and Lindos Tour, Best private tour guide in Rhodes Greece
+  - thumb: "./img/Tour12/C-thumb.jpg"
+    href: "./img/Tour12/C.jpg"
+    alt: 'Lindos Village, Rhodes Tailored-made Tours'
     position: following
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_3_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_3.jpg"
-    alt: 'Rhodes and Lindos Private Tour  '
+  - thumb: "./img/Tour12/D-thumb.jpg"
+    href: "./img/Tour12/D.jpg"
+    alt: 'Charaki Village, Seaside Restaurant, Rhodes Custom Private Tours'
     position: following
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_4_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_4.jpg"
-    alt: Lindos Rhodes Tour, Best driver guide in Rhodes
+  - thumb: "./img/Tour12/E-thumb.jpg"
+    href: "./img/Tour12/E.jpg"
+    alt: 'Filerimos, Rhodes Custom-made Tours'
     position: following
   group_2:
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_8_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_8.jpg"
-    alt: Best private tours of Rhodes Island
+  - thumb: "./img/Tour12/F-thumb.jpg"
+    href: "./img/Tour12/F.jpg"
+    alt: 'Private Custom Tours in Rhodes Greece'
     position: first
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_6_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_6.jpg"
-    alt: Best Tours of Lindos and Rhodes Town
+  - thumb: "./img/Tour12/G-thumb.jpg"
+    href: "./img/Tour12/G.jpg"
+    alt: 'Ancient Theatre, Custom Tours in Rhodes Greece'
     position: following
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_7_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_7.jpg"
-    alt: 'Best Private Tour of Rhodes and Lindos '
+  - thumb: "./img/Tour12/H-thumb.jpg"
+    href: "./img/Tour12/H.jpg"
+    alt: 'Valley of the Butterflies, Rhodes Greece Custom Tour'
     position: following
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_5_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_5.jpg"
-    alt: Best tours of Rhodes Greece
+  - thumb: "./img/Tour12/I-thumb.jpg"
+    href: "./img/Tour12/I.jpg"
+    alt: 'Kritinia Castle, Private Custom Tours in Rhodes'
     position: following
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_9_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_9.jpg"
-    alt: Best of Rhodes and Lindos Private Tour
-    position: following
-  group_3:
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_10_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_10.jpg"
-    alt: Rhodes Lindos Tour, Best Rhodes and Lindos Private Tours Best private shore
-      tours of Rhodes Island
-    position: first
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_12_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_12.jpg"
-    alt: 'Best Allure Tours in Rhodes '
-    position: following
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_15_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_15.jpg"
-    alt: 'Best Lindos Rhodes Tours '
-    position: following
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_17_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_17.jpg"
-    alt: Best Rhodes Private Taxi Tours
-    position: following
-  - thumb: "./img/Tour1/best_of_rhodes_tours_greece_20_thumb.jpg"
-    href: "./img/Tour1/best_of_rhodes_tours_greece_20.jpg"
-    alt: 'Best Rhodes Greece Tours '
+  - thumb: "./img/Tour12/J-thumb.jpg"
+    href: "./img/Tour12/J.jpg"
+    alt: 'Monolithos Castle, Rhodes Tailored-made Tours'
     position: following
 faq:
   items:
