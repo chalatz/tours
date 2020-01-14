@@ -20,7 +20,7 @@ reviews:
     your help awesome service!  Have an amazing 2020! <br>\nThanks Christian,  (Jan
     12th) Mexico \n\nThank you to Micheal for his expertise and the knowledge you
     shared with us. Plus your humor which we greatly appreciated. We wish you all
-    a great New Year. <br>\nKind regards Gregor and Vicky (Jan 3rd) Portugal \n\nNicholas,
+    a great New Year.  Kind regards Gregor and Vicky (Jan 3rd) Portugal \n\nNicholas,
     We had such a wonderful time in Rhodes and your company provided outstanding service!
     . Kostas and Manolis were amazing and especially helpful. It was one of our favorite
     trips and destinations yet. Please pass on my sincere thanks and best wishes to
