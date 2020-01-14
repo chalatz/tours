@@ -2,7 +2,6 @@
 layout: tour
 type: driving_tours_page
 id: custom_tours
-ref: custom_tours
 permalink: rhodes-custom-tours.htm
 has_form: true
 has_gallery: true
@@ -107,8 +106,6 @@ faq:
       the famous handmade <span class="link_inline"><a href="handmade_pottery_greece.htm">Rhodes
       Pottery, Ceramics</a></span>, and the beautiful <span class="link_inline"><a
       href="beach_tour_of_rhodes.htm">Rhodes Beaches</a></span>
-  - q: I have read some of the reviews & I am sure we'll also have fun.
-    a: No comments!
 included:
   items:
   - text: Private Tour (just your party)

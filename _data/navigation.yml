@@ -37,6 +37,8 @@ main:
           url: './island_tour.htm'
         - title: Lindos on Your Own-DT11
           url: './lindos-on-your-own.htm'
+        - title: Rhodes Custom Tour-DT12
+          url: './rhodes-custom-tours.htm'
     - title: GUIDED TOURS
       url: './guided_tours.htm'
       type: guided_tours_page

@@ -97,6 +97,7 @@ sections:
 subtitle: ''
 related_tours:
 - Rhodes Nature Tour-DT9
+- Rhodes Custom Tour-DT12
 - Natural Attractions-GT7
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized

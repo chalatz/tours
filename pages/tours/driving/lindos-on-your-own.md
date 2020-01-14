@@ -2,7 +2,6 @@
 layout: tour
 type: driving_tours_page
 id: lindos_on_your_own
-ref: lindos_on_your_own
 permalink: lindos-on-your-own.htm
 has_form: true
 has_gallery: true

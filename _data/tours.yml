@@ -85,3 +85,11 @@
   itinerary: ''
   duration: 'Duration: 5:00 hours'
   id: lindos_on_your_own
+
+- name: 'Rhodes Custom Tour-DT12'
+  desc: 'Half Day or Full Day'
+  url: ./rhodes-custom-tours.htm
+  img: '' 
+  itinerary: ''
+  duration: 'Duration: 5:00 hours - 8:00 hours'
+  id: custom_tours

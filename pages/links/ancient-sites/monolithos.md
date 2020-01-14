@@ -121,6 +121,7 @@ sections:
 subtitle: ''
 related_tours:
 - South West Coast Tour-DT8
+- Rhodes Custom Tour-DT12
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
     Tour Experiences. We deliver Private Custom Tours at very affordable rates. All

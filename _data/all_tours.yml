@@ -53,6 +53,11 @@
   id: lindos_on_your_own
   type: driving
 
+- name: 'Rhodes Custom Tour-DT12'
+  url: ./rhodes-custom-tours.htm
+  id: custom_tours
+  type: driving
+
 - name: 'Best Attractions-GT1'
   url: ./best_attractions_in_rhodes.htm
   id: guided_best_attractions

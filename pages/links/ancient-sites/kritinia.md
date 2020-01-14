@@ -123,6 +123,7 @@ subtitle: ''
 related_tours:
 - South West Coast Tour-DT8
 - Through the Island-DT10
+- Rhodes Custom Tour-DT12
 - Rhodes Landscape Tour-GT8
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized

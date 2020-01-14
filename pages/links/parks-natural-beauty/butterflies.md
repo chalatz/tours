@@ -73,6 +73,7 @@ related_tours:
 - Rhodes Full Day-DT2
 - Rhodes West Coast-DT3
 - Rhodes Kids Tour-DT6
+- Rhodes Custom Tour-DT12
 - Natural Attractions-GT7
 - Rhodes Scenic Tour-GT9
 end_page:

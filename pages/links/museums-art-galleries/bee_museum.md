@@ -100,6 +100,7 @@ sections:
 subtitle: ''
 related_tours:
 - Rhodes Kids Tour-DT6
+- Rhodes Custom Tour-DT12
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
     Tour Experiences. We deliver Private Sightseeing Tours at very affordable rates.

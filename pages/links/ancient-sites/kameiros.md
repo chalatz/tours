@@ -155,6 +155,7 @@ subtitle: ''
 related_tours:
 - Rhodes West Coast-DT3
 - South West Coast Tour-DT8
+- Rhodes Custom Tour-DT12
 - West Coast of Rhodes-GT3
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
