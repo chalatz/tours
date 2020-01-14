@@ -2,7 +2,7 @@ items:
   - name: 'BEST OF RHODES-DT1'
     desc: 'Ideal for cruise ship passengers and first-time visitors'
     long_desc: 'Highly suggested for cruise ship passengers with limited schedules, and first-time visitors. This Half Day Private Tour includes the highlights of Rhodes Medieval-town (World Heritage Site). The New-town, the Acropolis of Rhodes, the East Coast of the Island, and the Village and Acropolis of Lindos 50km (32mi) south east of Rhodes town.'
-    notes: 'Suggested time for this tour: All the year round'
+    notes: 'Suggested time for this tour: All year round'
     url: ./best_of_rhodes_tours_greece.htm
     img: './img/tours-suggestions/DT1.jpg' 
     duration: 'Duration: 5:00 hours'
@@ -32,7 +32,7 @@ items:
   - name: 'RHODES JEWISH SIGHTS-DT4'
     desc: 'Perfect for those who are interested in the Jewish community of Rhodes'
     long_desc: 'Perfect for those who are interested in the Jewish community of Rhodes. This tour includes Rhodes New-town, the Jewish Quarter in the Old Town, the "Kahal Shalom” Synagogue, and Jewish Museum, the Jewish Cemetery, and the Acropolis of Lindos.'
-    notes: 'Suggested time for this tour: All the year round'
+    notes: 'Suggested time for this tour: All year round'
     url: ./Jewish_sites_tours_greece.htm
     img: './img/tours-suggestions/DT4.jpg' 
     duration: 'Duration: 6:00 hours'
@@ -82,7 +82,7 @@ items:
 
   - name: 'South West Coast Tour-DT8'
     long_desc: 'Highly suggest for those staying on Rhodes for longer period and want to discover this part of the island. This is tour include the West Coast of the island, Filerimos, Ancient city of Kamiros, Castle of Kritinia, Castle of Monolithos, and Embona village for lunch.'
-    notes: 'Suggested time for this tour: All the year round'
+    notes: 'Suggested time for this tour: All year round'
     url: ./south_west_coast.htm
     img: './img/tours-suggestions/DT8.jpg' 
     duration: 'Duration: 7:00 hours'
@@ -109,7 +109,7 @@ items:
 
   - name: 'Lindos on Your Own-DT11'
     long_desc: 'For those of you wish to visit Lindos on their own pace this tour is perfect. This private tour combines fabulous scenery with plenty of time (3:00 hours) in Lindos. You’ll get to see the best of Rhodes’ destination on your own pace'
-    notes: 'Suggested time for this tour: All the year round'
+    notes: 'Suggested time for this tour: All year round'
     url: ./lindos-on-your-own.htm
     img: './img/tours-suggestions/DT11.jpg'
     duration: 'Duration: 5:00 hours'
@@ -117,10 +117,10 @@ items:
     home_page: false
     
   - name: 'Rhodes Custom Tour-DT12'
-    long_desc: '"Rhodes Private Tours" has been offering group custom tours for decades now. We have a fleet of dedicated tour guides and vehicles to help you get a great tour every single time.'
-    notes: 'Suggested time for this tour: All the year round'
+    long_desc: 'Your Special, Custom Tour that can be Tailored According to Your Needs. We are well known for providing Historical, Informative, Enjoyable and Memorable Shore Tours!  Whatever your interests (food, culture, history), let us know and we will plan an itinerary along that theme'
+    notes: 'Suggested time for this tour: All year round'
     url: ./rhodes-custom-tours.htm
     img: './img/tours-suggestions/DT12.jpg'
-    duration: 'Duration: 5:00 hours - 8:00 hours'
+    duration: 'Duration: 5:00 - 8:00 hours'
     id: custom_tours
     home_page: false
