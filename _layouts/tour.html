@@ -21,22 +21,30 @@ layout: default
                 {{- page.tour.summary -}}
             </p>
         {%- endif -%}
-        {%- assign summary_paragraphs_size = page.summary.paragraphs | size -%}
-        {%- if summary_paragraphs_size > 0 -%}
-            {% for paragraph in page.summary.paragraphs %}
-                <p class="tour__summary">
-                    {{- paragraph -}}
-                </p>
-            {% endfor %}        
-        {%- endif -%}
+
+        {%- unless page.description_at_the_top == true -%}
+            {%- assign summary_paragraphs_size = page.summary.paragraphs | size -%}
+            {%- if summary_paragraphs_size > 0 -%}
+                {% for paragraph in page.summary.paragraphs %}
+                    <p class="tour__summary">
+                        {{- paragraph -}}
+                    </p>
+                {% endfor %}        
+            {%- endif -%}
+        {%- endunless -%}
     </header>
+
+    {%- if page.description_at_the_top == true -%}
+        <section class="section container">
+            {{ content }}
+        </section>
+    {%- endif -%}
 
     {%- assign overview_items_size = page.overview.items | size -%}
     {%- if page.overview and overview_items_size > 0 -%}
         <section class="section container">
             <h3 class="tour__h3">
-                {%- include helpers/check_empty_string.html the_string = page.tour.duration -%}
-                Private Tour Overview {% if page.tour.duration and string_not_empty %}- {{ page.tour.duration }} {% endif %}
+                Private Tour Overview {% if page.tour.duration and page.tour.duration.size > 0 %}- {{ page.tour.duration }} {% endif %}
             </h3>
 
             <ul class="tour__overview-list">
@@ -96,40 +104,43 @@ layout: default
         {%- assign has_description = true -%}
     {%- endif -%}
 
-    {%- if has_description == true -%}        
-        <section class="section container">
+    {%- if has_description == true -%}
+        {%- unless page.description_at_the_top -%}
+            <section class="section container">
 
-            <h3 class="tour__h3">
-                Private Tour Description: 
-            </h3>
+                <h3 class="tour__h3">
+                    Private Tour Description: 
+                </h3>
 
-            <div class="tour__content-wrapper">
+                <div class="tour__content-wrapper">
 
-                <div class="tour__read-more">
-                    <span class="tour__read-more--content">
-                        <span class="text">Read</span> Description <i class="tour__read-more-arrow-icon icon fas fa-angle-down"></i>
-                    </span>
+                    <div class="tour__read-more">
+                        <span class="tour__read-more--content">
+                            <span class="text">Read</span> Description <i class="tour__read-more-arrow-icon icon fas fa-angle-down"></i>
+                        </span>
+                    </div>
+
+                    <div class="tour__content collapsible">
+
+                        {%- if page.body -%}
+                            {%- for item in page.body -%}
+                                {%- if item.text -%}
+                                    {{ item.text | markdownify }}   
+                                {%- endif -%}
+                                {%- if item.gallery -%}
+                                    {% include partials/tour-gallery.html gallery = item.gallery %}
+                                {%- endif -%}
+                            {%- endfor -%}
+                        {%- endif -%}
+                        {%- unless page.description_at_the_top == true -%}
+                            {{ content }}
+                        {%- endunless -%}
+                    </div>
+
                 </div>
 
-                <div class="tour__content collapsible">
-
-                    {%- if page.body -%}
-                        {%- for item in page.body -%}
-                            {%- if item.text -%}
-                                {{ item.text | markdownify }}   
-                            {%- endif -%}
-                            {%- if item.gallery -%}
-                                {% include partials/tour-gallery.html gallery = item.gallery %}
-                            {%- endif -%}
-                        {%- endfor -%}
-                    {%- endif -%}
-
-                    {{ content }}
-                </div>
-
-            </div>
-
-        </section>
+            </section>
+        {%- endunless -%}
     {%- endif -%}
 
     {%- if page.gallery.group_3 -%}
