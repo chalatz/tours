@@ -384,3 +384,14 @@ img.media-object {
 iframe {
     max-width: 100%;
 }
+
+.md-content {
+    h4 {
+        text-align: center;
+        font-weight: normal;
+        font-size: 1.2rem;
+    }
+    li {
+        line-height: 1.6;
+    }
+}
