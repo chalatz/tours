@@ -132,18 +132,16 @@ end_page:
   short_text: 'Experts in Rhodes Tours   '
 
 ---
-{:.centered}
-
-###### Your Special, Custom Tour that can be Tailored According to Your Needs
-
 "Rhodes Private Tours" has been offering group custom tours for decades now. We have a fleet of dedicated tour guides and vehicles to help you get a great tour every single time.   We exclusively specialize in the Rhodes Island our vast experience ensures that you get to enjoy the treasures of Rhodes first-hand. Our customized tours are specifically designed to accommodate your needs, ensuring that your trip matches your schedule and preferences perfectly. Private custom tours can be modified based on the group size and more. With Rhodes Private Tours, your needs come first.
 
-###### {:.centered}
+###### 
+
 Designing Your Custom Trip
 
 Based on your interests, we offer different tour types that are designed to accommodate all your interests. We make sure to offer comfort and style in our services. Tour options also include things such as: Wine and Food Tours -- Experience the food of the island, Culture tours -- See what makes Rhodes so unique, History -- Learn more about the landmarks and history of this place. We also offer completely customized tour options. All you have to do is let us know what you want to see in Rhodes!  Whatever your interests are, we will make sure to develop a custom itinerary that includes them all.
 
-###### {:.centered}
+###### 
+
 Our Custom Booking Process
 
 We have a simple and easy process to make things as convenient as possible for you. This makes it easier to get the tour that you want. All you have to do is follow these steps:
@@ -158,7 +156,6 @@ We have a simple and easy process to make things as convenient as possible for y
 
 Once we have all these details, we will come with a rough draft of your itinerary that includes various activities and options that will help you plan the best tour for Rhodes.   We offer 100% flexibility in this matter. You can either take your time to approve the tour outline or you can get modifications made. We're more than happy to accommodate any changes you have in mind. Our tour team members are so skilled that they can even accommodate changes even when the tour is in progress.
 
-###### {:.centered}
 Tour Ideas to Try
 
 Not sure what you can see in Rhodes? Here are just a few of the things that you can see in this island: Major landmarks and highlights of Rhodes, Wine Tasting -- Completely free,   Guided Historical Tours - With a specialized tour guides, Beach Tours, Walking Tours, Shopping and more.   These are just some of the things that you can include in your customized tour of Rhodes. With our help, you will get the perfect custom tour that will be a memorable option for you and your family!
