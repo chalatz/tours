@@ -90,6 +90,8 @@ sections:
   label: Partners
   create: documents
   match: "**/*"
+  templates:
+  - partners
 - type: heading
   label: Spanish Tours
 - type: directory
