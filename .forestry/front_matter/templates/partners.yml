@@ -5,15 +5,19 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: partner
+  hidden: true
 - type: text
   name: permalink
-  label: permalink
+  label: URL
 - type: boolean
   name: has_gallery
   label: has_gallery
+  hidden: true
 - type: text
   name: id
   label: id
+  hidden: true
 - type: field_group
   name: meta
   label: meta
