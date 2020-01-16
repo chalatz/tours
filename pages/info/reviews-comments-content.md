@@ -16,7 +16,11 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2020"
-  text: ''
+  text: "Thanks Nicholas, Manuel was great and the tour was truly amazing. We appreciate
+    your help awesome service!  Have an amazing 2020! <br>\nThanks Christian,  (Jan
+    12th) Mexico \n\nThank you to Micheal for his expertise and the knowledge you
+    shared with us. Plus your humor which we greatly appreciated. We wish you all
+    a great New Year.  Kind regards Gregor and Vicky (Jan 3rd) Portugal "
 - year: "2019"
   text: "Nicholas, We had such a wonderful time in Rhodes and your company provided
     outstanding service! . Kostas and Manolis were amazing and especially helpful.
