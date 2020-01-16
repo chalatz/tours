@@ -18,41 +18,36 @@ reviews:
 - year: "2020"
   text: ''
 - year: "2019"
-  text: "Thanks Nicholas, Manuel was great and the tour was truly amazing. We appreciate
-    your help awesome service!  Have an amazing 2020! <br>\nThanks Christian,  (Jan
-    12th) Mexico \n\nThank you to Micheal for his expertise and the knowledge you
-    shared with us. Plus your humor which we greatly appreciated. We wish you all
-    a great New Year.  Kind regards Gregor and Vicky (Jan 3rd) Portugal \n\nNicholas,
-    We had such a wonderful time in Rhodes and your company provided outstanding service!
-    . Kostas and Manolis were amazing and especially helpful. It was one of our favorite
-    trips and destinations yet. Please pass on my sincere thanks and best wishes to
-    them as well. <br>\nHappy Holidays! Kristine (Dec 28th) Michigan, USA\n\nWe had
-    a fantastic time with Michael in Rhodes.  Not only was he a good driver, but we
-    learned so much from his as well.  We all left him feeling like we would love
-    to experience the same day all over again! <br> Thanks again Orva (Dec 26th)  Laguna
-    Hills CA, USA\n\nHello Nicholas and Dominic: Our tour, it was everything we could
-    have hoped for. We enjoyed the entire tour and your flexibility and desire to
-    help us. We will certainly recommend you and your company to anyone asking for
-    similar services. <br>\nBest regards,  Libby and Les (Dec 14th)  Seattle, USA\n\nThank
-    you Nicholas for the very interesting tour you gave us.  We all fully enjoyed
-    the day with you.  You gave us a great deal of information and took us to many
-    memorable areas on this tour.  <br>\nThanks again, Pat, Marie, and Suzy (Dec 8th)
-    USA \n\nHi Nicholas, We had the best day ever! Manuel was so helpful and kind.
-    Best to your company ☺ <br>Shelly, Judy, Fred and Sheila Friends from USA (Dec
-    1st) \n\nDear Nicholas, We are safe and sound back on the ship. Thank you so much
-    for your impeccable, professional, and warm correspondence in coordinating our
-    brief visit - we all had a lovely day and will be departing Rhodes with fond memories.
-    Please extend our thanks to Michael as well; we so enjoyed getting to share a
-    meal with him, hearing about Rhodes, and his safe and courteous guidance through
-    our trip today.    I hope you, your team, and your families have a safe and happy
-    close to the calendar year. <br> Warm regards,  Jeff and family (Nov 26th) USA\n\nDear
-    Nicholas - Our visit to your beautiful island was totally enjoyable. Michael was
-    excellent - fun, friendly and very informative. We have given you an EXCELLENT
-    review on TripAdvisor! <br>  Best Regards, Don & Pat (Nov 25th)  Leavenworth WA
-    USA\n\nVoy a expresarme de forma personal, pero hablo también de parte de todos
-    los del grupo.\nLa visita el día de hoy a Rhodas ha sido una de las visitas más
-    memorables de este viaje.\nRhodas, por sí misma, tiene un encanto particular.
-    \ Alex hizo que ese encanto a demás de particular fuera dinámico, entrañable,
+  text: "Nicholas, We had such a wonderful time in Rhodes and your company provided
+    outstanding service! . Kostas and Manolis were amazing and especially helpful.
+    It was one of our favorite trips and destinations yet. Please pass on my sincere
+    thanks and best wishes to them as well. <br>\nHappy Holidays! Kristine (Dec 28th)
+    Michigan, USA\n\nWe had a fantastic time with Michael in Rhodes.  Not only was
+    he a good driver, but we learned so much from his as well.  We all left him feeling
+    like we would love to experience the same day all over again! <br> Thanks again
+    Orva (Dec 26th)  Laguna Hills CA, USA\n\nHello Nicholas and Dominic: Our tour,
+    it was everything we could have hoped for. We enjoyed the entire tour and your
+    flexibility and desire to help us. We will certainly recommend you and your company
+    to anyone asking for similar services. <br>\nBest regards,  Libby and Les (Dec
+    14th)  Seattle, USA\n\nThank you Nicholas for the very interesting tour you gave
+    us.  We all fully enjoyed the day with you.  You gave us a great deal of information
+    and took us to many memorable areas on this tour.  <br>\nThanks again, Pat, Marie,
+    and Suzy (Dec 8th) USA \n\nHi Nicholas, We had the best day ever! Manuel was so
+    helpful and kind. Best to your company ☺ <br>Shelly, Judy, Fred and Sheila Friends
+    from USA (Dec 1st) \n\nDear Nicholas, We are safe and sound back on the ship.
+    Thank you so much for your impeccable, professional, and warm correspondence in
+    coordinating our brief visit - we all had a lovely day and will be departing Rhodes
+    with fond memories. Please extend our thanks to Michael as well; we so enjoyed
+    getting to share a meal with him, hearing about Rhodes, and his safe and courteous
+    guidance through our trip today.    I hope you, your team, and your families have
+    a safe and happy close to the calendar year. <br> Warm regards,  Jeff and family
+    (Nov 26th) USA\n\nDear Nicholas - Our visit to your beautiful island was totally
+    enjoyable. Michael was excellent - fun, friendly and very informative. We have
+    given you an EXCELLENT review on TripAdvisor! <br>  Best Regards, Don & Pat (Nov
+    25th)  Leavenworth WA USA\n\nVoy a expresarme de forma personal, pero hablo también
+    de parte de todos los del grupo.\nLa visita el día de hoy a Rhodas ha sido una
+    de las visitas más memorables de este viaje.\nRhodas, por sí misma, tiene un encanto
+    particular.  Alex hizo que ese encanto a demás de particular fuera dinámico, entrañable,
     exclusivo y sobretodo sensible.  Su conocimiento, pasión por su tierra y sus orígenes
     son impresionantes. Manolis, encantador, su habilidad en el volante hizo que tuviéramos
     un paseo sin sobresaltos.  Les decimos a los dos: MUCHAS GRACIAS!!!  \nCuenta
