@@ -86,6 +86,15 @@ sections:
   create: all
   match: "**/*"
 - type: heading
+  label: Partners
+- type: directory
+  path: pages/partners
+  label: Partners
+  create: documents
+  match: "**/*"
+  templates:
+  - partners
+- type: heading
   label: Spanish Tours
 - type: directory
   path: es_pages/tours
