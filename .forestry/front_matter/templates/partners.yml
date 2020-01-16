@@ -1,0 +1,47 @@
+---
+label: Partners
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: boolean
+  name: has_gallery
+  label: has_gallery
+- type: text
+  name: id
+  label: id
+- type: field_group
+  name: meta
+  label: meta
+  fields:
+  - type: textarea
+    name: title
+    label: title
+  - type: textarea
+    name: http_desc
+    label: http_desc
+  - type: textarea
+    name: keywords
+    label: keywords
+  - type: textarea
+    name: description
+    label: description
+  - type: text
+    name: abstract
+    label: abstract
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: copyright
+    label: copyright
+- type: text
+  name: title
+  label: title
+- type: list
+  name: subtitles
+  label: subtitles
