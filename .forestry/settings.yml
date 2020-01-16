@@ -4,11 +4,6 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: pages/partners
-  label: Partners
-  create: documents
-  match: "**/*"
 - type: heading
   label: Data
 - type: document
@@ -89,6 +84,11 @@ sections:
   path: pages/quick-facts
   label: Quick Facts about Rhodes
   create: all
+  match: "**/*"
+- type: directory
+  path: pages/partners
+  label: Partners
+  create: documents
   match: "**/*"
 - type: heading
   label: Spanish Tours
