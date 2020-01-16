@@ -85,6 +85,8 @@ sections:
   label: Quick Facts about Rhodes
   create: all
   match: "**/*"
+- type: heading
+  label: Partners
 - type: directory
   path: pages/partners
   label: Partners
