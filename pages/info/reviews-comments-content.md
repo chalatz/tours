@@ -15,6 +15,8 @@ subtitle: We have been offering our high standard Private Tour Services since 19
   and we've been online since 1998
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
+- year: "2020"
+  text: ''
 - year: "2019"
   text: "Thanks Nicholas, Manuel was great and the tour was truly amazing. We appreciate
     your help awesome service!  Have an amazing 2020! <br>\nThanks Christian,  (Jan
