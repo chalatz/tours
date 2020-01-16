@@ -105,7 +105,7 @@ items:
         url: ./custom.htm
         id: site_water_park
       # - name: Best Beaches in Rhodes
-      #   url: ./best_beaches.htm
+      #   url: ./best_beaches_rhodes.htm
       #   id: site_best_beaches
 
   - title: Museums and Art Galleries
@@ -169,7 +169,7 @@ beaches:
   title: Crystal Waters in Rhodes
   subtitle:
     text: Best Beaches in Rhodes
-    link: ./best_beaches.htm
+    link: ./best_beaches_rhodes.htm
     id: site_best_beaches
   items:
   - name: Elli Beach Rhodes

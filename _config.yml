@@ -49,7 +49,7 @@ markdown: kramdown
 # theme: minima
 plugins:
   - jekyll-sitemap
-
+  - jekyll-redirect-from
 
 google_analytics: UA-1499974-1
 

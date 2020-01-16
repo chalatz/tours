@@ -145,7 +145,7 @@ faq:
   - q: Are all the beaches in Rhodes organized?
     a: Most of the beaches are very well organized with sun beds, parasols, changing
       rooms, restaurants or bars and turquoise blue water, while others offer only
-      the basic amenities. For more info please visit <a href="./best_beaches.htm">Rhodes
+      the basic amenities. For more info please visit <a href="./best_beaches_rhodes.htm">Rhodes
       Beaches</a>
   - q: How long will we stay in Lindos village?
     a: Usually we spend one hour in Lindos, but it depends on you for how long you

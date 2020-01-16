@@ -1,6 +1,8 @@
 ---
 layout: photo-tour
-permalink: best_beaches.htm
+permalink: best_beaches_rhodes.htm
+redirect_from:
+  - best_beaches.htm
 banners_below: true
 has_gallery: true
 id: site_best_beaches
