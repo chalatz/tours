@@ -123,5 +123,6 @@ layout: default
     {% include home/recommendations-1.html %}
 {%- endif -%}
 
-
-{%- include partials/preload_photo_tour.html -%}
+{%- unless page.no_gallery_links == true -%}
+    {%- include partials/preload_photo_tour.html -%}
+{%- endunless -%}

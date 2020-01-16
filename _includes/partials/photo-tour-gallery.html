@@ -4,7 +4,9 @@
         <div class="photo-tour__micro-row">
     {%- endif -%}
     <figure class="photo-tour__gallery-figure">
-        {%- if figure.is_link == true -%}
+        {%- if page.no_gallery_links == true -%}
+            <img src="{{- figure.thumb -}}" alt="{{- figure.alt -}}" class="photo-tour__gallery-img">
+        {%- elsif figure.is_link == true -%}
             <a class="photo-tour__gallery-link" href="{{- figure.url -}}"{% if figure.new_window == true %}target="_blank"{% endif %}>
                 <img src="{{- figure.thumb -}}" alt="{{- figure.alt -}}" class="photo-tour__gallery-img">
             </a>
