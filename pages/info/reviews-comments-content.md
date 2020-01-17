@@ -6,7 +6,7 @@ meta:
   title: Reviews, Rhodes Private Tours Reviews
   http_desc: Reviews, Rhodes Private Tours Reviews
   description: Reviews, Rhodes Private Tours Reviews
-  keywords: Reviews, Rhodes Private Tours Reviews
+  keywords: Reviews, Rhodes Private Tours, Reviews
   abstract: Rhodes Private Tours Reviews
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
