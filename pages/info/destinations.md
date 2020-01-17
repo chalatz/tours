@@ -7,36 +7,33 @@ has_form: false
 has_gallery: false
 meta:
   title: Destinations in Rhodes Greece, Best Rhodes Destinations
-  http_desc: Destinations in Rhodes Greece, Best Rhodes Destinations, Rhodes Attractions and Places to Visit
-  description: Destinations in Rhodes Greece, Best Rhodes Destinations, Rhodes Attractions and Places to Visit, Things to do and see in Rhodes
-  keywords: Destinations in Rhodes Greece, Best Rhodes Destinations. Attractions, Places, Thigs to do
+  http_desc: Destinations in Rhodes Greece, Best Rhodes Destinations, Rhodes Attractions
+    and Places to Visit
+  description: Destinations in Rhodes Greece, Best Rhodes Destinations, Rhodes Attractions
+    and Places to Visit, Things to do and see in Rhodes
+  keywords: Destinations in Rhodes Greece, Best Rhodes Destinations. Attractions,
+    Places, Thigs to do
   abstract: Destinations in Rhodes Greece, Best Rhodes Destinations
-  author: 'Nick'
-  copyright: 'NK for Rhodes Private Tours,2018'
-
-title: 'Destinations in Rhodes Greece'
-subtitle: 'RHODES UNIQUE ATTRACTIONS AND NATURAL BEAUTY'  
-
+  author: Nick
+  copyright: NK for Rhodes Private Tours,2018
+title: Destinations in Rhodes Greece
+subtitle: RHODES UNIQUE ATTRACTIONS AND NATURAL BEAUTY
 head_photo:
-  src: ./img/pages/destinations/destinations-head-photo.jpg
-  alt: 'Rhodes Island Destinations'   
-
+  src: "./img/pages/destinations/destinations-head-photo.jpg"
+  alt: Rhodes Island Destinations
 sections:
-  
-  - gallery:
-      items_per_row: 3
-      from: 1
-      to: 3
-
-  - gallery:
-      items_per_row: 3
-      from: 4
-      to: 6
-
+- gallery:
+    items_per_row: 3
+    from: 1
+    to: 3
+- gallery:
+    items_per_row: 3
+    from: 4
+    to: 6
 links:
-  - driving_tours
-  - guided_tours
-  - walking_tours
+- driving_tours
+- guided_tours
+- walking_tours
 
 ---
 The spectacular Rhode Island is known by many names. It's **the Island of Helios** (the Sun God), **the Island of the Knights** and even **the Pearl of the Mediterranean Sea**. It's many cosmopolitan, traditional, cultural and historical sites warrant the multitude of names. The island is home to clean beaches, **great recreational activities** and **tourist sites for the entire family**.

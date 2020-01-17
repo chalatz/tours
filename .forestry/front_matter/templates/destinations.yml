@@ -30,3 +30,5 @@ fields:
 - type: text
   name: title
   label: title
+pages:
+- pages/info/destinations.md
