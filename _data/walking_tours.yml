@@ -1,7 +1,7 @@
 items:
   - name: 'Old Town Walking Tour-WT1'
     long_desc: 'For those who love Medieval history and like to get a complete overview of Rhodes Medieval City, including a visit to Grand Masters Palace'
-    notes: 'Suggested time for this tour: All the year round'
+    notes: 'Suggested time for this tour: All year round'
     url: ./old_town_walking_tour.htm
     img: './img/tours-suggestions/WT1.jpg' 
     duration: 'Duration: 3:00 hours'
@@ -9,7 +9,7 @@ items:
 
   - name: 'Knights Hospitallers-WT2'
     long_desc: 'Ideal for those who like the mediaeval military architecture of the Knights of St John Hospitallers, including a visit to Grand Masters Palace'
-    notes: 'Suggested time for this tour: All the year round'
+    notes: 'Suggested time for this tour: All year round'
     url: ./knights_hospitallers.htm
     img: './img/tours-suggestions/WT2.jpg' 
     duration: 'Duration: 3:00 hours'
