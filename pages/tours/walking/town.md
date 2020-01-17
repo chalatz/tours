@@ -8,15 +8,15 @@ has_gallery: true
 is_of: walking_tours
 meta:
   title: Rhodes Old Town Walking Tour, Rhodes Old City Walking Tours
-  description: RHODES OLD TOWN WALKING TOUR, Rhodes Walking Tours, Rhodes old town
-    wall walk
-  keywords: Rhodes Old Town Walking Tour, Rhodes Old City Walking Tours, Rhodes Walking
-    Tour, Rhodes Private Tour
+  description: RHODES OLD TOWN WALKING TOUR,  Rhodes Old City Walking Tours, City
+    Walking Tours, Rhodes Private Tour
+  keywords: RHODES OLD TOWN WALKING TOUR,  Rhodes Old City Walking Tours, City Walking
+    Tours, Rhodes Private Tour
   abstract: RHODES OLD TOWN WALKING TOUR
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  http_desc: RHODES OLD TOWN WALKING TOUR,  Rhodes Walking Tour  City Walking Tours,
-    Rhodes Private Tour
+  http_desc: RHODES OLD TOWN WALKING TOUR,  Rhodes Old City Walking Tours, City Walking
+    Tours, Rhodes Private Tour
 title: '"Rhodes Old Town Walking Tour" WT1'
 tour:
   title: '"Rhodes Old Town Walking Tour" WT1'
