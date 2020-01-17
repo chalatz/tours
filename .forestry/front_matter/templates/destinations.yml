@@ -1,0 +1,83 @@
+---
+label: Destinations
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: type
+  label: type
+- type: text
+  name: id
+  label: id
+- type: text
+  name: permalink
+  label: permalink
+- type: boolean
+  name: has_form
+  label: has_form
+- type: boolean
+  name: has_gallery
+  label: has_gallery
+- type: field_group
+  name: meta
+  label: meta
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: http_desc
+    label: http_desc
+  - type: textarea
+    name: description
+    label: description
+  - type: text
+    name: keywords
+    label: keywords
+  - type: text
+    name: abstract
+    label: abstract
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: copyright
+    label: copyright
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: field_group
+  name: head_photo
+  label: head_photo
+  fields:
+  - type: file
+    name: src
+    label: src
+  - type: text
+    name: alt
+    label: alt
+- type: field_group_list
+  name: sections
+  label: sections
+  fields:
+  - type: field_group
+    name: gallery
+    label: gallery
+    fields:
+    - type: number
+      name: items_per_row
+      label: items_per_row
+    - type: number
+      name: from
+      label: from
+    - type: number
+      name: to
+      label: to
+- type: list
+  name: links
+  label: links
