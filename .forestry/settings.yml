@@ -37,7 +37,6 @@ sections:
 - type: document
   path: pages/info/destinations.md
   label: Destinations Page
-  match: "**/*"
 - type: heading
   label: Tours
 - type: directory
