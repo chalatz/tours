@@ -7,21 +7,36 @@
         <meta name="robots" content="noindex,nofollow">
     {%- endif -%}
     <meta name="format-detection" content="telephone=no">
-
-    <title>{{ page.meta.title }}</title>
-
-    {%- if page.meta.http_desc -%}
-        <meta http-equiv="Description" content="{{ page.meta.http_desc }}">
+    {%- if page.id == 'reviews-comments_page' -%}
+        {%- for a_page in site.pages -%}
+            {%- if a_page.id == 'reviews-comments-content' -%}
+                {%- assign reviews_page = a_page -%}
+                {% break %}
+            {%- endif -%}
+        {%- endfor -%}
+        <title>{{ reviews_page.meta.title }}</title>
+        <meta http-equiv="Description" content="{{ reviews_page.meta.http_desc }}">
+        <meta name="keywords" content="{{ reviews_page.meta.keywords }}">
+        <meta name="description" content="{{ reviews_page.meta.description }}">
+        <meta name="abstract" content="{{ reviews_page.meta.abstract }}">
+        <meta name="author" content="{{ reviews_page.meta.author }}" >
+        <meta name="copyright" content="{{ reviews_page.meta.copyright }}">
     {%- else -%}
-        <meta http-equiv="Description" content="{{ page.meta.description }}">
-    {%- endif -%}
-    <meta name="keywords" content="{{ page.meta.keywords }}">
-    <meta name="description" content="{{ page.meta.description }}">
-    <meta name="abstract" content="{{ page.meta.abstract }}">
+        <title>{{ page.meta.title }}</title>
+        {%- if page.meta.http_desc -%}
+            <meta http-equiv="Description" content="{{ page.meta.http_desc }}">
+        {%- else -%}
+            <meta http-equiv="Description" content="{{ page.meta.description }}">
+        {%- endif -%}
+        <meta name="keywords" content="{{ page.meta.keywords }}">
+        <meta name="description" content="{{ page.meta.description }}">
+        <meta name="abstract" content="{{ page.meta.abstract }}">
 
-    <meta name="author" content="{{ page.meta.author }}" >
+        <meta name="author" content="{{ page.meta.author }}" >
+        <meta name="copyright" content="{{ page.meta.copyright }}">
+    {%- endif -%}
+
     <meta name="distribution" content="{{ site.data.global-data.meta.distribution }}">
-    <meta name="copyright" content="{{ page.meta.copyright }}">
     <meta name="rating" content="{{ site.data.global-data.meta.rating }}">
     <meta http-equiv="resource-type" content="document">
 

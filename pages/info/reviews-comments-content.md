@@ -3,13 +3,13 @@ layout: empty
 sitemap: false
 id: reviews-comments-content
 meta:
-  title: Reviews, Rhodes Private Tours Reviews
-  http_desc: Reviews, Rhodes Private Tours Reviews
-  description: Reviews, Rhodes Private Tours Reviews
-  keywords: Reviews, Rhodes Private Tours, Reviews
-  abstract: Rhodes Private Tours Reviews
-  author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  title: Reviews, Rhodes Private Tours
+  http_desc: Reviews, Rhodes Private Tours, Testimonials
+  description: Reviews, Rhodes Private Tours, Testimonials
+  keywords: Reviews, Rhodes Private Tours
+  abstract: Reviews, Rhodes Private Tours, Testimonials
+  author: 'Nick'
+  copyright: 'NK for Rhodes Private Tours,2018'
 title: Reviews, Comments and Testimonials of our Clients
 subtitle: We have been offering our high standard Private Tour Services since 1984
   and we've been online since 1998
