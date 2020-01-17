@@ -7,11 +7,13 @@ permalink: rhodes_island_Greece_private_tours.htm
 has_form: false
 has_gallery: false
 meta:
-  title: Destinations in Rhodes Greece, Rhodes Destinations. Rhodes Greece Destinations
-  http_desc: Destinations in Rhodes Greece, Rhodes Destinations. Rhodes Greece Destinations and Attractions
-  description: Destinations in Rhodes Greece, Rhodes Destinations. Rhodes Greece Destinations and Attractions, Places to visit
-  keywords: Destinations in Rhodes Greece, Rhodes Destinations. Attractions
-  abstract: Destinations in Rhodes Greece, Rhodes Destinations
+  title: Rhodes Chauffeured Tours,  Rhodes Private Chauffeured Tours Greece
+  http_desc: Rhodes Chauffeured Tours,  Rhodes Private Chauffeured Tours Greece
+  description: 'Rhodes Chauffeured Tours,  Rhodes Private Chauffeured Tours Greece,
+    Rhodes Private Tours with KNOWLEDGEABLE DRIVERS    '
+  keywords: Rhodes Chauffeured Tours,  Rhodes Private Chauffeured Tours Greece, Rhodes
+    Private Tours
+  abstract: Rhodes Chauffeured Tours,  Rhodes Private Chauffeured Tours Greece
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: PRIVATE CHAUFFEURED TOURS
