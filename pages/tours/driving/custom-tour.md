@@ -134,7 +134,7 @@ end_page:
 ---
 #### Your Special, Custom Tour that can be Tailored According to Your Needs
 
-"Rhodes Private Tours" has been offering group custom tours for decades now. We have a fleet of dedicated tour guides and vehicles to help you get a great tour every single time.   We exclusively specialize in the Rhodes Island our vast experience ensures that you get to enjoy the treasures of Rhodes first-hand. Our customized tours are specifically designed to accommodate your needs, ensuring that your trip matches your schedule and preferences perfectly. Private custom tours can be modified based on the group size and more. With Rhodes Private Tours, your needs come first.
+"Rhodes Private Tours" has been offering custom tours for decades now. We have a fleet of dedicated tour-drivers, tour-guides and vehicles to help you get a great tour every single time.   We exclusively specialize in the Rhodes Island our vast experience ensures that you get to enjoy the treasures of Rhodes first-hand. Our customized tours are specifically designed to accommodate your needs, ensuring that your trip matches your schedule and preferences perfectly. Private custom tours can be modified based on the group size and more. With Rhodes Private Tours, your needs come first.
 
 #### Designing Your Custom Trip
 
