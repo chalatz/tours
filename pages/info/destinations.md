@@ -6,14 +6,14 @@ permalink: destinations_rhodes_greece.htm
 has_form: false
 has_gallery: false
 meta:
-  title: Destinations in Rhodes Greece, Best Rhodes Destinations
-  http_desc: Destinations in Rhodes Greece, Best Rhodes Destinations, Rhodes Attractions
+  title: Destinations in Rhodes Greece, Rhodes Best Destinations
+  http_desc: Destinations in Rhodes Greece, Rhodes Best Rhodes, Rhodes Attractions
     and Places to Visit
-  description: Destinations in Rhodes Greece, Best Rhodes Destinations, Rhodes Attractions
+  description: Destinations in Rhodes Greece, Rhodes Best Destinations, Rhodes Attractions
     and Places to Visit, Things to do and see in Rhodes
-  keywords: Destinations in Rhodes Greece, Best Rhodes Destinations. Attractions,
+  keywords: Destinations in Rhodes Greece, Rhodes Best Destinations. Attractions,
     Places, Thigs to do
-  abstract: Destinations in Rhodes Greece, Best Rhodes Destinations
+  abstract: Destinations in Rhodes Greece, Rhodes Best Destinations
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
 title: Destinations in Rhodes Greece
