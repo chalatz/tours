@@ -133,7 +133,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_15_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_15.jpg"
-    alt: Viajes culturales, Rodas Grecia
+    alt: Excursiones y tours culturales en Rodas Grecia
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_17_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_17.jpg"
