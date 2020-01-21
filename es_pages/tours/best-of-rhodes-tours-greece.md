@@ -141,7 +141,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_20_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_20.jpg"
-    alt: Tours de Rodas, Grecia
+    alt: Excursión en Rodas,  Tours para cruceros en rodas grecia
     position: following
 faq:
   items:
