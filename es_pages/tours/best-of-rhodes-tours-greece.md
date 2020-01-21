@@ -87,7 +87,7 @@ gallery:
     position: first
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_1_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_1.jpg"
-    alt: Rodas Grecia Tours
+    alt: Lo Mejor de Rodas y Lindos Excursion Privada
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_2_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_2.jpg"
