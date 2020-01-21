@@ -17,7 +17,7 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: Visit Lindos on Your Own Pace, Lindos tours from Rhodes, Tour Lindos
     on Your Own Pace, Rhodes Private Tours Greece
-title: Lindos on Your Own Pace" DT11
+title: Visit Lindos on Your Own Pace" DT11
 summary:
   paragraphs:
   - If you are planning to visit Lindos on your own pace this tour is perfect. This
