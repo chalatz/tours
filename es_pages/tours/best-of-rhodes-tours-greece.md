@@ -83,7 +83,7 @@ gallery:
   group_1:
   - thumb: "./img/Tour1/map_of_rhodes_mod.jpg"
     href: "./img/rhodes_maps/map_of_rhodes_mod_1_zoomed.jpg"
-    alt: Lo Mejor de Rodas
+    alt: Lo Mejor de Rodas y Lindos Tour Privado
     position: first
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_1_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_1.jpg"
