@@ -26,7 +26,7 @@ summary:
     you like without clashing with other tour groups or getting sidetracked. Enjoy
     what you want to!!
 tour:
-  title: '"Lindos on Your Own" DT11'
+  title: '"Visit Lindos on Your Own Pace" DT11'
   summary: Rhodes East Coast / Rhodian Pottery Art / Panoramic View of Lindos Beach,
     Village & Acropolis / St Pauls Bay / Visit Acropolis of Lindos
   duration: Half Day
