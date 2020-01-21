@@ -8,17 +8,16 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Tour privado de día completo, Rodas Grecia Viaje privado de día entero, Tours
-    Privados de Rodas
-  description: Tour privado de día completo, Rodas Grecia Viaje privado de día entero,
-    Tours Privados de Rodas
-  keywords: Tour privado de día completo, Rodas Grecia Viaje privado de día entero,
-    Tours Privados de Rodas
+  title: Tour privado de día completo, Excursión Privado de día enteros en Rodas Grecia
+  description: Tour privado de día completo, Excursión Privado de día enteros en Rodas
+    Grecia
+  keywords: Tour privado de día completo, Excursión Privado de día enteros en Rodas
+    Grecia
   abstract: Tour privado de día completo, Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  http_desc: Tour privado de día completo, Rodas Grecia Viaje privado de día entero,
-    Tours Privados de Rodas
+  http_desc: Tour privado de día completo, Excursión Privado de día enteros en Rodas
+    Grecia
 title: '"TOUR PRIVADO DE DÍA COMPLETO" '
 summary:
   paragraphs:
