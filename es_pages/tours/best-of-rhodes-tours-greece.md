@@ -91,7 +91,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_2_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_2.jpg"
-    alt: Tours de Rodas
+    alt: Excursion privada exclusiva en rodas
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_3_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_3.jpg"
