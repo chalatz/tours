@@ -129,7 +129,7 @@ gallery:
     position: first
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_12_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_12.jpg"
-    alt: viajes individuales de lujo en rodas grecia
+    alt: Excursiones individuales en rodas grecia
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_15_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_15.jpg"
