@@ -112,7 +112,7 @@ gallery:
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_8_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_8.jpg"
-    alt: Rhodes shore excursions
+    alt: 'Excursiones exclusivas en Rodas Isla Grecia '
     position: following
   - thumb: "./img/Tour2/fullday_private_tour_9_thumb.jpg"
     href: "./img/Tour2/fullday_private_tour_9.jpg"
