@@ -13,11 +13,10 @@ meta:
   abstract: Rhodes Private Tours and Shore Excursions, More than 30 Years of Experience
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  
-title: Thirty Five Years of Excellence 1984 - 2019
+title: Thirty Six Years of Excellence 1984 - 2020
+subtitle: We have been offering our high standard private tour service since 1984
+  and we have been on-line since 1998.
 
-subtitle: We have been offering our high standard private tour service since 1984 and we have been on-line since 1998.
-    
 ---
 ### We are knowledgeable
 

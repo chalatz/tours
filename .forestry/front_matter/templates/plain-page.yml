@@ -56,3 +56,5 @@ fields:
 - type: textarea
   name: subtitle
   label: subtitle
+pages:
+- pages/info/years-of-xp.md
