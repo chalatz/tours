@@ -43,7 +43,6 @@ sections:
 - type: document
   path: pages/info/seniors-tours.md
   label: Seniors Tours
-  match: "**/*"
 - type: heading
   label: Tours
 - type: directory
