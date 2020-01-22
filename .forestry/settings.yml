@@ -37,6 +37,10 @@ sections:
 - type: document
   path: pages/info/destinations.md
   label: Destinations Page
+- type: document
+  path: pages/info/years-of-xp.md
+  label: Years of Experience
+  match: "**/*"
 - type: heading
   label: Tours
 - type: directory
