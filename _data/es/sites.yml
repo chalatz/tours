@@ -20,18 +20,6 @@ items:
       - name: Costa oeste de Rodas
         url: ./lugares_para_visitar_en_rodas.htm
         id: site_west_coast
-      - name: Monumentos Bizantinos
-        url: ./monumentos_bizantinos_historicos.htm
-        id: site_byzantine
-      - name: Los Caballeros de Rodas
-        url: ./caballeros_de_rodas.htm
-        id: site_knights
-      - name: Sitios Otomanas en Rodas
-        url: ./sitios_otomanos_rodas.htm
-        id: site_ottoman
-      - name: La Arquitectura Italiana
-        url: ./monumentos_arquitectura_italiana.htm
-        id: site_italian
 
   - title: Sitios Antiguos en Rodas
     thumb:
@@ -53,39 +41,36 @@ items:
       - name: Antigua Kamiros
         url: ./antigua_kameiros_rodas_grecia.htm
         id: site_ancient_kameiros
+
+  - title: Cultural Sites in Rhodes
+    links:
+      - name: El Barrio Judío
+        url: ./judios_de_rodas_grecia.htm
+        id: site_la_juderia_home
+      - name: Monumentos Bizantinos
+        url: ./monumentos_bizantinos_historicos.htm
+        id: site_byzantine
+      - name: Los Caballeros de Rodas
+        url: ./caballeros_de_rodas.htm
+        id: site_knights
+      - name: Sitios Otomanas en Rodas
+        url: ./sitios_otomanos_rodas.htm
+        id: site_ottoman
+      - name: La Arquitectura Italiana
+        url: ./monumentos_arquitectura_italiana.htm
+        id: site_italian      
+
+  - title: Parks and Castles in Rhodes
+    thumb:
+      path: ./img/pages/destinations/parks-natural-beauty-sites.jpg
+      alt: Bellezas Naturales y Parques
+    links:
       - name: Castillo de kritinia
         url: ./castillo_de_kritinia_rodas_grecia.htm
         id: site_kritinia_castle
       - name: Castillo de Monolitos
         url: ./castillo_de_Monolitos_rodas_grecia.htm
         id: site_monolithos_castle
-
-  - title: La judería
-    thumb:
-      path: ./img/pages/destinations/jewish-sites.jpg
-      alt: La judería
-    links:
-      - name: El Barrio Judío
-        url: ./judios_de_rodas_grecia.htm
-        id: site_la_juderia_home
-      - name: La Plaza de los Judíos Mártires
-        url: ./judios_de_rodas_grecia.htm#the_martyred_jews_square
-      - name: 'La Sinagoga "Kahal Shalom"'
-        url: ./judios_de_rodas_grecia.htm#the_kahal_shalom
-      - name: El Museo Judío de Rodas
-        url: ./judios_de_rodas_grecia.htm#the_jewish_museum
-      - name: Aron Hasson Fundador de M.J.R.
-        url: ./judios_de_rodas_grecia.htm#aron_hasson
-      - name: El Cementerio Judío
-        url: ./judios_de_rodas_grecia.htm#the_jewish_cemetery
-      - name: '"Rhodesli" Libros y Películas'
-        url: ./judios_de_rodas_grecia.htm#books
-
-  - title: Bellezas Naturales y Parques
-    thumb:
-      path: ./img/pages/destinations/parks-natural-beauty-sites.jpg
-      alt: Bellezas Naturales y Parques
-    links:
       - name: Valle de las Mariposas, Rodas
         url: ./valle_mariposas_rodas_grecia.htm
         id: site_butterflies
@@ -101,9 +86,9 @@ items:
       - name: Granja de Avestruces en Rodas
         url: ./parques_naturales_grecia_rodas.htm
         id: site_ostrich_farm 
-      - name: El Parque Acuático en Rodas
-        url: ./parque_acuatico_rodas_grecia.htm
-        id: site_water_park
+      # - name: El Parque Acuático en Rodas
+      #   url: ./parque_acuatico_rodas_grecia.htm
+      #   id: site_water_park
       # - name: Best Beaches in Rhodes
       #   url: ./best_beaches_rhodes.htm
       #   id: site_best_beaches
