@@ -57,4 +57,5 @@ fields:
   name: subtitle
   label: subtitle
 pages:
+- pages/info/seniors-tours.md
 - pages/info/years-of-xp.md

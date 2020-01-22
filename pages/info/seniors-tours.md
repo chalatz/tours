@@ -9,22 +9,19 @@ banners_2: true
 has_form: false
 has_gallery: false
 meta:
-  title: 'RHODES TOURS FOR SENIORS, Seniors Private Tour in Rhodes'
-  http_desc: 'RHODES TOURS FOR SENIORS, No Extensive Walking, Seniors Private Tour in Rhodes Greece'
-  description: 'RHODES TOURS FOR SENIORS, No Extensive Walking, Seniors Private Tour in Rhodes Greece'
-  keywords: 'RHODES TOURS FOR SENIORS, No Extensive Walking, Seniors Private Tour in Rhodes Greece'
-  abstract: 'RHODES TOURS FOR SENIORS, No Extensive Walking, Seniors Private Tour in Rhodes Greece'
-  author: 'Nick'
-  copyright: 'NK for Rhodes Private Tours,2018'
-
-title: 'RHODES TOURS FOR SENIORS'
-
-subtitle: 'Rhodes tours that do not require extensive walking'
-subtitle_text_transform: none 
-
+  title: Seniors Tours in Rhodes, Seniors Private Tour in Rhodes
+  http_desc: Seniors Tours in Rhodes, Seniors Private Tour in Rhodes
+  description: Seniors Tours in Rhodes, Seniors Private Tour in Rhodes Greece
+  keywords: Seniors Tours in Rhodes, Seniors Private Tour in Rhodes Greece
+  abstract: Seniors Tours in Rhodes, Seniors Private Tour in Rhodeseece
+  author: Nick
+  copyright: NK for Rhodes Private Tours,2018
+title: SENIORS TOURS IN RHODES
+subtitle: Rhodes tours that do not require extensive walking
+subtitle_text_transform: none
 head_photo:
-  src: './img/tours-pages/head-photos/head-photo-group-tours.jpg'
-  alt: 'Rhodes Island Private Seniors Tours' 
+  src: "./img/tours-pages/head-photos/head-photo-group-tours.jpg"
+  alt: Rhodes Island Private Seniors Tours
 
 ---
 We’ve been providing tours for the old and young for over 35 years. We particularly have a large range of tour choices for seniors that come to Rhodes by cruise ships. Rhodes tours tend to feature the best of both worlds. They feature adventure and comfort so that you don’t have to choose one. You’ll get to see the best of Rhodes’ destinations without having to sacrifice either. There’s even an option to create a custom tour to suit your sensibilities.
@@ -52,4 +49,4 @@ You haven’t really experienced Rhodes until you’ve seen it through the eyes 
 {:.centered}
 Choose Your Own Tour
 
-Once you’ve decided how you want to proceed, you can choose your own experience. Choose the destinations, the type of landmarks you want to see, and the type of tour you want to go on. It’s our job to make it a reality. We will make sure all your requirements and needs are taken care of to give you the holiday experience of your life. 
+Once you’ve decided how you want to proceed, you can choose your own experience. Choose the destinations, the type of landmarks you want to see, and the type of tour you want to go on. It’s our job to make it a reality. We will make sure all your requirements and needs are taken care of to give you the holiday experience of your life.
