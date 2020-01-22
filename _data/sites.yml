@@ -20,18 +20,6 @@ items:
       - name: Rhodes West Coast
         url: ./rhodes_west_coast_shore_trips.htm
         id: site_west_coast
-      - name: Byzantine Sights
-        url: ./byzantine_historical_monuments.htm
-        id: site_byzantine
-      - name: The Knights of Rhodes
-        url: ./knights_rhodes_medieval.htm
-        id: site_knights
-      - name: Ottoman Sights
-        url: ./ottoman_sites_monuments.htm
-        id: site_ottoman
-      - name: Italian Architecture
-        url: ./italian_monuments_historical_sites.htm
-        id: site_italian
 
   - title: Ancient Sites in Rhodes
     thumb:
@@ -53,39 +41,37 @@ items:
       - name: Ancient Kamiros
         url: ./ancient_kameiros_specialized.htm
         id: site_ancient_kameiros
+
+  - title: Cultural Sites in Rhodes
+    links:
+      - name: The Jewish Quarter
+        url: ./la_juderia_customized_exclusive.htm
+        id: site_la_juderia_home
+      - name: Byzantine Sights
+        url: ./byzantine_historical_monuments.htm
+        id: site_byzantine
+      - name: The Knights of Rhodes
+        url: ./knights_rhodes_medieval.htm
+        id: site_knights
+      - name: Ottoman Sights
+        url: ./ottoman_sites_monuments.htm
+        id: site_ottoman
+      - name: Italian Architecture
+        url: ./italian_monuments_historical_sites.htm
+        id: site_italian
+      
+
+  - title: Parks and Castles in Rhodes
+    thumb:
+      path: ./img/pages/destinations/parks-natural-beauty-sites.jpg
+      alt: Parks and Natural Beauty
+    links:
       - name: Kritinia Castle
         url: ./kritinia_castle.htm
         id: site_kritinia_castle
       - name: Castle of Monolithos
         url: ./monolithos_castle.htm
         id: site_monolithos_castle
-
-  - title: Jewish Related Sites
-    thumb:
-      path: ./img/pages/destinations/jewish-sites.jpg
-      alt: Jewish Related Sites
-    links:
-      - name: The Jewish Quarter - La Juderia
-        url: ./la_juderia_customized_exclusive.htm
-        id: site_la_juderia_home
-      - name: The Square of the Martyred Jews
-        url: ./la_juderia_customized_exclusive.htm#the_martyred_jews_square
-      - name: 'The "Kahal Shalom" Synagogue'
-        url: ./la_juderia_customized_exclusive.htm#the_kahal_shalom
-      - name: The Jewish Museum of Rhodes
-        url: ./la_juderia_customized_exclusive.htm#the_jewish_museum
-      - name: Aron Hasson founder of J.M.R.
-        url: ./la_juderia_customized_exclusive.htm#aron_hasson
-      - name: The Jewish Cemetery
-        url: ./la_juderia_customized_exclusive.htm#the_jewish_cemetery
-      - name: "&quot;Rhodesli's&quot; Books and Movies"
-        url: ./la_juderia_customized_exclusive.htm#books
-
-  - title: Parks and Natural Beauty
-    thumb:
-      path: ./img/pages/destinations/parks-natural-beauty-sites.jpg
-      alt: Parks and Natural Beauty
-    links:
       - name: Butterflies Valley
         url: ./rhodes_butterflies.htm
         id: site_butterflies
@@ -101,9 +87,9 @@ items:
       - name: Rhodes Ostrich Farm
         url: ./ostrich_farm_zoo_park.htm
         id: site_ostrich_farm 
-      - name: The Water Park
-        url: ./custom.htm
-        id: site_water_park
+      # - name: The Water Park
+      #   url: ./custom.htm
+      #   id: site_water_park
       # - name: Best Beaches in Rhodes
       #   url: ./best_beaches_rhodes.htm
       #   id: site_best_beaches
