@@ -42,7 +42,7 @@ items:
         url: ./antigua_kameiros_rodas_grecia.htm
         id: site_ancient_kameiros
 
-  - title: Cultural Sites in Rhodes
+  - title: Sitios Culturales en Rodas
     links:
       - name: El Barrio Judío
         url: ./judios_de_rodas_grecia.htm
@@ -60,7 +60,7 @@ items:
         url: ./monumentos_arquitectura_italiana.htm
         id: site_italian      
 
-  - title: Parks and Castles in Rhodes
+  - title: Parques y Castillos en Rodas
     thumb:
       path: ./img/pages/destinations/parks-natural-beauty-sites.jpg
       alt: Bellezas Naturales y Parques
