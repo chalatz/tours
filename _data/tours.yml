@@ -93,3 +93,11 @@
   itinerary: ''
   duration: 'Duration: 5:00 hours - 8:00 hours'
   id: custom_tours
+
+- name: 'Rhodes Seniors Tour-DT13'
+  desc: 'Half Day'
+  url: ./senior-citizens-tours-in-rhodes.htm
+  img: '' 
+  itinerary: ''
+  duration: 'Duration: 5:00 hours'
+  id: seniors_tours

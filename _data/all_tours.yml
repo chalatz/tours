@@ -58,6 +58,11 @@
   id: custom_tours
   type: driving
 
+- name: 'Rhodes Seniors Tour-DT13'
+  url: ./senior-citizens-tours-in-rhodes.htm
+  id: seniors_tours
+  type: driving
+
 - name: 'Best Attractions-GT1'
   url: ./best_attractions_in_rhodes.htm
   id: guided_best_attractions

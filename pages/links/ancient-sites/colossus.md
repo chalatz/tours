@@ -80,6 +80,7 @@ related_tours:
 - Rhodes West Coast-DT3
 - Jewish Sites Plus-DT4
 - Rhodes Kids Tour-DT6
+- Rhodes Seniors Tour-DT13
 - Best Attractions-GT1
 - Best of & Lunch Break-GT2
 - West Coast of Rhodes-GT3

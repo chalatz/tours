@@ -82,6 +82,7 @@ related_tours:
 - Best of Rhodes-DT1
 - Rhodes Full Day-DT2
 - Rhodes West Coast-DT3
+- Rhodes Seniors Tour-DT13
 - Best Attractions-GT1
 - Best of & Lunch Break-GT2
 - West Coast of Rhodes-GT3

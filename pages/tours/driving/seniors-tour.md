@@ -1,37 +1,46 @@
 ---
 layout: tour
 type: driving_tours_page
-id: custom_tours
-permalink: rhodes-custom-tours.htm
+id: seniors_tours
+permalink: senior-citizens-tours-in-rhodes.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
 description_at_the_top: true
 meta:
-  title: Rhodes Custom Tours, Private Custom Tours in Rhodes Greece
-  http_desc: ''
-  description: Rhodes Custom Tours, Private Custom Tours in Rhodes Greece, Rhodes
-    Custom-made Tours, Tailored-made Tours in Rhodes
-  keywords: Rhodes Custom Tours, Private Custom Tours in Rhodes Greece, Rhodes Custom-made
-    Tours, Tailored-made Tours in Rhodes
-  abstract: Rhodes Custom Tours, Private Custom Tours in Rhodes Greece
+  title: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes, Seniors Tour in Rhodes
+  http_desc: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors Private Tour in Rhodes Greece
+  description: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes, Seniors Private Tour in Rhodes Greece
+  keywords: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors Private Tour in Rhodes Greece
+  abstract: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"Rhodes Custom Tour" DT12'
+title: '"Senior Citizens Tours in Rhodes" DT13'
 summary:
-  paragraphs:
-  - For those of you with limited schedules, this tour is perfect. When you are brought
-    back to your pick-up point, you will be able to say that you have visited Rhodes
-    and know that you have seen the most important sites. This private tour combines
-    fabulous scenery with plenty of fascinating and historic sites.
+  paragraphs: []
 tour:
-  title: '"Rhodes Custom Tour" DT12'
-  duration: Half Day or Full Day
+  title: '"Senior Citizens Tours in Rhodes" DT13'
+  duration: Half Day
 overview:
   items:
-  - title: Sights and Landmarks of your choice, please visit <a href="./destinations_rhodes_greece.htm">DESTINATIONS
-      IN RHODES GREECE</a>
-  - title: 'Duration: 5:00 hours - 8:00 hours'
+  - title: The New Town and the Old Harbor where according to tradition the Colossus of Rhodes once stood (Stop Visit Photos)
+  - title: The North Point of the Island where the Aegean Sea and the Mediterranean Sea meet - Natural Phenomenon (Stop Photos)
+  - title: 'We drive up to Monte Smith - Acropolis of Rhodes - Scenic Vantage Point so you can see:'
+  - title: <strong>A )</strong> The Panoramic View of Rhodes New and Old Town and the West Coast of the island (Stop Photos)
+  - title: <strong>B )</strong> From a distance you can also get your pictures of the Temple of Apollo, the Ancient Stadium and Theater (Stop Photos)
+  - title: We drive South East to Lindos 50km / 32 miles via little villages and Olive Grooves
+  - title: On the Way to Lindos we stop at the Anthony Quinn Bay, takes its name from the famous Hollywood actor - Scenic (Stop Visit Photos)
+  - title: An short stop at a pottery workshop where the traditional pottery of Rhodes is made. You can see the wonderful pieces of art (Stop Visit Photos)<br>One mile before Lindos we stop at a vantage point for a Panoramic View of Lindos White Village and the Acropolis (Stop Photos)
+  - title: "We drive down, south of Lindos village to Saint Paul's Bay - so you can see:"
+  - title: <strong>A )</strong> The Wild Nature Landscape - where the apostle is said to have landed in the year 51 AD to preach Christianity to the Rhodians (Stop Photos)
+  - title: <strong>B )</strong> From this point you can also view the cave where the film “The Guns of Navarone” was filmed. (Stop Photos)
+  - title: You don't enter Lindos Village or Acropolis to skip walking. From a closer vantage point you can get your great photos (Stop Photos) 
+  - title: On the Way back a beak for refreshments or a light snack (not normal lunch) at a Seaside village at the Mediterranean Sea right on the water’s edge - scenic 
+  - title: We continue back and the last 14km / 8 miles we drive via Faliraki beautiful beach and Kallithea spa, the coastal road 
+  - title: Back to Rhodes Town / Cruise Port / or to your place (The Old Town is a 10 min flat walk from the Cruise Port) 
+  - title: 'Duration: 5:00 hours'
+    classes: bold
+  - title: 'Extensions: You can add more Attractions / Lunch Time / Beach Time'
     classes: bold
   - title: 'Suggested time for this tour: All year round'
     classes: bold
@@ -42,68 +51,69 @@ details:
   - title: "(Stop Visit Photos)"
     desc: Stop and visit - go inside the sight/building for photos
   - title: 'Private Tour Activity Level:'
-    desc: Moderate or Easy (for most of the tours)
+    desc: Easy
   - title: 'Private Tour Vehicle:'
     desc: Sedan Car Mercedes Benz - hold 4 passengers comfortably, plus the driver
       (<a href="./group_mini_bus.htm">bigger group?</a>)
   - title: 'Private Tour Driver:'
     desc: English speaking knowledgeable tour/driver specialize in Private Tours
   - title: 'Private Tour Start Time:'
-    desc: 8:30 AM. Or later<br>If you are a Cruise Ship Passenger - depend on your
+    desc: 9:00 AM. Or later<br>If you are a Cruise Ship Passenger - depend on your
       cruise ship dock time. If the ship arrives late into port, we'll adjust our
       schedules, and the rental time will start from the moment you meet your tour/driver
   - title: 'Private Tour Meeting Point:'
     desc: Hotel / Port / Airport (Meeting point varies depending on option booked)
 gallery:
   group_1:
-  - thumb: "./img/Tour12/A-thumb.jpg"
-    href: "./img/Tour12/A.jpg"
-    alt: Lindos Beach, Rhodes Custom Tour
+  - thumb: "./img/Tour13/1-thumb.jpg"
+    href: "./img/Tour13/1.jpg"
+    alt: Mandraki port, Tours for Seniors in Rhodes
     position: first
-  - thumb: "./img/Tour12/B-thumb.jpg"
-    href: "./img/Tour12/B.jpg"
-    alt: Grand Master Palace, Custom Tours in Rhodes Greece
+  - thumb: "./img/Tour13/2-thumb.jpg"
+    href: "./img/Tour13/2.jpg"
+    alt: Mandraki Port, Tours in Rhodes for alone traveling seniors
     position: following
-  - thumb: "./img/Tour12/C-thumb.jpg"
-    href: "./img/Tour12/C.jpg"
-    alt: Lindos Village, Rhodes Tailored-made Tours
+  - thumb: "./img/Tour13/3-thumb.jpg"
+    href: "./img/Tour13/3.jpg"
+    alt: Rhodes New Town, Tours in Rhodes for limited mobility seniors
     position: following
-  - thumb: "./img/Tour12/D-thumb.jpg"
-    href: "./img/Tour12/D.jpg"
-    alt: Charaki Village, Seaside Restaurant, Rhodes Custom Private Tours
+  - thumb: "./img/Tour13/4-thumb.jpg"
+    href: "./img/Tour13/4.jpg"
+    alt: Anthonny Quinn Bay, Senior woman touring alone in Rhodes
     position: following
-  - thumb: "./img/Tour12/E-thumb.jpg"
-    href: "./img/Tour12/E.jpg"
-    alt: Filerimos, Rhodes Custom-made Tours
+  - thumb: "./img/Tour13/5-thumb.jpg"
+    href: "./img/Tour13/5.jpg"
+    alt: Pottery of Rhodes, Personalized tours for single seniors in Rhodes
     position: following
   group_2:
-  - thumb: "./img/Tour12/F-thumb.jpg"
-    href: "./img/Tour12/F.jpg"
-    alt: Private Custom Tours in Rhodes Greece
+  - thumb: "./img/Tour13/6-thumb.jpg"
+    href: "./img/Tour13/6.jpg"
+    alt: Rhodes Lindos, Rhodes senior women's tours
     position: first
-  - thumb: "./img/Tour12/G-thumb.jpg"
-    href: "./img/Tour12/G.jpg"
-    alt: Ancient Theatre, Custom Tours in Rhodes Greece
+  - thumb: "./img/Tour13/7-thumb.jpg"
+    href: "./img/Tour13/7.jpg"
+    alt: Rhodes Seaside village, Rhodes tours for senior citizens
     position: following
-  - thumb: "./img/Tour12/H-thumb.jpg"
-    href: "./img/Tour12/H.jpg"
-    alt: Valley of the Butterflies, Rhodes Greece Custom Tour
+  - thumb: "./img/Tour13/8-thumb.jpg"
+    href: "./img/Tour13/8.jpg"
+    alt: Rhodes Wineries, Rhodes shore excursions for single seniors
     position: following
-  - thumb: "./img/Tour12/I-thumb.jpg"
-    href: "./img/Tour12/I.jpg"
-    alt: Kritinia Castle, Private Custom Tours in Rhodes
+  - thumb: "./img/Tour13/9-thumb.jpg"
+    href: "./img/Tour13/9.jpg"
+    alt: Filerimos, Tours for Seniors in Rhodes
     position: following
-  - thumb: "./img/Tour12/J-thumb.jpg"
-    href: "./img/Tour12/J.jpg"
-    alt: Monolithos Castle, Rhodes Tailored-made Tours
+  - thumb: "./img/Tour13/10-thumb.jpg"
+    href: "./img/Tour13/10.jpg"
+    alt: Filerimos, Personalized tours for single senior woman in Rhodes
     position: following
 faq:
   items:
-  - q: How long are we stopping for pictures? Will we have time to look around?
-    a: Some spots are more time-consuming than others. With this in mind, there is
-      no set time for each highlight. You will have plenty of time to look around
-      and take photos of the landmarks and we watch how the tour progresses and adjust
-      the tour accordingly.
+  - q: How much is the entrance fee on this tour?
+    a: No Entrance fee on this tour
+  - q: We actually have a group of 12 people, but all might not be interested in this itinerary.
+    a: You already have 3 cars which means maximum of flexibility. You can split to the different itineraries of your choices. Or if you are in a minibus we can customize the tour for you.
+  - q: I have read some of the reviews & I am sure we'll also have fun.
+    a: We certainly hope so!
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <span class="link_inline"><a href="food_greece_menus_meals_cuisine.htm">Traditional
@@ -132,28 +142,29 @@ end_page:
   short_text: 'Experts in Rhodes Tours   '
 
 ---
-#### Your Special, Custom Tour that can be Tailored According to Your Needs
+#### Relaxing tours for seniors that do not require extensive walking
 
-"Rhodes Private Tours" has been offering custom tours for decades now. We have a fleet of dedicated tour-drivers, tour-guides and vehicles to help you get a great tour every single time.   We exclusively specialize in the Rhodes Island our vast experience ensures that you get to enjoy the treasures of Rhodes first-hand. Our customized tours are specifically designed to accommodate your needs, ensuring that your trip matches your schedule and preferences perfectly. Private custom tours can be modified based on the group size and more. With Rhodes Private Tours, your needs come first.
+We've been providing tours for the old and young for over 35 years. We particularly have a large range of tour choices for seniors that come to Rhodes by cruise ships. Rhodes tours tend to feature the best of both worlds. They feature adventure and comfort so that you don't have to choose one. You'll get to see the best of Rhodes' destinations without having to sacrifice either. There's even an option to create a custom tour to suit your sensibilities.
 
-#### Designing Your Custom Trip
+#### Create Your Own Custom Tour
 
-Based on your interests, we offer different tour types that are designed to accommodate all your interests. We make sure to offer comfort and style in our services. Tour options also include things such as: Wine and Food Tours -- Experience the food of the island, Culture tours -- See what makes Rhodes so unique, History -- Learn more about the landmarks and history of this place. We also offer completely customized tour options. All you have to do is let us know what you want to see in Rhodes!  Whatever your interests are, we will make sure to develop a custom itinerary that includes them all.
+We recognize that every tourist isn't the same. Some may be here to see the beautiful landscapes while others may want to tour the lovely seaside villages. Others may come here to enjoy the spiritually rich history of the place. That's why we have the option to create a custom tour. You can choose to do whatever you like without clashing with other tour groups or getting sidetracked. Enjoy what you want to.
 
-#### Our Custom Booking Process
+#### Rhodes Tours Are Relaxing
 
-We have a simple and easy process to make things as convenient as possible for you. This makes it easier to get the tour that you want. All you have to do is follow these steps:
+Rest breaks are crucial during tours, especially those that weave through different terrain. Our tours are designed to be relaxing. Whether you're a couple or a group of friends that are traveling together, we cater to your comfort and your enjoyment.
 
-<div class="centered">
-<ul class="centered-content">
-<li><strong>A)</strong> Get in touch with us and let us know you need a custom tour.</li>
-<li><strong>B)</strong> Mention your requirements including the group size.</li>
-<li><strong>C)</strong> Share your ideas with us about the places you want to see</li>
-</ul>
-</div>
+#### Small Groups Big Experiences
 
-Once we have all these details, we will come with a rough draft of your itinerary that includes various activities and options that will help you plan the best tour for Rhodes.   We offer 100% flexibility in this matter. You can either take your time to approve the tour outline or you can get modifications made. We're more than happy to accommodate any changes you have in mind. Our tour team members are so skilled that they can even accommodate changes even when the tour is in progress.
+We know you're here to have an experience that you'll never forget. You don't want to get swept away with the crowd without seeing any of the sights. That's why we keep our groups small. That way everyone has a chance to take in the sights and sounds, ask questions, experience the area and then move on. Small group activities also allow for much more individual involvement. They strike a balance between spontaneity and planned activities. That way, you'll get time to do what you want, and also follow the group to a great destination.
 
-#### Tour Ideas to Try
+#### Experience the Island of Rhodes Through Its Inhabitants
 
-Not sure what you can see in Rhodes? Here are just a few of the things that you can see in this island: Major landmarks and highlights of Rhodes, Wine Tasting -- Completely free,   Guided Historical Tours - With a specialized tour guides, Beach Tours, Walking Tours, Shopping and more.   These are just some of the things that you can include in your customized tour of Rhodes. With our help, you will get the perfect custom tour that will be a memorable option for you and your family!
+You haven't really experienced Rhodes until you've seen it through the eyes of tis local population. Our tours offer the chance to connect with the native culture as well as its landmarks. It's not really a tour until you realize the significance of the landmarks through the eyes of its people. See how the locals shop, where they gather, where they live, how they go about their daily lives. Experience an entire world that you've never seen with your eyes before.
+
+#### Choose Your Own Tour
+
+Once you've decided how you want to proceed, you can choose your own experience. Choose the destinations, the type of landmarks you want to see, and the type of tour you want to go on. It's our job to make it a reality. We will make sure all your requirements and needs are taken care of to give you the holiday experience of your life.
+
+{:.centered .text-larger}
+**If you are a first time visitor to Rhodes, the below "Tour for Seniors" is highly recommended**

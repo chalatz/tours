@@ -170,6 +170,7 @@ related_tours:
 - Rhodes West Coast-DT3
 - South West Coast Tour-DT8
 - Rhodes Nature Tour-DT9
+- Rhodes Seniors Tour-DT13
 - West Coast of Rhodes-GT3
 - Ancient & Medieval-GT5
 - The Knights of St John-GT6

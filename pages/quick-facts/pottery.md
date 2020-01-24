@@ -181,6 +181,7 @@ related_tours:
 - Beach Tour of Rhodes-DT7
 - Lindos on Your Own-DT11
 - Through the Island-DT10
+- Rhodes Seniors Tour-DT13
 - Best Attractions-GT1
 - Best of & Lunch Break-GT2
 - Jewish Heritage Plus-GT4

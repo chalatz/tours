@@ -39,6 +39,8 @@ main:
           url: './lindos-on-your-own.htm'
         - title: Rhodes Custom Tour-DT12
           url: './rhodes-custom-tours.htm'
+        - title: Rhodes Seniors Tour-DT13
+          url: './senior-citizens-tours-in-rhodes.htm'
     - title: GUIDED TOURS
       url: './guided_tours.htm'
       type: guided_tours_page

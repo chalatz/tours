@@ -121,6 +121,7 @@ related_tours:
 - Jewish Sites Plus-DT4
 - Rhodes Wine Tour-DT5
 - Rhodes Kids Tour-DT6
+- Rhodes Seniors Tour-DT13
 - Ancient & Medieval-GT5
 - Best Attractions-GT1
 - Best of & Lunch Break-GT2

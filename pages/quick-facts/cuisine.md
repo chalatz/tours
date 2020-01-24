@@ -280,6 +280,7 @@ related_tours:
 - Rhodes Full Day-DT2
 - Rhodes Wine Tour-DT5
 - Through the Island-DT10
+- Rhodes Seniors Tour-DT13
 - Best of & Lunch Break-GT2
 - West Coast of Rhodes-GT3
 - Rhodes Landscape Tour-GT8
