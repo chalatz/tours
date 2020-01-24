@@ -9,7 +9,7 @@ is_of: driven_tours
 description_at_the_top: true
 meta:
   title: Rhodes Custom Tours, Private Custom Tours in Rhodes Greece
-  http_desc: ''
+  http_desc: 'Rhodes Custom Tours, Custom Tours in Rhodes Greece, Rhodes Custom-made Tours, Tailored-made Tours in Rhodes'
   description: Rhodes Custom Tours, Private Custom Tours in Rhodes Greece, Rhodes
     Custom-made Tours, Tailored-made Tours in Rhodes
   keywords: Rhodes Custom Tours, Private Custom Tours in Rhodes Greece, Rhodes Custom-made
