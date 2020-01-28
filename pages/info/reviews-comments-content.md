@@ -902,27 +902,26 @@ reviews:
     very knowledgeable and professional. We saw many sights but especially enjoyed
     the restaurant he took us to add well as the pottery stop.<br>\nWe would highlight
     recommend this company.<br>\nKris (July 30th)  Salem\n\nHad a great time. Perfect
-    driver and day...<br>\nDon (July 26th)<br>\ndonkaufman70@yahoo.com\n\nWe really
-    enjoyed our day with Michael. We truly felt special being assigned to your own
-    brother!<br>\nThank you for the very special day on your beautiful island!<br>\nBill
-    Schmidt (July 25th)<br>\nb_schmidt@earthlink.net\n\nThank you Nicholas, we all
-    had a marvellous time. Manuel was a wonderful driver and so knowledgeable. We
-    loved visiting Rhodes - we learnt lots as well as seeing what a lovely island
-    it is. There was nothing that could be improved and I will leave a 5 star review
-    when we return from our holiday. Thank you for all your help.<br>\nRita (July
-    24th)<br>\nrita.percival@btinternet.com\n\nThank you Nicholas for reaching out.
-    We enjoyed our time with both Sergio and Michael.<br>\nThey were both very knowledgeable
-    and friendly and really provided us with a lot of education about Rhodes. We really
-    enjoyed exploring the island and felt like we received a valuable overview and
-    hit some of the main sights. It exceeded our expectations.<br>\nThank you again
-    for all the work you and your team do!<br>\nTom (July 13th)<br>\ndraper1424@gmail.com\n\nHello
-    Nicholas, We have been continuing our Greek odyssey through the Greek Islands.
-    Thank you and please thank Sergio for a thoroughly enjoyable day. We are all in
-    agreement that our experience in Rhodes, and with thanks to Sergio, was the best
-    so far. Our lunch on the day is still a topic of conversation. When I get back
-    home I will post a very favourable TripAdvisor review.<br>\nThanks again (July
-    13th)<br>\nFernando and Company<br>\nsangilf1@bigpond.com\n\nNicholas, Thanks
-    for the incredible service you and Andrew provided this past week in Rhodes.<br>\nYour
+    driver and day...<br>\nDon (July 26th)  Woodsboro MD USA\n\nWe really enjoyed
+    our day with Michael. We truly felt special being assigned to your own brother!<br>\nThank
+    you for the very special day on your beautiful island!<br>\nBill Schmidt (July
+    25th) Elk Grove Village Illinois USA\n\nThank you Nicholas, we all had a marvellous
+    time. Manuel was a wonderful driver and so knowledgeable. We loved visiting Rhodes
+    - we learnt lots as well as seeing what a lovely island it is. There was nothing
+    that could be improved and I will leave a 5 star review when we return from our
+    holiday. Thank you for all your help.<br>\nRita (July 24th)<br>\nrita.percival@btinternet.com\n\nThank
+    you Nicholas for reaching out. We enjoyed our time with both Sergio and Michael.<br>\nThey
+    were both very knowledgeable and friendly and really provided us with a lot of
+    education about Rhodes. We really enjoyed exploring the island and felt like we
+    received a valuable overview and hit some of the main sights. It exceeded our
+    expectations.<br>\nThank you again for all the work you and your team do!<br>\nTom
+    (July 13th)<br>\ndraper1424@gmail.com\n\nHello Nicholas, We have been continuing
+    our Greek odyssey through the Greek Islands. Thank you and please thank Sergio
+    for a thoroughly enjoyable day. We are all in agreement that our experience in
+    Rhodes, and with thanks to Sergio, was the best so far. Our lunch on the day is
+    still a topic of conversation. When I get back home I will post a very favourable
+    TripAdvisor review.<br>\nThanks again (July 13th)<br>\nFernando and Company<br>\nsangilf1@bigpond.com\n\nNicholas,
+    Thanks for the incredible service you and Andrew provided this past week in Rhodes.<br>\nYour
     outreach during our tour was fantastic. We will rave about your company on Trip
     Advisor.<br>\nHope to see you again sometime.<br>\nAll our best. Regards to Andreas<br>\nJoel
     and Phyllis (July 12th)<br>\njoel@theharmonygroupllc.com\n\nNickolas, The tour
