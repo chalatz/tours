@@ -3,6 +3,8 @@ layout: tour
 type: driving_tours_page
 id: seniors_tours
 permalink: senior-citizens-tours-in-rhodes.htm
+redirect_from:
+  - Seniors-tours-in-rhodes.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
