@@ -115,7 +115,7 @@ reviews:
     very much!!!  Everything was perfect and we enjoyed the whole day. Michael is
     great and we had so much fun with him.  I'm adding a screen shot of the review
     I published in TripAdvisor. <br>\nThank's again for everything. I'm sure we'll
-    meet again.  (Oct 17th) Keren Tel Aviv, Israel\n\nNicholas: Thank you for the
+    meet again.  Keren (Oct 17th)  Tel Aviv, Israel\n\nNicholas: Thank you for the
     tour. Rhodes was the highlight of our trip, and the tour with you was a large
     part of that.<br>\nBill (Oct 15th) USA\n\nThank you very much for two wonderful
     tours.  We really enjoyed both guides and learned so much.  The service, knowledge
