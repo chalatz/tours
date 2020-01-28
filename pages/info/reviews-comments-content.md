@@ -339,39 +339,39 @@ reviews:
     (June 9th) Georgia USA\n\nGood morning Nicholas, Our trip to Rhodes was amazing...the
     group decided that was our favorite port and Kostas was our favorite tour guide...along
     with Jacob our favorite driver. The entire day was perfection. Thanks to you and
-    your entire team for making our day in Rhodes perfect!<br>\nSusan (June 8th)<br>\nsuseq28@aol.com\n\nDear
-    Nicholas, We were all very pleased with the tour and our tour guide Liana and
-    our driver Manolis. My friends loved Rhodes and said it was the best place on
-    our cruise. We all felt totally satisfied and the feedback I can give you is only
-    positive!<br>\nThank you,  Stephanie & friends (June 8th)<br>\nstephanielivorsi@gmail.com\n
-    \nNicholas, Everything was perfect. Thank you for a great day!!.<br>\nJoyce and
-    Craig<br>\ncasakey@aol.com\n\nDear Nicholas, Thank you for a truly memorable day
-    ... it was absolutely wonderful and we enjoyed every minute. It was lovely to
-    not only hear about the places you took us to but Rhodes in general. If you are
-    in England (in the north) please email and we will show you the highest mountain
-    and deepest lake and also the beautiful Lake District.<br>\nYours Pamela and Glyn
-    (June 7th)<br>\npamela.thomas1000@gmail.com\n\nNicholas, We had such a wonderful
-    day and really enjoyed our driver Stamos. We had a wonderful day and he was great
-    with my children, I felt like we saw SO much!!!!  I really appreciate you helping
-    make this experience to Rhodes wonderful! <br>\nI will be sure you rate you the
-    very best on Trip Advisor!<br>\nRuthie<br>\nruthiecrider@yahoo.com\n\nNicholas,
-    We had a wonderful time and just posted a glowing review on Trip Advisor! Thank
-    Michael for his excellent service!<br>\nMark (June 6th)<br>\ncriden@gmail.com\n\nHello
-    Nicholas!! We had a very wonderful time with Manolis. He was an outstanding tour-driver
-    & host to us on your beautiful island. We look forward to visiting again in the
-    future. Please pass on our gratitude to him<br>\nRegards from Carol, Rick & Natalie
-    (June 6th)<br>\ncabutler178@gmail.com\n\nHi Nicholas, We toured with your company
-    and Manuel was great. It was a wonderful tour!!<br>\nThanks,  Stephanie<br>\nstephanieecarr@hotmail.com\n\nWe
-    want to let you know what a wonderful tour we had with Kostas and Manolis. It
-    was one of the very best highlights of our trip and made us love Rhodes!  Kostas
-    was so knowledgeable and communicated clearly to us the beauty of Rhodes. He allowed
-    the group plenty of time to take pictures and ask questions. He was also very
-    entertaining. We could tell Kostas and Manolis has a great relationship. We talked
-    about our Rhodes tour for the rest of our trip. We think it was the best tour
-    of the entire trip. We feel very fortunate to have found your company. You run
-    class act!<br>\nSincerely,  Anthony & Mary (June 6th)<br>\ntonymaryallen@gmail.com\n\nNicholas:
-    thank you for your time & sharing your extensive knowledge. We thoroughly enjoyed
-    our day with you. Our lunch was very good as well.<br>\nBest,  Paola (June 6th)<br>\npamela.rosen1@verizon.net\n\nHi
+    your entire team for making our day in Rhodes perfect!<br>\nSusan (June 8th) CHICAGO
+    USA\n\nDear Nicholas, We were all very pleased with the tour and our tour guide
+    Liana and our driver Manolis. My friends loved Rhodes and said it was the best
+    place on our cruise. We all felt totally satisfied and the feedback I can give
+    you is only positive!<br>\nThank you,  Stephanie & friends (June 8th) Marlboro
+    New Jersey \n \nNicholas, Everything was perfect. Thank you for a great day!!.<br>\nJoyce
+    and Craig, Canada\n\nDear Nicholas, Thank you for a truly memorable day ... it
+    was absolutely wonderful and we enjoyed every minute. It was lovely to not only
+    hear about the places you took us to but Rhodes in general. If you are in England
+    (in the north) please email and we will show you the highest mountain and deepest
+    lake and also the beautiful Lake District.<br>\nYours Pamela and Glyn (June 7th)
+    UK\n\nNicholas, We had such a wonderful day and really enjoyed our driver Stamos.
+    We had a wonderful day and he was great with my children, I felt like we saw SO
+    much!!!!  I really appreciate you helping make this experience to Rhodes wonderful!
+    <br>\nI will be sure you rate you the very best on Trip Advisor!<br>\nRuthie,
+    Georgia USA\n\nNicholas, We had a wonderful time and just posted a glowing review
+    on Trip Advisor! Thank Michael for his excellent service!<br>\nMark (June 6th)
+    \ Sarasota Florida USA\n\nHello Nicholas!! We had a very wonderful time with Manolis.
+    He was an outstanding tour-driver & host to us on your beautiful island. We look
+    forward to visiting again in the future. Please pass on our gratitude to him<br>\nRegards
+    from Carol, Rick & Natalie (June 6th)<br>\ncabutler178@gmail.com\n\nHi Nicholas,
+    We toured with your company and Manuel was great. It was a wonderful tour!!<br>\nThanks,
+    \ Stephanie<br>\nstephanieecarr@hotmail.com\n\nWe want to let you know what a
+    wonderful tour we had with Kostas and Manolis. It was one of the very best highlights
+    of our trip and made us love Rhodes!  Kostas was so knowledgeable and communicated
+    clearly to us the beauty of Rhodes. He allowed the group plenty of time to take
+    pictures and ask questions. He was also very entertaining. We could tell Kostas
+    and Manolis has a great relationship. We talked about our Rhodes tour for the
+    rest of our trip. We think it was the best tour of the entire trip. We feel very
+    fortunate to have found your company. You run class act!<br>\nSincerely,  Anthony
+    & Mary (June 6th)<br>\ntonymaryallen@gmail.com\n\nNicholas: thank you for your
+    time & sharing your extensive knowledge. We thoroughly enjoyed our day with you.
+    Our lunch was very good as well.<br>\nBest,  Paola (June 6th)<br>\npamela.rosen1@verizon.net\n\nHi
     Nicholas, I wanted to let you know how much we enjoyed our Rhodes tour with Kostas
     This was the tour booked by Anthony Allen, and we were in that small group. Kostas
     kept us entertained and laughing all day. He was so knowledgeable about the history
