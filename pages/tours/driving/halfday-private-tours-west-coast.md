@@ -143,7 +143,7 @@ gallery:
 faq:
   items:
   - q: How much is the entrance fee in Ancient Kamiros?
-    a: Entrance fee is 6 Euro per person. <a href="./Seniors-tours-in-rhodes.htm">Seniors</a>
+    a: Entrance fee is 6 Euro per person. <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a>
       (with Id or Passport), 3 Euros per person. Children under 18 years old, free
   - q: Are there Butterflies all the time? - And are there opening times there too
       that we might have to take into consideration?
