@@ -179,7 +179,7 @@ faq:
       her while my son climbs to the Acropolis of Lindos?
     a: 'There is a café just outside the village that offers an enchanting view of
       the white village and the Acropolis. We can drive her there for a drink and
-      relaxation. You may also look at our <a href="./seniors-tours-in-rhodes.htm">Seniors
+      relaxation. You may also look at our <a href="./senior-citizens-tours-in-rhodes.htm">Seniors
       Tours in Rhodes</a> '
   - q: How near is the ship from the Palace of Grand Master and the Archaeological
       Museum?
