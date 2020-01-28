@@ -9,7 +9,8 @@ is_of: driven_tours
 description_at_the_top: true
 meta:
   title: Rhodes Custom Tours, Private Custom Tours in Rhodes Greece
-  http_desc: 'Rhodes Custom Tours, Custom Tours in Rhodes Greece, Rhodes Custom-made Tours, Tailored-made Tours in Rhodes'
+  http_desc: Rhodes Custom Tours, Custom Tours in Rhodes Greece, Rhodes Custom-made
+    Tours, Tailored-made Tours in Rhodes
   description: Rhodes Custom Tours, Private Custom Tours in Rhodes Greece, Rhodes
     Custom-made Tours, Tailored-made Tours in Rhodes
   keywords: Rhodes Custom Tours, Private Custom Tours in Rhodes Greece, Rhodes Custom-made
@@ -27,6 +28,7 @@ summary:
 tour:
   title: '"Rhodes Custom Tour" DT12'
   duration: Half Day or Full Day
+  summary: ''
 overview:
   items:
   - title: Sights and Landmarks of your choice, please visit <a href="./destinations_rhodes_greece.htm">DESTINATIONS
@@ -97,6 +99,7 @@ gallery:
     href: "./img/Tour12/J.jpg"
     alt: Monolithos Castle, Rhodes Tailored-made Tours
     position: following
+  group_3: []
 faq:
   items:
   - q: How long are we stopping for pictures? Will we have time to look around?
