@@ -413,43 +413,43 @@ reviews:
     Your driver was incredible and it was one of our best days<br>\nThank you again,
     Elaine Pouchet (May 20th) Canada\n\nDear Nicholas, We had a wonderful time and
     Michael was very nice. We will be happy to do a review once we get back. Thank
-    you for the great service!!!<br>\nThanks,  Rajiv (May 19th)<br>\nrajivgogia@hotmail.com\n\nHi
+    you for the great service!!!<br>\nThanks,  Rajiv (May 19th) New Jersey USA\n\nHi
     Nicholas. We just wanted to let you know we had a great tour with driver Michael.
     He did a great job showing us the highlights of Rhodes! We really enjoyed our
     stop at the Olive Oil Factory and all the photo stops! I would highly recommend
     your company to anyone who is looking for a tour.  Michael's restaurant suggestion
-    for lunch was also great!<br>\nThanks again! Greg and Roseanne (May 18th)<br>\nroteneyck@gmail.com\n\nNicholas,
-    We had a great time on the island, truly beautiful. Good vehicle, driver and guide.\nLoved
-    Kostas, he was fantastic, just the type of guide we like. Interesting, Knowledgeable,
-    Theatrical and Thoughtful. I will remember him, and that makes a good guide. Say
-    hello from Mark. The group was even doing his look..look...look...OPA! on other
-    islands.  Will be back with \"Rhodes Private Tours\" when we come again!<br>\nThanks
-    for all your help.<br>\nMark Stewart (May 17th)<br>\ntravel@stewarttours.com\n\nThank
-    you. Sergio was great and the service was great. We will recommend you to others.<br>\nHoward
-    (May 17th)<br>\nhc1067@rogers.com\n\nSergio was a wonderful driver who had a wealth
-    of knowledge about the sites we visited and was very accommodating to our interests
-    and needs. The visit to Lindos was marvelous. He showed us views of this acropolis
-    from various vantage points before we began our climb.<br>\nLeora<br>\nlefeldman39@gmail.com\n\nAndrew
-    was wonderful, extremely knowledgeable and gave us plenty of time to take in the
-    sights in a relaxed environment. Can’t wait to return to Rhodes and highly recommend
-    Rhodes Private Tours.<br>\nThank you, Amy (May 15th)<br>\nprettythings385@gmail.com\n\nWe
-    were going to be on a Mediterranean cruise and this was my husbands first time
-    in Europe, so I researched the tours to try and find the best one. We were certainly
-    not disappointed. The communications with Nicholas was great all along. We asked
-    him to modify the tour as I need a knee replacement and can't do a lot of walking.
+    for lunch was also great!<br>\nThanks again! Greg and Roseanne (May 18th) Phoenix
+    AZ USA\n\nNicholas, We had a great time on the island, truly beautiful. Good vehicle,
+    driver and guide.\nLoved Kostas, he was fantastic, just the type of guide we like.
+    Interesting, Knowledgeable, Theatrical and Thoughtful. I will remember him, and
+    that makes a good guide. Say hello from Mark. The group was even doing his look..look...look...OPA!
+    on other islands.  Will be back with \"Rhodes Private Tours\" when we come again!<br>\nThanks
+    for all your help.<br>\nMark Stewart (May 17th) California\n\nThank you. Sergio
+    was great and the service was great. We will recommend you to others.<br>\nHoward
+    (May 17th) Canada\n\nSergio was a wonderful driver who had a wealth of knowledge
+    about the sites we visited and was very accommodating to our interests and needs.
+    The visit to Lindos was marvelous. He showed us views of this acropolis from various
+    vantage points before we began our climb.<br>\nLeora, USA\n\nAndrew was wonderful,
+    extremely knowledgeable and gave us plenty of time to take in the sights in a
+    relaxed environment. Can’t wait to return to Rhodes and highly recommend Rhodes
+    Private Tours.<br>\nThank you, Amy (May 15th) Boca Raton Florida USA\n\nWe were
+    going to be on a Mediterranean cruise and this was my husbands first time in Europe,
+    so I researched the tours to try and find the best one. We were certainly not
+    disappointed. The communications with Nicholas was great all along. We asked him
+    to modify the tour as I need a knee replacement and can't do a lot of walking.
     He took us to some of the most incredible sites. The attention to everything was
     just wonderful. He even went so far as to help my husband put his feet in the
     ocean and then helped him put his shoes back on. Just an incredible extra touch.<br>\nPlease
     do yourself a favor and book your tour with Nicholas and his team<br>\nJim and
-    Laura<br>\nJKPortner@comcast.net\n\nHello, We are home now and writing reviews.
-    We want to thank you for a wonderful day. We had such a great time on Rhodes and
-    learned a lot. If we come again someday we will call you.<br>\nSincerely, Deborah
-    and Gordon (May 14th)<br>\nsiemsdeb@gmail.com\n\nThanks so much for the tour,
-    it was brilliant. Everyone, especially Layla had a great time.<br>\nRajesh<br>\nrgovind62@gmail.com\n\nAwesome
-    Service!! They were 20 feet from the boat gangway waiting from us! Driver was
-    super nice and always left us right at the entrance of all the attractions. Also
-    he picked the best picture spots. Much better than the ship excursion at half
-    the price. Highly recommended!!!!<br>\nAntonio (May 14)<br>\nacarrera@grupomca.com\n\nNicholas,
+    Laura,  Streamwood\n\nHello, We are home now and writing reviews. We want to thank
+    you for a wonderful day. We had such a great time on Rhodes and learned a lot.
+    If we come again someday we will call you.<br>\nSincerely, Deborah and Gordon
+    (May 14th) Melbourne Florida USA\n\nThanks so much for the tour, it was brilliant.
+    Everyone, especially Layla had a great time.<br>\nRajesh, UK\n\nAwesome Service!!
+    They were 20 feet from the boat gangway waiting from us! Driver was super nice
+    and always left us right at the entrance of all the attractions. Also he picked
+    the best picture spots. Much better than the ship excursion at half the price.
+    Highly recommended!!!!<br>\nAntonio (May 14) Piso Cabo San Lucas\n\nNicholas,
     I posted positive reviews on tripadvisor and Facebook. Michael was the best driver.\nHoping
     in the near future to come again and see more of Rhodes. Michael was fantastic!<br>\nLeslie
     Baker (May 14th)<br>\nabaker@netvision.net.il\n\nDear Nicholas, We were very happy
