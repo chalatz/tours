@@ -4923,16 +4923,16 @@ reviews:
     name and email on the Net so that everyone can have the wonderful experience we
     had with you. Here is a portion of my \"review\" of our cruise that I just uploaded:
     \ Rhodes...TIPS: Yes, you can take a tour of Lindos, which is a small town with
-    two beautiful harbors .....We took this \"tour\" with a wonderful driver named
-    Nicholas. He was funny, knew everything about the island and showed us the sights
-    in an air-conditioned Mercedes. He was one of the highlights of the cruise.<br>\nI
+    two beautiful harbors .....We took this \"tour\" with a wonderful tour/driver
+    named Nicholas. He was funny, knew everything about the island and showed us the
+    sights in an air-conditioned Mercedes. He was one of the highlights of the cruise.<br>\nI
     have now looked at your web site--nice work!<br>\nThanks again for making our
-    trip so wonderful!<br>\nRusty<br>\nznr123@aol.com\n\nDear Nicholas.  I am Omar
-    the son of Dr Monir . We visited Rhodes last month on the cruise ship Boccacio<br>\nWe
-    took a tour to Lindos and Faliraki with your company. I want you to know that
-    Rodos was one of the best islands I have seen in my life and we all enjoyed your
-    excellent service. Our driver had a great sense of humor!. I hope to visit Rodos
-    again next year.<br>\nThank you for the tour!<br>\nOmar<br>  Cairo Egypt \n \n"
+    trip so wonderful!<br>\nRusty<br> USA\n\n\nDear Nicholas.  I am Omar the son of
+    Dr Monir . We visited Rhodes last month on the cruise ship Boccacio<br>\nWe took
+    a tour to Lindos and Faliraki with your company. I want you to know that Rodos
+    was one of the best islands I have seen in my life and we all enjoyed your excellent
+    service. Our driver had a great sense of humor!. I hope to visit Rodos again next
+    year.<br>\nThank you for the tour!<br>\nOmar<br> Cairo Egypt \n \n"
 
 ---
 A big "THANKS" to all who have or will use our services and have given their support in some way. 
