@@ -196,7 +196,7 @@ end_page:
   short_text: ''
 
 ---
-**MOUNT FILERIMOS - MONASTERY OF FILERIMOS -** 
+**MOUNT FILERIMOS - MONASTERY OF FILERIMOS** 
 
 From your selected point, you'll be driven along the west coast of the island up to Mount Filerimos, where we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the Church of **Our Lady of Filerimos**, built upon the foundations of the ancient Temple of Athena from early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted Chapel of St. George.
 
