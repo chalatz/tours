@@ -13,7 +13,7 @@
             {%- for item in site.data.navigation.main[page.lang].items -%}
                 {%- assign subitems_size = item.subitems | size -%}
                 <li itemprop="name" class="site-menu__item {% if page.type == item.type %}site-menu__item--active{% endif %}{% if subitems_size > 0 %} site-menu__item--with-subitems{% endif %}">
-                    <a itemprop="url" class="site-menu__link" href="{{- item.url -}}">{{- item.title | upcase -}}
+                    <a itemprop="url" class="site-menu__link" href="{{- item.url | absolute_url -}}">{{- item.title | upcase -}}
                         {%- if subitems_size > 0 -%}
                             <i class="fas fa-angle-down site-menu__angle-icon tablet-only tablet-only--inline-block"></i>
                         {%- endif -%}
