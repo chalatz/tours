@@ -517,8 +517,8 @@ reviews:
     - we all had a great time on our tour - and fell in love with Rhodes! Stathis
     was an amazing driver and courteously provided us answers to all our questions.
     We felt like he really \"took care of us.\" I will highly recommend your services
-    to anyone contemplating a visit to Rhodes. Our best to Stathis!! (Nov 13th)<br>\nMarianne
-    \ S.   UK\n\nWe had a phenomenal day with our driver, Gianis(John). He spoke perfect
+    to anyone contemplating a visit to Rhodes. Our best to Stathis!! Marianne S. (Nov
+    13th)  UK\n\nWe had a phenomenal day with our driver, Gianis(John). He spoke perfect
     English and was very enthusiastic about all the historical sights including the
     Village and Acropolis of Lindos, Anthony Quinn Bay, the old and new town, the
     Holocaust Memorial, and much more.<br>\nHighly recommend Nicholas Rhodes Private
@@ -557,7 +557,7 @@ reviews:
     island. Unfortunately for us we only had one day to spend in Rhodes. I'm sure
     there is so much more to discover and hopefully we will be back some day. Please
     send Stergos our very best regards.<br>\nSincerely, Suzanne (Oct 27th) United
-    States\n\nHi Nicholas, The tour was great! TripAdvisor review coming soon!<br>\nRobert,
+    States\n\nHi Nicholas, The tour was great! TripAdvisor review coming soon! Robert,
     Pensacola, FL\n\nComfy drive, amazing sights, brilliant company (despite the rain!).<br>\nMy
     husband and I took a tour of Rhodos Medieval city and Lindos with Nick. He was
     a very knowledgeable driver who clearly has a passion for the history of the island.<br>\nWe
