@@ -4910,7 +4910,7 @@ reviews:
     AGAIN <br>\nJo-Ann USA \n\nDear Nick, We had a chance to tour the Island with
     you on both East and West Coasts, and have great time.<br>\nComing back I looked
     at your web site. I hope your business approach works well.<br>\nWith the best
-    wishes to you and your cosmopolitan family, Yuri<br>\nDr. Yuri R.  Isrel \n\n\nMy
+    wishes to you and your cosmopolitan family, Yuri<br>\nDr. Yuri R.   Isrel \n\n\nMy
     wife, Nancy, and I spent a couple of hours with Nicholas last September.We had
     a wonderful time, got lots of information on Rhodes. He knows the Island of Rhodes
     as well as how life in Rhodes is today.<br>\nNicholas speaks 5 or 6 languages
