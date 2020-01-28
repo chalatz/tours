@@ -279,69 +279,67 @@ reviews:
     to spend the day with. His knowledge of Rhodes, and his insight into modern economic
     and social issues in Greece was very informative. So much better than being on
     a big bus tour from the cruise line.<br>\nRegards, Susan and Nate (July 22nd)
-    Phoenix Arizona USA\n\n\nDear Nicholas, Thank you for our tour. We all really
-    enjoyed it and found Kostas the tour guide, very friendly and informative. Also
-    Jakob the driver, met us and transported us very happily and safely.<br>\nKind
-    regards, Elizabeth (July 21st)<br>\nliz8222@icloud.com\n\n\nHi Nicholas,  Thank
-    you so much for the tour especially teaming us up with Mahir. He was a great match
-    and very helpful and informative, he knows his job and does it very well!  The
-    tour itself was also perfect to really see every side of the island which is beautiful
-    in itself.  \nWe hope to tour with you again when we return to Rhodes and you
-    will be highly recommended to family & friends. Thanks again for the tour & many
-    many thanks to Mahir.<br>\nKind regards, Aysel  aysel.unsal@hotmail.com<br> \n\nThank
-    you very much! We had a wonderful day yesterday. Michael was great showing us
-    all the places. We enjoyed it very much! <br>\nThanks, Subha (13 July)<br>\nsubha@padman.co.uk<br>\n\nHi
-    Nicholas, Thank you for a truly wonderful day in Rhodes.  I must state that you
-    are the most professional and considerate tour company owner/manager.  I appreciated
-    your timely and helpful responses to my questions and requested changes to our
-    tour.  Please thank Kostas and Jacob.  Kostas is absolutely terrific.  His conservations
-    with us regarding the natural beauty of the island, it’s history and just enough
-    about current Greek National issues were captivating.  His amusing “ Lookie! Lookie!
-    (alerting us to points of interest) should become legendary.  I will post this
-    to TripAdvisor to help others to find the best tour company ever, in our fairly
-    extensive worldwide traveling. <br>\nKind regards, Bill and Daria  (June 29th)<br>\ndariabill@gmail.com\n\nDominic
-    was truly outstanding and we really enjoyed his company and wisdom. We will refer
-    you to friends and to ask for Dominic. Please wish him well on the wedding of
-    his son this weekend.<br>\nMark (June 25th)<br>\nmvengel@aol.com\n\nDear Nicholas,
-    I can’t thank you enough for our wonderful day yesterday, Mike is fantastic; very
-    knowledgeable and easy to get along with. I honestly can’t think of any way to
-    improve the day as it was even better than we’d hoped for. It’s nice to meet a
-    business man that cares so much about giving excellent customer service, you are
-    a credit to the island<br>\nRegards, Sarah<br>\nbabby_wabby@yahoo.co.uk\n\nNicolas,
-    we're home safe and sound. Hope we can send some business your way.\nSay 'hello'
-    to Michael for us. He's the best<br>\nDan (June 20th)<br>\ndannmcmillan@gmail.com\n\nThank
-    you the trip was brilliant .Michael was so informative and cannot comment any
-    further on perfection.<br>\nKind regards Jackie and fellow travellers<br>\njackieatkin@btinternet.com<br>\n\nGood
-    evening, Thank you for your service. Andrew was an awesome driver...very prompt,
-    knowledgeable and friendly. We enjoyed our tour very much and appreciate the great
-    communication prior to the trip. I will recommend your tours if and when I know
-    someone visiting your beautiful Rhodes. Take good care.<br>\nMany thanks, Lauren
-    and Sara (June 17th)<br>\nlauren.michels90@gmail.com\n\nWe had the most memorable
+    Phoenix Arizona USA\n\nDear Nicholas, Thank you for our tour. We all really enjoyed
+    it and found Kostas the tour guide, very friendly and informative. Also Jakob
+    the driver, met us and transported us very happily and safely.<br>\nKind regards,
+    Elizabeth (July 21st) USA\n\nHi Nicholas,  Thank you so much for the tour especially
+    teaming us up with Mahir. He was a great match and very helpful and informative,
+    he knows his job and does it very well!  The tour itself was also perfect to really
+    see every side of the island which is beautiful in itself.  \nWe hope to tour
+    with you again when we return to Rhodes and you will be highly recommended to
+    family & friends. Thanks again for the tour & many many thanks to Mahir.<br>\nKind
+    regards, Aysel, Australia   \n\nThank you very much! We had a wonderful day yesterday.
+    Michael was great showing us all the places. We enjoyed it very much! <br>\nThanks,
+    Subha (13 July)  UK\n\nHi Nicholas, Thank you for a truly wonderful day in Rhodes.
+    \ I must state that you are the most professional and considerate tour company
+    owner/manager.  I appreciated your timely and helpful responses to my questions
+    and requested changes to our tour.  Please thank Kostas and Jacob.  Kostas is
+    absolutely terrific.  His conservations with us regarding the natural beauty of
+    the island, it’s history and just enough about current Greek National issues were
+    captivating.  His amusing “ Lookie! Lookie! (alerting us to points of interest)
+    should become legendary.  I will post this to TripAdvisor to help others to find
+    the best tour company ever, in our fairly extensive worldwide traveling. <br>\nKind
+    regards, Bill and Daria  (June 29th) USA\n\nDominic was truly outstanding and
+    we really enjoyed his company and wisdom. We will refer you to friends and to
+    ask for Dominic. Please wish him well on the wedding of his son this weekend.<br>\nMark
+    (June 25th)  USA\n\nDear Nicholas, I can’t thank you enough for our wonderful
+    day yesterday, Mike is fantastic; very knowledgeable and easy to get along with.
+    I honestly can’t think of any way to improve the day as it was even better than
+    we’d hoped for. It’s nice to meet a business man that cares so much about giving
+    excellent customer service, you are a credit to the island<br>\nRegards, Sarah,
+    UK\n\nNicolas, we're home safe and sound. Hope we can send some business your
+    way.\nSay 'hello' to Michael for us. He's the best<br>\nDan (June 20th) Belmont
+    USA\n\nThank you the trip was brilliant .Michael was so informative and cannot
+    comment any further on perfection.<br>\nKind regards Jackie and fellow travellers,
+    \ West Yorkshire\n\nGood evening, Thank you for your service. Andrew was an awesome
+    driver...very prompt, knowledgeable and friendly. We enjoyed our tour very much
+    and appreciate the great communication prior to the trip. I will recommend your
+    tours if and when I know someone visiting your beautiful Rhodes. Take good care.<br>\nMany
+    thanks, Lauren and Sara (June 17th) California USA\n\nWe had the most memorable
     day of our trip to Greece on our full day tour with Rhodes Private Tours. The
     driver was so knowledgeable and knew exactly how to maximize our day. We viewed
     the Old Harbor, saw where the Aegean and Mediterranean Sea meet, drove to the
     Acropolis of Rhodes and toured south to the clifftop Acropolis of Lindos. A drive
     from the east to the west side of the island capped an exhilarating day! A truly
     rewarding and memorable experience. We will enjoy our pictures and think of beautiful
-    Rhodes.<br>\nDeb<br>\nddwags50@gmail.com\n\nWe spent a week in Rhodes and one
-    day was taken up with a private tour of the west and south sides of the island
-    with our driver Andrew. I would recommend this experience to anyone who is not
-    keen on tour buses as it is completely different. You choose where you want to
-    go and for how long. We ended the trip with a lovely lunch in a friendly local
-    tavern. Definitely 5 stars.<br>\nSue<br>\nsuebranson@yahoo.com\n\nThank you, we
-    had a great time on the excursion! I will be sure to leave a good review on Trip
-    advisor, we had an excellent time!<br>\nThanks again, Best,  Josh (June 12th)<br>\njlind135@gmail.com\n\nExcellent
-    honest tour company we had a wonderful time with our driver Emanuel very knowledgable,
-    friendly and super nice with my children, I cant say enough things about this
-    wonderful company they are truly the best if I could give them ten stars I would
-    . Thank you for making our day so memorable Nicholas and Emanuel blessings to
-    you and yours.<br>\nVeronica (June 11th)<br>\nalexblabonilla@hotmail.com\n\nNicholas
-    we had a fantastic experience with Mike touring Rhodes! Thank you for helping
-    us create family memories of a lifetime!!!!<br>\nMichele (June 9th)<br>\nsouthernbells@icloud.com\n\nGood
-    morning Nicholas, Our trip to Rhodes was amazing...the group decided that was
-    our favorite port and Kostas was our favorite tour guide...along with Jacob our
-    favorite driver. The entire day was perfection. Thanks to you and your entire
-    team for making our day in Rhodes perfect!<br>\nSusan (June 8th)<br>\nsuseq28@aol.com\n\nDear
+    Rhodes.<br>\nDeb, United States\n\nWe spent a week in Rhodes and one day was taken
+    up with a private tour of the west and south sides of the island with our driver
+    Andrew. I would recommend this experience to anyone who is not keen on tour buses
+    as it is completely different. You choose where you want to go and for how long.
+    We ended the trip with a lovely lunch in a friendly local tavern. Definitely 5
+    stars.<br>\nSue, London England\n\nThank you, we had a great time on the excursion!
+    I will be sure to leave a good review on Trip advisor, we had an excellent time!<br>\nThanks
+    again, Best,  Josh (June 12th)  New York USA\n\nExcellent honest tour company
+    we had a wonderful time with our driver Emanuel very knowledgable, friendly and
+    super nice with my children, I cant say enough things about this wonderful company
+    they are truly the best if I could give them ten stars I would . Thank you for
+    making our day so memorable Nicholas and Emanuel blessings to you and yours.<br>\nVeronica
+    (June 11th  Cape Coral Florida USA\n\nNicholas we had a fantastic experience with
+    Mike touring Rhodes! Thank you for helping us create family memories of a lifetime!!!!<br>\nMichele
+    (June 9th) Georgia USA\n\nGood morning Nicholas, Our trip to Rhodes was amazing...the
+    group decided that was our favorite port and Kostas was our favorite tour guide...along
+    with Jacob our favorite driver. The entire day was perfection. Thanks to you and
+    your entire team for making our day in Rhodes perfect!<br>\nSusan (June 8th)<br>\nsuseq28@aol.com\n\nDear
     Nicholas, We were all very pleased with the tour and our tour guide Liana and
     our driver Manolis. My friends loved Rhodes and said it was the best place on
     our cruise. We all felt totally satisfied and the feedback I can give you is only
