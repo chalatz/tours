@@ -4784,28 +4784,28 @@ reviews:
     back to Rhodes we will get with you again.  You were a highlight on our trip.<br>\nWe
     will stay in touch and when you come to the USA (South Carolina) come see us and
     stay with us. We will show you around.<br>\nBruce & Pat Radenbaugh<br>\nDaisy
-    Crossing Farm<br>\nBruceR1293@aol.com\n\nGREETINGS FROM CHICAGO,  WHEN I RETURNED
-    FROM THE TRIP. I WANT TO TELL YOU HOW MUCH WE ENJOYED THE TOUR. WE MET SOMEONE
-    WHO TOURED US IN EPHESUS WHO KNOWS YOU. I HOPE YOU WILL GENERATE A LOT OF BUISNESS
-    WITH YOUR WEB SITE. DAN AND I WILL RECOMMEND YOU TO PEOPLE WE KNOW WHO WILL BE
-    IN RHODES. HAVE A WONDERFULL HOLIDAY SEASON.<br>\nLEE <br>\nLeeJanko@aol.com\n\nDear
-    Nick:  Thanks for your greeting. We had a great trip. We would have really enjoyed
-    more time in beautiful Rhodes. Will be checking for our foto. Our warm regards
-    to Michael. Hope you will have a good -off season - remember the R ships will
-    still be coming!!!<br>\nBest- Virginia <br>\nveetash@optonline.net\n\nHello From
-    Colorado.   Yes, I DO recommend Nicholas. He is a wonderful person to work with
-    in advance through e-mail and he and his brother Michael both speak very good
-    English. We couldn't have asked for more! Michael was our driver. We were four
-    persons traveling together and made ALL our tours reservations in advance of leaving
-    last April. We were on R-1 from Istanbul to Athens. Nick and Michael are VERY
-    flexible and will work around whatever you want. Enjoy your trip! <br>\nRenee
-    Latty <br>\nRlatty3@aol.com\n\nDear Nicholas, Yes, it's sad to say but we are
-    back home now. I can't believe how fast our vacation went by. We met wonderful
-    people and learned so much history during our 15 day cruise. Thank you so much
-    for setting up our drivers for the nine people we had in our group. We had a great
-    time with Themis. What a beautiful island you live on!<br>\nThank you for showing
-    us the sites. We will never forget this vacation!<br>\nBest Regards, Kim<br>\nkimcunanan@hotmail.com\n\nDear
-    Nicholas,  Thank you for the outstanding tour. We enjoyed our stay at Rhodes.<br>\nOur
+    Crossing Farm USA\n\n\nGREETINGS FROM CHICAGO,  WHEN I RETURNED FROM THE TRIP.
+    I WANT TO TELL YOU HOW MUCH WE ENJOYED THE TOUR. WE MET SOMEONE WHO TOURED US
+    IN EPHESUS WHO KNOWS YOU. I HOPE YOU WILL GENERATE A LOT OF BUISNESS WITH YOUR
+    WEB SITE. DAN AND I WILL RECOMMEND YOU TO PEOPLE WE KNOW WHO WILL BE IN RHODES.
+    HAVE A WONDERFULL HOLIDAY SEASON.<br> LEE  Chicago USA\n\n\nDear Nick:  Thanks
+    for your greeting. We had a great trip. We would have really enjoyed more time
+    in beautiful Rhodes. Will be checking for our foto. Our warm regards to Michael.
+    Hope you will have a good -off season - remember the R ships will still be coming!!!<br>\nBest-
+    Virginia <br>\nveetash@optonline.net\n\nHello From Colorado.   Yes, I DO recommend
+    Nicholas. He is a wonderful person to work with in advance through e-mail and
+    he and his brother Michael both speak very good English. We couldn't have asked
+    for more! Michael was our driver. We were four persons traveling together and
+    made ALL our tours reservations in advance of leaving last April. We were on R-1
+    from Istanbul to Athens. Nick and Michael are VERY flexible and will work around
+    whatever you want. Enjoy your trip! <br>\nRenee Latty <br>\nRlatty3@aol.com\n\nDear
+    Nicholas, Yes, it's sad to say but we are back home now. I can't believe how fast
+    our vacation went by. We met wonderful people and learned so much history during
+    our 15 day cruise. Thank you so much for setting up our drivers for the nine people
+    we had in our group. We had a great time with Themis. What a beautiful island
+    you live on!<br>\nThank you for showing us the sites. We will never forget this
+    vacation!<br>\nBest Regards, Kim<br>\nkimcunanan@hotmail.com\n\nDear Nicholas,
+    \ Thank you for the outstanding tour. We enjoyed our stay at Rhodes.<br>\nOur
     vacation was excellent! You will probably see us again some day.<br>\nSincerely,
     John and Margo<br>\njmcgold@earthlink.net\n\nDear Nick,  Vasilis was a wonderful
     driver..we liked him very much.  Your island is beautiful and we will ask for
