@@ -909,49 +909,50 @@ reviews:
     time. Manuel was a wonderful driver and so knowledgeable. We loved visiting Rhodes
     - we learnt lots as well as seeing what a lovely island it is. There was nothing
     that could be improved and I will leave a 5 star review when we return from our
-    holiday. Thank you for all your help.<br>\nRita (July 24th)<br>\nrita.percival@btinternet.com\n\nThank
-    you Nicholas for reaching out. We enjoyed our time with both Sergio and Michael.<br>\nThey
+    holiday. Thank you for all your help.<br>\nRita (July 24th) London\n\nThank you
+    Nicholas for reaching out. We enjoyed our time with both Sergio and Michael.<br>\nThey
     were both very knowledgeable and friendly and really provided us with a lot of
     education about Rhodes. We really enjoyed exploring the island and felt like we
     received a valuable overview and hit some of the main sights. It exceeded our
     expectations.<br>\nThank you again for all the work you and your team do!<br>\nTom
-    (July 13th)<br>\ndraper1424@gmail.com\n\nHello Nicholas, We have been continuing
+    (July 13th) Weddington North Carolina USA\n\nHello Nicholas, We have been continuing
     our Greek odyssey through the Greek Islands. Thank you and please thank Sergio
     for a thoroughly enjoyable day. We are all in agreement that our experience in
     Rhodes, and with thanks to Sergio, was the best so far. Our lunch on the day is
     still a topic of conversation. When I get back home I will post a very favourable
-    TripAdvisor review.<br>\nThanks again (July 13th)<br>\nFernando and Company<br>\nsangilf1@bigpond.com\n\nNicholas,
-    Thanks for the incredible service you and Andrew provided this past week in Rhodes.<br>\nYour
-    outreach during our tour was fantastic. We will rave about your company on Trip
-    Advisor.<br>\nHope to see you again sometime.<br>\nAll our best. Regards to Andreas<br>\nJoel
-    and Phyllis (July 12th)<br>\njoel@theharmonygroupllc.com\n\nNickolas, The tour
-    was great. Mike was great. The restaurant was great. I'll tell anyone that comes
-    to call you and we will write as nice of a review as possible.<br>\nThanks for
-    everything.<br>\nTerry Craft. (July 11th)<br>\nterrysl500@gmail.com\n\nWe had
-    a terrific experience touring Old Town and Lindos with Costas. He was organized,
-    entertaining, and engaged.<br>\nThank you.<br>\nBest, (July 8th)<br>\nSek<br>\nSKATHIRESAN1@mgh.harvard.edu\n\nThank
-    you, we had a wonderful day today. We can't wait to visit your friendly, beautiful
-    island again!<br>\nRhonda (July 5th)<br>\nrhondamarsh21547@aol.com\n\nNicholas,
-    Thank you again for all of your help in planning our trip. We submitted a five
-    star review to TripAdvisor. Hopefully we will visit Rhodes again in the future.<br>\nThanks
-    again! (July 5th)<br>\nLee<br>\nnorris1010@verizon.net\n\nGood morning, We had
-    a wonderful time spending the day with Mike. He is vey knowledgeable and loves
-    his job. He was a super driver. He explained to us any questions we had. He made
-    a great day of memories for us. This tour has been the best since day one when
-    we booked it. The communication between you and us has been great. You, Nicholas
-    have been super too!<br>\nWe were able to capture some of the best photos we have
-    ever taken on a cruise tour thanks to Mike. He is an asset to your company!! He
-    takes heart in your company. Thanks again for a great day. I will also search
-    Trip Advisor to leave wonderful feedback as well.<br>\nDavid and Pam (July 4th)<br>\nnews29697@aol.com\n\nThank
-    you! It was truly a wonderful day, Emanuel was an amazing tour/driver. We look
-    forward to hopefully returning to your beautiful island again.<br>\nJohn (July
-    4th)<br>\neislandroad@yahoo.com\n\nOur driver met us up promptly as we disembarked
-    our cruise ship and customized our tour to view and explore the island the island
-    of Rhodes within the mobility limits of the older member of our small group. Lunch
-    was amazingly fresh with the opportunity to have the freshest octopus we enjoyed
-    on our entire trip. The open verandah type balcony of the restaurant with sea
-    breezes just added to the ambiance. It was a perfect day and I highly recommend.
-    Nicholas always answered any of my pre-cruise questions promptly via email.<br>\nCarl<br>\ncarl@hmklawoffice.com>\n\nThanks
+    TripAdvisor review.<br>\nThanks again (July 13th) Fernando and Company, Mount
+    Kembla Australia\n\nNicholas, Thanks for the incredible service you and Andrew
+    provided this past week in Rhodes.  Your outreach during our tour was fantastic.
+    We will rave about your company on Trip Advisor. \nHope to see you again sometime.<br>\nAll
+    our best. Regards to Andreas, Joel and Phyllis (July 12th) New Braunfels  Texas
+    \ USA\n\nNickolas, The tour was great. Mike was great. The restaurant was great.
+    I'll tell anyone that comes to call you and we will write as nice of a review
+    as possible.<br>\nThanks for everything. Terry Craft. (July 11th) Sioux Falls
+    SD 57108 USA\n\nWe had a terrific experience touring Old Town and Lindos with
+    Costas. He was organized, entertaining, and engaged.<br>\nThank you. Best, Sek
+    (July 8th)  Newton MA USA\n\nThank you, we had a wonderful day today. We can't
+    wait to visit your friendly, beautiful island again!<br>\nRhonda (July 5th) Bel
+    Air Maryland USA\n\nNicholas, Thank you again for all of your help in planning
+    our trip. We submitted a five star review to TripAdvisor. Hopefully we will visit
+    Rhodes again in the future.<br>\nThanks again! Lee (July 5th) Southborough MA
+    USA\n\nGood morning, We had a wonderful time spending the day with Mike. He is
+    vey knowledgeable and loves his job. He was a super driver. He explained to us
+    any questions we had. He made a great day of memories for us. This tour has been
+    the best since day one when we booked it. The communication between you and us
+    has been great. You, Nicholas have been super too!<br>\nWe were able to capture
+    some of the best photos we have ever taken on a cruise tour thanks to Mike. He
+    is an asset to your company!! He takes heart in your company. Thanks again for
+    a great day. I will also search Trip Advisor to leave wonderful feedback as well.<br>\nDavid
+    and Pam (July 4th) Williamston SC USA\n\nThank you! It was truly a wonderful day,
+    Emanuel was an amazing tour/driver. We look forward to hopefully returning to
+    your beautiful island again.<br>\nJohn (July 4th)<br>\neislandroad@yahoo.com\n\nOur
+    driver met us up promptly as we disembarked our cruise ship and customized our
+    tour to view and explore the island the island of Rhodes within the mobility limits
+    of the older member of our small group. Lunch was amazingly fresh with the opportunity
+    to have the freshest octopus we enjoyed on our entire trip. The open verandah
+    type balcony of the restaurant with sea breezes just added to the ambiance. It
+    was a perfect day and I highly recommend. Nicholas always answered any of my pre-cruise
+    questions promptly via email.<br>\nCarl<br>\ncarl@hmklawoffice.com>\n\nThanks
     Nicholas, We had a very pleasant and interesting day and will happily refer enquiries
     to you and Michael<br>\nDr Rolene and Dr Danny<br>\ndanny@lamm.com.au\n\nMy husband
     and I were on a Silversea cruise and wanted to do a private tour of Rhodes. Based
