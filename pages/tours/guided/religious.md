@@ -347,7 +347,7 @@ faq:
       25-50 feet of the tour guide, you’ll be able to hear him through your special
       headsets, so you should be completely fine all the way.
   - q: How much are the entrance fees on this tour?
-    a: The only entrance fee is to Monastery of Filerimos, 6 euro per person. <a href="./seniors-tours-in-rhodes.htm">Seniors</a>
+    a: The only entrance fee is to Monastery of Filerimos, 6 euro per person. <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a>
       (with Id or Passport) 3 Euros / person
   - q: Can we add other sites, or customize this tour?
     a: Yes, all the tours are customizable. Just let us know the sites you wish to
