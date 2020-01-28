@@ -154,113 +154,111 @@ reviews:
     perfect and the memories that he gave us will last forever.  I have posted an
     amazing review of your company and Michael on tripadvisor. I will tell everyone
     I know how great our experience with you was.   Thanks again Jeff (Sept 28th)
-    mcmurdojeff@gmail.com>\n\nNicholas. It was a TERRIFIC day!  Perfect in every way!!
-    Everyone loved the day and had a great time.  I cannot thank you enough for the
-    service, your professionalism and client communication! <br>\nWishing you all
-    the best always.\nJane (Sept 25th)  kurlyjane@aol.com \n\nHi Nicholas, Once again
-    \"Nicholas Rhodes Private Tours\" did not disappoint.  We had a wonderful day
-    in beautiful Rhodes.  Dora was so much fun! Her knowledge on the history of Rhodes
-    is incredible. We couldn’t ask for a better driver than Jacob.  <br> Thanks to
-    you, Dora and Jacob our day in Rhodes was really special.  Sincerely, Susan (Sept
-    24th) suemendes423@gmail.com\n\nNicholas! I must tell you that our time was fabulous
-    and everyone enjoyed it.  Michael did a great job of driving us, describing everything,
-    answering all of our questions and even taking some group pictures of us together.
-    It was a pleasure to meet him. Please convey our best wishes to him for a job
-    well done. If we ever return or know of any friends or family visiting Rhodes,
-    please know you will get the highest of recommendations!  Thank you again for
-    your help in arranging the tour, making it easy for us and helping us have a most
-    memorable time in Rhodes. <br>\nRegards,  Mark and Jamie, Miles and Lisa (Sept
-    23rd)  mstick85@yahoo.com\n\nThanks Nicholas. Dominic was a wonderful driver.
-    \ I hope to recommend your company and hire your services again in the future.
-    <br>\nThank you very much Hiedi (Sept 23rd)  hiediweiss@gmail.com\n\nDear Nicholas
-    and Andrew,  We enjoyed the tour today and Andrews detailed explanations.  Everything
-    went very well as usual.  Thank you both and take care. We will be back next year.
-    \ <br> Vanessa and Steve (Sept 18th) vanessavhoecke@yahoo.com\n\nGood morning
-    Nicholas! Thank you!  We had an excellent time both Tuesday and Thursday with
-    Michael and Andrew. We thank you very much for arranging such wonderful days and
-    providing tours and itineraries for us to enjoy while in your beautiful island.
-    Today is our last day and we are busy doing some last minute sightseeing and packing.
-    When we get home I will be sure to post favorable and thorough reviews for you
-    as we very very much enjoyed our trips and time with your company and people.
-    Thank you again for making our time on Rhodes very special. Memorable. And amazing!!!!
-    <br> All the best. Marcia (13 Sept) Johnstonhouse@verizon.net\n\nDear Nicholas,
-    Thank you for our tours of Rhodes conducted by your Company, it was indeed very
-    nice to see the beauty and historical buildings and scenery on our tour. Very
-    well driven and explained by you brother Michael. Every thing was first class..Thank
+    Canada \n\nNicholas. It was a TERRIFIC day!  Perfect in every way!! Everyone loved
+    the day and had a great time.  I cannot thank you enough for the service, your
+    professionalism and client communication! <br>\nWishing you all the best always.\nJane
+    (Sept 25th)  USA \n\nHi Nicholas, Once again \"Nicholas Rhodes Private Tours\"
+    did not disappoint.  We had a wonderful day in beautiful Rhodes.  Dora was so
+    much fun! Her knowledge on the history of Rhodes is incredible. We couldn’t ask
+    for a better driver than Jacob.  <br> Thanks to you, Dora and Jacob our day in
+    Rhodes was really special.  Sincerely, Susan (Sept 24th) USA\n\nNicholas! I must
+    tell you that our time was fabulous and everyone enjoyed it.  Michael did a great
+    job of driving us, describing everything, answering all of our questions and even
+    taking some group pictures of us together. It was a pleasure to meet him. Please
+    convey our best wishes to him for a job well done. If we ever return or know of
+    any friends or family visiting Rhodes, please know you will get the highest of
+    recommendations!  Thank you again for your help in arranging the tour, making
+    it easy for us and helping us have a most memorable time in Rhodes. <br>\nRegards,
+    \ Mark and Jamie, Miles and Lisa (Sept 23rd)  mstick85@yahoo.com\n\nThanks Nicholas.
+    Dominic was a wonderful driver.  I hope to recommend your company and hire your
+    services again in the future. <br>\nThank you very much Hiedi (Sept 23rd)  USA\n\nDear
+    Nicholas and Andrew,  We enjoyed the tour today and Andrews detailed explanations.
+    \ Everything went very well as usual.  Thank you both and take care. We will be
+    back next year.  <br> Vanessa and Steve (Sept 18th) Belgium \n\nGood morning Nicholas!
+    Thank you!  We had an excellent time both Tuesday and Thursday with Michael and
+    Andrew. We thank you very much for arranging such wonderful days and providing
+    tours and itineraries for us to enjoy while in your beautiful island. Today is
+    our last day and we are busy doing some last minute sightseeing and packing. When
+    we get home I will be sure to post favorable and thorough reviews for you as we
+    very very much enjoyed our trips and time with your company and people. Thank
+    you again for making our time on Rhodes very special. Memorable. And amazing!!!!
+    <br> All the best. Marcia (13 Sept) Pittsburgh  PA USA\n\nDear Nicholas, Thank
+    you for our tours of Rhodes conducted by your Company, it was indeed very nice
+    to see the beauty and historical buildings and scenery on our tour. Very well
+    driven and explained by you brother Michael. Every thing was first class..Thank
     you. My wife and I look forward to our return to Rhodos and Kastellorizo. For
     now ..we send our best wishes to you and Michael<br> \nJim and Jann (8th Sept)
-    \  radi4@bigpond.com\n\nOur tour with Dominic was outstanding!  Beautiful sights
+    \ Wahroonga AUSTRALIA \n\nOur tour with Dominic was outstanding!  Beautiful sights
     and Dominic was a true professional who went above and beyond to help us enjoy
     our tour.  I have already passed on your company’s name to several friends planning
-    cruises to Rhodes. <br> Steve (Sep 8th)  skl0510@gmail.com\n\nHi Nicholas, I hope
-    you are well. I wanted to thank you for our excellent tour.  Thank you to yourself,
-    Lianna and Yannis for a wonderful day. <br> Mel (Sept 9th)  mel@atripdownmemorylane.co.uk\n\nDear
-    Nicholas, We feel so fortunate to have spent yesterday with your extremely knowledgeable
-    driver Michael! What an appreciation he imparted to is for this beautiful island—its
-    history, culture, and people. We will recommend \"Rhodes Private Tours\" to every
-    Rhodes-bound person we know!. <br> Warm regards, Patti  (Sept 5th) PLodato@hotmail.com\n\nHi
-    Nicholas, We had the most fabulous day on our tour. I promise to write a raving
-    review!!. <br> \nBest regards  Denise (Sept 1st)  deeguarino@gmail.com\n\nDear
-    Nicholas, We had such a wonderful day and Dominic was a joy to have as our driver
-    and guide. Your island is so beautiful. It was a privilege to see it. We will
-    certainly let our friends and family know about this amazing island and hope to
-    return to have Dominic as our driver again! <br> \nWarmest regards and many thanks,
-    \ \nLisa.   lisa107107@gmail.com\n\nDear Nicholas,  Thank you for the service.
-    We loved Stergos, it was wonderful. He gave us a lot of insights regarding the
-    island history. And big plus he was so patient with the kids. At the end they
-    were sad to leave him.  It‘s definitely something we would do again or recommend.
-    <br> Ciao, till next time Christelle (30th Aug)  chrisn20@hotmail.com\n\nNicholas,
+    cruises to Rhodes. <br> Steve (Sep 8th)  San Antonio Texas  \n\nHi Nicholas, I
+    hope you are well. I wanted to thank you for our excellent tour.  Thank you to
+    yourself, Lianna and Yannis for a wonderful day. <br> Mel (Sept 9th)  Ipswich
+    Suffolk UK\n\nDear Nicholas, We feel so fortunate to have spent yesterday with
+    your extremely knowledgeable driver Michael! What an appreciation he imparted
+    to is for this beautiful island—its history, culture, and people. We will recommend
+    \"Rhodes Private Tours\" to every Rhodes-bound person we know!. <br> Warm regards,
+    Patti  (Sept 5th) UK \n\nHi Nicholas, We had the most fabulous day on our tour.
+    I promise to write a raving review!!. <br> \nBest regards  Denise (Sept 1st) New
+    Jersey USA\n\nDear Nicholas, We had such a wonderful day and Dominic was a joy
+    to have as our driver and guide. Your island is so beautiful. It was a privilege
+    to see it. We will certainly let our friends and family know about this amazing
+    island and hope to return to have Dominic as our driver again! <br> \nWarmest
+    regards and many thanks,  \nLisa.   Pikesville Maryland USA\n\nDear Nicholas,
+    \ Thank you for the service. We loved Stergos, it was wonderful. He gave us a
+    lot of insights regarding the island history. And big plus he was so patient with
+    the kids. At the end they were sad to leave him.  It‘s definitely something we
+    would do again or recommend. <br> Ciao, till next time Christelle (30th Aug)  Canada\n\nNicholas,
     Overall, our family had a great time in Greece. You and Andrew were an important
     part of that success.  If we find ourselves back in the region, we will not hesitate
     to call upon your company and gladly refer our friends traveling to Rhodes to
     you. Once again, thank-you very, very much.<br> Best wishes and good fortune.
-    \ \nJeffrey (Aug 28th)  Jeffrey_Ranney@msn.com\n\nExcellent team, booked via the
-    website and enjoyed the whole Rhodes experience with these guys. Thank you to
-    Nicholas and Michael who we had the pleasure of talking too. Would highly recommend
+    \ \nJeffrey (Aug 28th)  Oak Hill Virginia USA\n\n\nExcellent team, booked via
+    the website and enjoyed the whole Rhodes experience with these guys. Thank you
+    to Nicholas and Michael who we had the pleasure of talking too. Would highly recommend
     these guys if you want a reliable private tour of Rhodes. <br>\nThanks guys. Anvesh
-    (25th Aug)  anvesh.p.prasad@gmail.com\n\nNicholas, thank you, we enjoyed our tour
-    very much!! <br>\nRegards,  David,  david@rindinternational.com\n\nThank you so
-    much we all had a great time and enjoyed our tour very much.  We loved the island
-    of Rhodes and will be back<br>\nColleen (Aug 23rd)   lily.blyth@icloud.com\n\nHi
-    Nicholas. Thanks so much for our wonderful time on Rhodes. Please give our warm
-    regards to Andrew. Thanks again to you and Andrew for making it so special.<br>
-    Patti (Aug 21st) pbaio@cox.net\n\nNicholas thank you so much.  We thoroughly enjoyed
-    the day and Stergos was fantastic - again!  I’ll be recommending you to all my
-    friends should they ever visit Rhodes. And posting again on trip advisor just
-    how good the trips are. Thanks again for making our holiday something we will
-    remember.<br> Regards, Keith (Aug 19th)  keith.prd@gmail.com\n\nNicholas, Thank
-    you for a wonderful day!  Steve (Stathis) our driver was awesome.  We are looking
-    forward to coming back and will pass on your details to our friends :) Anita and
-    family (Aug 16th)  anita01lee@gmail.com\n\nWhile I was in Rhodes on a cruise,
-    we used Rhodes Private Tours for a beach and island tour. Our driver was fantastic
-    and Nicholas made sure we were taken care of all day. We went to several beaches
-    and with the suggestion from our driver we chose a great beach to enjoy our day
-    in Rhodes. This is a fantastic company!  I would certainly use them again next
-    time we are in Rhodes.<br> \nKellie (Aug 16th)  keaton0619@yahoo.com\n\nDear Nicolas,
-    The ride with Stergos was perfect. Please give him our greetings again. Kind regards,
-    Ralf (Aug 15th)  ralf.beutner@web.de\n\nThank you so much - we had an amazing
-    afternoon / evening.  Andrew is very charming and calm.  It was a treat to hear
-    about living in Rhodes from him.<br> Best wishes,  Belinda   (August 14th)  belinda.wiklund@gmail.com\n\nGood
-    morning Nicholas! My partner and I had such an amazing time on our tour with Mike
-    that I have recommended the same to my parents, who are due to visit Rhodes soon.
-    <br> Pamela (Aug 14th)  pamela.eas@gmail.com\n\nNicholas, Wonderful tour, I will
-    definitely give you a great recommendation. Warm regards, Angela (Aug 11th) angelalomb@aol.com\n\nDear
-    Nicholas and Michael, Now that I am back in Belgium, I can only confirm looking
-    back upon a perfect week on Rhodos - the two days I could spend with your company
-    exploring the west coast and Rhodes town were equally superb (perfect timing,
-    background information, flexibility - e.g. Thari monastery as an extra visit).
-    By means of a private tour I was able to visit many highlights of the island in
-    an efficient and peaceful way. I will write a positie review on Tripadvisor to
-    support your work!<br> \nEfcharisto!, Alain (10th Aug) alain.laridon@telenet.be\n\nNicholas.
-    Michael was superb on both excursions. We learned a lot and had a superb time
-    with him. And you were right regarding Tsambica beach. Spectacular.<br> \nJoel
-    (Aug 4th)  jfeldman@sidley.com\n\nHi, we really enjoyed out time with Manuel and
-    we'll be back again soon. We will not hesitate to recommend you.<br> \nDavid (Aug
-    3rd)  david@tomcoh.com\n\nWhat a superb day, an island tour with Sergio as our
-    driver, one of the nicest, friendliest and most knowledgeable people you could
-    meet. We would recommend Sergio and this company wholeheartedly. Thank you for
-    a great day.<br> \nJuliet  juliet.schaffer@gmail.com\n\nThanks so much for the
-    tour, Really enjoyed it!<br> \nAllan and Amanda  alpeck777@yahoo.com\n\nNicholas
+    (25th Aug)  Canada\n\nNicholas, thank you, we enjoyed our tour very much!! <br>\nRegards,
+    \ David,  david@rindinternational.com\n\nThank you so much we all had a great
+    time and enjoyed our tour very much.  We loved the island of Rhodes and will be
+    back<br>\nColleen (Aug 23rd)   lily.blyth@icloud.com\n\nHi Nicholas. Thanks so
+    much for our wonderful time on Rhodes. Please give our warm regards to Andrew.
+    Thanks again to you and Andrew for making it so special.<br> Patti (Aug 21st)
+    pbaio@cox.net\n\nNicholas thank you so much.  We thoroughly enjoyed the day and
+    Stergos was fantastic - again!  I’ll be recommending you to all my friends should
+    they ever visit Rhodes. And posting again on trip advisor just how good the trips
+    are. Thanks again for making our holiday something we will remember.<br> Regards,
+    Keith (Aug 19th)  keith.prd@gmail.com\n\nNicholas, Thank you for a wonderful day!
+    \ Steve (Stathis) our driver was awesome.  We are looking forward to coming back
+    and will pass on your details to our friends :) Anita and family (Aug 16th)  anita01lee@gmail.com\n\nWhile
+    I was in Rhodes on a cruise, we used Rhodes Private Tours for a beach and island
+    tour. Our driver was fantastic and Nicholas made sure we were taken care of all
+    day. We went to several beaches and with the suggestion from our driver we chose
+    a great beach to enjoy our day in Rhodes. This is a fantastic company!  I would
+    certainly use them again next time we are in Rhodes.<br> \nKellie (Aug 16th)  keaton0619@yahoo.com\n\nDear
+    Nicolas, The ride with Stergos was perfect. Please give him our greetings again.
+    Kind regards, Ralf (Aug 15th)  ralf.beutner@web.de\n\nThank you so much - we had
+    an amazing afternoon / evening.  Andrew is very charming and calm.  It was a treat
+    to hear about living in Rhodes from him.<br> Best wishes,  Belinda   (August 14th)
+    \ belinda.wiklund@gmail.com\n\nGood morning Nicholas! My partner and I had such
+    an amazing time on our tour with Mike that I have recommended the same to my parents,
+    who are due to visit Rhodes soon. <br> Pamela (Aug 14th)  pamela.eas@gmail.com\n\nNicholas,
+    Wonderful tour, I will definitely give you a great recommendation. Warm regards,
+    Angela (Aug 11th) angelalomb@aol.com\n\nDear Nicholas and Michael, Now that I
+    am back in Belgium, I can only confirm looking back upon a perfect week on Rhodos
+    - the two days I could spend with your company exploring the west coast and Rhodes
+    town were equally superb (perfect timing, background information, flexibility
+    - e.g. Thari monastery as an extra visit). By means of a private tour I was able
+    to visit many highlights of the island in an efficient and peaceful way. I will
+    write a positie review on Tripadvisor to support your work!<br> \nEfcharisto!,
+    Alain (10th Aug) alain.laridon@telenet.be\n\nNicholas. Michael was superb on both
+    excursions. We learned a lot and had a superb time with him. And you were right
+    regarding Tsambica beach. Spectacular.<br> \nJoel (Aug 4th)  jfeldman@sidley.com\n\nHi,
+    we really enjoyed out time with Manuel and we'll be back again soon. We will not
+    hesitate to recommend you.<br> \nDavid (Aug 3rd)  david@tomcoh.com\n\nWhat a superb
+    day, an island tour with Sergio as our driver, one of the nicest, friendliest
+    and most knowledgeable people you could meet. We would recommend Sergio and this
+    company wholeheartedly. Thank you for a great day.<br> \nJuliet  juliet.schaffer@gmail.com\n\nThanks
+    so much for the tour, Really enjoyed it!<br> \nAllan and Amanda  alpeck777@yahoo.com\n\nNicholas
     it was an amazing experience. Thank you so much. We will recommend your services
     again. \nSam and Mary (Aug 2nd)<br> sam_perera@yahoo.com\n\nWe were so lucky and
     fortunate to have Michael share the beauty of his lovely island!  We spent 8 hours
