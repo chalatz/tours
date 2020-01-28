@@ -111,9 +111,9 @@ reviews:
     trip very comfortable. If I have the opportunity to visit Rhodes again, I would
     absolutely go on this trip again and request Mike as the driver. :)  I would also
     definitely recommend your services without a doubt to other people.<br>\nKeep
-    up the great work!  Kind regards, Janet (Oct 18th)  Lynn, MA USA\n\nNicholas Thank
-    you very much!!!  Everything was perfect and we enjoyed the whole day. Michael
-    is great and we had so much fun with him.  I'm adding a screen shot of the review
+    up the great work!  Kind regards, Janet (Oct 18th)  MA USA\n\nNicholas Thank you
+    very much!!!  Everything was perfect and we enjoyed the whole day. Michael is
+    great and we had so much fun with him.  I'm adding a screen shot of the review
     I published in TripAdvisor. <br>\nThank's again for everything. I'm sure we'll
     meet again.  (Oct 17th) Keren Tel Aviv, Israel\n\nNicholas: Thank you for the
     tour. Rhodes was the highlight of our trip, and the tour with you was a large
