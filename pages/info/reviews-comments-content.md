@@ -4921,12 +4921,12 @@ reviews:
     named Nicholas. He was funny, knew everything about the island and showed us the
     sights in an air-conditioned Mercedes. He was one of the highlights of the cruise.<br>\nI
     have now looked at your web site--nice work!<br>\nThanks again for making our
-    trip so wonderful!<br>\nRusty<br> USA\n\n\nDear Nicholas.  I am Omar the son of
-    Dr Monir . We visited Rhodes last month on the cruise ship Boccacio<br>\nWe took
+    trip so wonderful!<br>\nRusty  USA\n\n\nDear Nicholas.  I am Omar the son of Dr
+    Monir . We visited Rhodes last month on the cruise ship Boccacio<br>\nWe took
     a tour to Lindos and Faliraki with your company. I want you to know that Rodos
     was one of the best islands I have seen in my life and we all enjoyed your excellent
     service. Our driver had a great sense of humor!. I hope to visit Rodos again next
-    year.<br>\nThank you for the tour!<br>\nOmar<br> Cairo Egypt \n \n"
+    year.<br>\nThank you for the tour!<br>\nOmar  Cairo Egypt \n \n"
 
 ---
 A big "THANKS" to all who have or will use our services and have given their support in some way. 
