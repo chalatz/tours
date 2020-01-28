@@ -4798,15 +4798,15 @@ reviews:
     was our driver. We were four persons traveling together and made ALL our tours
     reservations in advance of leaving last April. We were on R-1 from Istanbul to
     Athens. Nick and Michael are VERY flexible and will work around whatever you want.
-    Enjoy your trip! <br>\nRenee Latty <br>\nRlatty3@aol.com\n\nDear Nicholas, Yes,
-    it's sad to say but we are back home now. I can't believe how fast our vacation
-    went by. We met wonderful people and learned so much history during our 15 day
-    cruise. Thank you so much for setting up our drivers for the nine people we had
-    in our group. We had a great time with Themis. What a beautiful island you live
-    on!<br>\nThank you for showing us the sites. We will never forget this vacation!<br>\nBest
-    Regards, Kim<br>\nkimcunanan@hotmail.com\n\nDear Nicholas,  Thank you for the
-    outstanding tour. We enjoyed our stay at Rhodes.<br>\nOur vacation was excellent!
-    You will probably see us again some day.<br>\nSincerely, John and Margo<br>\njmcgold@earthlink.net\n\nDear
+    Enjoy your trip! <br>\nRenee Latty   USA\n\nDear Nicholas, Yes, it's sad to say
+    but we are back home now. I can't believe how fast our vacation went by. We met
+    wonderful people and learned so much history during our 15 day cruise. Thank you
+    so much for setting up our drivers for the nine people we had in our group. We
+    had a great time with Themis. What a beautiful island you live on!<br>\nThank
+    you for showing us the sites. We will never forget this vacation!<br>\nBest Regards,
+    Kim<br>\nkimcunanan@hotmail.com\n\nDear Nicholas,  Thank you for the outstanding
+    tour. We enjoyed our stay at Rhodes.<br>\nOur vacation was excellent! You will
+    probably see us again some day.<br>\nSincerely, John and Margo<br>\njmcgold@earthlink.net\n\nDear
     Nick,  Vasilis was a wonderful driver..we liked him very much.  Your island is
     beautiful and we will ask for a recommendation of a great place to stay!!<br>\nThanks,
     Robin and Herman<br>\nDevilnut@aol.com \n\nHi, Nick! Thanks for the tour! We had
