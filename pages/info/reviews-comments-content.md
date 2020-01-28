@@ -4907,17 +4907,16 @@ reviews:
   text: "HI NICK SURE WAS GREAT TO MEET YOU, LEARN ABOUT YOUR FAMILY AND RHODES. WE
     HAD A REALLY GREAT TIME WITH YOU AND WERE VERY HAPPY WITH ALL THE INFORMATION
     YOU GAVE ABOUT YOUR BEAUTIFUL ISLAND. YOU SHOULD BE PROUD OF IT. <br>\nTHANKS
-    AGAIN <br>\nJo-Ann GIOMARIA@aol.com\n\nDear Nick, We had a chance to tour the
-    Island with you on both East and West Coasts, and have great time.<br>\nComing
-    back I looked at your web site. I hope your business approach works well.<br>\nWith
-    the best wishes to you and your cosmopolitan family, Yuri<br>\nDr. Yuri Rosenberg\n\n\nMy
+    AGAIN <br>\nJo-Ann USA \n\nDear Nick, We had a chance to tour the Island with
+    you on both East and West Coasts, and have great time.<br>\nComing back I looked
+    at your web site. I hope your business approach works well.<br>\nWith the best
+    wishes to you and your cosmopolitan family, Yuri<br>\nDr. Yuri R.  Isrel \n\n\nMy
     wife, Nancy, and I spent a couple of hours with Nicholas last September.We had
     a wonderful time, got lots of information on Rhodes. He knows the Island of Rhodes
     as well as how life in Rhodes is today.<br>\nNicholas speaks 5 or 6 languages
     and is very easy to listen to. He was in no rush, but ready to move on when we
     were. I think he made our stop there wonderful instead of just nice. I would not
-    hesitate to recommend him as a private tour.<br>\nGraham & Nancy<br>\ncsdiwhitt@musfiber.com
-    \      "
+    hesitate to recommend him as a private tour.<br>\nGraham & Nancy  USA       "
 - year: "1998"
   text: "Hi Nick.   Just thought you would like to know that I have included your
     name and email on the Net so that everyone can have the wonderful experience we
