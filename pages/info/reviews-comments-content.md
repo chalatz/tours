@@ -4705,28 +4705,28 @@ reviews:
   text: "Hello Nicholas,  You did a great job with your web site and the pictures.
     We enjoyed our tour very much and had a wonderful time on Rhodes! WE may send
     some friend to you, but we don't have all their details jet.<br>\nThanks, Gina
-    & Gerhard<br>\nghstier@nctimes.net\n\nThanks so much for the lovely tour. I am
-    sure that we will be back to Rhodes for an extended stay and will call upon you
-    again.<br>\nWe were very, very pleased with the tour we had in Kusadasi. Joseph
-    was wonderful, and it was a pleasure to go through Ephesus at our own pace. He
-    was great with the children, too. The van was roomy and comfortable. Joseph even
-    stopped for us to taste lamb souvlaki at a roadside shop for a \"taste of Turkey\".
-    I'm sure no one else on our ship had a better time.<br>\nWarm wishes for continued
-    success,<br>\nMarcie and Bill<br>\nPAPAD315@aol.com\n\nThe drivers were outstanding
-    -- the service you offer in Rhodes was my favorite part of the cruise to Greece.
-    You are lucky to live on such a lovely island, and have such great associates
-    drivers<br>\nThanks again. Jane<br>\nJanebicek@aol.com\n\nThank you very much
-    for your greetings. We had a good, but unfortunately too short, journey in Rhodes.
-    I and my family enjoyed the trip to Lindos on May 11th and we are satisfied for
-    your service and your attention.<br>\nRegards from Cordoba, Argentina<br>\nNestor
-    and family<br>\naghemo@onenet.com.ar\n\nDear Nicholas,  We had an absolutely wonderful
-    trip, thanks in large part to your services. Our day in Rhodes was delightful,
-    we saw everything we wanted to see and more. I would highly, highly recommend
-    you to enyone traveling that area. Thank you for everything<br>\nEileen and Bill<br>\nwhfowler@whidbey.net\n\nNicholas;
-    \ Our day in Rhodes was marvelous. Michael was an excellent driver. We saw more
-    of Rhodes than anyone else on the ship. Michael was waiting for us as we got off
-    the ship and took great care of us for the rest of the day. Please do not hesitate
-    to use me as a reference.<br>\nRegards Bill<br>\nwilliam.ford@worldnet.att.net\n\nHello,
+    & Gerhard  USA\n\nThanks so much for the lovely tour. I am sure that we will be
+    back to Rhodes for an extended stay and will call upon you again.<br>\nWe were
+    very, very pleased with the tour we had in Kusadasi. Joseph was wonderful, and
+    it was a pleasure to go through Ephesus at our own pace. He was great with the
+    children, too. The van was roomy and comfortable. Joseph even stopped for us to
+    taste lamb souvlaki at a roadside shop for a \"taste of Turkey\". I'm sure no
+    one else on our ship had a better time.<br>\nWarm wishes for continued success,<br>\nMarcie
+    and Bill   Canada\n\nThe drivers were outstanding -- the service you offer in
+    Rhodes was my favorite part of the cruise to Greece. You are lucky to live on
+    such a lovely island, and have such great associates drivers<br>\nThanks again.
+    Jane  USA\n\nThank you very much for your greetings. We had a good, but unfortunately
+    too short, journey in Rhodes. I and my family enjoyed the trip to Lindos on May
+    11th and we are satisfied for your service and your attention.<br>\nRegards from
+    Cordoba, Argentina<br>\nNestor and family<br>\naghemo@onenet.com.ar\n\nDear Nicholas,
+    \ We had an absolutely wonderful trip, thanks in large part to your services.
+    Our day in Rhodes was delightful, we saw everything we wanted to see and more.
+    I would highly, highly recommend you to enyone traveling that area. Thank you
+    for everything<br>\nEileen and Bill<br>\nwhfowler@whidbey.net\n\nNicholas;  Our
+    day in Rhodes was marvelous. Michael was an excellent driver. We saw more of Rhodes
+    than anyone else on the ship. Michael was waiting for us as we got off the ship
+    and took great care of us for the rest of the day. Please do not hesitate to use
+    me as a reference.<br>\nRegards Bill<br>\nwilliam.ford@worldnet.att.net\n\nHello,
     \ The trip home was long and tiring. But the trip was fantastic. I think ourday
     with you was certainly one of the highlights. Most of the rest of thetrip was
     fairly organized so we didn't have as much of an opportunity to explore as we
