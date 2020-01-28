@@ -452,49 +452,48 @@ reviews:
     Highly recommended!!!!<br>\nAntonio (May 14) Piso Cabo San Lucas\n\nNicholas,
     I posted positive reviews on tripadvisor and Facebook. Michael was the best driver.\nHoping
     in the near future to come again and see more of Rhodes. Michael was fantastic!<br>\nLeslie
-    Baker (May 14th)<br>\nabaker@netvision.net.il\n\nDear Nicholas, We were very happy
-    with our tour experience with Emmanouel Papachristofis. He was an excellent and
-    a knowledgeable driver!<br>\nThank you! Have a wonderful day!<br>\nPaola (May
-    13th)<br>\npaolalifecoach@gmail.com\n\nWe enjoyed our tour immensely, Nicholas,
-    and our driver was fantastic. Thank you,<br>\nDenise and Bill (May 7th)<br>\nsalisdb@comcast.net\n\nNicholas,
-    We had a wonderful experience and Sergio was an excellent guide. We take with
-    us great memories of our visit.<br>\nPhilip (May 2nd)<br>\npfinn10676@aol.com\n\nHi
-    Nicholas.... it was great to meet you. Thank you for a great day!!<br>\nAlexandra
-    (May 3rd)<br>\nalicatg62@hotmail.com\n\nNicholas, Thank you for arranging a great
-    tour. Yannis was a fantastic guide. Very knowledgeable, very friendly and interesting,
-    very good English and a safe driver. I will post a very positive review on TripAdvisor;
-    most likely not until next week when we return to California.  Thank you for meeting
-    us at the pier; it was a pleasure to meet you in person after having corresponded
-    with you for a few months on e-mail.<br>\nHoward (May 1st)<br>\nhdlevin@gmail.com\n\nDear
-    Nicholas, Thanks for your tour. we truly enjoyed the tour guide \"Costas\" and
-    all the knowledge he shared.<br>\nThank you,  Adrian(April 28th)<br>\nadmasar@gmail.com\n\nDear
-    Nicholas, we really enjoy our stay in Rhodes. Michael show us many place even
-    if in a short time and gave us a lot of interesting information. Thanks him again
-    from us and thank you for your assistance.<br>\nAll the best Michele (April 25th)<br>\nmichele.capotosto@gmail.com\n\nNicholas,
-    Thank you sooo much! We thoroughly enjoyed our time with you. The picture you
-    took of us at the winery was perfect!<br>\nLaurie (April 24th)<br>\nlsteuri@me.com\n\nNicholas,
-    Thank you so much for a wonderful day on your amazing island. My only regret was
-    that we were not in port longer. Kostas and Jacob did an amazing job. I can’t
-    wait to return!<br>\nBest wishes and Happy Easter!<br>\nPiper (April 24th)<br>\npseyw@mac.com\n\nHi
-    Nicholas, I am sorry for the delay in writing the review, I just took care of
-    it, you will find it under Maria Kay.\nThank you again for the wonderful tour,
-    it was amazing.\nMaria Neal (April 23rd)\nmicknmaria@gmail.com\n\nThank you Nicholas
-    and Michael for all your help in making my trip so memorable.<br>\nCindy and Phil
-    (April 17th)<br>\ncbenon@pacbell.net\n\nHI Nicholas, Thank you for the well arranged
-    tour. Our group had a fun day.<br>\nMet vriendelijke groet,<br>\nKind regards,<br>\nMarisa
-    de Wolff (April 15)<br>\nhttp://www.hvkstevens.com\n\nDear Nicholas,  Just wanted
+    Baker (May 14th) Beer Sheva Israel\n\nDear Nicholas, We were very happy with our
+    tour experience with Emmanouel Papachristofis. He was an excellent and a knowledgeable
+    driver!<br>\nThank you! Have a wonderful day!<br>\nPaola (May 13th) Mexico\n\nWe
+    enjoyed our tour immensely, Nicholas, and our driver was fantastic. Thank you,<br>\nDenise
+    and Bill (May 7th) Windsor\n\nNicholas, We had a wonderful experience and Sergio
+    was an excellent guide. We take with us great memories of our visit.<br>\nPhilip
+    (May 2nd) Greenwich ct USA\n\nHi Nicholas.... it was great to meet you. Thank
+    you for a great day!!<br>\nAlexandra (May 3rd) San Diego CA USA\n\nNicholas, Thank
+    you for arranging a great tour. Yannis was a fantastic guide. Very knowledgeable,
+    very friendly and interesting, very good English and a safe driver. I will post
+    a very positive review on TripAdvisor; most likely not until next week when we
+    return to California.  Thank you for meeting us at the pier; it was a pleasure
+    to meet you in person after having corresponded with you for a few months on e-mail.<br>\nHoward
+    (May 1st)  USA\n\nDear Nicholas, Thanks for your tour. we truly enjoyed the tour
+    guide \"Costas\" and all the knowledge he shared.<br>\nThank you,  Adrian(April
+    28th) USA\n\nDear Nicholas, we really enjoy our stay in Rhodes. Michael show us
+    many place even if in a short time and gave us a lot of interesting information.
+    Thanks him again from us and thank you for your assistance.<br>\nAll the best
+    Michele (April 25th) Rome, Italy\n\nNicholas, Thank you sooo much! We thoroughly
+    enjoyed our time with you. The picture you took of us at the winery was perfect!<br>\nLaurie
+    (April 24th) New Zealand\n\nNicholas, Thank you so much for a wonderful day on
+    your amazing island. My only regret was that we were not in port longer. Kostas
+    and Jacob did an amazing job. I can’t wait to return!<br>\nBest wishes and Happy
+    Easter!<br>\nPiper (April 24th) Florida USA\n\nHi Nicholas, I am sorry for the
+    delay in writing the review, I just took care of it, you will find it under Maria
+    Kay.\nThank you again for the wonderful tour, it was amazing.\nMaria Neal (April
+    23rd)  UK\n\nThank you Nicholas and Michael for all your help in making my trip
+    so memorable.<br>\nCindy and Phil (April 17th) USA\n\nHI Nicholas, Thank you for
+    the well arranged tour. Our group had a fun day.<br>\nMet vriendelijke groet,<br>\nKind
+    regards,<br>\nMarisa de W.   (April 15)  Amsterdam\n\nDear Nicholas,  Just wanted
     to say what a wonderful time we all had seeing the beautiful island of Rhodes
     . Coming into port none of us had much expectations from it but Thanks to Manuel
     and his annexdotes we all saw it through a fresh vision. He is an amazing driver
     and was a wonderful guide to us. We plan to revisit Rhodes, this time to stay
     on the island.<br>\nI'll pass on your information to my family and friends. It
     was a pleasure working with professionals like your team.<br>\nThank You,<br>\nSupriya
-    (April 12)<br>\nsupriya.tiwari@gmail.com\n\nHi Nicholas! We've made it back to
-    the states but couldn't be happier that we were able to spend time with you in
-    Rhodes, it was really one of the highlights of our entire trip. You gave such
-    a great tour, and it really helped us to truly appreciate the island. I just submitted
-    our review on TripAdvisor. We will be recommending Rhodes and you to all our friends.<br>\nThanks
-    again! (Feb 21st)<br>\nAnnie<br>\nanniearnest@gmail.com"
+    (April 12) New Berlin WI USA\n\nHi Nicholas! We've made it back to the states
+    but couldn't be happier that we were able to spend time with you in Rhodes, it
+    was really one of the highlights of our entire trip. You gave such a great tour,
+    and it really helped us to truly appreciate the island. I just submitted our review
+    on TripAdvisor. We will be recommending Rhodes and you to all our friends.<br>\nThanks
+    again! Annie (Feb 21st)  Philadelphia"
 - year: "2018"
   text: |-
     Nicholas, we had a wonderful day visiting the island of Rhodes. Our driver was great and we enjoyed every minute of our tour. Thank you so much!!<br>
