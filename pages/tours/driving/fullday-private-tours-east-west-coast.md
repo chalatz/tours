@@ -167,8 +167,13 @@ faq:
     a: All the sights have W.C. facilities as well as the restaurants and the hotels.
   - q: How much are the entrance fees to Acropolis and the monastery of Ialyssos?
     a: No entrance fee for the Acropolis, for the monastery is 6 euro per person.
+<<<<<<< HEAD
       <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a> (with Id or Passport) 3
       Euros / person
+=======
+      <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a> (with Id or Passport)
+      3 Euros / person
+>>>>>>> 367e621524fd90d8ff54dcdee62b3b15258ac159
   - q: How long does it take a walk back to our ship from the gate near the Palace
       of Grand Master and the Archaeological Museum?
     a: Usually it takes less than 10 min, however, you can do it as long as you wish,
