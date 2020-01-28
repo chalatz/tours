@@ -4,16 +4,20 @@ type: driving_tours_page
 id: seniors_tours
 permalink: senior-citizens-tours-in-rhodes.htm
 redirect_from:
-  - Seniors-tours-in-rhodes.htm
+- Seniors-tours-in-rhodes.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
 description_at_the_top: true
 meta:
-  title: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes, Seniors Tour in Rhodes
-  http_desc: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors Private Tour in Rhodes Greece
-  description: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes, Seniors Private Tour in Rhodes Greece
-  keywords: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors Private Tour in Rhodes Greece
+  title: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes, Seniors Tour
+    in Rhodes
+  http_desc: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors
+    Private Tour in Rhodes Greece
+  description: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes, Seniors
+    Private Tour in Rhodes Greece
+  keywords: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors
+    Private Tour in Rhodes Greece
   abstract: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
@@ -23,23 +27,42 @@ summary:
 tour:
   title: '"Senior Citizens Tours in Rhodes" DT13'
   duration: Half Day
+  summary: ''
 overview:
   items:
-  - title: The New Town and the Old Harbor where according to tradition the Colossus of Rhodes once stood (Stop Visit Photos)
-  - title: The North Point of the Island where the Aegean Sea and the Mediterranean Sea meet - Natural Phenomenon (Stop Photos)
-  - title: 'We drive up to Monte Smith - Acropolis of Rhodes - Scenic Vantage Point so you can see:'
-  - title: <strong>A )</strong> The Panoramic View of Rhodes New and Old Town and the West Coast of the island (Stop Photos)
-  - title: <strong>B )</strong> From a distance you can also get your pictures of the Temple of Apollo, the Ancient Stadium and Theater (Stop Photos)
-  - title: We drive South East to Lindos 50km / 32 miles via little villages and Olive Grooves
-  - title: On the Way to Lindos we stop at the Anthony Quinn Bay, takes its name from the famous Hollywood actor - Scenic (Stop Visit Photos)
-  - title: An short stop at a pottery workshop where the traditional pottery of Rhodes is made. You can see the wonderful pieces of art (Stop Visit Photos)<br>One mile before Lindos we stop at a vantage point for a Panoramic View of Lindos White Village and the Acropolis (Stop Photos)
-  - title: "We drive down, south of Lindos village to Saint Paul's Bay - so you can see:"
-  - title: <strong>A )</strong> The Wild Nature Landscape - where the apostle is said to have landed in the year 51 AD to preach Christianity to the Rhodians (Stop Photos)
-  - title: <strong>B )</strong> From this point you can also view the cave where the film “The Guns of Navarone” was filmed. (Stop Photos)
-  - title: You don't enter Lindos Village or Acropolis to skip walking. From a closer vantage point you can get your great photos (Stop Photos) 
-  - title: On the Way back a beak for refreshments or a light snack (not normal lunch) at a Seaside village at the Mediterranean Sea right on the water’s edge - scenic 
-  - title: We continue back and the last 14km / 8 miles we drive via Faliraki beautiful beach and Kallithea spa, the coastal road 
-  - title: Back to Rhodes Town / Cruise Port / or to your place (The Old Town is a 10 min flat walk from the Cruise Port) 
+  - title: The New Town and the Old Harbor where according to tradition the Colossus
+      of Rhodes once stood (Stop Visit Photos)
+  - title: The North Point of the Island where the Aegean Sea and the Mediterranean
+      Sea meet - Natural Phenomenon (Stop Photos)
+  - title: 'We drive up to Monte Smith - Acropolis of Rhodes - Scenic Vantage Point
+      so you can see:'
+  - title: "<strong>A )</strong> The Panoramic View of Rhodes New and Old Town and
+      the West Coast of the island (Stop Photos)"
+  - title: "<strong>B )</strong> From a distance you can also get your pictures of
+      the Temple of Apollo, the Ancient Stadium and Theater (Stop Photos)"
+  - title: We drive South East to Lindos 50km / 32 miles via little villages and Olive
+      Grooves
+  - title: On the Way to Lindos we stop at the Anthony Quinn Bay, takes its name from
+      the famous Hollywood actor - Scenic (Stop Visit Photos)
+  - title: An short stop at a pottery workshop where the traditional pottery of Rhodes
+      is made. You can see the wonderful pieces of art (Stop Visit Photos)<br>One
+      mile before Lindos we stop at a vantage point for a Panoramic View of Lindos
+      White Village and the Acropolis (Stop Photos)
+  - title: 'We drive down, south of Lindos village to Saint Paul''s Bay - so you can
+      see:'
+  - title: "<strong>A )</strong> The Wild Nature Landscape - where the apostle is
+      said to have landed in the year 51 AD to preach Christianity to the Rhodians
+      (Stop Photos)"
+  - title: "<strong>B )</strong> From this point you can also view the cave where
+      the film “The Guns of Navarone” was filmed. (Stop Photos)"
+  - title: You don't enter Lindos Village or Acropolis to skip walking. From a closer
+      vantage point you can get your great photos (Stop Photos)
+  - title: On the Way back a beak for refreshments or a light snack (not normal lunch)
+      at a Seaside village at the Mediterranean Sea right on the water’s edge - scenic
+  - title: We continue back and the last 14km / 8 miles we drive via Faliraki beautiful
+      beach and Kallithea spa, the coastal road
+  - title: Back to Rhodes Town / Cruise Port / or to your place (The Old Town is a
+      10 min flat walk from the Cruise Port)
   - title: 'Duration: 5:00 hours'
     classes: bold
   - title: 'Extensions: You can add more Attractions / Lunch Time / Beach Time'
@@ -108,12 +131,16 @@ gallery:
     href: "./img/Tour13/10.jpg"
     alt: Filerimos, Personalized tours for single senior woman in Rhodes
     position: following
+  group_3: []
 faq:
   items:
   - q: How much is the entrance fee on this tour?
     a: No Entrance fee on this tour
-  - q: We actually have a group of 12 people, but all might not be interested in this itinerary.
-    a: You already have 3 cars which means maximum of flexibility. You can split to the different itineraries of your choices. Or if you are in a minibus we can customize the tour for you.
+  - q: We actually have a group of 12 people, but all might not be interested in this
+      itinerary.
+    a: You already have 3 cars which means maximum of flexibility. You can split to
+      the different itineraries of your choices. Or if you are in a minibus we can
+      customize the tour for you.
   - q: I have read some of the reviews & I am sure we'll also have fun.
     a: We certainly hope so!
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
