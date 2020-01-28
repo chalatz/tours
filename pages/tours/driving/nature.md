@@ -148,7 +148,7 @@ faq:
       12 years old free'
   - q: How much are the entrance fees to Acropolis of Ialysos and the monastery of
       Filerimos?
-    a: To Acropolis and to monastery is 6 euro per person. <a href="./seniors-tours-in-rhodes.htm">Seniors</a>
+    a: To Acropolis and to monastery is 6 euro per person. <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a>
       (with Id or Passport) 3 Euros / person. The Way of the Cross with the panoramic
       view is free
 included:
