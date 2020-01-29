@@ -4,19 +4,20 @@ permalink: santorini_privatetours_shoreexcursions.htm
 has_gallery: false
 id: partner_santorini_privatetours_shoreexcursions
 meta:
-  title: Santorini private tours,  Santorini private shore excursions, Santorini private guides drivers, Santorini private driver guide Greece
-  http_desc: Santorini private tours,  Santorini private shore excursions, Santorini private guides drivers, Santorini private driver guide Greece
-  keywords: Santorini private tours,  Santorini private shore excursions, Santorini private guides drivers, Santorini private driver guide Greece
-  description: Santorini private tours,  Santorini private shore excursions, Santorini private guides drivers, Santorini private driver guide Greece
+  title: Santorini private tours,  Santorini private shore excursions, Santorini private
+    guides drivers, Santorini private driver guide Greece
+  http_desc: Santorini private tours,  Santorini private shore excursions, Santorini
+    private guides drivers, Santorini private driver guide Greece
+  keywords: Santorini private tours,  Santorini private shore excursions, Santorini
+    private guides drivers, Santorini private driver guide Greece
+  description: Santorini private tours,  Santorini private shore excursions, Santorini
+    private guides drivers, Santorini private driver guide Greece
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-
-title: Santorini Private Tours.
-
+title: SANTORINI PRIVATE TOURS - SANTORINI SHORE EXCURSIONS
 subtitles:
-  - Santorini private shore excursions. Santorini Greece Tours
-  - Dimitris Nikolaidis
+- Dimitris Nikolaidis
 
 ---
 We are a personalized company with dedicated staff who are very experienced in Private and Exclusive Tours in Santorini. Our vehicles are new, fully air-conditioned and very comfortable. Over the years we have developed a superb reputation for safety, punctuality, courtesy, customer service and friendliness. Not to mention our record of maintenance and cleanliness of our vehicles.
