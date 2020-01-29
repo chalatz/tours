@@ -4,18 +4,12 @@ permalink: alexandria_cairo_sinai_egypt_shoreexcursions.htm
 has_gallery: false
 id: partner_alexandria_cairo_sinai_egypt_shoreexcursions
 meta:
-  title: Egypt private tours Alexandria Cairo Sinai , Egypt private guides drivers
-    Alexandria Cairo Sinai, Egypt private shore excursions, Egypt day trips driver
-    guide
-  http_desc: Egypt private tours Alexandria Cairo Sinai , Egypt private guides drivers
-    Alexandria Cairo Sinai, Egypt private shore excursions, Egypt day trips driver
-    guide
-  keywords: Egypt, private tours,shore excursions,drivers,guides,Alexandria,Cairo,Sinai,guided
-    tours,day trips
-  description: Egypt private tours Alexandria Cairo Sinai , Egypt private guides drivers
-    Alexandria Cairo Sinai, Egypt private shore excursions, Egypt day trips driver
-    guide
-  abstract: Rhodes private tours and shore excursions
+  title: Egypt Private Tours, Egypt Shore Excursions, Alexandria, Cairo, Sinai
+  http_desc: Egypt Private Tours, Egypt Shore Excursions, Alexandria, Cairo, Sinai
+  keywords: Egypt Private Tours, Egypt Shore Excursions, Alexandria, Cairo, Sinai
+  description: Egypt Private Tours, Egypt Shore Excursions, Alexandria, Cairo, Sinai,
+    Egypt private guides drivers, Egypt day trips
+  abstract: Egypt Private Tours, Egypt Shore Excursions, Alexandria, Cairo, Sinai
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: EGYPT PRIVATE TOURS - EGYPT SHORE EXCURSIONS
