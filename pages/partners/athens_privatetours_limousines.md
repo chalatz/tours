@@ -4,19 +4,21 @@ permalink: athens_privatetours_limousines.htm
 has_gallery: false
 id: partner_athens_privatetours_limousines
 meta:
-  title: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers. Greece
-  http_desc: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers. Greece
-  keywords: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers. Greece
-  description: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers. Greece
+  title: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers.
+    Greece
+  http_desc: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers.
+    Greece
+  keywords: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers.
+    Greece
+  description: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers.
+    Greece
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-
-title: Athens Private Limo tours and Limousine services.
-
+title: Athens Limo Tours and Private Limousine Services.
 subtitles:
-  - Airport transfers. Athens Greece
-  - George Kokkotos
+- Airport Transfers. Athens Greece
+- Dennis Kokkotos
 
 ---
 Greetings from sunny Athens Greece. I am Dennis Kokkotos, son of George Kokkotos, otherwise known as George The Famous Taxi Driver. After moving to Greece from the USA and completing my military service and then finishing my studies as a physical therapist I decided to follow my father into the business. But I wanted to be something more than a taxi driver, (not that my father is an ordinary taxi driver). I wanted to provide something a little more classy than your run of the mill E-Class Luxury Mercedes that my father and his fellow drivers use. I wanted to drive a big new black luxury Mercedes with high-rollers and beautiful movie stars in the back seat. Well I have the big new black luxury Mercedes and I have had a few high-rollers and some movie stars and even a few beautiful models as clients and I have come to the realization that this is the most interesting job in the world. I have learned more from my clients than I have in all my years of school and I hope that they have learned a lot about Athens from me.
