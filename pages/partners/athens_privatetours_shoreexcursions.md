@@ -4,22 +4,18 @@ permalink: athens_privatetours_shoreexcursions.htm
 has_gallery: false
 id: partner_athens_privatetours_shoreexcursions
 meta:
-  title: Athens Private tours, Athens Private Shore Excursions, Athens private guides drivers, Athens driver guide Piraeus Greece
-  http_desc: Athens Private tours Greece, Athens Private Shore Excursions Greece, Athens private guides drivers, Athens driver guide Piraeus Greece
-  keywords: Athens Private tours Greece, Athens Private Shore Excursions Greece, Athens private guides drivers, Athens driver guide Piraeus Greece
-  description: Athens Private tours Greece, Athens Private Shore Excursions Greece, Athens private guides drivers, Athens driver guide Piraeus Greece
+  title: Athens Private tours, Athens Shore Excursions, Athens private guides drivers,
+    Athens driver guide Piraeus Greece
+  http_desc: Athens Private tours Greece, Athens Private Shore Excursions Greece,
+    Athens private guides drivers, Athens driver guide Piraeus Greece
+  keywords: Athens Private tours Greece, Athens Private Shore Excursions Greece, Athens
+    private guides drivers, Athens driver guide Piraeus Greece
+  description: Athens Private tours Greece, Athens Private Shore Excursions Greece,
+    Athens private guides drivers, Athens driver guide Piraeus Greece
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-
-# title: Athens Private tours.
-
-# subtitles:
-#   - Athens Private Taxi Services. Piraeus Greece
-#   - George Kokkotos
-
 hide_links: true
-
 temp_body: |-
   My name is George Kokkotos. I am a taxi driver in Greece. Not an ordinary taxi driver. I am the Best Taxi Driver in Greece. At least that is what people say and that is what I am trying to be. Ten years ago I sold my restaurant in New York to come back to Greece where my family was and my heart will always be. I had saved enough money to begin a new life but in Greece things are not so easy as in America and so I became a taxi driver to support my family. Being a taxi driver in Athens is difficult. The fares are very low and gas is very expensive.
 
