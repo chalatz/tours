@@ -4,15 +4,12 @@ permalink: santorini_privatetours_shoreexcursions.htm
 has_gallery: false
 id: partner_santorini_privatetours_shoreexcursions
 meta:
-  title: Santorini private tours,  Santorini private shore excursions, Santorini private
-    guides drivers, Santorini private driver guide Greece
-  http_desc: Santorini private tours,  Santorini private shore excursions, Santorini
-    private guides drivers, Santorini private driver guide Greece
-  keywords: Santorini private tours,  Santorini private shore excursions, Santorini
-    private guides drivers, Santorini private driver guide Greece
-  description: Santorini private tours,  Santorini private shore excursions, Santorini
-    private guides drivers, Santorini private driver guide Greece
-  abstract: Rhodes private tours and shore excursions
+  title: 'Santorini Private Tours,  Santorini Shore Excursions '
+  http_desc: Santorini Private Tours,  Santorini Shore Excursions Greece
+  keywords: Santorini Private Tours,  Santorini Shore Excursions Greece
+  description: Santorini Private Tours,  Santorini Shore Excursions Greece, Santorini
+    private guides drivers
+  abstract: 'Santorini Private Tours,  Santorini Shore Excursions '
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: SANTORINI PRIVATE TOURS - SANTORINI SHORE EXCURSIONS
