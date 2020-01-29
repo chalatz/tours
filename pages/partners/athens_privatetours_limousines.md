@@ -4,15 +4,14 @@ permalink: athens_privatetours_limousines.htm
 has_gallery: false
 id: partner_athens_privatetours_limousines
 meta:
-  title: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers.
+  title: Athens Limo Tours, Athens Private Limousine Services
+  http_desc: Athens Limo Tours, Athens Private Limousine Services, Athens Limo Transfers.
     Greece
-  http_desc: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers.
+  keywords: Athens Limo Tours, Athens Private Limousine Services, Athens Limo Transfers.
     Greece
-  keywords: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers.
+  description: Athens Limo Tours, Athens Private Limousine Services, Athens Limo Transfers.
     Greece
-  description: Athens Private Tours. Athens Private Limousine Tours. Athens Limo Transfers.
-    Greece
-  abstract: Rhodes private tours and shore excursions
+  abstract: Athens Limo Tours, Athens Private Limousine Services
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: Athens Limo Tours and Private Limousine Services.
