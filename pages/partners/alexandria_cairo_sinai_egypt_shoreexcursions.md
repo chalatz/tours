@@ -14,6 +14,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
 title: EGYPT PRIVATE TOURS - EGYPT SHORE EXCURSIONS
 subtitles:
-- 'Alexandria Cairo Sinai '
+- 'ALEXANDRIA, CAIRO, SINAI TOURS '
 
 ---
