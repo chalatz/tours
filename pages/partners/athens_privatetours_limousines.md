@@ -36,6 +36,6 @@ Athens Limousine Tours. Airport Limo transfers. Professional Limo Services. Corp
 
 For further information of our services, availability and reservations in Athens, please contact us. Please write as much details as much you can so we can give you complete and appropriate reply immediately.
 
-WEBSITE:  www.athens-limo.com
+**WEBSITE:**  www.athens-limo.com
 
-TRIPADVISOR: https://www.tripadvisor.com.gr/Attraction_Review-g189400-d3239740-Reviews-Athens_Limo_Tours-Athens_Attica.html
+**TRIPADVISOR:** https://www.tripadvisor.com.gr/Attraction_Review-g189400-d3239740-Reviews-Athens_Limo_Tours-Athens_Attica.html
