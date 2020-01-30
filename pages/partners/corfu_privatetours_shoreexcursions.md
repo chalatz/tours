@@ -4,18 +4,14 @@ permalink: corfu_privatetours_shoreexcursions.htm
 has_gallery: false
 id: partner_corfu_privatetours_shoreexcursions
 meta:
-  title: Mykonos private tours, Mykonos drivers guides Greece, Mykonos private shore
-    excursions Greece, Mykonos guided tours Greece
-  http_desc: Corfu Island taxi tours Greece, Corfu luxury car service Greece, Corfu
-    private taxi tours Greece, Corfu private tours, shore excursions, guides drivers,
-    day trips, guided tours
-  keywords: Corfu Island taxi tours Greece, Corfu luxury car service Greece, Corfu
-    private taxi tours Greece, Corfu private tours, shore excursions, guides drivers,
-    day trips, guided tours
-  description: Corfu Island taxi tours Greece, Corfu luxury car service Greece, Corfu
-    private taxi tours Greece, Corfu private tours, shore excursions, guides drivers,
-    day trips, guided tours
-  abstract: Rhodes private tours and shore excursions
+  title: 'CORFU PRIVATE TOURS,  Corfu shore Excursions. '
+  http_desc: CORFU PRIVATE TOURS,  Corfu shore Excursions, Corfu private taxi tours
+    Greece
+  keywords: CORFU PRIVATE TOURS,  Corfu shore Excursions, Corfu private taxi tours
+    Greece
+  description: CORFU PRIVATE TOURS,  Corfu shore Excursions, Corfu private taxi tours
+    Greece
+  abstract: CORFU PRIVATE TOURS,  Corfu shore Excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: 'CORFU PRIVATE TOURS, CORFU SHORE EXCURSIONS '
