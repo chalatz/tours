@@ -58,3 +58,16 @@ fields:
   type: boolean
   label: Show on reviews page
   description: Ενεργοποίηση εάν θα εμφανίζεται στη σελίδα του tour.
+- name: reviews
+  type: field_group_list
+  fields:
+  - name: test
+    type: text
+    config:
+      required: false
+    label: test
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Reviews
