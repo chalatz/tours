@@ -66,3 +66,5 @@ fields:
     max: 
     labelField: 
   label: Reviews
+pages:
+- _data/reviews.yml
