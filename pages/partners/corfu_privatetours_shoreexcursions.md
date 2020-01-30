@@ -4,19 +4,24 @@ permalink: corfu_privatetours_shoreexcursions.htm
 has_gallery: false
 id: partner_corfu_privatetours_shoreexcursions
 meta:
-  title: Mykonos private tours, Mykonos drivers guides Greece, Mykonos private shore excursions Greece, Mykonos guided tours Greece
-  http_desc: Corfu Island taxi tours Greece, Corfu luxury car service Greece, Corfu private taxi tours Greece, Corfu private tours, shore excursions, guides drivers, day trips, guided tours
-  keywords: Corfu Island taxi tours Greece, Corfu luxury car service Greece, Corfu private taxi tours Greece, Corfu private tours, shore excursions, guides drivers, day trips, guided tours
-  description: Corfu Island taxi tours Greece, Corfu luxury car service Greece, Corfu private taxi tours Greece, Corfu private tours, shore excursions, guides drivers, day trips, guided tours
+  title: Mykonos private tours, Mykonos drivers guides Greece, Mykonos private shore
+    excursions Greece, Mykonos guided tours Greece
+  http_desc: Corfu Island taxi tours Greece, Corfu luxury car service Greece, Corfu
+    private taxi tours Greece, Corfu private tours, shore excursions, guides drivers,
+    day trips, guided tours
+  keywords: Corfu Island taxi tours Greece, Corfu luxury car service Greece, Corfu
+    private taxi tours Greece, Corfu private tours, shore excursions, guides drivers,
+    day trips, guided tours
+  description: Corfu Island taxi tours Greece, Corfu luxury car service Greece, Corfu
+    private taxi tours Greece, Corfu private tours, shore excursions, guides drivers,
+    day trips, guided tours
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-
 title: Corfu Private Day Tours.
-
 subtitles:
-  - Corfu Private Taxi tours and Transfers.
-  - Dimitris, Spiros, Makis.
+- Corfu Private Taxi tours and Transfers.
+- Dimitris, Spiros, Makis.
 
 ---
 We are all from Corfu, between 30-40 years old. Dimitris Daphnis, Spiros Kritikos, and Makis Ziniatis. We are married with children. We all speak English fluently.
@@ -51,12 +56,10 @@ Sincerely<br>
 Dimitris, Spiros, Makis<br>
 Your Taxi Drivers in Corfu
 
-**Available Services**
+**WEBSITE:**
 
-Corfu private taxi tours. Private shore excursions. Island executive tours. Corfu exclusive tours. Customized day trips. Island shore trips. Corfu private driver. Corfu sightseeing tours. Island shore tours. Executive taxi tours. Private day trips. Corfu taxi excursion.
+[https://corfutaxiprivatetours.gr/](https://corfutaxiprivatetours.gr/)
 
-**Contact**
+**TRIPADVISOR:**
 
-For further information of our services, availability and reservations in Corfu, please contact us. Please write as much details as much you can so we can give you complete and appropriate reply immediately.
-
-[taxi116@in.gr](mailto:taxi116@in.gr?bcc=request@rhodesprivatetours.com "mailto:taxi116@in.gr")
+[https://www.tripadvisor.co.uk/Attraction_Review-g662629-d2366024-Reviews-Corfu_Taxi_Private_Tours-Corfu_Town_Corfu_Ionian_Islands.html](https://www.tripadvisor.co.uk/Attraction_Review-g662629-d2366024-Reviews-Corfu_Taxi_Private_Tours-Corfu_Town_Corfu_Ionian_Islands.html)
