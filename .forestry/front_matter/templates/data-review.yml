@@ -1,4 +1,56 @@
 ---
 label: Data - Review
 hide_body: true
-fields: []
+fields:
+- name: tour_name
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: tours-names
+      file: _data/all_tours_names.yml
+      path: All tours names
+  label: Tour name
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+- name: rating
+  type: select
+  default: []
+  config:
+    required: true
+    options:
+    - '5'
+    - '4'
+    - '3'
+    - '2'
+    - '1'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Rating
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
