@@ -1,5 +1,13 @@
 ---
 reviews:
+- tour_name: Rhodes Landscape Tour-GT8
+  name: Linda Y.
+  location: Rochester New York
+  text: "> We had a great time on our tour! My Trip Advisor review is posted – 5 stars
+    of course! Our best to Michael and please say hi to him"
+  rating: '5'
+  date: 2019-09-01 21:00:00 +0000
+  show_on_reviews_page: true
 - name: Arlene H.
   text: Thank you so much for your service. Manuel did an outstanding job. Enjoyed
     our day!!
