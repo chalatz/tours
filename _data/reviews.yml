@@ -1,6 +1,14 @@
 ---
 reviews:
 - tour_name: Rhodes Landscape Tour-GT8
+  name: Susan B.
+  location: Monroe Township Ohio
+  text: Nicholas - Our day in Rhodes was amazing and we thank you for your thorough
+    tour!!.  All the best, Susan
+  rating: '5'
+  date: 2019-10-08 21:00:00 +0000
+  show_on_reviews_page: true
+- tour_name: Rhodes Landscape Tour-GT8
   name: Carol P.
   location: London UK
   text: Thank you for making our short visit to your beautiful island a memorable
