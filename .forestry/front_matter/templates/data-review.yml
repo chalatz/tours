@@ -54,3 +54,7 @@ fields:
     date_format: DD/MM/YYYY
     time_format: 
     display_utc: false
+- name: show_on_reviews_page
+  type: boolean
+  label: Show on reviews page
+  description: Ενεργοποίηση εάν θα εμφανίζεται στη σελίδα του tour.
