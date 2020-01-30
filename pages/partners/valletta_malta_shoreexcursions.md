@@ -13,6 +13,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
 title: ''
 subtitles:
-- Valletta Malta Private shore excursions. Malta tours
+- 'MALTA - VALLETTA SHORE EXCURSIONS '
 
 ---
