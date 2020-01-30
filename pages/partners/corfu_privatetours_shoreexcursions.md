@@ -18,7 +18,7 @@ title: 'CORFU PRIVATE TOURS, CORFU SHORE EXCURSIONS '
 subtitles: []
 
 ---
-We are all from Corfu, between 30-40 years old. Dimitris Daphnis, Spiros Kritikos, and Makis Ziniatis. We are married with children. We all speak English fluently.
+Our Team is from Corfu, between 30-40 years old.  We are married with children. We all speak English fluently.
 
 We are professional Taxi Drivers, members of the Taxi Owners Association of Corfu, with an average of 15 years experience.
 
@@ -46,9 +46,7 @@ Visits: Bella Vista from the top of the heart shaped bays of Paleokastritsa.
 
 Lakones: A traditional village of the 16th cen. Built at the top of the mountain, the monastery of Blessed Virgin Mary of the 13th cen.
 
-Sincerely<br>
-Dimitris, Spiros, Makis<br>
-Your Taxi Drivers in Corfu
+Sincerely<br> Dimitris and Team<br> Your Taxi Drivers in Corfu
 
 **WEBSITE:**  [https://corfutaxiprivatetours.gr/](https://corfutaxiprivatetours.gr/)
 
