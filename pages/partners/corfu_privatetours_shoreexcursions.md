@@ -50,8 +50,6 @@ Sincerely<br>
 Dimitris, Spiros, Makis<br>
 Your Taxi Drivers in Corfu
 
-**WEBSITE:** 
+**WEBSITE:**  [https://corfutaxiprivatetours.gr/](https://corfutaxiprivatetours.gr/)
 
- [https://corfutaxiprivatetours.gr/](https://corfutaxiprivatetours.gr/)
-
-**TRIPADVISOR:**  [https://www.tripadvisor.co.uk/Attraction_Review-g662629-d2366024-Reviews-Corfu_Taxi_Private_Tours-Corfu_Town_Corfu_Ionian_Islands.html](https://www.tripadvisor.co.uk/Attraction_Review-g662629-d2366024-Reviews-Corfu_Taxi_Private_Tours-Corfu_Town_Corfu_Ionian_Islands.html)
+**TRIPADVISOR:**     [https://www.tripadvisor.co.uk/Attraction_Review-g662629-d2366024-Reviews-Corfu_Taxi_Private_Tours-Corfu_Town_Corfu_Ionian_Islands.html](https://www.tripadvisor.co.uk/Attraction_Review-g662629-d2366024-Reviews-Corfu_Taxi_Private_Tours-Corfu_Town_Corfu_Ionian_Islands.html)
