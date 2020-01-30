@@ -1,6 +1,15 @@
 ---
 reviews:
 - tour_name: Rhodes Landscape Tour-GT8
+  name: Carol P.
+  location: London UK
+  text: Thank you for making our short visit to your beautiful island a memorable
+    one. Sergio was very friendly and gave us an insight into the history of Rhodes
+    and the life here.
+  rating: '5'
+  date: 2019-09-18 21:00:00 +0000
+  show_on_reviews_page: true
+- tour_name: Rhodes Landscape Tour-GT8
   name: Linda Y.
   location: Rochester New York
   text: "> We had a great time on our tour! My Trip Advisor review is posted – 5 stars
