@@ -28,6 +28,6 @@ So why hire me? Well, I am young but very knowledgeable about Athens and Greece,
 
 Sincerely Dennis Kokkotos
 
-**WEBSITE:**  www.athens-limo.com
+**WEBSITE:**  [https://www.athens-limo.com/](https://www.athens-limo.com/ "https://www.athens-limo.com/")
 
-**TRIPADVISOR:** https://www.tripadvisor.com.gr/Attraction_Review-g189400-d3239740-Reviews-Athens_Limo_Tours-Athens_Attica.html
+**TRIPADVISOR:** [https://www.tripadvisor.com.gr/Attraction_Review-g189400-d3239740-Reviews-Athens_Limo_Tours-Athens_Attica.html](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d3239740-Reviews-Athens_Limo_Tours-Athens_Attica.html "https://www.tripadvisor.com.gr/Attraction_Review-g189400-d3239740-Reviews-Athens_Limo_Tours-Athens_Attica.html")
