@@ -3,10 +3,13 @@ reviews:
 - tour_name: ''
   name: 'Alan K.  '
   location: Lady Lake, Florida,
-  text: ''
+  text: Nicholas, Thank you for an amazing day in Rhodes. We enjoyed meeting and spending
+    time with you and Manuel and exploring the south part of your beautiful island.
+    I have posted a review on Tripadvisor for your excellent service!. Best regards
+    Alan and Deby
   rating: '5'
   date: 2019-11-26 22:00:00 +0000
-  show_on_reviews_page: false
+  show_on_reviews_page: true
 - tour_name: Rhodes Landscape Tour-GT8
   name: Sherry C.
   location: Upper Montclair, New Jersey
