@@ -22,6 +22,11 @@ fields:
     config:
       required: false
     label: Name
+  - name: location
+    type: text
+    config:
+      required: false
+    label: Location
   - name: text
     type: textarea
     default: ''
