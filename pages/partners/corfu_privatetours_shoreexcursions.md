@@ -18,10 +18,8 @@ meta:
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Corfu Private Day Tours.
-subtitles:
-- Corfu Private Taxi tours and Transfers.
-- Dimitris, Spiros, Makis.
+title: 'CORFU PRIVATE TOURS, CORFU SHORE EXCURSIONS '
+subtitles: []
 
 ---
 We are all from Corfu, between 30-40 years old. Dimitris Daphnis, Spiros Kritikos, and Makis Ziniatis. We are married with children. We all speak English fluently.
