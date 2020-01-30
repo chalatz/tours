@@ -1,5 +1,12 @@
 ---
 reviews:
+- tour_name: ''
+  name: 'Alan K.  '
+  location: Lady Lake, Florida,
+  text: ''
+  rating: '5'
+  date: 2019-11-26 22:00:00 +0000
+  show_on_reviews_page: false
 - tour_name: Rhodes Landscape Tour-GT8
   name: Sherry C.
   location: Upper Montclair, New Jersey
