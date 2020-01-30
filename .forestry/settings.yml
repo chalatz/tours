@@ -7,6 +7,10 @@ sections:
 - type: heading
   label: Data
 - type: document
+  path: _data/reviews.yml
+  label: Reviews
+  match: "**/*"
+- type: document
   path: _data/all_tours_names.yml
   label: Tours names
   read_only: true
