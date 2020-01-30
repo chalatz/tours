@@ -28,14 +28,6 @@ So why hire me? Well, I am young but very knowledgeable about Athens and Greece,
 
 Sincerely Dennis Kokkotos
 
-**Available Services**
-
-Athens Limousine Tours. Airport Limo transfers. Professional Limo Services. Corporate travel Services. Limousine VIP Services. Athens Limo Services. Private shore excursions. Ancient Corinth Tours. Delphi Meteora Tours. Limousine shore trips. Nafplion Mycenae Tours. Exclusive LIMO tours. Ancient Olympia Tours. Limousine shore tours.
-
-**Contact**
-
-For further information of our services, availability and reservations in Athens, please contact us. Please write as much details as much you can so we can give you complete and appropriate reply immediately.
-
 **WEBSITE:**  www.athens-limo.com
 
 **TRIPADVISOR:** https://www.tripadvisor.com.gr/Attraction_Review-g189400-d3239740-Reviews-Athens_Limo_Tours-Athens_Attica.html
