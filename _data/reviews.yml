@@ -1,6 +1,13 @@
 ---
 reviews:
 - tour_name: Rhodes Landscape Tour-GT8
+  name: Sherry C.
+  location: Upper Montclair, New Jersey
+  text: ''
+  rating: '5'
+  date: 2019-11-07 22:00:00 +0000
+  show_on_reviews_page: true
+- tour_name: Rhodes Landscape Tour-GT8
   name: Edward W.
   location: Tempe Arizona USA
   text: 'We enjoyed the tour and the scenery of Rhodes, our driver guide was informative
