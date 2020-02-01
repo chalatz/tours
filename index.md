@@ -17,11 +17,10 @@ meta:
   description: 'RHODES PRIVATE TOURS, Rhodes Shore Excursions, Private Tours in Rhodes
     Greece, Private Day Tours, Sightseeing group tours, Rhodes Taxi Tours, Rhodes
     Allure Tours, VIP Tour Services and custom city tours of Rhodes Island Greece.
-    Original Site by Nicholas A. Rhodes, Rhodes Best Introduction for First Time Visitors                                                 '
+    Original Site by Nicholas A. Rhodes '
   keywords: 'Rhodes, Private, Tours, shore, excursions, day tours, allure tours, taxi
     tours, driving, guided, walking, customized, tailored, executive, accessible,
-    limo ,VIP services, island tour. Original Site by Nicholas A. Rhodes, Rhodes Best
-    Introduction for First Time Visitors                                                 '
+    limo ,VIP services, island tour. Original Site by Nicholas A. Rhodes '
   abstract: 'RHODES PRIVATE TOURS, Rhodes Shore Excursions, Private Tours in Rhodes
     Greece '
   author: Nick
