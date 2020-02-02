@@ -134,14 +134,19 @@ function passed_recaptcha(){
 
     if (passed()) {
         $url = 'https://www.google.com/recaptcha/api/siteverify';
-    
-        $response = file_get_contents($url."?secret=".$recaptcha."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
+
+        $response = file_get_contents($url."?secret=".$key."&recaptcha=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
     
         $data = json_decode($response);
     
-        if(isset($data->success) && $data->sucess == true){
+        if(isset($data->success) && $data->success == true){
+            echo 'passed!';
+            die();
             return true;
         } else {
+            echo 'failed..';
+            var_dump($data);
+            die();
             return false;
         }
     

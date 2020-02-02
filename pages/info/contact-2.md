@@ -1,6 +1,7 @@
 ---
 layout: pages/contact-2
 noindex: true
+sitemap: false
 type: contact_page
 id: contact_page
 ref: contact_page
