@@ -128,6 +128,12 @@ $msg .= "Time Zone: $timeZone\r\n";
 
 $headers = "Content-Type: text/html; charset=UTF-8";
 
+include_once('_keys.php');
+
+if (passed()) {
+    $url = 'https://www.google.com/recaptcha/api/siteverify';
+}
+
 if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
     // Email has sent successfully, echo a success page.
 
