@@ -142,13 +142,8 @@ function passed_recaptcha(){
         $data = json_decode($response);
     
         if(isset($data->success) && $data->success == true){
-            echo 'passed!';
-            die();
             return true;
         } else {
-            echo 'failed..';
-            var_dump($data);
-            die();
             return false;
         }
     
@@ -162,7 +157,7 @@ if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nRepl
     header('Location: ' . $return_to . '?contact-form-sent=success');
 
 } else {
-    header('Location: '. $return_to);
+    header('Location: '. $return_to . '?contact-form-sent=fail');
 }
 
 ?>
