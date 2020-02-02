@@ -135,7 +135,7 @@ function passed_recaptcha(){
     if (passed()) {
         $url = 'https://www.google.com/recaptcha/api/siteverify';
 
-        $response = file_get_contents($url."?secret=".$key."&recaptcha=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
+        $response = file_get_contents($url."?secret=".$recaptcha."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
     
         $data = json_decode($response);
     
