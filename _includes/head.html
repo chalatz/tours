@@ -3,7 +3,7 @@
     <meta http-equiv="Content-Language" content="{{ site.data.langs[page.lang].code | default: 'en-US' }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    {%- if jekyll.environment == 'development' -%}
+    {%- if jekyll.environment == 'development' or page.noindex == true -%}
         <meta name="robots" content="noindex,nofollow">
     {%- endif -%}
     <meta name="format-detection" content="telephone=no">
@@ -59,5 +59,7 @@
     {%- unless jekyll.environment == 'development' -%}
         {%- include partials/google-analytics.html -%}
     {%- endunless -%}
+
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 </head>

@@ -1,0 +1,192 @@
+<div id="form" class="form">
+
+    <div class="form__body">
+        <form method="POST" name="sendmail" class="form__form" action="sendmail.php">
+
+            <input type="hidden" name="meli_dio" autocomplete="off">
+
+            <input type="hidden" name="from_page" value="{{ include.from_page | upcase }}">
+
+            <input type="hidden" name="return_to" value="{{ include.return_to | remove: '/' }}">
+
+            <div class="form__group">
+                <label class="form__label" for="first_name">First <span class="mobile-only mobile-only--inline">and Last</span> Name:</label>
+                <input class="form__input form__input--text" type="text" name="first_name" required>
+            </div>                    
+            
+            <div class="form__group desktop-only desktop-only--block">
+                <label class="form__label" for="last_name">Last Name:</label>
+                <input class="form__input form__input--text" type="text" name="last_name">
+            </div>
+            
+            <div class="form__group desktop-only desktop-only--block">
+                <label class="form__label" for="reservation_name">Services to be reserved in the name(s):</label>
+                <input class="form__input form__input--text" type="text" name="reservation_name">
+            </div>
+
+            <div class="form__group">
+                <label class="form__label" for="city_state_zip">City/State/Country:</label>
+                <input class="form__input form__input--text" type="text" name="city_state_zip" required>
+            </div>
+
+            <div class="form__group desktop-only desktop-only--block">
+                <label class="form__label" for="phone_fax">Phone/Fax:</label>
+                <input class="form__input form__input--text" type="text" name="phone_fax">
+            </div>
+
+            <div class="form__group">
+                <label class="form__label" for="e_mail">E-mail:</label>
+                <input class="form__input form__input--text" type="email" name="e_mail" required>
+            </div>
+
+            <div class="form__group desktop-only desktop-only--block">
+                <label class="form__label" for="">Private Tour Date:</label>                            
+                <select class="form__input form__input--select form__inline" name="date11_month">
+                    <option value=""></option>
+                    <option value="Jan">January</option>
+                    <option value="Feb">February</option>
+                    <option value="Mar">March</option>
+                    <option value="Apr">April</option>
+                    <option value="May">May</option>
+                    <option value="Jun">June</option>
+                    <option value="Jul">July</option>
+                    <option value="Aug">August</option>
+                    <option value="Sep">September</option>
+                    <option value="Oct">October</option>
+                    <option value="Nov">November</option>
+                    <option value="Dec">December</option>
+                </select>
+                &nbsp;/&nbsp;
+                <select class="form__input form__input--select form__inline" name="date11_date">
+                    <option value=""></option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                    <option value="13">13</option>
+                    <option value="14">14</option>
+                    <option value="15">15</option>
+                    <option value="16">16</option>
+                    <option value="17">17</option>
+                    <option value="18">18</option>
+                    <option value="19">19</option>
+                    <option value="20">20</option>
+                    <option value="21">21</option>
+                    <option value="22">22</option>
+                    <option value="23">23</option>
+                    <option value="24">24</option>
+                    <option value="25">25</option>
+                    <option value="26">26</option>
+                    <option value="27">27</option>
+                    <option value="28">28</option>
+                    <option value="29">29</option>
+                    <option value="30">30</option>
+                    <option value="31">31</option>
+                </select>
+                <input class="form__input form__input--text form__input--year form__inline ml-half-rem" id="year-input" type="text" name="date11_year">
+            </div>
+
+            <div class="form__group desktop-only desktop-only--block">
+                <label class="form__label" for="ship_flight_num">Private Tour Start Location Hotel / Cruise Ship / Flight Number:</label>
+                <input class="form__input form__input--text" type="text" name="ship_flight_num">
+            </div>
+
+            <div class="form__group desktop-only desktop-only--block">
+                <label class="form__label" for="type_of_tour">Type of Tour:</label>
+                <div class="form__row form__row">
+                    <div class="form__radio-group form__radio-group--block">
+                        <input type="radio" value="Driving Private Tour" checked name="type_of_tour" id="driving_tour">
+                        <label for="driving_tour">&nbsp;Driving Private Tour</label>
+                    </div>
+                </div>
+                <div class="form__row form__row">
+                    <div class="form__radio-group form__radio-group--block">
+                        <input type="radio" value="Guided Private Tour" name="type_of_tour" id="guided_tour">
+                        <label for="guided_tour">&nbsp;Guided Private Tour</label>
+                    </div>
+                </div>
+                <div class="form__row form__row">
+                    <div class="form__radio-group form__radio-group--block">
+                        <input type="radio" value="Walking Private Tour" name="type_of_tour" id="walking_tour">
+                        <label for="walking_tour">&nbsp;Walking Private Tour</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form__group desktop-only desktop-only--block">
+                <label class="form__label" for="speaking_language">Language:</label>
+                <div class="form__row">
+                    <div class="form__radio-group">
+                        <input type="radio" value="English" checked name="speaking_language" id="fp5">
+                        <label for="fp5">&nbsp;English</label>
+                    </div>
+                    <div class="form__radio-group">
+                        <input type="radio" value="German" name="speaking_language" id="fp8">
+                        <label for="fp8">&nbsp;German</label>
+                    </div>
+                </div>
+                <div class="form__row">
+                    <div class="form__radio-group">
+                        <input type="radio" value="French" name="speaking_language" id="fp6">
+                        <label for="fp6">&nbsp;French</label>
+                    </div>
+                    <div class="form__radio-group">
+                        <input type="radio" value="Italian" name="speaking_language" id="fp9">
+                        <label for="fp9">&nbsp;Italian</label>
+                    </div>
+                </div>
+                <div class="form__row">
+                    <div class="form__radio-group">
+                        <input type="radio" value="Spanish" name="speaking_language" id="fp7">
+                        <label for="fp7">&nbsp;Spanish</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form__group desktop-only desktop-only--block">
+                <label class="form__label" for="party_num">Number in party:</label>
+                <input class="form__input form__input--text w-10-rem" type="text" name="party_num">
+            </div>
+
+            <div class="form__group">
+                <label class="form__label" for="comments">Comments: <span class="mobile-only mobile-only--inline">Please include:<br>"Tour Start Location" and "Tour Date"</span></label>
+                <textarea class="form__input form__input--textarea" name="comments" cols="30" rows="3"></textarea>
+            </div>
+
+            <label class="visuallyhidden">
+                <textarea name="meli_ena" cols="30" rows="10" tabindex="-1" autocomplete="off"></textarea>
+            </label>
+
+            <label class="visuallyhidden">
+                <input type="checkbox" name="meli_tria" tabindex="-1" autocomplete="off"> A meli field
+            </label>
+
+            <div class="g-recaptcha" data-sitekey="6LeQ2dQUAAAAAG80PiWCNyNl7UXpxTt_U9D-zGc9y"></div>
+            <br/>
+
+            <button name="" type="submit" class="form__submit">
+                Send
+            </button>
+
+            <p class="centered text-normal">
+                <strong>Contact E-mail Address:</strong> <a href="mailto:request@RhodesPrivateTours.com">request@RhodesPrivateTours.com</a>
+            </p>
+
+        </form>
+        
+    </div>
+    
+</div>
+
+<p class="text-normal">
+    Please pay attention to the email address you insert. An incorrect email address will not allow us to answer you. If you don't get a reply within 24 hours, remember to check your SPAM mail folder as emails sometimes get routed there by your email service. Or recheck the email address you sent us and please contact us again. <a id="open-privacy-modal" data-fancybox href="javascript:;" data-src="#privacy-terms">Privacy - Terms & Conditions</a>
+</p>
+
