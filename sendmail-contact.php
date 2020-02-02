@@ -128,7 +128,28 @@ $msg .= "Time Zone: $timeZone\r\n";
 
 $headers = "Content-Type: text/html; charset=UTF-8";
 
-if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
+include_once('_keys.php');
+
+function passed_recaptcha(){
+
+    if (passed()) {
+        $url = 'https://www.google.com/recaptcha/api/siteverify';
+    
+        $response = file_get_contents($url."?secret=".$recaptcha."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
+    
+        $data = json_decode($response);
+    
+        if(isset($data->success) && $data->sucess == true){
+            return true;
+        } else {
+            return false;
+        }
+    
+    }
+}
+
+
+if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
     // Email has sent successfully, echo a success page.
 
     header('Location: ' . $return_to . '?contact-form-sent=success');
