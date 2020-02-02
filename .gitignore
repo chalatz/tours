@@ -3,4 +3,4 @@ _site
 .jekyll-metadata
 node_modules
 dist
-_keys.php
+_recaptcha_key.php

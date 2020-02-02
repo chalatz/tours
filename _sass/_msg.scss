@@ -33,4 +33,11 @@
         line-height: 1.5;
     }
 
+    &--fail {
+        background-color: $lightred;
+        p {
+            font-size: 20px;
+        }
+    }
+
 }

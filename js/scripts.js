@@ -355,6 +355,26 @@
                 $(msg_div).fadeOut(300);
             });
         }
+
+        if (form_status === 'fail') {
+            var msg_div = $('#msg'),
+                msg_close = $('#msg-close'),
+                msg_content = 
+                    '<span id="msg-close"><i class="fas fa-window-close msg__close"></i></span>' + 
+                    '<h1 class="msg__title">Something went wrong</h1>' +
+                    '<p class="centered">Please try to fill the form again.</p>' + 
+                    '<p class="centered">If the problem persists, please try to contact us directly at <a href="mailto:request@RhodesPrivateTours.com">request@RhodesPrivateTours.com</p>';
+            
+            msg_div.addClass('msg--fail')
+
+            msg_div.html(msg_content);
+
+            msg_div.show();
+                                    
+            $(msg_div).on('click', '#msg-close', function(e){
+                $(msg_div).fadeOut(300);
+            });
+        }
         
     };
 
