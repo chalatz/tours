@@ -14,7 +14,7 @@ meta:
   abstract: ATHENS LIMO TOURS, Athens Private Limousine Services
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: ATHENS LIMO TOURS - PRIVATE LIMOUSINE SERVICES
+title: ATHENS LIMO TOURS - PRIVATE LIMOUSINE SERVICE
 subtitles:
 - Airport Transfers. Athens Greece
 - Dennis Kokkotos
