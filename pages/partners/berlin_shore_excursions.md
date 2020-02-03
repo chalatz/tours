@@ -4,15 +4,14 @@ permalink: berlin_shore_excursions.htm
 has_gallery: false
 id: partner_berlin_shore_excursions
 meta:
-  title: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin, Warnemünde
-    - Rostock to Berlin, Cruise Ship Excursions
-  http_desc: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin,
-    Warnemünde - Rostock to Berlin, Cruise Ship Excursions
-  keywords: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin,
-    Warnemünde - Rostock to Berlin, Cruise Ship Excursions
-  description: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin,
-    Warnemünde - Rostock to Berlin, Cruise Ship Excursions
-  abstract: Rhodes private tours and shore excursions
+  title: BERLIN SHORE EXCURSIONS, From Hamburg to Berlin, Cruise Ship Excursions
+  http_desc: BERLIN SHORE EXCURSIONS, From Hamburg to Berlin, Cruise Ship Excursions,
+    Berlin private tours,  Warnemünde - Rostock to Berlin
+  keywords: BERLIN SHORE EXCURSIONS, From Hamburg to Berlin, Cruise Ship Excursions,
+    Berlin private tours,  Warnemünde - Rostock to Berlin
+  description: BERLIN SHORE EXCURSIONS, From Hamburg to Berlin, Cruise Ship Excursions,
+    Berlin private tours,  Warnemünde - Rostock to Berlin
+  abstract: BERLIN SHORE EXCURSIONS, From Hamburg to Berlin, Cruise Ship Excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: BERLIN SHORE EXCURSIONS
