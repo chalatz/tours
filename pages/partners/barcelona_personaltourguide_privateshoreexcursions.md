@@ -18,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
 title: BARCELONA PRIVATE SHORE EXCURSIONS
 subtitles:
-- Barcelona Personal Tour Guide
-- " Barcelona Day Tours  "
+- Barcelona Day Tours with Personal Tour Guide
 
 ---
