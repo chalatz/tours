@@ -12,7 +12,7 @@ meta:
   abstract: CRETE PRIVATE TOURS, Crete Shore Excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: CRETE PRIVATE TOURS - CRETE SHORE EXCURSIONSate Tours. Heraklion Taxi Tours
+title: CRETE PRIVATE TOURS - CRETE SHORE EXCURSION
 subtitles: []
 
 ---
