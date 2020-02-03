@@ -14,9 +14,9 @@ meta:
   abstract: ROME SHORE EXCURSIONS, Civitavecchia Livorno Naples Italy
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: 'Italy Rome Shore Excursions '
+title: 'ROME SHORE EXCURSIONS '
 subtitles:
-- Civitavecchia. Livorno. Naples Shore Excursions
+- Italy, Civitavecchia. Livorno. Naples Shore Excursions
 - Remo & Daniele Melaragno
 
 ---
