@@ -14,7 +14,7 @@ meta:
   abstract: CORFU PRIVATE TOURS,  Corfu shore Excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: 'CORFU PRIVATE TOURS, CORFU SHORE EXCURSIONS '
+title: 'CORFU PRIVATE TOURS - CORFU SHORE EXCURSIONS '
 subtitles: []
 
 ---
