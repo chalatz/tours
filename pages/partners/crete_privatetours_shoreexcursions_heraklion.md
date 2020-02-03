@@ -4,19 +4,20 @@ permalink: crete_privatetours_shoreexcursions_heraklion.htm
 has_gallery: false
 id: partner_crete_privatetours_shoreexcursions_heraklion
 meta:
-  title: Crete Private tours, Crete Private Shore Excursions, Crete private guides drivers, Heraklion
-  http_desc: Crete Private tours, Crete Private Shore Excursions, Crete private guides drivers, Heraklion
-  keywords: Crete Private tours, Crete Private Shore Excursions, Crete private guides drivers, Heraklion
-  description: Crete Private tours, Crete Private Shore Excursions, Crete private guides drivers, Heraklion
+  title: Crete Private tours, Crete Private Shore Excursions, Crete private guides
+    drivers, Heraklion
+  http_desc: Crete Private tours, Crete Private Shore Excursions, Crete private guides
+    drivers, Heraklion
+  keywords: Crete Private tours, Crete Private Shore Excursions, Crete private guides
+    drivers, Heraklion
+  description: Crete Private tours, Crete Private Shore Excursions, Crete private
+    guides drivers, Heraklion
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-
-title: Crete Private Tours. Heraklion Taxi Tours
-
+title: CRETE PRIVATE TOURS - CRETE SHORE EXCURSIONSate Tours. Heraklion Taxi Tours
 subtitles:
-  - Crete Superior Taxi Services
-  - Yiannis Saridakis
+- Yiannis Saridakis - Heraklion Private Tours
 
 ---
 Welcome to Crete, The Warm Embrace of Europe. Crete is a special place, unique in Greece. Where people and nature weave a harmonious synthesis of the present with threads of a distant, and glorious past. Lying as the island does, on the crossroads of the three ancient continents - Europe, Asia and Africa - it has inherited something from each. From Europe, its cosmopolitan air, from Asia its reserved, traditional character, from Africa its palm trees and the hot breath of the south wind.
