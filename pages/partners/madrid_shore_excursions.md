@@ -7,15 +7,12 @@ meta:
   title: Madrid shore excursions, Madrid private tours, Shore excursions and Private
     tours in Madrid
   http_desc: Madrid shore excursions, Madrid private tours, Shore excursions and Private
-    tours in Madrid, Medieval Madrid, Habsburg Madrid, Bourbon Madrid, Madrid Museums,
-    Literary Madrid, Musical Madrid, Woman's Madrid, Gay Madrid, The Parks of Madrid
+    tours in Madrid, Medieval Madrid, Habsburg Madrid, Bourbon Madrid, Madrid Museums
   keywords: Madrid shore excursions, Madrid private tours, Shore excursions and Private
     tours in Madrid, Medieval Madrid, Habsburg Madrid, Bourbon Madrid, Madrid Museums,
-    Literary Madrid, Musical Madrid, Woman's Madrid, Gay Madrid, The Parks of Madrid
   description: Madrid shore excursions, Madrid private tours, Shore excursions and
     Private tours in Madrid, Medieval Madrid, Habsburg Madrid, Bourbon Madrid, Madrid
-    Museums, Literary Madrid, Musical Madrid, Woman's Madrid, Gay Madrid, The Parks
-    of Madrid
+    Museums
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
