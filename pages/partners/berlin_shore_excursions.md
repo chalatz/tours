@@ -4,19 +4,21 @@ permalink: berlin_shore_excursions.htm
 has_gallery: false
 id: partner_berlin_shore_excursions
 meta:
-  title: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin, Warnemünde - Rostock to Berlin, Cruise Ship Excursions
-  http_desc: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin, Warnemünde - Rostock to Berlin, Cruise Ship Excursions
-  keywords: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin, Warnemünde - Rostock to Berlin, Cruise Ship Excursions
-  description: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin, Warnemünde - Rostock to Berlin, Cruise Ship Excursions
+  title: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin, Warnemünde
+    - Rostock to Berlin, Cruise Ship Excursions
+  http_desc: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin,
+    Warnemünde - Rostock to Berlin, Cruise Ship Excursions
+  keywords: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin,
+    Warnemünde - Rostock to Berlin, Cruise Ship Excursions
+  description: Berlin Shore Excursions, Berlin private tours, from Hamburg to Berlin,
+    Warnemünde - Rostock to Berlin, Cruise Ship Excursions
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-
 title: Berlin Shore Excursions
-
 subtitles:
-  - Private tours and Cruise Ship Excursions
-  - Jo Eckardt
+- Private tours and Cruise Ship Excursions
+- Jo Eckardt
 
 ---
 My name is Jo Eckardt. I lived in New York for 19 years teaching German at NYU and working for the UN. In 2001 I returned to Berlin. Even though I still miss New York, I don't regret the move. Berlin is a great place and I'd love to show it to you! I started doing tours as a private guide in 2003, shortly after moving to Berlin. I have a Ph.D. as well as a MSW from NYU. My oldest son was born in New York, he was part of the reason why I came back to Germany. Whether you travel alone, with family, or in a group, I will help you plan your trip and show you around once you get here: On foot, by car, or by bus. Get the support you would get from a friend or relative! My team is trained to provide the best quality of private tours in deferent languages as Thai, Spanish, French, Hebrew, Italian, Portuguese, Chinese, English.
@@ -49,12 +51,6 @@ Jo Eckardt and Team
 
 Your Private Tour Guides in Berlin
 
-**Available Services**
+**WEBSITE:**   [https://www.afriendinberlin.de/](https://www.afriendinberlin.de/ "https://www.afriendinberlin.de/")
 
-Berlin Private tours and Cruise Ship Excursions, Individual Tours for small groups with drivers guides in Berlin, Personalized guided tours in Berlin, Teens Tours, Accommodation, Car service, Limo Service, Minivan, Bus, Boat Tours.
-
-**Contact**
-
-For more information please contact us at
-
-[info@afriendinberlin.de](mailto:info@afriendinberlin.de?bcc=request@rhodesprivatetours.com "mailto:info@afriendinberlin.de")
+**:TRIPADVISOR:**  [https://www.tripadvisor.com/Attraction_Review-g187323-d7033574-Reviews-A_Friend_in_Berlin-Berlin.html](https://www.tripadvisor.com/Attraction_Review-g187323-d7033574-Reviews-A_Friend_in_Berlin-Berlin.html "https://www.tripadvisor.com/Attraction_Review-g187323-d7033574-Reviews-A_Friend_in_Berlin-Berlin.html")
