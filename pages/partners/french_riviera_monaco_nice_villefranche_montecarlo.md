@@ -17,6 +17,5 @@ meta:
 title: 'FRENCH RIVIERA PRIVATE TOURS '
 subtitles:
 - Monaco, Villefranche, Monte Carlo, Nice, Saint Paul de Vence, and Cannes.
-- Revelation Tours
 
 ---
