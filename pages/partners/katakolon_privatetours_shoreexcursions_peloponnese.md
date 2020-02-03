@@ -4,19 +4,19 @@ permalink: katakolon_privatetours_shoreexcursions_peloponnese.htm
 has_gallery: false
 id: partner_katakolon_privatetours_shoreexcursions_peloponnese
 meta:
-  title: Katakolon Private tours, Katakolon Private Shore Excursions, Katakolon private guides drivers, Peloponnese
-  http_desc: Katakolon Private tours, Katakolon Private Shore Excursions, Katakolon private guides drivers, Peloponnese
-  keywords: Katakolon Private tours, Katakolon Private Shore Excursions, Katakolon private guides drivers, Peloponnese
-  description: Katakolon Private tours, Katakolon Private Shore Excursions, Katakolon private guides drivers, Peloponnese
+  title: Katakolon Private tours, Katakolon Private Shore Excursions, Katakolon private
+    guides drivers, Peloponnese
+  http_desc: Katakolon Private tours, Katakolon Private Shore Excursions, Katakolon
+    private guides drivers, Peloponnese
+  keywords: Katakolon Private tours, Katakolon Private Shore Excursions, Katakolon
+    private guides drivers, Peloponnese
+  description: Katakolon Private tours, Katakolon Private Shore Excursions, Katakolon
+    private guides drivers, Peloponnese
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-
-title: Katakolon Private tours.
-
-subtitles:
-  - Peloponnese Private Taxi Services. Greece
-  - Panagiotis Zaharopoulos
+title: KATAKOLON PRIVATE TOURS - KATAKOLON SHORE EXCURSIONS
+subtitles: []
 
 ---
 Hello, my name is Panagiotis Zaharopoulos and I was born at Krestena in 1980. I've been a taxi driver for five years in Pirgos and i am very dedicated to this job. Greece have very beautifull places to go. I have a big new car Mercedes Benz E CLASS with leather seats, airconditioned. It's a big car, enough for 4 adults or 5 (if there are children). I have taken tours for athens several times, olympia, Epicurios APOLLON etc. My father and my brother are taxi drivers too. I have a very good and worthiness family.
