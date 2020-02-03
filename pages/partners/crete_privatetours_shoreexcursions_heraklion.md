@@ -13,7 +13,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: CRETE PRIVATE TOURS - CRETE SHORE EXCURSIONSate Tours. Heraklion Taxi Tours
-subtitles:
-- Yiannis Saridakis - Heraklion Private Tours
+subtitles: []
 
 ---
