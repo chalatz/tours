@@ -20,7 +20,7 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
 title: 'FRENCH RIVIERA PRIVATE TOURS '
 subtitles:
-- Monaco, Monte Carlo, Nice, Villefranche, Saint Paul de Vence, and Cannes.
+- Monaco, Villefranche, Monte Carlo, Nice, Saint Paul de Vence, and Cannes.
 - Revelation Tours
 
 ---
