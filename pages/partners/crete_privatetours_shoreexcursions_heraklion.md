@@ -24,14 +24,9 @@ Offering always unique taxi excursions of the whole island so that you can maxim
 
 Sincerely<br>
 Yiannis Saridakis<br>
-Your taxi driver in Crete.
 
 **Available Services**
 
 Crete private tours. Myrtia Archanes tours. Private shore excursions. Customized day trips. Businesspeople, diplomats. Marriages, Celebrities. Private Adventure Tours. Knossos Palace Tours. Heraklion port excursions. Gortys Phaistos Matala. Crete Taxi tours.
 
-**Contact**
-
-For further information of our services, availability and reservations in Crete, please contact us. Please write as much details as much you can so we can give you complete and appropriate reply immediately.
-
-[ysaridaki@cretan-taxi.gr](mailto:ysaridaki@cretan-taxi.gr?bcc=request@rhodesprivatetours.com "mailto:ysaridaki@cretan-taxi.gr")
+**WEBSITE:** [https://www.creteprivatetours.com/](https://www.creteprivatetours.com/ "https://www.creteprivatetours.com/")
