@@ -15,10 +15,8 @@ meta:
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Berlin Shore Excursions
-subtitles:
-- Private tours and Cruise Ship Excursions
-- Jo Eckardt
+title: BERLIN SHORE EXCURSIONS
+subtitles: []
 
 ---
 My name is Jo Eckardt. I lived in New York for 19 years teaching German at NYU and working for the UN. In 2001 I returned to Berlin. Even though I still miss New York, I don't regret the move. Berlin is a great place and I'd love to show it to you! I started doing tours as a private guide in 2003, shortly after moving to Berlin. I have a Ph.D. as well as a MSW from NYU. My oldest son was born in New York, he was part of the reason why I came back to Germany. Whether you travel alone, with family, or in a group, I will help you plan your trip and show you around once you get here: On foot, by car, or by bus. Get the support you would get from a friend or relative! My team is trained to provide the best quality of private tours in deferent languages as Thai, Spanish, French, Hebrew, Italian, Portuguese, Chinese, English.
