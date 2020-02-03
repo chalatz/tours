@@ -15,11 +15,7 @@ meta:
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Lisbon Portugal.
-subtitles:
-- Private Specialized tours of Lisbon Portugal.
-- Private - Personalized tours of Lisbon, Portugal.
-- Incorporating wheelchair accessible tours
-- Anubi's Lisbon
+title: LISBON PORTUGAL SHORE EXCURSIONS
+subtitles: []
 
 ---
