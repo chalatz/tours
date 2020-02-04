@@ -19,9 +19,9 @@ reviews:
   text: "\nMichael was a fountain of information, sensitive to our needs and had a
     nice sense of humor. We saw gorgeous views of Rhodes. We stopped at a traditional
     restaurant popular with locals for a delicious lunch of Greek salad and other
-    Greek starter specialties. Very pleased with the tour.<br>\nGloria B.  New York
-    USA\n\n\nThanks Nicholas, Manuel was great and the tour was truly amazing. We
-    appreciate your help awesome service!  Have an amazing 2020! <br>\nThanks Christian,
+    Greek starter specialties. Very pleased with the tour.<br>\nGloria B.  (Jan 27th)
+    New York USA\n\n\nThanks Nicholas, Manuel was great and the tour was truly amazing.
+    We appreciate your help awesome service!  Have an amazing 2020! <br>\nThanks Christian,
     \ (Jan 12th) Mexico \n\nThank you to Micheal for his expertise and the knowledge
     you shared with us. Plus your humor which we greatly appreciated. We wish you
     all a great New Year.  Kind regards Gregor and Vicky (Jan 3rd) Portugal "
