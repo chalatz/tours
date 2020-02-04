@@ -1,17 +1,24 @@
 ---
-layout: partner-page
+layout: partner
 permalink: mediterranean-ports-shore-excursions.htm
 has_gallery: false
 id: partner_mediterranean-ports-shore-excursions
 meta:
   title: Mediterranean Ports Shore Excursions, Mediterranean Shore Excursions
-  http_desc: Mediterranean Ports Shore Excursions, Cruise Excursions on Your Own for the Eastern Mediterranean ports Greece Italy Cyprus Israel and Turkey, Rhodes Cruise Port
-  keywords: Mediterranean Ports Shore Excursions, Cruise Excursions on Your Own for the Eastern Mediterranean ports Greece Italy Cyprus Israel and Turkey, Rhodes Cruise Port
-  description: Mediterranean Ports Shore Excursions, Cruise Excursions on Your Own for the Eastern Mediterranean ports Greece Italy Cyprus Israel Turkey, Rhodes Cruise Port
+  http_desc: Mediterranean Ports Shore Excursions, Cruise Excursions on Your Own for
+    the Eastern Mediterranean ports Greece Italy Cyprus Israel and Turkey, Rhodes
+    Cruise Port
+  keywords: Mediterranean Ports Shore Excursions, Cruise Excursions on Your Own for
+    the Eastern Mediterranean ports Greece Italy Cyprus Israel and Turkey, Rhodes
+    Cruise Port
+  description: Mediterranean Ports Shore Excursions, Cruise Excursions on Your Own
+    for the Eastern Mediterranean ports Greece Italy Cyprus Israel Turkey, Rhodes
+    Cruise Port
   abstract: Mediterranean Ports Shore Excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: MEDITERRANEAN PORTS SHORE EXCURSIONS
+subtitles: []
 
 ---
 #### Have Fun at the Sea and On Land by Going on Mediterranean Shore Excursion Tours
@@ -30,4 +37,4 @@ However, whether you want to go off the beaten path or visit unique places onsho
 
 ### Cruise Excursion on Your Own (Private Shore Excursion)
 
-Additionally, you can choose to head out without a group if you don’t want to tour with strangers or prefer to explore without waiting for them to catch up. The tour operator will create an itinerary to that effect and this includes the time you want to spend at different locations. This way, you will get a personalized tour experience and a chance to talk to the locals and save a lot of money in the bargain. The below tour companies, travel agencies and tour operators are recommended from our previous clients. Please feel free to browse their websites and narrow down your choice by going through their reviews on TripAdvisor and make an informed decision. 
+Additionally, you can choose to head out without a group if you don’t want to tour with strangers or prefer to explore without waiting for them to catch up. The tour operator will create an itinerary to that effect and this includes the time you want to spend at different locations. This way, you will get a personalized tour experience and a chance to talk to the locals and save a lot of money in the bargain. The below tour companies, travel agencies and tour operators are recommended from our previous clients. Please feel free to browse their websites and narrow down your choice by going through their reviews on TripAdvisor and make an informed decision.
