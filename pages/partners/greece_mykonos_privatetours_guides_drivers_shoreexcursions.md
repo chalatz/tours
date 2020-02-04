@@ -16,6 +16,7 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
 title: 'MUKONOS PRIVATE TOURS - MYKONOS SHORE EXCURSIONS '
 subtitles:
+- DELOS PRIVATE TOURS
 - ''
 - ''
 
