@@ -46,7 +46,6 @@ sections:
 - type: document
   path: pages/info/mediterranean-ports-shore-excursions.md
   label: Mediterranean Ports Shore Excursions
-  match: "**/*"
 - type: heading
   label: Tours
 - type: directory
