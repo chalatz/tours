@@ -190,18 +190,15 @@
     }
 
     &__content {
-        h3, h4 {
-            text-align: center;
-        }
         p {
             font-size: 1.1rem;
             line-height: 1.6;
         }
-
+        
         a[href^="mailto"] {
             font-weight: bold;
         }
-
+        
         .soon {
             color: $red;
             font-weight: bold;
@@ -209,9 +206,14 @@
             padding-bottom: 3rem;
         }
     }
-
+    
     &--page {
         border-top-color: #fff;
+        .partner__content {
+            h3, h4 {
+                text-align: center;
+            }
+        }
     }
 
 }
