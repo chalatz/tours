@@ -1,5 +1,5 @@
 ---
-layout: partner
+layout: partner-page
 permalink: mediterranean-ports-shore-excursions.htm
 has_gallery: false
 id: partner_mediterranean-ports-shore-excursions
