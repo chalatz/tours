@@ -49,3 +49,5 @@ fields:
 - type: list
   name: subtitles
   label: subtitles
+pages:
+- pages/info/mediterranean-ports-shore-excursions.md

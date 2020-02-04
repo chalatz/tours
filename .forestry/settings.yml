@@ -43,6 +43,9 @@ sections:
 - type: document
   path: pages/info/years-of-xp.md
   label: Years of Experience
+- type: document
+  path: pages/info/mediterranean-ports-shore-excursions.md
+  label: Mediterranean Ports Shore Excursions
 - type: heading
   label: Tours
 - type: directory
