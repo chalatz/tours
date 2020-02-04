@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<main class="photo-tour partner partner--page">
+ 
+    <header class="partner__header section container">
+        <h1 class="photo-tour__title partner__title">
+            {{- page.title -}}
+        </h1>
+        {%- assign subtitles_size = page.subtitles | size -%}
+        {%- if subtitles_size > 0 -%}
+            {%- for subtitle in page.subtitles -%}
+                <h2 class="photo-tour__subtitle partner__subtitle">
+                    {{- subtitle -}}
+                </h2>
+            {%- endfor -%}
+        {%- endif -%}
+    </header>
+
+    <section class="section container partner__content">
+        {%- if page.content != '' -%}
+            {{ content }}
+        {%- else -%}
+            <p class="soon" style="color: #fa320a; font-weight: bold; text-align: center; padding-bottom: 3rem;">
+                Soon...
+            </p>
+        {%- endif -%}
+    </section>
+
+    {%- unless page.hide_links == true -%}
+        <footer class="section">
+            {% include partials/other-partners.html %}
+        </footer>
+    {%- endunless -%}
+    
+</main>

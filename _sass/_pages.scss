@@ -190,6 +190,9 @@
     }
 
     &__content {
+        h3, h4 {
+            text-align: center;
+        }
         p {
             font-size: 1.1rem;
             line-height: 1.6;
@@ -205,6 +208,10 @@
             text-align: center;
             padding-bottom: 3rem;
         }
+    }
+
+    &--page {
+        border-top-color: #fff;
     }
 
 }
