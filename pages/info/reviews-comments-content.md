@@ -4795,12 +4795,12 @@ reviews:
     hesitate to recommend him as a private tour.<br>\nGraham & Nancy  USA       "
 - year: "1998"
   text: "Hi Nick.   Just thought you would like to know that I have included your
-    name and email on the Net so that everyone can have the wonderful experience we
-    had with you. Here is a portion of my \"review\" of our cruise that I just uploaded:
-    \ Rhodes...TIPS: Yes, you can take a tour of Lindos, which is a small town with
-    two beautiful harbors .....We took this \"tour\" with a wonderful tour/driver
-    named Nicholas. He was funny, knew everything about the island and showed us the
-    sights in an air-conditioned Mercedes. He was one of the highlights of the cruise.<br>\nI
+    service and email on the Net so that everyone can have the wonderful experience
+    we had with your company. Here is a portion of my \"review\" of our cruise that
+    I just uploaded:  Rhodes...TIPS: Yes, you can take a tour of Lindos, which is
+    a small town with two beautiful harbors .....We took this \"tour\" with a wonderful
+    driver, he was funny, knew everything about the island and showed us the sights
+    in an air-conditioned Mercedes. He was one of the highlights of the cruise.<br>\nI
     have now looked at your web site--nice work!<br>\nThanks again for making our
     trip so wonderful!<br>\nRusty  USA\n\n\nDear Nicholas.  I am Omar the son of Dr
     Monir . We visited Rhodes last month on the cruise ship Boccacio<br>\nWe took
