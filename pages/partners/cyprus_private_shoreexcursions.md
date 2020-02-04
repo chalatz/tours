@@ -15,6 +15,6 @@ meta:
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Cyprus Private Shore Excursions
+title: 'CYPRUS PRIVATE SHORE EXCURSIONS '
 
 ---

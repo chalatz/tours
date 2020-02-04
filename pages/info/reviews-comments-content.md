@@ -16,11 +16,15 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2020"
-  text: "Thanks Nicholas, Manuel was great and the tour was truly amazing. We appreciate
-    your help awesome service!  Have an amazing 2020! <br>\nThanks Christian,  (Jan
-    12th) Mexico \n\nThank you to Micheal for his expertise and the knowledge you
-    shared with us. Plus your humor which we greatly appreciated. We wish you all
-    a great New Year.  Kind regards Gregor and Vicky (Jan 3rd) Portugal "
+  text: "\nMichael was a fountain of information, sensitive to our needs and had a
+    nice sense of humor. We saw gorgeous views of Rhodes. We stopped at a traditional
+    restaurant popular with locals for a delicious lunch of Greek salad and other
+    Greek starter specialties. Very pleased with the tour.<br>\nGloria B.  (Jan 27th)
+    New York USA\n\n\nThanks Nicholas, Manuel was great and the tour was truly amazing.
+    We appreciate your help awesome service!  Have an amazing 2020! <br>\nThanks Christian,
+    \ (Jan 12th) Mexico \n\nThank you to Micheal for his expertise and the knowledge
+    you shared with us. Plus your humor which we greatly appreciated. We wish you
+    all a great New Year.  Kind regards Gregor and Vicky (Jan 3rd) Portugal "
 - year: "2019"
   text: "Nicholas, We had such a wonderful time in Rhodes and your company provided
     outstanding service! . Kostas and Manolis were amazing and especially helpful.
@@ -4658,54 +4662,54 @@ reviews:
   text: "Hello Nick.  Well, we finally made it home last Saturday. We sure did enjoy
     our time with you in Rhodes. I learned a lot about your Island as well as having
     the opportunity of seeing many interesting sites and meeting some very nice people.
-    You are a very good driver and I would recommend you to others. You can use this
+    You are a very good host and I would recommend you to others. You can use this
     as a testimonial if you wish. We liked your WEB page and sent it on to others
     to share. Our farm was fine and all the animals survived well.<br>\nWhen we come
     back to Rhodes we will get with you again.  You were a highlight on our trip.<br>\nWe
     will stay in touch and when you come to the USA (South Carolina) come see us and
     stay with us. We will show you around.<br>\nBruce & Pat Radenbaugh<br>\nDaisy
-    Crossing Farm USA\n\n\nGREETINGS FROM CHICAGO,  WHEN I RETURNED FROM THE TRIP.
-    I WANT TO TELL YOU HOW MUCH WE ENJOYED THE TOUR. WE MET SOMEONE WHO TOURED US
-    IN EPHESUS WHO KNOWS YOU. I HOPE YOU WILL GENERATE A LOT OF BUISNESS WITH YOUR
-    WEB SITE. DAN AND I WILL RECOMMEND YOU TO PEOPLE WE KNOW WHO WILL BE IN RHODES.
-    HAVE A WONDERFULL HOLIDAY SEASON.<br> LEE  Chicago USA\n\n\nDear Nick:  Thanks
-    for your greeting. We had a great trip. We would have really enjoyed more time
-    in beautiful Rhodes. Will be checking for our foto. Our warm regards to Michael.
-    Hope you will have a good -off season - remember the R ships will still be coming!!!<br>\nBest-
-    Virginia   USA\n\nHello From Colorado.   Yes, I DO recommend Nicholas. He is a
-    wonderful person to work with in advance through e-mail and he and his brother
-    Michael both speak very good English. We couldn't have asked for more! Michael
-    was our driver. We were four persons traveling together and made ALL our tours
-    reservations in advance of leaving last April. We were on R-1 from Istanbul to
-    Athens. Nick and Michael are VERY flexible and will work around whatever you want.
-    Enjoy your trip! <br>\nRenee Latty   USA\n\nDear Nicholas, Yes, it's sad to say
-    but we are back home now. I can't believe how fast our vacation went by. We met
-    wonderful people and learned so much history during our 15 day cruise. Thank you
-    so much for setting up our drivers for the nine people we had in our group. We
-    had a great time with Themis. What a beautiful island you live on!<br>\nThank
-    you for showing us the sites. We will never forget this vacation!<br>\nBest Regards,
-    Kim  Ontario Canada\n\nDear Nicholas,  Thank you for the outstanding tour. We
-    enjoyed our stay at Rhodes.<br>\nOur vacation was excellent! You will probably
-    see us again some day.<br>\nSincerely, John and Margo CA USA\n\nDear Nick,  Vasilis
-    was a wonderful driver..we liked him very much.  Your island is beautiful and
-    we will ask for a recommendation of a great place to stay!!<br>\nThanks, Robin
-    and Herman  Texas  USA\n\nHi, Nick! Thanks for the tour! We had a great time in
-    Rhodes. Both Michaels were very knowledgable about the area. When I go to an area,
-    I like to know the place. Every place has a story and it's great to learn new
-    things about different places. We found both Michaels very interesting, friendly
-    and fun. Also, very flexible and accommodating. It made the tour that much more
-    enjoyable.<br>\nThank you again for a very enjoyable tour.<br>\nMary-Beth USA\n\nDear
-    Nick and Mike,  We all enjoyed our day with you very much. Tell Mike the pastries
-    were wonderful. If we are in Rhodes again we will make arrangements to see you,
-    and, of course if you are ever here in Florida, please contact us and we will
-    look forward to seeing you. Again, we had a terrific time with you in Rhodes and
-    we hope you and your families are all well. Also, please send our regards to Michael
-    and Vasilis as well.<br>\nSincerely,<br>\nJoan Licht and the group (Jules, Ida,
-    Irving, Michael, Ray, Janet, Phil, Marcia, Ian) USA\n\nThanks, I just got back.
-    Manuel was excellent. \nThank-you. I will definitely recommend your tour.<br>\nRegard
-    Pasquale De F.<br>\nPrincipal Consultant-ESI International\n\nDominic was most
-    pleasand and we had a great time with him in Rhodes Town and in Lindos. He made
-    our trip very enjoyable.  The rest of our journey was also pleasant, although
+    Crossing Farm, South Carolina USA\n\n\nGREETINGS FROM CHICAGO,  WHEN I RETURNED
+    FROM THE TRIP. I WANT TO TELL YOU HOW MUCH WE ENJOYED THE TOUR. WE MET SOMEONE
+    WHO TOURED US IN EPHESUS WHO KNOWS YOU. I HOPE YOU WILL GENERATE A LOT OF BUISNESS
+    WITH YOUR WEB SITE. DAN AND I WILL RECOMMEND YOU TO PEOPLE WE KNOW WHO WILL BE
+    IN RHODES. HAVE A WONDERFULL HOLIDAY SEASON.<br> LEE  Chicago USA\n\n\nDear Nick:
+    \ Thanks for your greeting. We had a great trip. We would have really enjoyed
+    more time in beautiful Rhodes. Will be checking for our foto. Our warm regards
+    to Michael. Hope you will have a good -off season - remember the R ships will
+    still be coming!!!<br>\nBest- Virginia   USA\n\nHello From Colorado.   Yes, I
+    DO recommend Nicholas. He is a wonderful person to work with in advance through
+    e-mail and he and his brother Michael both speak very good English. We couldn't
+    have asked for more! Michael was our driver. We were four persons traveling together
+    and made ALL our tours reservations in advance of leaving last April. We were
+    on R-1 from Istanbul to Athens. Nick and Michael are VERY flexible and will work
+    around whatever you want. Enjoy your trip! <br>\nRenee Latty   USA\n\nDear Nicholas,
+    Yes, it's sad to say but we are back home now. I can't believe how fast our vacation
+    went by. We met wonderful people and learned so much history during our 15 day
+    cruise. Thank you so much for setting up our drivers for the nine people we had
+    in our group. We had a great time with Themis. What a beautiful island you live
+    on!<br>\nThank you for showing us the sites. We will never forget this vacation!<br>\nBest
+    Regards, Kim  Ontario Canada\n\nDear Nicholas,  Thank you for the outstanding
+    tour. We enjoyed our stay at Rhodes.<br>\nOur vacation was excellent! You will
+    probably see us again some day.<br>\nSincerely, John and Margo CA USA\n\nDear
+    Nick,  Vasilis was a wonderful driver..we liked him very much.  Your island is
+    beautiful and we will ask for a recommendation of a great place to stay!!<br>\nThanks,
+    Robin and Herman  Texas  USA\n\nHi, Nick! Thanks for the tour! We had a great
+    time in Rhodes. Both Michaels were very knowledgable about the area. When I go
+    to an area, I like to know the place. Every place has a story and it's great to
+    learn new things about different places. We found both Michaels very interesting,
+    friendly and fun. Also, very flexible and accommodating. It made the tour that
+    much more enjoyable.<br>\nThank you again for a very enjoyable tour.<br>\nMary-Beth
+    USA\n\nDear Nick and Mike,  We all enjoyed our day with you very much. Tell Mike
+    the pastries were wonderful. If we are in Rhodes again we will make arrangements
+    to see you, and, of course if you are ever here in Florida, please contact us
+    and we will look forward to seeing you. Again, we had a terrific time with you
+    in Rhodes and we hope you and your families are all well. Also, please send our
+    regards to Michael and Vasilis as well.<br>\nSincerely,<br>\nJoan Licht and the
+    group (Jules, Ida, Irving, Michael, Ray, Janet, Phil, Marcia, Ian) USA\n\nThanks,
+    I just got back. Manuel was excellent. \nThank-you. I will definitely recommend
+    your tour.<br>\nRegard Pasquale De F.<br>\nPrincipal Consultant-ESI International\n\nDominic
+    was most pleasand and we had a great time with him in Rhodes Town and in Lindos.
+    He made our trip very enjoyable.  The rest of our journey was also pleasant, although
     we could have skipped Santorini.  We loved Istanbul. Both my husband and I look
     forward to revisiting Rhodes, Istanbul and Athens. When we do we will certainly
     contqact you and I will add my name to those who have previously recommended you.<br>\nSincerely,
@@ -4795,12 +4799,12 @@ reviews:
     hesitate to recommend him as a private tour.<br>\nGraham & Nancy  USA       "
 - year: "1998"
   text: "Hi Nick.   Just thought you would like to know that I have included your
-    name and email on the Net so that everyone can have the wonderful experience we
-    had with you. Here is a portion of my \"review\" of our cruise that I just uploaded:
-    \ Rhodes...TIPS: Yes, you can take a tour of Lindos, which is a small town with
-    two beautiful harbors .....We took this \"tour\" with a wonderful tour/driver
-    named Nicholas. He was funny, knew everything about the island and showed us the
-    sights in an air-conditioned Mercedes. He was one of the highlights of the cruise.<br>\nI
+    service and email on the Net so that everyone can have the wonderful experience
+    we had with your company. Here is a portion of my \"review\" of our cruise that
+    I just uploaded:  Rhodes...TIPS: Yes, you can take a tour of Lindos, which is
+    a small town with two beautiful harbors .....We took this \"tour\" with a wonderful
+    driver, he was funny, knew everything about the island and showed us the sights
+    in an air-conditioned Mercedes. He was one of the highlights of the cruise.<br>\nI
     have now looked at your web site--nice work!<br>\nThanks again for making our
     trip so wonderful!<br>\nRusty  USA\n\n\nDear Nicholas.  I am Omar the son of Dr
     Monir . We visited Rhodes last month on the cruise ship Boccacio<br>\nWe took

@@ -14,8 +14,10 @@ meta:
   abstract: MYKONOS PRIVATE TOURS, Mykonos shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Mykonos Private Tours.
+title: 'MUKONOS PRIVATE TOURS - MYKONOS SHORE EXCURSIONS '
 subtitles:
-- Mykonos shore excursions with private guides, drivers
+- DELOS PRIVATE TOURS
+- ''
+- ''
 
 ---

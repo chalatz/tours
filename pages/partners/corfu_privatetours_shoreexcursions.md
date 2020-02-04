@@ -14,7 +14,7 @@ meta:
   abstract: CORFU PRIVATE TOURS,  Corfu shore Excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: 'CORFU PRIVATE TOURS, CORFU SHORE EXCURSIONS '
+title: 'CORFU PRIVATE TOURS - CORFU SHORE EXCURSIONS '
 subtitles: []
 
 ---
@@ -46,7 +46,7 @@ Visits: Bella Vista from the top of the heart shaped bays of Paleokastritsa.
 
 Lakones: A traditional village of the 16th cen. Built at the top of the mountain, the monastery of Blessed Virgin Mary of the 13th cen.
 
-Sincerely<br> Dimitris and Team<br> Your Taxi Drivers in Corfu
+Sincerely<br> Dimitris and Team
 
 **WEBSITE:**  [https://corfutaxiprivatetours.gr/](https://corfutaxiprivatetours.gr/)
 

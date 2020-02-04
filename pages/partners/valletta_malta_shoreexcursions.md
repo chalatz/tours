@@ -11,8 +11,7 @@ meta:
   abstract: 'Malta Valletta Shore Excursions, Valletta Tours '
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: ''
-subtitles:
-- 'MALTA - VALLETTA SHORE EXCURSIONS '
+title: 'MALTA - VALLETTA SHORE EXCURSIONS '
+subtitles: []
 
 ---
