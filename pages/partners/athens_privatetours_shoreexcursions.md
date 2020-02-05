@@ -5,9 +5,9 @@ has_gallery: false
 id: partner_athens_privatetours_shoreexcursions
 meta:
   title: ATHENS PRIVATE TOURS, Athens Shore Excursions
-  http_desc: ATHENS PRIVATE TOURS, Athens Shore Excursions Greece, George’s Taxi
-  keywords: ATHENS PRIVATE TOURS, Athens Shore Excursions Greece, George’s Taxi
-  description: ATHENS PRIVATE TOURS, Athens Shore Excursions Greece, George’s Taxi
+  http_desc: 'ATHENS PRIVATE TOURS, Athens Shore Excursions '
+  keywords: ATHENS PRIVATE TOURS, Athens Shore Excursions, George’s Taxi
+  description: ATHENS PRIVATE TOURS, Athens Shore Excursions, George’s Taxi
   abstract: ATHENS PRIVATE TOURS, Athens Shore Excursions Greece, George’s Taxi
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
