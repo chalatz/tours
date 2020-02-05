@@ -299,6 +299,14 @@
                 color: #000;
             }
         }
+        &--darkblue {
+            color: $darkblue;
+            font-weight: bold;
+            font-size: 1.4rem;
+            &:visited {
+                color: $darkblue;
+            }
+        }
     }
 
 }
