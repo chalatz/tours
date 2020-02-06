@@ -20,3 +20,10 @@ subtitles:
 - ''
 
 ---
+We provide top quality shore excursions for Madrid and Spain Ports as Malaga, Cadiz, Valencia, Tenerife, Palma, Ibiza, Cartagena. We offer unbeatable prices!
+
+Book multiple tours in Spain with our excursion specialists. Pickup and drop-off from port, expert English-speaking guides, and top-quality service throughout the day.
+
+**WEBSITE:**  [https://www.spaindaytours.com/madrid_tours/](https://www.spaindaytours.com/madrid_tours/ "https://www.spaindaytours.com/madrid_tours/")
+
+**TRIPADVISOR:**  [https://www.tripadvisor.com/Attraction_Review-g187443-d1857107-Reviews-Spain_Day_Tours-Seville_Province_of_Seville_Andalucia.html](https://www.tripadvisor.com/Attraction_Review-g187443-d1857107-Reviews-Spain_Day_Tours-Seville_Province_of_Seville_Andalucia.html "https://www.tripadvisor.com/Attraction_Review-g187443-d1857107-Reviews-Spain_Day_Tours-Seville_Province_of_Seville_Andalucia.html")
