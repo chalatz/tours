@@ -16,11 +16,11 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
 title: KATAKOLON PRIVATE TOURS - KATAKOLON SHORE EXCURSIONS
 subtitles:
-- Dora Stathopoulos
+- 'OLYMPIA PRIVATE TOURS  '
 - ''
 
 ---
-My name is Dora Stathopoulos and i am the owner of the tour agency **Travel Dora** 
+My name is **Dora Stathopoulos** and i am the owner of the tour agency **Travel Dora**
 
 I was born and lived my early childhood in Melbourne, Australia. I decided to follow in my father's footsteps since he was involved in the travel industry for more than 3 decades.
 
