@@ -21,7 +21,7 @@ title: MEDITERRANEAN PORTS SHORE EXCURSIONS
 subtitles: []
 
 ---
-#### Have Fun at the Sea and On Land by Going on Mediterranean Shore Excursion Tours
+### Have Fun at the Sea and On Land by Going on Mediterranean Shore Excursion Tours
 
 If you go on shore during a cruise trip, these are called shore excursions, and you can take them at the ports your ship docks in during the cruise. The service is offered by the cruise lines, and many independent tour operators because of how popular they are.
 
@@ -29,7 +29,7 @@ Mediterranean cruises, in particular, offer tourists a unique opportunity to vis
 
 So, how can you visit so many locations at once if you go on a Mediterranean cruise? Simple. The Mediterranean Sea is outlined with Europe, Africa, and Asia in the north, south and east respectively. That’s more than 20 countries you can visit just by going on the cruise! However, you cannot visit all of them at once, especially if you are on a budget.
 
-#### Why Booking Independent Shore Excursions Is a Good Idea
+### Why Booking Independent Shore Excursions Is a Good Idea
 
 Some Cruise lines offer shore excursions as part of the cruise (all-inclusive package), but most of them sell you the shore excursions at the time you book your cruise.  If you need to save money and want a full experience, you can always join a group that wants to explore areas that are not offered by the cruise line.
 
@@ -37,4 +37,4 @@ However, whether you want to go off the beaten path or visit unique places onsho
 
 ### Cruise Excursion on Your Own (Private Shore Excursion)
 
-Additionally, you can choose to head out without a group if you don’t want to tour with strangers or prefer to explore without waiting for them to catch up. The tour operator will create an itinerary to that effect and this includes the time you want to spend at different locations. This way, you will get a personalized tour experience and a chance to talk to the locals and save a lot of money in the bargain. The below tour companies, travel agencies and tour operators are recommended from our previous clients. Please feel free to browse their websites. 
+Additionally, you can choose to head out without a group if you don’t want to tour with strangers or prefer to explore without waiting for them to catch up. The tour operator will create an itinerary to that effect and this includes the time you want to spend at different locations. This way, you will get a personalized tour experience and a chance to talk to the locals and save a lot of money in the bargain. The below tour companies, travel agencies and tour operators are recommended from our previous clients. Please feel free to browse their websites.
