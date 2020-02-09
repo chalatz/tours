@@ -30,10 +30,10 @@ We offer safe, reliable private tours with clean, comfortable and new vehicles. 
 
 We provide several options for private Katakolon tours
 
-* Olympia full day : Duration 6-7 hours It includes Olympia (archaeological site and museum), Klio's honey farm, Agriturismo Magna Grecia, Saint Andreas Beach
-* Olympia half day : Duration 4-5 hours It includes Olympia (archaeological site and museum), Klio's honey farm, Saint Andreas Beach
-* Chlemoutsi Castle : Duration 6-7 hours It includes Chlemoutsi Castle, Vlachernae Monastery, Hot springs of Kyllini, Golden beach for a swim
-* Epikourios Apollon : Duration 6-7 hours It includes Epikourios Apollon temple, Stops at traditional villages for coffee or lunch such as Andritsaina village, Monastery Sepeto
+* **Olympia full day :** Duration 6-7 hours It includes Olympia (archaeological site and museum), Klio's honey farm, Agriturismo Magna Grecia, Saint Andreas Beach
+* **Olympia half day :** Duration 4-5 hours It includes Olympia (archaeological site and museum), Klio's honey farm, Saint Andreas Beach
+* **Chlemoutsi Castle :** Duration 6-7 hours It includes Chlemoutsi Castle, Vlachernae Monastery, Hot springs of Kyllini, Golden beach for a swim
+* **Epikourios Apollon :** Duration 6-7 hours It includes Epikourios Apollon temple, Stops at traditional villages for coffee or lunch such as Andritsaina village, Monastery Sepeto
 
 **WEBSITE:** [http://traveldora.com](http://traveldora.com "http://traveldora.com")
 
