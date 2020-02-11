@@ -1163,11 +1163,11 @@ reviews:
     You and Dominic were very professional and do an excellent job. Dominic was extremely
     knowledgeable, polite and funny and we felt very comfortable with him. Thank you
     again, Jeff (Nov12th) Norman\tOklahoma\n\nHi Nicholas. Our tour was good. Enjoyed
-    our day, especially the goat in the tree!<br>\nThank you<br>\nPatricia Recktenwald
-    (Nov 7th)<br>\nbp.reck@verizon.net\n\nMuchas Gracias Manuel y Nicolás:<br>\nYa
-    estamos en nuestra larga y angosta franja de tierra llamado Chile, practicamente
-    al final del mundo. Gracias por vuestro tour, por vuestra compañía y por mostrarnos
-    lo vuestro.<br>\nUn real agrado conocerles, estarán dentro de nuestros agradables
+    our day, especially the goat in the tree!<br>\nThank you Patricia R. (Nov 7th)
+    Saskatchewan Regina Canada\n\nMuchas Gracias Manuel y Nicolás:<br>\nYa estamos
+    en nuestra larga y angosta franja de tierra llamado Chile, practicamente al final
+    del mundo. Gracias por vuestro tour, por vuestra compañía y por mostrarnos lo
+    vuestro.<br>\nUn real agrado conocerles, estarán dentro de nuestros agradables
     recuerdo y siempre recomendaremos vuestra agencia.<br>\nUn abrazo, felicidades
     y éxitos.<br>\nAtentamente,<br>\nGriselle y Jorge<br>\njcamposr001@gmail.com\n\nHi
     Nicholas, Manuel did an outstanding job!!. Enjoyed our day.<br>\nThanks.<br>\nRalph
