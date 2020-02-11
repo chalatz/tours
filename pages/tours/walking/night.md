@@ -132,8 +132,9 @@ faq:
       routes.  We don''t herd you in a big crowd.  We walk via little enticing / captivating
       alleys.  That way, you get more information, and experience, not just the tourist
       areas, but the real Medieval City.'
-  - q: Can we get pictures during the tour?
-    a: Yes, The Medieval City at night is quite atmospheric!
+  - q: 'Q: Do other people join this walking tour?  Is it a semi-private tour?'
+    a: 'A:  All of our tours are PRIVATE, just your party/group.  We don''t provide
+      semi-private tours or share tours. '
 included:
   items:
   - text: Private Tour (just your party)
