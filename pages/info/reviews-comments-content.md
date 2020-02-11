@@ -1142,10 +1142,10 @@ reviews:
     New Year.<br>\nWith warm regards.   Ken & Deb G. (Nov 20th)  Winston-Salem\tNorth
     Carolina\n\nNicholas, We enjoyed the Jewish Tour of Rhodes and our driver Giannis
     was informative and interesting. You have a beautiful Island with many interesting
-    sites spots to visit,<br>\nIvan Portnoy (Nov 18th)<br>\nivanportnoy@yahoo.com\n\nGreat
-    time in Rhodes, We travelled to some amazing beaches, fishing village and incredible
-    lookouts. I would recommend Nicholas to any traveller who would love a first class
-    and first hand insight into Rhodes.<br>\nThank you Nicholas for a wonderful tour.<br>\nWe
+    sites spots to visit,<br>\nIvan P.  (Nov 18th) NJ USA\n\nGreat time in Rhodes,
+    We travelled to some amazing beaches, fishing village and incredible lookouts.
+    I would recommend Nicholas to any traveller who would love a first class and first
+    hand insight into Rhodes.<br>\nThank you Nicholas for a wonderful tour.<br>\nWe
     will always remember our time together.<br>\nAnnette, Geoff, Margaret & Doug.<br>\nannette.geoffg@gmail.com\n\nNicholas
     I have to thank you for a great day. You made Rhodes an interesting and beautiful
     place, your help with Barry and allowing him to see so much was even better for
