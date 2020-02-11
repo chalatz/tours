@@ -123,21 +123,6 @@ gallery:
     position: following
 faq:
   items:
-  - q: 'Q: Why should I take a Private Walking Tour. What makes this Tour stand out?'
-    a: "A: 100% Flexibility.  Ask your tour guide as many questions as you wish, stop
-      for pictures wherever you want, you can even change parts of the program, for
-      example if you don’t need a dinner you can have more time for shopping or you
-      can have a drink at a place with music etc. You can also start the tour at your
-      desired time (Later than 6:00 PM)\nCan you really do all these things with a
-      big group tour?  We think our way is better.    \n"
-  - q: 'Q: Can we cover all the sites as described above on our own pace? '
-    a: 'A: Yes, of course.  The tour guide will concentrate just on you, and adjust
-      the tour to your needs. Your professional tour guide will assist you as a friend
-      and enhance / increase, your stay on the island. How is that possible?  By giving
-      you information that you can use after the tour is finished, such as ”what to
-      do and see” for the rest of your holidays. He can suggest additional places
-      to visit, attractions and destinations on Rhodes that you may have never heard
-      of, helping you to maximize your visit to Rhodes.'
   - q: 'Q: Are there any entrance fees on this tour? '
     a: 'A: No entrance fees on this tour '
   - q: 'Q: Why does the tour start from the St John Gate (a.k.a. the Red Gate)? '
@@ -150,6 +135,21 @@ faq:
   - q: 'Q: Do other people join this walking tour?  Is it a semi-private tour?'
     a: 'A:  All of our tours are PRIVATE, just your party/group.  We don''t provide
       semi-private tours or share tours. '
+  - q: 'Q: Can we cover all the sites as described above on our own pace? '
+    a: 'A: Yes, of course.  The tour guide will concentrate just on you, and adjust
+      the tour to your needs. Your professional tour guide will assist you as a friend
+      and enhance / increase, your stay on the island. How is that possible?  By giving
+      you information that you can use after the tour is finished, such as ”what to
+      do and see” for the rest of your holidays. He can suggest additional places
+      to visit, attractions and destinations on Rhodes that you may have never heard
+      of, helping you to maximize your visit to Rhodes.'
+  - q: 'Q: Why should I take a Private Walking Tour. What makes this Tour stand out?'
+    a: "A: 100% Flexibility.  Ask your tour guide as many questions as you wish, stop
+      for pictures wherever you want, you can even change parts of the program, for
+      example if you don’t need a dinner you can have more time for shopping or you
+      can have a drink at a place with music etc. You can also start the tour at your
+      desired time (Later than 6:00 PM)\nCan you really do all these things with a
+      big group tour?  We think our way is better.    \n"
 included:
   items:
   - text: Private Tour (just your party)
