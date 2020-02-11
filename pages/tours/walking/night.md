@@ -123,6 +123,14 @@ gallery:
     position: following
 faq:
   items:
+  - q: 'Q: Can we cover all the sites as described above on our own pace? '
+    a: 'A: Yes, of course.  The tour guide will concentrate just on you, and adjust
+      the tour to your needs. Your professional tour guide will assist you as a friend
+      and enhance / increase, your stay on the island. How is that possible?  By giving
+      you information that you can use after the tour is finished, such as ”what to
+      do and see” for the rest of your holidays. He can suggest additional places
+      to visit, attractions and destinations on Rhodes that you may have never heard
+      of, helping you to maximize your visit to Rhodes.'
   - q: 'Q: Are there any entrance fees on this tour? '
     a: 'A: No entrance fees on this tour '
   - q: 'Q: Why does the tour start from the St John Gate (a.k.a. the Red Gate)? '
