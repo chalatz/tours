@@ -148,8 +148,8 @@ faq:
       for pictures wherever you want, you can even change parts of the program, for
       example if you don’t need a dinner you can have more time for shopping or you
       can have a drink at a place with music etc. You can also start the tour at your
-      desired time (Later than 6:00 PM)\nCan you really do all these things with a
-      big group tour?  We think our way is better.    \n"
+      desired time (Later than 6:00 PM)\n\nCan you really do all these things with
+      a big group tour?  We think our way is better.    \n"
 included:
   items:
   - text: Private Tour (just your party)
