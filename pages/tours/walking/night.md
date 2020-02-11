@@ -123,6 +123,13 @@ gallery:
     position: following
 faq:
   items:
+  - q: 'Q: Why should I take a Private Walking Tour. What makes this Tour stand out?'
+    a: "A: 100% Flexibility.  Ask your tour guide as many questions as you wish, stop
+      for pictures wherever you want, you can even change parts of the program, for
+      example if you don’t need a dinner you can have more time for shopping or you
+      can have a drink at a place with music etc. You can also start the tour at your
+      desired time (Later than 6:00 PM)\nCan you really do all these things with a
+      big group tour?  We think our way is better.    \n"
   - q: 'Q: Can we cover all the sites as described above on our own pace? '
     a: 'A: Yes, of course.  The tour guide will concentrate just on you, and adjust
       the tour to your needs. Your professional tour guide will assist you as a friend
