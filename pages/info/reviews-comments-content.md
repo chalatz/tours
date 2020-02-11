@@ -1158,13 +1158,13 @@ reviews:
     definitely refer them to you.<br>\nThanks again. Judy (Nov 15th) Des Moines\tIowa\t\n\nHi
     Nicholas, Thank you so much..We had a lovely time in Rhodes.<br>\nChristine (Nov
     14th) Bendigo\tVictoria AU\n\nWe had a great time on Rhodes and really enjoyed
-    meeting Sergio - thank you<br>\nSharon and Claude (Oct 14th))<br>\nsrgage@aol.com\n\nNicholas,
+    meeting Sergio - thank you<br>\nSharon and Claude (Oct 14th) Columbus Georgia\n\nNicholas,
     We had a wonderful time and are thankful we had the opportunity to see Rhodes.
     You and Dominic were very professional and do an excellent job. Dominic was extremely
     knowledgeable, polite and funny and we felt very comfortable with him. Thank you
-    again,<br>\nJeff (Nov12th)<br>\njefferyhover@hotmail.com\n\nHi Nicholas. Our tour
-    was good. Enjoyed our day, especially the goat in the tree!<br>\nThank you<br>\nPatricia
-    Recktenwald (Nov 7th)<br>\nbp.reck@verizon.net\n\nMuchas Gracias Manuel y Nicolás:<br>\nYa
+    again, Jeff (Nov12th) Norman\tOklahoma\n\nHi Nicholas. Our tour was good. Enjoyed
+    our day, especially the goat in the tree!<br>\nThank you<br>\nPatricia Recktenwald
+    (Nov 7th)<br>\nbp.reck@verizon.net\n\nMuchas Gracias Manuel y Nicolás:<br>\nYa
     estamos en nuestra larga y angosta franja de tierra llamado Chile, practicamente
     al final del mundo. Gracias por vuestro tour, por vuestra compañía y por mostrarnos
     lo vuestro.<br>\nUn real agrado conocerles, estarán dentro de nuestros agradables
