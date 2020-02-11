@@ -1133,19 +1133,19 @@ reviews:
     soon with Rick Steves!  Kathrine (Nov 24th)  Salt Lake City\tUtah\n\nDear Nicholas,
     My husband and I were delighted with Stathis and our 4 hour tour. Your organization
     is one of the best values we have enjoyed on our many travels around the world.
-    Your operation was organized, professional, and educational. We were very pleased.<br>\nSincerely,<br>\nMarilyn
-    (Nov 22nd)<br>\nmdewar@comcast.net\n\nHello Nicholas & Andrew, Ken and I would
+    Your operation was organized, professional, and educational. We were very pleased.<br>\nSincerely,
+    \ Marilyn (Nov 22nd)  Carson City  USA\n\nHello Nicholas & Andrew, Ken and I would
     like to thank you for an amazing tour in Rhodes! Andrew was excellent. He showed
     us many beautiful sites and it was also nice meeting you at one of our stops.
     I will be writing a review on Trip Advisor! We really do appreciate the awesome
     time we had with your company!<br>\nMay you have a very Merry Christmas and Happy
-    New Year.<br>\nWith warm regards.<br>\nKen & Deb Glidden (Nov 20th)<br>\nkdksczog79@yahoo.com\n\nNicholas,
-    We enjoyed the Jewish Tour of Rhodes and our driver Giannis was informative and
-    interesting. You have a beautiful Island with many interesting sites spots to
-    visit,<br>\nIvan Portnoy (Nov 18th)<br>\nivanportnoy@yahoo.com\n\nGreat time in
-    Rhodes, We travelled to some amazing beaches, fishing village and incredible lookouts.
-    I would recommend Nicholas to any traveller who would love a first class and first
-    hand insight into Rhodes.<br>\nThank you Nicholas for a wonderful tour.<br>\nWe
+    New Year.<br>\nWith warm regards.   Ken & Deb G. (Nov 20th)  Winston-Salem\tNorth
+    Carolina\n\nNicholas, We enjoyed the Jewish Tour of Rhodes and our driver Giannis
+    was informative and interesting. You have a beautiful Island with many interesting
+    sites spots to visit,<br>\nIvan Portnoy (Nov 18th)<br>\nivanportnoy@yahoo.com\n\nGreat
+    time in Rhodes, We travelled to some amazing beaches, fishing village and incredible
+    lookouts. I would recommend Nicholas to any traveller who would love a first class
+    and first hand insight into Rhodes.<br>\nThank you Nicholas for a wonderful tour.<br>\nWe
     will always remember our time together.<br>\nAnnette, Geoff, Margaret & Doug.<br>\nannette.geoffg@gmail.com\n\nNicholas
     I have to thank you for a great day. You made Rhodes an interesting and beautiful
     place, your help with Barry and allowing him to see so much was even better for
