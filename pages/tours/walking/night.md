@@ -125,8 +125,13 @@ faq:
   items:
   - q: 'Q: Are there any entrance fees on this tour? '
     a: 'A: No entrance fees on this tour '
-  - q: What if we wish to have a drink, not a dinner?
-    a: Yes, no problem, just ask your tour guide for a good place for drinks
+  - q: 'Q: Why does the tour start from the St John Gate (a.k.a. the Red Gate)? '
+    a: 'A: We start from the St John Gate (and not from the Athanasius Gate where
+      everybody else starts) because we want you to have a more intimate and detailed
+      walking tour in the Medieval City.  We don’t follow the usual big group tour
+      routes.  We don''t herd you in a big crowd.  We walk via little enticing / captivating
+      alleys.  That way, you get more information, and experience, not just the tourist
+      areas, but the real Medieval City.'
   - q: Can we get pictures during the tour?
     a: Yes, The Medieval City at night is quite atmospheric!
 included:
