@@ -1157,7 +1157,7 @@ reviews:
     much for everything. You made it so easy. If anyone asks for a tour guide we will
     definitely refer them to you.<br>\nThanks again. Judy (Nov 15th) Des Moines\tIowa\t\n\nHi
     Nicholas, Thank you so much..We had a lovely time in Rhodes.<br>\nChristine (Nov
-    14th)<br>\ndman@dcsi.net.au\n\nWe had a great time on Rhodes and really enjoyed
+    14th) Bendigo\tVictoria AU\n\nWe had a great time on Rhodes and really enjoyed
     meeting Sergio - thank you<br>\nSharon and Claude (Oct 14th))<br>\nsrgage@aol.com\n\nNicholas,
     We had a wonderful time and are thankful we had the opportunity to see Rhodes.
     You and Dominic were very professional and do an excellent job. Dominic was extremely
