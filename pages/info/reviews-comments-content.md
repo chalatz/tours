@@ -1130,7 +1130,7 @@ reviews:
     her. You have a very beautiful island and we were glad to be able to visit it.<br>\nHave
     a very Merry Christmas. Dave & Ann (Nov 28)  Port St. Lucie Florida\n\nNicholas
     thank you! Your tour was one of our favorites, and Rhodes as well!<br>\nSee you
-    soon with Rick Steves!  Kathrine (Nov 24th)  Salt Lake City\tUtah\n\nDear Nicholas,
+    soon with Rick Steves!  Kathrine (Nov 24th)  Salt Lake City Utah\n\nDear Nicholas,
     My husband and I were delighted with Stathis and our 4 hour tour. Your organization
     is one of the best values we have enjoyed on our many travels around the world.
     Your operation was organized, professional, and educational. We were very pleased.<br>\nSincerely,
@@ -1139,42 +1139,43 @@ reviews:
     us many beautiful sites and it was also nice meeting you at one of our stops.
     I will be writing a review on Trip Advisor! We really do appreciate the awesome
     time we had with your company!<br>\nMay you have a very Merry Christmas and Happy
-    New Year.<br>\nWith warm regards.   Ken & Deb G. (Nov 20th)  Winston-Salem\tNorth
+    New Year.<br>\nWith warm regards.   Ken & Deb G. (Nov 20th)  Winston-Salem North
     Carolina\n\nNicholas, We enjoyed the Jewish Tour of Rhodes and our driver Giannis
     was informative and interesting. You have a beautiful Island with many interesting
     sites spots to visit,<br>\nIvan P.  (Nov 18th) NJ USA\n\nGreat time in Rhodes,
     We travelled to some amazing beaches, fishing village and incredible lookouts.
     I would recommend Nicholas to any traveller who would love a first class and first
     hand insight into Rhodes.<br>\nThank you Nicholas for a wonderful tour.<br>\nWe
-    will always remember our time together.<br>\nAnnette, Geoff, Margaret & Doug.<br>\nannette.geoffg@gmail.com\n\nNicholas
-    I have to thank you for a great day. You made Rhodes an interesting and beautiful
-    place, your help with Barry and allowing him to see so much was even better for
-    me. Trust me when I say if anyone asks me who to call when in Rhodes it will be
-    you<br>\nAgain thank you for a great day<br>\nRenee and Barry (Nov 16th)<br>\nnoicepls@yahoo.com\n\nNicholas,
-    I want to thank you on behalf of all of us for a wonderful day of touring Rhodes.
-    George was a terrific tour guide and we definitely enjoyed our day on your island.
-    Thanks so much for everything. You made it so easy. If anyone asks for a tour
-    guide we will definitely refer them to you.<br>\nThanks again.<br>\nJudy (Nov
-    15th)<br>\nManapapa4@gmail.com\n\nHi Nicholas, Thank you so much..We had a lovely
-    time in Rhodes.<br>\nChristine (Nov 14th)<br>\ndman@dcsi.net.au\n\nWe had a great
-    time on Rhodes and really enjoyed meeting Sergio - thank you<br>\nSharon and Claude
-    (Oct 14th))<br>\nsrgage@aol.com\n\nNicholas, We had a wonderful time and are thankful
-    we had the opportunity to see Rhodes. You and Dominic were very professional and
-    do an excellent job. Dominic was extremely knowledgeable, polite and funny and
-    we felt very comfortable with him. Thank you again,<br>\nJeff (Nov12th)<br>\njefferyhover@hotmail.com\n\nHi
-    Nicholas. Our tour was good. Enjoyed our day, especially the goat in the tree!<br>\nThank
-    you<br>\nPatricia Recktenwald (Nov 7th)<br>\nbp.reck@verizon.net\n\nMuchas Gracias
-    Manuel y Nicolás:<br>\nYa estamos en nuestra larga y angosta franja de tierra
-    llamado Chile, practicamente al final del mundo. Gracias por vuestro tour, por
-    vuestra compañía y por mostrarnos lo vuestro.<br>\nUn real agrado conocerles,
-    estarán dentro de nuestros agradables recuerdo y siempre recomendaremos vuestra
-    agencia.<br>\nUn abrazo, felicidades y éxitos.<br>\nAtentamente,<br>\nGriselle
-    y Jorge<br>\njcamposr001@gmail.com\n\nHi Nicholas, Manuel did an outstanding job!!.
-    Enjoyed our day.<br>\nThanks.<br>\nRalph & Arlene (Nov 4th)<br>\narlenehicks@comcast.net\n\nNicholas,
-    My wife will be posting wonderful reviews on the travel sites which ones are you
-    on? Also in my Survey to Royal Carribean I told them they were making a big mistake
-    not keeping Rhodes in the trip!!! Not that my voice will help but I had to let
-    them know what a wonderful Island!!<br>\nThanks<br>\nEric (Nov 3rd)<br>\nericschreiber63@gmail.com\n\nThank
+    will always remember our time together.<br>\nAnnette, Geoff, Margaret & Doug.
+    (Nov 17) Lancaster California\n\nNicholas I have to thank you for a great day.
+    You made Rhodes an interesting and beautiful place, your help with Barry and allowing
+    him to see so much was even better for me. Trust me when I say if anyone asks
+    me who to call when in Rhodes it will be you<br>\nAgain thank you for a great
+    day Renee and Barry (Nov 16th) Milwaukee\tWisconsin\n\nNicholas, I want to thank
+    you on behalf of all of us for a wonderful day of touring Rhodes. George was a
+    terrific tour guide and we definitely enjoyed our day on your island. Thanks so
+    much for everything. You made it so easy. If anyone asks for a tour guide we will
+    definitely refer them to you.<br>\nThanks again.<br>\nJudy (Nov 15th)<br>\nManapapa4@gmail.com\n\nHi
+    Nicholas, Thank you so much..We had a lovely time in Rhodes.<br>\nChristine (Nov
+    14th)<br>\ndman@dcsi.net.au\n\nWe had a great time on Rhodes and really enjoyed
+    meeting Sergio - thank you<br>\nSharon and Claude (Oct 14th))<br>\nsrgage@aol.com\n\nNicholas,
+    We had a wonderful time and are thankful we had the opportunity to see Rhodes.
+    You and Dominic were very professional and do an excellent job. Dominic was extremely
+    knowledgeable, polite and funny and we felt very comfortable with him. Thank you
+    again,<br>\nJeff (Nov12th)<br>\njefferyhover@hotmail.com\n\nHi Nicholas. Our tour
+    was good. Enjoyed our day, especially the goat in the tree!<br>\nThank you<br>\nPatricia
+    Recktenwald (Nov 7th)<br>\nbp.reck@verizon.net\n\nMuchas Gracias Manuel y Nicolás:<br>\nYa
+    estamos en nuestra larga y angosta franja de tierra llamado Chile, practicamente
+    al final del mundo. Gracias por vuestro tour, por vuestra compañía y por mostrarnos
+    lo vuestro.<br>\nUn real agrado conocerles, estarán dentro de nuestros agradables
+    recuerdo y siempre recomendaremos vuestra agencia.<br>\nUn abrazo, felicidades
+    y éxitos.<br>\nAtentamente,<br>\nGriselle y Jorge<br>\njcamposr001@gmail.com\n\nHi
+    Nicholas, Manuel did an outstanding job!!. Enjoyed our day.<br>\nThanks.<br>\nRalph
+    & Arlene (Nov 4th)<br>\narlenehicks@comcast.net\n\nNicholas, My wife will be posting
+    wonderful reviews on the travel sites which ones are you on? Also in my Survey
+    to Royal Carribean I told them they were making a big mistake not keeping Rhodes
+    in the trip!!! Not that my voice will help but I had to let them know what a wonderful
+    Island!!<br>\nThanks<br>\nEric (Nov 3rd)<br>\nericschreiber63@gmail.com\n\nThank
     you for the tour! It was an amazing experience.<br>\nRegards,<br>\nMyvienne &Yasu
     Chogriz<br>\nmyvienner@gmail.com\n\nDear Nicholas, All of our family members who
     went on the tour of Rhodes with your drivers, Mike and Dominic, were completely
