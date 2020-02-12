@@ -132,9 +132,9 @@ faq:
       don't herd you in a big crowd.  We walk via little enticing / captivating alleys.  That
       way, you get more information, and experience, not just the tourist areas, but
       the real Medieval City.
-  - q: 'Q: Do other people join this walking tour?  Is it a semi-private tour?'
-    a: 'A:  All of our tours are PRIVATE, just your party/group.  We don''t provide
-      semi-private tours or share tours. '
+  - q: Do other people join this walking tour?  Is it a semi-private tour?
+    a: 'All of our tours are PRIVATE, just your party/group.  We don''t provide semi-private
+      tours or share tours. '
   - q: 'Q: Can we cover all the sites as described above on our own pace? '
     a: 'A: Yes, of course.  The tour guide will concentrate just on you, and adjust
       the tour to your needs. Your professional tour guide will assist you as a friend
