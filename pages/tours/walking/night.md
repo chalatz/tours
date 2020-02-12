@@ -47,7 +47,7 @@ details:
   items:
   - title: "(Stop Photos)"
     desc: "= Stop at the attractions with your tour guide and get your photos <strong>from
-      outside</strong> of the Sight/building"
+      outside</strong> of the Sight/Building"
   - title: 'Private Tour Activity Level:'
     desc: Easy
   - title: 'Private Tour Guide:'
