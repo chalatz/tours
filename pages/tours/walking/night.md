@@ -125,13 +125,13 @@ faq:
   items:
   - q: 'Are there any entrance fees on this tour? '
     a: 'No entrance fees on this tour '
-  - q: 'Q: Why does the tour start from the St John Gate (a.k.a. the Red Gate)? '
-    a: 'A: We start from the St John Gate (and not from the Athanasius Gate where
-      everybody else starts) because we want you to have a more intimate and detailed
-      walking tour in the Medieval City.  We don’t follow the usual big group tour
-      routes.  We don''t herd you in a big crowd.  We walk via little enticing / captivating
-      alleys.  That way, you get more information, and experience, not just the tourist
-      areas, but the real Medieval City.'
+  - q: 'Why does the tour start from the St John Gate (a.k.a. the Red Gate)? '
+    a: We start from the St John Gate (and not from the Athanasius Gate where everybody
+      else starts) because we want you to have a more intimate and detailed walking
+      tour in the Medieval City.  We don’t follow the usual big group tour routes.  We
+      don't herd you in a big crowd.  We walk via little enticing / captivating alleys.  That
+      way, you get more information, and experience, not just the tourist areas, but
+      the real Medieval City.
   - q: 'Q: Do other people join this walking tour?  Is it a semi-private tour?'
     a: 'A:  All of our tours are PRIVATE, just your party/group.  We don''t provide
       semi-private tours or share tours. '
