@@ -37,7 +37,7 @@ overview:
   - title: Guided Walking Tour through the Alleys of the Old City
   - title: Free Time for Shopping - Souvenirs - Traditional Greek Goods
   - title: Dinner at Local Traditional Restaurant - Rhodian Delicacies
-  - title: Walking Guided Tour to New Town - Mandraki Old Port
+  - title: Guided Walking Tour to New Town - Mandraki Old Port
   - title: Transfer back to your Hotel
   - title: 'Duration: 5:00 hours'
     classes: bold
