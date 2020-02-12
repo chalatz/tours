@@ -58,7 +58,7 @@ details:
   - title: 'Private Tour Activity Level:'
     desc: Moderate
   - title: 'Private Tour Guide:'
-    desc: English speaking experienced licensed tour guide, specializinge in Private
+    desc: English speaking experienced licensed tour guide, specializing in Private
       Tours
   - title: 'Private Tour Start Time:'
     desc: 8:30 AM. Or later - If you are a Cruise Ship Passenger - depend on your
