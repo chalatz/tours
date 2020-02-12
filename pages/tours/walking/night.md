@@ -34,7 +34,7 @@ summary:
 overview:
   items:
   - title: Transfer from your Hotel to St John Gate (Red Gate)
-  - title: Walking Guided Tour through the Alleys of the Old City
+  - title: Guided Walking Tour through the Alleys of the Old City
   - title: Free Time for Shopping - Souvenirs - Traditional Greek Goods
   - title: Dinner at Local Traditional Restaurant - Rhodian Delicacies
   - title: Walking Guided Tour to New Town - Mandraki Old Port
