@@ -41,7 +41,7 @@ overview:
   - title: Transfer back to your Hotel
   - title: 'Duration: 5:00 hours'
     classes: bold
-  - title: 'Suggested time for this walking tour: May to mid-October'
+  - title: 'Suggested season for this walking tour: May to mid-October'
     classes: bold
 details:
   items:
