@@ -51,7 +51,7 @@ details:
   - title: 'Private Tour Activity Level:'
     desc: Easy
   - title: 'Private Tour Guide:'
-    desc: English speaking experienced licensed tour guide, specialize in Private
+    desc: English speaking experienced licensed tour guide, specializing in Private
       Tours
   - title: 'Private Tour Start Time:'
     desc: 6:00 PM
