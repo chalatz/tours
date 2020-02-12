@@ -123,8 +123,8 @@ gallery:
     position: following
 faq:
   items:
-  - q: 'Q: Are there any entrance fees on this tour? '
-    a: 'A: No entrance fees on this tour '
+  - q: 'Are there any entrance fees on this tour? '
+    a: 'No entrance fees on this tour '
   - q: 'Q: Why does the tour start from the St John Gate (a.k.a. the Red Gate)? '
     a: 'A: We start from the St John Gate (and not from the Athanasius Gate where
       everybody else starts) because we want you to have a more intimate and detailed
