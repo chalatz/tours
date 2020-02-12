@@ -29,8 +29,8 @@ summary:
   paragraphs:
   - This trip is designed for people who love evening walks in what is known as the
     most beautiful and best-preserved Medieval City in Europe.  Enjoy dinners at local
-    restaurants, take free detours to the shopping center, and walk to new city and
-    old harbor expertly guided by our passionate and knowledgeable tour guides.
+    restaurants, take free detours to the shopping center, and walk to New City and
+    Old Harbor expertly guided by our passionate and knowledgeable tour guides.
 overview:
   items:
   - title: Transfer from your Hotel to St John Gate (Red Gate)
