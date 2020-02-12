@@ -175,10 +175,10 @@ Our knowledgeable passionate tour guides will give you lots of tidbits and infor
 
 You will make your way past the impressive **Palace of the** **Grand Master** also known as **Kastello**, which was restored in 1930. Today, it is a museum that houses mosaics and architectural exhibits from around the island.(Stop Photos)
 
-The walking tour will continue downhill towards the **Street of the Knights**. This is considered by many people to be the most interesting part of the Old City and its most important street. This street has been completely restored and its medieval heritage preserved, allowing you to take a peek back in time to observe how the warriors spent their time in either prayer or military practice.(Stop Photos)
+The walking tour will continue downhill towards the **Street of the Knights** _(La Via dei Cavalieri)**.**_  This is considered by many people to be the most interesting part of the Old City and its most important street. This street has been completely restored and its medieval heritage preserved, allowing you to take a peek back in time to observe how the warriors spent their days in either prayer or military practice.(Stop Photos)
 
-This will provide you with a chance to **break free to shop around** or explore the Old Town on your own. You can shop for little souvenirs and traditional Greek goods to take back with you.
+This will provide you with a chance to **wander around on your own to shop around** or to explore the Old Town on your own. You can shop for little souvenirs and traditional Greek goods to take back with you.
 
-As the final part of your journey comes to an end, you will meet your tour guide at the designated meeting point and **dine at a local cuisine for dinner**.
+As the final part of your journey comes to an end, you will meet your tour guide at the designated meeting point and **have dinner at a local restaurant**.
 
 Afterwards, you will head to the **New Town** to continue the walking guided tour to **Mandraki Old Port** and finish the tour off by going back to your hotel.
