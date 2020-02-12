@@ -155,7 +155,7 @@ included:
   - text: Private Tour (just your party)
   - text: Pick up and Drop Off at your Hotel Lobby
   - text: English Speaking Experienced Licensed Tour Guide
-  - text: Wireless Headsets to Hear Clearly your Tour Guide
+  - text: Wireless Headsets so that you can clearly hear your Tour Guide
   - text: All Tour Guide and Transfers Expenses
   - text: Personalized Customer Service
 not_included:
