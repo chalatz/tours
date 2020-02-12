@@ -143,8 +143,8 @@ faq:
       do and see” for the rest of your holidays. He can suggest additional places
       to visit, attractions and destinations on Rhodes that you may have never heard
       of, helping you to maximize your visit to Rhodes.
-  - q: 'Q: Why should I take a Private Walking Tour. What makes this Tour stand out?'
-    a: "A: 100% Flexibility.  Ask your tour guide as many questions as you wish, stop
+  - q: Why should I take a Private Walking Tour. What makes this Tour stand out?
+    a: "100% Flexibility.  Ask your tour guide as many questions as you wish, stop
       for pictures wherever you want, you can even change parts of the program, for
       example if you don’t need a dinner you can have more time for shopping or you
       can have a drink at a place with music etc. You can also start the tour at your
