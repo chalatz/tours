@@ -95,7 +95,7 @@ gallery:
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_3_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_3.jpg"
-    alt: 'Rhodes and Lindos Private Tour  '
+    alt: 'Lindos Tour and Rhodes Highlights   '
     position: following
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_4_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_4.jpg"
