@@ -104,7 +104,7 @@ gallery:
   group_2:
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_8_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_8.jpg"
-    alt: Best private tours of Rhodes Island
+    alt: Best Rhodes and Lindos private tour
     position: first
   - thumb: "./img/Tour1/best_of_rhodes_tours_greece_6_thumb.jpg"
     href: "./img/Tour1/best_of_rhodes_tours_greece_6.jpg"
