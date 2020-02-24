@@ -20,9 +20,9 @@ subtitles:
 - Barcelona Day Tours with Personal Tour Guide
 
 ---
-For private and small-group excursions in and around Barcelona, contact us at  [info@BarcelonaDayTours.com](mailto:info@BarcelonaDayTours.com) 
+For private and small-group excursions in and around Barcelona, contact us at  [info@BarcelonaDayTours.com](mailto:info@BarcelonaDayTours.com)
 
-We offer the best value for money excursions in Barcelona with pickup and drop off at the hotels, cruise ship, and airport. 
+We offer the best value for money excursions in Barcelona with pickup and drop off at the hotels, cruise ship, and airport.
 
 Our small-group tours are high-quality and personal, and cost the same as the big bus tours that depart from the bus station! We have over 3000 five-star reviews on Trip Advisor!
 
