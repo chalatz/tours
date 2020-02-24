@@ -19,15 +19,10 @@ meta:
     Excursions. Israel Guided Tours
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Haifa Jerusalem Israel Private Tours and Shore Excursions
+title: GUIDED TOURS ISRAEL
 subtitles: []
 
 ---
-# GUIDED TOURS ISRAEL
-
-## Shore Excursions in Israel from Haifa and Ashdod Port of Call
-
-### Top quality Tours at unbeatable prices!
 
 If you're searching for safe, comfortable, and quality tours in Israel then look no further! We are happy to supply you high-standard excursions at affordable prices. we'll personally pick you up from your hotel or cruise ship in an modern new and air-conditioned vehicle, and you'll sit back and relax while we make sure of everything for you while you're on the road with us. Expect a top professional service from start to complete
 
