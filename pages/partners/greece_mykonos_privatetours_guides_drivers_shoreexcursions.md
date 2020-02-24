@@ -17,7 +17,7 @@ meta:
 title: 'MYKONOS PRIVATE TOURS - MYKONOS SHORE EXCURSIONS '
 subtitles:
 - DELOS PRIVATE TOURS
-- ''
+- "Antonis the “Man of the Islands”\n\n"
 - ''
 
 ---
