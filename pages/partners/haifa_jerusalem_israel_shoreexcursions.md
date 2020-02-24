@@ -29,9 +29,8 @@ subtitles:
 - Shore Excursions in Israel from Haifa and Ashdod Port of Call
 
 ---
-
 If you're searching for safe, comfortable, and quality tours in Israel then look no further! We are happy to supply you high-standard excursions at affordable prices. we'll personally pick you up from your hotel or cruise ship in an modern new and air-conditioned vehicle, and you'll sit back and relax while we make sure of everything for you while you're on the road with us. Expect a top professional service from start to complete
 
 **WEBSITE:** [http://www.guidedtoursisrael.com/](http://www.guidedtoursisrael.com/ "http://www.guidedtoursisrael.com/")
 
-**TripAdvisor:** [http://www.tripadvisor.com/Attraction_Review-g293983-d1946663-Reviews-Guided_Tours_Israel_Day_Tours-Jerusalem.html](http://www.tripadvisor.com/Attraction_Review-g293983-d1946663-Reviews-Guided_Tours_Israel_Day_Tours-Jerusalem.html "http://www.tripadvisor.com/Attraction_Review-g293983-d1946663-Reviews-Guided_Tours_Israel_Day_Tours-Jerusalem.html")
+**TRIPADVISOR:** [http://www.tripadvisor.com/Attraction_Review-g293983-d1946663-Reviews-Guided_Tours_Israel_Day_Tours-Jerusalem.html](http://www.tripadvisor.com/Attraction_Review-g293983-d1946663-Reviews-Guided_Tours_Israel_Day_Tours-Jerusalem.html "http://www.tripadvisor.com/Attraction_Review-g293983-d1946663-Reviews-Guided_Tours_Israel_Day_Tours-Jerusalem.html")
