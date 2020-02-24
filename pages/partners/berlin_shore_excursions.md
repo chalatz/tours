@@ -50,4 +50,4 @@ Your Private Tour Guides in Berlin
 
 **WEBSITE:**   [https://www.afriendinberlin.de/](https://www.afriendinberlin.de/ "https://www.afriendinberlin.de/")
 
-**:TRIPADVISOR:**  [https://www.tripadvisor.com/Attraction_Review-g187323-d7033574-Reviews-A_Friend_in_Berlin-Berlin.html](https://www.tripadvisor.com/Attraction_Review-g187323-d7033574-Reviews-A_Friend_in_Berlin-Berlin.html "https://www.tripadvisor.com/Attraction_Review-g187323-d7033574-Reviews-A_Friend_in_Berlin-Berlin.html")
+**TRIPADVISOR:**  [https://www.tripadvisor.com/Attraction_Review-g187323-d7033574-Reviews-A_Friend_in_Berlin-Berlin.html](https://www.tripadvisor.com/Attraction_Review-g187323-d7033574-Reviews-A_Friend_in_Berlin-Berlin.html "https://www.tripadvisor.com/Attraction_Review-g187323-d7033574-Reviews-A_Friend_in_Berlin-Berlin.html")
