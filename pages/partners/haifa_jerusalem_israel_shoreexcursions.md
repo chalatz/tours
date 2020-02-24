@@ -21,6 +21,11 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
 title: GUIDED TOURS ISRAEL
 subtitles:
+- |2+
+
+
+  Top Quality Tours at Unbeatable Prices!
+
 - Shore Excursions in Israel from Haifa and Ashdod Port of Call
 
 ---
