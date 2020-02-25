@@ -5,19 +5,18 @@ has_gallery: true
 id: site_la_juderia_home
 ref: site_la_juderia_home
 meta:
-  title: Jewish Synagogue, Jewish Quarter in Rhodes, Jewish Customized Tours, Rhodes
-    Exclusive Tours Greece
-  description: Jewish Synagogue, Jewish Quarter in Rhodes, Jewish Customized Tours,
-    Rhodes Exclusive Tours Greece, Square of the Martyred Jews, Rhodes Jewish Museum,
-    Jewish Cemetery
-  keywords: Jewish Synagogue, Jewish Quarter in Rhodes, Jewish Customized Tours, Rhodes
-    Exclusive Tours Greece, Square of the Martyred Jews, Rhodes Jewish Museum, Jewish
-    Cemetery
+  title: Rhodes Synagogue, Jewish Quarter in Rhodes, Jewish Museum, Rhodes Jewish
+    Cemetery, Rhodes Exclusive Tours Greece
+  description: Rhodes Synagogue, Jewish Quarter in Rhodes, Jewish Museum, Rhodes Jewish
+    Cemetery, Rhodes Exclusive Tours Greece, Square of the Martyred Jews Rhodes Greece
+  keywords: Rhodes Synagogue, Jewish Quarter in Rhodes, Jewish Museum, Rhodes Jewish
+    Cemetery, Rhodes Exclusive Tours Greece, Square of the Martyred Jews Rhodes Greece
   author: NK for Rhodes Private Tours
   copyright: NK for Rhodes Private Tours,2018
-  abstract: Rhodes Shore Trips, Rhodes Private Tours
-  http_desc: Jewish Synagogue, Jewish Quarter in Rhodes, Jewish Customized Tours,
-    Rhodes Exclusive Tours Greece
+  abstract: Rhodes Synagogue, Jewish Quarter in Rhodes, Jewish Museum, Rhodes Jewish
+    Cemetery
+  http_desc: Rhodes Synagogue, Jewish Quarter in Rhodes, Jewish Museum, Rhodes Jewish
+    Cemetery, Rhodes Exclusive Tours Greece, Square of the Martyred Jews Rhodes Greece
 title: '"La Juderia" - The Jewish Quarter'
 main_id: the_jewish_quarter
 summary: The Jewish Community of the Island of Rhodes has a rich history that dates
@@ -48,6 +47,8 @@ sections:
       href: img/La_Juderia/la_juderia_4.jpg
       alt: The Jewish Quarter, Rhodes Exclusive Tours
       caption: The Jewish Quarter
+  title: ''
+  desc: ''
 - desc: During the reign of the Knights of St. John in the 14th century, the Jews
     of the Island were relegated to the southeast section of the old city, where they
     continued to live until their deportation in 1944 to the Nazi extermination camps.
@@ -79,10 +80,13 @@ sections:
       href: img/La_Juderia/la_juderia_8.jpg
       alt: The Jewish Quarter, Greece Allure Tours
       caption: The Jewish Quarter
+  title: ''
 - desc: |-
     At the beginning of the 20th century, many young Jews left Rhodes in search of better economic opportunities in the Americas and in parts of Africa. In the early 1920s the community reached its peak population of 4,500 souls. But the growth stopped when many more left after the enforcement of the Racial Laws by the fascist government of Italy, which had occupied the Dodecanese Islands since 1912.
 
     In 1943, Rhodes was taken over by the Germans. In less than a year, 1,673 members of the Jewish community were arrested and deported to the Auschwitz concentration camp, where 1,522 were slaughtered. Only 151 survived, many of whom immigrated to Southern African countries, Israel, the United States and other places. In 1947 the Island was ceded to Greece as part of the spoils of war. Today there are only a handful of Jews living in Rhodes. The synagogue, the homes and the cemetery are there to remind us of a thriving, close-knit community that had lived on the Island for centuries.
+  title: ''
+  gallery_rows: []
 - title: The Square of the Martyred Jews
   id: the_martyred_jews_square
   desc: The "Square of the Martyred Jews" (known in Greek as " Evreon Martyron "),
@@ -154,29 +158,39 @@ sections:
     - thumb: img/La_Juderia/la_juderia_17_thumb.jpg
       href: img/La_Juderia/la_juderia_17.jpg
       alt: The Jewish Museum, Customized Tours in Greece
+      caption: ''
     - thumb: img/La_Juderia/la_juderia_18_thumb.jpg
       href: img/La_Juderia/la_juderia_18.jpg
       alt: The Jewish Museum, Exclusive tours in Greece
+      caption: ''
     - thumb: img/La_Juderia/la_juderia_19_thumb.jpg
       href: img/La_Juderia/la_juderia_19.jpg
       alt: The Jewish Museum, Rhodes Customized Tours
+      caption: ''
     - thumb: img/La_Juderia/la_juderia_20_thumb.jpg
       href: img/La_Juderia/la_juderia_20.jpg
       alt: The Jewish Museum, Rhodes Exclusive tours
+      caption: ''
 - gallery_rows:
   - figures:
     - thumb: img/La_Juderia/la_juderia_21_thumb.jpg
       href: img/La_Juderia/la_juderia_21.jpg
       alt: The Jewish Museum, Rhodes Private Tours
+      caption: ''
     - thumb: img/La_Juderia/la_juderia_22_thumb.jpg
       href: img/La_Juderia/la_juderia_22.jpg
       alt: The Jewish Museum, Rhodes Taxi Tours
+      caption: ''
     - thumb: img/La_Juderia/la_juderia_23_thumb.jpg
       href: img/La_Juderia/la_juderia_23.jpg
       alt: The Jewish Museum, Rhodes Allure Tours
+      caption: ''
     - thumb: img/La_Juderia/la_juderia_24_thumb.jpg
       href: img/La_Juderia/la_juderia_24.jpg
       alt: 'The Jewish Museum, Rhodes Shore Excursions  '
+      caption: ''
+  title: ''
+  desc: ''
 - title: Aron Hasson - The founder of Rhodes Jewish Museum
   id: aron_hasson
   desc: He was born in Los Angeles and he is a third generation "Rhodesli". He is
@@ -213,6 +227,8 @@ sections:
     organization established to preserve the unique history and cultural background
     of the Jews of Rhodes, and to serve as a link between the past, present and future
     generations of "Rhodeslis" around the world._
+  title: ''
+  gallery_rows: []
 - title: The Jewish Cemetery
   id: the_jewish_cemetery
   desc: Originally the Jewish cemeteries in Rhodes were forced to be moved by the
@@ -260,6 +276,8 @@ sections:
       href: img/La_Juderia/la_juderia_36.jpg
       alt: The Jewish Cemetery, Exclusive Tours in Rhodes
       caption: The Jewish Cemetery
+  title: ''
+  desc: ''
 - title: Books about the "Rhodesli" and the Jewish Community of Rhodes
   id: books
   desc: |-
@@ -274,6 +292,7 @@ sections:
     - **Erase una vez..Sefarad - Los Sefaradies del Mediterraneo, Su Historia, Su Cultura**, Helene Gutkowski
     - **Rhodes, un pan de notre memorie.**, Moise Rahmani
     - **Aki Rodes.**
+  gallery_rows: []
 - title: Movies about the "Rhodesli" and the Jewish Community of Rhodes
   id: movies
   desc: "**The Documentaries:(1995)**\n\n- **\"L' Isola delle rose, la tragedia di
@@ -295,6 +314,7 @@ sections:
     Gregory Viens**\n- **Adio** (1998, 19 minutes): Adio is about listening to stories
     that a grandmother tells. And it's also about culture, religion... **Director:
     Gregory Viens**      "
+  gallery_rows: []
 subtitle: ''
 related_tours:
 - Jewish Sites Plus-DT4
@@ -305,6 +325,7 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Jewish Tours '
+no_related_tours_text: ''
 
 ---
 {: .centered .mt-3 }
