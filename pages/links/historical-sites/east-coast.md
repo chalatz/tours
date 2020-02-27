@@ -72,10 +72,11 @@ sections:
       alt: Antony Queen Bay, Rhodes Private Taxi Tours
       caption: Anthony Quinn Bay
   title: ''
-- desc: |-
-    We turn to the main road, and pass through the village of Afandou. At a distance of 6 Kilometers to the south, is the site called Kolymbia, where the Epta Pighes (Seven Springs) are located.
-
-    We continue southwards, we arrive at Archangelos, one of the loveliest traditional villages of the island. In this area, there are workshops and shops selling pottery.
+- desc: We turn to the main road, and pass through the village of Afandou. At a distance
+    of 6 Kilometers to the south, is the site called Kolymbia, where the Epta Pighes
+    (Seven Springs) are located.  We continue southwards, we arrive at Archangelos,
+    one of the loveliest traditional villages of the island. In this area, there are
+    workshops and shops selling pottery.
   gallery_rows:
   - figures:
     - thumb: img/East_Coast/seven_springs_mod_small.jpg
