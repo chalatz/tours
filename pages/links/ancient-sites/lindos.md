@@ -51,16 +51,16 @@ sections:
   desc: ''
 - desc: There is information that Lindos already had colonies by the 7th century and
     that it monopolized a large part of trade and shipping in the Mediterranean. The
-    Lindians were the first to draw up a naval code of justice, later known as the
+    Lindians were the primary to draw up a naval code of justice, later called the
     Rhodian Naval Code. This was to become the basis of Roman naval justice and is
-    even to be found at core of modern maritime law. The Lindians were also great
-    sculptors. Their bronze statues are famed for their incomparable craft. The famous
-    Colossus of Rhodes was a bronze statue by the Lindian artist Chares. The town
-    reached the height of its power in the 6th century B.C. particularly during the
-    reign of Cleobulos who ruled for more than 40 years. Cleobulos is regarded as
-    one of the Seven Sages of antiquity, primarily because he was the first to support
-    the funding of public works by fund-raising drives among the citizens. The money
-    from these drives was used to built the Temple of Athena in 550 B.C.
+    even to be found at core of contemporary law. The Lindians were also great sculptors.
+    Their bronze statues are famed for their incomparable craft. The famous Colossus
+    of Rhodes was a bronze statue by the Lindian artist Chares. The town reached the
+    peak of its power with in the 6th century B.C. particularly during the reign of
+    Cleobulos who ruled for quite 40 years. Cleobulos is considered one amongst the
+    Seven Sages of antiquity, primarily because he was the first to support the funding
+    of public structures by fund-raising drives among the citizens. The money from
+    these drives was used to build the Temple of Athena in 550 B.C.
   gallery_rows:
   - figures:
     - thumb: img/rhodes_lindos/cleoboulus_statue_mod_small.jpg
