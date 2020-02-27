@@ -50,9 +50,7 @@ sections:
   desc: ''
 - title: Kritinia Castle
   desc: |-
-    The castle above Kritinia, named Kastellos, was built in 1472 by the engineer Giorgio Orsini to protect the inhabitants of the village from the attacks of the Ottoman fleets. The ancient settlement on the coast eventually sank.
-
-    The Knights of the Order of St. John Hospitaller chose this site to build a castle because of its strategic location. Its 360-degree monitoring view of the sea allowed the inhabitants to keep track of the activities of pirates and enemies.
+    The castle above Kritinia, named Kastellos, was built in 1472 by the engineer Giorgio Orsini to protect the inhabitants of the village from the attacks of the Ottoman fleets. The ancient settlement on the coast eventually sank.   The Knights of the Order of St. John Hospitaller chose this site to build a castle because of its strategic location. Its 360-degree monitoring view of the sea allowed the inhabitants to keep track of the activities of pirates and enemies.
 
     The construction of the castle took place under the rule of four different Grand Masters. The castle was divided into three levels. It was started in 1472 on the authority of the Grand Master Giovanni Battista degli Orsini (1467-1476). The original engineer was the Venetian sculptor and architect Giorgio Orsini. Grand Master Pierre D’ Aubusson (1476-1503) contributed the tower and gunnery. Fortifications specialist Basilio Della Scola (also a great adventurer and mercenary from Vicenza) was in Rhodes between 1520 and 1522, where he was engaged to strengthen the forts. Construction of the castle was finally completed in the 16th century under the Grand Master Fabrizio del Carretto (1513 - 1521).
   gallery_rows:
