@@ -96,10 +96,12 @@ sections:
       caption: Mills Gate
   desc: ''
 - title: THE COLLACHIO (CASTLE)
-  desc: |-
-    An interior wall running east-west divided the city into two unequal parts. The more northerly, and smaller, of these parts was called the Collachium.
-
-    The most beautiful part of the old town is the so called "Street of the Knights". Its medieval grandeur, which has been preserved and has survived throughout the centuries.  The street links the "Hospital of the Knights" to the "Palace of the Grand Master".
+  desc: An interior wall running east-west divided the city into two unequal parts.
+    The more northerly, and smaller, of these parts was called the Collachium.  The
+    most beautiful part of the old town is the so called "Street of the Knights".
+    Its medieval grandeur, which has been preserved and has survived throughout the
+    centuries.  The street links the "Hospital of the Knights" to the "Palace of the
+    Grand Master".
   gallery_rows:
   - figures:
     - thumb: img/Old_Town/set_2/street_of_the_knights_mod_small.jpg
