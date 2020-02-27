@@ -95,9 +95,7 @@ sections:
 
     The sweet is considered such an integral part of Rhodes that it was registered as a **Protected Geographical Indication (PGI)** on the European Commission’s Website on **19.12.2017** “**Melekouni PGI**”.
 
-    Honey and sesame were and remain integral to the Ancient Greek diet. Their high nutritional value was well-known even before science officially confirmed what everyone knew. The name Melekouni has roots in Ancient Greek. It is composed of Mele, meaning honey, and Kuni, meaning Kuna, the seeds in Rhodes. The word comes from the grain, which means seed in Ancient Greek.
-
-    When compared to snacks with equal calories like biscuits, donuts, and croissants, Melekouni has the highest nutritional value of them all. It has shown to contribute to the longevity of life due to its two main components; defoliated sesame seeds and honey.
+    Honey and sesame were and remain integral to the Ancient Greek diet. Their high nutritional value was well-known even before science officially confirmed what everyone knew. The name Melekouni has roots in Ancient Greek. It is composed of Mele, meaning honey, and Kuni, meaning Kuna, the seeds in Rhodes. The word comes from the grain, which means seed in Ancient Greek.   When compared to snacks with equal calories like biscuits, donuts, and croissants, Melekouni has the highest nutritional value of them all. It has shown to contribute to the longevity of life due to its two main components; defoliated sesame seeds and honey.
   gallery_rows: []
 subtitle: ''
 related_tours:
