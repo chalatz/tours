@@ -26,10 +26,19 @@ summary: Filerimos Mountain is found out of Rhodes Town about 14 km / 8 miles on
   remains to be explored.
 sections:
 - title: The Church of our Lady of Filerimos
-  desc: |-
-    When Christianity first grew its roots in Greece (before spreading in the world), many of the ancient cult sanctuaries were transformed into churches. At that time the temple of Athena Polias was converted into an early Christian three-aisled basilica dedicated to **Virgin Mary** (Panagià, Παναγιά). The church is well known since for housing the icon of the **Virgin of Filerimos (our lady of Filerimos)**. In the 14th century under the rule of the Knights of St. John a monastery was built, surrounded by cloisters and cells and a number of chapels. There is where the miracle-working icon is so reverently kept.
-
-    When the island came into the possession of the Ottoman Turks, the icon was taken by the Knights to France and from there to Italy, then Malta and Russia, where it stayed until the 1917 revolution. Since 2002, it has been kept in the Blue Chapel of the National Museum of Montenegro and a copy has been put in its place.
+  desc: "When Christianity first grew its roots in Greece (before spreading within
+    the world), many of the traditional/ancient cult sanctuaries were transformed
+    into churches. At that point the temple of Athena Polias was converted into an
+    early Christian three-aisled basilica dedicated to Virgin Mary (Panagià, Παναγιά).
+    The church is well-known since for housing the icon of the Virgin Mary of Filerimos
+    (our lady of Filerimos). within the 14th century under the rule of the Knights
+    of St. John a monastery was built, surrounded by cloisters and cells and variety
+    of chapels. there's where the miracle-working icon is so reverently kept.  \n
+    \  \n When the island came into the possession of the Ottoman Turks, the icon
+    was taken by the Knights to France and from there to Italy, then Malta and Russia,
+    where it stayed until the 1917 revolution. Since 2002, it's been kept in the Blue
+    Chapel of the National Museum of Montenegro and a duplicate has been put in its
+    place."
   gallery_rows:
   - figures:
     - thumb: img/filerimos_hill/filerimos_hill_1_thumb.jpg
