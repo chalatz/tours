@@ -24,10 +24,13 @@ summary: The Old Town is encircled by strong medieval walls, typical examples of
   engaged for hours.
 sections:
 - title: THE WALL
-  desc: |-
-    The wall is as massive as it is imposing. It is a continuous, 4 Klm / 2.5 mi. long, which is surround the old town. Is stone construction that supports a walking platform from which the Knights could move and fight where needed.
-
-    Massive towers and bastions project from several place and they are decorated with elaborate stonework, while a wide dry Moat provided the first line of defense. To ensure the enemy could not easily fill it, the ground on the opposite side was contained by a massive wall, which was difficult to dismantle.
+  desc: The wall is as massive as it is imposing. It is a continuous, 4 Klm / 2.5
+    mi. long, which is surround the old town. Is stone construction that supports
+    a walking platform from which the Knights could move and fight where needed.  Massive
+    towers and bastions project from several place and they are decorated with elaborate
+    stonework, while a wide dry Moat provided the first line of defense. To ensure
+    the enemy could not easily fill it, the ground on the opposite side was contained
+    by a massive wall, which was difficult to dismantle.
   gallery_rows:
   - figures:
     - thumb: img/Old_Town/set_1/the_walls_1_mod_small.jpg
