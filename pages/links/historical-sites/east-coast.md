@@ -45,10 +45,14 @@ sections:
       caption: Some scenes from the film "The Guns of Navarone" were also filmed here
         too.
   title: ''
-- desc: |-
-    We continue along the coastal road, which is lined with ultra-modern tourist complexes, and we come to Faliraki.  This is one of the largest tourist settlements of the island, with a marvelous beach, many hotels, shops, sports facilities, etc...
-
-    About 5 min drive from Faliraki and 15km from Rhodes Town is the famous "Antony Quinn Bay" a nice sand and pebble beach surrounded by green hills. It became famous before the movie "The Guns of Navarone" when Anthony Quinn fell in love of the bay and bought lands there. Since those days this place has been called Anthony Quinn Bay.
+- desc: We continue along the coastal road, which is lined with ultra-modern tourist
+    complexes, and we come to Faliraki.  This is one of the largest tourist settlements
+    of the island, with a marvelous beach, many hotels, shops, sports facilities,
+    etc...   About 5 min drive from Faliraki and 15km from Rhodes Town is the famous
+    "Antony Quinn Bay" a nice sand and pebble beach surrounded by green hills. It
+    became famous before the movie "The Guns of Navarone" when Anthony Quinn fell
+    in love of the bay and bought lands there. Since those days this place has been
+    called Anthony Quinn Bay.
   gallery_rows:
   - figures:
     - thumb: img/East_Coast/faliraki_beach_mod_small.jpg
