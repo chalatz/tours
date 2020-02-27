@@ -17,10 +17,10 @@ meta:
   copyright: NK for Rhodes Private Tours,2018
   abstract: Castle of Monolithos Rhodes Greece
 title: Monolithos Rhodes Greece
-summary: |-
-  Monolithos village is located 73 km / 45 miles southwest of the city of Rhodes. It owes its name to the huge monolithic rock on top of which is a castle from the time of the Knights of St. John Hospitallers.
-
-  Today Monolithos village has a population of some 250 inhabitants.
+summary: Monolithos village is located 73 km / 45 miles southwest of the city of Rhodes.
+  It owes its name to the huge monolithic rock on top of which is a castle from the
+  time of the Knights of St. John Hospitallers.  Today Monolithos village has a population
+  of some 250 inhabitants.
 sections:
 - title: The Castle of Monolithos
   desc: The castle is located near the village of Monolithos at the summit of the
