@@ -108,13 +108,9 @@ sections:
         Order of Malta’s armorial bearing"
   desc: ''
 - desc: |-
-    The Sovereign Order of Malta is a sovereign subject of international law, with its own constitution, passports, stamps, and public institutions.
+    The Sovereign Order of Malta is a sovereign subject of international law, with its own constitution, passports, stamps, and public institutions.  The Order has diplomatic relations with 104 countries - many of which non-Catholic - and missions to major European countries, as well as to European and international organizations. The original Hospitaller mission became once again the main activity of the Order, growing ever stronger during the last century.  **On 2 May 2018,  Fra' Giacomo Dalla Torre has been elected the 80th Grand Master of the Sovereign Order of Malta.**
 
-    The Order has diplomatic relations with 104 countries - many of which non-Catholic - and missions to major European countries, as well as to European and international organizations. The original Hospitaller mission became once again the main activity of the Order, growing ever stronger during the last century.
-
-    On 2 May 2018,  Fra' Giacomo Dalla Torre has been elected the 80th Grand Master of the Sovereign Order of Malta.
-
-    For more information please visit the official website of the Order at: <http://www.orderofmalta.int/>
+    For more information please visit the official website of the Order at: [http://www.orderofmalta.int/](http://www.orderofmalta.int/)
   title: ''
   gallery_rows: []
 - title: Τhe Medieval Rose Festival
