@@ -75,7 +75,7 @@ sections:
 - desc: |-
     The most characteristic additions were the baths, and the enclosed wooden balconies on the facades over the narrow streets. The result was a mixture of oriental architecture with imposing western architectural remains and more recent buildings, which were characteristic of the local architecture of the time.
 
-    The Muslim Library was founded in 1793 by Hafiz Ahmet Aga is situated opposite the mosque of Suleiman. The building is well preserved, with a small garden. It houses an interesting collection of rare manuscripts and scrolls written in Turkish, Arabian and Persian, the most significant being the one that narrates the siege and conquer of the island by the Turks in 1522. Only the front room can be visited.
+    **The Muslim Library** was founded in 1793 by Hafiz Ahmet Aga is situated opposite the mosque of Suleiman. The building is well preserved, with a small garden. It houses an interesting collection of rare manuscripts and scrolls written in Turkish, Arabian and Persian, the most significant being the one that narrates the siege and conquer of the island by the Turks in 1522. Only the front room can be visited.
   title: ''
   gallery_rows: []
 subtitle: ''
