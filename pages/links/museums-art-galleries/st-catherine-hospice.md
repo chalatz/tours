@@ -43,10 +43,12 @@ sections:
       caption: The interior with the fireplace
   title: ''
   desc: ''
-- desc: |-
-    The building was apparently destroyed in the siege of 1480 and the earthquake of 1481. In 1944 the east part of the Hospice was destroyed again by Allied bombing, along with many buildings in the heart of the Jewish quarter.
-
-    The restored hospice (by the Office of the Medieval Town) has exceptionally beautiful sea-pebble and mosaic floors, carved and intricately painted wooden ceilings, a grand hall and lavish bedchamber, and engaging exhibits.
+- desc: The building was apparently destroyed in the siege of 1480 and the earthquake
+    of 1481. In 1944 the east part of the Hospice was destroyed again by Allied bombing,
+    along with many buildings in the heart of the Jewish quarter.  The restored hospice
+    (by the Office of the Medieval Town) has exceptionally beautiful sea-pebble and
+    mosaic floors, carved and intricately painted wooden ceilings, a grand hall and
+    lavish bedchamber, and engaging exhibits.
   gallery_rows:
   - figures:
     - thumb: img/st_catherine_hospice/hospice_of_st_catherine_5_mod_small.jpg
