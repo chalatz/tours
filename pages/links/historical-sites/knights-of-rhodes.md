@@ -18,13 +18,13 @@ meta:
   abstract: Knights of Rhodes, Knights Hospitallers, Knights of St John Baptist
   author: Nick
 title: The Knights of Rhodes. 1309 AD - 1522 AD
-summary: The Order of St John is a Roman Catholic religious and military order based
+summary: The Order of St John is a Roman Catholic religious and military order established
   in Rome, Italy. The Order grew from the Knights Hospitaller, an organization founded
-  in Jerusalem in 1050 and associated with an Amalfitan hospital to provide care for
-  poor and sick pilgrims to the Holy Land. After the conquest of Jerusalem in 1099
-  during the First Crusade, it became a Catholic military order under its own charter
+  in Jerusalem in 1050 and related to an Amalfitan hospital to supply take care of
+  poor and sick pilgrims to the Holy Land. After the capture of Jerusalem in 1099
+  during the 1st Crusade, it became a Catholic military order under its own charter
   from the Pope. Following the loss of Christian held territories of the Holy Land
-  to Muslims, the Order operated from Rhodes (1309 -1522), over which they was sovereign,
+  to Muslims, the Order worked from Rhodes (1309 -1522), over which they were sovereign,
   and later from Malta (1530-1798).
 sections:
 - gallery_rows:
