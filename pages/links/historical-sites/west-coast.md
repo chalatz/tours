@@ -93,10 +93,12 @@ sections:
       caption: The Monastery of Filerimos
   title: ''
   desc: ''
-- desc: |-
-    We return by the same road to the main highway and continue to the southwest towards Kremasti [12 kilometers, from the town of Rhodes], a village with ample tourist accommodation, shops, etc...
-
-    On our way to the southwest we pass Paradisi. Three kilometers further on, beyond Paradisi, a road to the left (7 kilometers) comes to the enchanting site of Petaloudes (Butterflies), 26 kilometers from the town of Rhodes.
+- desc: We return by the same road to the main highway and continue to the southwest
+    towards Kremasti \[12 kilometers, from the town of Rhodes\], a village with ample
+    tourist accommodation, shops, etc...  On our way to the southwest we pass Paradisi.
+    Three kilometers further on, beyond Paradisi, a road to the left (7 kilometers)
+    comes to the enchanting site of Petaloudes (Butterflies), 26 kilometers from the
+    town of Rhodes.
   gallery_rows:
   - figures:
     - thumb: img/West_Coast/valley_of_the_butterflies_mod_small.jpg
