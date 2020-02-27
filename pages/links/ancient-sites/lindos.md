@@ -84,12 +84,12 @@ sections:
   title: ''
 - title: The Acropolis of Lindos
   desc: The ancient Acropolis 410 feet (160m) above Lindos. On the approach to the
-    top you will come to the CASTLE, a 13th century fortress that is at the entrance
+    top you will come to the CASTLE, a 13th century fortress that is at the doorway
     of the site. To the left are thirteen remaining columns of the STOA which was
-    constructed around 200 B.C. and has been restored. The TEMPLE of the LINDIAN ATHENA
-    was once a significant religious site originally dating back to 100 BC. The remnants
-    seen today were built by the tyrant Cleobulos in the 6th-century BC and are remarkably
-    well intact, with colonnades flanking both sides of the temple.
+    built around 200 B.C. and has been restored. The TEMPLE of the LINDIAN ATHENA
+    was once a big religious site originally dating back to 100 BC. The remnants seen
+    today were built by the tyrant Cleobulos within the 6th-century BC and are remarkably
+    well intact, with colonnades flanking each side of the temple.
   gallery_rows:
   - figures:
     - thumb: img/rhodes_lindos/lindos_acropolis_7_small.jpg
