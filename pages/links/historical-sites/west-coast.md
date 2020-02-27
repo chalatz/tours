@@ -18,10 +18,10 @@ meta:
 keyphrase: Shore Trips of Rhodes
 title: Shore Trips - Rhodes West Coast in Pictures
 sections:
-- desc: |-
-    We set out from the town of Rhodes and follow the road which leads to the southwest, parallel to the western coast of the island.
-
-    We pass through the settlements of Kritika with its tiny houses and sun-baked Ixia to arrive at Ialyssos -Trianda, home of the famous ancient boxer Diagoras of Rhodes.
+- desc: We set out from the town of Rhodes and follow the road which leads to the
+    southwest, parallel to the western coast of the island.  We pass through the settlements
+    of Kritika with its tiny houses and sun-baked Ixia to arrive at Ialyssos -Trianda,
+    home of the famous ancient boxer Diagoras of Rhodes.
   gallery_rows:
   - figures:
     - thumb: img/West_Coast/neoclassical_villa_mod_small.jpg
