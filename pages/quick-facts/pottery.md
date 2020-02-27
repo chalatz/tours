@@ -55,6 +55,8 @@ sections:
       alt: Handmade in Greece pottery,Rhodes Island
       caption: Considerable skill and experience are required to throw pots of an
         acceptable standard
+  title: ''
+  desc: ''
 - title: Ancient Greece Pottery Designs
   desc: |-
     Although the techniques of making pottery are similar all over the Greek world, on the east side of the Aegean Sea (Eastern Greek World -- Rhodes Island ) the pottery decoration was based more on the spirals, curvilinear patterns and lively drawing. Replicas of designs produced in those times are still been manufactured today together with new modern designs in a younger generation.
@@ -101,6 +103,7 @@ sections:
       href: img/rhodes_pottery/black_figure_pottery_4.jpg
       alt: Black figure pottery in Rhodes Greece
       caption: Classic Greek black figure pottery
+  title: ''
 - desc: "**Red Figure Pottery.** The black figure technique was replaced by the red
     figure technique, red figures created by painting their outline with a black slip
     background, around 530 BC which would endure for the next 130 years."
@@ -122,6 +125,7 @@ sections:
       href: img/rhodes_pottery/red_figure_pottery_4.jpg
       alt: Red figure pottery art in Rhodes Greece
       caption: Classic Red figure pottery
+  title: ''
 - title: 'Rhodes Modern Pottery '
   desc: The potters of Rhodes were known and their talents recognized throughout the
     ancient world. Today the new generation still reproduces the famous traditional
@@ -146,14 +150,10 @@ sections:
       caption: Handmade in Rhodes Greece 24k gold Vase
 - title: Louvre Museum - Paris
   desc: |-
-    Many potteries and unique artifacts found during excavations on the island of Rhodes (from the 19th century until today) great samples of the ancient Rhodian art.  Most of them are now scattered in different **European museums** such as the **British Museum**, the **Louvre Museum**, the **National Museum of Denmark** and the **National Museums in Berlin**.
-
-    A major temporary exhibition was organized by the Louvre Museum in Paris from October 15 / 2014 to March 10 / 2015 and was dedicated...
+    Many potteries and unique artifacts found during excavations on the island of Rhodes (from the 19th century until today) great samples of the ancient Rhodian art.  Most of them are now scattered in different **European museums** such as the **British Museum**, the **Louvre Museum**, the **National Museum of Denmark** and the **National Museums in Berlin**.    A major temporary exhibition was organized by the Louvre Museum in Paris from October 15 / 2014 to March 10 / 2015 and was dedicated...
 
     1. History of the excavations in Rhodes a European History
-
     2. Rhodes a site for exchanges in Eastern Mediterranean
-
     3. Rhodian pottery workshops and the known archaic pottery styles those were developed on the island
   gallery_rows:
   - figures:
@@ -192,5 +192,6 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Pottery Tours
+no_related_tours_text: ''
 
 ---
