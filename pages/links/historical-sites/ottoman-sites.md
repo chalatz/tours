@@ -44,12 +44,15 @@ sections:
       caption: The entrance of Mustafa Pasha Mosque (in Arionos square).
   title: ''
   desc: ''
-- desc: |-
-    After the establishment of their sovereignty on the island, the Ottoman Turks converted most of the churches into mosques and transformed the major houses into private mansions or public buildings.
-
-    The Suleiman Mosque built on the site of an earlier Church of the Apostles, it was constructed in honor of the Sultan after his conquest of Rhodes in 1522 and rebuilt in 1808.
-
-    The Knights period facades with their sculptured decorations, the arched gates and hewn stone walls were enriched with the random character of the Ottoman architecture adapted to the local climate and culture. In this process most of the architectural features of the existing buildings were preserved.
+- desc: After the establishment of their sovereignty on the island, the Ottoman Turks
+    converted most of the churches into mosques and transformed the major houses into
+    private mansions or public buildings.  The Suleiman Mosque built on the site of
+    an earlier Church of the Apostles, it was constructed in honor of the Sultan after
+    his conquest of Rhodes in 1522 and rebuilt in 1808.  The Knights period facades
+    with their sculptured decorations, the arched gates and hewn stone walls were
+    enriched with the random character of the Ottoman architecture adapted to the
+    local climate and culture. In this process most of the architectural features
+    of the existing buildings were preserved.
   gallery_rows:
   - figures:
     - thumb: img/rhodes_ottoman_sites/turkish_style_buildings_ottoman_sites_mod_small.jpg
