@@ -17,17 +17,17 @@ meta:
   http_desc: 'Rhodes Lindos Tour, Acropolis of Lindos Tours, Tours to Lindos from
     Rhodes, Executive tours and Escorted tours of Rhodes. '
 title: 'Rhodes Lindos Tour '
-summary: The ancient town of Lindos lies on the east coast of the island at a distance
-  of 55 km / 34 miles from the capital of Rhodes. Some of the 15th century structures
-  in the whitewashed town have been declared traditional buildings to be preserved.
-  The climb to the acropolis is rewarded with spectacular views. Daily, foreigners
-  and Greeks take excursions to admire this village and its acropolis, and swim at
-  its marvelous beaches.    According to Homer, Lindos was built by the Dorians at
-  the same time as Kameiros and Ialyssos in the 12th century B.C. Rhodes sent nine
-  ships to the Trojan War and most probably they all came from Lindos. This fact shows
-  that during that period Lindos was the most powerful town in Rhodes. The development
-  of the town was due to its naval power. Its two harbors as well as it impregnable
-  acropolis were unique on Rhodes.
+summary: The ancient town of Lindos located on the east coast of Rhodes island at
+  a distance of 50 km / 32 miles from the Rhodes Town. A number of 15th century structures
+  within the whitewashed town are declared traditional buildings to be preserved.
+  The climb to the acropolis is rewarded with spectacular views. Daily, tourists and
+  Greeks take excursions to admire this village and its acropolis, and swim at its
+  marvelous beaches. Per Homer, Lindos was built by the Dorians at the identical time
+  as Kameiros and Ialyssos in the 12th century B.C. Rhodes sent nine ships to the
+  Trojan War and most likely all of them came from Lindos. This fact shows that in
+  that period Lindos was the most powerful town in Rhodes. The development of the
+  town was due to its naval power. Its two harbors as well as its impregnable acropolis
+  were unique on Rhodes.
 sections:
 - gallery_rows:
   - figures:
