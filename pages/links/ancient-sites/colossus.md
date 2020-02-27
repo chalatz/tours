@@ -15,16 +15,28 @@ meta:
     Tours
 title: The Colossus of Rhodes
 sections:
-- desc: |-
-    In 305 BC, Demetrius I of Macedon laid siege to the city of Rhodes for an entire year. In spite of his title as "Besieger of Cities" he failed to conquer the Rhodians. To celebrate their victory, the Rhodians sold his siege equipment and used the funds to erect a triumphal statue to their great god, Helios. The work was assigned to Chares of Lindos who worked on it for twelve years (292 BC to 280 BC).
-
-    Despite the fact the Colossus was considered one of the seven wonders of the ancient world, both a technical and artistic masterpiece, there is a lack of vital information concerning the site it occupied and its actual shape. It is calculated to have been about 31 meters high.
-
-    It is said that Chares cast the, bronze limbs of the statue very slowly, on the spot, within enormous mounds of earth, moving from the bottom upward, just as one would build a house.
-
-    According to one account, the Colossus stood across the entrance to the harbor allowing ships to pass between its open legs. To day it is almost certain it stood on dry land and that the most likely site was the enclosure of the temple of Helios, near the palace of the Grand Masters.
-
-    But this "wonder" stood for no more than 54 years. During a severe earthquake in 226 BC it cracked at the knees and fell. The Rhodians, fearing a curse, did not reerect it and it lay there in a heap for many centuries. ' But in 653 A. D. when the Arabs of Moab pillaged Rhodes, they sold the pieces to a Jewish merchant. Tradition says that it took 900 camels to transport it. But the legend surrounding it was so closely tied to Rhodes, that for many centuries both Greeks and Westerners called the Rhodian people "Colossians".
+- desc: "In 305 BC, Demetrius I of Macedon laid siege to the town of Rhodes for a
+    whole year. In spite of his title as “Besieger of Cities” he didn't conquer the
+    Rhodians. To celebrate their victory, the Rhodians sold his siege equipment and
+    used the funds to erect a triumphal statue to their great god, Helios. The work
+    was assigned to Chares of Lindos who worked on that for twelve years (292 BC to
+    280 BC).  \n   \n Despite the actual fact the Colossus was considered one among
+    the seven wonders of the ancient world, both a technical and artistic masterpiece,
+    there's a scarcity of important information concerning the positioning it occupied
+    and its actual shape. it's calculated to have been about 31 meters high.   \n
+    \  \n It is said that Chares cast the, bronze limbs of the statue very slowly,
+    on the spot, within enormous mounds of earth, moving from the underside upward,
+    even as one would build a house.  \n   \n According to one account, the Colossus
+    stood across the doorway to the harbor allowing ships to pass between its open
+    legs. Today it's almost certain it stood on earth which the foremost likely site
+    was the enclosure of the temple of Helios, near the palace of the Grand Masters.
+    \ \n   \n But this “wonder” stood for no over 54 years. During a severe earthquake
+    in 226 BC it cracked at the knees and fell. The Rhodians, fearing a curse, failed
+    to re-erect it and it lay there in a very heap for several centuries. ‘But in
+    653 A. D. when the Arabs of Moab pillaged Rhodes, they sold the pieces to a Jewish
+    merchant. Tradition says that it took 900 camels to move it. But the legend surrounding
+    it had been so closely tied to Rhodes, that for several centuries both Greeks
+    and Westerners called the Rhodian people “Colossians”."
   gallery_rows:
   - figures:
     - thumb: img/colossus_of_rhodes/colossus_1_small.jpg
