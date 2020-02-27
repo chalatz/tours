@@ -48,13 +48,9 @@ sections:
   title: ''
   desc: ''
 - desc: |-
-    The new Italian buildings reflect the spirit of public administration, and set new benchmarks in the urban landscape. All this public buildings are samples of a colonial policy and are closely linked to the presence of two general governors, equally active, but diametrically opposed in their choices in architecture, Mario Lago (1924-1936) and Cesare Maria De Vechi (1936-1943).
+    The new Italian buildings reflect the spirit of public administration, and set new benchmarks in the urban landscape. All this public buildings are samples of a colonial policy and are closely linked to the presence of two general governors, equally active, but diametrically opposed in their choices in architecture, **Mario Lago (1924-1936)** and **Cesare Maria De Vechi (1936-1943).**
 
-    During the years of the occupation, the Italians using the almost free local labor force, they also carried out an extensive program of restorations.
-
-    The fortification walls were consolidated and conserved for their entire length.
-
-    They preserved what was left from the Knights' period, and destroyed all Ottoman buildings. They reconstructed the Grand Master's Palace, the Knights' Hospital, and the Filerimos, also the Ottoman additions were removed from the ecclesiastical monuments in the town.
+    During the years of the occupation, the Italians using the almost free local labor force, they also carried out an extensive program of restorations. The fortification walls were consolidated and conserved for their entire length.  They preserved what was left from the Knights' period, and destroyed all Ottoman buildings. They reconstructed the Grand Master's Palace, the Knights' Hospital, and the Filerimos, also the Ottoman additions were removed from the ecclesiastical monuments in the town.
   gallery_rows:
   - figures:
     - thumb: img/rhodes_italian_architecture/the_administration_building_mod_small.jpg
