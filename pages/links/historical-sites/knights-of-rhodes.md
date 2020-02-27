@@ -83,9 +83,7 @@ sections:
   desc: |-
     **The Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes, and of Malta (Official Name)**
 
-    The Order of Malta is one of the few Orders created in the Middle Ages and still active today. It is also the only one that is at the same time religious and sovereign.
-
-    After the loss of Malta the Order settled definitively in Rome in 1834 where it owns, with extraterritoriality status, the Magistral Palace in Via Condotti 68 and the Magistral Villa on the Aventine Hill.
+    The Order of Malta is one of the few Orders created in the Middle Ages and still active today. It is also the only one that is at the same time religious and sovereign.  After the loss of Malta the Order settled definitively in Rome in 1834 where it owns, with extraterritoriality status, the Magistral Palace in Via Condotti 68 and the Magistral Villa on the Aventine Hill.
   gallery_rows: []
 - title: The Flags and Emblems of the Order
   gallery_rows:
