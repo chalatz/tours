@@ -16,10 +16,11 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: ''
 title: The Museum of Modern Greek Art Municipal Gallery
-summary: |-
-  The Modern Greek Art Museum displays works of sculpture, painting, drawing and engraving, along with documents of historical value. The purpose of the Museum is to present the history of Greece through the eyes and the soul of Greek artists of the 20th century.
-
-  Three buildings comprise the Museum of the Modern Greek Art in Rhodes.
+summary: The Modern Greek Art Museum displays works of sculpture, painting, drawing
+  and engraving, along with documents of historical value. The purpose of the Museum
+  is to present the history of Greece through the eyes and the soul of Greek artists
+  of the 20th century.   Three buildings comprise the Museum of the Modern Greek Art
+  in Rhodes.
 sections:
 - title: The Main Gallery
   desc: The Museum of Modern Greek Art is situated at the entrance of the Medieval
@@ -56,6 +57,8 @@ sections:
     exhibitions, both in Greece and abroad.\n\n* Engravings of the 19th - 20th centuries
     (permanent collection).\n* European Engravings - Dodecanese (during winter).\n*
     Publications - Posters, and Gifts.    "
+  title: ''
+  gallery_rows: []
 - title: The New Gallery "Nestorideion Melathron"
   desc: The New Gallery of the Modern Greek Art Museum located in the picturesque
     Hundred Palms Square near the historic "Grande Albergo delle Rose" hotel. New
@@ -98,12 +101,16 @@ sections:
       href: img/modern_greek_art_museum/painting_in_the_new_gallery_6_mod.jpg
       alt: Rhodes custom made tours, Rhodes Greece Tours, Rhodes Tours
       caption: Exhibits of famous Greek artists
+  title: ''
+  desc: ''
 - desc: "The collection of the New Art Gallery includes works by K. Maleas, C. Parthenis,
     F. Kontoglou, Theophilos, N. Hadjikyriakos-Ghikas, Sp. Vassiliou, J. Spyropoulos,
     Y. Gaitis, Fassianos, Kessanlis, Chr. Botsoglou, Moralis, Tsarouchis and many
     other Greek artists.\n\n* 20th century Modern Greek Art.\n* A Permanent Exhibition
     of Collections.\n* Educational Programmes.\n* Publications - Posters and Gifts.
     \  "
+  title: ''
+  gallery_rows: []
 - title: The Modern Art Center
   desc: The Gallery of the Modern Art Centre situated at the main thoroughfare in
     the Medieval Town "Palaio Syssitio", 179, Sokratous str
@@ -131,6 +138,8 @@ sections:
     to time, the Modern Art Center organizes exhibitions of works of art created by
     contemporary artists.\n\n* Temporary Exhibitions.\n* European Engravings - Dodecanese
     (during summer).           \n    "
+  title: ''
+  gallery_rows: []
 subtitle: ''
 related_tours: []
 end_page:
