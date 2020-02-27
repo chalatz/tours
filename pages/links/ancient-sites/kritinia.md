@@ -14,12 +14,17 @@ meta:
   copyright: NK for Rhodes Private Tours,2018
   abstract: RHODES ALLURE TOURS
 title: The Village and Castle of Kritinia
-summary: |-
-  The village of Kritinia, meaning "New Crete", was founded by some families who came as refuges from Crete island. Originally, the settlement was located by the coast, in the current position of Kamiros Skala; but after the Byzantine era it was moved to the hills, for safety against pirates. In its heyday, the castle must have been a place of refuge for the inhabitants of nearby villages during enemy raids. From those hills, you have a panoramic view of the Aegean Sea.
-
-  The castle above Kritinia, named Kastellos, was built in 1472 by the engineer Giorgio Orsini to protect the inhabitants of the village from the attacks of the Ottoman fleets. The ancient settlement on the coast eventually sank.
-
-  Kritinia village is located on a hillside between Mount Attavyros and the western coast of the island of Rhodes. It is 55 km / 34 miles, southwest of the city of Rhodes. 5km from Kritinia, on the edge of the Aegean Sea, is Kamiros Skala, the site of the original settlement. It has a little port with a ferry service to the island of Halki.
+summary: "The village of Kritinia, meaning \"New Crete\", was founded by some families
+  who came as refuges from Crete island. Originally, the settlement was located by
+  the coast, in the current position of Kamiros Skala; but after the Byzantine era
+  it was moved to the hills, for safety against pirates. In its heyday, the castle
+  must have been a place of refuge for the inhabitants of nearby villages during enemy
+  raids. From those hills, you have a panoramic view of the Aegean Sea.   \n\nKritinia
+  village is located on a hillside between Mount Attavyros and the western coast of
+  the island of Rhodes. It is 55 km / 34 miles, southwest of the city of Rhodes. 5km
+  from Kritinia, on the edge of the Aegean Sea, is Kamiros Skala, the site of the
+  original settlement. It has a little port with a ferry service to the island of
+  Halki."
 sections:
 - gallery_rows:
   - figures:
