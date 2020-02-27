@@ -48,15 +48,12 @@ sections:
       href: img/modern_greek_art_museum/municipal_art_gallery_3_mod.jpg
       alt: Rhodes Tours, Rhodes Greece Tours, Rhodes Shore Excursions
       caption: The Main Gallery hosting a total of 690 exhibits
-- desc: "The Municipal Art Gallery housing one of most significant collections of
-    the Modern Greek Painting in Greece, hosting a total of 690 exhibits. Featuring
-    works by Maleas, Bouzianis, Kontoglou, Theofilos, Vassiliou, Hadzikyriakos-Gikas,
-    Spyropoulos and other prominent Greek artists, is an invaluable experience for
-    the scholar of Modern Greek painting.\n\nThe visitor can see some of the most
-    significant examples of their work. Many of the paintings have been part of official
-    exhibitions, both in Greece and abroad.\n\n* Engravings of the 19th - 20th centuries
-    (permanent collection).\n* European Engravings - Dodecanese (during winter).\n*
-    Publications - Posters, and Gifts.    "
+- desc: |-
+    The Municipal Art Gallery housing one of most significant collections of the Modern Greek Painting in Greece, hosting a total of 690 exhibits. Featuring works by Maleas, Bouzianis, Kontoglou, Theofilos, Vassiliou, Hadzikyriakos-Gikas, Spyropoulos and other prominent Greek artists, is an invaluable experience for the scholar of Modern Greek painting.   The visitor can see some of the most significant examples of their work. Many of the paintings have been part of official exhibitions, both in Greece and abroad.
+
+    * Engravings of the 19th - 20th centuries (permanent collection).
+    * European Engravings - Dodecanese (during winter).
+    * Publications - Posters, and Gifts.
   title: ''
   gallery_rows: []
 - title: The New Gallery "Nestorideion Melathron"
