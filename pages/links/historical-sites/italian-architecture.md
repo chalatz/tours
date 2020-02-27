@@ -17,15 +17,10 @@ meta:
   http_desc: Rhodes Tours, Italian Historical Tours in Rhodes, Italian Sites and Landmarks,
     Rhodes private tours
 title: Rhodes Tours - Italian Architecture. 1912 - 1943
-summary: "**In 1912 Italian troops took control of Rhodes** and 11 other islands in
-  the Dodecanese. They established an Italian colony known as “**Isole Italiane dell’Egeo**”
-  (Italian Islands of the Aegean Sea).  In the 1930s, there was remarkable economic
-  growth as a result of investments made to the infrastructure of the island by the
-  Italians. They continued to occupy the islands into WWII. \n\n**Mussolini** embarked
-  on a program of Italianization, hoping to make Rhodes a modern transportation hub
-  that would serve as a focal point for the spread of Italian culture in the East.
-  The presence of the Italians on Rhodes remains visible in the many and varied buildings
-  constructed under their command."
+summary: |-
+  **In 1912** Italian troops took control of Rhodes and 11 other islands in the Dodecanese. They established an Italian colony known as “**Isole Italiane dell’Egeo**” (Italian Islands of the Aegean Sea).  In the 1930s, there was remarkable economic growth as a result of investments made to the infrastructure of the island by the Italians. They continued to occupy the islands into WWII.
+
+  **Mussolini** embarked on a program of Italianization, hoping to make Rhodes a modern transportation hub that would serve as a focal point for the spread of Italian culture in the East. The presence of the Italians on Rhodes remains visible in the many and varied buildings constructed under their command.
 sections:
 - gallery_rows:
   - figures:
