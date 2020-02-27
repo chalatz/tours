@@ -17,11 +17,11 @@ meta:
   http_desc: Mount Filerimos, Filerimos Hill, Filerimos Monastery Rhodes Greece, Church
     of our Lady of Filerimos, Ancient Ialyssos acropolis
 title: Mount Filerimos - The Acropolis of Ancient Ialyssos
-summary: Filerimos Mountain is located out of Rhodes Town about 14 km / 8 miles on
-  the west coast of the island. In addition to the panoramic view of the Aegean Sea,
-  this place is an important archaeological site. Here once stood the Acropolis of
-  the Ancient Ialyssos with an important temple dedicated to Athena Polias. The hill
-  took its name from a monk who came from Jerusalem in the 13th century bringing with
+summary: Filerimos Mountain is found out of Rhodes Town about 14 km / 8 miles on the
+  west region of the island. Additionally to the view of the Aegean Sea, this place
+  is an very important archaeological site. Here once stood the Acropolis of the Ancient
+  Ialyssos with a very important temple dedicated to Athena Polias. The hill took
+  its name from a monk who came from Jerusalem within the 13th century bringing with
   him an icon of the Blessed Virgin painted by the Apostle Luke. The old monastery
   remains to be explored.
 sections:
