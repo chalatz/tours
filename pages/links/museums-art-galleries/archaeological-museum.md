@@ -42,6 +42,8 @@ sections:
       alt: The Archaeological Museum of Rhodes Greece, Rhodes Tours
       caption: In the main courtyard sits a lion, of Lardos stone, with the head of
         a bull between its front paws.
+  title: ''
+  desc: ''
 - desc: This was the new Hospital of the Knights and their original raison d'etre
     (reason for being). Begun in 1440, over the remains of a Roman building, it was
     not until the Grand Master d'Aubusson oversaw the project for over 40 years on
@@ -66,10 +68,14 @@ sections:
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_8.jpg
       alt: The Archaeological Museum of Rhodes, Rhodes Greece Tours
       caption: From the few examples of Gothic architecture in Greece
-- desc: |-
-    The entrance opens into a courtyard, surrounded by a galleried upper story accessed by an outside stairway. Stone fragments and stacks of cannonballs, relics from various sieges, lie on the ground.
-
-    During the Ottoman era it was used variously as a hospital then ignobly as a barracks. It was restored by the Italian administration in 1913-18 and later used to house the Rhodes Archaeological Museum.   The Museum contains various collections of archaeological artifacts from various parts of Rhodes and the neighbouring islands.
+  title: ''
+- desc: The entrance opens into a courtyard, surrounded by a galleried upper story
+    accessed by an outside stairway. Stone fragments and stacks of cannonballs, relics
+    from various sieges, lie on the ground.   During the Ottoman era it was used variously
+    as a hospital then ignobly as a barracks. It was restored by the Italian administration
+    in 1913-18 and later used to house the Rhodes Archaeological Museum.   The Museum
+    contains various collections of archaeological artifacts from various parts of
+    Rhodes and the neighbouring islands.
   gallery_rows:
   - figures:
     - thumb: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_9_small.jpg
@@ -90,6 +96,7 @@ sections:
       alt: Rhodes Archaeological Museum, Rhodes Allure Tours
       caption: Red-figure vase painting remained in use until the late 3rd century
         BC. It replaced the previously dominant style of black-figure vase painting
+  title: ''
 subtitle: ''
 related_tours:
 - Ancient & Medieval-GT5
@@ -108,5 +115,6 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Archaeological Tours
+no_related_tours_text: ''
 
 ---
