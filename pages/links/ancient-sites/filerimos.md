@@ -80,12 +80,12 @@ sections:
   desc: ''
 - title: Monastery of Filerimos
   desc: The monastery was destroyed during the Turkish occupation. The Italians rebuilt
-    the monastery during their occupation and kept it open with monks from the Capuchin
-    Order. Behind the church are the monks' cells, the walls of which are decorated
-    with mosaic depictions of saints. During the war the monks returned to Italy and
-    since then the monastery has been closed. The main church of the monastery was
-    more like a small chapel to the Virgin Mary and young couples had romantic weddings
-    there.
+    the monastery during their occupation (1912 - 1943) and kept it open with monks
+    from the Catholic Capuchin Order. Behind the church are the monks’ cells, the
+    walls of which are decorated with mosaic depictions of saints. During the 2WW
+    the monks returned to Italy and since then the monastery has been closed. The
+    central church of the monastery was more sort of a small chapel to the Virgin
+    Mary and young couples had romantic weddings there.
   gallery_rows:
   - figures:
     - thumb: img/filerimos_hill/filerimos_monastery_1_thumb.jpg
