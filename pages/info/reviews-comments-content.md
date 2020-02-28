@@ -1681,21 +1681,21 @@ reviews:
     spread the word and let my travel agent know of your company<br>\nBest regards,
     Ian C. (Sept 14th) Chichester, UK\n\nHi Nicholas, we are not home yet to give
     you a good write up on Trip Advisor, we loved the tour and Michael was a fantastic
-    guide. So personable we just enjoyed him so much.<br>\nWe will refer you to anyone
-    who is coming to Greece.<br>\nBest Wishes,<br>\nIlana Brodie (Sept 10th)<br>\nilanab4re@aol.com\n\nNicholas,
-    We want to thank you for the best service for our private tour.<br>\nAndrew the
-    driver & guide is a lovely man: professional, intelligent, and patient. He made
-    our trip incredible. We will be more than glad to recommend your company on Tripadvisor
-    when we return. We hope to use your service on our next visit to Rhodes.<br>\nWith
-    kind regards,<br>\nDavid & Avital Ronen (8th Sept)<br>\navital.rose@gmail.com\n\nDear
-    Nicholas, We are very glade to have your wonderful tour service, the itinerary
-    and especially the driver Mr. Mike are so nice that we couldn't forget you. By
-    chance we'll introduce you to our friends and will promote you on TripAdvisor.<br>\nBest
-    Regards<br>\nSi-Ming Lin (9th Sept)<br>\ngracloud@yahoo.com.tw\n\nNicholas, Thank
-    you so much. We had a wonderful tour and your brother Michael was a fantastic
-    driver and guide. He really knew his stuff!! Glad we chose you to do our tour
-    and will recommend you to others a in the future!<br>\nLindy McKm (Sept 4th)<br>\nmll06041965@frontier.com\n\nHi
-    Mike, Yes we enjoyed our tour of Rhodes with you and would not hesitate to recommend
+    guide. So personable we just enjoyed him so much. We will refer you to anyone
+    who is coming to Greece.<br>\nBest Wishes, Ilana B (Sept 10th) El Reno, Oklahoma
+    US\n\nNicholas, We want to thank you for the best service for our private tour.
+    \ Andrew the driver & guide is a lovely man: professional, intelligent, and patient.
+    He made our trip incredible. We will be more than glad to recommend your company
+    on Tripadvisor when we return. We hope to use your service on our next visit to
+    Rhodes.<br>\nWith kind regards, David & Avital R. (8th Sept) Israel\n\nDear Nicholas,
+    We are very glade to have your wonderful tour service, the itinerary and especially
+    the driver Mr. Mike are so nice that we couldn't forget you. By chance we'll introduce
+    you to our friends and will promote you on TripAdvisor.<br>\nBest Regards Si-Ming
+    Lin (9th Sept) Taiwan\n\nNicholas, Thank you so much. We had a wonderful tour
+    and your brother Michael was a fantastic driver and guide. He really knew his
+    stuff!! Glad we chose you to do our tour and will recommend you to others a in
+    the future!<br>\nLindy McKm (Sept 4th)<br>\nmll06041965@frontier.com\n\nHi Mike,
+    Yes we enjoyed our tour of Rhodes with you and would not hesitate to recommend
     you to others.<br>\nWishing you all the best.<br>\nSincerely<br>\nKen (Sept 4th)<br>\nKRJH@telstra.com\n\nNicholas,
     Thank you so much for the great tour! I would love to write a review you on TripAdvisor
     or another site if you have a link that I can use.<br>\nSusannah (Sept 2nd)<br>\nsuherndon@hotmail.com\n\nNicholas,
