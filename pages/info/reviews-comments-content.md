@@ -1587,62 +1587,61 @@ reviews:
     a wonderful Christmas,  Doug and Lisee M. (Dec 16th) Kansas City,\tMissouri\n\nWOW..
     Nicholas this was a great day and trip. I cant thank you enough for the great
     day and we will share your services with our team.<br>\nThe Travel Collaborative,
-    Branch of the Tzell Travel Group, Scott G (Dec10th) CAMBRIDGE, MA\n\n\nOur group
+    Branch of the Tzell Travel Group, Scott G (Dec10th) CAMBRIDGE, MA\n\nOur group
     of 3 people was met promptly at the cruise terminal, introduced to our tour/driver
     Stamos and left for a very fabulous day. Stamos went above and beyond to drive
     us to the highlights of the area and knew how to avoid the big crowds. He is extremely
     well informed, very professional and thoroughly enjoyable. In addition to our
     wonderful tour and amazing local lunch, he found time to allow me to stop and
     purchase some truly local olives. What an amazing day! Nicholas, please thank
-    Stamos for an absolutely wonderful day.<br>\nAmanda Morris<br>\nJWMorris01@bellsouth.net\n\nNicholas
+    Stamos for an absolutely wonderful day.<br>\nAmanda M (Nov12th) Ontario, Toronto\n\nNicholas
     we were so happy to have you as our driver and loved it all. Had a great trip
     there and look forward to returning. Everything was great. Thank you again and
     good luck with the winter and a good holiday to you and your family.<br>\nCarla
-    Sklan-Talmor (Oct 28th)<br>\ncarlaati@aol.com\n\nThank you Nicholas! We absolutely
-    loved Rhodes and loved Costa!!! He was a great tour guide and we really enjoyed
-    visiting your beautiful home. Thank you for doing such a great job for us and
-    if we are ever back in Rhodes we will contact you.<br>\nBest Regards,<br>\nCarri
-    Bennett<br>\ncm8273@att.com\n\nNicholas, Manuel was the perfect Tour Driver. He
-    was extremely knowledgeable and professional. I would highly recommend him to
-    anyone travelling to your beautiful island and would always request him. Thank
-    you again to your services and Manuel.<br>\nPaul Schilling (Oct 24th)<br>\nusmtschilling@yahoo.com\n\nNicholas,
-    Thank you so much for the service. I'm in Barcelona, but will write a review once
-    I'm home. It was a pleasure having Dominic as our driver. I hope to visit Rhodes
-    again in the near future.<br>\nJakesia<br>\njakesiam@yahoo.com\n\nNicholas, My
+    S. T. (Oct 28th) Kingaroy, Queensland\n\nThank you Nicholas! We absolutely loved
+    Rhodes and loved Costa!!! He was a great tour guide and we really enjoyed visiting
+    your beautiful home. Thank you for doing such a great job for us and if we are
+    ever back in Rhodes we will contact you.<br>\nBest Regards, Carri B. (Oct 26th)
+    San Antonio, Texas\n\nNicholas, Manuel was the perfect Tour Driver. He was extremely
+    knowledgeable and professional. I would highly recommend him to anyone travelling
+    to your beautiful island and would always request him. <br> Thank you again to
+    your services and Manuel. Paul S. (Oct 24th) Cusseta, Georgia\n\nNicholas, Thank
+    you so much for the service. I'm in Barcelona, but will write a review once I'm
+    home. It was a pleasure having Dominic as our driver. I hope to visit Rhodes again
+    in the near future.<br>\nJakesia (Oct 23rd) Lexington, Kentucky\n\nNicholas, My
     entire family was so moved by your beautiful island and the hospitality you and
     Mike and Stathis showed us. It was such a personal touch with you coming to the
     dock to meet us. You truly have a great operation that cater to your guests. I
     will be posting great review on trip advisor when I get the chance. We can't thank
     you enough for treating us the way you have. Thank you and everyone for a wonderful
-    and great time we had on Rhodes. Dant LaSalle (Oct 21st)<br>\ndplsr7@aol.com\n\nThank
+    and great time we had on Rhodes. <br> Dant L. (Oct 21st)Tulsa, Oklahoma\n\nThank
     you so much for giving us such wonderful memories of Rhodes! Manuel was a very
-    skilled driver & very informative. He was also a perfect gentleman!<br>\nWe will
-    be writing a much more detailed review on Trip advisor, but it will have to wait
+    skilled driver & very informative. He was also a perfect gentleman!  We will be
+    writing a much more detailed review on Trip advisor, but it will have to wait
     until we return home on 3 November! Until then, rest assured we will be recommending
-    your service to all our friends!<br>\nThank you again!<br>\nNancy & Doug (Oct
-    17th)<br>\nnlharvey54@gmail.com\n\nHi Nicholas, We all truly enjoyed the tour
-    of your beautiful island. I love meeting the people who live in places I visit,
-    and learning about their lives. It makes for a memorable experience. Though distance
-    and cultures separate us, the truth is that we all want the same things from life
-    and have the same desires for ourselves and family!<br>\nWe wish you all the best!<br>\nBill
-    and Cheryl (Oct 15th)<br>\ncghauri@msn.com\n\nNicholas, My group of 12 want to
-    sincerely thank you for the excellent service provided by your company. Dimitris
-    was a superb guide and as a result the day we spent visiting Rhodes was extremely
-    educational and most importantly very enjoyable. The minibus driver was also very
-    pleasant and accommodating.<br>\nThank you for making our visit to Rhodes a memorable
-    one.<br>\nSincerely,<br>\nBeverly Stehman<br>\nomanopas@aol.com\n\nHi Nicholas,
-    Everyone enjoyed the tour of Rhodes. George was so funny and entertaining. Thank
-    you so much for making sure everything ran smoothly!<br>\nCheers,<br>\nChiqui<br>\nchiqui.bautista@gmail.com\n\nNicholas,
-    thank you so much for such a wonderful time. We truly enjoyed our limited time
-    on the island. Michael made it memorable for us with all of his knowledge. He
-    is an awesome driver. We truly will remember our great adventure.<br>\nAnita L.
-    Madrigal (Oct 10)<br>\nInternational Space Station<br>\nProgram Planning & Control
-    Office<br>\nanita.l.madrigal@nasa.gov\n\nNicholas, Rhodes was the best. I just
-    finished my review on trip advisor. Your guide was excellent and so knowledgeable.<br>\nThanks
-    you<br>\namysmom50@aol.com\n\nHi Nicholas, Matt and I are just home! We had such
-    a great trip and one of the highlights of our trip was our day with you and your
-    beautiful Island!<br>\nI will submit a review to TripAdvisor today!<br>\nThank
-    you for your time!<br>\nYours,<br>\nElizabeth and Matt<br>\nelizpsimpson@gmail.com\n\nHi
+    your service to all our friends!<br>\nThank you again! Nancy & Doug (Oct 17th)
+    Anaconda, Montana\n\nHi Nicholas, We all truly enjoyed the tour of your beautiful
+    island. I love meeting the people who live in places I visit, and learning about
+    their lives. It makes for a memorable experience. Though distance and cultures
+    separate us, the truth is that we all want the same things from life and have
+    the same desires for ourselves and family!<br>\nWe wish you all the best! Bill
+    and Cheryl (Oct 15th) Phoenix, Arizona\n\nNicholas, My group of 12 want to sincerely
+    thank you for the excellent service provided by your company. Dimitris was a superb
+    guide and as a result the day we spent visiting Rhodes was extremely educational
+    and most importantly very enjoyable. The minibus driver was also very pleasant
+    and accommodating. Thank you for making our visit to Rhodes a memorable one.<br>\nSincerely,
+    Beverly S (Oct 14th) Los Angeles, California\t\n\nHi Nicholas, Everyone enjoyed
+    the tour of Rhodes. George was so funny and entertaining. Thank you so much for
+    making sure everything ran smoothly!<br>\nCheers, Chiqui ( Oct 12th) Birmingham,
+    UK\n\nNicholas, thank you so much for such a wonderful time. We truly enjoyed
+    our limited time on the island. Michael made it memorable for us with all of his
+    knowledge. He is an awesome driver. We truly will remember our great adventure.<br>\nAnita
+    L. M. (Oct 10) International Space Station. Program Planning & Control Office\n\nNicholas,
+    Rhodes was the best. Your guide was excellent and so knowledgeable.<br>\nThanks
+    you, Amy S. (Oct 9th) Birmingham, UK\n\nHi Nicholas, Matt and I are just home!
+    We had such a great trip and one of the highlights of our trip was our day with
+    you and your beautiful Island! I will submit a review to TripAdvisor soon! <br>\nThank
+    you for your time! Yours, Elizabeth and Matt (Oct 8th) Baltimore, Maryland\n\nHi
     Nicholas, We had an absolutely fantastic tour with you on Rhodes. I would have
     to honestly say that Rhodes was possibly our favourite island destination. Your
     knowledge and humor brought our tour to life. Thank you again for a surprise visit
