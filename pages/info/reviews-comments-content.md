@@ -20,7 +20,7 @@ reviews:
     nice sense of humor. We saw gorgeous views of Rhodes. We stopped at a traditional
     restaurant popular with locals for a delicious lunch of Greek salad and other
     Greek starter specialties. Very pleased with the tour.<br>\nGloria B.  (Jan 27th)
-    New York USA\n\n\nThanks Nicholas, Manuel was great and the tour was truly amazing.
+    New York USA\n\nThanks Nicholas, Manuel was great and the tour was truly amazing.
     We appreciate your help awesome service!  Have an amazing 2020! <br>\nThanks Christian,
     \ (Jan 12th) Mexico \n\nThank you to Micheal for his expertise and the knowledge
     you shared with us. Plus your humor which we greatly appreciated. We wish you
@@ -1584,11 +1584,11 @@ reviews:
     with you and Michael in Rhodes. It was a great tour we will never forget and continue
     to talk about with our friends! We look forward to visiting Rhodes again and will
     certainly have you (or Michael) show us around your beautiful island again.<br>\nHave
-    a wonderful Christmas,<br>\nDoug and Lisee McGlashan<br>\ndmcg@mcglash.com\n\nWOW..
+    a wonderful Christmas,  Doug and Lisee M. (Dec 16th) Kansas City,\tMissouri\n\nWOW..
     Nicholas this was a great day and trip. I cant thank you enough for the great
-    day and we will share your services with our team.<br>\nScott Glaser<br>\nThe
-    Travel Collaborative<br>\nBranch of the Tzell Travel Group<br>\nScottG@travelcoll.com\n\nOur
-    group of 3 people was met promptly at the cruise terminal, introduced to our tour/driver
+    day and we will share your services with our team.<br>\nThe Travel Collaborative,
+    Branch of the Tzell Travel Group, Scott G (Dec10th) CAMBRIDGE, MA\n\n\nOur group
+    of 3 people was met promptly at the cruise terminal, introduced to our tour/driver
     Stamos and left for a very fabulous day. Stamos went above and beyond to drive
     us to the highlights of the area and knew how to avoid the big crowds. He is extremely
     well informed, very professional and thoroughly enjoyable. In addition to our
