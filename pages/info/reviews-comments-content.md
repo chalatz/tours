@@ -1646,33 +1646,32 @@ reviews:
     to honestly say that Rhodes was possibly our favourite island destination. Your
     knowledge and humor brought our tour to life. Thank you again for a surprise visit
     to Argo. That really was unexpected and a delightful end to what was a brilliant
-    tour.<br>\nRegards<br>\nDavid (8th Oct)<br>\nbagone@optusnet.com.au\n\nTo Sergio,<br>\nThank
-    you so much for a great day. We so enjoyed the tour. It was such a pleasure to
-    meet you.(Oct 4th)<br>\nRay, Lise, Mike and Donna<br>\nlise53@yahoo.com\n\nThanks
-    very much for a great tour, we loved it!!<br>\nPlease thank Augustis too.<br>\nKind
-    regards,<br>\nNatalie and family<br>\nNatalie.Still@pegs.vic.edu.au\n\nThanks
-    again for the great day in Rhodes. I just uploaded a stellar review of you guys
-    on Trip Advisor to let everybody know if in Rhodes where to seek good services.<br>\nHave
-    a great day<br>\nClint Walker<br>\nPresident<br>\nAir Management Systems<br>\nairmanagementsystems.com\n\nHi
-    Nicholas, We really enjoyed our tour of Rhodes, your brother Michael was a terrific
-    driver and we saw so many places on Rhodes<br>\nThank you so much<br>\nJune Cooper
-    (Oct 1st)<br>\njunecooper60@hotmail.com\n\nDear Nicholas, Thank you for all your
-    assistance during our visit to Rhodes.<br>\nI have just submitted a trip advisor
-    review for your services and it should clear the Trip Advisor system and appear
-    on line in the next day or so. Also when our magazine with the stories about Rhodes
-    and the Guns of Navarone is published early next year we would like to send you
-    some copies.<br>\nTake care and thank you again for your help.<br>\nCheers<br>\nGail
-    and Winston (29th Sept)<br>\ngail@afterthebattle.com\n\nDear Nicholas, Thank you
-    for the tour today!!, we will write you a 5 star review as well as Argo restaurant!<br>\nElizabeth
-    Pavey Williamson (Sept 24th)<br>\nCozumelME<br>\n214-500-3601 US<br>\nhttp://www.cozumelme.com/<br>\nwww.homeaway.com/vacation-rental/p336049\n\nNick,
-    Thank you for your services; we all surely appreciated the wonderful tour your
-    operation offered during our travel to your lovely island of Rhodes. Our experience
-    with Dimitris was great; very knowledgeable funny tour guide and experienced.
-    I would highly recommend using your services to any traveler.<br>\nThanks again<br>\nJC
-    Gonzalez (Sept 23rd)<br>\njc@finelightsales.com\n\nNicholas, We enjoyed every
-    minute of out time with Mike! Hope to be back some day, and will defiantly call
-    Rhodes Private tours!<br>\nThanks again,<br>\nJan Hagy (Sept 18th)<br>\njanh1401@charter.net\n\nNicholas,
-    We had a wonderful experience! Thank you very much.<br>\nBrenda Rosen<br>\nbrenrosen@gmail.com\n\nThank
+    tour.<br>\nRegards, David (8th Oct) Port Lincoln, AU\n\nTo Sergio, Thank you so
+    much for a great day. We so enjoyed the tour. It was such a pleasure to meet you.<br>\nRay,
+    Lise, Mike and Donna (Oct 4th) Colac Victoria, AU\n\nThanks very much for a great
+    tour, we loved it!!.  Please thank Augustis too.<br>\nKind regards Natalie and
+    family, (Oct 3rd) Portland,Victoria AU\n\nThanks again for the great day in Rhodes.
+    I just uploaded a stellar review of you guys on Trip Advisor to let everybody
+    know if in Rhodes where to seek good services.<br>\nHave a great day, Clint W.
+    President, Air Management Systems\n\nHi Nicholas, We really enjoyed our tour of
+    Rhodes, your brother Michael was a terrific driver and we saw so many places on
+    Rhodes<br>\nThank you so much June C. (Oct 1st) New Orleans, Louisiana\n\nDear
+    Nicholas, Thank you for all your assistance during our visit to Rhodes.  I have
+    just submitted a trip advisor review for your services and it should clear the
+    Trip Advisor system and appear on line in the next day or so. Also when our magazine
+    with the stories about Rhodes and the Guns of Navarone is published early next
+    year we would like to send you some copies.<br>\nTake care and thank you again
+    for your help. Cheers Gail and Winston (29th Sept) London UK\n\nDear Nicholas,
+    Thank you for the tour today!!, we will write you a 5 star review as well as Argo
+    restaurant!<br>\nElizabeth P. W. (Sept 24th) www.cozumelme.com US\n\nNick, Thank
+    you for your services; we all surely appreciated the wonderful tour your operation
+    offered during our travel to your lovely island of Rhodes. Our experience with
+    Dimitris was great; very knowledgeable funny tour guide and experienced. I would
+    highly recommend using your services to any traveler.<br>\nThanks again,  JC Gonzalez
+    (Sept 23rd) Madrid, Spain\n\nNicholas, We enjoyed every minute of out time with
+    Mike! Hope to be back some day, and will defiantly call Rhodes Private tours!<br>\nThanks
+    again,<br>\nJan Hagy (Sept 18th)<br>\njanh1401@charter.net\n\nNicholas, We had
+    a wonderful experience! Thank you very much.<br>\nBrenda Rosen<br>\nbrenrosen@gmail.com\n\nThank
     you for everything Nicholas!! All 3 drivers were excellent. I personally had Michael
     and Dominic and they were great!! Not sure the other drivers name because I was
     not in his car but my group said he was great too!! Thank you for the flexibility
