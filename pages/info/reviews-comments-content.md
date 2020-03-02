@@ -1525,7 +1525,7 @@ reviews:
     recommend you and your services to anyone who asks. Thank you once again for a
     great day! Marianne V. (May 4th) France\n\nHi Nicholas! We really enjoyed our
     tour with Michael, he did an awesome job giving us a very information-packed adventure!
-    John (May 3rd) Illinois US\nHi Kostas, What a wonderful day we spent with you,
+    John (May 3rd) Illinois US\n\nHi Kostas, What a wonderful day we spent with you,
     my group have not stopped talking about Rhodes and what a beautiful city it is.
     We thoroughly enjoyed our day with you. Very informative and very knowledgeable
     guide. Impressed with the whole day. Nicholas your services is absolutely excellent.
