@@ -1116,18 +1116,18 @@ reviews:
     28th) Millcreek Circle\n"
 - year: "2017"
   text: "Yes, our memories of Rhodes are wonderful. I will convey your greetings to
-    the other couple as soon as get unpacked.<br>\nIt will probably be after Christmas,
-    but I also intend to write up our excursion with you on Trip Advisor. \"Don't
-    miss a trick, travel with Nick.\"<br>\nBest wishes,  Jean and Ralph (Dec 15th)
-    \ Greensboro North Carolina  USA\n\nThis was a welcome reprieve from the packed
-    commercialized bus stop tours we had done on other islands. What we experienced
-    was an intimate, personalized, very knowledgeable driver. Our driver was incredible!
-    His love of Rhodes shone through, he catered to our personal interests and challenged
-    our boundaries a bit by showing us some new things about the island. He took us
-    to a quiet beautiful restaurant where the locals eat..... Excellent day!  Annita
-    \ (Dec 12) Marana Arizona USA\n\nThank you Nicholas. We got back home last night
-    from our cruise. Tsambika was an excellent guide and everyone on our tour loved
-    her. You have a very beautiful island and we were glad to be able to visit it.<br>\nHave
+    the other couple as soon as get unpacked.\nIt will probably be after Christmas,
+    but I also intend to write up our excursion with you on Trip Advisor. “Don’t miss
+    a trick, travel with Nick.”\nBest wishes, Jean and Ralph (Dec 15th) Greensboro
+    North Carolina USA\n\nThis was a welcome reprieve from the packed commercialized
+    bus stop tours we had done on other islands. What we experienced was an intimate,
+    personalized, very knowledgeable driver. Our driver was incredible! His love of
+    Rhodes shone through, he catered to our personal interests and challenged our
+    boundaries a bit by showing us some new things about the island. He took us to
+    a quiet beautiful restaurant where the locals eat….. Excellent day! Annita (Dec
+    12) Marana Arizona USA\n\n\nThank you Nicholas. We got back home last night from
+    our cruise. Tsambika was an excellent guide and everyone on our tour loved her.
+    You have a very beautiful island and we were glad to be able to visit it.<br>\nHave
     a very Merry Christmas. Dave & Ann (Nov 28)  Port St. Lucie Florida\n\nNicholas
     thank you! Your tour was one of our favorites, and Rhodes as well!<br>\nSee you
     soon with Rick Steves!  Kathrine (Nov 24th)  Salt Lake City Utah\n\nDear Nicholas,
