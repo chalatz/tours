@@ -1242,27 +1242,27 @@ reviews:
     home we will write about you in trip advisor. Thanks, Irwan & Ing (Sept 17th)
     Butte, Montana US\n\nNicholas thanks to you. We really appreciated our tour with
     Mike, a real gentleman and really professional. We enjoyed Rhodes a lot. Very
-    nice island! Have a very nice day! Nicole B.  (Sept 15th) Nicole B. Manitoba,
-    Winnipeg Canada\n\nThanks Nicholas. It was a lovely day touring Rhodes with Stergio
-    and we enjoyed all that we saw and learned. It’s a special place. The service
-    you offered, from the earliest email to this follow-up has been wonderful. Many
-    thanks to you and your team. Kelly and Darren (Sept 14th) Alberta, Edmonton\n\nHi
-    Nicholas! Thank you and Mike for everything. My mom, sister and I had the best
-    time with Mike on our tour (he is a wonderful, personable driver). And you were
-    excellent as well coming to the port to meet us and following up to make sure
-    we had a great time. I just left a 5-star review on Trip Advisor. Thanks again
-    for helping make our first visit to Rhodes/Lindos so special! Allyson U. (Sept
-    13th) Brisbane, Queensland\n\nDear Nicolas, we had a great time at the tour made
-    by your brother Michael. Michael is a very kind and warm person, with wide knowledge
-    in various and different kind of subjects. He made our time pleasant and coordinate
-    willingly and happily to our wills. The tour took place according with the understandings
-    between us and met all our expectations. We will gladly note our recommendation
-    in TripAdvisor. Wish you all the best. Chana and Ami B (Sept 11th) Israel\n\nAndrew
-    was great. Will leave lovely review for you when I get back to States Thanks again
-    Alan L (Sept 10th) Los Angeles, California\n\nWe found Nicholas Private Tours
-    online. What a find! He was extremely concerned that we get exactly what we wanted
-    and we did. Manuel was a terrific guide and listened to exactly what we wanted
-    to do. He was at the cruise ship as we walked off.. What a great day! Randa (Sept
+    nice island! Have a very nice day! Nicole B.  (Sept 15th) Manitoba, Winnipeg Canada\n\nThanks
+    Nicholas. It was a lovely day touring Rhodes with Stergio and we enjoyed all that
+    we saw and learned. It’s a special place. The service you offered, from the earliest
+    email to this follow-up has been wonderful. Many thanks to you and your team.
+    Kelly and Darren (Sept 14th) Alberta, Edmonton\n\nHi Nicholas! Thank you and Mike
+    for everything. My mom, sister and I had the best time with Mike on our tour (he
+    is a wonderful, personable driver). And you were excellent as well coming to the
+    port to meet us and following up to make sure we had a great time. I just left
+    a 5-star review on Trip Advisor. Thanks again for helping make our first visit
+    to Rhodes/Lindos so special! Allyson U. (Sept 13th) Brisbane, Queensland\n\nDear
+    Nicolas, we had a great time at the tour made by your brother Michael. Michael
+    is a very kind and warm person, with wide knowledge in various and different kind
+    of subjects. He made our time pleasant and coordinate willingly and happily to
+    our wills. The tour took place according with the understandings between us and
+    met all our expectations. We will gladly note our recommendation in TripAdvisor.
+    Wish you all the best. Chana and Ami B (Sept 11th) Israel\n\nAndrew was great.
+    Will leave lovely review for you when I get back to States Thanks again Alan L
+    (Sept 10th) Los Angeles, California\n\nWe found Nicholas Private Tours online.
+    What a find! He was extremely concerned that we get exactly what we wanted and
+    we did. Manuel was a terrific guide and listened to exactly what we wanted to
+    do. He was at the cruise ship as we walked off.. What a great day! Randa (Sept
     10th) Portland, Victoria Canada\n\nDear Nicholas, We are very appreciate for your
     kindly guidance during our Rhodes tour in this time. We were able to make a lot
     of good memories with full of your support. Thanks, Ikuya and Nobuko (Sept 9th)
