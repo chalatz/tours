@@ -25,7 +25,7 @@ summary:
     you like the most and we will stop there with plenty of time for you to swim before
     the end of the tour.
 tour:
-  title: '"Beach Tour of Rhodes" DT7'
+  title: '"Rhodes Beach Tour" DT7'
   summary: Faliraki Beach / Anthony Quinn Bay / Tsambika Beach / Charaki Beach / St
     Paul’s Bay / Lindos Village and Acropolis / Sea Bath
   duration: Half Day
