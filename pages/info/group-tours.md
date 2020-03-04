@@ -9,15 +9,16 @@ banners_2: true
 has_form: false
 has_gallery: true
 meta:
-  title: 'Rhodes Group Tours, Rhodes Mini Bus Tours'
-  http_desc: 'Rhodes Group Tours, Rhodes Minibus Tours, Rhodes Private Group Tours'
-  description: 'Rhodes Group Tours, Rhodes Minibus Tours, Rhodes Private Group Tours'
-  keywords: 'Rhodes Group Tours, Rhodes Minibus Tours, Rhodes Private Group Tours'
-  abstract: 'Rhodes Group Tours, Rhodes Minibus Tours'
+  title: 'Bus Tours Rhodes, Group Tours in Rhodes'
+  http_desc: 'Bus Tours Rhodes, Group Tours in Rhodes, Mini Bus Tours'
+  description: 'Bus Tours Rhodes, Group Tours in Rhodes, Mini Bus Tours'
+  keywords: 'Bus Tours Rhodes, Group Tours in Rhodes, Mini Bus Tours'
+  abstract: 'Bus Tours Rhodes, Group Tours in Rhodes, Mini Bus Tours'
   author: 'Nick'
   copyright: 'NK for Rhodes Private Tours,2018'
 
 title: 'Rhodes Private Group Tours'
+subtitle: BUS TOURS IN RHODES
 
 head_photo:
   src: './img/tours-pages/head-photos/head-photo-group-tours.jpg'
