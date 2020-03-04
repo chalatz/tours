@@ -43,6 +43,10 @@
                 contain: true
             });
         })(jQuery);
+        $( window ).on( 'load', function() {
+            var $carousel = $('.reviews-comments__carousel');
+            $carousel.flickity('resize');
+        });
     </script>
 {% endif %}
 
