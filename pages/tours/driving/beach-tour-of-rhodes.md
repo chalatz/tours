@@ -175,8 +175,8 @@ not_included:
   - text: Entrance Fees, Food, Drinks, (Tips optional)
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
-    Tour Experiences. We deliver Private Beach Tours at very affordable rates. All
-    our tours are fully customizable to suit your travel needs, interests, schedules,
+    Tour Experiences. We deliver Private Fun Beach Tours at very affordable rates.
+    All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Beach Tours
 
