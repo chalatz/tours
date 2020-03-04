@@ -21,9 +21,9 @@ summary:
     it. Let us show you the most popular beaches of the East Coast of Rhodes. The
     highlight of the trip will be a visit to Lindos Village and Acropolis. You'll
     see spectacular views and crystal clear waters that will make you want to jump
-    right in. In fact, on our return journey you do can just that. Choose the beach
-    you like the most and we will stop there with plenty of time for you to swim before
-    the end of the tour.
+    right in and have fun. In fact, on our return journey you do can just that. Choose
+    the beach you like the most and we will stop there with plenty of time for you
+    to swim before the end of the tour.
 tour:
   title: '"Rhodes Beach Tour" DT7'
   summary: Faliraki Beach / Anthony Quinn Bay / Tsambika Beach / Charaki Beach / St
