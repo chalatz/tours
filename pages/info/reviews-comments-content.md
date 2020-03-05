@@ -16,15 +16,14 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2020"
-  text: "\nMichael was a fountain of information, sensitive to our needs and had a
-    nice sense of humor. We saw gorgeous views of Rhodes. We stopped at a traditional
-    restaurant popular with locals for a delicious lunch of Greek salad and other
-    Greek starter specialties. Very pleased with the tour.<br>\nGloria B.  (Jan 27th)
-    New York USA\n\nThanks Nicholas, Manuel was great and the tour was truly amazing.
-    We appreciate your help awesome service!  Have an amazing 2020! <br>\nThanks Christian,
-    \ (Jan 12th) Mexico \n\nThank you to Micheal for his expertise and the knowledge
-    you shared with us. Plus your humor which we greatly appreciated. We wish you
-    all a great New Year.  Kind regards Gregor and Vicky (Jan 3rd) Portugal "
+  text: |-
+    Michael was a fountain of information, sensitive to our needs and had a nice sense of humor. We saw gorgeous views of Rhodes. We stopped at a traditional restaurant popular with locals for a delicious lunch of Greek salad and other Greek starter specialties. Very pleased with the tour.<br>
+    **Gloria B.  (Jan 27th)** New York USA
+
+    Thanks Nicholas, Manuel was great and the tour was truly amazing. We appreciate your help awesome service!  Have an amazing 2020! <br>
+    Thanks **Christian,  (Jan 12th)** Mexico
+
+    Thank you to Micheal for his expertise and the knowledge you shared with us. Plus your humor which we greatly appreciated. We wish you all a great New Year.  Kind regards **Gregor and Vicky (Jan 3rd)** Portugal
 - year: "2019"
   text: "Nicholas, We had such a wonderful time in Rhodes and your company provided
     outstanding service! . Kostas and Manolis were amazing and especially helpful.
