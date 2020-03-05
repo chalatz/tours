@@ -53,5 +53,9 @@ fields:
   - type: textarea
     name: text
     label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 pages:
 - pages/info/reviews-comments-content.md
