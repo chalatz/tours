@@ -60,27 +60,27 @@ $comments = $_POST['comments'];
 
 function passed(){
 
-    // if(isset($_POST['meli_tria'])){
-    //     $meli_tria_passed = false;
-    // } else {
-    //     $meli_tria_passed = true;
-    // }
-    // if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed){
-    //     return true;
-    // } else {
-    //     return false;
-    // }
-
     if(isset($_POST['meli_tria'])){
         $meli_tria_passed = false;
     } else {
         $meli_tria_passed = true;
     }
-    if ($_POST['meli_dio'] == '' && $meli_tria_passed){
+    if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed){
         return true;
     } else {
         return false;
     }
+
+    // if(isset($_POST['meli_tria'])){
+    //     $meli_tria_passed = false;
+    // } else {
+    //     $meli_tria_passed = true;
+    // }
+    // if ($_POST['meli_dio'] == '' && $meli_tria_passed){
+    //     return true;
+    // } else {
+    //     return false;
+    // }
 
 }
 
@@ -151,7 +151,7 @@ function passed_recaptcha(){
 }
 
 
-if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
+if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
     // Email has sent successfully, echo a success page.
 
     header('Location: ' . $return_to . '?contact-form-sent=success');
