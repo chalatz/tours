@@ -7,13 +7,14 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: 'RHODES BEACH TOUR, Private Beach Tours in Rhodes '
-  description: 'RHODES BEACH TOUR, Private Beach Tours in Rhodes '
-  keywords: 'RHODES BEACH TOUR, Private Beach Tours in Rhodes  '
+  title: 'Rhodes Beach Tour, Private Beach Tours in Rhodes '
+  description: 'RHODES BEACH TOUR, Beach Tour of Rhodes, Private Beach Tours in Rhodes '
+  keywords: 'RHODES BEACH TOUR, Beach Tour of Rhodes, Private Beach Tours in Rhodes  '
   author: Nick
   copyright: NK for Rhodes Private Tours,2018
-  abstract: 'RHODES BEACH TOUR, Private Beach Tours in Rhodes '
-  http_desc: 'RHODES BEACH TOUR, Private Beach Tours in Rhodes, Rhodes Private Tours '
+  abstract: 'RHODES BEACH TOUR, Beach Tours of Rhodes, Private Beach Tours in Rhodes '
+  http_desc: 'RHODES BEACH TOUR, Beach Tour of Rhodes, Private Beach Tours in Rhodes,
+    Rhodes Private Tours '
 title: Beach Tour of Rhodes DT7
 summary:
   paragraphs:
