@@ -12,6 +12,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: 'MALTA - VALLETTA SHORE EXCURSIONS '
-subtitles: []
+subtitles:
+- Amy Pace
 
 ---
