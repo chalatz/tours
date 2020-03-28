@@ -2651,14 +2651,6 @@ reviews:
     Anna Reeves and fellow travellers. (Nov 30th)<br>
     acreeves@shaw.ca
 
-    ESTIMADO NICOLAS:<br>
-    YA MAS TRANQUILOS DESPUES DE UN VIAJE ESTUPENDO!!<br>
-    LES QUEREMOS DAR LAS GRACIAS POR UN TOUR TAN INFORMATIVO Y AGRADABLE EN EL POCO TIEMPO QUE ESTUVIMOS; MUY RECOMENDABLE TU AGENCIA, EL GUIA ESTUPENDO, Y BUENO....RODHAS Y LINDOS SON UN SUEÑO DE LUGAR AL QUE NOS QUEDAMOS CON MUCHISIMAS GANAS DE REGRESAR, ESPERO EL AÑO QUE ENTRA PODER LLEVAR A MIS HIJOS Y YA TE RECOMENDE CON MI HERMANA Y SU FAMILIA.<br>
-    ESPERO PODER VOLVER A VERNOS EN UN FUTURO CERCANO<br>
-    GRACIAS!<br>
-    SUS AMIGOS DE MEXICO EDGAR CHAHIN, ADRIANA PERDOMO, ALEX THIESSEN Y CELIA DUARTE (29 Nov)<br>
-    aperdel1@hotmail.com
-
     Hello to both of you! Nicholas and Christ. We had a fantastic time on your lovely island of Rhodes and really liked the drive out to Lindos.<br>
     The best part was the lunch at the seaside restaurant and the excellent company and companionship of Christ!<br>
     He had many stories to tell and really made us feel like he was a friend. If any of you do come to Singapore let us know and we will try to give you a 4hour tour of the island of Singapore plus a chilli crab lunch!!! I will be reviewing on tripadvisor soon! Keep up the great work guys!<br>
