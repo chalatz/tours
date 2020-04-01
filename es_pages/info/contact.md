@@ -6,6 +6,7 @@ ref: contact_page
 permalink: reservas_online_enlinea_rodas.htm
 has_form: true
 has_gallery: true
+recaptcha: true
 meta:
   title: 'Rhodes Private Tours, Rhodes Shore Excursions, Rhodes Taxi Tours '
   http_desc: 'Rhodes Private Tours, Rhodes Shore Excursions, Rhodes Taxi Tours '
