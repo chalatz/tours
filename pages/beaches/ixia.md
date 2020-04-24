@@ -12,9 +12,7 @@ meta:
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-
 title: IXIA BEACH RHODES GREECE
-
 info:
   - label: Location
     text: 4km (2,48 miles) from Rhodes Town on the wind-swept Northern Coast of Rhodes
