@@ -21,7 +21,7 @@ title: MEDITERRANEAN PORTS SHORE EXCURSIONS
 subtitles: []
 
 ---
-### Have Fun at the Sea and On Land by Going on Mediterranean Shore Excursion Tours
+### Have Fun at the Sea and on Land by Going on Mediterranean Shore Excursion Tours
 
 If you go on shore during a cruise trip, these are called shore excursions, and you can take them at the ports your ship docks in during the cruise. The service is offered by the cruise lines, and many independent tour operators because of how popular they are.
 
