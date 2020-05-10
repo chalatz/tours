@@ -79,14 +79,36 @@ function passed(){
     // }
 }
 
-if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n"))
-{
-    // Email has sent successfully, echo a success page.
+function validated() {
+    if(isset($_POST['first_name']) && $_POST['first_name'] == ''){
+        return false;
+    }
+    if(isset($_POST['city_state_zip']) && $_POST['city_state_zip'] == ''){
+        return false;
+    }
+    if(isset($_POST['e_mail']) && $_POST['e_mail'] == ''){
+        return false;
+    }
+    if(isset($_POST['comments']) && $_POST['comments'] == ''){
+        return false;
+    }
 
-    header('Location: ' . $return_to . '?contact-form-sent=success');
-
-} else {
-    header('Location: '. $return_to . '?contact-form-sent=fail');
+    return true;
 }
+
+if(validated()) {
+    if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n"))
+    {
+        // Email has sent successfully, echo a success page.
+    
+        header('Location: ' . $return_to . '?contact-form-sent=success');
+    
+    } else {
+        header('Location: '. $return_to . '?contact-form-sent=fail');
+    }
+} else {
+    header('Location: '. $return_to . '?contact-form-sent=validation-error');
+}
+
 
 ?>

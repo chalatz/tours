@@ -376,6 +376,26 @@
             });
         }
         
+        if (form_status === 'validation-error') {
+            var msg_div = $('#msg'),
+                msg_close = $('#msg-close'),
+                msg_content = 
+                    '<span id="msg-close"><i class="fas fa-window-close msg__close"></i></span>' + 
+                    '<h1 class="msg__title">Missing field(s)</h1>' +
+                    '<p class="centered">Please try to fill all the fields before submitting.</p>' + 
+                    '<p class="centered">If the problem persists, please try to contact us directly at <a href="mailto:request@RhodesPrivateTours.com">request@RhodesPrivateTours.com</p>';
+            
+            msg_div.addClass('msg--fail')
+
+            msg_div.html(msg_content);
+
+            msg_div.show();
+                                    
+            $(msg_div).on('click', '#msg-close', function(e){
+                $(msg_div).fadeOut(300);
+            });
+        }
+        
     };
 
     var handle_privacy_modal = function(){
