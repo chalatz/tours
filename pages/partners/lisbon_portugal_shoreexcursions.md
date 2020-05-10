@@ -21,3 +21,7 @@ Portugal Premium Tours is specialized in tailor-made tours around Portugal. Our 
 Every program is developed by our team of travel experts proving our clients an exceptional service. Our attention to detail and high level of service ensures our happy clients come back to us year after year.
 
 Our vehicles with a high level of quality and comfort provide you a safe and comfortable tour. Our tours are escorted by very experienced expert guides, all of whom work with us full time. With excellent English, permission to skip lines and expertise that came from real-life experience and on-the-ground knowledge, they are the key to accessing hidden gems and experiencing the true authenticity of our culture. Our guides are non-smoking.
+
+**WEBSITE:**  [https://www.premiumtours.pt/en/](https://www.premiumtours.pt/en/ "https://www.premiumtours.pt/en/")
+
+**TRIPADVISOR:**  [https://www.tripadvisor.com.gr/Attraction_Review-g189158-d2225731-Reviews-Portugal_Premium_Tours-Lisbon_Lisbon_District_Central_Portugal.html](https://www.tripadvisor.com.gr/Attraction_Review-g189158-d2225731-Reviews-Portugal_Premium_Tours-Lisbon_Lisbon_District_Central_Portugal.html "https://www.tripadvisor.com.gr/Attraction_Review-g189158-d2225731-Reviews-Portugal_Premium_Tours-Lisbon_Lisbon_District_Central_Portugal.html")
