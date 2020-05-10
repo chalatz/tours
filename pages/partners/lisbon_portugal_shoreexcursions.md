@@ -4,15 +4,12 @@ permalink: lisbon_portugal_shoreexcursions.htm
 has_gallery: false
 id: partner_lisbon_portugal_shoreexcursions
 meta:
-  title: Portugal Lisbon Private Tours, Portugal Lisbon Private shore excursions,
-    Portugal Lisbon Private day trips guides drivers, Portugal Lisbon driver guide
-  http_desc: Portugal Lisbon Private Tours, Portugal Lisbon Private shore excursions,
-    Portugal Lisbon Private day trips guides drivers, Portugal Lisbon driver guide
-  keywords: Portugal,Lisbon,Private Tours,Portugal,Lisbon,Private,day trips,drivers,guides,Portugal,Lisbon,Private
-    shore excursions,driver,guide
-  description: Portugal Lisbon Private Tours, Portugal Lisbon Private shore excursions,
-    Portugal Lisbon Private day trips guides drivers, Portugal Lisbon driver guide
-  abstract: Rhodes private tours and shore excursions
+  title: 'Portugal Lisbon Shore Excursions '
+  http_desc: 'Portugal Lisbon Shore Excursions, Portugal Lisbon Private Tours '
+  keywords: 'Portugal Lisbon Shore Excursions, Portugal Lisbon Private Tours '
+  description: Portugal Lisbon Shore Excursions, Portugal Lisbon Private Tours, Portugal
+    Lisbon Private Guides Drivers
+  abstract: 'Portugal Lisbon Shore Excursions '
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 title: LISBON PORTUGAL SHORE EXCURSIONS
