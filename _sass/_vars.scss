@@ -14,9 +14,9 @@ $darkerlightgray: darken(#fff, 10%);
 $lightergray: lighten($lightgray, 2%);
 
 $red: #fa320a;
-$darkred: darken($red, 20%);
-$lightred: lighten($red, 10%); 
-$lighterred: lighten($red, 15%);
+$darkred: darken($red, 20%); // #9b1c03
+$lightred: lighten($red, 10%); // #fb5c3c 
+$lighterred: lighten($red, 15%); // #fc7155
 
 $green: #4CAF50;
 $lightgreen: #8BC34A;

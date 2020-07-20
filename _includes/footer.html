@@ -106,6 +106,24 @@
             <img class="site-footer__logo-image" src="./img/rhodes_private_tours_logo-small-white.png" alt="Rhodes private tours Greece. Rhodes Island private tours Greece, Best of Rhodes half day tour, Standard full day tour, East Coast day tour, Rhodes Jewish Tours, Rhodes Wine tours, Rhodes Kids Tours">
         </div>
 
+        {%- if page.has_emergency == true -%}
+            <div class="container">
+                <a href="./covid-19-rhodes-greece.htm" class="emergency">
+                    <h3 class="emergency__title">
+                        COVID-19&nbsp;&nbsp;RHODES GREECE - HEALTH AND SAFETY MEASURES
+                    </h3>
+                    <div class="emergency__content">
+                        <p>
+                            At “Rhodes Private Tours” we will always put health and safety first.
+                        </p>
+                        <p class="mobile-only mobile-only--block emergency__cta">
+                            Read Details
+                        </p>
+                    </div>
+                </a>
+            </div>
+        {%- endif -%}
+
         <p class="site-footer__copyright">
             {%- include helpers/check_empty_string.html the_string = page.end_page.short_text -%}
             {%- if page.end_page.short_text and string_not_empty == true -%}
