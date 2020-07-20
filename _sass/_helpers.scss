@@ -112,6 +112,21 @@
     }
 }
 
+.small-tablet-only {
+    &--inline {
+        display: inline;
+    }
+    &--block {
+        display: block;
+    }
+    &--inline-block {
+        display: inline-block;
+    }
+    @include breakpoint(medium) {
+        display: none;
+    }
+}
+
 .tablet-only {
     &--inline {
         display: inline;
