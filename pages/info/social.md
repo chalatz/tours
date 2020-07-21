@@ -3,7 +3,6 @@ layout: pages/social
 permalink: facebook_day_tours.htm
 has_gallery: false
 id: social_page
-has_emergency: true
 meta:
   title: Rhodes Tours Greece on Facebook, Rhodes Private Tours Greece on Facebook, Rhodes Private Day Tours Greece on Facebook
   http_desc: Rhodes Tours Greece on Facebook, Rhodes Private Tours Greece on Facebook, Rhodes Private Day Tours Greece on Facebook
