@@ -102,7 +102,7 @@ $e_subject = 'New request from ' . $e_mail . '.';
 
 $msg = "Details:\r\n\n";
 
-$msg .= "From: <b>$from_page</b>\r\n";
+$msg .= "From: $from_page\r\n";
 if($type_of_tour != ''){
     $msg .= "Type of Tour: $type_of_tour\r\n";
 }

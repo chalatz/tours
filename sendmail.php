@@ -60,27 +60,27 @@ $comments = $_POST['comments'];
 
 function passed(){
 
-    if(isset($_POST['meli_tria'])){
-        $meli_tria_passed = false;
-    } else {
-        $meli_tria_passed = true;
-    }
-    if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed){
-        return true;
-    } else {
-        return false;
-    }
-
     // if(isset($_POST['meli_tria'])){
     //     $meli_tria_passed = false;
     // } else {
     //     $meli_tria_passed = true;
     // }
-    // if ($_POST['meli_dio'] == '' && $meli_tria_passed){
+    // if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed){
     //     return true;
     // } else {
     //     return false;
     // }
+
+    if(isset($_POST['meli_tria'])){
+        $meli_tria_passed = false;
+    } else {
+        $meli_tria_passed = true;
+    }
+    if ($_POST['meli_dio'] == '' && $meli_tria_passed){
+        return true;
+    } else {
+        return false;
+    }
 
 }
 
@@ -102,7 +102,7 @@ $e_subject = 'New request from ' . $e_mail . '.';
 
 $msg = "Details:\r\n\n";
 
-$msg .= "From: <b>$from_page</b>\r\n";
+$msg .= "From: $from_page\r\n";
 if($type_of_tour != ''){
     $msg .= "Type of Tour: $type_of_tour\r\n";
 }
@@ -128,7 +128,27 @@ $msg .= "Time Zone: $timeZone\r\n";
 
 $headers = "Content-Type: text/html; charset=UTF-8";
 
-if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
+function passed_recaptcha(){
+
+    if (passed()) {
+        $url = 'https://www.google.com/recaptcha/api/siteverify';
+
+        $key = include '_recaptcha_key.php';
+
+        $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
+    
+        $data = json_decode($response);
+    
+        if(isset($data->success) && $data->success == true){
+            return true;
+        } else {
+            return false;
+        }
+    
+    }
+}
+
+if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
     // Email has sent successfully, echo a success page.
 
     header('Location: ' . $return_to . '?contact-form-sent=success');

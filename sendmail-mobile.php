@@ -40,7 +40,7 @@ $e_subject = 'New request from ' . $e_mail . '.';
 $msg = "Details:\r\n\n";
 
 $msg .= "-- Mobile Form --\r\n";
-$msg .= "From: <b>$from_page</b>\r\n";
+$msg .= "From: $from_page\r\n";
 $msg .= "Page URL: $page_url\r\n";
 $msg .= "Name: $first_name\r\n";
 $msg .= "City/State/Country: $city_state_zip\r\n";
@@ -56,27 +56,27 @@ $msg .= "Zip Code: $zipCode\r\n";
 $msg .= "Time Zone: $timeZone\r\n";
 
 function passed(){
-    if(isset($_POST['meli_tria'])){
-        $meli_tria_passed = false;
-    } else {
-        $meli_tria_passed = true;
-    }
-    if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed){
-        return true;
-    } else {
-        return false;
-    }
-
     // if(isset($_POST['meli_tria'])){
     //     $meli_tria_passed = false;
     // } else {
     //     $meli_tria_passed = true;
     // }
-    // if ($_POST['meli_dio'] == '' && $meli_tria_passed){
+    // if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed){
     //     return true;
     // } else {
     //     return false;
     // }
+
+    if(isset($_POST['meli_tria'])){
+        $meli_tria_passed = false;
+    } else {
+        $meli_tria_passed = true;
+    }
+    if ($_POST['meli_dio'] == '' && $meli_tria_passed){
+        return true;
+    } else {
+        return false;
+    }
 }
 
 function validated() {
@@ -96,8 +96,28 @@ function validated() {
     return true;
 }
 
+function passed_recaptcha(){
+
+    if (passed()) {
+        $url = 'https://www.google.com/recaptcha/api/siteverify';
+
+        $key = include '_recaptcha_key.php';
+
+        $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
+    
+        $data = json_decode($response);
+    
+        if(isset($data->success) && $data->success == true){
+            return true;
+        } else {
+            return false;
+        }
+    
+    }
+}
+
 if(validated()) {
-    if(passed() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n"))
+    if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n"))
     {
         // Email has sent successfully, echo a success page.
     
