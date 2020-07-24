@@ -180,6 +180,10 @@ You'll be driven to Kallithea Spa (Springs) which lies on the East Coast of the 
 
 The next stop on the tour of the island is the Anthony Quinn Bay. It takes its name from the Golden Age Hollywood star who owns a significant property here, ever since the filming of the "Guns of Navarone" in Rhodes Island - scenic (Stop Visit Photos)
 
+**RHODIAN TRADITIONAL ART**
+
+On the way you can choose an optional short stop at a pottery workshop where the traditional pottery of Rhodes is made. You can see the wonderful pieces of art, and watch the potter working at his wheel. You can even learn the mystery of the Pythagorean cup. Just let your tour/driver know that you wish to make this short stop.
+
 **SEVEN SPRINGS**
 
 The Seven Springs lie to the southeast. The valley is dotted with clear springs and humongous plane and pine trees. The place presents itself as an oasis, especially in the heat of high summer. Surrounded by the bridges, streams, flowers, ducks and peacocks, the visitor can't help but be calm and relaxed. (Stop Visit Photos)
@@ -188,7 +192,7 @@ The Seven Springs lie to the southeast. The valley is dotted with clear springs 
 
 Up next is the Valley of the Butterflies**.** The walk down the valley is easier since you are dropped at the upper gate. You can witness the splendor of hundreds of congregating butterflies during the final stages of their life cycle; which takes place starting from mid-June to mid-September. This rare, natural phenomenon includes butterflies camouflaging themselves against the trees. As you walk through the valley, the wooden bridges and natural paths will be your guide. (Stop Visit Photos)
 
-**FILERIMOS MOUNTAIN** 
+**FILERIMOS MOUNTAIN**
 
 From there the coastal road of **Kremasti and Ialysos** will take us along the west coast until we reach the Filerimos Mountain
 
