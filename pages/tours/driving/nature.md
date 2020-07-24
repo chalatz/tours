@@ -31,6 +31,7 @@ tour:
   duration: Half Day
 overview:
   items:
+  - title: An optional short stop - Rhodian Pottery Art
   - title: The East Coast of the Island
   - title: The Kallithea Spa - Natural Landscape
   - title: The Anthony Quinn Bay - Scenic
