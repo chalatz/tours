@@ -36,7 +36,7 @@ gallery:
   captions_style: italic
   items:
   - image:
-      thumb: "./img/trip_advisor/trip-advisor-2020.png"
+      thumb: "./img/trip_advisor/trip-advisor-2020-medium.png"
       alt: 'Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor Greece'
       is_link: true
     url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html

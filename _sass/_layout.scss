@@ -119,7 +119,9 @@ body {
     }
 }
 
-.cols-6 {
+.cols-,
+.cols-7,
+.cols-8 {
     text-align: center;
     @include clearfix;
 }
@@ -132,6 +134,24 @@ body {
         width: 16.6%;
         padding: 0 .5rem;
         &:nth-child(6n + 1) {
+            clear: left;
+        }
+    }
+    img {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.col-of-7 {
+    text-align: center;
+    display: inline-block;
+    width: 33.3%;
+    @include breakpoint(medium) {
+        width: 14.1%;
+        padding: 0 .5rem;
+        &:nth-child(7n + 1) {
             clear: left;
         }
     }
