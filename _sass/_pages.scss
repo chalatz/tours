@@ -8,6 +8,12 @@
 
         .page__gallery-item-img {
             max-width: 116px;
+            padding: .1rem;
+            border: 2px solid transparent;
+            transition: border-color .2s linear;
+            &:hover {
+                border-color: $red;
+            }
         }
 
         .col-of-5 {
