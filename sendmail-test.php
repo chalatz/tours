@@ -4,11 +4,6 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-// include 'class.IPInfoDB.php';
-
-// $ipinfodb = new IPInfoDB('043542783908f8d1b64ecfbd312ee672570dabad52c780a3c52ad643c6a29f7b');
-// $results = $ipinfodb->getCity($_SERVER['REMOTE_ADDR']);
-
 $return_to = '';
 $from_page = '';
 $first_name = '';

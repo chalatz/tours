@@ -10,7 +10,9 @@ if ($debug) {
 
 include 'class.IPInfoDB.php';
 
-$ipinfodb = new IPInfoDB('043542783908f8d1b64ecfbd312ee672570dabad52c780a3c52ad643c6a29f7b');
+$infodb_api_key = include '_infodb_key.php';
+
+$ipinfodb = new IPInfoDB('$infodb_api_key');
 $results = $ipinfodb->getCity($_SERVER['REMOTE_ADDR']);
 
 $return_to = '';
@@ -22,9 +24,7 @@ $city_state_zip = '';
 $phone_fax = '';
 $e_mail = '';
 $date11_month = '';
-$date11_month = '';
 $date11_date = '';
-$date11_year = '';
 $date11_year = '';
 $ship_flight_num = '';
 $type_of_tour = '';
@@ -48,9 +48,7 @@ $city_state_zip = $_POST['city_state_zip'];
 $phone_fax = $_POST['phone_fax'];
 $e_mail = $_POST['e_mail'];
 $date11_month = $_POST['date11_month'];
-$date11_month = $_POST['date11_month'];
 $date11_date = $_POST['date11_date'];
-$date11_year = $_POST['date11_year'];
 $date11_year = $_POST['date11_year'];
 $ship_flight_num = $_POST['ship_flight_num'];
 $type_of_tour = $_POST['type_of_tour'];
@@ -149,7 +147,6 @@ function passed_recaptcha(){
     
     }
 }
-
 
 if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
     // Email has sent successfully, echo a success page.

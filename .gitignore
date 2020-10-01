@@ -4,3 +4,4 @@ _site
 node_modules
 dist
 _recaptcha_key.php
+_infodb_key.php
