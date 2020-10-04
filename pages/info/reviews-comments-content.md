@@ -17,7 +17,7 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2020"
   text: |-
-    Hi Nicholas, You and Michael are the best. Rhodes/Rodos was a complete surprise with its beauty and history. We hope one day to return and spend more time. I wish you and Michael continued success with your tour company. It has to be the best in Rhodes.  **Lucinda W. (Oct 4th) Statesville**
+    Hi Nicholas, You and Michael are the best. Rhodes/Rodos was a complete surprise with its beauty and history. We hope one day to return and spend more time. I wish you and Michael continued success with your tour company. It has to be the best in Rhodes.<br>**Lucinda W. (Oct 4th) Statesville**
 
     Dear Nicholas, Thanks a lot for the lovely tour. Myself and children enjoyed it so much. Please pass my greetings to Michael he was a very good company. Looking forward to touring with you again on my next time I visit Rhodes.<br> Kind Regards, **Deena. (5th Aug) Dubai (AE)**
 
