@@ -19,6 +19,8 @@ reviews:
   text: |-
     Hi Nicholas, You and Michael are the best. Rhodes/Rodos was a complete surprise with its beauty and history. We hope one day to return and spend more time. I wish you and Michael continued success with your tour company. It has to be the best in Rhodes.<br>**Lucinda W. (Oct 4th) Statesville**
 
+    Dear Nicholas, The tours were great fun. My fiancée and I had a great time. I’m sure to use your services next time we’re in Rhodes.<br>Yours Sincerely, **Gaj N. (19th Sept) U.K.**
+
     Dear Nicholas, Thanks a lot for the lovely tour. Myself and children enjoyed it so much. Please pass my greetings to Michael he was a very good company. Looking forward to touring with you again on my next time I visit Rhodes.<br> Kind Regards, **Deena. (5th Aug) Dubai (AE)**
 
     Dear all, You are a very Professional company! My respect goes to you and the owner. Your company is an example for many other companies. Right now, I won't be traveling but as soon this is over, I will be visiting and will 100% use your company which has shown professionalism on another level. Keep up with this Tremendously Customer Service and stay safe during this difficult time to come. <br> Kind regards, **Samantha Al. (April 8th) Aruba**
