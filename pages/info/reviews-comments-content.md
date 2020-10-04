@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2020"
   text: |-
+    Dear Nicholas, Thanks a lot for the lovely tour. Myself and children enjoyed it so much. Please pass my greetings to Michael he was a very good company. Looking forward to touring with you again on my next time I visit Rhodes.<br> Kind Regards, **Deena. (5th August) Dubai (AE)**
+
     Dear all, You are a very Professional company! My respect goes to you and the owner. Your company is an example for many other companies. Right now, I won't be traveling but as soon this is over, I will be visiting and will 100% use your company which has shown professionalism on another level. Keep up with this Tremendously Customer Service and stay safe during this difficult time to come. <br> Kind regards, **Samantha Al. (April 8th) Aruba**
 
     Michael was a fountain of information, sensitive to our needs and had a nice sense of humor. We saw gorgeous views of Rhodes. We stopped at a traditional restaurant popular with locals for a delicious lunch of Greek salad and other Greek starter specialties. Very pleased with the tour.<br>
