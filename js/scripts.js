@@ -385,7 +385,7 @@
                     '<p class="centered">Please try to fill all the fields before submitting.</p>' + 
                     '<p class="centered">If the problem persists, please try to contact us directly at <a href="mailto:request@RhodesPrivateTours.com">request@RhodesPrivateTours.com</p>';
             
-            msg_div.addClass('msg--fail')
+            msg_div.addClass('msg--fail');
 
             msg_div.html(msg_content);
 
