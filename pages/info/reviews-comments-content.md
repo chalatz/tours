@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2020"
   text: |-
+    Hello! Nicholas, It was a wonderful experience and I shall be writing a fabulous trip advisor. So thank you so much, I hope it will help to make your next season even better! <br> **Nicole and Spencer D. (15th Oct) U.K.**
+
     We contacted Nicholas, and were delighted to find that he was happy to arrange some bespoke tours. Our driver, Michael, was very friendly, helpful and flexible and more than happy to modify our itineraries on the day. The car was clean inside and out and Michael proved to be a very able driver with whom we felt very comfortable throughout. We would thoroughly recommend Rhodes Private Tours. <br>**Gerald, S & R (12th Oct) London U.K.**
 
     Hi Nicholas, You and Michael are the best. Rhodes/Rodos was a complete surprise with its beauty and history. We hope one day to return and spend more time. I wish you and Michael continued success with your tour company. It has to be the best in Rhodes.<br>**Lucinda W. (Oct 4th) Statesville**
