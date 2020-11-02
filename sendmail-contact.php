@@ -12,7 +12,7 @@ include 'class.IPInfoDB.php';
 
 $infodb_api_key = include '_infodb_key.php';
 
-$ipinfodb = new IPInfoDB('$infodb_api_key');
+$ipinfodb = new IPInfoDB($infodb_api_key);
 $results = $ipinfodb->getCity($_SERVER['REMOTE_ADDR']);
 
 $return_to = '';
