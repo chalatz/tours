@@ -14,8 +14,14 @@
         </span>
     </header>
 
+    {%- if page.layout == 'home' -%}
+        {%- assign the_action = 'sendmail-mobile-nocaptcha.php' -%}
+    {%- else -%}
+        {%- assign the_action = 'sendmail-mobile.php' -%}
+    {%- endif -%}
+
     <div class="pop-form__body">
-        <form name="sendmail" class="pop-form__form" method="POST" action="sendmail-mobile-nocaptcha.php">
+        <form name="sendmail" class="pop-form__form" method="POST" action="{{- the_action -}}">
 
             {%- if page.layout == 'home' -%}
                 {%- assign from_page = 'Home Page' -%}
@@ -56,7 +62,9 @@
 
             {%- if page.layout == 'home' -%}
                 <div class="pop-form__group">
-                    <label class="pop-form__label pop-form__label--inline-mobile" for="apot">{{ site.data.apots[page.id] }} = </label>
+                    <label class="pop-form__label pop-form__label--inline-mobile" for="apot">
+                        <strong>{{ site.data.apots[page.id] }} = </strong>
+                    </label>
                     <input class="pop-form__input pop-form__input--text pop-form__input--inline-mobile" type="text" name="apot" required>
                 </div>
             {%- endif -%}

@@ -75,6 +75,10 @@
     &__label {
         display: block;
         margin-bottom: 0.3rem;
+        &--inline-mobile {
+            display: inline-block;
+            vertical-align: text-top;
+        }
     }
 
     &__input {
@@ -87,6 +91,10 @@
         transition: all .2s linear;
         &:focus {
             box-shadow: 0 0 5px $darkblue;
+        }
+        &--inline-mobile {
+            display: inline-block;
+            width: 3rem;
         }
     }
 

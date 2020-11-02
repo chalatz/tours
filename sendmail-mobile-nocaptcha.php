@@ -1,8 +1,12 @@
 <?php
 
-// ini_set('display_errors', 1);
-// ini_set('display_startup_errors', 1);
-// error_reporting(E_ALL);
+$debug = false;
+
+if($debug){
+    ini_set('display_errors', 1);
+    ini_set('display_startup_errors', 1);
+    error_reporting(E_ALL);
+}
 
 include 'class.IPInfoDB.php';
 
@@ -37,7 +41,7 @@ $page_url = $_POST['page_url'];
 $first_name = $_POST['first_name'];
 $e_mail = $_POST['e_mail'];
 $comments = $_POST['comments'];
-$apot = $_POST['apot'];
+$apot = trim($_POST['apot']);
 
 $the_apot = $apots[$the_page];
 
@@ -63,16 +67,6 @@ $msg .= "Zip Code: $zipCode\r\n";
 $msg .= "Time Zone: $timeZone\r\n";
 
 function passed(){
-    // if(isset($_POST['meli_tria'])){
-    //     $meli_tria_passed = false;
-    // } else {
-    //     $meli_tria_passed = true;
-    // }
-    // if ($_POST['meli_ena'] == '' && $_POST['meli_dio'] == '' && $meli_tria_passed){
-    //     return true;
-    // } else {
-    //     return false;
-    // }
 
     if(isset($_POST['meli_tria'])){
         $meli_tria_passed = false;
@@ -103,59 +97,63 @@ function validated() {
     return true;
 }
 
-function passed_recaptcha(){
+function passed_nocaptcha($apot, $the_apot){
 
-    if (passed()) {
-        // $url = 'https://www.google.com/recaptcha/api/siteverify';
-
-        // $key = include '_recaptcha_key.php';
-
-        // $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
-
-        // $data = json_decode($response);
-
-        // if(isset($data->success) && $data->success == true){
-        //     return true;
-        // } else {
-        //     return false;
-        // }
-
+    if (passed()) {        
         if ($apot == $the_apot) {
             return true;
         } else {
             return false;
         }
-
     }
 }
 
-// if(validated()) {
-//     if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n"))
-//     {
-//         // Email has sent successfully, echo a success page.
+if($debug){
+    if(validated()) {
+        if(passed_nocaptcha($apot, $the_apot))
+        {
+            // Email has sent successfully, echo a success page.
+    
+            header('Location: ' . $return_to . '?contact-form-sent=success');
+    
+        } else {
+            header('Location: '. $return_to . '?contact-form-sent=fail');
+        }
+    } else {
+        header('Location: '. $return_to . '?contact-form-sent=validation-error');
+    }
+} else {
+    if(validated()) {
+        if(passed_nocaptcha($apot, $the_apot) && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n"))
+        {
+            // Email has sent successfully, echo a success page.
+    
+            header('Location: ' . $return_to . '?contact-form-sent=success');
+    
+        } else {
+            header('Location: '. $return_to . '?contact-form-sent=fail');
+        }
+    } else {
+        header('Location: '. $return_to . '?contact-form-sent=validation-error');
+    }
 
-//         header('Location: ' . $return_to . '?contact-form-sent=success');
+}
 
-//     } else {
-//         header('Location: '. $return_to . '?contact-form-sent=fail');
+
+// if($debug) {
+//     if(validated()) {
+//         if(passed_nocaptcha($apot, $the_apot))
+//         {
+//             var_dump($_POST);
+//             echo '<br>';
+//             echo '<br>';
+//             var_dump($msg);
+//             echo '<br>';
+//             echo '<br>';
+//             var_dump($the_apot);
+//             die();
+//         }
 //     }
-// } else {
-//     header('Location: '. $return_to . '?contact-form-sent=validation-error');
 // }
-
-if(validated()) {
-    if(passed_recaptcha())
-    {
-        var_dump($_POST);
-        echo '<br>';
-        echo '<br>';
-        var_dump($msg);
-        echo '<br>';
-        echo '<br>';
-        var_dump($the_apot);
-        die();
-    }
-}
-
 
 ?>

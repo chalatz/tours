@@ -3,3 +3,5 @@
 i18n: true
 
 keep_files: ["img"]
+
+include: ["_infodb_key.php", "_recaptcha_key.php", "_apots.php"]
