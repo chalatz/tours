@@ -1,7 +1,7 @@
 ---
 layout: pages/rick-steves
 type: plain_page
-id: rick-steves_page
+id: rick_steves_page
 permalink: rick_steves.htm
 has_form: false
 has_gallery: false

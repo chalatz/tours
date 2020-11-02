@@ -21,7 +21,6 @@
       {%- include footer.html -%}
     {%- endif -%}
 
-
     {% unless page.has_form == true %}
       {% include pop-form.html %}
     {% endunless %}
@@ -32,13 +31,9 @@
 
     {% include scripts.html %}
 
-    {%- unless page.layout == 'home' -%}
+    {%- unless page.has_form == true -%}
       <script defer src="https://www.google.com/recaptcha/api.js?hl=en"></script>
     {%- endunless -%}
-
-    {%- comment -%} {%- unless jekyll.environment == 'development' -%}
-      {%- include partials/analytics.html -%}
-    {%- endunless -%} {%- endcomment -%}
 
   </body>
 

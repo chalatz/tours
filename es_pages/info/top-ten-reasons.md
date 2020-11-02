@@ -1,8 +1,8 @@
 ---
 layout: es/pages/ten-reasons
 type: plain_page
-id: top-ten-reasons_page
-ref: top-ten-reasons_page
+id: top_ten_reasons_page
+ref: top_ten_reasons_page
 permalink: razones-para-reservar-con-nosotros.htm
 has_form: false
 has_gallery: false

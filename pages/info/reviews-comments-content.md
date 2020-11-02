@@ -1,7 +1,7 @@
 ---
 layout: empty
 sitemap: false
-id: reviews-comments-content
+id: reviews_comments_content
 meta:
   title: Reviews, Rhodes Private Tours
   http_desc: Reviews, Rhodes Private Tours, Testimonials

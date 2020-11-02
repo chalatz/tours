@@ -2,7 +2,7 @@
 layout: partner-page
 permalink: mediterranean-ports-shore-excursions.htm
 has_gallery: false
-id: partner_mediterranean-ports-shore-excursions
+id: partner_mediterranean_ports_shore_excursions
 meta:
   title: Mediterranean Ports Shore Excursions, Mediterranean Shore Excursions
   http_desc: Mediterranean Ports Shore Excursions, Cruise Excursions on Your Own for

@@ -58,4 +58,4 @@ fields:
       schema:
         format: markdown
 pages:
-- pages/info/reviews-comments-content.md
+- pages/info/reviews_comments_content.md

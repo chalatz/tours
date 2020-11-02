@@ -1,7 +1,7 @@
 ---
 layout: pages/ten-reasons
 type: plain_page
-id: ten-reasons_page
+id: ten_reasons_page
 permalink: book.htm
 has_form: false
 has_gallery: false

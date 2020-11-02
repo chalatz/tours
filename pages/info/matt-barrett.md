@@ -1,7 +1,7 @@
 ---
 layout: pages/matt-barrett
 type: plain_page
-id: matt-barrett_page
+id: matt_barrett_page
 permalink: greece_travel_guide.htm
 has_form: false
 has_gallery: true

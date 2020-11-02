@@ -2,7 +2,7 @@
 layout: plain-page
 ---
 {%- for page in site.pages -%}
-    {%- if page.id == 'reviews-comments-content' -%}
+    {%- if page.id == 'reviews_comments_content' -%}
         {%- assign reviews_page = page -%}
         {% break %}
     {%- endif -%}
@@ -13,12 +13,12 @@ layout: plain-page
   <div class="page__headings">
   
     <span class="anchor-section" id="reviews-top"></span>
-    <h1 class="page__title page__title--plain-page page__title--reviews-comments_page">
+    <h1 class="page__title page__title--plain-page page__title--reviews_comments_page">
       {{- reviews_page.title | upcase -}}
     </h1>
 
     {%- if reviews_page.subtitle -%}
-      <p class="page__subtitle page__subtitle--plain-page page__subtitle--reviews-comments_page">
+      <p class="page__subtitle page__subtitle--plain-page page__subtitle--reviews_comments_page">
         {{- reviews_page.subtitle -}}
       </p>
     {%- endif -%}
@@ -30,7 +30,7 @@ layout: plain-page
   </section>
 
   {%- if reviews_page.subtitle2 -%}
-    <p class="page__subtitle page__subtitle--plain-page page__subtitle--reviews-comments_page centered mt-2 mb-2">
+    <p class="page__subtitle page__subtitle--plain-page page__subtitle--reviews_comments_page centered mt-2 mb-2">
       {{- reviews_page.subtitle2 -}}
     </p>
   {%- endif -%}

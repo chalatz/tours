@@ -1,8 +1,8 @@
 ---
 layout: pages/ten-reasons
 type: plain_page
-id: top-ten-reasons_page
-ref: top-ten-reasons_page
+id: top_ten_reasons_page
+ref: top_ten_reasons_page
 permalink: top_10_reasons_to_book_with_us.htm
 has_form: false
 has_gallery: false

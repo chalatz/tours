@@ -1,6 +1,6 @@
 <?php
 
-$debug = false;
+$debug = true;
 
 if($debug){
     ini_set('display_errors', 1);
@@ -43,7 +43,11 @@ $e_mail = $_POST['e_mail'];
 $comments = $_POST['comments'];
 $apot = trim($_POST['apot']);
 
-$the_apot = $apots[$the_page];
+if (array_key_exists($the_page, $apots)) {
+    $the_apot = $apots[$the_page];
+} else {
+    $the_apot = 5;
+}
 
 $address = "request@rhodesprivatetours.com";
 
@@ -108,7 +112,7 @@ function passed_nocaptcha($apot, $the_apot){
     }
 }
 
-if($debug){
+if($debug == true){
     if(validated()) {
         if(passed_nocaptcha($apot, $the_apot))
         {

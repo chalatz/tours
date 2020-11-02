@@ -7,9 +7,9 @@
         <meta name="robots" content="noindex,nofollow">
     {%- endif -%}
     <meta name="format-detection" content="telephone=no">
-    {%- if page.id == 'reviews-comments_page' -%}
+    {%- if page.id == 'reviews_comments_page' -%}
         {%- for a_page in site.pages -%}
-            {%- if a_page.id == 'reviews-comments-content' -%}
+            {%- if a_page.id == 'reviews_comments_content' -%}
                 {%- assign reviews_page = a_page -%}
                 {% break %}
             {%- endif -%}
