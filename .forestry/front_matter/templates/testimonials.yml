@@ -57,5 +57,3 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
-pages:
-- pages/info/reviews_comments_content.md
