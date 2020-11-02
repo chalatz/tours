@@ -1,8 +1,8 @@
 <?php
 
-$debug = true;
+$debug = false;
 
-if($debug){
+if($debug == true){
     ini_set('display_errors', 1);
     ini_set('display_startup_errors', 1);
     error_reporting(E_ALL);
@@ -43,7 +43,7 @@ $e_mail = $_POST['e_mail'];
 $comments = $_POST['comments'];
 $apot = trim($_POST['apot']);
 
-if (array_key_exists($the_page, $apots)) {
+if(array_key_exists($the_page, $apots)) {
     $the_apot = $apots[$the_page];
 } else {
     $the_apot = 5;
@@ -142,7 +142,6 @@ if($debug == true){
     }
 
 }
-
 
 // if($debug) {
 //     if(validated()) {
