@@ -1,8 +1,8 @@
 <?php
 
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+// ini_set('display_errors', 1);
+// ini_set('display_startup_errors', 1);
+// error_reporting(E_ALL);
 
 include 'class.IPInfoDB.php';
 
@@ -11,12 +11,16 @@ $infodb_api_key = include '_infodb_key.php';
 $ipinfodb = new IPInfoDB($infodb_api_key);
 $results = $ipinfodb->getCity($_SERVER['REMOTE_ADDR']);
 
+$apots = include '_apots.php';
+
 $return_to = '';
 $from_page = '';
 $page_url = '';
 $first_name = '';
 $e_mail = '';
 $comments = '';
+$the_page = '';
+$apot = '';
 
 $ipAddress = $results['ipAddress'];
 $countryCode = $results['countryCode'];
@@ -27,11 +31,15 @@ $zipCode = $results['zipCode'];
 $timeZone = $results['timeZone'];
 
 $return_to = $_POST['return_to'];
+$the_page = $_POST['the_page'];
 $from_page = $_POST['from_page'];
 $page_url = $_POST['page_url'];
 $first_name = $_POST['first_name'];
 $e_mail = $_POST['e_mail'];
 $comments = $_POST['comments'];
+$apot = $_POST['apot'];
+
+$the_apot = $apots[$the_page];
 
 $address = "request@rhodesprivatetours.com";
 
@@ -88,6 +96,9 @@ function validated() {
     if(isset($_POST['comments']) && $_POST['comments'] == ''){
         return false;
     }
+    if(isset($_POST['apot']) && $_POST['apot'] == ''){
+        return false;
+    }
 
     return true;
 }
@@ -95,15 +106,21 @@ function validated() {
 function passed_recaptcha(){
 
     if (passed()) {
-        $url = 'https://www.google.com/recaptcha/api/siteverify';
+        // $url = 'https://www.google.com/recaptcha/api/siteverify';
 
-        $key = include '_recaptcha_key.php';
+        // $key = include '_recaptcha_key.php';
 
-        $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
+        // $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
 
-        $data = json_decode($response);
+        // $data = json_decode($response);
 
-        if(isset($data->success) && $data->success == true){
+        // if(isset($data->success) && $data->success == true){
+        //     return true;
+        // } else {
+        //     return false;
+        // }
+
+        if ($apot == $the_apot) {
             return true;
         } else {
             return false;
@@ -112,18 +129,32 @@ function passed_recaptcha(){
     }
 }
 
+// if(validated()) {
+//     if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n"))
+//     {
+//         // Email has sent successfully, echo a success page.
+
+//         header('Location: ' . $return_to . '?contact-form-sent=success');
+
+//     } else {
+//         header('Location: '. $return_to . '?contact-form-sent=fail');
+//     }
+// } else {
+//     header('Location: '. $return_to . '?contact-form-sent=validation-error');
+// }
+
 if(validated()) {
-    if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n"))
+    if(passed_recaptcha())
     {
-        // Email has sent successfully, echo a success page.
-
-        header('Location: ' . $return_to . '?contact-form-sent=success');
-
-    } else {
-        header('Location: '. $return_to . '?contact-form-sent=fail');
+        var_dump($_POST);
+        echo '<br>';
+        echo '<br>';
+        var_dump($msg);
+        echo '<br>';
+        echo '<br>';
+        var_dump($the_apot);
+        die();
     }
-} else {
-    header('Location: '. $return_to . '?contact-form-sent=validation-error');
 }
 
 

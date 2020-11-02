@@ -32,7 +32,9 @@
 
     {% include scripts.html %}
 
-    <script defer src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+    {%- unless page.layout == 'home' -%}
+      <script defer src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+    {%- endunless -%}
 
     {%- comment -%} {%- unless jekyll.environment == 'development' -%}
       {%- include partials/analytics.html -%}

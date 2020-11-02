@@ -12,7 +12,7 @@ include 'class.IPInfoDB.php';
 
 $infodb_api_key = include '_infodb_key.php';
 
-$ipinfodb = new IPInfoDB('$infodb_api_key');
+$ipinfodb = new IPInfoDB($infodb_api_key);
 $results = $ipinfodb->getCity($_SERVER['REMOTE_ADDR']);
 
 $return_to = '';
@@ -138,15 +138,15 @@ function passed_recaptcha(){
         $key = include '_recaptcha_key.php';
 
         $response = file_get_contents($url."?secret=".$key."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
-    
+
         $data = json_decode($response);
-    
+
         if(isset($data->success) && $data->success == true){
             return true;
         } else {
             return false;
         }
-    
+
     }
 }
 
