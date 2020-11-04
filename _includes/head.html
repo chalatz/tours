@@ -64,4 +64,11 @@
         <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
     {%- endif -%}
 
+    {%- if page.has_faq == true -%}
+        {%- include partials/faq_schema.html items=page.items -%}
+    {%- endif -%}
+    {%- if page.has_tour_faq == true -%}
+        {%- include partials/faq_schema.html items=page.faq.items -%}
+    {%- endif -%}
+
 </head>

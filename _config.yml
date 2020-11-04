@@ -43,6 +43,26 @@ defaults:
       type: "pages"
     values:
       lang: es
+  - scope:
+      path: "pages/tours/driving"
+      type: "pages"
+    values:
+      has_tour_faq: true
+  - scope:
+      path: "pages/tours/guided"
+      type: "pages"
+    values:
+      has_tour_faq: true
+  - scope:
+      path: "pages/tours/walking"
+      type: "pages"
+    values:
+      has_tour_faq: true
+  - scope:
+      path: "es_pages/tours"
+      type: "pages"
+    values:
+      has_tour_faq: true
 
 # Build settings
 markdown: kramdown

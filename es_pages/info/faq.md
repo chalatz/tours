@@ -7,6 +7,7 @@ permalink: quever_quehacer_enrodas_grecia.htm
 banners_below: true
 has_form: false
 has_gallery: false
+has_faq: true
 meta:
   title: Que ver y que hacer en Rodas Grecia, Cosas para hacer en Rodas Grecia, Qué
     ver y qué hacer en Grecia

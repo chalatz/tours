@@ -7,6 +7,7 @@ permalink: faq.htm
 banners_below: true
 has_form: false
 has_gallery: false
+has_faq: true
 meta:
   title: Rhodes Private Tours and Shore Excursions Greece
   http_desc: Rhodes Private Tours and Shore Excursions Greece
