@@ -50,19 +50,16 @@
 
     {%- include favicon.html -%}
 
-    {%- if page.layout == 'home' -%}
+    <link rel="stylesheet" href="{{ '/css/styles.css' relative_url }}">
+
+    {%- comment -%} {%- if page.layout == 'home' -%}
         <style>
             {%- include css/critical.css -%}
         </style>
-        <!--build:css css/styles.min.css-->
         <link rel="stylesheet" href="./css/styles.css" media="print" onload="this.media='all'">
-        <!--endbuild-->
     {%- else -%}
-        <!--build:css css/styles.min.css-->
         <link rel="stylesheet" href="./css/styles.css">
-        <!--endbuild-->
-    {%- endif -%}
-
+    {%- endif -%} {%- endcomment -%}
 
     <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
