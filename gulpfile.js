@@ -36,10 +36,10 @@ gulp.task('useref', function(){
     .pipe(gulp.dest('dist'))
 });
 
-gulp.task('fonts', function(){
-    return gulp.src('_site/font/**/*')
-    .pipe(gulp.dest('dist/font'))
-});
+// gulp.task('fonts', function(){
+//     return gulp.src('_site/font/**/*')
+//     .pipe(gulp.dest('dist/font'))
+// });
 
 gulp.task('php', function(){
     return gulp.src('_site/*.php')
@@ -48,7 +48,7 @@ gulp.task('php', function(){
 
 gulp.task('build', function (callback) {
     runSequence('clean:dist', 
-        ['useref', 'images', 'root_files', 'fonts', 'php'],
+        ['useref', 'images', 'root_files', 'php'],
         callback
     )
 });
