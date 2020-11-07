@@ -21,9 +21,9 @@
       {%- include footer.html -%}
     {%- endif -%}
 
-    {% unless page.has_form == true %}
+    {%- unless page.layout == 'home' or page.has_form == true -%}
       {% include pop-form.html %}
-    {% endunless %}
+    {%- endunless -%}
 
     <a class="go-top" id="scrollBtn" href="#home">
         <i class="fas fa-angle-up"></i>
