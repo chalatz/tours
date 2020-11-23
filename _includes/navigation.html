@@ -8,12 +8,13 @@
         </span>
     </header>
 
-    <ul id="site-menu__items" class="site-menu__items" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+    <ul id="site-menu__items" class="site-menu__items" itemscope itemtype="http://www.schema.org/SiteNavigationElement" role="menu">
         <div class="container site-menu__items-container">
             {%- for item in site.data.navigation.main[page.lang].items -%}
                 {%- assign subitems_size = item.subitems | size -%}
-                <li itemprop="name" class="site-menu__item {% if page.type == item.type %}site-menu__item--active{% endif %}{% if subitems_size > 0 %} site-menu__item--with-subitems{% endif %}">
-                    <a itemprop="url" class="site-menu__link" href="{{- item.url | absolute_url -}}">{{- item.title | upcase -}}
+                <li role="menuitem" class="site-menu__item {% if page.type == item.type %}site-menu__item--active{% endif %}{% if subitems_size > 0 %} site-menu__item--with-subitems{% endif %}">
+                    <a itemprop="url" class="site-menu__link" href="{{- item.url | absolute_url -}}" title="{{- item.title | downcase | capitalize -}}">
+                        <span itemprop="name">{{- item.title | upcase -}}</span>
                         {%- if subitems_size > 0 -%}
                             <i class="fas fa-angle-down site-menu__angle-icon tablet-only tablet-only--inline-block"></i>
                         {%- endif -%}
@@ -21,15 +22,17 @@
                     {%- if subitems_size > 0 -%}
                         <ul class="site-menu__subitems">
                             {%- for subitem in item.subitems -%}
-                                <li class="site-menu__subitem {% if subitem.classes.li %} {{ subitem.classes.li }}{% endif %}">
-                                    <a class="site-menu__link site-menu__sublink" href="{{- subitem.url -}}">{{- subitem.title | upcase -}}</a>
+                                <li class="site-menu__subitem {% if subitem.classes.li %} {{ subitem.classes.li }}{% endif %}" role="menuitem">
+                                    <a itemprop="url" class="site-menu__link site-menu__sublink" href="{{- subitem.url -}}" title="{{- subitem.title | downcase | capitalize -}}">
+                                        <span itemprop="name">{{- subitem.title | upcase -}}</span>
+                                    </a>
                                 </li>
                             {%- endfor -%}
                         </ul>
                     {%- endif -%}
                 </li>
             {%- endfor -%}
-        </div>            
+        </div>
     </ul>
-    
+
 </nav>
