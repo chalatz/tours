@@ -13,7 +13,7 @@
             {%- for item in site.data.navigation.main[page.lang].items -%}
                 {%- assign subitems_size = item.subitems | size -%}
                 <li role="menuitem" class="site-menu__item {% if page.type == item.type %}site-menu__item--active{% endif %}{% if subitems_size > 0 %} site-menu__item--with-subitems{% endif %}">
-                    <a itemprop="url" class="site-menu__link" href="{{- item.url | absolute_url -}}" title="{{- item.title | downcase | capitalize -}}">
+                    <a itemprop="url" class="site-menu__link" href="{{- item.url | absolute_url -}}">
                         <span itemprop="name">{{- item.title | upcase -}}</span>
                         {%- if subitems_size > 0 -%}
                             <i class="fas fa-angle-down site-menu__angle-icon tablet-only tablet-only--inline-block"></i>
@@ -23,7 +23,7 @@
                         <ul class="site-menu__subitems">
                             {%- for subitem in item.subitems -%}
                                 <li class="site-menu__subitem {% if subitem.classes.li %} {{ subitem.classes.li }}{% endif %}" role="menuitem">
-                                    <a itemprop="url" class="site-menu__link site-menu__sublink" href="{{- subitem.url -}}" title="{{- subitem.title | downcase | capitalize -}}">
+                                    <a itemprop="url" class="site-menu__link site-menu__sublink" href="{{- subitem.url -}}">
                                         <span itemprop="name">{{- subitem.title | upcase -}}</span>
                                     </a>
                                 </li>
