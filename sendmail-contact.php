@@ -8,12 +8,7 @@ if ($debug) {
     error_reporting(E_ALL);
 }
 
-include 'class.IPInfoDB.php';
-
-$infodb_api_key = include '_infodb_key.php';
-
-$ipinfodb = new IPInfoDB($infodb_api_key);
-$results = $ipinfodb->getCity($_SERVER['REMOTE_ADDR']);
+include_once 'geo.php';
 
 $return_to = '';
 $from_page = '';
@@ -31,13 +26,12 @@ $type_of_tour = '';
 $speaking_language = '';
 $party_num = '';
 $comments = '';
-$ipAddress = $results['ipAddress'];
-$countryCode = $results['countryCode'];
-$countryName = $results['countryName'];
-$regionName = $results['regionName'];
-$cityName = $results['cityName'];
-$zipCode = $results['zipCode'];
-$timeZone = $results['timeZone'];
+$ipAddress = $api_result['ip'];
+$countryCode = $api_result['country_code'];
+$countryName = $api_result['country_name'];
+$regionName = $api_result['region_name'];
+$cityName = $api_result['city'];
+$zipCode = $api_result['zip'];
 
 $return_to = $_POST['return_to'];
 $from_page = $_POST['from_page'];
@@ -82,18 +76,6 @@ function passed(){
 
 }
 
-if ($debug) {
-    echo "<pre>";
-    print_r($_POST);
-    echo "</pre>";
-    if (passed()) {
-        echo 'passed!';
-    } else {
-        echo 'failed!';
-    }
-    die();
-}
-
 $address = "request@rhodesprivatetours.com";
 
 $e_subject = 'New request from ' . $e_mail . '.';
@@ -122,7 +104,19 @@ $msg .= "Country Name: $countryName\r\n";
 $msg .= "Region Name: $regionName\r\n";
 $msg .= "City Name: $cityName\r\n";
 $msg .= "Zip Code: $zipCode\r\n";
-$msg .= "Time Zone: $timeZone\r\n";
+
+if ($debug) {
+    echo "<pre>";
+    print_r($_POST);
+    echo "</pre>";
+    if (passed()) {
+        echo 'passed!<br>';
+    } else {
+        echo 'failed!<br>';
+    }
+    print_r($msg);
+    die();
+}
 
 $headers = "Content-Type: text/html; charset=UTF-8";
 

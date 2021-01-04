@@ -1,15 +1,14 @@
 <?php
 
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+$debug = false;
 
-include 'class.IPInfoDB.php';
+if ($debug) {
+    ini_set('display_errors', 1);
+    ini_set('display_startup_errors', 1);
+    error_reporting(E_ALL);
+}
 
-$infodb_api_key = include '_infodb_key.php';
-
-$ipinfodb = new IPInfoDB($infodb_api_key);
-$results = $ipinfodb->getCity($_SERVER['REMOTE_ADDR']);
+include_once 'geo.php';
 
 $return_to = '';
 $from_page = '';
@@ -18,13 +17,12 @@ $first_name = '';
 $e_mail = '';
 $comments = '';
 
-$ipAddress = $results['ipAddress'];
-$countryCode = $results['countryCode'];
-$countryName = $results['countryName'];
-$regionName = $results['regionName'];
-$cityName = $results['cityName'];
-$zipCode = $results['zipCode'];
-$timeZone = $results['timeZone'];
+$ipAddress = $api_result['ip'];
+$countryCode = $api_result['country_code'];
+$countryName = $api_result['country_name'];
+$regionName = $api_result['region_name'];
+$cityName = $api_result['city'];
+$zipCode = $api_result['zip'];
 
 $return_to = $_POST['return_to'];
 $from_page = $_POST['from_page'];
@@ -52,7 +50,6 @@ $msg .= "Country Name: $countryName\r\n";
 $msg .= "Region Name: $regionName\r\n";
 $msg .= "City Name: $cityName\r\n";
 $msg .= "Zip Code: $zipCode\r\n";
-$msg .= "Time Zone: $timeZone\r\n";
 
 function passed(){
     // if(isset($_POST['meli_tria'])){
@@ -76,6 +73,19 @@ function passed(){
     } else {
         return false;
     }
+}
+
+if ($debug) {
+    echo "<pre>";
+    print_r($_POST);
+    echo "</pre>";
+    if (passed()) {
+        echo 'passed!<br>';
+    } else {
+        echo 'failed!<br>';
+    }
+    print_r($msg);
+    die();
 }
 
 function validated() {
