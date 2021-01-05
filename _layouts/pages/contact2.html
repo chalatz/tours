@@ -1,0 +1,90 @@
+---
+layout: default
+---
+
+ <main class="container page page--general page--contact-us">
+
+  {%- if page.title or page.subtitle -%}
+    <div class="page__headings">
+    
+      {%- if page.title -%}
+        <h1 class="page__title page__title--{{ page.id }}">
+          {{- page.title | upcase -}}
+        </h1>  
+      {%- endif -%}
+
+      {%- if page.subtitle -%}
+      <h2 class="page__subtitle">
+        {{- page.subtitle | upcase -}}
+      </h2>
+    {%- endif -%}
+
+    {%- if page.desc -%}
+      <h3 class="page__desc">
+        {{- page.desc -}}
+      </h3>
+    {%- endif -%}
+
+    </div>
+  {%- endif -%}
+
+  <section class="page__content contact-page">
+
+    <div class="page__section">
+      {%- include partials/contact-form-2.html from_page = 'Contact Page' return_to = page.url -%}
+    </div>
+
+    <div class="page__section contact-page__content cols cols-{{ page.info.items_per_row }}">
+      {%- for col in page.info.columns -%}
+        <div class="col col-of-{{ page.info.items_per_row }} col-{{ forloop.index }}-of-{{ page.info.items_per_row }}">
+          {{ col | markdownify }}
+        </div>
+      {%- endfor -%}
+    </div>
+
+  </section>
+
+  {%- if page.links -%}
+    <div class="centered container tours-page__suggestions">
+        {%- for data_link in site.data.tour_types -%}
+            <div class="tours-page__suggestion">
+
+            {%- for page_link in page.links -%}
+              {%- if data_link.id == page_link -%}
+                <a class="private-tours-suggestions__link private-tours-suggestions__link--tours-page {{ data_link.classes }}" href="{{- data_link.url -}}">
+                  {{- data_link.text -}}
+                </a>
+              {%- endif -%}
+            {%- endfor -%}
+                
+            </div>
+        {%- endfor -%}
+    </div>
+  {%- endif -%}
+
+  
+</main>
+
+{%- include privacy-policy.html -%}
+
+<div class="tours-page__banners border-top-gray">
+  {% include home/recommendations-1.html %}
+</div>
+
+{% include home/sites.html %}
+
+<section id="cta-home" class="home-section cta-home">
+    <div class="container">
+        <p class="cta-home__item">
+            Not finding what you are looking for?
+        </p>
+        <p class="cta-home__item">
+            No problem, we can create and customize a personalized itinerary for you.  Tell us about your Tour!
+        </p>
+        <a href="{{- site.data.langs[page.lang] .contact_page.url -}}" class="cta-home__button">
+            CONTACT US
+        </a>
+    </div>
+</section>
+
+{% include home/recommendations-2-alt.html %}
