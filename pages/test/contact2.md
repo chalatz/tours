@@ -1,8 +1,8 @@
 ---
 layout: pages/contact2
 type: contact_page
-id: contact_page
-ref: contact_page
+id: contact_page_2
+ref: contact_page_2
 permalink: contact_us_2.htm
 has_form: true
 has_gallery: true
