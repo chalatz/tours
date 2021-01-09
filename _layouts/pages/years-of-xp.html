@@ -2,12 +2,42 @@
 layout: plain-page
 ---
 
+{%- assign current_year = site.time | date: '%Y' -%}
+{%- assign the_years = current_year | minus: 1984 -%}
+
+{% case the_years %}
+  {% when 36 %}
+    {%- assign years_of_xp = 'Thirty Six' -%}
+  {% when 37 %}
+    {%- assign years_of_xp = 'Thirty Seven' -%}
+  {% when 38 %}
+    {%- assign years_of_xp = 'Thirty Eight' -%}
+  {% when 39 %}
+    {%- assign years_of_xp = 'Thirty Nine' -%}
+  {% when 40 %}
+    {%- assign years_of_xp = 'Forty' -%}
+  {% when 41 %}
+    {%- assign years_of_xp = 'Forty One' -%}
+  {% when 42 %}
+    {%- assign years_of_xp = 'Forty Two' -%}
+  {% when 43 %}
+    {%- assign years_of_xp = 'Forty Three' -%}
+  {% when 44 %}
+    {%- assign years_of_xp = 'Forty Four' -%}
+  {% when 45 %}
+    {%- assign years_of_xp = 'Forty Five' -%}
+  {% when 46 %}
+    {%- assign years_of_xp = 'Forty Six' -%}
+{% endcase %}
+
+{%- capture page_title -%}{{ years_of_xp }} Years of Excellence 1984 - {{ current_year }}{%- endcapture -%}
+
 <main class="container page years-of-xp">
 
   <div class="page__headings">
   
     <h1 class="page__title page__title--plain-page page__title--years-of-xp_page">
-      {{- page.title -}}
+      {{- page_title -}}
     </h1>
 
     {%- if page.subtitle -%}
