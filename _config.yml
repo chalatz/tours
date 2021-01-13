@@ -63,6 +63,11 @@ defaults:
       type: "pages"
     values:
       has_tour_faq: true
+  - scope:
+      path: "pages/test"
+      type: "pages"
+    values:
+      sitemap: false    
 
 # Build settings
 markdown: kramdown
