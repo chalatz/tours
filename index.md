@@ -6,7 +6,7 @@ permalink: index.htm
 has_form: false
 has_gallery: false
 trip_advisor_alt: true
-has_emergency: true
+has_emergency: false
 lang: en
 ref: home
 meta:

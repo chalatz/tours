@@ -15,7 +15,7 @@ meta:
   copyright: NK for Rhodes Private Tours,2018
 title: COVID-19 RHODES GREECE - HEALTH AND SAFETY MEASURES
 subtitle: At “Rhodes Private Tours” we will always put health and safety first.
-
+published: false
 ---
 With the COVID-19 outbreak, it has become essential to take consistent, careful, and deliberate actions to ensure a safer touring environment for all. We expect all our drivers, guides and travelers to act responsibly to protect the health and safety of themselves and their companions.
 
@@ -33,7 +33,7 @@ With the COVID-19 outbreak, it has become essential to take consistent, careful,
 
 6) Passengers must maintain a distance of 1.5 - 2 meters from one another in the waiting areas of Tour Buses (when boarding a bus) or at the gates of archaeological sites and museums.
 
-7) We are aware of and respect local health and safety regulations and advisories. 
+7) We are aware of and respect local health and safety regulations and advisories.
 
 ### WE DELIVER TOURS AS SMOOTHLY, SAFELY, AND ENJOYABLY, AS POSSIBLE:
 
@@ -57,7 +57,7 @@ Only the driver plus five passengers (or the driver + the tour guide + four pass
 
 **MINIBUSES** with up to 21 seats:
 
-Only the driver + the tour guide + eleven passengers. 
+Only the driver + the tour guide + eleven passengers.
 
 **TOUR BUSES**
 
