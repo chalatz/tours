@@ -34,7 +34,7 @@
         transition: all .2s linear;
         &:focus {
             box-shadow: 0 0 5px $darkblue;
-        
+
         }
         &--select {
             padding: .3rem .6rem;
@@ -62,6 +62,10 @@
         cursor: pointer;
         transition: all .2s linear;
         &:hover {
+            background-color: $lighterred;
+        }
+        &--sending {
+            pointer-events: none;
             background-color: $lighterred;
         }
     }

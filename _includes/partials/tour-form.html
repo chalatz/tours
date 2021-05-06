@@ -24,7 +24,7 @@
         {%- endunless -%}
 
         <div id="form" class="form">
-    
+
             <div class="form__body">
                 <form name="sendmail" class="form__form" method="POST" action="sendmail.php">
 
@@ -33,21 +33,21 @@
                     {%- assign from_page = page.tour.title | upcase | remove: '"' | remove: "'" -%}
 
                     <input type="hidden" name="from_page" value="{{ from_page }}">
-                    
+
                     <input type="hidden" name="type_of_tour" value="{{ type_of_tour }}">
 
                     <input type="hidden" name="return_to" value="{{ page.url | remove: '/' }}">
-    
+
                     <div class="form__group">
                         <label class="form__label" for="first_name">First <span class="mobile-only mobile-only--inline">and Last</span> Name:</label>
                         <input class="form__input form__input--text" type="text" name="first_name" required>
-                    </div>                    
-                    
+                    </div>
+
                     <div class="form__group desktop-only desktop-only--block">
                         <label class="form__label" for="last_name">Last Name:</label>
                         <input class="form__input form__input--text" type="text" name="last_name">
                     </div>
-                    
+
                     <div class="form__group desktop-only desktop-only--block">
                         <label class="form__label" for="reservation_name">Services to be reserved in the name(s):</label>
                         <input class="form__input form__input--text" type="text" name="reservation_name">
@@ -62,7 +62,7 @@
                         <label class="form__label" for="phone_fax">Phone/Fax:</label>
                         <input class="form__input form__input--text" type="text" name="phone_fax">
                     </div>
-    
+
                     <div class="form__group">
                         <label class="form__label" for="e_mail">E-mail:</label>
                         <input class="form__input form__input--text" type="email" name="e_mail" required>
@@ -184,7 +184,7 @@
                         <label class="form__label" for="party_num">Number in party:</label>
                         <input class="form__input form__input--text w-10-rem" type="text" name="party_num">
                     </div>
-    
+
                     <div class="form__group">
                         <label class="form__label" for="comments">Comments: <span class="mobile-only mobile-only--inline">Please include:<br>"Tour Start Location" and "Tour Date"</span></label>
                         <textarea class="form__input form__input--textarea" name="comments" cols="30" rows="3"></textarea>
@@ -200,19 +200,29 @@
 
                     <div class="g-recaptcha" data-sitekey="6LeQ2dQUAAAAAG80PiWCNyNl7UXpxTt_U9D-zGc9"></div>
                     <br/>
-    
-                    <button type="submit" class="form__submit">
-                        Send
-                    </button>
+
+                    {%- if page.has_loader == true -%}
+                        <button type="submit" class="form__submit" id="form__submit">
+                            Send
+                        </button>
+                        {%- comment -%} <button type="submit" class="form__submit form__submit--sending" id="form__submit">
+                            <i class="fas fa-circle-notch fa-spin"></i> Sending email...
+                        </button> {%- endcomment -%}
+                    {%- else -%}
+                        <button type="submit" class="form__submit">
+                            Send
+                        </button>
+                    {%- endif -%}
+
 
                     {%- comment -%} <p class="centered text-normal">
                         <strong>Contact E-mail Address:</strong> <img class="email-img" src="./img/email.png" alt="">
                     </p> {%- endcomment -%}
-    
+
                 </form>
-                
+
             </div>
-            
+
         </div>
 
         <p class="text-normal">
