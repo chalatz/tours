@@ -3,9 +3,9 @@
     var site_menu = $('#site-menu'),
         site_menu_items = $('#site-menu__items'),
         menu_top_offset = site_menu.position().top;
-        
+
     site_menu_height = site_menu.height();
-    
+
     // Toggles the sliding of the mobilemenu
     var handle_menu = function() {
 
@@ -24,9 +24,9 @@
         var parent_item = $('.site-menu__item--with-subitems');
 
         if(window.innerWidth < 1024){
-            
+
             parent_item.on('click', function(e){
-                e.preventDefault();                
+                e.preventDefault();
                 var $this = $(this),
                     submenu = $this.find('.site-menu__subitems'),
                     angle_icon = $this.find('.site-menu__angle-icon');
@@ -34,9 +34,9 @@
                 $this.children().on('click', function(e){
                     e.stopPropagation();
                 });
-                
+
                 angle_icon.toggleClass('fa-angle-down fa-angle-up');
-                
+
                 submenu.slideToggle();
             });
         } else {
@@ -45,13 +45,13 @@
                     submenu = $this.find('.site-menu__subitems'),
                     angle_icon = $this.find('.site-menu__angle-icon'),
                     the_link = $this.find('.site-menu__link site-menu__sublink');
-    
+
                 angle_icon.toggleClass('fa-angle-down fa-angle-up');
-    
+
                 submenu.slideToggle();
             });
         }
-        
+
     };
 
     // window.onscroll = function() {sticky_header()};
@@ -111,7 +111,7 @@
             event.preventDefault();
         });
     };
-    
+
     // Sticky menu
     var stick_it = function(el, top_offset, el_height){
 
@@ -129,7 +129,7 @@
             el.removeClass('sticky');
             if(window_width >= 768){
                 el.css('width', '100%');
-            }            
+            }
             el.next().css('padding-top', 'initial');
         }
 
@@ -223,7 +223,7 @@
                 opacity: 0,
                 left: '-=' + button_width
             }, 500);
-            pop_form.show().animate({                
+            pop_form.show().animate({
                 opacity: 1,
                 bottom: 0
             });
@@ -254,7 +254,7 @@
               $(".go-top").removeClass("show");
             }
           });
-  
+
           $('#scrollBtn').click(function(event){
             $('body,html').animate({
                 scrollTop: 0
@@ -273,11 +273,11 @@
                 content = $this.siblings('.collapsible'),
                 icon = $this.find('.tour__read-more-arrow-icon'),
                 text = $this.find('.text');
-            
+
             content.slideToggle(500);
 
             $this.toggleClass('content-shown');
-                
+
             icon.toggleClass('fa-angle-up fa-angle-down');
 
             if($this.hasClass('content-shown')){
@@ -285,13 +285,13 @@
             } else {
                 text.text('Read');
             }
-                
+
         });
 
     }
 
     var handle_faq = function(){
-        
+
         var que = $('.faq__q'),
             ans = $('.faq__a'),
             is_large = false;
@@ -342,15 +342,15 @@
         if (form_status === 'success') {
             var msg_div = $('#msg'),
                 msg_close = $('#msg-close'),
-                msg_content = 
-                    '<span id="msg-close"><i class="fas fa-window-close msg__close"></i></span>' + 
+                msg_content =
+                    '<span id="msg-close"><i class="fas fa-window-close msg__close"></i></span>' +
                     '<h1 class="msg__title">Email Sent!</h1>' +
                     '<p>Thank you for the interest that you\'ve shown in our services. Your request was sent successfully and will be processed soon.</p>';
 
             msg_div.html(msg_content);
 
             msg_div.show();
-                                    
+
             $(msg_div).on('click', '#msg-close', function(e){
                 $(msg_div).fadeOut(300);
             });
@@ -359,43 +359,53 @@
         if (form_status === 'fail') {
             var msg_div = $('#msg'),
                 msg_close = $('#msg-close'),
-                msg_content = 
-                    '<span id="msg-close"><i class="fas fa-window-close msg__close"></i></span>' + 
+                msg_content =
+                    '<span id="msg-close"><i class="fas fa-window-close msg__close"></i></span>' +
                     '<h1 class="msg__title">Something went wrong</h1>' +
-                    '<p class="centered">Please try to fill the form again.</p>' + 
+                    '<p class="centered">Please try to fill the form again.</p>' +
                     '<p class="centered">If the problem persists, please try to contact us directly at <a href="mailto:request@RhodesPrivateTours.com">request@RhodesPrivateTours.com</p>';
-            
+
             msg_div.addClass('msg--fail')
 
             msg_div.html(msg_content);
 
             msg_div.show();
-                                    
+
             $(msg_div).on('click', '#msg-close', function(e){
                 $(msg_div).fadeOut(300);
             });
         }
-        
+
         if (form_status === 'validation-error') {
             var msg_div = $('#msg'),
                 msg_close = $('#msg-close'),
-                msg_content = 
-                    '<span id="msg-close"><i class="fas fa-window-close msg__close"></i></span>' + 
+                msg_content =
+                    '<span id="msg-close"><i class="fas fa-window-close msg__close"></i></span>' +
                     '<h1 class="msg__title">Missing field(s)</h1>' +
-                    '<p class="centered">Please try to fill all the fields before submitting.</p>' + 
+                    '<p class="centered">Please try to fill all the fields before submitting.</p>' +
                     '<p class="centered">If the problem persists, please try to contact us directly at <a href="mailto:request@RhodesPrivateTours.com">request@RhodesPrivateTours.com</p>';
-            
+
             msg_div.addClass('msg--fail');
 
             msg_div.html(msg_content);
 
             msg_div.show();
-                                    
+
             $(msg_div).on('click', '#msg-close', function(e){
                 $(msg_div).fadeOut(300);
             });
         }
-        
+
+    };
+
+    var handle_form_loader = function(){
+        $('#contact-form').on('submit', function(){
+            console.log('submitted!');
+            var the_btn = $('#form__submit');
+            the_btn
+                .html('<i class="fas fa-circle-notch fa-spin"></i> Sending email...')
+                .addClass('form__submit--sending');
+        });
     };
 
     var handle_privacy_modal = function(){
@@ -403,10 +413,10 @@
         // Hide modal on ESC key
         var the_modal = $('#privacy-terms');
 
-        // $(document).on('keydown', function(e){            
+        // $(document).on('keydown', function(e){
         //     if(the_modal.is(':visible') && e.keyCode == 27){
         //         $.fancybox.close();
-        //     }            
+        //     }
         // });
 
         // Hide menu if a click takes place outside of menu area
@@ -433,7 +443,7 @@
     handle_menu();
 
     handle_submenu();
-    
+
     handle_langs_selector();
 
     handle_pop_form();
@@ -443,6 +453,8 @@
     slide_tour_content();
 
     handle_contact_form_post();
+
+    handle_form_loader();
 
     handle_privacy_modal();
 

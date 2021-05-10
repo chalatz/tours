@@ -201,19 +201,9 @@
                     <div class="g-recaptcha" data-sitekey="6LeQ2dQUAAAAAG80PiWCNyNl7UXpxTt_U9D-zGc9"></div>
                     <br/>
 
-                    {%- if page.has_loader == true -%}
-                        <button type="submit" class="form__submit" id="form__submit">
-                            Send
-                        </button>
-                        {%- comment -%} <button type="submit" class="form__submit form__submit--sending" id="form__submit">
-                            <i class="fas fa-circle-notch fa-spin"></i> Sending email...
-                        </button> {%- endcomment -%}
-                    {%- else -%}
-                        <button type="submit" class="form__submit">
-                            Send
-                        </button>
-                    {%- endif -%}
-
+                    <button type="submit" class="form__submit" id="form__submit">
+                        Send
+                    </button>
 
                     {%- comment -%} <p class="centered text-normal">
                         <strong>Contact E-mail Address:</strong> <img class="email-img" src="./img/email.png" alt="">

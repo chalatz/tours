@@ -1,7 +1,7 @@
 <div id="form" class="form">
 
     <div class="form__body">
-        <form method="POST" name="sendmail" class="form__form" action="sendmail-contact.php">
+        <form id="contact-form" method="POST" name="sendmail" class="form__form" action="sendmail-contact.php">
 
             <input type="hidden" name="meli_dio" autocomplete="off">
 
@@ -12,13 +12,13 @@
             <div class="form__group">
                 <label class="form__label" for="first_name">First <span class="mobile-only mobile-only--inline">and Last</span> Name:</label>
                 <input class="form__input form__input--text" type="text" name="first_name" required>
-            </div>                    
-            
+            </div>
+
             <div class="form__group desktop-only desktop-only--block">
                 <label class="form__label" for="last_name">Last Name:</label>
                 <input class="form__input form__input--text" type="text" name="last_name">
             </div>
-            
+
             <div class="form__group desktop-only desktop-only--block">
                 <label class="form__label" for="reservation_name">Services to be reserved in the name(s):</label>
                 <input class="form__input form__input--text" type="text" name="reservation_name">
@@ -40,7 +40,7 @@
             </div>
 
             <div class="form__group desktop-only desktop-only--block">
-                <label class="form__label" for="">Private Tour Date:</label>                            
+                <label class="form__label" for="">Private Tour Date:</label>
                 <select class="form__input form__input--select form__inline" name="date11_month">
                     <option value=""></option>
                     <option value="Jan">January</option>
@@ -172,7 +172,7 @@
             <div class="g-recaptcha" data-sitekey="6LeQ2dQUAAAAAG80PiWCNyNl7UXpxTt_U9D-zGc9"></div>
             <br/>
 
-            <button name="contact-form-submit-btn" type="submit" class="form__submit">
+            <button name="contact-form-submit-btn" type="submit" class="form__submit" id="form__submit">
                 Send
             </button>
 
@@ -181,9 +181,9 @@
             </p>
 
         </form>
-        
+
     </div>
-    
+
 </div>
 
 <p class="text-normal">
