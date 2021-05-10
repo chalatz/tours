@@ -400,7 +400,6 @@
 
     var handle_form_loader = function(){
         $('#contact-form').on('submit', function(){
-            console.log('submitted!');
             var the_btn = $('#form__submit');
             the_btn
                 .html('<i class="fas fa-circle-notch fa-spin"></i> Sending email...')
