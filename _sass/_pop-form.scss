@@ -107,6 +107,10 @@
         &:hover {
             background-color: $darkblue;
         }
+        &.form__submit--sending {
+            pointer-events: none;
+            background-color: $darkblue;
+        }
     }
 
     &__close {
