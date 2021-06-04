@@ -12,12 +12,18 @@ layout: es/plain-page
 
   <div class="page__headings">
 
+    {%- assign has_subcontent = false -%}
+    {%- if reviews_page.subtitle.size > 0 and reviews_page.subtitle2.size > 0 and reviews_page.content.size > 1 -%}
+      {%- assign has_subcontent = true -%}
+    {%- endif -%}
+
+
     <span class="anchor-section" id="reviews-top"></span>
-    <h1 class="page__title page__title--plain-page page__title--reviews_comments_page">
+    <h1 class="page__title page__title--plain-page page__title--reviews_comments_page{% if has_subcontent == false %} mb-3{% endif %}">
       {{- reviews_page.title | upcase -}}
     </h1>
 
-    {%- if reviews_page.subtitle -%}
+    {%- if reviews_page.subtitle and reviews_page.subtitle.size > 0 -%}
       <p class="page__subtitle page__subtitle--plain-page page__subtitle--reviews_comments_page">
         {{- reviews_page.subtitle -}}
       </p>
@@ -25,11 +31,13 @@ layout: es/plain-page
 
   </div>
 
-  <section class="page__content page__content--plain-page page__content--header">
-    {{ reviews_page.content | markdownify }}
-  </section>
+  {%- if reviews_page.content.size > 1 -%}
+    <section class="page__content page__content--plain-page page__content--header">
+      {{ reviews_page.content | markdownify }}
+    </section>
+  {%- endif -%}
 
-  {%- if reviews_page.subtitle2 -%}
+  {%- if reviews_page.subtitle2 and reviews_page.subtitle2.size > 0 -%}
     <h2 class="page__subtitle page__subtitle--plain-page page__subtitle--reviews_comments_page centered mt-2 mb-2">
       {{- reviews_page.subtitle2 -}}
     </h2>
@@ -56,11 +64,22 @@ layout: es/plain-page
   </section>
 
   <section class="page__content page__content--plain-page">
+    {%- if page.lang == 'es' -%}
+      <h2>
+          Opiniones y Comentarios sobre Tours en Rodas Grecia
+      </h2>
+    {%- endif -%}
     {%- for review in reviews_page.reviews -%}
         <span class="anchor-section" id="{{- review.year -}}"></span>
-        <h3>
-            REVIEWS - TESTIMONIALS {{ review.year }}
-        </h3>
+        {%- if page.lang == 'es' -%}
+          <h3>
+            {{ review.year }}
+          </h3>
+        {%- else -%}
+          <h3>
+              REVIEWS - TESTIMONIALS {{ review.year }}
+          </h3>
+        {%- endif -%}
         <div class="reviews-comments__content">
           {{ review.text | markdownify }}
         </div>
@@ -71,6 +90,5 @@ layout: es/plain-page
         </div>
     {%- endfor -%}
   </section>
-
 
 </main>
