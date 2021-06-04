@@ -168,6 +168,10 @@
         background-color: $red;
         color: #fff;
     }
+    &__cta {
+        text-decoration: underline;
+        font-size: 1.3rem;
+    }
 }
 
 // .emergency {
