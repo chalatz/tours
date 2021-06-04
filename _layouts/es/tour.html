@@ -15,7 +15,7 @@ layout: default
             <p class="tour__summary">
                 {{ paragraph | markdownify | remove: '<p>' | remove: '</p>' }}
             </p>
-        {% endfor %}        
+        {% endfor %}
     </header>
 
     {%- assign overview_items_size = page.overview.items | size -%}
@@ -58,7 +58,7 @@ layout: default
 
                 <div class="tour__content collapsible">
                     {% for item in page.details.items %}
-                        <p><strong>{{ item.title }}</strong> {{ item.desc }}</p>                    
+                        <p><strong>{{ item.title }}</strong> {{ item.desc }}</p>
                     {% endfor %}
                 </div>
 
@@ -83,11 +83,11 @@ layout: default
         {%- assign has_description = true -%}
     {%- endif -%}
 
-    {%- if has_description == true -%}        
+    {%- if has_description == true -%}
         <section class="section container">
 
             <h3 class="tour__h3">
-                Descripción del Tour Privado: 
+                Descripción del Tour Privado:
             </h3>
 
             <div class="tour__content-wrapper">
@@ -103,7 +103,7 @@ layout: default
                     {%- if page.body -%}
                         {%- for item in page.body -%}
                             {%- if item.text -%}
-                                {{ item.text | markdownify }}   
+                                {{ item.text | markdownify }}
                             {%- endif -%}
                             {%- if item.gallery -%}
                                 {% include partials/tour-gallery.html gallery = item.gallery %}
@@ -190,7 +190,7 @@ layout: default
         <a href="./razones-para-reservar-con-nosotros.htm" class="tour__cta-link">
             {{- '10 RAZONES PARA RESERVAR CON NOSOTROS' | upcase -}}
         </a>
-        <a href="./testimonios.htm" class="tour__cta-link">
+        <a href="./opiniones-comentarios-sobre-tours-rodas-grecia.htm" class="tour__cta-link">
             {{- 'Opiniones y Comentarios de Nuestros Clientes' | upcase -}}
         </a>
     </section>
@@ -210,7 +210,7 @@ layout: default
         {%- endif -%}
         {%- if group_3_size > 0 -%}
             {%- include partials/preload_tour.html the_gallery = page.gallery.group_3 -%}
-        {%- endif -%}        
+        {%- endif -%}
 
         {%- if page.body -%}
             {%- for item in page.body -%}

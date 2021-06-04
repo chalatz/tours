@@ -83,11 +83,13 @@ layout: es/plain-page
         <div class="reviews-comments__content">
           {{ review.text | markdownify }}
         </div>
-        <div class="reviews-comments__go-to-top">
-          <a href="#reviews-top" class="reviews-comments__go-to-top-link">
-            &uarr; Back to the top &uarr;
-          </a>
-        </div>
+        {%- if page.lang == 'en' -%}
+          <div class="reviews-comments__go-to-top">
+            <a href="#reviews-top" class="reviews-comments__go-to-top-link">
+              &uarr; Back to the top &uarr;
+            </a>
+          </div>
+        {%- endif -%}
     {%- endfor -%}
   </section>
 
