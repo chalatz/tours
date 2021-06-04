@@ -12,7 +12,7 @@ meta:
   keywords: Ottoman Sites in Rhodes Greece, Ottoman Monuments in Rhodes, Rhodes private
     tours
   author: 'Nick '
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Ottoman Sites in Rhodes, Ottoman Monuments in Rhodes Greece
   http_desc: Ottoman Monuments in Rhodes, Ottoman Sites in Rhodes Greece, Rhodes private
     tours

@@ -16,7 +16,7 @@ meta:
     Privadas, Tours Privados
   abstract: Excursiones Para Niños Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   http_desc: Excursiones Para Niños Rodas, Tours Para Niños Rodas Grecia. Excursiones
     Privadas, Tours Privados
 title: '"Rodas, Excursión Para Niños"'
@@ -182,17 +182,17 @@ end_page:
   short_text: ''
 
 ---
-Desde un punto elegido por usted, lo trasladarán a la entrada del antiguo puerto, **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos) 
+Desde un punto elegido por usted, lo trasladarán a la entrada del antiguo puerto, **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos)
 
-Cerca del puerto está **la Iglesia de la Anunciación** que contiene pinturas de pared góticas asombrosas de Fotis Kontoglou e impresionantes lámparas de araña. Actualmente es la catedral de la ciudad (Stop Visitar Fotos) 
+Cerca del puerto está **la Iglesia de la Anunciación** que contiene pinturas de pared góticas asombrosas de Fotis Kontoglou e impresionantes lámparas de araña. Actualmente es la catedral de la ciudad (Stop Visitar Fotos)
 
 A continuación, podrá admirar el resto de los imponentes edificios donde los elementos venecianos, góticos y oriental se mezclan
 
 El punto norte de la isla - Mar Egeo y Mar Mediterráneo
 
-Ascendiendo por la ladera a **Monte Smith** **(la acrópolis de la ciudad de Rodas)** que domina el norte de la isla desde lo alto, podrá disfrutar de las vistas excelentes de la ciudad nueva y vieja de Rodas (fotos). Visitará **el templo de Apolo** y el **estadio Helenístico**, así como **el teatro antiguo** (Stop Visitar Fotos) 
+Ascendiendo por la ladera a **Monte Smith** **(la acrópolis de la ciudad de Rodas)** que domina el norte de la isla desde lo alto, podrá disfrutar de las vistas excelentes de la ciudad nueva y vieja de Rodas (fotos). Visitará **el templo de Apolo** y el **estadio Helenístico**, así como **el teatro antiguo** (Stop Visitar Fotos)
 
-El viaje continúa suroeste 23 km / 14,3 millas **al V****alle de las Mariposas**, un valle en subida atravesado por un pequeño río con puentes de madera. En este lugar, encuentran refugio las mariposas que llegan desde mediados de junio para acoplarse y se van a mediados de septiembre (Stop Visitar Fotos) 
+El viaje continúa suroeste 23 km / 14,3 millas **al V****alle de las Mariposas**, un valle en subida atravesado por un pequeño río con puentes de madera. En este lugar, encuentran refugio las mariposas que llegan desde mediados de junio para acoplarse y se van a mediados de septiembre (Stop Visitar Fotos)
 
 Continuamos nuestro viaje hacia "La Granja del Avestruz de Rodas y el Parque Zoológico"
 

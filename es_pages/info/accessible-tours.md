@@ -23,7 +23,7 @@ meta:
     Rodas Grecia
   abstract: Tours Accesibles para discapacitados Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 title: TOURS Accesibles para Discapacitados - Rodas Grecia
 head_photo:
   src: "./img/tours-pages/head-photos/head-photo-accessible-tours.jpg"

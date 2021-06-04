@@ -10,7 +10,7 @@ meta:
   description: Museo de Artes Decorativas Rodas Grecia, Museo del Folklore Rodas Grecia
   keywords: Museo de Artes Decorativas Rodas Grecia, Museo del Folklore Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Museo de Artes Decorativas Rodas Grecia, Museo del Folklore Rodas Grecia
 title: Museo de Artes Decorativas - Museo del Folclor Rodas, Grecia
 summary: Museo localizado en la Ciudad Vieja. "Plateia Argyrokastrou" (Plaza Argirokastrou),

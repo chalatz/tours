@@ -12,7 +12,7 @@ meta:
   keywords: Lugares de interés en Rodas Grecia, La Costa Este de Rodas Grecia, Lugares
     de interés en Grecia, Rodas
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: 'Lugares de interés en Rodas Grecia, La Costa Este de Rodas Grecia, '
   http_desc: Lugares de interés en Rodas Grecia, La Costa Este de Rodas Grecia, Lugares
     de interés en Grecia, Rodas

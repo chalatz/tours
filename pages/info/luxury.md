@@ -12,8 +12,8 @@ meta:
   keywords: Rhodes Luxury Travel Guide Awards, Rhodes Luxury Tours, Rhodes Private Tours
   abstract: Rhodes Luxury Travel Guide Awards
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
-  
+  copyright: NK for Rhodes Private Tours,2021
+
 title: Luxury Travel Guide Europe Awards - Rhodes Private Tours 2019
 
 subtitle: '"Exclusive Tour Operator of the Year" Greece'
@@ -38,7 +38,7 @@ gallery:
         thumb: "./img/luxury-travel-guide-awards/luxury-travel-guide-2017.png"
         alt: ' Planning your trip to Greece, Travel Guide to the Greek Islands'
         is_link: false
-    
+
 ---
 We are thrilled to announce that "**Rhodes Private Tours"** has been recognized (for second year) by the **Luxury Travel Guide**  for providing high quality private tour services.
 

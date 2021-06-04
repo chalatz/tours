@@ -13,7 +13,7 @@ meta:
     Rodas, los hospitalarios, Isla de Rodas Grecia
   keywords: Los Caballeros de Rodas, La Orden de los Caballeros de San Juan de Rodas,
     los hospitalarios, Isla de Rodas Grecia
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Los Caballeros de Rodas, La Orden de los Caballeros de San Juan de Rodas,
     los hospitalarios
   author: Nick

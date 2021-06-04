@@ -14,7 +14,7 @@ meta:
     Allure Tours
   keywords: Knights of Rhodes Medieval City, Knights of St John Baptist, Knights Hospitallers,
     Knights of Jerusalem, Knights of Malta, Rhodes private tours, Rhodes Alure Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Knights of Rhodes, Knights Hospitallers, Knights of St John Baptist
   author: Nick
 title: The Knights of Rhodes. 1309 AD - 1522 AD

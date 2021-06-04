@@ -14,7 +14,7 @@ meta:
   keywords: 'Archaeological Museum of Rhodes Greece, Rhodes Archaeological Tours,
     Archaeological Sites and Museums of Rhodes Greece '
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Archaeological Museum of Rhodes Greece, Rhodes Archaeological Tours
 title: The Archaeological Museum of Rhodes Greece
 summary: The archaeological museum inside this grand historic castle gives archaeology

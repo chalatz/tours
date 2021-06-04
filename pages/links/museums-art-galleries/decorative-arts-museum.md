@@ -13,7 +13,7 @@ meta:
   keywords: Guided Tours in Rhodes Greece, Private Guided Tours in Rhodes, Folklore
     Museum
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Guided Tours in Rhodes Greece
 title: Museum of Decorative Arts - Folklore Museum Rhodes Greece
 summary: The Folklore Museum, which is administered by the Museum of Modern Greek

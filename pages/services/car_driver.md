@@ -20,7 +20,7 @@ meta:
   abstract: Car and Driver Hire in Rhodes, Chauffeur Services in Rhodes, Rent a Car
     with Driver in Rhodes
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 head_photo:
   src: "./img/pages/services/car-driver-head-photo.jpg"
   alt: Rhodes Island Tours Services

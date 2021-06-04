@@ -14,7 +14,7 @@ meta:
   keywords: Castle of Monolithos Rhodes Greece, Monolithos Village in Rhodes, Rhodes
     Private Tours, Monolithos Castle, Rhodes Allure Tours
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Castle of Monolithos Rhodes Greece
 title: Monolithos Rhodes Greece
 summary: Monolithos village is located 73 km / 45 miles southwest of the city of Rhodes.

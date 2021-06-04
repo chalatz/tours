@@ -18,7 +18,7 @@ meta:
     Tours, Greece
   abstract: VIP Tours in Rhodes, VIP Rhodes Taxi and Limo Service
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 head_photo:
   src: "./img/pages/services/vip-head-photo.jpg"
   alt: Rhodes Island Tours Services

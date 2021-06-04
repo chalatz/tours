@@ -25,7 +25,7 @@ meta:
   abstract: 'RHODES PRIVATE TOURS, Rhodes Shore Excursions, Private Tours in Rhodes
     Greece '
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 maximize:
   keyword: Maximize
   text: |-

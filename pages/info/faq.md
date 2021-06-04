@@ -15,8 +15,8 @@ meta:
   keywords: Rhodes Private Tours and Shore Excursions Greece
   abstract: Rhodes Private Tours and Shore Excursions Greece
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
-  
+  copyright: NK for Rhodes Private Tours,2021
+
 title: Frequently Asked Questions
 
 items:
@@ -73,5 +73,5 @@ items:
 
   - q: Should I tip the driver or the tour guide?
     a: Extending a gratuity to your driver or the tour guide is strictly optional.
-    
+
 ---

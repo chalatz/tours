@@ -11,7 +11,7 @@ meta:
     Greece
   keywords: RHODES ALLURE TOURS, Kritinia Castle, Allure Private Tours, Rhodes Greece
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: RHODES ALLURE TOURS
 title: The Village and Castle of Kritinia
 summary: "The village of Kritinia, meaning \"New Crete\", was founded by some families

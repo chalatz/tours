@@ -12,7 +12,7 @@ meta:
   keywords: Monumentos Bizantinos en Isla de Rodas, Los lugares históricos más valiosos
     de la tierra, Imperio Bizantino Isla de Rodas Grecia
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Monumentos Bizantinos en Isla de Rodas, Los lugares históricos más valiosos
     de la tierra, Imperio Bizantino Isla de Rodas Grecia
   http_desc: " Monumentos Bizantinos en Isla de Rodas, Los lugares históricos más

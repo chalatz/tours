@@ -16,13 +16,13 @@ meta:
   keywords: 'Rhodes Accessible tours for Disabled Travelers, Rhodes wheelchair access, Handicapped Tours in Rhodes Island Greece'
   abstract: 'Rhodes Accessible tours for Disabled Travelers, Rhodes wheelchair access, Handicapped Tours in Rhodes'
   author: 'Nick'
-  copyright: 'NK for Rhodes Private Tours,2018'
+  copyright: 'NK for Rhodes Private Tours,2021'
 
 title: 'Rhodes Accessible Tours for Disabled Travellers'
 
 head_photo:
   src: ./img/tours-pages/head-photos/head-photo-accessible-tours.jpg
-  alt: 'Rhodes Island Private Accessible Tours'   
+  alt: 'Rhodes Island Private Accessible Tours'
 
 sections:
   - title: WHEELCHAIR ACCESS, HANDICAPPED TOURS

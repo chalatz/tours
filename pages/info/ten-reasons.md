@@ -12,14 +12,14 @@ meta:
   keywords: Rhodes Private Tours and Rhodes Shore Excursions, Book your tour with us
   abstract: Rhodes Private Tours and Rhodes Shore Excursions, Book your tour with us
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
-  
+  copyright: NK for Rhodes Private Tours,2021
+
 title: Top 10 Reasons to Book with Us
 
 subtitle:
   part01: PRIVATE GUIDED TOURS
   part02: PRIVATE WALKING TOURS
-    
+
 ---
 ### Direct Local Price
 
@@ -29,7 +29,7 @@ We create and operate our own tours then offer them directly to you. Discover Rh
 
 Our private guided tours are fully guided/escorted by licensed passionate tour guides that will follow you on every step of your way. We don't cut corners to cover costs. No compromise on quality. Best ratio of price to experiences and service.
 
-### No Full Prepayment 
+### No Full Prepayment
 
 A deposit to secure your reservation. Book now and pay at the end of the tour.
 
@@ -47,7 +47,7 @@ All Vehicle, Driver and Tour Guide expenses are included in the price. No extra 
 
 ### 100% Flexibility - Experienced Knowledgeable Team
 
-Flexibility is our greatest strength. Complete custom guided tour service available at no extra charge! Your experienced Tour Guide will help with small changes on the Go, even after the tour has started. **Attention:** the tour changes must fit in your Tour Duration. If your tour is a Half Day 5:00 hours the changes must be done in this time frame, You Cannot Extend the Tour (No last-minute extensions)   
+Flexibility is our greatest strength. Complete custom guided tour service available at no extra charge! Your experienced Tour Guide will help with small changes on the Go, even after the tour has started. **Attention:** the tour changes must fit in your Tour Duration. If your tour is a Half Day 5:00 hours the changes must be done in this time frame, You Cannot Extend the Tour (No last-minute extensions)
 
 ### Personalized Customer Service
 

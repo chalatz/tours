@@ -14,7 +14,7 @@ meta:
   keywords: 'Rhodes Private Tours, Rhodes Shore Excursions, Rhodes Taxi Tours '
   abstract: 'Rhodes Private Tours, Rhodes Shore Excursions, Rhodes Taxi Tours '
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 title: Contact Us
 subtitle: Thank you for the interest that you've shown in our services
 desc: Submit an online request for additional information / prices / cost / reservations,

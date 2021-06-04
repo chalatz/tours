@@ -14,7 +14,7 @@ meta:
     Spa, Anthony Quinn Bay, Seven Springs, Valley of the Butterflies, Filerimos Mountain '
   keywords: Rhodes Nature Tour, Private Nature Tours in Rhodes Greece
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Rhodes Nature Tour
 title: Rhodes Nature Tour DT9
 summary:

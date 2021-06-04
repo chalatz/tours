@@ -12,8 +12,8 @@ meta:
   keywords: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek Islands, Information about Greece, Planning your trip to Greece
   abstract: Matt Barrett Rhodes Greece Travel Guide
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
-  
+  copyright: NK for Rhodes Private Tours,2021
+
 title: Matt Barrett
 
 subtitle: 'The “Greece Travel Expert“!'
@@ -47,7 +47,7 @@ gallery:
         alt: ' Greece Travel Expert '
         is_link: false
       caption: 'Matt Barrett'
-    
+
 ---
 Anyone looking for information on Greece using the search engines and especially Google has probably come across the name of Matt Barrett.
 

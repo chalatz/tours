@@ -10,7 +10,7 @@ meta:
   description: El Museo de las Abejas Rodas Grecia
   keywords: El Museo de las Abejas Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: El Museo de las Abejas Rodas Grecia
 title: El Museo de las Abejas - Único en Grecia
 summary: |-

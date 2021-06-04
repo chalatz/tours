@@ -13,8 +13,8 @@ meta:
   keywords: Rhodes, Private, Tours, Greece, shore, excursions, taxi tours, day tours, city, sightseeing, guided, exclusive, daily tours, luxury, limousine, independent, customized, specialized, tailored, escorted, executive, disabled, accessible, photo, Mercedes, vip services
   abstract: Rhodes private tours, Shore Excursions, Taxi Tours
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
-  
+  copyright: NK for Rhodes Private Tours,2021
+
 title: Rhodes Private Tours on TripAdvisor
 
 subtitle:

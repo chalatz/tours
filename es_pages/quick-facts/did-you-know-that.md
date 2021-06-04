@@ -11,7 +11,7 @@ meta:
   description: Rodas Isla Griega, información sobre Rodas Grecia, La isla griega de
     Rodas
   keywords: Rodas Isla Griega, información sobre Rodas Grecia, La isla griega de Rodas
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Rodas Isla Griega, información sobre Rodas Grecia, La isla griega de Rodas
   author: Nick
 title: "¿ Sabia usted que …?"

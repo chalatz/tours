@@ -12,7 +12,7 @@ meta:
   keywords: Sitios Otomanos en Rodas, Monumentos Otomanos en Rodas Grecia, Isla de
     Rodas Grecia
   author: 'Nick '
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Sitios Otomanos en Rodas, Monumentos Otomanos en Rodas Grecia, Isla de
     Rodas Grecia
   http_desc: Sitios Otomanos en Rodas, Monumentos Otomanos en Rodas Grecia, Isla de

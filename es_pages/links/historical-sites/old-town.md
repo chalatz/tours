@@ -12,7 +12,7 @@ meta:
   keywords: Ciudad Medieval de Rodas Grecia, Ciudad Vieja de Rodas Grecia Ciudad Antigua
     de Rodas Grecia
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Ciudad Medieval de Rodas Grecia, Ciudad Vieja de Rodas Grecia Ciudad Antigua
     de Rodas Grecia
   http_desc: Ciudad Medieval de Rodas Grecia, Ciudad Vieja de Rodas Grecia Ciudad

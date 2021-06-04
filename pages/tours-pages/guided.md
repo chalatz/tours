@@ -14,7 +14,7 @@ meta:
     Folklore Museum
   abstract: Rhodes Guided Tours
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 title: 'RHODES GUIDED TOURS '
 subtitle: PRIVATE TOURS BY LICENSED TOUR GUIDES AND PROFESSIONAL DRIVERS
 head_photo:

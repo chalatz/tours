@@ -13,7 +13,7 @@ meta:
   keywords: 'Ancient Kamiros Rhodes Greece, Ancient Kameiros, Specialized Tours of
     Rhodes '
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: 'Ancient Kamiros Rhodes Greece, Ancient Kameiros, Specialized Tours of
     Rhodes '
 title: Ancient Kamiros - Rhodes Greece

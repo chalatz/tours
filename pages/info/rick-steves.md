@@ -12,7 +12,7 @@ meta:
   keywords: Rick Steves in Rhodes Greece, Rhodes Private Tours
   abstract: Rick Steves in Rhodes Greece
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 title: RICK STEVES
 subtitle: The best-known American guidebook and travel expert!
 gallery:
@@ -49,7 +49,7 @@ extra: "**Visit Rick's blog to learn about his visit to Rhodes**  \n<a href=\"ht
   allowfullscreen></iframe>\n</div>"
 
 ---
-Rick Steves is an American travel writer, author and television personality. He has created and hosted travel shows on America's Public Broadcasting Service since 1991. He also has expanded into radio, newspaper and the Internet. Rick encourages travelers to become what he calls **"temporary locals,"** not just visiting big cities but venturing out to experience small towns and villages away from popular tourist sites. 
+Rick Steves is an American travel writer, author and television personality. He has created and hosted travel shows on America's Public Broadcasting Service since 1991. He also has expanded into radio, newspaper and the Internet. Rick encourages travelers to become what he calls **"temporary locals,"** not just visiting big cities but venturing out to experience small towns and villages away from popular tourist sites.
 
 Since his first book came out in 1980, Steves has written tour-books for countries, cities and regions. He has started a new genre of travel writing recounting his favourite moments in collections of anecdotes from his many years of travel.
 

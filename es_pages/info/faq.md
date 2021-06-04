@@ -19,7 +19,7 @@ meta:
     Qué ver y qué hacer en Grecia, Viajes para grupos grandes y pequeños
   abstract: Que ver y que hacer en Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 title: Preguntas más frecuentes
 items:
 - q: "¿Son las excursiones PRIVADAS?"

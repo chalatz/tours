@@ -12,7 +12,7 @@ meta:
   keywords: Lugares para visitar en Rodas Grecia, La Costa Oeste de Rodas Grecia,
     Lugares para visitar en Grecia, Rodas
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Lugares para visitar en Rodas Grecia, La Costa Oeste de Rodas Grecia,
     Lugares para visitar en Grecia, Rodas
   http_desc: Lugares para visitar en Rodas Grecia, La Costa Oeste de Rodas Grecia,

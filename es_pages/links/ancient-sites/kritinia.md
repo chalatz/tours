@@ -10,7 +10,7 @@ meta:
   description: El Castillo de Kritinia, La Aldea y Castillo de Kritinia Rodas Grecia
   keywords: El Castillo de Kritinia, La Aldea y Castillo de Kritinia Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: El Castillo de Kritinia, La Aldea y Castillo de Kritinia Rodas Grecia
 title: La Aldea y Castillo de Kritinia
 summary: |-

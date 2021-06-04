@@ -14,14 +14,14 @@ meta:
   keywords: Excursiones privadas para cruceros, tours privados, Isla de Rodas Grecia, Taxi Tours en Rodas Grecia
   abstract: Excursiones privadas para cruceros, tours privados, Isla de Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 start_page:
   title: ''
   subtitle: ''
 maximize:
   keyword: Maximize
   text: |-
-    Todos los tours son sólo sugerencias sobre CÓMO APROVECHAR AL MÁXIMO su corta visita a la Isla. 
+    Todos los tours son sólo sugerencias sobre CÓMO APROVECHAR AL MÁXIMO su corta visita a la Isla.
 
     Rodas es la cuarta isla más grande de Grecia, con 1.408 km² o 543,6 millas². Sabemos cómo utilizar su valioso tiempo de viaje de la manera más eficiente...
 our_goal:

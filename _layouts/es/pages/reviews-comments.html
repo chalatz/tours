@@ -2,7 +2,7 @@
 layout: es/plain-page
 ---
 {%- for page in site.pages -%}
-    {%- if page.id == 'reviews_comments_content' -%}
+    {%- if page.id == 'reviews_comments_content_es' -%}
         {%- assign reviews_page = page -%}
         {% break %}
     {%- endif -%}
@@ -11,7 +11,7 @@ layout: es/plain-page
 <main class="container page reviews-comments">
 
   <div class="page__headings">
-  
+
     <span class="anchor-section" id="reviews-top"></span>
     <h1 class="page__title page__title--plain-page page__title--reviews_comments_page">
       {{- reviews_page.title | upcase -}}
@@ -70,7 +70,7 @@ layout: es/plain-page
           </a>
         </div>
     {%- endfor -%}
-  </section>  
+  </section>
 
 
 </main>

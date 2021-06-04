@@ -10,7 +10,7 @@ meta:
   description: La Granja de Avestruces Rodas Grecia, Parque Zoológico en Rodas
   keywords: La Granja de Avestruces Rodas Grecia, Parque Zoológico en Rodas
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: La Granja de Avestruces Rodas Grecia, Parque Zoológico en Rodas
 title: La Granja de los Avestruces y el Parque Zoológico de Rodas, Grecia
 summary: Tanto para los jóvenes como para los mayores, una visita a la Granja de Avestruces

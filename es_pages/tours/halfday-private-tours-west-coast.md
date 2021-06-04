@@ -14,7 +14,7 @@ meta:
   description: Excursión Privada de Medio Día en Rodas Grecia, Rodas Costa Oeste
   abstract: Rhodes private tours and shore excursions
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 title: '"Rodas Costa Oeste"'
 summary:
   paragraphs:
@@ -173,24 +173,24 @@ end_page:
   short_text: ''
 
 ---
-Desde un punto elegido por usted, lo trasladarán a la ciudad antigua (Ciudad Patrimonio de la Humanidad) para tomar fotografías de fuera de los monumentos más importantes, como la Calle de los Caballeros y el palacio restaurado de Los Grandes Maestros.  (Stop Fotos) 
+Desde un punto elegido por usted, lo trasladarán a la ciudad antigua (Ciudad Patrimonio de la Humanidad) para tomar fotografías de fuera de los monumentos más importantes, como la Calle de los Caballeros y el palacio restaurado de Los Grandes Maestros.  (Stop Fotos)
 
-Luego, iremos más allá de los edificios históricos de la nueva cuidad y continuamos por la entrada del antiguo puerto, **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos) 
+Luego, iremos más allá de los edificios históricos de la nueva cuidad y continuamos por la entrada del antiguo puerto, **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos)
 
-Cerca del puerto está **la Iglesia de la Anunciación** que contiene pinturas de pared góticas asombrosas de Fotis Kontoglou e impresionantes lámparas de araña. Actualmente es la catedral de la ciudad (Stop Visitar Fotos) 
+Cerca del puerto está **la Iglesia de la Anunciación** que contiene pinturas de pared góticas asombrosas de Fotis Kontoglou e impresionantes lámparas de araña. Actualmente es la catedral de la ciudad (Stop Visitar Fotos)
 
 A continuación, podrá admirar el resto de los imponentes edificios donde los elementos venecianos, góticos y oriental se mezclan
 
 El punto norte de la isla - Mar Egeo y Mar Mediterráneo
 
-Ascendiendo por la ladera a **Monte Smith** **(la acrópolis de la ciudad de Rodas)** que domina el norte de la isla desde lo alto, podrá disfrutar de las vistas excelentes de la ciudad nueva y vieja de Rodas (fotos). Visitará **el templo de Apolo** y el **estadio Helenístico**, así como **el teatro antiguo** (Stop Visitar Fotos) 
+Ascendiendo por la ladera a **Monte Smith** **(la acrópolis de la ciudad de Rodas)** que domina el norte de la isla desde lo alto, podrá disfrutar de las vistas excelentes de la ciudad nueva y vieja de Rodas (fotos). Visitará **el templo de Apolo** y el **estadio Helenístico**, así como **el teatro antiguo** (Stop Visitar Fotos)
 
-El viaje continúa 48 km / 30 millas al suroeste de la isla hasta **la antigua Kamiros**, una vez que fue una próspera ciudad dórica durante el siglo V aC. Kamiros conserva gran parte de su pasado histórico. La **Plaza Agora**, el **Templo de Apolo Pythian**, la **Plaza de la Fuente**, el **Santuario** dedicado a los Dioses y Héroes de Kamiros, la Casa de los Baños, la **Calle Principal**, las Casas, y más ... En la Acrópolis puede ver los restos de la **Templo de Atenea Kameiras**, y los restos de **la gran Stoa** y **la Cisterna Arcaica** (depósito de agua), también se puede disfrutar de una vista panorámica sobre el mar Egeo y la zona agrícola circundante (Stop Visitar Fotos) 
+El viaje continúa 48 km / 30 millas al suroeste de la isla hasta **la antigua Kamiros**, una vez que fue una próspera ciudad dórica durante el siglo V aC. Kamiros conserva gran parte de su pasado histórico. La **Plaza Agora**, el **Templo de Apolo Pythian**, la **Plaza de la Fuente**, el **Santuario** dedicado a los Dioses y Héroes de Kamiros, la Casa de los Baños, la **Calle Principal**, las Casas, y más ... En la Acrópolis puede ver los restos de la **Templo de Atenea Kameiras**, y los restos de **la gran Stoa** y **la Cisterna Arcaica** (depósito de agua), también se puede disfrutar de una vista panorámica sobre el mar Egeo y la zona agrícola circundante (Stop Visitar Fotos)
 
-De regreso visitamos el valle de las mariposas, un valle en subida atravesado por un pequeño río con puentes de madera. En este lugar, encuentran refugio las mariposas que llegan desde mediados de junio para acoplarse y se van a mediados de septiembre (Stop Visitar Fotos) 
+De regreso visitamos el valle de las mariposas, un valle en subida atravesado por un pequeño río con puentes de madera. En este lugar, encuentran refugio las mariposas que llegan desde mediados de junio para acoplarse y se van a mediados de septiembre (Stop Visitar Fotos)
 
-La siguiente parada es una pequeña bodega de vinos tradicional griega donde usted tendrá la oportunidad de probar una selección de vinos producidos aquí. Igualmente usted podrá tomar fotografías de las instalaciones de añejamiento (Stop Visitar Fotos) 
+La siguiente parada es una pequeña bodega de vinos tradicional griega donde usted tendrá la oportunidad de probar una selección de vinos producidos aquí. Igualmente usted podrá tomar fotografías de las instalaciones de añejamiento (Stop Visitar Fotos)
 
-Seguimos de regreso y visitamos **la montaña de Filérimos**, una vista panorámica maravillosa, donde visitaremos las ruinas de **la acrópolis del Ialisos antiguo**. La meseta de Filérimos se levanta a casi 1.000 pies sobre el nivel del mar. Ahí, usted visitará **la iglesia de Santa María**, construida sobre los cimientos del **templo antiguo de Atenea** y de las catacumbas de épocas paleocristianas. Restaurada por los caballeros y utilizada como establo por los turcos. La iglesia fue reconstruida por los italianos durante la era italiana. Usted también verá el exterior del monasterio y el patio, que también se ha restaurado, así como **la capilla de San Jorge** (Stop Visitar Fotos) 
+Seguimos de regreso y visitamos **la montaña de Filérimos**, una vista panorámica maravillosa, donde visitaremos las ruinas de **la acrópolis del Ialisos antiguo**. La meseta de Filérimos se levanta a casi 1.000 pies sobre el nivel del mar. Ahí, usted visitará **la iglesia de Santa María**, construida sobre los cimientos del **templo antiguo de Atenea** y de las catacumbas de épocas paleocristianas. Restaurada por los caballeros y utilizada como establo por los turcos. La iglesia fue reconstruida por los italianos durante la era italiana. Usted también verá el exterior del monasterio y el patio, que también se ha restaurado, así como **la capilla de San Jorge** (Stop Visitar Fotos)
 
 De nuevo en la ciudad de Rodas, usted podrá elegir ser llevado de regreso a su hotel o a su barco, o cerca de las puertas de la Ciudad Vieja para dar una caminata por su cuenta. En este caso usted sería responsable de volver a pie a su barco, que estará atracado aproximadamente a 300 metros.

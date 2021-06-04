@@ -9,7 +9,7 @@ meta:
   description: La Nueva Ciudad de Rodas Grecia
   keywords: La Nueva Ciudad de Rodas Grecia
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: La Nueva Ciudad de Rodas Grecia
   http_desc: La Nueva Ciudad de Rodas Grecia
 keyphrase: Rhodes Shore Excursions

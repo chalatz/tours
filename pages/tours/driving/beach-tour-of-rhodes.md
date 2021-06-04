@@ -11,7 +11,7 @@ meta:
   description: 'RHODES BEACH TOUR, Beach Tour of Rhodes, Private Beach Tours in Rhodes '
   keywords: 'RHODES BEACH TOUR, Beach Tour of Rhodes, Private Beach Tours in Rhodes  '
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: 'RHODES BEACH TOUR, Beach Tours of Rhodes, Private Beach Tours in Rhodes '
   http_desc: 'RHODES BEACH TOUR, Beach Tour of Rhodes, Private Beach Tours in Rhodes,
     Rhodes Private Tours '

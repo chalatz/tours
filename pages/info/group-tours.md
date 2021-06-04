@@ -15,14 +15,14 @@ meta:
   keywords: 'Bus Tours Rhodes, Group Tours in Rhodes, Mini Bus Tours'
   abstract: 'Bus Tours Rhodes, Group Tours in Rhodes, Mini Bus Tours'
   author: 'Nick'
-  copyright: 'NK for Rhodes Private Tours,2018'
+  copyright: 'NK for Rhodes Private Tours,2021'
 
 title: 'Rhodes Private Group Tours'
 subtitle: BUS TOURS IN RHODES
 
 head_photo:
   src: './img/tours-pages/head-photos/head-photo-group-tours.jpg'
-  alt: 'Rhodes Island Private Group Tours'   
+  alt: 'Rhodes Island Private Group Tours'
 
 sections:
   - title: EXPERIENCE
@@ -35,7 +35,7 @@ sections:
 
       For maximum flexibility, we could engage several Mercedes Benz sedans for your group. If someone in your party wants to go swimming, or loves to shop, or needs to end the tour early, we could swap out cars and fit that into the schedule. If you have a senior member in your group who can't manage some sites at the speed of everyone else, we can keep them company while the rest of your group visits a location at a faster pace.
 
-  - title: SIMPLICITY      
+  - title: SIMPLICITY
     text: |-
       It couldn't be easier. Simply let us know if you want to take a standard tour or have a list of special things in mind. Then let us know how many people are in your group. We will modify any tour to meet your needs and schedule the best vehicle or combination of vehicles to accommodate your group size and maximize your short time on the island.
 
@@ -70,7 +70,7 @@ sections:
             alt: 'Rhodes Bus Tours, Mercedes Bus'
             is_link: false
           caption: 'Mercedes Touring Coach'
- 
+
 
 links:
   - driving_tours
@@ -80,6 +80,6 @@ links:
 end_page:
   long_text: |-
     **"Rhodes Private Tours"** is a Leading Provider of Exclusive and Personalized Tour Experiences. We deliver Minibus Tours at very affordable rates All our tours are fully customizable to suit your travel needs, interests, schedules, and dates.
-  short_text: 'Experts in Rhodes Group Tours'  
+  short_text: 'Experts in Rhodes Group Tours'
 
 ---

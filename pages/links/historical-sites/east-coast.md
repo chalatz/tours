@@ -10,7 +10,7 @@ meta:
     Rhodes
   keywords: Rhodes Taxi Tours Greece, Taxi Tours in Rhodes
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Rhodes Taxi Tours
   http_desc: Rhodes Taxi Tours Greece, Rhodes Private Taxi Tours, Rhodes Taxi Tour
 keyphrase: Rhodes Taxi Tours

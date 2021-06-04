@@ -18,7 +18,7 @@ meta:
     Sinagoga Kahal Shalom, Museo Judío de Rodas, Tours Privados Sites, Greece
   abstract: Tour del Barrio Judío de Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018 Private Tours Greece
+  copyright: NK for Rhodes Private Tours,2021 Private Tours Greece
 title: '"Rodas, Tour Judio"'
 summary:
   paragraphs:
@@ -186,17 +186,17 @@ end_page:
   short_text: ''
 
 ---
-Desde un punto elegido por usted, lo trasladarán a la entrada del **Antiguo Puerto** **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos) 
+Desde un punto elegido por usted, lo trasladarán a la entrada del **Antiguo Puerto** **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos)
 
 A continuación, podrá admirar el resto de los imponentes edificios donde los elementos venecianos, góticos y oriental se mezclan
 
 El punto norte de la isla - Mar Egeo y Mar Mediterráneo
 
-Ascendiendo por la ladera a **Monte Smith** **(la acrópolis de la ciudad de Rodas)** que domina el norte de la isla desde lo alto, podrá disfrutar de las vistas excelentes de la ciudad nueva y vieja de Rodas (fotos). Visitará **el templo de Apolo** y el **estadio Helenístico**, así como **el teatro antiguo** (Stop Visitar Fotos) 
+Ascendiendo por la ladera a **Monte Smith** **(la acrópolis de la ciudad de Rodas)** que domina el norte de la isla desde lo alto, podrá disfrutar de las vistas excelentes de la ciudad nueva y vieja de Rodas (fotos). Visitará **el templo de Apolo** y el **estadio Helenístico**, así como **el teatro antiguo** (Stop Visitar Fotos)
 
 Conducimos a la costa este de la ciudad de Rodas y visitamos:
 
-**El cementerio judío** es uno de los mejor conservados de Europa y contiene lápidas desde 1840 hasta la actualidad. Hoy muchas de estas lápidas han sido desenterradas y expuestas. Algunos de ellos son extremadamente interesantes, tanto por su forma como por las inscripciones que llevan. (Stop Visitar Fotos) 
+**El cementerio judío** es uno de los mejor conservados de Europa y contiene lápidas desde 1840 hasta la actualidad. Hoy muchas de estas lápidas han sido desenterradas y expuestas. Algunos de ellos son extremadamente interesantes, tanto por su forma como por las inscripciones que llevan. (Stop Visitar Fotos)
 
 Luego pasarás por una de las puertas de la Ciudad Medieval y entrarás en **el barrio judío llamado** **"La Judería"**
 
@@ -204,27 +204,27 @@ Aquí, su conductor estacionará el automóvil en el estacionamiento y le mostra
 
 **Calle "Al Chatef"** que lleva el nombre de una familia honrada que una vez vivió aquí en Rodas (Stop Photos)
 
-**La Plaza de los Mártires Judíos de Rodas** con la fuente "caballito de mar". También conocido en griego como "**Evreon Martyron**". (Stop Visitar Fotos) 
+**La Plaza de los Mártires Judíos de Rodas** con la fuente "caballito de mar". También conocido en griego como "**Evreon Martyron**". (Stop Visitar Fotos)
 
-**El Monumento a las Víctimas Judías del Holocausto**dedicado a los mártires judíos de Rodas y Cos que fueron asesinados en los campos de concentración. Tiene la forma de una figura de seis lados y cada lado muestra el siguiente texto en diferentes idiomas (griego-francés-italiano-inglés-hebreo-ladino): "**Nunca lo olvides. En recuerdo eterno de los 1604 mártires judíos de Rodas y Cos que fueron asesinados en los campos de exterminio nazis**"(Stop Visitar Fotos) 
+**El Monumento a las Víctimas Judías del Holocausto**dedicado a los mártires judíos de Rodas y Cos que fueron asesinados en los campos de concentración. Tiene la forma de una figura de seis lados y cada lado muestra el siguiente texto en diferentes idiomas (griego-francés-italiano-inglés-hebreo-ladino): "**Nunca lo olvides. En recuerdo eterno de los 1604 mártires judíos de Rodas y Cos que fueron asesinados en los campos de exterminio nazis**"(Stop Visitar Fotos)
 
-Luego a **la sinagoga "Kahal Shalom"** (Abierto a las 10:00 AM) la sinagoga más antigua de Grecia. Fue construido en el año 1577 y todavía está en servicio. El nombre completo del edificio es "**Kahal Kadosh Shalom**" (Sagrada Congregación de la Paz). Se utiliza para los servicios de oración cuando los visitantes o ex residentes y sus familias visitan la isla para los servicios de oración de los viernes por la noche, los servicios festivos y en ocasiones especiales. La mayoría de las características de la sinagoga Kahal Shalom son típicas de las sinagogas sefardíes. Una característica inusual del templo es el hecho de que hay dos hekháls (arcas de la Torá), a cada lado de la puerta que conduce al patio interior. (Stop Visitar Fotos) 
+Luego a **la sinagoga "Kahal Shalom"** (Abierto a las 10:00 AM) la sinagoga más antigua de Grecia. Fue construido en el año 1577 y todavía está en servicio. El nombre completo del edificio es "**Kahal Kadosh Shalom**" (Sagrada Congregación de la Paz). Se utiliza para los servicios de oración cuando los visitantes o ex residentes y sus familias visitan la isla para los servicios de oración de los viernes por la noche, los servicios festivos y en ocasiones especiales. La mayoría de las características de la sinagoga Kahal Shalom son típicas de las sinagogas sefardíes. Una característica inusual del templo es el hecho de que hay dos hekháls (arcas de la Torá), a cada lado de la puerta que conduce al patio interior. (Stop Visitar Fotos)
 
-Visitarás el **Museo Judío de Rodas** que recolectó una gran cantidad de fotos de la comunidad judía pasada en Rodas y la Torá de 800 años, que es una de las Torá más antiguas del mundo. Originalmente de los judíos sefardíes de la Península Ibérica y utilizado por ellos y traído a la isla de Rodas por los refugiados judíos sefardíes cuando huyeron de España y Portugal. El Museo Judío de Rodas se abre por primera vez en 1997. Aron Hasson, abogado, de Los Ángeles y Rhodian, tercera generación, es el fundador y el que inspiró la idea de crear un museo. (Stop Visitar Fotos) 
+Visitarás el **Museo Judío de Rodas** que recolectó una gran cantidad de fotos de la comunidad judía pasada en Rodas y la Torá de 800 años, que es una de las Torá más antiguas del mundo. Originalmente de los judíos sefardíes de la Península Ibérica y utilizado por ellos y traído a la isla de Rodas por los refugiados judíos sefardíes cuando huyeron de España y Portugal. El Museo Judío de Rodas se abre por primera vez en 1997. Aron Hasson, abogado, de Los Ángeles y Rhodian, tercera generación, es el fundador y el que inspiró la idea de crear un museo. (Stop Visitar Fotos)
 
 Salimos de la ciudad medieval hacia Lindos. A lo largo de los 50 km / 32 millas hacia Lindos atravesarán hermosas y pintorescas aldeas sobre la costa este de la isla, contando siempre con la oportunidad de admirar el mar y el paisaje espléndido de naranjales y limonares, así como de bellos y retorcidos olivares.
 
-En el camino se visita **la bahía de Anthony Quinn.** Toma su nombre del famoso actor de Hollywood, que posee una gran propiedad en esta área. Desde el rodaje de **"Los Cañones de Navarone"** en la isla de Rodas: pintoresco (Stop Visitar Fotos) 
+En el camino se visita **la bahía de Anthony Quinn.** Toma su nombre del famoso actor de Hollywood, que posee una gran propiedad en esta área. Desde el rodaje de **"Los Cañones de Navarone"** en la isla de Rodas: pintoresco (Stop Visitar Fotos)
 
-De camino a Lindos, puede elegir una parada corta opcional en un **taller de cerámica** donde se hace la cerámica tradicional de Rodas. Puedes ver las maravillosas piezas de arte y ver al alfarero trabajando en su rueda. Incluso puedes aprender el misterio de **La Copa de Pitágoras**. (Stop Visitar Fotos) 
+De camino a Lindos, puede elegir una parada corta opcional en un **taller de cerámica** donde se hace la cerámica tradicional de Rodas. Puedes ver las maravillosas piezas de arte y ver al alfarero trabajando en su rueda. Incluso puedes aprender el misterio de **La Copa de Pitágoras**. (Stop Visitar Fotos)
 
-Desde una posición ventajosa a lo largo de la costa, la impresionante acrópolis estará a la vista con la aldea de Lindos situada en una bahía pintoresca abajo (Stop Fotos) 
+Desde una posición ventajosa a lo largo de la costa, la impresionante acrópolis estará a la vista con la aldea de Lindos situada en una bahía pintoresca abajo (Stop Fotos)
 
-Continuando hacia el sur de Lindos, **la bahía de San Pablo**, desde este punto usted podrá también ver la cueva donde se filmó la película **"Los Cañones de Navarone"**. (Stop Visitar Fotos) 
+Continuando hacia el sur de Lindos, **la bahía de San Pablo**, desde este punto usted podrá también ver la cueva donde se filmó la película **"Los Cañones de Navarone"**. (Stop Visitar Fotos)
 
 Entonces nos dirigiremos a la plaza principal de Lindos desde donde usted podrá subir hasta la acrópolis de Lindos.
 
-Caminará a través de la aldea de Lindos y subirá los muchos escalones y estrechos callejones ascendentes de guijarro hasta la cumbre de la acrópolis para ver los restos magníficos de pasadas civilizaciones. (Stop Visitar Fotos) 
+Caminará a través de la aldea de Lindos y subirá los muchos escalones y estrechos callejones ascendentes de guijarro hasta la cumbre de la acrópolis para ver los restos magníficos de pasadas civilizaciones. (Stop Visitar Fotos)
 
 Al regreso conduciremos a lo largo del camino costero a Faliraki, una maravillosa playa arenosa y Kallithea
 

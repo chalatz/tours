@@ -14,11 +14,11 @@ meta:
   keywords: 'Tour Services in Rhodes, Private Tour Services in Rhodes Greece'
   abstract: 'Tour Services in Rhodes, Private Tour Services in Rhodes Greece'
   author: 'Nick'
-  copyright: 'NK for Rhodes Private Tours,2018'
+  copyright: 'NK for Rhodes Private Tours,2021'
 
 head_photo:
   src: ./img/tours-pages/head-photos/head-photo-services.jpg
-  alt: 'Rhodes Island Tours Services'   
+  alt: 'Rhodes Island Tours Services'
 
 sections:
   - title: TOUR SERVICES IN RHODES
@@ -26,7 +26,7 @@ sections:
       Our Services are Personalized for Each Customer.  Our business has specialized in private tour services for over three decades. The exclusive, fully escorted tours come with chauffeur driven luxury cars including minibusses, executive coaches, and Mercedes-Benz Sedans.
 
       Our services are also highly personal, hence suited to the private customers and corporate clients.   Any single travellers, VIP parties, and first-time visitors to the island are all welcome to use the service. And for frequent travellers, couples, friend groups, and families, we also offer multiple great packages.
-  
+
   - gallery:
       items_per_row: 3
       items:

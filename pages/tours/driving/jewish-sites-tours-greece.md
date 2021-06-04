@@ -16,7 +16,7 @@ meta:
     Sites, Greece
   abstract: Rhodes Jewish Tours Greece
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   http_desc: Jewish Tours in Rhodes, Jewish Sights Tour, Rhodes Jewish Tours, Rhodes
     Private Tours Greece
 title: Rhodes Jewish Sights Plus DT4
@@ -216,7 +216,7 @@ Then you'll pass through one of the gateways of the Medieval City and enter the�
 * Then onto the **"Kahal Shalom" Synagogue** (Open at 10:00 AM) the oldest synagogue in Greece. It was built in the year 1577 and is still in service. The full name of the building is **"Kahal Kadosh Shalom"** (Holy Congregation of Peace). It is used for prayer services when visitors or former residents and their families visit the Island for Friday night prayer services, High Holiday services and for special occasions. Most features of the Kahal Shalom Synagogue are typical of Sephardic Synagogues. An unusual feature of the temple is the fact that there are two hekháls (Torah arks), on either side of the door leading into the interior courtyard. (Stop Visit Photos)
 * You will visit the **Rhodes Jewish Museum** that collected a large number of pictures of the past Jewish community in Rhodes and the 800 Year-Old Torah which is one of the oldest Torahs in the world. Originally from and used by the Sephardic Jewish of the Iberian Peninsula and brought to Rhodes Island by the Sephardic Jewish refugees when they fled Spain and Portugal. The Jewish Museum of Rhodes opens for the first time in 1997. **Aron Hasson**, attorney, from Los Angeles and Rhodian third generation, is the founder and the one who inspired the idea of creating a museum. (Stop Visit Photos)
 
-Once you get back to the Parking Lot, your journey to Lindos will take you along a beautiful, 50km / 32 miles drive of the east coast of the island, past picturesque little villages. 
+Once you get back to the Parking Lot, your journey to Lindos will take you along a beautiful, 50km / 32 miles drive of the east coast of the island, past picturesque little villages.
 
 **ANTHONY QUINN BAY**
 

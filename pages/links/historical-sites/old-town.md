@@ -11,7 +11,7 @@ meta:
   keywords: Rhodes Tour, Rhodes Island Tour, Rhodes Old Town Tours, Rhodes Private
     Tour
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Rhodes Tour, Rhodes Island Tour
   http_desc: 'Rhodes Tour, Rhodes Island Tour, Rhodes Old Town Tours, Rhodes Private
     Tour '

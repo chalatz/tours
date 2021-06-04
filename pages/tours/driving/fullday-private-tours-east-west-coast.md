@@ -17,7 +17,7 @@ meta:
     the Water’s Edge, West Coast of the Island, Full day tour. '
   abstract: Rhodes private tours and shore excursions
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   http_desc: Rhodes Town, East Coast of the Island and Lindos, Lunch Break Right on
     the Water’s Edge, West Coast of the Island, Full day tour.
 title: Rhodes Full Day DT2

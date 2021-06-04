@@ -15,7 +15,7 @@ meta:
     Places, Thigs to do
   abstract: Destinations in Rhodes Greece, Rhodes Best Destinations
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 title: Destinations in Rhodes Greece
 subtitle: RHODES UNIQUE ATTRACTIONS AND NATURAL BEAUTY
 head_photo:

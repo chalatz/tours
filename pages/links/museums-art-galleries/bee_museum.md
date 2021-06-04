@@ -11,7 +11,7 @@ meta:
     Tours, Rhodes Allure Tours '
   keywords: Bee Museum, Rhodes Bee Museum, Rhodes Sightseeing Tours
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Rhodes Bee Museum, Rhodes Sightseeing Tours
 title: The Bee Museum - Unique in Greece
 summary: |-

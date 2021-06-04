@@ -15,7 +15,7 @@ meta:
     de los Mártires Judíos, El Sinagoga, El Museo Judío de Rodas,  El Cementerio Judío,
     la Comunidad Judía de Rodas
   author: Judíos de Rodas Grecia, El Barrio Judío de Rodas
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Rhodes Shore Trips, Rhodes Private Tours
   http_desc: Judíos de Rodas Grecia, El Barrio Judío de Rodas, La Judería, La Plaza
     de los Mártires Judíos, El Sinagoga, El Museo Judío de Rodas,  El Cementerio Judío,
@@ -316,5 +316,5 @@ end_page:
 ### Related Links "Rhodesli's" History and Traditions
 
 {: .centered }
-[WORLD MONUMENTS FUND-KAHAL SHALOM SYNAGOGUE](http://www.wmf.org/project/kahal-shalom-synagogue){: target="_blank"}    
+[WORLD MONUMENTS FUND-KAHAL SHALOM SYNAGOGUE](http://www.wmf.org/project/kahal-shalom-synagogue){: target="_blank"}
 [CONGREGATION EZRA BESSAROTH HISTORY](http://www.ezrabessaroth.net/about-us/history){: target="_blank"}

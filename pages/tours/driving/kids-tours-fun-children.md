@@ -16,7 +16,7 @@ meta:
     Fun Tours in Rhodes
   abstract: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   http_desc: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children
     Fun Tours in Rhodes
 title: Rhodes Kids Tour DT6
@@ -177,9 +177,9 @@ From your selected point, you'll be driven to the entrance of the old harbor, at
 
 **THE NORTH POINT OF THE ISLAND**
 
-Then past the imposing buildings of the New town and the North Point of the Island (where the Aegean and Mediterranean sea meet) 
+Then past the imposing buildings of the New town and the North Point of the Island (where the Aegean and Mediterranean sea meet)
 
-**MONTE SMITH** 
+**MONTE SMITH**
 
 Continuing up the hillside to Monte Smith **(The Acropolis of Rhodes city).** Enjoy excellent views of the new and old town of Rhodes (Stop Photos)    Then we drive to the **Temple of Apollo**, and the restored **Greek Stadium** and the **Greek Theatre**. The kids can run into the Old Stadium and feel the Ancient Greek athletic spirit. (Stop Visit Photos)
 

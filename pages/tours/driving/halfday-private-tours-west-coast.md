@@ -17,7 +17,7 @@ meta:
     Valley of the Butterflies, Winery, Ancient Kamiros
   abstract: Rhodes private tours and shore excursions
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   http_desc: Rhodes Medieval City, Rhodes New Town, West Coast of the Island, Filerimos,
     Valley of the Butterflies, Winery, Ancient Kamiros
 title: Rhodes West Coast DT3

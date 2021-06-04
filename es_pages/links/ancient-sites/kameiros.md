@@ -14,7 +14,7 @@ meta:
   keywords: Antigua Kameiros Rodas Grecia, Kamiros Rodas Grecia, Camiros, Rodas Antiguos
     Sitios, Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Antigua Kameiros Rodas Grecia, Kamiros Rodas Grecia, Camiros, Rodas Antiguos
     Sitios, Rodas Grecia
 title: Antigua Kámiros - La Pompeya de Grecia

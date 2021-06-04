@@ -13,10 +13,10 @@ meta:
   keywords: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
   abstract: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
-  
+  copyright: NK for Rhodes Private Tours,2021
+
 title: TOP TEN REASONS TO BOOK WITH US - <span class="color-driving">PRIVATE CHAUFFEURED TOURS</span>
-    
+
 ---
 ### Direct Local Price
 

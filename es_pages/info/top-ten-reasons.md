@@ -13,7 +13,7 @@ meta:
   keywords: 10 Razones Para Reservar con Nosotros, Rhodes Private Tours
   abstract: 10 Razones Para Reservar con Nosotros, Rhodes Private Tours
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 title: 10 RAZONES PARA RESERVAR CON NOSOTROS
 
 ---

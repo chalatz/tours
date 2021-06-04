@@ -19,7 +19,7 @@ meta:
     Isla de Rodas
   abstract: Coches con Conductor en Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 head_photo:
   src: "./img/pages/services/car-driver-head-photo-es.jpg"
   alt: Coches con Conductor en Rodas Grecia
@@ -48,10 +48,10 @@ not_finding:
 
 ---
 Sea cual sea el propósito de su visita, nos aseguramos de que sea memorable. Ya sea un tour privado o una excursión en tierra, atendemos todas sus necesidades. Te permitimos relajarte y disfrutar del impresionante ambiente de la isla.
- 
+
 Los conductores disponibles tienen experiencia y son profesionales autorizados, y en particular personas educadas, de buenos modales así como de comportamiento impecable. Igualmente conocen perfectamente la isla.
 
-Podemos también prestar servicios con conductores que hablen inglés, francés, italiano, alemán, y español 
+Podemos también prestar servicios con conductores que hablen inglés, francés, italiano, alemán, y español
 
 Tienen paciencia, son incansables y le llevaran a los lugares de mayor interés de Rodas. Además se alegrarán de sacarles fotografías cuando usted se detenga en los sitios panorámicos de la isla, y procurarán siempre que usted esté puntual y llegue a tiempo al aeropuerto, o al puerto para su salida.
 

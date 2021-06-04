@@ -9,7 +9,7 @@ meta:
   description: Rhodes Greece Map, Rhodes Private Tours, Maps of Rhodes Greece
   keywords: Rhodes Greece Map, Rhodes Private Tours, Maps of Rhodes Greece
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Rhodes Greece Map, Maps of Rhodes Greece
 title: Rhodes Greece Map
 subtitle: Route Maps of Our Private Tours

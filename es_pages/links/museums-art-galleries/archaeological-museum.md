@@ -14,7 +14,7 @@ meta:
   keywords: Museo Arqueológico de Rodas Grecia, Sitios arqueológicos y Museos de Rodas,
     Grecia, Museo Arqueológico de Isla de Rodas
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Museo Arqueológico de Rodas Grecia, Sitios arqueológicos y Museos de Rodas,
     Grecia, Museo Arqueológico de Isla de Rodas
 title: Museo Arqueológico de Rodas Grecia

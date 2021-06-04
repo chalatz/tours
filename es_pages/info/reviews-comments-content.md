@@ -1,13 +1,13 @@
 ---
 layout: empty
 sitemap: false
-id: reviews_comments_content
+id: reviews_comments_content_es
 meta:
-  title: Reviews, Rhodes Private Tours
-  http_desc: Reviews, Rhodes Private Tours, Testimonials
-  description: Reviews, Rhodes Private Tours, Testimonials
-  keywords: Reviews, Rhodes Private Tours
-  abstract: Reviews, Rhodes Private Tours, Testimonials
+  title: Opiniones y Comentarios sobre Tours en Rodas Grecia
+  http_desc: Opiniones y Comentarios sobre Tours en Rodas Grecia, Testimonios sobre tours en Rodas
+  description: Opiniones y Comentarios sobre Tours en Rodas Grecia, Testimonios sobre tours en Rodas, Rodas Isla en español
+  keywords: Opiniones y Comentarios sobre Tours en Rodas Grecia, Testimonios sobre tours en Rodas, Rodas Isla en español
+  abstract: Opiniones y Comentarios sobre Tours en Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
 title: Reviews, Comments and Testimonials of our Clients

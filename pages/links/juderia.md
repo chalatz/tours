@@ -12,7 +12,7 @@ meta:
   keywords: Rhodes Synagogue, Jewish Quarter in Rhodes, Jewish Museum, Rhodes Jewish
     Cemetery, Rhodes Exclusive Tours Greece, Square of the Martyred Jews Rhodes Greece
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Rhodes Synagogue, Jewish Quarter in Rhodes, Jewish Museum, Rhodes Jewish
     Cemetery
   http_desc: Rhodes Synagogue, Jewish Quarter in Rhodes, Jewish Museum, Rhodes Jewish
@@ -332,5 +332,5 @@ no_related_tours_text: ''
 ### Related Links "Rhodesli's" History and Traditions
 
 {: .centered }
-[WORLD MONUMENTS FUND-KAHAL SHALOM SYNAGOGUE](http://www.wmf.org/project/kahal-shalom-synagogue){: target="_blank"}    
+[WORLD MONUMENTS FUND-KAHAL SHALOM SYNAGOGUE](http://www.wmf.org/project/kahal-shalom-synagogue){: target="_blank"}
 [CONGREGATION EZRA BESSAROTH HISTORY](http://www.ezrabessaroth.net/about-us/history){: target="_blank"}

@@ -12,7 +12,7 @@ meta:
   keywords: Rhodes Walking Tours, Private Walking Tours in Rhodes Greece
   abstract: Rhodes Walking Tours
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 title: RHODES WALKING TOURS
 subtitle: PRIVATE WALKING TOURS BY LICENSED TOUR GUIDES
 head_photo:

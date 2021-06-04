@@ -14,7 +14,7 @@ meta:
   keywords: Rodini Park Rhodes Greece, Rhodini Park, Rhodes Private Tours, Rhodes
     Taxi Tours
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Rodini Park Rhodes Greece, Rhodini Park, Rhodes Private Tours, Rhodes
     Taxi Tours
 title: The Rodini Park in Rhodes Greece

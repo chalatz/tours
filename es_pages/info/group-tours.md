@@ -15,7 +15,7 @@ meta:
   keywords: Tours Privados Para Grupos en Rodas Grecia
   abstract: Tours Privados Para Grupos en Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
 title: TOURS PRIVADOS PARA GRUPOS EN RODAS GRECIA
 head_photo:
   src: "./img/tours-pages/head-photos/head-photo-group-tours.jpg"

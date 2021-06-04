@@ -11,7 +11,7 @@ meta:
   keywords: Rhodes Excursions, Rhodes Tours from Cruise Ship, Shore Excursions in
     Rhodes New Town, Greece
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Rhodes Excursions, Rhodes Tours from Cruise Ship
   http_desc: Rhodes Excursions, Rhodes Tours from Cruise Ship, Shore Excursions in
     Rhodes Greece

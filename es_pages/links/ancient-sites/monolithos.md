@@ -10,7 +10,7 @@ meta:
   description: Castillo de Monolithos, La Aldea y Castillo de Monolithos, Rodas Grecia
   keywords: Castillo de Monolithos, La Aldea y Castillo de Monolithos, Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Castillo de Monolithos, La Aldea y Castillo de Monolithos, Rodas Grecia
 title: Castillo de Monolitos
 summary: |-

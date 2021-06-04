@@ -16,7 +16,7 @@ meta:
   abstract: Rhodes Wine Tour Greece, Embona Village, Free Olive Oil Tasting Rhodes
     Greece
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   http_desc: ''
 summary:
   paragraphs:

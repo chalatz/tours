@@ -9,7 +9,7 @@ meta:
   http_desc: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
   description: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
   keywords: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
   author: Nick
 title: Did you know?  that...

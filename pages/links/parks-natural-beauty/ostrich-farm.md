@@ -14,7 +14,7 @@ meta:
   keywords: Ostrich Farm and Zoo Park in Rhodes,  Ostrich Farm in Rhodes, Private
     Tours in Rhodes, Rhodes Taxi Tours
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: Ostrich Farm and Zoo Park in Rhodes
 title: The Ostrich Farm and Zoo Park in Rhodes Greece
 summary: For both young and old alike the Rhodes Ostrich Farm is well - worth a visit.

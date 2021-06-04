@@ -11,7 +11,7 @@ meta:
   keywords: Rhodes Shore Trips, Rhodes Private Shore Tours, Shore Trips of Rhodes
     West Coast, Greece
   author: NK for Rhodes Private Tours
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   abstract: 'Rhodes Shore Trips, Rhodes Shore Tours '
   http_desc: Rhodes Shore Trips, Rhodes Private Shore Tours, Shore Trips of Rhodes
     West Coast

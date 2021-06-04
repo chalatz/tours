@@ -15,7 +15,7 @@ meta:
     Grecia
   abstract: Tour privado de día completo, Rodas Grecia
   author: Nick
-  copyright: NK for Rhodes Private Tours,2018
+  copyright: NK for Rhodes Private Tours,2021
   http_desc: Tour privado de día completo, Excursión Privado de día enteros en Rodas
     Grecia
 title: '"TOUR PRIVADO DE DÍA COMPLETO" '
@@ -200,7 +200,7 @@ end_page:
 ---
 Esto es un recorrido más largo que incluye "**Lo Mejor de Rodas**", más tiempo en la costa este para el descanso y el almuerzo en un restaurante en la costa Mediterránea con una vista panorámica hermosa.
 
-Al regreso conduciremos a través de la isla, de la costa este a la costa oeste. Atravesando aldeas y espesos bosques tomaremos el camino hacia el denominado **Valle de las Mariposas**, parque famoso por sus puentes de madera; sus innumerables árboles y los miles de mariposas que, desde mediados de junio hasta mediados de septiembre, visitan el lugar. Es su época de acoplamiento y el Valle de las Mariposas es su refugio. (Stop Visitar Fotos) 
+Al regreso conduciremos a través de la isla, de la costa este a la costa oeste. Atravesando aldeas y espesos bosques tomaremos el camino hacia el denominado **Valle de las Mariposas**, parque famoso por sus puentes de madera; sus innumerables árboles y los miles de mariposas que, desde mediados de junio hasta mediados de septiembre, visitan el lugar. Es su época de acoplamiento y el Valle de las Mariposas es su refugio. (Stop Visitar Fotos)
 
 Tras pocos kilómetros nos detenemos en una pequeña **Bodega de Vinos Tradicional Griega** donde usted tendrá la oportunidad de probar una selección de vinos producidos aquí. Igualmente usted podrá tomar fotografías de las instalaciones de añejamiento (Stop Visitar Fotos)
 
