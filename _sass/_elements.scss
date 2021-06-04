@@ -20,7 +20,7 @@
     //     display: none;
     // }
 }
-  
+
 .go-top.show { bottom: 20px; }
 
 .go-top:hover {
@@ -75,11 +75,11 @@
         padding-bottom: 1.2rem;
         border-radius: 3px;
         @include breakpoint(smaller) {
-            padding: .3rem 1rem;            
+            padding: .3rem 1rem;
             padding-bottom: 1.2rem;
         }
         @include breakpoint(small) {
-            padding: .5rem 2rem;            
+            padding: .5rem 2rem;
             padding-bottom: 1.2rem;
         }
         @include breakpoint(small) {
@@ -156,19 +156,38 @@
     padding: .1rem 1rem;
     font-weight: bold;
     font-size: 1.15rem;
-    background-color: $red;
-    color: #fff;
+    background-color: #fff;
+    color: $red;
+    border: 2px solid $red;
     border-radius: 3px;
     text-decoration: none;
     text-align: center;
-    margin: 1rem 0 1.5rem;
-    box-shadow: 0px 7px 0px 0px $darkred;
-    transition: background-color .15s linear;
+    margin: 1.5rem 0;
+    transition: background-color .15s linear, color .15s linear;
     &:hover {
-        background-color: $lightred;
-    }
-    &__cta {
-        text-decoration: underline;
-        font-size: 1.3rem;
+        background-color: $red;
+        color: #fff;
     }
 }
+
+// .emergency {
+//     display: block;
+//     padding: .1rem 1rem;
+//     font-weight: bold;
+//     font-size: 1.15rem;
+//     background-color: $red;
+//     color: #fff;
+//     border-radius: 3px;
+//     text-decoration: none;
+//     text-align: center;
+//     margin: 1rem 0 1.5rem;
+//     box-shadow: 0px 7px 0px 0px $darkred;
+//     transition: background-color .15s linear;
+//     &:hover {
+//         background-color: $lightred;
+//     }
+//     &__cta {
+//         text-decoration: underline;
+//         font-size: 1.3rem;
+//     }
+// }
