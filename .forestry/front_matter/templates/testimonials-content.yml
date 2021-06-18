@@ -2,15 +2,6 @@
 label: testimonials-content
 hide_body: false
 fields:
-- type: text
-  name: layout
-  label: layout
-- type: boolean
-  name: sitemap
-  label: sitemap
-- type: text
-  name: id
-  label: id
 - type: field_group
   name: meta
   label: meta
@@ -18,11 +9,23 @@ fields:
   - type: text
     name: title
     label: title
-  - type: text
-    name: http_desc
+  - name: http_desc
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: http_desc
-  - type: text
-    name: description
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: description
   - type: text
     name: keywords
@@ -52,6 +55,12 @@ fields:
   - type: text
     name: year
     label: year
-  - type: text
-    name: text
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: text
