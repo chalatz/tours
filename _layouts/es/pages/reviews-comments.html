@@ -54,11 +54,13 @@ layout: es/plain-page
   <section class="page__content">
     <ul class="reviews-comments__years-list">
         {%- for review in reviews_page.reviews -%}
+          {%- if review.text and review.text.size > 0 -%}
             <li class="reviews-comments__years-list-item">
-            <a href="#{{- review.year -}}" class="reviews-comments__years-list-link">
-              {{- review.year -}}
-            </a>
+              <a href="#{{- review.year -}}" class="reviews-comments__years-list-link">
+                {{- review.year -}}
+              </a>
             </li>
+          {%- endif -%}
         {%- endfor -%}
     </ul>
   </section>
@@ -66,10 +68,11 @@ layout: es/plain-page
   <section class="page__content page__content--plain-page">
     {%- if page.lang == 'es' -%}
       <h2>
-          Opiniones y Comentarios sobre Tours en Rodas Grecia
+        Opiniones y Comentarios sobre Tours en Rodas Grecia
       </h2>
     {%- endif -%}
     {%- for review in reviews_page.reviews -%}
+      {%- if review.text and review.text.size > 0 -%}
         <span class="anchor-section" id="{{- review.year -}}"></span>
         {%- if page.lang == 'es' -%}
           <h3>
@@ -90,6 +93,7 @@ layout: es/plain-page
             </a>
           </div>
         {%- endif -%}
+      {%- endif -%}
     {%- endfor -%}
   </section>
 

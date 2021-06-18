@@ -12,6 +12,8 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
 title: Opiniones y Comentarios sobre Tours en Rodas Grecia
 reviews:
+- year: "2021"
+  text: ""
 - year: "2020"
   text: |-
     Nos contactamos con Nicholas un mes antes del arribo de nuestro crucero, muy rápido y amablemente respondió nuestras inquietudes. Cuando llegamos al puerto de Rodas teníamos una van Mercedes Benz en excelentes condiciones esperando con mi nombre para iniciar la excursión. Fue nuestra tercera visita a la isla, que es preciosa, esta vez conocimos Lindos que es imperdible, sus vistas, el pueblo. El valor agregado fue sin duda nuestro guía Alex. ¡¡No solo un gran conocedor de la historia, sino que narro todo de una manera súper entretenida desde los egipcios hasta la actualidad!! ¡¡¡Un genio Alex!!!    **Maribel F.  (15 - 2 - 2020) Argentina**

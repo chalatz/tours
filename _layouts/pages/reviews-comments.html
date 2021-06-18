@@ -11,7 +11,7 @@ layout: plain-page
 <main class="container page reviews-comments">
 
   <div class="page__headings">
-  
+
     <span class="anchor-section" id="reviews-top"></span>
     <h1 class="page__title page__title--plain-page page__title--reviews_comments_page">
       {{- reviews_page.title | upcase -}}
@@ -46,20 +46,23 @@ layout: plain-page
   <section class="page__content">
     <ul class="reviews-comments__years-list">
         {%- for review in reviews_page.reviews -%}
+          {%- if review.text and review.text.size > 0 -%}
             <li class="reviews-comments__years-list-item">
-            <a href="#{{- review.year -}}" class="reviews-comments__years-list-link">
-              {{- review.year -}}
-            </a>
+              <a href="#{{- review.year -}}" class="reviews-comments__years-list-link">
+                {{- review.year -}}
+              </a>
             </li>
+          {%- endif -%}
         {%- endfor -%}
     </ul>
   </section>
 
   <section class="page__content page__content--plain-page">
     {%- for review in reviews_page.reviews -%}
+      {%- if review.text and review.text.size > 0 -%}
         <span class="anchor-section" id="{{- review.year -}}"></span>
         <h3>
-            REVIEWS - TESTIMONIALS {{ review.year }}
+          REVIEWS - TESTIMONIALS {{ review.year }}
         </h3>
         <div class="reviews-comments__content">
           {{ review.text | markdownify }}
@@ -69,8 +72,8 @@ layout: plain-page
             &uarr; Back to the top &uarr;
           </a>
         </div>
+      {%- endif -%}
     {%- endfor -%}
-  </section>  
-
+  </section>
 
 </main>
