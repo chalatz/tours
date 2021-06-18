@@ -64,3 +64,5 @@ fields:
       schema:
         format: markdown
     label: text
+pages:
+- pages/info/reviews-comments-content.md
