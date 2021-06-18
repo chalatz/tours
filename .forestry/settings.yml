@@ -130,7 +130,6 @@ sections:
 - type: document
   path: es_pages/info/reviews-comments-content.md
   label: Testimonials - Comentarios
-  match: "**/*"
 - type: document
   path: es_pages/info/faq.md
   label: FAQ
