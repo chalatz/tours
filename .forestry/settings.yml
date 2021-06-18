@@ -35,7 +35,7 @@ sections:
   path: pages/info/contact.md
   label: Contact Us Page
 - type: document
-  path: pages/info/reviews_comments_content.md
+  path: pages/info/reviews-comments-content.md
   label: Testimonials page
 - type: document
   path: pages/info/destinations.md
