@@ -1,0 +1,51 @@
+---
+label: ES - Testimonials
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: boolean
+  name: sitemap
+  label: sitemap
+- type: text
+  name: id
+  label: id
+- type: field_group
+  name: meta
+  label: meta
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: http_desc
+    label: http_desc
+  - type: textarea
+    name: description
+    label: description
+  - type: textarea
+    name: keywords
+    label: keywords
+  - type: text
+    name: abstract
+    label: abstract
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: copyright
+    label: copyright
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: reviews
+  label: reviews
+  fields:
+  - type: text
+    name: year
+    label: year
+  - type: text
+    name: text
+    label: text
