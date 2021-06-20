@@ -16,9 +16,10 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
-  text: Hi Nicholas, Our trip in Greece was great thanks, and the day Michael took
-    us on the tour was definitely the highlight. We hope to see you again someday.
-    Regards, **Ronny S. (May 30th) New Jersey**
+  text: |-
+    Nicholas. We enjoyed the tour and the scenery of Rhodes, our driver was informative and interesting. You've got a pretty Island with many interesting sites spots to go to. Thanks again. **Edward W. (June 12th) Tempe Arizona USA**
+
+    Hi Nicholas, Our trip in Greece was great thanks, and the day Michael took us on the tour was definitely the highlight. We hope to see you again someday. Regards, **Ronny S. (May 30th) New Jersey**
 - year: "2020"
   text: |-
     Just a quick message to say a big thank you to Michael for an excellent tour to Rhodes Town and Lindos. We really enjoyed it and my husband loved chatting to Michael about the history of Greece and other matters!!!! We will certainly put an excellent review on trip advisor! <br> Best regards  **Tracey and Family. (30th Oct) U.K.**
