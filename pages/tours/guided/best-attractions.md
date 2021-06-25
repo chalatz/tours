@@ -229,7 +229,7 @@ You will be driven to the New Town where you will be able to catch a glimpse of 
 
 Near the harbor is the **Church of the Annunciation**, which is home to famous wall artwork by the likes of Fotis Kontoglou and other artists. The place has since been transformed into the town's Cathedral.
 
-Then past the rest of the imposing buildings, where the **Venetian, Gothic and Oriental elements** blend and the north point of the island where the Mediterranean and the Aegean Sea meet.  
+Then past the rest of the imposing buildings, where the **Venetian, Gothic and Oriental elements** blend and the north point of the island where the Mediterranean and the Aegean Sea meet.
 
 **MONTE SMITH**
 
@@ -237,11 +237,11 @@ Your trip will continue upwards to Monte Smith - **the Acropolis of Rhodes City*
 
 **THE JOURNEY TO LINDOS**
 
-The journey to Lindos takes you through a 50-km or 32-mile drive along the east coast of the island, where you'll catch glimpses of beautiful villages, the blue turquoise sea, and a landscape filled with orange and olive trees. Y
+The journey to Lindos takes you through a 50-km or 32-mile drive along the east coast of the island, where you'll catch glimpses of beautiful villages, the blue turquoise sea, and a landscape filled with orange and olive trees.
 
-**RHODIAN TRADITIONAL ART** 
+**RHODIAN TRADITIONAL ART**
 
-our tour guide will make a brief stop at a local pottery workshop. Here you'll see how the potter works at his wheel to make the famous rhodian potteries. You can also learn the mystery of the Pythagorean cup. <u>Guided Tour</u> (Stop Visit Photos).
+Your tour guide will make a brief stop at a local pottery workshop. Here you'll see how the potter works at his wheel to make the famous rhodian potteries. You can also learn the mystery of the Pythagorean cup. <u>Guided Tour</u> (Stop Visit Photos).
 
 **PANORAMIC VIEW OF LINDOS**
 
