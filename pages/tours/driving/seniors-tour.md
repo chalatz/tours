@@ -57,7 +57,7 @@ overview:
       the film “The Guns of Navarone” was filmed. (Stop Photos)"
   - title: You don't enter Lindos Village or Acropolis to skip walking. From a closer
       vantage point you can get your great photos (Stop Photos)
-  - title: On the Way back a beak for refreshments or a light snack (not normal lunch)
+  - title: On the Way back a break for refreshments or a light snack (not normal lunch)
       at a Seaside village at the Mediterranean Sea right on the water’s edge - scenic
   - title: We continue back and the last 14km / 8 miles we drive via Faliraki beautiful
       beach and Kallithea spa, the coastal road
