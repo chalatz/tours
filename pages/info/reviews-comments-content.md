@@ -16,15 +16,18 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
-  text: "Aloha from Kauai.  Manuel was EXCELLENT and we really enjoyed the tour.  I
-    have a tour company here on Kauai and do the same thing here - your service was
-    great!!. Thanks so much!!. **Randall L. (July 4th) Hawaiian Islands**\n\nHallo,
-    hiermit möchten wir uns nochmal für den sehr gut geplanten Ausflug auf Rhodos
-    bedanken. Die Fahrt nach Rhodos- Stadt war sehr informativ und unser Fahrer Stergos
-    hielt an vielen Aussichtpunkten, wo wir sehr schöne Fotos machen könnten. Wir
-    waren an Punkten wo kein Reisebus hin kommt. Desweiteren erzählte er uns sehr
-    viel über die Natur und Besonderheiten von Rhodos.Vielen Dank, **Ralf B. (1st
-    July) Germany**  \n\nNicholas. We enjoyed the tour and the scenery of Rhodes,
+  text: "Fully customised tour with some amazing recommendations and little spots
+    off the beaten track. Stergos, thank you for showing us your Rhodes. You made
+    us feel like a local and part of your extended family. Amazing day. **Jonathan
+    (7th July) London UK** \n\nAloha from Kauai.  Manuel was EXCELLENT and we really
+    enjoyed the tour.  I have a tour company here on Kauai and do the same thing here
+    - your service was great!!. Thanks so much!!. **Randall L. (July 4th) Hawaiian
+    Islands**\n\nHallo, hiermit möchten wir uns nochmal für den sehr gut geplanten
+    Ausflug auf Rhodos bedanken. Die Fahrt nach Rhodos- Stadt war sehr informativ
+    und unser Fahrer Stergos hielt an vielen Aussichtpunkten, wo wir sehr schöne Fotos
+    machen könnten. Wir waren an Punkten wo kein Reisebus hin kommt. Desweiteren erzählte
+    er uns sehr viel über die Natur und Besonderheiten von Rhodos.Vielen Dank, **Ralf
+    B. (1st July) Germany**\n\nNicholas. We enjoyed the tour and the scenery of Rhodes,
     our driver was informative and interesting. You've got a pretty Island with many
     interesting sites spots to go to. Thanks again. **Edward W. (June 12th) Tempe
     Arizona USA**\n\nHi Nicholas, Our trip in Greece was great thanks, and the day
