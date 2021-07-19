@@ -1,5 +1,5 @@
 .langs {
-    
+
     margin: 0;
     padding: 0;
     padding-top: .8rem;
@@ -38,9 +38,11 @@
         @include breakpoint(larger) {
             font-size: 1.2rem
         }
-        
+
         &:last-child {
-            padding-bottom: 0;
+            @include breakpoint(medium) {
+                padding-bottom: 0;
+            }
         }
 
         &--active {
