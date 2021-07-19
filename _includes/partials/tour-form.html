@@ -152,32 +152,75 @@
                         {%- else -%}
                             <label class="form__label" for="speaking_language">Driver must be able to speak:</label>
                         {% endif %}
-                        <div class="form__row">
-                            <div class="form__radio-group">
-                                <input type="radio" value="English" checked name="speaking_language" id="fp5">
-                                <label for="fp5">&nbsp;English</label>
+                        {%- if page.type == 'guided_tours_page' or page.type == 'walking_tours_page' -%}
+                            <div class="form__row">
+                                <div class="form__radio-group">
+                                    <input type="radio" value="English" checked name="speaking_language" id="fp5">
+                                    <label for="fp5">&nbsp;English</label>
+                                </div>
+                                <div class="form__radio-group">
+                                    <input type="radio" value="Italian" name="speaking_language" id="fp9">
+                                    <label for="fp9">&nbsp;Italian</label>
+                                </div>
                             </div>
-                            <div class="form__radio-group">
-                                <input type="radio" value="German" name="speaking_language" id="fp8">
-                                <label for="fp8">&nbsp;German</label>
+                            <div class="form__row">
+                                <div class="form__radio-group">
+                                    <input type="radio" value="French" name="speaking_language" id="fp6">
+                                    <label for="fp6">&nbsp;French</label>
+                                </div>
+                                <div class="form__radio-group">
+                                    <input type="radio" value="Russian" name="speaking_language" id="fp10">
+                                    <label for="fp6">&nbsp;Russian</label>
+                                </div>
                             </div>
-                        </div>
-                        <div class="form__row">
-                            <div class="form__radio-group">
-                                <input type="radio" value="French" name="speaking_language" id="fp6">
-                                <label for="fp6">&nbsp;French</label>
+                            <div class="form__row">
+                                <div class="form__radio-group">
+                                    <input type="radio" value="Spanish" name="speaking_language" id="fp7">
+                                    <label for="fp7">&nbsp;Spanish</label>
+                                </div>
+                                <div class="form__radio-group">
+                                    <input type="radio" value="Finnish" name="speaking_language" id="fp11">
+                                    <label for="fp8">&nbsp;Finnish</label>
+                                </div>
                             </div>
-                            <div class="form__radio-group">
-                                <input type="radio" value="Italian" name="speaking_language" id="fp9">
-                                <label for="fp9">&nbsp;Italian</label>
+                            <div class="form__row">
+                                <div class="form__radio-group">
+                                    <input type="radio" value="German" name="speaking_language" id="fp8">
+                                    <label for="fp8">&nbsp;German</label>
+                                </div>
+                                <div class="form__radio-group">
+                                    <input type="radio" value="Swedish" name="speaking_language" id="fp12">
+                                    <label for="fp7">&nbsp;Swedish</label>
+                                </div>
                             </div>
-                        </div>
-                        <div class="form__row">
-                            <div class="form__radio-group">
-                                <input type="radio" value="Spanish" name="speaking_language" id="fp7">
-                                <label for="fp7">&nbsp;Spanish</label>
+                        {%- else -%}
+                            <div class="form__row">
+                                <div class="form__radio-group">
+                                    <input type="radio" value="English" checked name="speaking_language" id="fp5">
+                                    <label for="fp5">&nbsp;English</label>
+                                </div>
+                                <div class="form__radio-group">
+                                    <input type="radio" value="German" name="speaking_language" id="fp8">
+                                    <label for="fp8">&nbsp;German</label>
+                                </div>
                             </div>
-                        </div>
+                            <div class="form__row">
+                                <div class="form__radio-group">
+                                    <input type="radio" value="French" name="speaking_language" id="fp6">
+                                    <label for="fp6">&nbsp;French</label>
+                                </div>
+                                <div class="form__radio-group">
+                                    <input type="radio" value="Italian" name="speaking_language" id="fp9">
+                                    <label for="fp9">&nbsp;Italian</label>
+                                </div>
+                            </div>
+                            <div class="form__row">
+                                <div class="form__radio-group">
+                                    <input type="radio" value="Spanish" name="speaking_language" id="fp7">
+                                    <label for="fp7">&nbsp;Spanish</label>
+                                </div>
+                            </div>
+                        {%- endif -%}
                     </div>
 
                     <div class="form__group desktop-only desktop-only--block">
