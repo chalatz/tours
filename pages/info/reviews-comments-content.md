@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
   text: |-
+    We went on a month-long trip to Greece and did countless private tours so that we could see what we wanted to and maximize our time. This was by far the best tour we went on and it was largely due to our incredible driver Manolis. An incredible day and the tour itself was very, very affordable even after adding on two hours the day of. Cannot recommend enough!!  **Victoria C. (Aug 3rd) Atlanta, GA, USA**
+
     Hi Nicholas, Thank you for the wonderful tour! Mike provided lots of good information and was a very pleasant person to spend the day with. I will be sure to write a review once I get back home. Thanks again, **Bill W. (July 28th) Columbus, Ohio, USA**
 
     Nickolas thanks for all your great service. Michael was excellent and we really enjoyed our day. We will refer you in the future and hope to use you again one day. All the best, **Karen (July 22nd) Scottsdale, AZ USA**
