@@ -17,7 +17,7 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
   text: |-
-    Nicholas it was a pleasure meeting you. Glad to bring some business to Rhodes and hope to return again one day. Kostas and Jakob were the best. Thank you for arranging our tour and coming down to the dock to greet us. <br>**Ken, H. and Family (Aug 24th) USA**
+    Dear Nick and Mike, Thanks so much for the tour - it was a great way to see the beautiful island in a few hours and gave us a taste of where we want to go next time, we visit Rhodes! Once again thanks and we’ll make sure to recommend you to anyone we know coming to Rhodes! <br>Best, **Margaret M. (24 Aug) Switzerland**
 
     Hi Nick- We had a wonderful time and would not change a thing with Michael. Our experience was fantastic. We love Rhodes! I will let fellow Altour agents be aware of your service. <br>Best - **Diane (Aug 6th) Newport Beach, CA, US**
 
