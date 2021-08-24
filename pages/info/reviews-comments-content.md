@@ -17,23 +17,25 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
   text: |-
-    Hi Nick- We had a wonderful time and would not change a thing with Michael. Our experience was fantastic. We love Rhodes! I will let fellow Altour agents be aware of your service. Best - **Diane (Aug 6th) Newport Beach, CA, US**
+    Nicholas it was a pleasure meeting you. Glad to bring some business to Rhodes and hope to return again one day. Kostas and Jakob were the best. Thank you for arranging our tour and coming down to the dock to greet us. <br>**Ken, H. and Family (Aug 24th) USA**
 
-    We went on a month-long trip to Greece and did countless private tours so that we could see what we wanted to and maximize our time. This was by far the best tour we went on and it was largely due to our incredible driver Manolis. An incredible day and the tour itself was very, very affordable even after adding on two hours the day of. Cannot recommend enough!!  **Victoria C. (Aug 3rd) Atlanta, GA, USA**
+    Hi Nick- We had a wonderful time and would not change a thing with Michael. Our experience was fantastic. We love Rhodes! I will let fellow Altour agents be aware of your service. <br>Best - **Diane (Aug 6th) Newport Beach, CA, US**
 
-    Hi Nicholas, Thank you for the wonderful tour! Mike provided lots of good information and was a very pleasant person to spend the day with. I will be sure to write a review once I get back home. Thanks again, **Bill W. (July 28th) Columbus, Ohio, USA**
+    We went on a month-long trip to Greece and did countless private tours so that we could see what we wanted to and maximize our time. This was by far the best tour we went on and it was largely due to our incredible driver Manolis. An incredible day and the tour itself was very, very affordable even after adding on two hours the day of. Cannot recommend enough!!  <br>**Victoria C. (Aug 3rd) Atlanta, GA, USA**
 
-    Nickolas thanks for all your great service. Michael was excellent and we really enjoyed our day. We will refer you in the future and hope to use you again one day. All the best, **Karen (July 22nd) Scottsdale, AZ USA**
+    Hi Nicholas, Thank you for the wonderful tour! Mike provided lots of good information and was a very pleasant person to spend the day with. I will be sure to write a review once I get back home. <br>Thanks again, **Bill W. (July 28th) Columbus, Ohio, USA**
 
-    Fully customised tour with some amazing recommendations and little spots off the beaten track. Stergos, thank you for showing us your Rhodes. You made us feel like a local and part of your extended family. Amazing day. **Jonathan (7th July) London UK**
+    Nickolas thanks for all your great service. Michael was excellent and we really enjoyed our day. We will refer you in the future and hope to use you again one day. <br> All the best, **Karen (July 22nd) Scottsdale, AZ USA**
 
-    Aloha from Kauai.  Manuel was EXCELLENT and we really enjoyed the tour.  I have a tour company here on Kauai and do the same thing here - your service was great!!. Thanks so much!!. **Randall L. (July 4th) Hawaiian Islands**
+    Fully customised tour with some amazing recommendations and little spots off the beaten track. Stergos, thank you for showing us your Rhodes. You made us feel like a local and part of your extended family. Amazing day. <br>**Jonathan (7th July) London UK**
 
-    Hallo, hiermit möchten wir uns nochmal für den sehr gut geplanten Ausflug auf Rhodos bedanken. Die Fahrt nach Rhodos- Stadt war sehr informativ und unser Fahrer Stergos hielt an vielen Aussichtpunkten, wo wir sehr schöne Fotos machen könnten. Wir waren an Punkten wo kein Reisebus hin kommt. Desweiteren erzählte er uns sehr viel über die Natur und Besonderheiten von Rhodos.Vielen Dank, **Ralf B. (1st July) Germany**
+    Aloha from Kauai.  Manuel was EXCELLENT and we really enjoyed the tour.  I have a tour company here on Kauai and do the same thing here - your service was great!!. Thanks so much!!. <br>**Randall L. (July 4th) Hawaiian Islands**
 
-    Nicholas. We enjoyed the tour and the scenery of Rhodes, our driver was informative and interesting. You've got a pretty Island with many interesting sites spots to go to. Thanks again. **Edward W. (June 12th) Tempe Arizona USA**
+    Hallo, hiermit möchten wir uns nochmal für den sehr gut geplanten Ausflug auf Rhodos bedanken. Die Fahrt nach Rhodos- Stadt war sehr informativ und unser Fahrer Stergos hielt an vielen Aussichtpunkten, wo wir sehr schöne Fotos machen könnten. Wir waren an Punkten wo kein Reisebus hin kommt. Desweiteren erzählte er uns sehr viel über die Natur und Besonderheiten von Rhodos.Vielen Dank, <br>**Ralf B. (1st July) Germany**
 
-    Hi Nicholas, Our trip in Greece was great thanks, and the day Michael took us on the tour was definitely the highlight. We hope to see you again someday. Regards, **Ronny S. (May 30th) New Jersey**
+    Nicholas. We enjoyed the tour and the scenery of Rhodes, our driver was informative and interesting. You've got a pretty Island with many interesting sites spots to go to. <br>Thanks again. **Edward W. (June 12th) Tempe Arizona USA**
+
+    Hi Nicholas, Our trip in Greece was great thanks, and the day Michael took us on the tour was definitely the highlight. We hope to see you again someday.<br>Regards, **Ronny S. (May 30th) New Jersey**
 - year: "2020"
   text: |-
     Just a quick message to say a big thank you to Michael for an excellent tour to Rhodes Town and Lindos. We really enjoyed it and my husband loved chatting to Michael about the history of Greece and other matters!!!! We will certainly put an excellent review on trip advisor! <br> Best regards  **Tracey and Family. (30th Oct) U.K.**
