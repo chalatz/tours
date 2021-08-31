@@ -17,6 +17,10 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
   text: |-
+    Hi Nick, we had a great tour with Manuel. We all loved Rhodes. There wasn't anything we would have changed. I hope to be able to come back with other family in the near future and take a tour again with you.<br>**Diane, Tony, Lindsay and Alex (Sept 1st) Merritt Island, Florida, USA**
+
+    Nick, our tour was excellent. Our tour-driver Mike was a great source of information and highlights on our day tour. We saw all the sites we wanted and more. Could not be happier with this tour-service. No hesitation in recommending it to others. <br>**David M. (Sept 1st) USA**
+
     Dear Nick and Mike, Thanks so much for the tour - it was a great way to see the beautiful island in a few hours and gave us a taste of where we want to go next time, we visit Rhodes! Once again thanks and we’ll make sure to recommend you to anyone we know coming to Rhodes! <br>Best, **Margaret M. (24 Aug) Switzerland**
 
     Hi Nick- We had a wonderful time and would not change a thing with Michael. Our experience was fantastic. We love Rhodes! I will let fellow Altour agents be aware of your service. <br>Best - **Diane (Aug 6th) Newport Beach, CA, US**
