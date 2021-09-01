@@ -147,6 +147,8 @@ faq:
   - q: We are two persons but would love to have a driver and a licensed tour guide.  Is
       it compulsory a minimum number of passengers?
     a: 'No. The tour is private and sufficient even with one person. '
+  - q: "I'd like to know how much this tour it cost per person"
+    a: All the tours are 100% private, not semi-private share-tours, or bus-tours, no strangers in the vehicle. The tour will be conducted <u>only for you</u>, obviously the price cannot be per person, but per group-service (even if you are one person).
   - q: There are four more people would like to join the tour with us, can we add
       them to our group?
     a: Any last-minute additions to the number of passengers must be submitted at
