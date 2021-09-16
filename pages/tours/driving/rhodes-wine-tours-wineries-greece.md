@@ -7,14 +7,16 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Rhodes Wine Tour Greece, Wine Roads Rhodes, Embona Village Wine Tours,  Free
-    Olive Oil Tasting Rhodes Greece, Free Wine Tasting, Rhodes Wineries
-  description: RHODES WINE TOUR Greece, Wine Roads Rhodes, Embona Village Wine Tours,  Free
-    Olive Oil Tasting Rhodes Greece, Free Wine Tasting, Rhodes Wineries
-  keywords: Rhodes Wine Tour Greece, Wine Roads Rhodes, Embona Village Wine Tours,  Free
-    Olive Oil Tasting Rhodes Greece, Free Wine Tasting, Rhodes Wineries
-  abstract: Rhodes Wine Tour Greece, Embona Village, Free Olive Oil Tasting Rhodes
-    Greece
+  title: Rhodes Wine Tour, Rhodes Wine Tasting Tour, Wine Roads Rhodes, Embona Rhodes
+    Wine Tours,  Free Olive Oil Tasting Rhodes Greece, Free Wine Tasting, Rhodes Wineries
+  description: Rhodes Wine Tour, Rhodes Wine Tasting Tour, Wine Roads Rhodes, Embona
+    Rhodes Wine Tours,  Free Olive Oil Tasting Rhodes Greece, Free Wine Tasting, Rhodes
+    Wineries
+  keywords: Rhodes Wine Tour, Rhodes Wine Tasting Tour, Wine Roads Rhodes, Embona
+    Rhodes Wine Tours,  Free Olive Oil Tasting Rhodes Greece, Free Wine Tasting, Rhodes
+    Wineries
+  abstract: Rhodes Wine Tour, Rhodes Wine Tasting Tour, Wine Roads Rhodes, Embona
+    Rhodes Wine Tours
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   http_desc: ''
