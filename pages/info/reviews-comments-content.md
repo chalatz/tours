@@ -16,9 +16,8 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
-  text: |2-
-
-    Dear Nicolas, we enjoyed the tour very much, and appreciated our very knowledgeable guide, Michael. It was a pleasure. Thank you for checking up on us. <br>Kind regards **Berit and Niels (21 Sept) Denmark**
+  text: |-
+    Dear Nicolas, we enjoyed the tour very much, and appreciated our very knowledgeable guide, Michael. It was a pleasure. Thank you for checking up on us. Kind regards **Berit and Niels (21 Sept) Denmark**
 
     This was one of our more memorable excursions! Nicholas was outstanding in communicating with me prior to our arrival and he was waiting at the cruise dock along with our driver.   We were greeted warmly and put at ease in the times of COVID when our driver mentioned that he was fully vaccinated. We went to Lindos and he knew all the spots for the best views, photos. It was just me and my husband so no worries about crowds and trying to push your way to the best area.   All and all a beautiful and memorable experience. I would not hesitate to book with them, you will be thrilled with the level of service and the price is reasonable considering what high level of service you're getting. <br>Thank you again Nicholas for your outstanding service!!<br>**Sandy S. (Sept 15th) Portsmouth, RI, USA**
 
