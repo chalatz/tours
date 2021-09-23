@@ -17,7 +17,9 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
   text: |-
-    Dear Nicolas, we enjoyed the tour very much, and appreciated our very knowledgeable guide, Michael. It was a pleasure. Thank you for checking up on us. Kind regards **Berit and Niels (21 Sept) Denmark**
+    Dear Nicholas, we would like to thank you very much for our custom tour of the sites & wineries. We had an unforgettable day & loved every second. Our tour-driver Michael was perfect. We saw everything we wanted to see & got a way better feel to Rhodes than staying in the resort. Of course, the wineries were amazing & we brought a lot of wine home to enjoy. The meal at the local taverna was also perfect. We can’t thank you enough for the amazing memories we made & the trip may seem a long day to anyone thinking about booking but it went by in a very enjoyable flash. Would advise anyone to add this on your plans for a trip to Rhodes. If you want to really see a place rather than just enjoy the weather & holiday it is a must. <br>Best Wishes **Lisa, Aaron, Lana & Paul (23rd Sept) Bristol, UK**
+
+    Hi Nicolas, we enjoyed the tour very much, and appreciated our very knowledgeable guide, Michael. It was a pleasure. Thank you for checking up on us. Kind regards **Berit and Niels (21 Sept) Denmark**
 
     This was one of our more memorable excursions! Nicholas was outstanding in communicating with me prior to our arrival and he was waiting at the cruise dock along with our driver.   We were greeted warmly and put at ease in the times of COVID when our driver mentioned that he was fully vaccinated. We went to Lindos and he knew all the spots for the best views, photos. It was just me and my husband so no worries about crowds and trying to push your way to the best area.   All and all a beautiful and memorable experience. I would not hesitate to book with them, you will be thrilled with the level of service and the price is reasonable considering what high level of service you're getting. <br>Thank you again Nicholas for your outstanding service!!<br>**Sandy S. (Sept 15th) Portsmouth, RI, USA**
 
