@@ -19,7 +19,7 @@
   type: driving
 
 - name: 'Rhodes Wine Tour-DT5'
-  url: ./Rhodes rhodes_wine_tours_wineries_greece.htm
+  url: ./rhodes_wine_tours_wineries_greece.htm
   id: wine_tours
   type: driving
 
@@ -125,5 +125,5 @@
 
 - name: 'Rhodes By Night Tour-WT3'
   url: ./rhodesnightlife_rhodesbynight.htm
-  id: walking_rhodesnightlife_rhodesbynight      
+  id: walking_rhodesnightlife_rhodesbynight
   type: walking
