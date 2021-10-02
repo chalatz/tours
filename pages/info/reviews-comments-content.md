@@ -16,7 +16,12 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
-  text: |-
+  text: |2-
+
+    Michael was fantastic. He tailored a tour for us. Great clean car. Skilled professional driving. So knowledgeable about Rhodes, without overwhelming us and he answered all our questions. The timings throughout were flexible and we visited the sites we wanted with time to explore on our own. To end a wonderful local restaurant meal and wine tasting with him advising us so we didn’t over order! A wonderful driver! <br>**Elizabeth and Anthony (2nd Oct) UK**
+
+    Nicholas thanks for everything! Your services were excellent and I will definitely recommend you in the future! :)  Your island is beautiful and we loved seeing it. <br>Blessings, **Dorothy S. (Oct 1st) USA**
+
     Dear Nicholas, we would like to thank you very much for our custom tour of the sites & wineries. We had an unforgettable day & loved every second. Our tour-driver Michael was perfect. We saw everything we wanted to see & got a way better feel to Rhodes than staying in the resort. Of course, the wineries were amazing & we brought a lot of wine home to enjoy. The meal at the local taverna was also perfect. We can’t thank you enough for the amazing memories we made & the trip may seem a long day to anyone thinking about booking but it went by in a very enjoyable flash. Would advise anyone to add this on your plans for a trip to Rhodes. If you want to really see a place rather than just enjoy the weather & holiday it is a must. <br>Best Wishes **Lisa, Aaron, Lana & Paul (23rd Sept) Bristol, UK**
 
     Hi Nicolas, we enjoyed the tour very much, and appreciated our very knowledgeable guide, Michael. It was a pleasure. Thank you for checking up on us. Kind regards **Berit and Niels (21 Sept) Denmark**
