@@ -16,7 +16,8 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
-  text: |2-
+  text: |-
+    Dear Nicholas, it was a great day, we have seen a lot of new sites, and a big thanks for Manolis what a great, kind, sweet guide he is. We love him! Thanks for the great tour. You company is worth gold!!!! <br>Thank you, **Natalie, Ed, Tineke, Jan (4th Oct) Netherlands, Zuid-Holland**
 
     Michael was fantastic. He tailored a tour for us. Great clean car. Skilled professional driving. So knowledgeable about Rhodes, without overwhelming us and he answered all our questions. The timings throughout were flexible and we visited the sites we wanted with time to explore on our own. To end a wonderful local restaurant meal and wine tasting with him advising us so we didn’t over order! A wonderful driver! <br>**Elizabeth and Anthony (2nd Oct) UK**
 
