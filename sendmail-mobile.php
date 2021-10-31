@@ -17,10 +17,10 @@ $first_name = '';
 $e_mail = '';
 $comments = '';
 
-$ipAddress = $api_result['ip'];
-$countryCode = $api_result['country_code'];
-$countryName = $api_result['country_name'];
-$regionName = $api_result['region_name'];
+$ipAddress = $api_result['query'];
+$countryCode = $api_result['countryCode'];
+$countryName = $api_result['country'];
+$regionName = $api_result['region'];
 $cityName = $api_result['city'];
 $zipCode = $api_result['zip'];
 
