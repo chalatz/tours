@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
   text: |-
+    Hi Nick, We had a fabulous time. Your team are a credit to you. Informative and funny Please pass on our best wishes to them. <br>Kind regards **Ann M. (1st Nov) Cardiff, Wales, UK**
+
     Nicholas: Betty and I would like to thank you for making our trip to Rhodes most memorable. Emmanuel did an excellent job showing us around your beautiful island. He is a great ambassador for your country and your company. Thanks again for making our stay one of the best on our cruise. <br>Best wishes! **Don K. (Oct 24th) Champaign, Illinois, USA**
 
     Dear Nicholas, it was a great day, we have seen a lot of new sites, and a big thanks for Manolis what a great, kind, sweet guide he is. We love him! Thanks for the great tour. You company is worth gold!!!! <br>Thank you, **Natalie, Ed, Tineke, Jan (4th Oct) Netherlands, Zuid-Holland**
