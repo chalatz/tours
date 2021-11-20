@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2021"
   text: |-
+    Hello Nick, thank you for the great experience of the tour, my family and I enjoyed very much and Manuel was very friendly and knowledgeable of the history of Greece. Please extend our gratitude to him on behalf of the family and myself. I’ll recommend your services to all my friends. Thanks again and be safe. <br>Sincerely, **Daniel L. and Family (Nov 20th) Miami USA**
+
     Hi Nick, We had a fabulous time. Your team are a credit to you. Informative and funny Please pass on our best wishes to them. <br>Kind regards **Ann M. (1st Nov) Cardiff, Wales, UK**
 
     Nicholas: Betty and I would like to thank you for making our trip to Rhodes most memorable. Emmanuel did an excellent job showing us around your beautiful island. He is a great ambassador for your country and your company. Thanks again for making our stay one of the best on our cruise. <br>Best wishes! **Don K. (Oct 24th) Champaign, Illinois, USA**
