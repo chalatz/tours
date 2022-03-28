@@ -16,12 +16,10 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
-  text: Dear Nicholas, we really enjoyed our visit of Rhodes. Our tour-driver Michael
-    did an excellent job getting us to our sites, and was very professional. The island
-    is beautiful and historic. We also came home and watched “The Guns of Navarone”
-    and saw many familiar scenes. We would certainly recommend your company and your
-    driver Michael to others.<br>Sincerely, **Kevin and Jacque M. (Jan 11th) Houston,
-    Tx, USA**
+  text: |-
+    We've used many private tours in the past and have always been very pleased. Michael was a wonderful guide! He was friendly, knowledgeable, willing to accommodate our tour requests and happy to answer any and all of our questions. We would recommend this tour company to anyone wants to see all the beauty and variety of Rhodes!! This tour came at the end of two weeks of travel. Our lunch by the sea was the perfect end to our adventures! <br>**Deborah S. (March 28th) Louisville, Kentucky US**
+
+    Dear Nicholas, we really enjoyed our visit of Rhodes. Our tour-driver Michael did an excellent job getting us to our sites, and was very professional. The island is beautiful and historic. We also came home and watched “The Guns of Navarone” and saw many familiar scenes. We would certainly recommend your company and your driver Michael to others.<br>Sincerely, **Kevin and Jacque M. (Jan 11th) Houston, Tx, USA**
 - year: "2021"
   text: |-
     Hello Nick, thank you for the great experience of the tour, my family and I enjoyed very much and Manuel was very friendly and knowledgeable of the history of Greece. Please extend our gratitude to him on behalf of the family and myself. I’ll recommend your services to all my friends. Thanks again and be safe. <br>Sincerely, **Daniel L. and Family (Nov 20th) Miami USA**
