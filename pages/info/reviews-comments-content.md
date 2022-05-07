@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
   text: |-
+    Hi Nicholas, thank you for the excellent service. We appreciate that the driver spent our time driving to spots we couldn't reach from the port and dropped us off outside the old city (at the right gate). It was a great day!<br>**Tricia D. (May 7th) Bellevue WA US**
+
     Hello Nick, Yes, we really enjoyed the tour! Kostas was entertaining, informative, and patient with the 4 of us. We really liked how we were given headsets to listen to him during the tour. We learned some Greek thanks to him. The driver Savvas was also helpful and the Mercedes van was very clean. We would tour with your company again. Thanks, **Amanda Al. (April 20th) Lincoln, California, US**
 
     We've used many private tours in the past and have always been very pleased. Michael was a wonderful guide! He was friendly, knowledgeable, willing to accommodate our tour requests and happy to answer any and all of our questions. We would recommend this tour company to anyone wants to see all the beauty and variety of Rhodes!! This tour came at the end of two weeks of travel. Our lunch by the sea was the perfect end to our adventures! <br>**Deborah S. (March 28th) Louisville, Kentucky US**
