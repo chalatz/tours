@@ -88,7 +88,7 @@ extra_text: |-
 
   As you may noticed, you'll not see any more "*Certificate of Excellent*" or "*Hall of Fame*", and if you listed your tours on TripAdvisor you don't see even the "*Travelers Choice*".  TripAdvisor has been changing policies and their whole business model in the last couple of years.  It's OK with us, because our achievements are shown on our website and on many other sites as well.
 
-  And of course, we pride ourselves for our three greatest strengths: **Quality**, **Personal Touch**, and **Direct Local Price**.  Booking directly with us you'll always get a better price.
+  And of course, we pride ourselves for our three greatest strengths: **Quality**, **Personal Touch**, and **Direct Local Price**. By booking directly with us, you'll always get a better price.
 ---
 {:.centered}
 **TRIPADVISOR RECOGNISING 6 YEARS OF CONSISTENTLY HIGH RATINGS FROM TRAVELLERS**
