@@ -5,7 +5,7 @@ layout: plain-page
 <main class="container page tripadvisor">
 
   <div class="page__headings">
-  
+
     <h1 class="page__title page__title--plain-page page__title--tripadvisor_page">
       {{- page.title -}}
     </h1>
@@ -46,5 +46,11 @@ layout: plain-page
   <section class="page__content tripadvisor__gallery">
     {%- include partials/page-gallery.html -%}
   </section>
+
+  {%- if page.extra_text and page.extra_text.size > 0 -%}
+    <div class="page__content mt-3">
+      {{ page.extra_text | markdownify }}
+    </div>
+  {%- endif -%}
 
 </main>

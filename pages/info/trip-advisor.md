@@ -80,6 +80,15 @@ gallery:
       is_link: true
     url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
     new_window: true
+
+extra_text: |-
+  Recently, our customers have been writing to us this question: **Why no more awards from TripAdvisor?** We are obliged to answer our customer's questions.
+
+  The answer has nothing to do with the quality of services we provide, but with TripAdvisor's new policy.  They started as a ranking site to review activities but now they have turned into a booking platform plus the reviews.  Also, TripAdvisor is responsible for Hotels and Restaurants, not for Tours anymore. Their partner Viator is responsible for Tours.
+
+  As you may noticed, you'll not see any more "*Certificate of Excellent*" or "*Hall of Fame*", and if you listed your tours on TripAdvisor you don't see even the "*Travelers Choice*".  TripAdvisor has been changing policies and their whole business model in the last couple of years.  It's OK with us, because our achievements are shown on our website and on many other sites as well.
+
+  And of course, we pride ourselves for our three greatest strengths: **Quality**, **Personal Touch**, and **Direct Local Price**.  Booking directly with us you'll always get a better price.
 ---
 {:.centered}
 **TRIPADVISOR RECOGNISING 6 YEARS OF CONSISTENTLY HIGH RATINGS FROM TRAVELLERS**
