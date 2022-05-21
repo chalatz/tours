@@ -41,7 +41,7 @@
     .page__headings {
         color: $blue_alt;
     }
-    
+
     .page__title,
     .page__subtitle {
         color: $blue_alt;
@@ -200,11 +200,11 @@
             font-size: 1.1rem;
             line-height: 1.6;
         }
-        
+
         a[href^="mailto"] {
             font-weight: bold;
         }
-        
+
         .soon {
             color: $red;
             font-weight: bold;
@@ -212,7 +212,7 @@
             padding-bottom: 3rem;
         }
     }
-    
+
     &--page {
         border-top-color: #fff;
         .partner__content {
@@ -226,7 +226,7 @@
 
 .more-partners {
     background-color: #fff;
-    padding-bottom: 0;
+    padding: 2rem 0;
 }
 
 .page--contact-us {
