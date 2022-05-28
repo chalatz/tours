@@ -153,7 +153,7 @@ gallery:
 faq:
   items:
   - q: Do we have to pay for the wine tasting? Are there any entrance fees?
-    a: No entrance fees. The wine tasting is free.
+    a: 5 Euros per person entrance fee at Anastasia’s winery, and 5 Euros at Kounakis winery
   - q: We aren't big wine connoisseurs but do appreciate it, can we taste any type
       of wine we wish?
     a: Yes of course.
