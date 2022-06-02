@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
   text: |-
+    Hi Nicholas, My daughter, her partner and I booked one of your tours for when we were in Rhodes, it was excellent. You should pair Costas and Mano on a regular basis so that other people can get the same benefit that we did. Mano's driving was careful and courteous. Costas knowledge and delivery made for an extremely enjoyable time. They were both good humoured so we had a few laughs along the way. The taverna they took us too for lunch was beautifully located and the food was good. Thanks for arranging such an enjoyable experience for us. **Noreen (2nd June) Oldbury B68 1RL UK**
+
     Nicholas, thank you, and thanks to Kostas and Dominic, as well. We were well cared for and shown a beautiful day.  **Harriet and Charles P. (May 23rd) Oregon, USA**
 
     Thank you for a wonderful day, Nick and Mike. We enjoyed everything about it and Mike was an excellent host/guide/driver. We learned a lot about the island while enjoying the beautiful sights. Regards, **Gayle and Doug V. (May 20th ) Grandville Michigan US**
