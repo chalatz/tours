@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
   text: |-
+    Hi Nicholas. Manuel was so kind, informative and we loved our time with him. I wish it had been longer but what we saw was amazing. Ric was especially happy to see Rhodes Town as it holds fond memories for him. Thank you again. **Debbie U. (June 8th) Potomac, MD, USA**
+
     Nicholas thank you both (and Andrew) so much, we really enjoyed the tour, we have left what I hope is a very good review on trip advisor for you. Regards **John and Dawn (8th of June) London UK**
 
     Hi Nick. Michael was a very good driver and we learned alot about Rhodes also.  This was a very enjoyable tour.  Rhodes is an interesting beautiful island with rich history. Hope I can return in the not too distant future. **Carol R. (June 5th) NYC**
