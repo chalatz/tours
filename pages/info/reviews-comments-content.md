@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
   text: |-
+    Hi Nicholas. We had a spectacular time! It was absolutely amazing. The tour was perfect. Manuel was an incredible driver. He knew exactly what we wanted to do and all the right places to take us to make our trip to Rhodes very special. Honestly there is nothing I’d change. I would definitely do this again next time to see some different parts of the island. Thanks again for everything!!! We will see you again next time!!! **Scott and Heather H. (June 18th) Plano, Texas, USA**
+
     Hello Nick. We had an absolutely wonderful time! Manuel was awesome! He took care of All of US! Peter and John were amazing! Everyone enjoyed their drivers and only had the best compliments for All of them! We appreciate the kindness and experience we had! It was priceless! Thank You Again! **Iisha M. and Group (June 17th) USA**
 
     Dear Nicholas, back to our Lake of Constanze, we thank you and above all Manolis for an eventful and instructive tour to selected destinations on your beautiful green island during our latest stay at Rhodes. Manolis' explanations and tips helped us to better perceive and classify many small and big things. We never stop learning... Perhaps we will come back another time – and perhaps we will ask you and Manolis for your further assistance… All the best to you and your team!  Kind regards **Klaus A. (12 June) Lake Constance Bodensee Germany**
