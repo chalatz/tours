@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
   text: |-
+    Nick. All in all, our group had a fabulous time! The pottery demonstration was outstanding! Costas was so funny and knowledgeable and very high energy! Yannis was kind and a great driver. We had a great day and really enjoyed our time in Rhodes. And you went above and beyond in getting the golf cart for brother. Benita N. (June 23rd) Vacation Consultant Travel Marks LLC Lewisville, TX 75077 (North Texas)
+
     Hi Nicholas. We had a spectacular time! It was absolutely amazing. The tour was perfect. Manuel was an incredible driver. He knew exactly what we wanted to do and all the right places to take us to make our trip to Rhodes very special. Honestly there is nothing I’d change. I would definitely do this again next time to see some different parts of the island. Thanks again for everything!!! We will see you again next time!!! **Scott and Heather H. (June 18th) Plano, Texas, USA**
 
     Hello Nick. We had an absolutely wonderful time! Manuel was awesome! He took care of All of US! Peter and John were amazing! Everyone enjoyed their drivers and only had the best compliments for All of them! We appreciate the kindness and experience we had! It was priceless! Thank You Again! **Iisha M. and Group (June 17th) USA**
