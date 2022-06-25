@@ -16,20 +16,30 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
-  text: "Nicholas. We had a wonderful day, Manuel was a great guide - very kind. I
-    just posted a review on TripAdvisor as well. I hope we will meet gain. **Debbie
-    D. and Family (June 23rd) USA**\n\nNick. All in all, our group had a fabulous
-    time! The pottery demonstration was outstanding! Costas was so funny and knowledgeable
-    and very high energy! Yannis was kind and a great driver. We had a great day and
-    really enjoyed our time in Rhodes. And you went above and beyond in getting the
-    golf cart for brother. **Benita N. (June 23rd) Vacation Consultant Travel Marks
-    LLC Lewisville, TX 75077** \n\nHi Nicholas. We had a spectacular time! It was
-    absolutely amazing. The tour was perfect. Manuel was an incredible driver. He
-    knew exactly what we wanted to do and all the right places to take us to make
-    our trip to Rhodes very special. Honestly there is nothing I’d change. I would
-    definitely do this again next time to see some different parts of the island.
-    Thanks again for everything!!! We will see you again next time!!! **Scott and
-    Heather H. (June 18th) Plano, Texas, USA**\n\nHello Nick. We had an absolutely
+  text: "Hi Nick, Firstly, tell Michael we had a good look around the Medieval City
+    and when we got home, we watched The Guns of Navarone again for the first time
+    in years. Michael was a real star. Friendly, easy to get along with and full of
+    knowledge about the island. The lunch at Argo was superb and we would never have
+    found that place without local knowledge. Finally, Nick, your attention to detail
+    including the phone call on the day, showed us that we were amongst friends and
+    gave us great memories on our first holiday post Covid. Regards and good luck,
+    **Brian & Liz ( 25th June) UK**  \n   \n Hello Nicholas! Thanks, thanks, thanks
+    for everything!!! It was a great tour! We have the best time and enjoy it a lot!!!!
+    Thanks, Michael, for a great service!!!!!! Best regards!! **L.Karina C. Lestegast
+    (June 24) USA**\n\nNicholas. We had a wonderful day, Manuel was a great guide
+    - very kind. I just posted a review on TripAdvisor as well. I hope we will meet
+    gain. **Debbie D. and Family (June 23rd) USA**\n\nNick. All in all, our group
+    had a fabulous time! The pottery demonstration was outstanding! Costas was so
+    funny and knowledgeable and very high energy! Yannis was kind and a great driver.
+    We had a great day and really enjoyed our time in Rhodes. And you went above and
+    beyond in getting the golf cart for brother. **Benita N. (June 23rd) Vacation
+    Consultant Travel Marks LLC Lewisville, TX 75077**\n\nHi Nicholas. We had a spectacular
+    time! It was absolutely amazing. The tour was perfect. Manuel was an incredible
+    driver. He knew exactly what we wanted to do and all the right places to take
+    us to make our trip to Rhodes very special. Honestly there is nothing I’d change.
+    I would definitely do this again next time to see some different parts of the
+    island. Thanks again for everything!!! We will see you again next time!!! **Scott
+    and Heather H. (June 18th) Plano, Texas, USA**\n\nHello Nick. We had an absolutely
     wonderful time! Manuel was awesome! He took care of All of US! Peter and John
     were amazing! Everyone enjoyed their drivers and only had the best compliments
     for All of them! We appreciate the kindness and experience we had! It was priceless!
