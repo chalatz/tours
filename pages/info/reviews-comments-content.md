@@ -17,6 +17,10 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
   text: |-
+    Nick, You’re most welcome. We very much enjoyed our return to Rhodes after all these years. Michael did a great job—give him our regards. Maybe next time won’t take so long. Your friends, **Dick & Judy F. (July 2nd) Linden, New Jersey, USA**
+
+    Dear Nicholas, My family and I enjoyed our day in Rhodes thanks to Manuel. Your island is impressive with its natural, diverse beauty and interesting history. Manuel was a great representative of Rhodes. Kind regards **Kristine M. (July 1st) USA**
+
     Hi Nicholas, we wanted to let you know how very much we enjoyed the day with Michael, he was Wonderful! He took us to such a lovely place for Lunch it made the entire day. He was very informative about your Beautiful island and proud of the history your island holds. We immensely enjoyed the day. Please give him our regards…. Sincerely, **Donna & John B. (June 28th) USA**
 
     Hi Nick, Firstly, tell Michael we had a good look around the Medieval City and when we got home, we watched The Guns of Navarone again for the first time in years. Michael was a real star. Friendly, easy to get along with and full of knowledge about the island. The lunch at Argo was superb and we would never have found that place without local knowledge. Finally, Nick, your attention to detail including the phone call on the day, showed us that we were amongst friends and gave us great memories on our first holiday post Covid. Regards and good luck, **Brian & Liz ( 25th June) UK**
