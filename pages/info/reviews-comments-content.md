@@ -17,6 +17,10 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
   text: |-
+    Nicholas, the tour was amazing!! We are still talking about Kostas!’ and the kids will remember forever all the Greek words he taught us. It was a pleasure to be with him and “Manny” (that’s how we called Manolis) Thanks again for everything and I will recommend you to anyone going to Rhodes!! **Melissa F. and Family (July 8th) Tallahassee, FL/USA**
+
+    Nicholas, my husband, and I had a wonderful day with Michael. He is so knowledgeable about the island and his love for Rhodes shines through. We hope to visit your beautiful island again soon, and we would hope to have more time to explore! Thanks so much, **Rhonda and David R. (July 7th) USA**
+
     Nick, You’re most welcome. We very much enjoyed our return to Rhodes after all these years. Michael did a great job—give him our regards. Maybe next time won’t take so long. Your friends, **Dick & Judy F. (July 2nd) Linden, New Jersey, USA**
 
     Dear Nicholas, My family and I enjoyed our day in Rhodes thanks to Manuel. Your island is impressive with its natural, diverse beauty and interesting history. Manuel was a great representative of Rhodes. Kind regards **Kristine M. (July 1st) USA**
