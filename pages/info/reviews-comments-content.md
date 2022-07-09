@@ -29,8 +29,6 @@ reviews:
 
     Hi Nick, Firstly, tell Michael we had a good look around the Medieval City and when we got home, we watched The Guns of Navarone again for the first time in years. Michael was a real star. Friendly, easy to get along with and full of knowledge about the island. The lunch at Argo was superb and we would never have found that place without local knowledge. Finally, Nick, your attention to detail including the phone call on the day, showed us that we were amongst friends and gave us great memories on our first holiday post Covid. Regards and good luck, **Brian & Liz ( 25th June) UK**
 
-    Hello Nicholas! Thanks, thanks, thanks for everything!!! It was a great tour! We have the best time and enjoy it a lot!!!! Thanks, Michael, for a great service!!!!!! Best regards!! **L.Karina C. Lestegast (June 24) USA**
-
     Nicholas. We had a wonderful day, Manuel was a great guide - very kind. I just posted a review on TripAdvisor as well. I hope we will meet gain. **Debbie D. and Family (June 23rd) USA**
 
     Nick. All in all, our group had a fabulous time! The pottery demonstration was outstanding! Costas was so funny and knowledgeable and very high energy! Yannis was kind and a great driver. We had a great day and really enjoyed our time in Rhodes. And you went above and beyond in getting the golf cart for brother. **Benita N. (June 23rd) Vacation Consultant Travel Marks LLC Lewisville, TX 75077**
