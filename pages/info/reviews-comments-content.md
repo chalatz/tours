@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
   text: |-
+    Nick, we really enjoyed the tour and Liana was great. You can tell she had pride in her home and that came through in her descriptions. We really liked the city walking tour and the pottery demonstration. Lindos was a very cool town and the food was tasty. Stopping for scenic pictures was awesome. I wish we had more time to explore your beautiful island. Perhaps we will come back one day, but we will certainly refer you to any friend traveling to Rhodes. Thanks, **Russ and Family (July 15th) Cumming, GA USA**
+
     Nicholas, the tour was amazing!! We are still talking about Kostas!’ and the kids will remember forever all the Greek words he taught us. It was a pleasure to be with him and “Manny” (that’s how we called Manolis) Thanks again for everything and I will recommend you to anyone going to Rhodes!! **Melissa F. and Family (July 8th) Tallahassee, FL/USA**
 
     Nicholas, my husband, and I had a wonderful day with Michael. He is so knowledgeable about the island and his love for Rhodes shines through. We hope to visit your beautiful island again soon, and we would hope to have more time to explore! Thanks so much, **Rhonda and David R. (July 7th) USA**
