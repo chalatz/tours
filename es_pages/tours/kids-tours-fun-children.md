@@ -58,7 +58,7 @@ details:
   - title: "(Stop Visitar Fotos):"
     desc: Parar y visitar - Caminar dentro del edificio / lugar, para tomar fotos
   - title: 'Nivel de Actividad del Tour Privado:'
-    desc: Moderado (o "Fácil" si eliminas la Acrópolis de Lindos)
+    desc: Moderado
   - title: 'El Vehículo para el Tour Privado:'
     desc: Sedan Coche Mercedes Benz - 4 pasajeros cómodamente, más el conductor (<a
       href="./tours_para_grupos_rodas_grecia.htm">¿grupo más grande?</a>)
