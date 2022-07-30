@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
   text: |-
+    Dear Nicholas, Andreas was an absolute star and he provided us with good insight about the island, always sharing some anecdotes, small interesting bits of info, and very accommodating without being too much. He picked the best spots to take photos, which I as an enthusiastic hobby photographer, really appreciated.  Overall, the tour was fantastic and we are so glad that we extended for two hours and also enjoyed the superb lunch at Argo.  Thank you for making this day one of our highlights of the whole cruise, and also for giving us an appetite to come back to Rhodes, especially Lindos and Rhodes City.  **Liebe Grüsse, Natalie B. and Family (30th July) Schenkon, Switzerland**
+
     Nicholas, we had a great day in Rhodes. Michael is a wealth of knowledge particularly all his great stories about the gods and everything is told with a sense of humor. His Driving is excellent and we highly recommend him to anybody coming to Rhodes, this is about as good as a tour can get. **Tina S. Sotheby’s International Realty (July 23rd) USA**
 
     Nick, we really enjoyed the tour and Liana was great. You can tell she had pride in her home and that came through in her descriptions. We really liked the city walking tour and the pottery demonstration. Lindos was a very cool town and the food was tasty. Stopping for scenic pictures was awesome. I wish we had more time to explore your beautiful island. Perhaps we will come back one day, but we will certainly refer you to any friend traveling to Rhodes. Thanks, **Russ and Family (July 15th) Cumming, GA, USA**
