@@ -17,6 +17,10 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
   text: |-
+    Hello Nicholas and Michael, truly a very good experience, surely a very good review to thank you for your professionalism giving your client a wonderful journey. To Michael you are such an amazing gentleman. We can’t thank enough touring us around. We are so lucky to have you guys on our journey. All the best for your company. Thank you, **Fernandez Family (August 5th) USA**
+
+    Hi Nick: We really enjoyed the tour. Driver Kostas is very friendly and knowledgeable about the island. Thanks for the arrangement **Katherine L. and Family (Aug 4th) Boydton, Virginia, USA**
+
     Dear Nicholas, Andreas was an absolute star and he provided us with good insight about the island, always sharing some anecdotes, small interesting bits of info, and very accommodating without being too much. He picked the best spots to take photos, which I as an enthusiastic hobby photographer, really appreciated.  Overall, the tour was fantastic and we are so glad that we extended for two hours and also enjoyed the superb lunch at Argo.  Thank you for making this day one of our highlights of the whole cruise, and also for giving us an appetite to come back to Rhodes, especially Lindos and Rhodes City.  **Liebe Grüsse, Natalie B. and Family (30th July) Schenkon, Switzerland.**
 
     Nicholas, we had a great day in Rhodes. Michael is a wealth of knowledge particularly all his great stories about the gods and everything is told with a sense of humor. His Driving is excellent and we highly recommend him to anybody coming to Rhodes, this is about as good as a tour can get. **Tina S. Sotheby’s International Realty (July 23rd) USA**
