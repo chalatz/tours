@@ -17,6 +17,8 @@ subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
   text: |-
+    Hi Nicholas! Our trip was amazing and Emmanuel was a great tour guide. Thanks again for a great day in Rhodes!! **Michelle B. Associate Broker. Solid Source Realty (Aug 16th) USA**
+
     Hello Nicholas and Michael, truly a very good experience, surely a very good review to thank you for your professionalism giving your client a wonderful journey. To Michael you are such an amazing gentleman. We can’t thank enough touring us around. We are so lucky to have you guys on our journey. All the best for your company. Thank you, **Fernandez Family (August 5th) USA**
 
     Hi Nick: We really enjoyed the tour. Driver Kostas is very friendly and knowledgeable about the island. Thanks for the arrangement **Katherine L. and Family (Aug 4th) Boydton, Virginia, USA**
