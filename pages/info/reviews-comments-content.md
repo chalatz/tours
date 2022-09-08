@@ -16,28 +16,33 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
-  text: "Hi Nicholas, many thanks for the tour, all went very well. Our special thanks
-    to Michael for explaining everything so clearly and we were very impressed by
-    his local and historical knowledge. Michael went out of the way to arrange the
-    pottery tour for kids even though we were running late after Lindos and we really
-    appreciate his gesture. Regards, **Ananya and Family (Sept 2nd) UK**\n\nNicholas
-    Thank you! The tour was a special treat for us. We now love Rhodes. Costa was
-    a pleasure! Take care, **Madeline and Jerry D. (Sept 1st) N.Y. USA**\n\nHi Nicholas,
-    Thanks We had a great time. Roula and Manolis were great and both made sure we
-    got the most of the trip. Thanks **Neil K. (Sept 1st) UK**\n\nHi Nicholas, firstly
-    a big thank you to Andrew, he was a fantastic guide. We felt no pressure and it
-    was great to go at our pace. We really feel like we have seen so much more of
-    Rhodes than we ever could have done had ventured out alone or done a standard
-    coach group tour. I will do a full review when I get home. Thanks again, a truly
-    wonderful day. Kind regards **Andrea K. J. (26th Aug) U.K.**\n\nNcholas: We thank
-    you for the perfect tour and service of our tour-driver Kostas. Yours sincerely,
-    \ \n**Miriam R. and Family (24th Aug ) Nova Lima, Brazil**\n\nHi Nicholas! Our
-    trip was amazing and Emmanuel was a great tour guide. Thanks again for a great
-    day in Rhodes!! **Michelle B. Associate Broker. Solid Source Realty (Aug 16th)
-    USA**\n\nHello Nicholas and Michael, truly a very good experience, surely a very
-    good review to thank you for your professionalism giving your client a wonderful
-    journey. To Michael you are such an amazing gentleman. We can’t thank enough touring
-    us around. We are so lucky to have you guys on our journey. All the best for your
+  text: "Hello Nick -Thank you and your team for a wonderful tour today. Liana was
+    knowledgeable, warm, and accommodating tour guide. Spiros was a great driver and
+    helped one of us who had difficulty with the sun today. We chose your company
+    because of the positive reviews and we were not disappointed. Thank you again
+    for everything. **Ted O. and Group (Sept 7th) New Cumberland, Pennsylvania, US**\n\nHi
+    Nicholas, many thanks for the tour, all went very well. Our special thanks to
+    Michael for explaining everything so clearly and we were very impressed by his
+    local and historical knowledge. Michael went out of the way to arrange the pottery
+    tour for kids even though we were running late after Lindos and we really appreciate
+    his gesture. Regards, **Ananya and Family (Sept 2nd) UK**\n\nNicholas Thank you!
+    The tour was a special treat for us. We now love Rhodes. Costa was a pleasure!
+    Take care, **Madeline and Jerry D. (Sept 1st) N.Y. USA**\n\nHi Nicholas, Thanks
+    We had a great time. Roula and Manolis were great and both made sure we got the
+    most of the trip. Thanks **Neil K. (Sept 1st) UK**\n\nHi Nicholas, firstly a big
+    thank you to Andrew, he was a fantastic guide. We felt no pressure and it was
+    great to go at our pace. We really feel like we have seen so much more of Rhodes
+    than we ever could have done had ventured out alone or done a standard coach group
+    tour. I will do a full review when I get home. Thanks again, a truly wonderful
+    day. Kind regards **Andrea K. J. (26th Aug) U.K.**\n\nNcholas: We thank you for
+    the perfect tour and service of our tour-driver Kostas. Yours sincerely,  \n**Miriam
+    R. and Family (24th Aug ) Nova Lima, Brazil**\n\nHi Nicholas! Our trip was amazing
+    and Emmanuel was a great tour guide. Thanks again for a great day in Rhodes!!
+    **Michelle B. Associate Broker. Solid Source Realty (Aug 16th) USA**\n\nHello
+    Nicholas and Michael, truly a very good experience, surely a very good review
+    to thank you for your professionalism giving your client a wonderful journey.
+    To Michael you are such an amazing gentleman. We can’t thank enough touring us
+    around. We are so lucky to have you guys on our journey. All the best for your
     company. Thank you, **Fernandez Family (August 5th) USA**\n\nHi Nick: We really
     enjoyed the tour. Driver Kostas is very friendly and knowledgeable about the island.
     Thanks for the arrangement **Katherine L. and Family (Aug 4th) Boydton, Virginia,
