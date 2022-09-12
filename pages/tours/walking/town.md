@@ -174,7 +174,7 @@ end_page:
   short_text: Experts in Rhodes City Walking Tours
 
 ---
-Your tour will start from your designated point at the cruise part (or from your hotel). You will be guided to the **Medieval City**, passing through the **St. Catherine Gate** to visit the most important monuments of **the Burgos (town).** (Stop Photos)
+Your tour will start from your designated point at the Cruise Port (or from your hotel). You will be guided to the **Medieval City**, passing through the **St. Catherine Gate** to visit the most important monuments of **the Burgos (town).** (Stop Photos)
 
 An interior wall running east-wide was used to divide the Medieval City into two unequal portions. The smaller, northerly portion was known as the **Collachium**. The much larger, southern quarter was known as **Burgo, Burgus, Burgum, and Hora (town).** The place was a melting pot that people from all walks of life called home, although the Greeks were in the majority.
 
@@ -182,7 +182,7 @@ Your friendly passionate tour guide will give provide you with a brief lesson in
 
 Midway through the trip, you will get an optional short break for refreshments and coffee.
 
-Your walking tour will now commence towards **Collachio**, also known as the smaller, northern portion of the medieval city. The Collachio surrounds the **Castello -- Grand Master Palace** -- which was inhabited by the Grand Masters and **the Administration of the Knights of St. John**. (Stop Visit Photos - *Walking Tour into the Grand Master Palace*)
+Your walking tour will now commence towards **Collachio**, also known as the smaller, northern portion of the medieval city. The Collachio surrounds the **Castello -- Grand Master Palace** -- which was inhabited by the Grand Masters and **the Administration of the Knights of St. John**. (Stop Visit Photos - _Walking Tour into the Grand Master Palace_)
 
 Exploration of the **Collachio** will continue downhill towards the impressive **Street of the Knights** which connect the Grand Master Palace to **the New Hospital of the Knights**, which is now modern-day **Archeological Museum of Rhodes**. **Our Lady of the Castel** will also come into view, now known as the **Byzantine Museum**. (Stop Photos)
 
