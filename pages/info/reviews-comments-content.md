@@ -16,46 +16,51 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
-  text: "Nicholas, thank you for a fabulous tour of your beautiful island. We so enjoyed
-    every bit of it. Stamos was a great guide and showed us so much of the island.
-    I will certainly recommend your group to anyone coming your way. **Barbara R.
-    (Oct 9th) U.K.**\n\nNick, our excursion was very enjoyable. Roula & Dimitris we’re
-    very knowledgeable and professional. We thoroughly enjoyed our adventure and always
-    felt safe. I would not hesitate to book another excursion for myself. I will also
-    recommend your team to future cruise passengers. Thank you again. **James K. (Oct
-    7th) USA**\n\nWe booked a private GT6 tour (knights of St Johns) with Nicholas.
-    We were picked up at our hotel promptly, in a very clean and cool temp van. We
-    were introduced to Mr Kiriakos our driver. Who BTW always made us feel safe and
-    comfortable. Kostas was our guide and outlined the day briefly. We started our
-    walking tour around the gates of the palace and wandered through the medieval
-    old town. We walked along the knights streets it was magical. We drove through
-    the country sides and stopp at the Lindos acropolis and St pauls bay. Kostas historical
-    knowledge, passion and humorous personality made this a great day and adventure.
-    Being with this team allowed us to relax and enjoy the things we wanted to learn
-    about. We came away with a greater understanding as we hoped we would. From the
-    initial contact to the end of the tour, thus company exceeds in class and high
-    service. We will recommend Nicholas and his team to everyone **Y&Y** \U0001F44D
-    **(Oct 2nd) Canada**\n\nNicholas, thank you for your services! It was perfect-
-    the best private tour we have done on this trip. Apostolos was an excellent driver
-    and the minivan was clean and spacious, we felt very safe and he was very helpful
-    and informative. We would hire him again and you are lucky to have him on your
-    team! **Lina A. and Family (Sept 30th) Ridgefield, NJ, US**\n\nHi Nicholas, we
-    very much enjoyed our tour of Rhodes with Michael We definitely saw a lot more
-    of the island than we would have otherwise. Michael gave us a good history of
-    Rhodes to complement our tour. The Butterfly Valley was beautiful. It was nice
-    to be driven down to Lindos for a short visit, rather than walking down and up
-    that hill in the heat and crowds. The restaurant where we had lunch was delicious
-    and in a lovely spot. We would definitely recommend you and your Rhodes Team to
-    tourists who wish to get a good overview of Rhodes. **Leslie and Gary M. R (Sept
-    17th) Summerland, California USA**\n\nHello Nick -Thank you and your team for
-    a wonderful tour today. Liana was knowledgeable, warm, and accommodating tour
-    guide. Spiros was a great driver and helped one of us who had difficulty with
-    the sun today. We chose your company because of the positive reviews and we were
-    not disappointed. Thank you again for everything. **Ted O. and Group (Sept 7th)
-    New Cumberland, Pennsylvania, US**\n\nHi Nicholas, many thanks for the tour, all
-    went very well. Our special thanks to Michael for explaining everything so clearly
-    and we were very impressed by his local and historical knowledge. Michael went
-    out of the way to arrange the pottery tour for kids even though we were running
+  text: "Thank you, Nicholas and Stamos! We totally enjoyed touring the island. Stamos
+    was excellent in many ways! He shared much of the history, significant features,
+    and daily living of the island. Stamos offered alternatives to our itinerary based
+    on our interests making our visit to Rodos extremely memorable. We would give
+    him more than a perfect score if we can. \U0001F642 Ευχαριστώ πολύ!! **Susanna,
+    Mi, and Elsie (Oct 14th) USA**\n\nNicholas, thank you for a fabulous tour of your
+    beautiful island. We so enjoyed every bit of it. Stamos was a great guide and
+    showed us so much of the island. I will certainly recommend your group to anyone
+    coming your way. **Barbara R. (Oct 9th) U.K.**\n\nNick, our excursion was very
+    enjoyable. Roula & Dimitris we’re very knowledgeable and professional. We thoroughly
+    enjoyed our adventure and always felt safe. I would not hesitate to book another
+    excursion for myself. I will also recommend your team to future cruise passengers.
+    Thank you again. **James K. (Oct 7th) USA**\n\nWe booked a private GT6 tour (knights
+    of St Johns) with Nicholas. We were picked up at our hotel promptly, in a very
+    clean and cool temp van. We were introduced to Mr Kiriakos our driver. Who BTW
+    always made us feel safe and comfortable. Kostas was our guide and outlined the
+    day briefly. We started our walking tour around the gates of the palace and wandered
+    through the medieval old town. We walked along the knights streets it was magical.
+    We drove through the country sides and stopp at the Lindos acropolis and St pauls
+    bay. Kostas historical knowledge, passion and humorous personality made this a
+    great day and adventure. Being with this team allowed us to relax and enjoy the
+    things we wanted to learn about. We came away with a greater understanding as
+    we hoped we would. From the initial contact to the end of the tour, thus company
+    exceeds in class and high service. We will recommend Nicholas and his team to
+    everyone **Y&Y** \U0001F44D **(Oct 2nd) Canada**\n\nNicholas, thank you for your
+    services! It was perfect- the best private tour we have done on this trip. Apostolos
+    was an excellent driver and the minivan was clean and spacious, we felt very safe
+    and he was very helpful and informative. We would hire him again and you are lucky
+    to have him on your team! **Lina A. and Family (Sept 30th) Ridgefield, NJ, US**\n\nHi
+    Nicholas, we very much enjoyed our tour of Rhodes with Michael We definitely saw
+    a lot more of the island than we would have otherwise. Michael gave us a good
+    history of Rhodes to complement our tour. The Butterfly Valley was beautiful.
+    It was nice to be driven down to Lindos for a short visit, rather than walking
+    down and up that hill in the heat and crowds. The restaurant where we had lunch
+    was delicious and in a lovely spot. We would definitely recommend you and your
+    Rhodes Team to tourists who wish to get a good overview of Rhodes. **Leslie and
+    Gary M. R (Sept 17th) Summerland, California USA**\n\nHello Nick -Thank you and
+    your team for a wonderful tour today. Liana was knowledgeable, warm, and accommodating
+    tour guide. Spiros was a great driver and helped one of us who had difficulty
+    with the sun today. We chose your company because of the positive reviews and
+    we were not disappointed. Thank you again for everything. **Ted O. and Group (Sept
+    7th) New Cumberland, Pennsylvania, US**\n\nHi Nicholas, many thanks for the tour,
+    all went very well. Our special thanks to Michael for explaining everything so
+    clearly and we were very impressed by his local and historical knowledge. Michael
+    went out of the way to arrange the pottery tour for kids even though we were running
     late after Lindos and we really appreciate his gesture. Regards, **Ananya and
     Family (Sept 2nd) UK**\n\nNicholas Thank you! The tour was a special treat for
     us. We now love Rhodes. Costa was a pleasure! Take care, **Madeline and Jerry
