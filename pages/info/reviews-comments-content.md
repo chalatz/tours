@@ -16,11 +16,15 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
-  text: "Thank you, Nicholas and Stamos! We totally enjoyed touring the island. Stamos
-    was excellent in many ways! He shared much of the history, significant features,
-    and daily living of the island. Stamos offered alternatives to our itinerary based
-    on our interests making our visit to Rodos extremely memorable. We would give
-    him more than a perfect score if we can. \U0001F642 Ευχαριστώ πολύ!! **Susanna,
+  text: "Thank you, Nick and Emmanuel. We had a great time we will let our friends
+    know about the service you provided! What we liked the best about the excursion
+    was that it could be as structured as you want it or not. Emmanuel was always
+    provided option to choose from. Thank you, **Kari & Moana (Oct 19) Honolulu, Hawaii,
+    USA**\n\nThank you, Nicholas and Stamos! We totally enjoyed touring the island.
+    Stamos was excellent in many ways! He shared much of the history, significant
+    features, and daily living of the island. Stamos offered alternatives to our itinerary
+    based on our interests making our visit to Rodos extremely memorable. We would
+    give him more than a perfect score if we can. \U0001F642 Ευχαριστώ πολύ!! **Susanna,
     Mi, and Elsie (Oct 14th) USA**\n\nNicholas, thank you for a fabulous tour of your
     beautiful island. We so enjoyed every bit of it. Stamos was a great guide and
     showed us so much of the island. I will certainly recommend your group to anyone
