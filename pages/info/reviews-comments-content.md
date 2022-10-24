@@ -16,29 +16,34 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
-  text: "Thank you, Nick and Emmanuel. We had a great time we will let our friends
-    know about the service you provided! What we liked the best about the excursion
-    was that it could be as structured as you want it or not. Emmanuel was always
-    provided option to choose from. Thank you, **Kari & Moana (Oct 19) Honolulu, Hawaii,
-    USA**\n\nThank you, Nicholas and Stamos! We totally enjoyed touring the island.
-    Stamos was excellent in many ways! He shared much of the history, significant
-    features, and daily living of the island. Stamos offered alternatives to our itinerary
-    based on our interests making our visit to Rodos extremely memorable. We would
-    give him more than a perfect score if we can. \U0001F642 Ευχαριστώ πολύ!! **Susanna,
-    Mi, and Elsie (Oct 14th) USA**\n\nNicholas, thank you for a fabulous tour of your
-    beautiful island. We so enjoyed every bit of it. Stamos was a great guide and
-    showed us so much of the island. I will certainly recommend your group to anyone
-    coming your way. **Barbara R. (Oct 9th) U.K.**\n\nNick, our excursion was very
-    enjoyable. Roula & Dimitris we’re very knowledgeable and professional. We thoroughly
-    enjoyed our adventure and always felt safe. I would not hesitate to book another
-    excursion for myself. I will also recommend your team to future cruise passengers.
-    Thank you again. **James K. (Oct 7th) USA**\n\nWe booked a private GT6 tour (knights
-    of St Johns) with Nicholas. We were picked up at our hotel promptly, in a very
-    clean and cool temp van. We were introduced to Mr Kiriakos our driver. Who BTW
-    always made us feel safe and comfortable. Kostas was our guide and outlined the
-    day briefly. We started our walking tour around the gates of the palace and wandered
-    through the medieval old town. We walked along the knights streets it was magical.
-    We drove through the country sides and stopp at the Lindos acropolis and St pauls
+  text: "Hi Nicholas. We thoroughly enjoyed our tour through stunningly beautiful
+    Rhodes. Andrew shared a wealth of information not only about the island and its
+    history but about daily life in Rhodes, which we found especially fascinating.
+    We also appreciated his flexibility in adjusting the itinerary and time schedule
+    to accommodate our wishes. **Best, Mike W. (Oct 24th) USA**\n\nThank you, Nick
+    and Emmanuel. We had a great time we will let our friends know about the service
+    you provided! What we liked the best about the excursion was that it could be
+    as structured as you want it or not. Emmanuel was always provided option to choose
+    from. Thank you, **Kari & Moana (Oct 19) Honolulu, Hawaii, USA**\n\nThank you,
+    Nicholas and Stamos! We totally enjoyed touring the island. Stamos was excellent
+    in many ways! He shared much of the history, significant features, and daily living
+    of the island. Stamos offered alternatives to our itinerary based on our interests
+    making our visit to Rodos extremely memorable. We would give him more than a perfect
+    score if we can. \U0001F642 Ευχαριστώ πολύ!! **Susanna, Mi, and Elsie (Oct 14th)
+    USA**\n\nNicholas, thank you for a fabulous tour of your beautiful island. We
+    so enjoyed every bit of it. Stamos was a great guide and showed us so much of
+    the island. I will certainly recommend your group to anyone coming your way. **Barbara
+    R. (Oct 9th) U.K.**\n\nNick, our excursion was very enjoyable. Roula & Dimitris
+    we’re very knowledgeable and professional. We thoroughly enjoyed our adventure
+    and always felt safe. I would not hesitate to book another excursion for myself.
+    I will also recommend your team to future cruise passengers. Thank you again.
+    **James K. (Oct 7th) USA**\n\nWe booked a private GT6 tour (knights of St Johns)
+    with Nicholas. We were picked up at our hotel promptly, in a very clean and cool
+    temp van. We were introduced to Mr Kiriakos our driver. Who BTW always made us
+    feel safe and comfortable. Kostas was our guide and outlined the day briefly.
+    We started our walking tour around the gates of the palace and wandered through
+    the medieval old town. We walked along the knights streets it was magical. We
+    drove through the country sides and stopp at the Lindos acropolis and St pauls
     bay. Kostas historical knowledge, passion and humorous personality made this a
     great day and adventure. Being with this team allowed us to relax and enjoy the
     things we wanted to learn about. We came away with a greater understanding as
