@@ -16,7 +16,16 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
-  text: "Hi Nicholas. We thoroughly enjoyed our tour through stunningly beautiful
+  text: "Nicolas, I wanted to thank you again. The tour was perfect, leaving us with
+    wanting to return and see more of what we missed. Andreas was also perfect and
+    thank you for pairing us with him. I will gladly recommend you to my friend the
+    travel agent and any and all who inquire of our trip and experience in Greece,
+    Rhodes. So, until our paths cross again, be well and Efcharisto’ **Shannon M.
+    (Nov 6th) Kansas, USA**\n\nHi Nico, Maria was one of the best tour guides I’ve
+    had and I’ve had many. She was so knowledgeable. So honest. Not annoying like
+    some of them can be. She was a wealth of information and so pleasant. We are so
+    glad we hired your company. Thank you!! B**renda L. and Group (Nov 4th) Toronto,
+    Canada**\n\nHi Nicholas. We thoroughly enjoyed our tour through stunningly beautiful
     Rhodes. Andrew shared a wealth of information not only about the island and its
     history but about daily life in Rhodes, which we found especially fascinating.
     We also appreciated his flexibility in adjusting the itinerary and time schedule
