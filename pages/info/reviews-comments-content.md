@@ -16,29 +16,32 @@ subtitle: We have been offering our high standard Private Tour Services since 19
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
 - year: "2022"
-  text: "Nick, just wanted to take a moment to thank you and Michael for the care
-    and attention to detail that was in given on our trip today. Michael was well
-    informed and interesting throughout the day. He was kind enough to aid in taking
-    some photos, recreating 50-year-old memories. Thank you again, **Ann and George
-    L. (Dec 6th) Saint Johns, FL, US**\n\nHej Nicholas, Thanks for your email and
-    for a great day on Rhodes. We truly enjoyed our time on your beautiful island
-    and do hope we can visit it again in the future. We really appreciated Emanuel's
-    guiding and driving for the day. Please thanks him sincerely from the four of
-    us. I have just submitted a review to Viator. I hope you will be happy with it
-    and that it will bring you some more business in the future. Thanks again for
-    your professional communication and for a fabulous day with Emanuel. Sincerely
-    **Neil, Rita, Marty and Gail (25th Nov) Perth, Australia**\n\nNicholas, we had
-    a great time. Michael did a great job and was a very knowledgeable tour guide.
-    Thanks again. We are already talking about a return trip to see more of your beautiful
-    island. **Dan G. (Nov 18th) Nashville, Tennessee, US**\n\nHi Nicholas. Thank you
-    so much. Everyone enjoyed the tour. Manuel was a very personable guide. **George
-    B. (Nov 14th) Bonney Lake WA, US**\n\nNicolas, I wanted to thank you again. The
-    tour was perfect, leaving us with wanting to return and see more of what we missed.
-    Andreas was also perfect and thank you for pairing us with him. I will gladly
-    recommend you to my friend the travel agent and any and all who inquire of our
-    trip and experience in Greece, Rhodes. So, until our paths cross again, be well
-    and Efcharisto’ **Shannon M. (Nov 6th) Kansas, USA**\n\nHi Nico, Maria was one
-    of the best tour guides I’ve had and I’ve had many. She was so knowledgeable.
+  text: "Hi Nick. Liana was great, it was all well planned and easy walking. The architecture
+    was never ending. The old city of Rhodes was beautiful. The quaint old shops,
+    the parks. All of it was breathtaking and a true pleasure having her as our guide.
+    **Brad M. (Dec 22nd) Atlanta, Georgia, USA**\n\nNick, just wanted to take a moment
+    to thank you and Michael for the care and attention to detail that was in given
+    on our trip today. Michael was well informed and interesting throughout the day.
+    He was kind enough to aid in taking some photos, recreating 50-year-old memories.
+    Thank you again, **Ann and George L. (Dec 6th) Saint Johns, FL, US**\n\nHej Nicholas,
+    Thanks for your email and for a great day on Rhodes. We truly enjoyed our time
+    on your beautiful island and do hope we can visit it again in the future. We really
+    appreciated Emanuel's guiding and driving for the day. Please thanks him sincerely
+    from the four of us. I have just submitted a review to Viator. I hope you will
+    be happy with it and that it will bring you some more business in the future.
+    Thanks again for your professional communication and for a fabulous day with Emanuel.
+    Sincerely **Neil, Rita, Marty and Gail (25th Nov) Perth, Australia**\n\nNicholas,
+    we had a great time. Michael did a great job and was a very knowledgeable tour
+    guide. Thanks again. We are already talking about a return trip to see more of
+    your beautiful island. **Dan G. (Nov 18th) Nashville, Tennessee, US**\n\nHi Nicholas.
+    Thank you so much. Everyone enjoyed the tour. Manuel was a very personable guide.
+    **George B. (Nov 14th) Bonney Lake WA, US**\n\nNicolas, I wanted to thank you
+    again. The tour was perfect, leaving us with wanting to return and see more of
+    what we missed. Andreas was also perfect and thank you for pairing us with him.
+    I will gladly recommend you to my friend the travel agent and any and all who
+    inquire of our trip and experience in Greece, Rhodes. So, until our paths cross
+    again, be well and Efcharisto’ **Shannon M. (Nov 6th) Kansas, USA**\n\nHi Nico,
+    Maria was one of the best tour guides I’ve had and I’ve had many. She was so knowledgeable.
     So honest. Not annoying like some of them can be. She was a wealth of information
     and so pleasant. We are so glad we hired your company. Thank you!! **Brenda L.
     and Group (Nov 4th) Toronto, Canada**\n\nHi Nick, we had a wonderful time! Michael
