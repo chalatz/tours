@@ -118,7 +118,7 @@
 
         <p class="site-footer__copyright">
             {%- include helpers/check_empty_string.html the_string = page.end_page.short_text -%}
-            {%- if page.end_page.short_text and string_not_empty == true -%}
+            {%- if page.end_page.short_text and page.end_page.short_text.size > 0 -%}
                 @1998 - {{ site.time | date: '%Y' }} RhodesPrivateTours.com | {{ page.end_page.short_text }}
             {%- else -%}
                 @1998 - {{ site.time | date: '%Y' }} RhodesPrivateTours.com | {{ site.data.defaults.end_page.short_text }}
