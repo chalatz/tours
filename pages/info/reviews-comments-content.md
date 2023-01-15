@@ -15,6 +15,8 @@ subtitle: We have been offering our high standard Private Tour Services since 19
   and we've been online since 1998
 subtitle2: They Came as First Time Clients, Left as Friends
 reviews:
+- year: "2023"
+  text: ''
 - year: "2022"
   text: "Hi Nick. Liana was great, it was all well planned and easy walking. The architecture
     was never ending. The old city of Rhodes was beautiful. The quaint old shops,
