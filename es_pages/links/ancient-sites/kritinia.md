@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: La Aldea y Castillo de Kritinia
 permalink: castillo_de_kritinia_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_kritinia_castle
 ref: site_kritinia_castle
@@ -12,7 +13,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   abstract: El Castillo de Kritinia, La Aldea y Castillo de Kritinia Rodas Grecia
-title: La Aldea y Castillo de Kritinia
 summary: |-
   La aldea de Kritinia, cuyo nombre significa "Nueva Creta", fue fundada por algunas de las familia que llegaron como refugiados desde la isla de Creta. El asentamiento estaba ubicado originalmente en la costa, en la ubicación actual de Kamiros Skala, pero después de la era bizantina, se trasladó hacia las colinas para resguardarse de los piratas. En su apogeo, el castillo debió haber sido un refugio para los habitantes de las aldeas aledañas durante los saqueos enemigos. Se tiene una vista panorámica del Mar Egeo desde esas colinas.
 
@@ -112,5 +112,5 @@ sections:
       href: img/kritinia_castle/kritinia_castle_16_mod.jpg
       alt: El Castillo de Kritinia las Vistas
       caption: ''
-
 ---
+

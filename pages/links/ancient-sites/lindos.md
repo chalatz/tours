@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: 'Rhodes Lindos Tour '
 permalink: acropolis_lindos_%20executive_escorted.htm
+layout: photo-tour
 has_gallery: true
 id: site_acropolis_lindos
 ref: site_acropolis_lindos
@@ -16,7 +17,6 @@ meta:
   abstract: Rhodes Lindos Tour, Tours to Lindos from Rhodes
   http_desc: 'Rhodes Lindos Tour, Acropolis of Lindos Tours, Tours to Lindos from
     Rhodes, Executive tours and Escorted tours of Rhodes. '
-title: 'Rhodes Lindos Tour '
 summary: The ancient town of Lindos located on the east coast of Rhodes island at
   a distance of 50 km / 32 miles from the Rhodes Town. A number of 15th century structures
   within the whitewashed town are declared traditional buildings to be preserved.
@@ -171,5 +171,5 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Executive Tours '
 no_related_tours_text: ''
-
 ---
+

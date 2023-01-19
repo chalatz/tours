@@ -1,8 +1,9 @@
 ---
+title: '"Natural Attractions in Rhodes" GT7'
+permalink: natural_attractions.htm
 layout: tour
 type: guided_tours_page
 id: guided_natural_attractions
-permalink: natural_attractions.htm
 has_form: true
 has_gallery: true
 is_of: guided_tours
@@ -18,7 +19,6 @@ meta:
   abstract: Natural Attractions in Rhodes Greece
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"Natural Attractions in Rhodes" GT7'
 tour:
   title: '"Natural Attractions in Rhodes" GT7'
   summary: Kallithea Spa / Anthony Quinn Bay / Scenic Drive to the West Coast / Valley
@@ -172,8 +172,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Natural Tours
-
 ---
+
 **KALLITHEA SPA**
 
 In the beginning, you will experience the Kallithea Spa on the east coast of the island. You will be driven there from your selected drop off point. The Springs date back to Classical Antiquity and have become a popular tourist attraction, as well as a wedding destination since it was renovated.   Some classic **Hollywood flicks** have even been filmed here with the most prominent being **Escape to Athena,** starring the ethereal **Roger Moore** and the rugged **Telly Savalas**. The action classic, the **Guns of Navarone** also had some of its scenes filmed here. <u>Guided Walking Tour</u> (Stop Visit Photos)

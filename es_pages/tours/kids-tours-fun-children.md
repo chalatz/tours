@@ -1,9 +1,10 @@
 ---
+title: '"Rodas, Excursión Para Niños"'
+permalink: excursiones_para_ninos_rodas_grecia.htm
 layout: es/tour
 type: driving_tours_page
 id: kids_tours
 ref: kids_tours
-permalink: excursiones_para_ninos_rodas_grecia.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -19,7 +20,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   http_desc: Excursiones Para Niños Rodas, Tours Para Niños Rodas Grecia. Excursiones
     Privadas, Tours Privados
-title: '"Rodas, Excursión Para Niños"'
 summary:
   paragraphs:
   - El reto es ver los mejores sitios de atracción y mantener, simultáneamente, a
@@ -180,8 +180,8 @@ not_included:
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+
 Desde un punto elegido por usted, lo trasladarán a la entrada del antiguo puerto, **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos)
 
 Cerca del puerto está **la Iglesia de la Anunciación** que contiene pinturas de pared góticas asombrosas de Fotis Kontoglou e impresionantes lámparas de araña. Actualmente es la catedral de la ciudad (Stop Visitar Fotos)

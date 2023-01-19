@@ -1,8 +1,9 @@
 ---
+title: COVID-19 RHODES ISLAND GREECE - HEALTH AND SAFETY MEASURES
+permalink: covid-19-rhodes-greece.htm
 layout: pages/simple-page
 type: plain_page
 id: covid_19
-permalink: covid-19-rhodes-greece.htm
 has_form: false
 has_gallery: false
 meta:
@@ -13,10 +14,9 @@ meta:
   abstract: Covid-19 Rhodes Island Greece, Health and Safety Measures
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-title: COVID-19 RHODES ISLAND GREECE - HEALTH AND SAFETY MEASURES
 subtitle: ''
-published: true
 ---
+
 With the COVID-19 outbreak, it has become essential to take consistent, careful, and deliberate actions to ensure a safer touring environment for all. We expect all our drivers, guides and travelers to act responsibly to protect the health and safety of themselves and their companions.
 
 ### HEALTH & SAFETY PRACTICES FOR ALL “RHODES PRIVATE TOURS”

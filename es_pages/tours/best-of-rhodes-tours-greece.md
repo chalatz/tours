@@ -1,9 +1,10 @@
 ---
+title: '"Lo Mejor de Rodas"'
+permalink: Mejor_de_Rodas_grecia.htm
 layout: es/tour
 type: driving_tours_page
 id: best_of_rhodes
 ref: best_of_rhodes
-permalink: Mejor_de_Rodas_grecia.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -18,7 +19,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: ''
-title: '"Lo Mejor de Rodas"'
 summary:
   paragraphs:
   - Para aquellos de ustedes con horarios limitados, este tour es perfecto. Cuando
@@ -230,8 +230,8 @@ not_included:
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+
 Desde un punto elegido por usted, se le conducirá a la ciudad vieja **(Ciudad Patrimonio Mundial)** y pasará por una de las entradas y por el ágora y el denominado Collaquium, donde **los caballeros de San Juan de Jerusalén** vivieron y trabajaron en la construcción de un bastión de la cristiandad en el Mediterráneo oriental. La ciudad vieja es donde se alojan las iglesias; los escudos de armas en mármol de los caballeros; las balas de cañón; las posadas de los caballeros y lo más impresionante, **el palacio restaurado de** **los Grandes Maestres** (Stop Fotos) 
 
 Luego, iremos más allá de los edificios imponentes de la nueva ciudad de estilo neocolonialista e italiano, que ofrecen una impresión de grandeza a esta parte de la ciudad actual. Continuamos por la entrada del antiguo puerto, **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos) 

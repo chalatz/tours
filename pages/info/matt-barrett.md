@@ -1,54 +1,55 @@
 ---
+title: Matt Barrett
+permalink: greece_travel_guide.htm
 layout: pages/matt-barrett
 type: plain_page
 id: matt_barrett_page
-permalink: greece_travel_guide.htm
 has_form: false
 has_gallery: true
 meta:
-  title: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek Islands
-  http_desc: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek Islands
-  description: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek Islands, Information about Greece, Planning your trip to Greece
-  keywords: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek Islands, Information about Greece, Planning your trip to Greece
+  title: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek
+    Islands
+  http_desc: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek
+    Islands
+  description: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the
+    Greek Islands, Information about Greece, Planning your trip to Greece
+  keywords: Matt Barrett Rhodes Greece Travel Guide, Matt Barrett Guide to the Greek
+    Islands, Information about Greece, Planning your trip to Greece
   abstract: Matt Barrett Rhodes Greece Travel Guide
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-
-title: Matt Barrett
-
-subtitle: 'The “Greece Travel Expert“!'
-
+subtitle: The “Greece Travel Expert“!
 gallery:
   items_per_row: 4
   is_gallery: true
   captions_style: italic
   items:
-    - image:
-        thumb: "./img/matt_barrett/matt_barrett-thumb.jpg"
-        href: "./img/matt_barrett/matt_barrett.jpg"
-        alt: 'Greece Travel Guide, Information about Greece'
-        is_link: false
-      caption: 'Matt Barrett'
-    - image:
-        thumb: "./img/matt_barrett/matt_barrett-2-thumb.jpg"
-        href: "./img/matt_barrett/matt_barrett-2.jpg"
-        alt: ' Planning your trip to Greece, Travel Guide to the Greek Islands'
-        is_link: false
-      caption: 'Matt Barrett'
-    - image:
-        thumb: "./img/matt_barrett/matt_barrett-3-thumb.jpg"
-        href: "./img/matt_barrett/matt_barrett-3.jpg"
-        alt: ' Greece Travel Guide'
-        is_link: false
-      caption: 'Matt Barrett'
-    - image:
-        thumb: "./img/matt_barrett/matt_barrett-4-thumb.jpg"
-        href: "./img/matt_barrett/matt_barrett-4.jpg"
-        alt: ' Greece Travel Expert '
-        is_link: false
-      caption: 'Matt Barrett'
-
+  - image:
+      thumb: "./img/matt_barrett/matt_barrett-thumb.jpg"
+      href: "./img/matt_barrett/matt_barrett.jpg"
+      alt: Greece Travel Guide, Information about Greece
+      is_link: false
+    caption: Matt Barrett
+  - image:
+      thumb: "./img/matt_barrett/matt_barrett-2-thumb.jpg"
+      href: "./img/matt_barrett/matt_barrett-2.jpg"
+      alt: " Planning your trip to Greece, Travel Guide to the Greek Islands"
+      is_link: false
+    caption: Matt Barrett
+  - image:
+      thumb: "./img/matt_barrett/matt_barrett-3-thumb.jpg"
+      href: "./img/matt_barrett/matt_barrett-3.jpg"
+      alt: " Greece Travel Guide"
+      is_link: false
+    caption: Matt Barrett
+  - image:
+      thumb: "./img/matt_barrett/matt_barrett-4-thumb.jpg"
+      href: "./img/matt_barrett/matt_barrett-4.jpg"
+      alt: " Greece Travel Expert "
+      is_link: false
+    caption: Matt Barrett
 ---
+
 Anyone looking for information on Greece using the search engines and especially Google has probably come across the name of Matt Barrett.
 
 Matt visited Rhodes to explore the island for his travel guide. It was our pleasure to meet him and help him discover the hidden gems of Rhodes. He was a thoroughly nice and fun person and clearly loves what he does

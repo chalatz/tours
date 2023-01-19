@@ -1,6 +1,7 @@
 ---
-layout: es/beach
+title: Playa de Faliraki Rodas Grecia
 permalink: faliraki_playa_rodas_grecia.htm
+layout: es/beach
 has_gallery: true
 id: beach_site_faliraki
 ref: beach_site_faliraki
@@ -12,7 +13,6 @@ meta:
   abstract: Faliraki, Playa de Faliraki Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Playa de Faliraki Rodas Grecia
 info:
 - label: Localización
   text: a 14 Kms. (8,6 millas) de la ciudad de Rodas en la Costa Este
@@ -38,6 +38,6 @@ gallery_rows:
   - thumb: img/rhodes_beaches/faliraki_beach/faliraki_beach_4-thumb.jpg
     href: img/rhodes_beaches/faliraki_beach/faliraki_beach_4.jpg
     alt: 'Rodas Grecia, Playa de Faliraki '
-
 ---
+
 Abierta sólo durante la temporada de verano, su único propósito es proporcionar a sus visitantes unas vacaciones que no olvidarán. Las playas son principalmente de arena y las aguas son cristalinas, lisas como un espejo. Hay una abundante cantidad de camas de sol para que se tumbe y trabaje en su bronceado. Para los más activos, también hay muchos deportes acuáticos para elegir, incluyendo el Salto en “Bungee”. Las playas de Faliraki son sólo superadas por su vida nocturna. Faliraki rebosa de bares, clubes, salas de baile y algunos de los mejores restaurantes que se pueda encontrar.

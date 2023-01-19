@@ -1,8 +1,9 @@
 ---
+title: V.I.P SERVICES
+permalink: vips_services_luxury_limousine.htm
 layout: page
 type: services_page
 id: vip_services_page
-permalink: vips_services_luxury_limousine.htm
 banners_below: true
 has_form: false
 has_gallery: false
@@ -22,7 +23,6 @@ meta:
 head_photo:
   src: "./img/pages/services/vip-head-photo.jpg"
   alt: Rhodes Island Tours Services
-title: V.I.P SERVICES
 links:
 - driving_tours
 - guided_tours
@@ -33,8 +33,8 @@ end_page:
   short_text: Experts in Private Tours of Rhodes
 subtitle: ''
 sections: []
-
 ---
+
 We also cater for those visiting the island either by yacht or private plane. Flexible services are provided for all your transporting needs. **Diplomats, VIP guests, Delegations, Incentives, Congresses, Conferences, Meetings, Cultural and Sports Events**, and all others special occasions, executives on a tight and varied schedule will be extremely satisfied with the high-quality services provided by "Rhodes V.I.P. Services".
 
 Private transfers From Rhodes International Airport to all accommodations are catered for. You will be met and greeted at the airport with a personalized sign or upon request, anonymously. No need to worry about flight delays, as we are always informed by flight couriers regarding such issues and wait for your arrival promptly to meet you and pick up your luggage.

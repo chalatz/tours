@@ -1,6 +1,7 @@
 ---
-layout: partner
+title: 'MADRITD SHORE EXCURSIONS '
 permalink: madrid_shore_excursions.htm
+layout: partner
 has_gallery: false
 id: partner_madrid_shore_excursions
 meta:
@@ -14,12 +15,11 @@ meta:
   abstract: MADRID SHORE EXCURSIONS
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: 'MADRITD SHORE EXCURSIONS '
 subtitles:
 - Madrid and Spain Ports - Malaga, Cadiz, Valencia, Tenerife, Palma, Ibiza, Cartagena
 - ''
-
 ---
+
 We provide top quality shore excursions for Madrid and Spain Ports as Malaga, Cadiz, Valencia, Tenerife, Palma, Ibiza, Cartagena. We offer unbeatable prices!
 
 Book multiple tours in Spain with our excursion specialists. Pickup and drop-off from port, expert English-speaking guides, and top-quality service throughout the day.

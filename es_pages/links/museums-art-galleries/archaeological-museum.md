@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Museo Arqueológico de Rodas Grecia
 permalink: museo_arqueologico_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_archaeological_museum
 ref: site_archaeological_museum
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   abstract: Museo Arqueológico de Rodas Grecia, Sitios arqueológicos y Museos de Rodas,
     Grecia, Museo Arqueológico de Isla de Rodas
-title: Museo Arqueológico de Rodas Grecia
 summary: Este era el nuevo Hospital de los Caballeros y su original “raison d´etre”,
   su razón de ser. Iniciado en 1440 sobre los restos de una construcción romana, no
   fue hasta que el Gran Maestre d´Aubusson asumió su cargo, cuarenta años después,
@@ -86,5 +86,5 @@ sections:
       href: img/rhodes_archaeological_museum/archaeological_museums_rhodes_greece_12.jpg
       alt: 'Museo Arqueológico de Rodas Grecia '
       caption: ''
-
 ---
+

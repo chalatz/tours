@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Museo de Arte Moderna Griega  Galería Municipal
 permalink: museo_arte_moderna_griega.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_modern_greek_art_museum
 ref: site_modern_greek_art_museum
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Museo de Arte Moderna Griega, Arte Griego Moderno, Museos y Gallerias
     de Rodas Grecia
-title: Museo de Arte Moderna Griega  Galería Municipal
 summary: El Museo de Arte Moderna Griega en Rodas está compuesto por tres edificios.
 sections:
 - title: Galería Principal
@@ -130,5 +130,5 @@ sections:
 
     - Exposiciones Temporales.
     - Grabados europeos – del Dodecaneso (durante el verano).
-
 ---
+

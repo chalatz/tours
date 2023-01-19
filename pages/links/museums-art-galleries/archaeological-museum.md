@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: The Archaeological Museum of Rhodes Greece
 permalink: archaeological_museums_rhodes_greece.htm
+layout: photo-tour
 has_gallery: true
 id: site_archaeological_museum
 ref: site_archaeological_museum
@@ -16,7 +17,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   abstract: Archaeological Museum of Rhodes Greece, Rhodes Archaeological Tours
-title: The Archaeological Museum of Rhodes Greece
 summary: The archaeological museum inside this grand historic castle gives archaeology
   and history buffs double the pleasure of discovery. The building itself is worth
   a visit, but to find a museum inside makes this stop is especially rewarding. You
@@ -116,5 +116,5 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Archaeological Tours
 no_related_tours_text: ''
-
 ---
+

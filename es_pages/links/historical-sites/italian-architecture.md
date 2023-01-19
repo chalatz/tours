@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Arquitectura Italiana. 1912 - 1943
 permalink: monumentos_arquitectura_italiana.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_italian
 ref: site_italian
@@ -17,7 +18,6 @@ meta:
     Grecia, Isla de Rodas Grecia
   http_desc: Monumentos y Arquitectura Italiana en Rodas, Sitios Históricos en Rodas
     Grecia, Isla de Rodas Grecia
-title: Arquitectura Italiana. 1912 - 1943
 summary: |-
   En 1912 las tropas italianas se tomaron la isla con el resto de las islas del Dodecaneso y establecieron una colonia italiana conocida como “Isole Italiane dell´Egeo” en 1923 (Islas Italianas del Egeo).
 
@@ -71,5 +71,5 @@ sections:
     crítica en la actualidad. A pesar de haber sido métodos impuestos por las circunstancias
     políticas de sus días, ayudaron sin duda a preservar monumentos que de otra manera
     no habrían sobrevivido hasta el presente.
-
 ---
+

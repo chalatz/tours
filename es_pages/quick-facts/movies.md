@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Películas filmadas en la Isla de Rodas, Grecia
 permalink: peliculas_filmadas_rodas.htm
+layout: es/photo-tour
 has_gallery: false
 id: info_movies_filmed_rhodes
 ref: info_movies_filmed_rhodes
@@ -17,7 +18,6 @@ meta:
   abstract: Películas de Rodas Grecia, Películas filmadas en la Isla de Rodas Grecia,
     Libros sobre la isla de Rodas Grecia
   author: Nick
-title: Películas filmadas en la Isla de Rodas, Grecia
 summary: |-
   La belleza natural de Rodas, junto con su magnífica ciudad medieval y otros monumentos históricos que siempre han apelado a los productores de películas. No es de extrañar, por tanto, que un gran número de producciones de cine griegos y extranjeros, incluidos algunos de los mejores de Hollywood fueron filmados en Rodas.
 
@@ -169,5 +169,5 @@ no_related_tours_text: ''
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+

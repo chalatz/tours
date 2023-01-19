@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: La Granja de los Avestruces y el Parque Zoológico de Rodas, Grecia
 permalink: parques_naturales_grecia_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_ostrich_farm
 ref: site_ostrich_farm
@@ -12,7 +13,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   abstract: La Granja de Avestruces Rodas Grecia, Parque Zoológico en Rodas
-title: La Granja de los Avestruces y el Parque Zoológico de Rodas, Grecia
 summary: Tanto para los jóvenes como para los mayores, una visita a la Granja de Avestruces
   de Rodas vale más que la pena. Esta granja es una atracción turística administrada
   por una familia que garantiza a sus visitantes una amplia –y en aumento- selección
@@ -80,5 +80,5 @@ sections:
       href: img/ostrich_farm_zoo_park/ostrich_farm_zoo_park_12.jpg
       alt: 'La Granja de los Avestruces y el Parque Zoológico de Rodas, Grecia '
       caption: ''
-
 ---
+

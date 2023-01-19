@@ -1,6 +1,7 @@
 ---
-layout: es/beach
+title: Playa de LINDOS Rodas Grecia
 permalink: lindos_playa_rodas_grecia.htm
+layout: es/beach
 has_gallery: true
 id: beach_site_lindos
 ref: beach_site_lindos
@@ -15,7 +16,6 @@ meta:
   abstract: Lindos, Playa de Lindos Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Playa de LINDOS Rodas Grecia
 info:
 - label: Localización
   text: a 52 Kms. (32,31 millas) de la ciudad de Rodas en la Costa Este
@@ -41,6 +41,6 @@ gallery_rows:
   - thumb: img/rhodes_beaches/lindos_beach/lindos_beach_4-thumb.jpg
     href: img/rhodes_beaches/lindos_beach/lindos_beach_4.jpg
     alt: Playa de LINDOS Rodas Grecia
-
 ---
+
 La playa de Lindos es vista desde lo alto desde la hermosa acrópolis, y está bien protegida contra la intemperie por una península rocosa. La bahía de Lindos ofrece una pequeña playa de arena para tomar el sol. Dispone de tumbonas y sombrillas y también hay vestuarios y duchas. La playa tiende a estar muy concurrida en temporada alta.

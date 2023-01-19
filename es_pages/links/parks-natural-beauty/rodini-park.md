@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Parque Rodini en Rodas Grecia
 permalink: parque_rodini_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_rodini_park
 ref: site_rodini_park
@@ -12,7 +13,6 @@ meta:
   author: NK for Rhodes Private Tours
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Parque Rodini Rodas Grecia, Rodini, Parques de Rodas Isla Grecia
-title: Parque Rodini en Rodas Grecia
 summary: El Parque Rodini tiene la distinción única de ser el primer parque ajardinado
   del mundo. Este parque era muy popular entre los romanos quienes construyeron ahí
   un acueducto. Dentro del área del parque hay pavos reales en abundancia puesto que
@@ -59,5 +59,5 @@ sections:
       href: img/rodini_park/rodini_park_8.jpg
       alt: El Parque Rodini Rodas Grecia
       caption: El Parque Rodini, un túnel en la roca
-
 ---
+

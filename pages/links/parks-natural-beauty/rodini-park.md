@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: The Rodini Park in Rhodes Greece
 permalink: rodini_park_rhodini.htm
+layout: photo-tour
 has_gallery: true
 id: site_rodini_park
 ref: site_rodini_park
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   abstract: Rodini Park Rhodes Greece, Rhodini Park, Rhodes Private Tours, Rhodes
     Taxi Tours
-title: The Rodini Park in Rhodes Greece
 summary: The Rodini Park has the unique distinction of being the world's first landscaped
   park. This park was very popular with the Romans and they even built an aqueduct
   here. The Knights of Rhodes once grew their medicinal herbs in Rodini Park. Inside
@@ -78,5 +78,5 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Sightseeing Tours
 no_related_tours_text: WE CAN ADD THIS ATTRACTION TO YOUR TOUR UPON REQUEST
-
 ---
+

@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: The Bee Museum - Unique in Greece
 permalink: bee_museum.htm
+layout: photo-tour
 has_gallery: true
 id: site_bee_museum
 ref: site_bee_museum
@@ -13,7 +14,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   abstract: Rhodes Bee Museum, Rhodes Sightseeing Tours
-title: The Bee Museum - Unique in Greece
 summary: |-
   The Bee Museum is one of a kind and is currently open to the public in Greece. It was founded by “Melissokomiki Dodecanese” (Beekeeping Company of the Dodecanese). It showcases the rich history of beekeeping that the Greek Islands, including Rhodes, have had through the ages. The Museum receives upwards of 30,000 visitors annually.    The Museum allows you to see into the amazing world that bees inhabit through transparent observation hives. It also offers a window into the tradition and history of beekeeping in Rhodes, which used to involve stone cells, the four different types of beehives that exist, and the method by which honey is obtained, featuring every step of the beehive to table process.
 
@@ -108,5 +108,5 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Sightseeing Tours '
 no_related_tours_text: ''
-
 ---
+

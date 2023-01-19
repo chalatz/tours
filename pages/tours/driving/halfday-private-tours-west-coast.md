@@ -1,9 +1,10 @@
 ---
+title: Rhodes West Coast DT3
+permalink: halfday_private_tours_west_coast.htm
 layout: tour
 type: driving_tours_page
 id: west_coast
 ref: west_coast
-permalink: halfday_private_tours_west_coast.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -20,7 +21,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   http_desc: Rhodes Medieval City, Rhodes New Town, West Coast of the Island, Filerimos,
     Valley of the Butterflies, Winery, Ancient Kamiros
-title: Rhodes West Coast DT3
 summary:
   paragraphs:
   - This tour is filled with history, natural beauty and ancient sites. You will be
@@ -193,8 +193,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Tours   '
-
 ---
+
 **MEDIEVAL CITY**
 
 From your selected point, you'll be driven to the Old town Medieval City (**World Heritage Site**) to see the most imposing buildings and get your photos from outside (Stop Photos).

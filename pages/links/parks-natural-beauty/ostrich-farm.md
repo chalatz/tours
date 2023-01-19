@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: The Ostrich Farm and Zoo Park in Rhodes Greece
 permalink: ostrich_farm_zoo_park.htm
+layout: photo-tour
 has_gallery: true
 id: site_ostrich_farm
 ref: site_ostrich_farm
@@ -16,7 +17,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   abstract: Ostrich Farm and Zoo Park in Rhodes
-title: The Ostrich Farm and Zoo Park in Rhodes Greece
 summary: For both young and old alike the Rhodes Ostrich Farm is well - worth a visit.
   This Farm is a family run tourist attraction and is guaranteed to delight its visitors
   with its ever-growing range of animals. The facility lies within close distance
@@ -101,5 +101,5 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Custom-Made Tours
 no_related_tours_text: ''
-
 ---
+

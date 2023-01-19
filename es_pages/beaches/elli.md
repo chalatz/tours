@@ -1,6 +1,7 @@
 ---
-layout: es/beach
+title: Playa de Elli (Playa Eli) Rodas Grecia
 permalink: elli_playa_rodas_grecia.htm
+layout: es/beach
 has_gallery: true
 id: beach_site_elli
 ref: beach_site_elli
@@ -13,7 +14,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Elli, Playa de Elli Rodas Grecia
-title: Playa de Elli (Playa Eli) Rodas Grecia
 info:
 - label: Localización
   text: En la ciudad de Rodas (extremo norte de la ciudad)
@@ -40,8 +40,8 @@ gallery_rows:
   - thumb: img/rhodes_beaches/elli_beach/elli_beach_4-thumb.jpg
     href: img/rhodes_beaches/elli_beach/elli_beach_4.jpg
     alt: Playa de Elli Rodas Grecia
-
 ---
+
 Descrito por Lawrence Durell, **"Reflections on a Marine Venus"** como la mejor playa en el Mediterráneo. Elli se encuentra entre el puerto de Mandraki, y el Acuario, en el extremo norte de la ciudad.
 
 A pesar de su longitud y anchura, la playa Elli está repleta de paraguas y puede parecer demasiado concurrida en temporada alta, pero el mar es muy fresco y claro. La playa Elli cuenta con gran cantidad de tumbonas, restaurantes cercanos, una selección de deportes acuáticos e incluso una cancha de voleibol sobre la playa misma. Es sin duda una de las playas más cosmopolitas.

@@ -1,8 +1,9 @@
 ---
+title: '"Senior Citizens Tours in Rhodes" DT13'
+permalink: senior-citizens-tours-in-rhodes.htm
 layout: tour
 type: driving_tours_page
 id: seniors_tours
-permalink: senior-citizens-tours-in-rhodes.htm
 redirect_from:
 - Seniors-tours-in-rhodes.htm
 has_form: true
@@ -21,7 +22,6 @@ meta:
   abstract: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"Senior Citizens Tours in Rhodes" DT13'
 summary:
   paragraphs: []
 tour:
@@ -169,8 +169,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Tours   '
-
 ---
+
 #### Relaxing tours for seniors that do not require extensive walking
 
 We've been providing tours for the old and young for over 35 years. We particularly have a large range of tour choices for seniors that come to Rhodes by cruise ships. Rhodes tours tend to feature the best of both worlds. They feature adventure and comfort so that you don't have to choose one. You'll get to see the best of Rhodes' destinations without having to sacrifice either. There's even an option to create a custom tour to suit your sensibilities.

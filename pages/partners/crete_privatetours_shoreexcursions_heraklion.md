@@ -1,6 +1,7 @@
 ---
-layout: partner
+title: CRETE PRIVATE TOURS - CRETE SHORE EXCURSION
 permalink: crete_privatetours_shoreexcursions_heraklion.htm
+layout: partner
 has_gallery: false
 id: partner_crete_privatetours_shoreexcursions_heraklion
 meta:
@@ -11,8 +12,7 @@ meta:
   abstract: CRETE PRIVATE TOURS, Crete Shore Excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: CRETE PRIVATE TOURS - CRETE SHORE EXCURSION
 subtitles:
 - " Heraklion Knossos Tours"
-
 ---
+

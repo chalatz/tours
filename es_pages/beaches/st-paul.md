@@ -1,6 +1,7 @@
 ---
-layout: es/beach
+title: Playa de San Pablo Rodas Grecia (St. Paul)
 permalink: bahia_de_san_pablo_rodas_grecia.htm
+layout: es/beach
 has_gallery: true
 id: beach_site_st_pauls
 ref: beach_site_st_pauls
@@ -16,7 +17,6 @@ meta:
   abstract: La Bahía de San Pablo Rodas Grecia, La Playa de St. Paul Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Playa de San Pablo Rodas Grecia (St. Paul)
 info:
 - label: Localización
   text: Al sur de la Acrópolis de Lindos
@@ -42,8 +42,8 @@ gallery_rows:
   - thumb: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_4-thumb.jpg
     href: img/rhodes_beaches/st_pauls_bay/st_pauls_bay_4.jpg
     alt: Playa de San Pablo Rodas Grecia (St. Paul)
-
 ---
+
 Pequeña playa de arena, con agua de mar poco profundo, y un paisaje atractivo.
 
 Es aquí adonde se dice que el apóstol llegó por mar en el año 51 d.C. para predicar el cristianismo a los rodios. Desde este punto también puede verse la cueva, donde fue filmada la película "Los cañones de Navarone". Dispone de tumbonas y sombrillas y también vestuario y duchas. No se practican deportes acuáticos.

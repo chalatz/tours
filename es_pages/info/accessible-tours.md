@@ -1,10 +1,11 @@
 ---
+title: TOURS Accesibles para Discapacitados - Rodas Grecia
+permalink: viajes_accesibles_discapacitados.htm
 layout: es/page
 type: accessible_tours_page
 page_type: tours_page_alt
 id: accessible_tours_page
 ref: accessible_tours_page
-permalink: viajes_accesibles_discapacitados.htm
 banners_below: true
 banners_2: true
 has_form: false
@@ -24,7 +25,6 @@ meta:
   abstract: Tours Accesibles para discapacitados Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-title: TOURS Accesibles para Discapacitados - Rodas Grecia
 head_photo:
   src: "./img/tours-pages/head-photos/head-photo-accessible-tours.jpg"
   alt: Tours Accesibles para Discapacitados - Rodas Grecia
@@ -35,8 +35,8 @@ sections:
 
     {:.centered}
     **Viajar en silla de ruedas, Turismo en Silla, Acceso Minusválidos.**
-
 ---
+
 Esto es un servicio para personas con limitaciones físicas o aquellos que no gustan de subir y de caminar largas distancias.
 
 Por medio de este servicio intentamos acercarle lo más posible a todos los sitios de manera que no sea necesario que usted deje el coche. Apreciaríamos la notificación anticipada para la gente que requiere de silla de ruedas, puesto que necesitamos pedir un permiso para transportarle hasta su nave y a ciertas áreas alrededor de la isla.

@@ -1,9 +1,10 @@
 ---
+title: Rhodes Jewish Sights Plus DT4
+permalink: Jewish_sites_tours_greece.htm
 layout: tour
 type: driving_tours_page
 id: jewish_sites
 ref: jewish_sites
-permalink: Jewish_sites_tours_greece.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -19,7 +20,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   http_desc: Jewish Tours in Rhodes, Jewish Sights Tour, Rhodes Jewish Tours, Rhodes
     Private Tours Greece
-title: Rhodes Jewish Sights Plus DT4
 summary:
   paragraphs:
   - This tour is perfect for those who are interested in the Jewish community that
@@ -192,8 +192,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Exclusive Tours   '
-
 ---
+
 **NEW TOWN**
 
 From your selected point, you'll be driven to the Historical Buildings and the Old Harbor, where according to the tradition, the **Colossus of Rhodes** once stood (Stop Visit Pictures)  The **North Point of the Island** where the Mediterranean and the Aegean Sea meet (Stop Photos)

@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Guía turística.  Información sobre Rodas Grecia
 permalink: guia_viaje_Rodas_Grecia_Informacion_turistica.htm
+layout: es/photo-tour
 has_gallery: false
 id: info_rhodes_travel_guide
 ref: info_rhodes_travel_guide
@@ -13,7 +14,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Guía turística de Rodas Grecia, Información turística sobre Rodas Grecia
   author: Nick
-title: Guía turística.  Información sobre Rodas Grecia
 summary: ''
 sections: []
 subtitle: ''
@@ -22,8 +22,8 @@ no_related_tours_text: ''
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+
 **Código de vestimenta** en la isla de Rhodas es muy casual, para hombres pantalones cortos y camisetas es la norma, y para damas, vestidos de verano, la luz o similares a los hombres. Si viene en la primavera o el otoño debería traer algunas de las regiones cálidas de ropa en caso de que llegue un poco frío en la noche. Incluso para aquellos que quieren vestir formalmente, elegante casual es la norma, que sería un par de pantalones y una camisa.
 
 **Reservación de un Taxi.** Hay regulaciones terminantes con respecto al número de pasajeros por el taxi. Se permite a hasta 4 pasajeros por el coche así que lleve esto en mente al hacer una reservación para un taxi. Asegúrese de que su equipaje cabe en un tronco del coche, de lo contrario tendrá que contratar a un segundo taxi para exceso equipaje. Al solicitar un taxi cerciórese de que usted esté en el punto de la recogida sin retrase puesto que un taxi estará allí dentro de minutos.

@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Colina de Filérimos - Este es el asentamiento más antiguo de la isla
 permalink: filerimos_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_filerimos_hill
 ref: site_filerimos_hill
@@ -17,7 +18,6 @@ meta:
     Isla de Rodas, la Colina de Filerimos
   http_desc: La Colina de Filerimos Rodas Grecia, Acrópolis de Ialyssos Rodas Grecia,
     Isla de Rodas, la Colina de Filerimos
-title: Colina de Filérimos - Este es el asentamiento más antiguo de la isla
 summary: La colina tomó su nombre de un monje proveniente de Jerusalén en el siglo
   XIII, quien traía consigo una imagen de la Virgen Bendecida pintada por el apóstol
   Lucas. Hoy esta imagen se encuentra en San Petersburgo y una copia de ella está
@@ -161,5 +161,5 @@ sections:
       href: img/filerimos_hill/filerimos_views_4.jpg
       alt: Vista del Colina de Filérimos
       caption: ''
-
 ---
+

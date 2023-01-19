@@ -1,8 +1,9 @@
 ---
+title: '"Best of & Lunch Break" GT2'
+permalink: full_day.htm
 layout: tour
 type: guided_tours_page
 id: guided_best_full_day
-permalink: full_day.htm
 has_form: true
 has_gallery: true
 is_of: guided_tours
@@ -16,7 +17,6 @@ meta:
   abstract: Full Day Tour of Rhodes, Greece Rhodes Full Day Tour
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"Best of & Lunch Break" GT2'
 tour:
   title: '"Best of & Lunch Break" GT2'
   summary: Rhodes Old & New Town / Acropolis of Rhodes / The East Coast / Free Olive
@@ -210,8 +210,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Full Day Tours
-
 ---
+
 **THE MEDIEVAL CITY**
 
 Upon reaching your designated point, you will be driven to the Medieval City, a World Heritage Site. You will make a brief stop at **the D'Amboise Gate** where you can take pictures of the environment. This marks the beginning of your <u>Guided Walking Tour</u> with your tour guide. You will make a tour of the most iconic monuments of the Old Town, (for pictures from outside) including the following: **Grand Masters Palace, Street of the Knights, Ruins of Sent John Cathedral,** **Archeological Museum, Byzantine Museum** (Stop Photos)  Reaching Marina Gate will mark the end of your walking tour.

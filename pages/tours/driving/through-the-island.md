@@ -1,8 +1,9 @@
 ---
+title: Through the Island Tour DT10
+permalink: island_tour.htm
 layout: tour
 type: driving_tours_page
 id: through_the_island
-permalink: island_tour.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -18,7 +19,6 @@ meta:
   abstract: Rhodes Island Tour, Through the Island Tour
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Through the Island Tour DT10
 summary:
   paragraphs:
   - This tour is designed for those want to enjoy the beauties of the landscape in
@@ -157,8 +157,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Island Tours
-
 ---
+
 **SEVEN SPRINGS**
 
 The tour will begin from your selected drop off point, and you'll be driven to the east coast in a Mercedes-Benz Sedan Car. The first place on your tour will be the Seven Springs, a valley filled with springs and pine trees. It's an oasis in the summer for inhabitants and tourists alike. The scenery allows visitors to attain a sense of calm while they navigate through the streams, and flowers, and take in the sights of the peacocks and ducks.  (Stop Visit Photos)

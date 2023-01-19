@@ -1,7 +1,7 @@
 ---
+title: PRIVACY POLICY
 layout: none
 id: privacy
-title: PRIVACY POLICY
 sitemap: false
 ---
 

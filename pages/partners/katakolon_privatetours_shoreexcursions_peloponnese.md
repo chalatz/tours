@@ -1,6 +1,7 @@
 ---
-layout: partner
+title: KATAKOLON PRIVATE TOURS - KATAKOLON SHORE EXCURSIONS
 permalink: katakolon_privatetours_shoreexcursions_peloponnese.htm
+layout: partner
 has_gallery: false
 id: partner_katakolon_privatetours_shoreexcursions_peloponnese
 meta:
@@ -14,12 +15,11 @@ meta:
   abstract: 'Katakolon Private tours, Katakolon Shore Excursions, Tour of the Peloponnese '
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: KATAKOLON PRIVATE TOURS - KATAKOLON SHORE EXCURSIONS
 subtitles:
 - 'OLYMPIA PRIVATE TOURS  '
 - ''
-
 ---
+
 My name is **Dora Stathopoulos** and i am the owner of the tour agency **Travel Dora**
 
 I was born and lived my early childhood in Melbourne, Australia. I decided to follow in my father's footsteps since he was involved in the travel industry for more than 3 decades.

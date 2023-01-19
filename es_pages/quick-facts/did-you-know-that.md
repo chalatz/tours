@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: "¿ Sabia usted que …?"
 permalink: isla_griega_rodas.htm
+layout: es/photo-tour
 has_gallery: false
 id: info_rhodes_island
 ref: info_rhodes_island
@@ -14,7 +15,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   abstract: Rodas Isla Griega, información sobre Rodas Grecia, La isla griega de Rodas
   author: Nick
-title: "¿ Sabia usted que …?"
 subtitle: Hechos fascinantes sobre la Isla de Rodas y Grecia, información que vale
   la pena conocer...
 summary: ''
@@ -24,8 +24,8 @@ no_related_tours_text: ''
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+
 - **Rodas - Lindos:** Los Lindios fueron los primeros en elaborar un código de derecho marítimo, más tarde conocido como la ley de Rodas. Este se convirtió posteriormente en la base del derecho marítimo romano, y aún hoy constituye la columna vertebral de la ley del mar.
 
 - ¡**La Acrópolis de Lindos** es la segunda Acrópolis más visitada en Grecia, después de la Acrópolis de Atenas!

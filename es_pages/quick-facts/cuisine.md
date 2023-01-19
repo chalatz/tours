@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Gastronomía Griega de Rodas - Comida Griega
 permalink: gastronomia_griega_comida_recetas_cocina.htm
+layout: es/photo-tour
 has_gallery: true
 id: info_food_greece_menus_meals
 ref: info_food_greece_menus_meals
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Gastronomía Griega, Comida Griega, Recetas, Cocina Griega Tradicional,
     Platos Típicos de Grecia, Culinaria Grecia Rodas
-title: Gastronomía Griega de Rodas - Comida Griega
 summary: La isla de Rodas pueda satisfacer a todo gourmet ya que produce varios productos
   de excelente calidad y la gastronomía local es un verdadero placer para los sentidos.
   Los platos de la gastronomía de Rodas tienen gustos definidos y de rico sabor. La
@@ -269,5 +269,5 @@ no_related_tours_text: ''
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+

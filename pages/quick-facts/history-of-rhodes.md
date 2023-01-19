@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: History of Rhodes Island Greece
 permalink: history_rhodes_greece.htm
+layout: photo-tour
 has_gallery: false
 id: info_history_rhodes
 ref: info_history_rhodes
@@ -16,7 +17,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Rhodes History Tours, Rhodes Private Tours
   author: Nick
-title: History of Rhodes Island Greece
 summary: The human presence on Rhodes can be traced with certainty back to the Stone
   Age.
 type: ''
@@ -30,8 +30,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes History Tours
-
 ---
+
 {:.centered .mb-minus-1-rem}
 ## The Hellenistic Times
 

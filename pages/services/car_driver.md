@@ -1,9 +1,10 @@
 ---
+title: Car and Driver Hiring Services in Rhodes
+permalink: car_driver_hire.htm
 layout: page
 type: services_page
 id: car_driver_services_page
 ref: car_driver_services_page
-permalink: car_driver_hire.htm
 banners_below: true
 has_form: false
 has_gallery: false
@@ -24,7 +25,6 @@ meta:
 head_photo:
   src: "./img/pages/services/car-driver-head-photo.jpg"
   alt: Rhodes Island Tours Services
-title: Car and Driver Hiring Services in Rhodes
 subtitle: Efficient and Flexible Chauffeur Services
 sections:
 - title: Available Cars
@@ -42,8 +42,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates.'
   short_text: Experts in Car and Driver Services
-
 ---
+
 Our job is to make your visit a memorable one. Whether a business or pleasure, we serve at your behest. If you can relax and take in the awesome sights of the island, we've done our job.
 
 Our associate drivers are all licensed, competent professionals who speak fluent English, and know the island like the back of their hand. Several of our associate chauffeurs are also fluent in other languages to cater to guests from all around.

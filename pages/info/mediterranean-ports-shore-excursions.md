@@ -1,6 +1,7 @@
 ---
-layout: partner-page
+title: MEDITERRANEAN PORTS SHORE EXCURSIONS
 permalink: mediterranean-ports-shore-excursions.htm
+layout: partner-page
 has_gallery: false
 id: partner_mediterranean_ports_shore_excursions
 meta:
@@ -17,10 +18,9 @@ meta:
   abstract: Mediterranean Ports Shore Excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: MEDITERRANEAN PORTS SHORE EXCURSIONS
 subtitles: []
-
 ---
+
 ### Have Fun at the Sea and on Land by Going on Mediterranean Shore Excursion Tours
 
 If you go on shore during a cruise trip, these are called shore excursions, and you can take them at the ports your ship docks in during the cruise. The service is offered by the cruise lines, and many independent tour operators because of how popular they are.

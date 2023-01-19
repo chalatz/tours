@@ -1,6 +1,7 @@
 ---
-layout: partner
+title: LISBON PORTUGAL SHORE EXCURSIONS
 permalink: lisbon_portugal_shoreexcursions.htm
+layout: partner
 has_gallery: false
 id: partner_lisbon_portugal_shoreexcursions
 meta:
@@ -12,10 +13,9 @@ meta:
   abstract: 'Portugal Lisbon Shore Excursions '
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: LISBON PORTUGAL SHORE EXCURSIONS
 subtitles: []
-
 ---
+
 Portugal Premium Tours is specialized in tailor-made tours around Portugal. Our mission is to offer our clients the most unforgettable experiences.
 
 Every program is developed by our team of travel experts proving our clients an exceptional service. Our attention to detail and high level of service ensures our happy clients come back to us year after year.

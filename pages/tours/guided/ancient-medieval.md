@@ -1,8 +1,9 @@
 ---
+title: '"Rhodes Ancient & Medieval Times" GT5'
+permalink: ancient_medieval.htm
 layout: tour
 type: guided_tours_page
 id: guided_ancient_medieval
-permalink: ancient_medieval.htm
 has_form: true
 has_gallery: true
 is_of: guided_tours
@@ -14,7 +15,6 @@ meta:
   abstract: Rhodes Ancient and Medieval Times, Rhodes Private Tours Greece
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"Rhodes Ancient & Medieval Times" GT5'
 tour:
   title: '"Rhodes Ancient & Medieval Times" GT5'
   summary: Rhodes Medieval City & Grand Master Palace / Rhodes New Town / Acropolis
@@ -168,8 +168,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Medieval City Tours
-
 ---
+
 **THE NEW TOWN**
 
 Your tour begins from your designated point, where you will be driven to the New Town at the entrance of the Old Harbor, where according to tradition, one of the seven wonders of the ancient world, the famous **Colossus of Rhodes** once stood. <u>Guided Tour</u> (Stop Visit Photos)

@@ -1,9 +1,10 @@
 ---
+title: '"Best of Rhodes" DT1'
+permalink: best_of_rhodes_tours_greece.htm
 layout: tour
 type: driving_tours_page
 id: best_of_rhodes
 ref: best_of_rhodes
-permalink: best_of_rhodes_tours_greece.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -19,7 +20,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: ''
-title: '"Best of Rhodes" DT1'
 summary:
   paragraphs:
   - For those of you with limited schedules, this tour is perfect. When you are brought
@@ -238,8 +238,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Tours   '
-
 ---
+
 **THE MEDIEVAL CITY**
 
 From your selected point, you'll be driven to the Old town - Medieval City (**World Heritage Site**), you'll pass through one of the gateways and by the Agora and the Collachium, where the **Knights of St. John of Jerusalem** lived and worked, building a stronghold of Christendom in the Eastern Mediterranean. Remaining remarkably intact, the Old Town is home to the churches, marble coats of arms of the Knights, cannon balls, the inns of the Knights, and most impressive the restored **Palace of the Grand Masters** (Stop Photos).

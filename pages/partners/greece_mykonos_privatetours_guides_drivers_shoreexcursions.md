@@ -1,6 +1,7 @@
 ---
-layout: partner
+title: 'MYKONOS PRIVATE TOURS - MYKONOS SHORE EXCURSIONS '
 permalink: greece_mykonos_privatetours_guides_drivers_shoreexcursions.htm
+layout: partner
 has_gallery: false
 id: partner_greece_mykonos_privatetours_guides_drivers_shoreexcursions
 meta:
@@ -15,13 +16,12 @@ meta:
   abstract: MYKONOS PRIVATE TOURS, Mykonos shore excursions, Delos Private Tours
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: 'MYKONOS PRIVATE TOURS - MYKONOS SHORE EXCURSIONS '
 subtitles:
 - DELOS PRIVATE TOURS
 - "Antonis the “Man of the Islands”\n\n"
 - ''
-
 ---
+
 Antonis is a licensed professional tour guide specializing in custom private tours. In the last decade during the summer time, he guides small groups and individuals on the islands of Delos and Mykonos.
 
 In off season, he spends his time between Syros and Naxos, where he organizes private tours for hikers to explore the unique nature and culture of the Cyclades island group.  

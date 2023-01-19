@@ -1,6 +1,7 @@
 ---
-layout: partner
+title: 'CORFU PRIVATE TOURS - CORFU SHORE EXCURSIONS '
 permalink: corfu_privatetours_shoreexcursions.htm
+layout: partner
 has_gallery: false
 id: partner_corfu_privatetours_shoreexcursions
 meta:
@@ -14,10 +15,9 @@ meta:
   abstract: CORFU PRIVATE TOURS,  Corfu shore Excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: 'CORFU PRIVATE TOURS - CORFU SHORE EXCURSIONS '
 subtitles: []
-
 ---
+
 Our Team is from Corfu, between 30-40 years old.  We are married with children. We all speak English fluently.
 
 We are professional Taxi Drivers, members of the Taxi Owners Association of Corfu, with an average of 15 years experience.

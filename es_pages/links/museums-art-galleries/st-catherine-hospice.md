@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Hospicio de Santa Caterina - Rodas Grecia
 permalink: hospicio_de_santa_caterina_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_st_catherine_hospice
 ref: site_st_catherine_hospice
@@ -12,7 +13,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Hospicio de Santa Caterina Rodas Grecia, Museos de Rodas Grecia
-title: Hospicio de Santa Caterina - Rodas Grecia
 summary: |-
   El Hospicio de Santa Caterina fue construido en 1391-92 por la Orden de los Caballeros de San Juan (Caballeros Hospitalarios) para albergar y entretener a huéspedes apreciados. El Hospicio lo construyó, bajo el mando del Gran Maestre Heredia, el italiano Domenico d´Allemagna, un almirante de la Orden de los Caballeros.
 
@@ -64,5 +64,5 @@ sections:
       alt: Isla de Rodas,  El Hospicio de Santa Caterina
       caption: ''
 subtitle: Hospicio de Santa Caterina - Rodas Grecia
-
 ---
+

@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Palacio del Gran Maestre, Rodas Grecia
 permalink: palacio_del_Gran_Maestre_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_grand_masters_palace
 ref: site_grand_masters_palace
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Palacio del Gran Maestre Rodas Grecia, El Palacio de los Grandes Maestres
     Rodas Grecia
-title: Palacio del Gran Maestre, Rodas Grecia
 summary: Al frente de la Iglesia de San Juan, en el punto más alto del Castillo, se
   encuentra el Palacio de los Grandes Maestres que era el centro administrativo y
   la “Acrópolis” de los Caballeros.
@@ -109,5 +109,5 @@ sections:
       href: img/grand_masters_palace/statues_in_the_inner_courtyard_mod.jpg
       alt: Las estatuas que se encuentran en el patio interior del palacio
       caption: Las estatuas que se encuentran en el patio interior del palacio
-
 ---
+

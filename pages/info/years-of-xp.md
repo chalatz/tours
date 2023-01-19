@@ -1,8 +1,9 @@
 ---
+title: Thirty Six Years of Excellence 1984 - 2020
+permalink: more_than_thirty_years_experience.htm
 layout: pages/years-of-xp
 type: plain_page
 id: tripadvisor_page
-permalink: more_than_thirty_years_experience.htm
 has_form: false
 has_gallery: false
 meta:
@@ -13,11 +14,10 @@ meta:
   abstract: Rhodes Private Tours and Shore Excursions, More than 30 Years of Experience
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-title: Thirty Six Years of Excellence 1984 - 2020
 subtitle: We have been offering our high standard private tour service since 1984
   and we have been on-line since 1998.
-
 ---
+
 ### We are knowledgeable
 
 If you want to get to know the local customs and practices on the island (and who doesn't?) just ask us. We know the answers to any questions you may have about Rhodes. Learning about the culture of a place makes your visit much deeper. Seeing the local way of life is one of the most enriching parts of travelling and a Experienced Licensed Tour Guide can help you understand what's going on around you.

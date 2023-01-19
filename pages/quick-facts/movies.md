@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Movies filmed in Rhodes Island, Greece
 permalink: movies_filmed_rhodes_greece.htm
+layout: photo-tour
 has_gallery: false
 id: info_movies_filmed_rhodes
 ref: info_movies_filmed_rhodes
@@ -16,7 +17,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Rhodes private tours and shore excursions
   author: Nick
-title: Movies filmed in Rhodes Island, Greece
 summary: |-
   The natural beauty of Rhodes alongside its magnificent Old Town and other historical monuments have always appealed to film makers. It is no surprise, therefore, that many Greek and foreign film productions, including some of Hollywood's finest were shot in Rhodes.
 
@@ -199,5 +199,5 @@ end_page:
     and dates."
   short_text: Experts in Private Tours of Rhodes
 no_related_tours_text: ''
-
 ---
+

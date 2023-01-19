@@ -1,8 +1,9 @@
 ---
+title: '"Rhodes Scenic Tour" GT9'
+permalink: scenic_tour.htm
 layout: tour
 type: guided_tours_page
 id: guided_scenic
-permalink: scenic_tour.htm
 has_form: true
 has_gallery: true
 is_of: guided_tours
@@ -14,7 +15,6 @@ meta:
   abstract: Rhodes Scenic Tour
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"Rhodes Scenic Tour" GT9'
 tour:
   title: '"Rhodes Scenic Tour" GT9'
   summary: West Coast / The Valley of the Butterflies / Mount Filerimos / Ancient
@@ -167,8 +167,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Scenic Tours
-
 ---
+
 **THE VALLEY OF THE BUTTERFLIES**
 
 To start off, you will be driven from your chosen drop off point to the Valley of the Butterflies. The walk down from the valley will allow you to witness the beautiful butterflies in the final stages of their life cycle. Hundreds of butterflies will camouflage themselves against the trees as you walk through the bridges and natural pathways that make up a natural navigation system through the valley. This life cycle occurs from mid-June to mid-September. <u>Guided Walking Tour</u> (Stop Visit Photos)

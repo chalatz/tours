@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Historia de Rodas, Grecia
 permalink: historia_de_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: false
 id: info_history_rhodes
 ref: info_history_rhodes
@@ -16,7 +17,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Historia de Rodas Grecia
   author: Nick
-title: Historia de Rodas, Grecia
 summary: La presencia humana en Rodas se remonta con certeza a la Edad de Piedra.
 subtitle: ''
 sections: []
@@ -25,8 +25,8 @@ no_related_tours_text: ''
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+
 {:.centered .mb-minus-1-rem}
 ## La época helenística
 

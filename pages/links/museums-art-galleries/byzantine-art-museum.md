@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: The Byzantine Art Museum of Rhodes Greece
 permalink: byzantine_art_museums_greece.htm
+layout: photo-tour
 has_gallery: true
 id: site_byzantine_art_museum
 ref: site_byzantine_art_museum
@@ -16,7 +17,6 @@ meta:
   author: 'Nick '
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Byzantine Art Museum of Rhodes Greece, Byzantine Museums, Rhodes Art Tours
-title: The Byzantine Art Museum of Rhodes Greece
 subtitle: Our Lady of the Castle (Panagia tou Kastrou) (Virgin of the Fort)
 summary: As conquerors occupied the island of Rhodes, they imposed their architectural
   and religious preferences on the buildings. Originally constructed in the late 11th
@@ -106,8 +106,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Museum Tours '
-
 ---
+
 Today, the decoration of the interior is no longer preserved, except for some fragments of the wall-paintings, representing the Holy Mother of God and four other saints. The best preserved among them is the figure of St. Lucia dating to the 14th century. Frescoes combine both Byzantine and Western European elements.
 
 Since 1988 the church of Panagia has housed an exhibition of Byzantine and post-Byzantine painting, including portable icons of the 17th and 18th centuries. Also exhibited are wall-paintings taken from the church of St. Zacharias on the island of Chalki (14th century) and from the monastery of the Archangel Michael at Tharri of Rhodes (17th century). The collection includes various architectural pieces and some Early Christian mosaics.

@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Ottoman Sites in Rhodes
 permalink: ottoman_sites_monuments.htm
+layout: photo-tour
 has_gallery: true
 id: site_ottoman
 ref: site_ottoman
@@ -16,7 +17,6 @@ meta:
   abstract: Ottoman Sites in Rhodes, Ottoman Monuments in Rhodes Greece
   http_desc: Ottoman Monuments in Rhodes, Ottoman Sites in Rhodes Greece, Rhodes private
     tours
-title: Ottoman Sites in Rhodes
 summary: In 1522 the Ottoman Turks conquered the city after a second long siege. The
   Knights were allowed to sail off to Sicily and ultimately to Malta and Gozo. Thus,
   the Ottomans secured control of the Eastern Mediterranean. Their influence was expressed
@@ -88,5 +88,5 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Monuments Tours '
 no_related_tours_text: ''
-
 ---
+

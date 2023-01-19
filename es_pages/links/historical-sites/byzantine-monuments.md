@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Monumentos Bizantinos en Rodas. 330 d.C – 1309 d.C
 permalink: monumentos_bizantinos_historicos.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_byzantine
 ref: site_byzantine
@@ -17,7 +18,6 @@ meta:
     de la tierra, Imperio Bizantino Isla de Rodas Grecia
   http_desc: " Monumentos Bizantinos en Isla de Rodas, Los lugares históricos más
     valiosos de la tierra, Imperio Bizantino Isla de Rodas Grecia"
-title: Monumentos Bizantinos en Rodas. 330 d.C – 1309 d.C
 summary: "Durante el período paleocristiano Rodas pertenecía al Imperio bizantino.
   Rodas era un puerto comercial importante del Bizancio y un punto de cruce para las
   embarcaciones que navegaban entre Constantinopla y Alejandría. Era también una importante
@@ -75,6 +75,6 @@ sections:
       caption: Iglesia Bizantina de San Nicolás Fundukli, del siglo XV al pie de la
         montaña del Profeta Elías (Profitis Ilias).
 subtitle: ''
-
 ---
+
 Se tiene poca información sobre el período bizantino. El trabajo de restauración que realizaron los italianos descuidó las edificaciones sobrevivientes a favor del período de los Caballeros.

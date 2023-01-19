@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: El Coloso de Rodas
 permalink: coloso_de_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_colossus
 ref: site_colossus
@@ -12,7 +13,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Coloso de Rodas Grecia, El Coloso de Rodas Isla
   http_desc: COLOSO DE RODAS, El Coloso de Rodas Isla
-title: El Coloso de Rodas
 sections:
 - desc: |-
     Relacionado con el fracasado asedio de Demetrio el Sitiador en el 305 . Orgullosos de su gran victoria y con los fondos recaudados tras la venta del equipo de guerra abandonados después del intento de toma, los rodianos decidieron erigir una estatua triunfante de su dios Helios. La obra fue asignada a Jaris de Lindos quien trabajo en ella por doce años (304-292).
@@ -51,8 +51,8 @@ sections:
     El hecho de que la publicación francesa "Liberation" apoya la propuesta de reconstruir el Coloso demuestra que la totalidad de la opinión pública de la Comunidad europea puede dar inicio a los esfuerzos dirigidos hacia la misma meta.
 
     Hace algunos meses durante el "1er Foro Internacional de Turismo en Rodas", el Coloso fue uno de los temas principales discutidos. Se llegó finalmente a la conclusión de que este proyecto conocido como una de las siete maravillas destruidas, elevará el legado europeo a la civilización.
-
 ---
+
 <div class="centered">
   <iframe width="672" height="378" src="https://www.youtube.com/embed/vM6_FoDrNeA?modestbranding=1&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

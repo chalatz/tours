@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: La Ciudad Medieval de Rodas en Fotos
 permalink: ciudad_medieval_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_old_town
 ref: site_old_town
@@ -18,7 +19,6 @@ meta:
   http_desc: Ciudad Medieval de Rodas Grecia, Ciudad Vieja de Rodas Grecia Ciudad
     Antigua de Rodas Grecia
 keyphrase: RHODES ISLAND PRIVATE TOURS GREECE
-title: La Ciudad Medieval de Rodas en Fotos
 summary: La ciudad vieja es cercada por las murallas medievales. Un ejemplo típico
   de las técnicas del fortalecimiento del 14 – 15 siglo. Las murallas de Rodas son
   únicas en Europa en su estado de la preservación y su forma.
@@ -181,6 +181,6 @@ sections:
       alt: Rhodes Greece, Island Tours
       caption: Una calle en el Burgo.
 subtitle: ''
-
 ---
+
 **La ciudad medieval de Rodas, está inscrito en la Lista de Patrimonio de la Humanidad, de la Convención para la Protección del Patrimonio Mundial de la UNESCO. La inclusión en esta lista, reconoce el valor excepcional de un sitio cultural, de modo que puede ser protegido en beneficio de toda la Humanidad.**

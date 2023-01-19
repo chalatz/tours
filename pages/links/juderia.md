@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: '"La Juderia" - The Jewish Quarter'
 permalink: la_juderia_customized_exclusive.htm
+layout: photo-tour
 has_gallery: true
 id: site_la_juderia_home
 ref: site_la_juderia_home
@@ -17,7 +18,6 @@ meta:
     Cemetery
   http_desc: Rhodes Synagogue, Jewish Quarter in Rhodes, Jewish Museum, Rhodes Jewish
     Cemetery, Rhodes Exclusive Tours Greece, Square of the Martyred Jews Rhodes Greece
-title: '"La Juderia" - The Jewish Quarter'
 main_id: the_jewish_quarter
 summary: The Jewish Community of the Island of Rhodes has a rich history that dates
   back to the second century BC, with the earliest reference to it appearing in the
@@ -326,8 +326,8 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Jewish Tours '
 no_related_tours_text: ''
-
 ---
+
 {: .centered .mt-3 }
 ### Related Links "Rhodesli's" History and Traditions
 

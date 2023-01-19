@@ -1,8 +1,9 @@
 ---
+title: Visit Lindos on Your Own Pace" DT11
+permalink: lindos-on-your-own.htm
 layout: tour
 type: driving_tours_page
 id: lindos_on_your_own
-permalink: lindos-on-your-own.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: Visit Lindos on Your Own Pace, Lindos tours from Rhodes, Tour Lindos
     on Your Own Pace, Rhodes Private Tours Greece
-title: Visit Lindos on Your Own Pace" DT11
 summary:
   paragraphs:
   - If you are planning to visit Lindos on your own pace this tour is perfect. This
@@ -193,8 +193,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Tours   '
-
 ---
+
 **THE JOURNEY TO LINDOS**
 
 From your selected point, you'll be driven to the East Coast of the island and your journey to Lindos will take you along a scenic 50 km / 32 miles drive past picturesque little villages, with many glimpses of the sea and a splendid landscape of orange and gnarled olive trees.

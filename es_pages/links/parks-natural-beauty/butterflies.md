@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: El Valle de las Mariposas - Uno de los más inusuales biotopos en Europa
 permalink: valle_mariposas_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_butterflies
 ref: site_butterflies
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Valle de las Mariposas Rodas Grecia, Valle de las Mariposas en la Isla
     de Rodas Grecia
-title: El Valle de las Mariposas - Uno de los más inusuales biotopos en Europa
 summary: |-
   Una quebrada exuberante con abundante agua corriente que atrae a miles de turistas cada año.
 
@@ -67,5 +67,5 @@ sections:
       href: img/butterflies_valley/valley_of_the_butterflies_8.jpg
       alt: El Valle de las Mariposas Rodas Grecia
       caption: El Valle de las Mariposas
-
 ---
+

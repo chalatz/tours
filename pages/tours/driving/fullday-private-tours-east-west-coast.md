@@ -1,9 +1,10 @@
 ---
+title: Rhodes Full Day DT2
+permalink: fullday_private_tours_east_west_coast.htm
 layout: tour
 type: driving_tours_page
 id: fullday
 ref: fullday
-permalink: fullday_private_tours_east_west_coast.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -20,7 +21,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   http_desc: Rhodes Town, East Coast of the Island and Lindos, Lunch Break Right on
     the Water’s Edge, West Coast of the Island, Full day tour.
-title: Rhodes Full Day DT2
 summary:
   paragraphs:
   - If you have the time, you can't do better than this comprehensive tour which will
@@ -199,8 +199,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Full Day Tours   '
-
 ---
+
 **BREAK FOR LUNCH**
 
 This is a longer program includes the **"Best of Rhodes"** half day tour, and more time on the East Coast for break for delicious lunch experiences at a seaside village at the Mediterranean Sea right on the water’s edge (scenic) with fresh seafood, Rhodian cuisine and excellent local wines. (Stop Visit Taste Photos)

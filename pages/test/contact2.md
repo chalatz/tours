@@ -1,9 +1,10 @@
 ---
+title: Contact Us
+permalink: contact_us_2.htm
 layout: pages/contact2
 type: contact_page
 id: contact_page_2
 ref: contact_page_2
-permalink: contact_us_2.htm
 has_form: true
 has_gallery: true
 recaptcha: true
@@ -16,7 +17,6 @@ meta:
   abstract: 'Rhodes Private Tours, Rhodes Shore Excursions, Rhodes Taxi Tours '
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-title: Contact Us
 subtitle: Thank you for the interest that you've shown in our services
 desc: Submit an online request for additional information / prices / cost / reservations,
   or book now and your PRIVATE TOUR will be confirmed within 24 hours.
@@ -38,5 +38,5 @@ info:
     From Australia: <a class="mobile-only mobile-only--inline" href="tel:001130-6934596990">001130 - 6934596990</a><span class="desktop-only desktop-only--inline">001130 - 6934596990</span><br>
     From EU: <a class="mobile-only mobile-only--inline" href="tel:0030-6934596990">0030 - 6934596990</a><span class="desktop-only desktop-only--inline">0030 - 6934596990</span><br>
     Within Greece: <a class="mobile-only mobile-only--inline" href="tel:6934596990">6934596990</a><span class="desktop-only desktop-only--inline">6934596990</span>
-
 ---
+

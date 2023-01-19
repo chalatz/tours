@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: 'Rhodes City Tour - Rhodes Private City Tour '
 permalink: city.htm
+layout: photo-tour
 has_gallery: true
 id: site_st_catherine_hospice
 ref: site_st_catherine_hospice
@@ -15,7 +16,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: 'Rhodes City Tour, Rhodes Private City Tour, City Tour in Rhodes '
-title: 'Rhodes City Tour - Rhodes Private City Tour '
 summary: The Hospice of St. Catherine was built in 1391-92 by the Order of the Knights
   of St. John (Knights Hospitallers) to house and entertain esteemed guests. The Hospice
   built under Grand Master Heredia, by the Italian Domenico d'Allemagna, admiral of
@@ -77,5 +77,5 @@ end_page:
     and dates."
   short_text: Experts in Rhodes City Tours
 no_related_tours_text: WE CAN ADD THIS ATTRACTION TO YOUR TOUR UPON REQUEST
-
 ---
+

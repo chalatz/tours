@@ -1,8 +1,9 @@
 ---
+title: '"Rhodes by Night Tour" WT3'
+permalink: rhodesnightlife_rhodesbynight.htm
 layout: tour
 type: walking_tours_page
 id: walking_rhodesnightlife_rhodesbynight
-permalink: rhodesnightlife_rhodesbynight.htm
 has_form: true
 has_gallery: true
 is_of: walking_tours
@@ -19,7 +20,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: "\"Rhodes by Night Tour, Rhodes Town Tour by Night, Rhodes Night Tours,
     Nightlife in Rhodes old town"
-title: '"Rhodes by Night Tour" WT3'
 tour:
   title: '"Rhodes by Night Tour" WT3'
   summary: Old Town Evening Walking Tour / Free Time for Shopping / Dinner at a Local
@@ -167,8 +167,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Night Tours
-
 ---
+
 You will be driven **from your hotel** to the Medieval City, where you will pass through the **St. John's Gate, also known as Red Gate**
 
 Our knowledgeable passionate tour guides will give you lots of tidbits and information related to the **atmospheric alleys**, describing in detail the role played by the **Knights of Rhodes** in shaping the city's history and landmarks. (Stop Photos)

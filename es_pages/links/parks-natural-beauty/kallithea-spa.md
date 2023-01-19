@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Spa de Kalithea (Termal) Rodas, Grecia
 permalink: kalithea_termas_spa_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_kalithea_spa
 ref: site_kalithea_spa
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Kallithea Termas Spa, Rodas Kallithea Baños Termales, Rodas Kallithea
     Termal Spa
-title: Spa de Kalithea (Termal) Rodas, Grecia
 summary: Kalithea está situada a aproximadamente 8 kilómetros (4,970 millas) de la
   ciudad de Rodas sobre la costa este de la isla. La Bahía de Kalithea ha sido famosa
   por mucho tiempo por sus aguas medicinales que brotan de las rocas vecinas.
@@ -88,5 +88,5 @@ sections:
       alt: Fuentes de Kallithea
       caption: Algunas escenas de la película “Los Cañones de Navarone” también fueron
         filmadas ahí.
-
 ---
+

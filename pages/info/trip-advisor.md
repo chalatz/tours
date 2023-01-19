@@ -1,38 +1,40 @@
 ---
+title: Rhodes Private Tours on TripAdvisor
+permalink: TripAdvisor.htm
 layout: pages/tripadvisor
 type: plain_page
 id: tripadvisor_page
-permalink: TripAdvisor.htm
 has_form: false
 has_gallery: false
 no_ta_links: true
 meta:
   title: Rhodes Private Tours and Shore Excursions, Private day tours, Taxi tours
-  http_desc: Rhodes Private Tours and Shore Excursions, Private day tours and taxi tours, Minivan Minibus Group Tours, and semi-private tours with licensed tour guides.  VIP Tours Services and city sightseeing tours, daily tours of Rhodes Island Greece
+  http_desc: Rhodes Private Tours and Shore Excursions, Private day tours and taxi
+    tours, Minivan Minibus Group Tours, and semi-private tours with licensed tour
+    guides.  VIP Tours Services and city sightseeing tours, daily tours of Rhodes
+    Island Greece
   description: Rhodes Private Tours, Shore Excursions, Private day tours, Taxi tours
-  keywords: Rhodes, Private, Tours, Greece, shore, excursions, taxi tours, day tours, city, sightseeing, guided, exclusive, daily tours, luxury, limousine, independent, customized, specialized, tailored, escorted, executive, disabled, accessible, photo, Mercedes, vip services
+  keywords: Rhodes, Private, Tours, Greece, shore, excursions, taxi tours, day tours,
+    city, sightseeing, guided, exclusive, daily tours, luxury, limousine, independent,
+    customized, specialized, tailored, escorted, executive, disabled, accessible,
+    photo, Mercedes, vip services
   abstract: Rhodes private tours, Shore Excursions, Taxi Tours
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-
-title: Rhodes Private Tours on TripAdvisor
-
 subtitle:
-  - heading: 'The travelers of TripAdvisor have voted us:'
-    text: |-
-      Number 1 for private tours (Land Tours and Shore Excursions) out of 161 Tours on Rhodes Island
+- heading: 'The travelers of TripAdvisor have voted us:'
+  text: |-
+    Number 1 for private tours (Land Tours and Shore Excursions) out of 161 Tours on Rhodes Island
 
-      Number 1 for private tours (Land Tours and Shore Excursions) out of 82 Tours in Rhodes Town
-
+    Number 1 for private tours (Land Tours and Shore Excursions) out of 82 Tours in Rhodes Town
 banners:
-  - path: './img/trip-advisor/hall_of_fame_2019.png'
-    caption: HALL OF FAME 2019
-    alt_text: Rhodes, Private Tours, Greece
-  - path: './img/trip-advisor/hall_of_fame.png'
-    caption: HALL OF FAME 2018
-    alt_text: Rhodes, Private Tours, Greece
-    width: 152px
-
+- path: "./img/trip-advisor/hall_of_fame_2019.png"
+  caption: HALL OF FAME 2019
+  alt_text: Rhodes, Private Tours, Greece
+- path: "./img/trip-advisor/hall_of_fame.png"
+  caption: HALL OF FAME 2018
+  alt_text: Rhodes, Private Tours, Greece
+  width: 152px
 gallery:
   items_per_row: 7
   is_gallery: false
@@ -40,47 +42,53 @@ gallery:
   items:
   - image:
       thumb: "./img/trip_advisor/trip-advisor-2020-medium.png"
-      alt: 'Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor Greece'
+      alt: Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor
+        Greece
       is_link: true
     url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
     new_window: true
   - image:
       thumb: "./img/trip-advisor/certificate_of_excellence_2019.jpg"
-      alt: 'Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor Greece'
+      alt: Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor
+        Greece
       is_link: true
     url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
     new_window: true
   - image:
       thumb: "./img/trip-advisor/certificate_of_excellence_2018.JPG"
-      alt: 'Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor Greece'
+      alt: Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor
+        Greece
       is_link: true
     url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
     new_window: true
   - image:
       thumb: "./img/trip-advisor/certificate_of_excellence_2017.JPG"
-      alt: 'Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor Greece'
+      alt: Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor
+        Greece
       is_link: true
     url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
     new_window: true
   - image:
       thumb: "./img/trip-advisor/certificate_of_excellence_2016.JPG"
-      alt: 'Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor Greece'
+      alt: Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor
+        Greece
       is_link: true
     url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
     new_window: true
   - image:
       thumb: "./img/trip-advisor/certificate_of_excellence_2015.JPG"
-      alt: 'Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor Greece'
+      alt: Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor
+        Greece
       is_link: true
     url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
     new_window: true
   - image:
       thumb: "./img/trip-advisor/certificate_of_excellence_2014.JPG"
-      alt: 'Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor Greece'
+      alt: Rhodes Tours Greece on TripAdvisor, Rhodes Private Tours on TripAdvisor
+        Greece
       is_link: true
     url: https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html
     new_window: true
-
 extra_text: |-
   Recently, our customers have been writing to us this question: **Why no more awards from TripAdvisor?** We are obliged to answer our customer's questions.
 
@@ -90,6 +98,7 @@ extra_text: |-
 
   And of course, we pride ourselves for our three greatest strengths: **Quality**, **Personal Touch**, and **Direct Local Price**. By booking directly with us, you'll always get a better price.
 ---
+
 {:.centered}
 **TRIPADVISOR RECOGNISING 6 YEARS OF CONSISTENTLY HIGH RATINGS FROM TRAVELLERS**
 

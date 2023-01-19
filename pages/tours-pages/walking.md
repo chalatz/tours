@@ -1,8 +1,9 @@
 ---
+title: RHODES WALKING TOURS
+permalink: walking_tours.htm
 layout: tours_page
 type: walking_tours_page
 id: walking_tours
-permalink: walking_tours.htm
 has_form: false
 has_gallery: false
 meta:
@@ -13,7 +14,6 @@ meta:
   abstract: Rhodes Walking Tours
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-title: RHODES WALKING TOURS
 subtitle: PRIVATE WALKING TOURS BY LICENSED TOUR GUIDES
 head_photo:
   src: "./img/tours-pages/head-photos/head-photo-walking-tours.jpg"
@@ -24,8 +24,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Walking Tours   '
-
 ---
+
 Explore the beauty of Rhodes Medieval City and observe some of the most interesting and unique sites. Delve into the city’s long history and learn how it evolved by taking our Rhodes Walking Tours. Traverse the backstreets with an expert tour guide who knows the ins and outs of the hidden courtyards, exciting alleyways that are out of sight and tourist landmarks.
 
 There is much to explore by visiting Rhodes Medieval City, which in recent years has become a well-trodden tourist haunt.

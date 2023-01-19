@@ -1,23 +1,27 @@
 ---
+title: TOP TEN REASONS TO BOOK WITH US - <span class="color-driving">PRIVATE CHAUFFEURED
+  TOURS</span>
+permalink: top_10_reasons_to_book_with_us.htm
 layout: pages/ten-reasons
 type: plain_page
 id: top_ten_reasons_page
 ref: top_ten_reasons_page
-permalink: top_10_reasons_to_book_with_us.htm
 has_form: false
 has_gallery: false
 meta:
   title: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
-  http_desc: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
-  description: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
-  keywords: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
-  abstract: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with Us
+  http_desc: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with
+    Us
+  description: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with
+    Us
+  keywords: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with
+    Us
+  abstract: Rhodes Private Tours and Shore Excursions, Top 10 Reasons to Book with
+    Us
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-
-title: TOP TEN REASONS TO BOOK WITH US - <span class="color-driving">PRIVATE CHAUFFEURED TOURS</span>
-
 ---
+
 ### Direct Local Price
 
 We create and operate our own tours then offer them directly to you. Discover Rhodes Island with help from true insiders...

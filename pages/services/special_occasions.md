@@ -1,8 +1,9 @@
 ---
+title: SPECIAL OCCASIONS TOURS
+permalink: weddings_special_occasions.htm
 layout: page
 type: services_page
 id: special_occasions_services_page
-permalink: weddings_special_occasions.htm
 banners_below: true
 has_form: false
 has_gallery: false
@@ -23,7 +24,6 @@ meta:
 head_photo:
   src: "./img/pages/services/special-occasions-head-photo.jpg"
   alt: Rhodes Island Tours Services
-title: SPECIAL OCCASIONS TOURS
 subtitle: MAKE IT THE TOUR OF A LIFETIME
 sections:
 - title: Wedding Anniversary Tours
@@ -50,8 +50,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates.'
   short_text: Experts in Special Occasions Tours
-
 ---
+
 Have you ever truly thought of how you celebrate special moments in your life? For the special occasions in your life, do you take the time to make them memorable, or do you just hope that everything turns out for the best?
 
 At "Rhodes Private Tours" we specialize in chauffeur driven services. These include personal care and attention for you to make sure everything goes as planned.  You can plan for a wedding, a birthday, an anniversary, or a surprise party for any other occasion; when you're visiting Rhodes Island be it for a day or more, we will tend to all your needs and comforts.

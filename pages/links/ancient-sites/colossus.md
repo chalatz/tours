@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: The Colossus of Rhodes
 permalink: colossus_of_rhodes_sightseeing.htm
+layout: photo-tour
 has_gallery: true
 id: site_colossus
 ref: site_colossus
@@ -13,7 +14,6 @@ meta:
   abstract: Colossus of Rhodes Sightseeing Tours
   http_desc: Colossus of Rhodes Sightseeing Tours,  Colossus of Rhodes Private Sightseeing
     Tours
-title: The Colossus of Rhodes
 sections:
 - desc: "In 305 BC, Demetrius I of Macedon laid siege to the town of Rhodes for a
     whole year. In spite of his title as “Besieger of Cities” he didn't conquer the
@@ -105,8 +105,8 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Sightseeing Tours '
 no_related_tours_text: ''
-
 ---
+
 <div class="centered">
   <iframe width="672" height="378" src="https://www.youtube.com/embed/vM6_FoDrNeA?modestbranding=1&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

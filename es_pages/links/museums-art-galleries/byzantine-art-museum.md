@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Museo de Arte Bizantino de Rodas, Grecia
 permalink: museo_de_arte_bizantino.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_byzantine_art_museum
 ref: site_byzantine_art_museum
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Museo de Arte Bizantino Rodas Grecia, Sitios Bizantinos y Museos de Rodas,
     Grecia, Museo de Arte Bizantino en Rodas Isla
-title: Museo de Arte Bizantino de Rodas, Grecia
 summary: Al lado opuesto de la calle de los Caballeros está localizada la Iglesia
   Bizantina de Santa María (Panayía tou Kástrou o Vírgen del Fuerte), del siglo XIII,
   que se convirtió en la primera catedral de los Caballeros.
@@ -81,8 +81,8 @@ sections:
       href: img/byzantine_art_museum/byzantine_church_of_st_mary_15_mod.jpg
       alt: 'Museo de Arte Bizantino de Rodas, Grecia '
       caption: ''
-
 ---
+
 Estas adiciones turcas fueron retiradas durante la ocupación italiana (1912-1945) y el edificio fue posteriormente conservado por el Servicio Arqueológico Griego.
 
 Desde 1988 la iglesia de la “Panayía tou Kastrou” ha albergado una exhibición de pintura pre-bizantina y bizantina, la cual incluye íconos de la colección del 4° Eforato de Antigüedades Bizantinas y pinturas de pared removidas de las iglesias del Arcangel Miguel en Tharri y “Ayios” (Santo) Zacarías en Jalki.

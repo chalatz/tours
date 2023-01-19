@@ -1,8 +1,9 @@
 ---
+title: '"Best Attractions in Rhodes" GT1'
+permalink: best_attractions_in_rhodes.htm
 layout: tour
 type: guided_tours_page
 id: guided_best_attractions
-permalink: best_attractions_in_rhodes.htm
 has_form: true
 has_gallery: true
 is_of: guided_tours
@@ -18,7 +19,6 @@ meta:
     Tours
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"Best Attractions in Rhodes" GT1'
 tour:
   title: '"Best Attractions in Rhodes" GT1'
   summary: Rhodes Medieval City / Rhodes New Town / Acropolis of Rhodes / East Coast
@@ -147,8 +147,11 @@ faq:
   - q: We are two persons but would love to have a driver and a licensed tour guide.  Is
       it compulsory a minimum number of passengers?
     a: 'No. The tour is private and sufficient even with one person. '
-  - q: "I'd like to know how much this tour it cost per person"
-    a: All the tours are 100% private, not semi-private share-tours, or bus-tours, no strangers in the vehicle. The tour will be conducted <u>only for you</u>, obviously the price cannot be per person, but per group-service (even if you are one person).
+  - q: I'd like to know how much this tour it cost per person
+    a: All the tours are 100% private, not semi-private share-tours, or bus-tours,
+      no strangers in the vehicle. The tour will be conducted <u>only for you</u>,
+      obviously the price cannot be per person, but per group-service (even if you
+      are one person).
   - q: There are four more people would like to join the tour with us, can we add
       them to our group?
     a: Any last-minute additions to the number of passengers must be submitted at
@@ -219,8 +222,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Top Attractions
-
 ---
+
 **THE MEDIEVAL CITY**
 
 Your tour will begin from Old Town, Medieval City, which is a world heritage site where you will pass through the **D'Amboise Gate**. This begins your Guided Walking Tour with your tour guide. Here you can take pictures from outside of the most important monuments of the old town including: **The Grand Masters Palace**, **the Street of the Knights**, **the Ruins of Sent John Cathedral**, **the Archeological Museum**, **the Byzantine Museum.** This marks the end of your walking trip. (Stop Photos)  You will find your driver/vehicle waiting for you at the Gate to start the next phase of your trip.

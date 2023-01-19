@@ -1,9 +1,10 @@
 ---
+title: RHODES PRIVATE TOURS
+permalink: rhodes_private_day_tours.htm
 layout: pages/about
 type: about_page
 id: about_page
 ref: about_page
-permalink: rhodes_private_day_tours.htm
 has_form: false
 has_gallery: true
 meta:
@@ -17,7 +18,6 @@ meta:
   abstract: Rhodes Private Day Tours
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: RHODES PRIVATE TOURS
 subtitle: Private Day Tours and Shore Excursions
 desc: The Official Website of "Rhodes Private Tours" (RhodesPrivateTours.Com) by Nicholas
   A. Rhodes
@@ -92,8 +92,8 @@ gallery:
       is_link: false
     caption: Nicholas with India Pearson, the Production Manager of "Holiday Extras
       Travel Guides", while filming in Rhodes
-
 ---
+
 We started offering high-quality private tours of Rhodes in 1984 and have been online since 1998. We are pioneers in the field, being the first to offer such services on the island. Every year, we refine and expand our services. Our associate professional tour/drivers and licensed tour guides are natives of Rhodes and they always try to find new ways to share their love of this island with you.
 
 We have set up this website to share our love of this truly impressive island and its overwhelming beauty with all travelers visiting Rhodes. We wish to extend a warm welcome to all visitors and hope that you enjoy a delightful and pleasant stay on the island. Without a doubt, the splendid destination of Rhodes makes a lasting impression on all who visit here.

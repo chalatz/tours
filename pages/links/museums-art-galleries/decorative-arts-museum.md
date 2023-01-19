@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Museum of Decorative Arts - Folklore Museum Rhodes Greece
 permalink: guided.htm
+layout: photo-tour
 has_gallery: true
 id: site_decorative_arts_museum
 es: site_decorative_arts_museum
@@ -15,7 +16,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   abstract: Guided Tours in Rhodes Greece
-title: Museum of Decorative Arts - Folklore Museum Rhodes Greece
 summary: The Folklore Museum, which is administered by the Museum of Modern Greek
   Art, offers a glimpse into the extensive history of the island of Rhodes. The building,
   that once served as the arsenal of the Knights Hospitaller, houses collections of
@@ -80,5 +80,5 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Guided Tours
 no_related_tours_text: We can add this attraction to your tour upon request
-
 ---
+

@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: 'Kallithea Springs Rhodes Greece (Thermal) '
 permalink: kalithea_spa_thermal.htm
+layout: photo-tour
 has_gallery: true
 id: site_kalithea_spa
 ref: site_kalithea_spa
@@ -14,7 +15,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Kallithea Springs Rhodes Greece, Kallithea Thermal Rhodes Greece
-title: 'Kallithea Springs Rhodes Greece (Thermal) '
 summary: Kalithea is located about 8Km (4,970mi) from Rhodes Town on the east coast
   of the island. The Bay of Kalithea has long been famous for its healing waters that
   sprang from the surrounding rocks. This miraculous spring has been known since the
@@ -107,5 +107,5 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Tailored Tours
 no_related_tours_text: ''
-
 ---
+

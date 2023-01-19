@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Greek Cuisine. Greek food in Rhodes Island
 permalink: food_greece_menus_meals_cuisine.htm
+layout: photo-tour
 has_gallery: true
 id: info_food_greece_menus_meals
 ref: info_food_greece_menus_meals
@@ -20,7 +21,6 @@ meta:
   author: 'Nick '
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Food in Rhodes Greece, Traditional Greek Food
-title: Greek Cuisine. Greek food in Rhodes Island
 summary: The island of **Rhodes can satisfy every gourmet** because it produces various
   products of excellent qualities and the local cuisine is a real delight for the
   senses.  The dishes of the Rhodian gastronomy have got definite and savory tastes.
@@ -290,5 +290,5 @@ end_page:
     tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Food Tours
-
 ---
+

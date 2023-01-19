@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: The Seven Springs Rhodes, Epta Piges
 permalink: seven_springs_rhodes_greece.htm
+layout: photo-tour
 has_gallery: true
 id: site_seven_springs
 ref: site_seven_springs
@@ -12,7 +13,6 @@ meta:
   author: 'Nick '
   copyright: NK for Rhodes Private Tours, 2018
   abstract: The Seven Springs Rhodes, Epta Piges
-title: The Seven Springs Rhodes, Epta Piges
 summary: One of the most charming destinations on Rhodes , Seven Springs offers a
   cool, magical landscape, a real oasis, especially in the heat of high summer, swamped
   in greenery. The Seven Springs is a valley flowing with clear springs and covered
@@ -78,6 +78,6 @@ end_page:
     and dates."
   short_text: Experts in Private Tours of Rhodes
 no_related_tours_text: ''
-
 ---
+
 To get to the lake you have to walk through a very narrow dark tunnel 186 m (610 feet) long. It is nearly a five minutes' walk and it has some curves as you don't see anything at first. It takes some steps, but then you see some light again. The tunnel, constructed back in 1931 by the Italians, leads the water of the seven springs to the lake, is small, just enough for one person, therefore it's one-way only. Almost at the middle its length, there is a well used as an air-shaft and also as an "emergency exit", you will see a ladder that leads from the tunnel up to the street. There is a walking track above the tunnel which is used by some people when going to the lake.

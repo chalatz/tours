@@ -1,6 +1,7 @@
 ---
-layout: es/beach
+title: La Bahía de Anthony Quinn Rodas Grecia
 permalink: bahia_de_anthony_quinn_rodas_grecia.htm
+layout: es/beach
 has_gallery: true
 id: beach_site_anthony_quinn
 ref: beach_site_anthony_quinn
@@ -16,7 +17,6 @@ meta:
   abstract: La Bahía de Anthony Quinn Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: La Bahía de Anthony Quinn Rodas Grecia
 info:
 - label: Localización
   text: a 15 Kms. (9,32 millas) de la ciudad de Rodas en la Costa Este
@@ -42,6 +42,6 @@ gallery_rows:
   - thumb: img/rhodes_beaches/anthony_quinn_beach/anthony_quinn_4-thumb.jpg
     href: img/rhodes_beaches/anthony_quinn_beach/anthony_quinn_4.jpg
     alt: 'Rodas Grecia, La Bahía de Anthony Quinn '
-
 ---
+
 Toma su nombre del famoso actor de Hollywood, que posee una gran propiedad en esta área. (Desde la filmación de la película “Cañones de Navarone” aquí). Hay un costo por tumbonas y sombrillas. Los italianos frecuentan la pequeña bahía. Ideal para el buceo. La playa tiende a ser muy concurrida en temporada alta.

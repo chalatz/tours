@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: La Costa Oeste de Rodas en Fotos
 permalink: lugares_para_visitar_en_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_west_coast
 ref: site_west_coast
@@ -18,7 +19,6 @@ meta:
   http_desc: Lugares para visitar en Rodas Grecia, La Costa Oeste de Rodas Grecia,
     Lugares para visitar en Grecia, Rodas
 keyphrase: Shore Trips of Rhodes
-title: La Costa Oeste de Rodas en Fotos
 sections:
 - desc: |-
     Salimos de la ciudad de Rodas y seguimos el camino que lleva el sudoeste, paralelo a la costa occidental de la isla.
@@ -187,5 +187,5 @@ sections:
       alt: La vista del mar Egeo desde el castillo.
       caption: La vista del mar Egeo desde el castillo.
 subtitle: ''
-
 ---
+

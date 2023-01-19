@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Did you know?  that...
 permalink: rhodes_island_greece.htm
+layout: photo-tour
 has_gallery: false
 id: info_rhodes_island
 ref: info_rhodes_island
@@ -12,7 +13,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   abstract: Facts about Rhodes Island Greece, Rhodes private tours and shore excursions
   author: Nick
-title: Did you know?  that...
 subtitle: Fascinating facts about Rhodes Island and Greece, information that is worth
   knowing...
 summary: ''
@@ -24,8 +24,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Tours '
-
 ---
+
 - **Rhodes - Lindos:** The Lindians were the first to draw up a code of maritime law, later known as the Rhodian law. This later became the basis for Roman maritime law, and even today forms the backbone of the law of the sea!
 
 - **Acropolis of Lindos** is the second most visited Acropolis in Greece, after Athens Acropolis!

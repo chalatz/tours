@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: La Costa Este de Rodas en Fotos
 permalink: lugares_de_interes_en_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_east_coast
 ref: site_east_coast
@@ -17,7 +18,6 @@ meta:
   http_desc: Lugares de interés en Rodas Grecia, La Costa Este de Rodas Grecia, Lugares
     de interés en Grecia, Rodas
 keyphrase: Rhodes Taxi Tours
-title: La Costa Este de Rodas en Fotos
 sections:
 - desc: Salimos de la ciudad hacia el sureste a lo largo de la carretera que corre
     paralela a la costa oriental de la isla. Conduciremos a través de los asentamientos
@@ -157,5 +157,5 @@ sections:
       caption: Taxi de Lindos!
 subtitle: ''
 summary: ''
-
 ---
+

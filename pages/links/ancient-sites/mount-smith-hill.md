@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Monte Smith Rhodes - The Upper Acropolis of Ancient Rhodes
 permalink: mount_smith_hill_affordable.htm
+layout: photo-tour
 has_gallery: true
 id: site_mount_smith_hill
 ref: site_mount_smith_hill
@@ -16,7 +17,6 @@ meta:
   http_desc: Monte Smith Rhodes,  Monte Smith Hill Rhodes Greece, Rhodes Affordable
     Tours, Rhodes Private Tours
 keyphrase: Affordable Tours of Rhodes
-title: Monte Smith Rhodes - The Upper Acropolis of Ancient Rhodes
 summary: The hill took its name from the British admiral Sir William Sidney Smith
   who had his observation post here in 1802 to keep an eye on the movements of Napoleon's
   fleet during his war with the Turks. Only a mile and a half from the city of Rhodes,
@@ -95,5 +95,5 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Affordable Tours '
 no_related_tours_text: ''
-
 ---
+

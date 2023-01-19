@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: '"La Judería" - El barrio Judío'
 permalink: judios_de_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_la_juderia_home
 ref: site_la_juderia_home
@@ -20,7 +21,6 @@ meta:
   http_desc: Judíos de Rodas Grecia, El Barrio Judío de Rodas, La Judería, La Plaza
     de los Mártires Judíos, El Sinagoga, El Museo Judío de Rodas,  El Cementerio Judío,
     la Comunidad Judía de Rodas
-title: '"La Judería" - El barrio Judío'
 main_id: the_jewish_quarter
 summary: La comunidad judía de la isla de Rodas tiene una rica historia que data del
   siglo II y sobre la cual la más antigua referencia aparece en el libro de Macabeos.
@@ -310,8 +310,8 @@ no_related_tours_text: ''
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+
 {: .centered .mt-3 }
 ### Related Links "Rhodesli's" History and Traditions
 

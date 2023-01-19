@@ -1,9 +1,10 @@
 ---
+title: '"Rodas, Tour Judio"'
+permalink: tour-del-Barrio-Judio-de-rodas-grecia.htm
 layout: es/tour
 type: driving_tours_page
 id: jewish_sites
 ref: jewish_sites
-permalink: tour-del-Barrio-Judio-de-rodas-grecia.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -19,7 +20,6 @@ meta:
   abstract: Tour del Barrio Judío de Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2021 Private Tours Greece
-title: '"Rodas, Tour Judio"'
 summary:
   paragraphs:
   - Este recorrido es perfecto para aquellos que estén interesados en la comunidad
@@ -184,8 +184,8 @@ not_included:
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+
 Desde un punto elegido por usted, lo trasladarán a la entrada del **Antiguo Puerto** **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos)
 
 A continuación, podrá admirar el resto de los imponentes edificios donde los elementos venecianos, góticos y oriental se mezclan

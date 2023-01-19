@@ -1,9 +1,10 @@
 ---
+title: Preguntas más frecuentes
+permalink: quever_quehacer_enrodas_grecia.htm
 layout: es/pages/faq
 type: plain_page
 id: faq_page
 ref: faq_page
-permalink: quever_quehacer_enrodas_grecia.htm
 banners_below: true
 has_form: false
 has_gallery: false
@@ -20,7 +21,6 @@ meta:
   abstract: Que ver y que hacer en Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-title: Preguntas más frecuentes
 items:
 - q: "¿Son las excursiones PRIVADAS?"
   a: Sí. Todas las excursiones realizadas por nosotros son de carácter privado, y
@@ -111,5 +111,5 @@ items:
     con un cartel que muestra su nombre."
 - q: "¿Debo dar también una propina al conductor o al guía turístico?"
   a: Dar una propina o no a su conductor o guía turístico es totalmente opcional.
-
 ---
+

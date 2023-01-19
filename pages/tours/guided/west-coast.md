@@ -1,8 +1,9 @@
 ---
+title: '"West Coast of Rhodes" GT3'
+permalink: west_coast.htm
 layout: tour
 type: guided_tours_page
 id: guided_west_coast
-permalink: west_coast.htm
 has_form: true
 has_gallery: true
 is_of: guided_tours
@@ -14,7 +15,6 @@ meta:
   abstract: West Coast Tour of Rhodes, Rhodes Private Tours, Rhodes Shore Excursions
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"West Coast of Rhodes" GT3'
 tour:
   title: '"West Coast of Rhodes" GT3'
   summary: Rhodes Old City & New Town / Acropolis of Rhodes / West Coast of the Island
@@ -173,8 +173,8 @@ end_page:
     tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Private Tours
-
 ---
+
 **THE MEDIEVAL CITY**
 
 After reaching your designated meeting point, your tour of the Old Town, Medieval City -- a World Heritage Site -- will commence. You will make a stop through the **D'Amboise Gate** to take pictures of the site. This marks the beginning of your <u>Guided Walking Tour</u> with your tour guide. You will get picturesque views from the outside of important monuments including: **Grand Masters Palace, Street of the Knights, Ruins of Sent John Cathedral,** **Archeological Museum, Byzantine Museum** (Stop Photos)  Your walking tour ends upon reaching the Marine Gate.

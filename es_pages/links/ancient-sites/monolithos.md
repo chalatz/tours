@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Castillo de Monolitos
 permalink: castillo_de_Monolitos_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_monolithos_castle
 ref: site_monolithos_castle
@@ -12,7 +13,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   abstract: Castillo de Monolithos, La Aldea y Castillo de Monolithos, Rodas Grecia
-title: Castillo de Monolitos
 summary: |-
   La aldea de Monolithos está ubicada a 73 km / 45 millas al suroeste de la ciudad de Rodas. Le debe su nombre a la enorme roca monolítica sobre la cual yace un castillo desde los tiempos de los Caballeros Hospitalarios de San Juan.
 
@@ -115,5 +115,5 @@ sections:
       alt: El Castillo de Monolithos las Vistas
       caption: ''
 subtitle: La Aldea de Monolithos
-
 ---
+

@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Shore Trips - Rhodes West Coast in Pictures
 permalink: rhodes_west_coast_shore_trips.htm
+layout: photo-tour
 has_gallery: true
 id: site_west_coast
 ref: site_west_coast
@@ -16,7 +17,6 @@ meta:
   http_desc: Rhodes Shore Trips, Rhodes Private Shore Tours, Shore Trips of Rhodes
     West Coast
 keyphrase: Shore Trips of Rhodes
-title: Shore Trips - Rhodes West Coast in Pictures
 sections:
 - desc: We set out from the town of Rhodes and follow the road which leads to the
     southwest, parallel to the western coast of the island.  We pass through the settlements
@@ -212,5 +212,5 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Shore Tours   '
 no_related_tours_text: ''
-
 ---
+

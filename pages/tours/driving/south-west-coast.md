@@ -1,8 +1,9 @@
 ---
+title: Rhodes South-West DT8
+permalink: south_west_coast.htm
 layout: tour
 type: driving_tours_page
 id: south_west
-permalink: south_west_coast.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -18,7 +19,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   http_desc: Acropolis of Ancient Ialyssos, Ancient City of Kamiros, Castle of Kritinia,
     Monolithos Castle, Lunch Break in Embona
-title: Rhodes South-West DT8
 summary:
   paragraphs:
   - This private tour of the South-West Coast of the island appeals to all the senses.
@@ -194,8 +194,8 @@ not_included:
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+
 **MOUNT FILERIMOS - MONASTERY OF FILERIMOS**
 
 From your selected point, you'll be driven along the west coast of the island up to Mount Filerimos, where we come to the ruins of the **Acropolis of the Ancient Ialyssos**. The plateau of Filerimos rises nearly 267 meter / 876 feet above sea level. Here you'll visit the Church of **Our Lady of Filerimos**, built upon the foundations of the ancient Temple of Athena from early Christian times. You'll also see the exterior of the monastery and the barrel-vaulted Chapel of St. George.

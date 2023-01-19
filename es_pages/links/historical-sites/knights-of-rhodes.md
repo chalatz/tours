@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Los Caballeros de Rodas. 1309 - 1522
 permalink: caballeros_de_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_knights
 ref: site_knights
@@ -17,7 +18,6 @@ meta:
   abstract: Los Caballeros de Rodas, La Orden de los Caballeros de San Juan de Rodas,
     los hospitalarios
   author: Nick
-title: Los Caballeros de Rodas. 1309 - 1522
 summary: La Orden de San Juan es una orden católica romana con base en Roma, Italia.
   Sus orígenes provienen de los Caballeros Hospitalarios, organización fundada en
   Jerusalén en el 1050 como un hospital amalfitano donde se proveía asistencia a los
@@ -113,5 +113,5 @@ sections:
     El 2 de mayo de 2018, Fra ’Giacomo Dalla Torre fue elegido como el 80º Gran Maestre de la Soberana Orden de Malta.
 
     Para obtener más información, visite el sitio web oficial de la Orden en: <http://www.orderofmalta.int/>
-
 ---
+

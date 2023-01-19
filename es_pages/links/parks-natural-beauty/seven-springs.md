@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Las Siete Fuentes en Rodas, Grecia
 permalink: bellezas_naturales_grecia_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_seven_springs
 ref: site_seven_springs
@@ -16,7 +17,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Las Siete Fuentes en Rodas Grecia, Los Siete Manantiales Rodas Grecia,
     Bellezas Naturales de Grecia Rodas
-title: Las Siete Fuentes en Rodas, Grecia
 summary: Uno de los destinos más encantadores en Rodas, las Siete Fuentes que ofrecen
   un paisaje mágico de verdadero oasis, especialmente en el calor del verano – inundado
   de follaje. Las Siete Fuentes se encuentran en un valle de claras aguas, cubierto
@@ -66,6 +66,6 @@ sections:
       href: img/seven_springs/seven_springs_valley_8.jpg
       alt: Water Springs, Rhodes Allure Tours
       caption: El estrecho tunel oscuro
-
 ---
+
 Para llegar al lago, se debe caminar por un túnel estrecho y oscuro de unos 186 metros (610 pies). Es una caminata de cinco minutos que incluye algunas curvas por lo cual la visibilidad es nula por momentos. Después de unos cuantos pasos, la luz vuelve a aparecer. El túnel, construido en 1931 por los italianos, conduce aguas de las siete fuentes hacia el lago. Es pequeño, justo para una persona y por lo tanto se considera de una sola vía. Casi en la mitad del túnel hay un pozo que se utiliza como ducto de ventilación e igualmente como “salida de emergencia”, a través del cual hay una escalera que le lleva hasta la calle. Sobre el túnel se encuentra un sendero que usan algunas personas para ir hacia el lago.

@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Ancient Kamiros - Rhodes Greece
 permalink: ancient_kameiros_specialized.htm
+layout: photo-tour
 has_gallery: true
 id: site_ancient_kameiros
 ref: site_ancient_kameiros
@@ -16,7 +17,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   abstract: 'Ancient Kamiros Rhodes Greece, Ancient Kameiros, Specialized Tours of
     Rhodes '
-title: Ancient Kamiros - Rhodes Greece
 summary: The town of Kamiros was founded by the Dorians, just like lalyssos and Lindos
   and it's located 37 km / 23 ml from Rhodes City on the west coast of the Island.
   The first signs of habitation in the wider region date back to the Mycenaean era.
@@ -164,5 +164,5 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Special Tours
 no_related_tours_text: ''
-
 ---
+

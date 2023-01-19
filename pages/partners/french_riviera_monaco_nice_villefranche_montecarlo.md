@@ -1,6 +1,7 @@
 ---
-layout: partner
+title: 'FRENCH RIVIERA PRIVATE TOURS '
 permalink: french_riviera_monaco_nice_villefranche_montecarlo.htm
+layout: partner
 has_gallery: false
 id: partner_french_riviera_monaco_nice_villefranche_montecarlo
 meta:
@@ -14,8 +15,7 @@ meta:
   abstract: FRENCH RIVIERA PRIVATE TOURS, Monaco  Villefranche Monte Carlo Nice
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: 'FRENCH RIVIERA PRIVATE TOURS '
 subtitles:
 - Monaco, Villefranche, Monte Carlo, Nice, Saint Paul de Vence, and Cannes.
-
 ---
+

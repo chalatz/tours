@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: El Museo de las Abejas - Único en Grecia
 permalink: museo_de_abejas_en_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_bee_museum
 ref: site_bee_museum
@@ -12,7 +13,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   abstract: El Museo de las Abejas Rodas Grecia
-title: El Museo de las Abejas - Único en Grecia
 summary: |-
   El Museo de las Abejas es único en su clase y actualmente se encuentra abierto al público en Grecia. Fue fundado por la “Melissokomiki Dodecanese” (La Compañía Apícola del Dodecaneso). El museo exhibe la rica historia apícola que las islas griegas han tenido a lo largo de los tiempos, incluyendo la de Rodas. El Museo recibe arriba de 30.000 visitantes cada año.
 
@@ -82,5 +82,5 @@ sections:
       href: img/bee_museum/bee_museum_12.jpg
       alt: El Museo de las Abejas
       caption: ''
-
 ---
+

@@ -1,6 +1,7 @@
 ---
-layout: partner
+title: SANTORINI PRIVATE TOURS - SANTORINI SHORE EXCURSIONS
 permalink: santorini_privatetours_shoreexcursions.htm
+layout: partner
 has_gallery: false
 id: partner_santorini_privatetours_shoreexcursions
 meta:
@@ -12,11 +13,10 @@ meta:
   abstract: 'SANTORINI PRIVATE TOURS,  Santorini Shore Excursions '
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: SANTORINI PRIVATE TOURS - SANTORINI SHORE EXCURSIONS
 subtitles:
 - 'SantoriniExperts '
-
 ---
+
 Kalos-irthate sti Santorini, Welcome to Santorini.
 
 We are **SantoriniExperts** and we would love to show you the beauty of this unique island.

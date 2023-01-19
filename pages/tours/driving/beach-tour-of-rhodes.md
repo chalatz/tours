@@ -1,8 +1,9 @@
 ---
+title: Beach Tour of Rhodes DT7
+permalink: beach_tour_of_rhodes.htm
 layout: tour
 type: driving_tours_page
 id: beach_tour
-permalink: beach_tour_of_rhodes.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -15,7 +16,6 @@ meta:
   abstract: 'RHODES BEACH TOUR, Beach Tours of Rhodes, Private Beach Tours in Rhodes '
   http_desc: 'RHODES BEACH TOUR, Beach Tour of Rhodes, Private Beach Tours in Rhodes,
     Rhodes Private Tours '
-title: Beach Tour of Rhodes DT7
 summary:
   paragraphs:
   - Any trip to an island should include visits to the beautiful beaches that encircle
@@ -180,8 +180,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Beach Tours
-
 ---
+
 **FALIRAKI BEACH**
 
 Faliraki is one of the most beautiful beaches in Rhodes located 14 km / 8.6 miles from Rhodes Town. A long stretch sandy beach 4 km / 2.4 miles, with crystal clear water. There is an abundant amount of sun beds to lay back on and work on your tan. There are also many water sports to choose from including **jet skiing, banana rides, ringos, paragliding, pedalos, and bungee jumping**. (Stop Visit Photos)

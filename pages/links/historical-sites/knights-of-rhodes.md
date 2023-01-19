@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: The Knights of Rhodes. 1309 AD - 1522 AD
 permalink: knights_rhodes_medieval.htm
+layout: photo-tour
 has_gallery: true
 id: site_knights
 ref: site_knights
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   abstract: Knights of Rhodes, Knights Hospitallers, Knights of St John Baptist
   author: Nick
-title: The Knights of Rhodes. 1309 AD - 1522 AD
 summary: The Order of St John is a Roman Catholic religious and military order established
   in Rome, Italy. The Order grew from the Knights Hospitaller, an organization founded
   in Jerusalem in 1050 and related to an Amalfitan hospital to supply take care of
@@ -161,5 +161,5 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Medieval Tours   '
 no_related_tours_text: ''
-
 ---
+

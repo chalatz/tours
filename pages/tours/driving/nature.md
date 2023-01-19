@@ -1,8 +1,9 @@
 ---
+title: Rhodes Nature Tour DT9
+permalink: nature_tour.htm
 layout: tour
 type: driving_tours_page
 id: nature
-permalink: nature_tour.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -16,7 +17,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   abstract: Rhodes Nature Tour
-title: Rhodes Nature Tour DT9
 summary:
   paragraphs:
   - There really is nothing like natural beauty. Rhodes island is something to be
@@ -171,8 +171,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Nature Tours
-
 ---
+
 **KALLITHEA SPA**
 
 You'll be driven to Kallithea Spa (Springs) which lies on the East Coast of the island from your selected drop off point. The Kallithea Spa date back to the times of Classical Antiquity. The monument has become a popular tourist attraction and wedding destination ever since its renovation. It has even captured the imagination of **Hollywood**, attracting shoots for international and Greek productions. "**Escape to Athena**" starring **Roger Moore** (the second actor to play James Bond), and **Telly Savalas** (Kojack) was filmed here. A few scenes from "The Guns of Navarone" were also filmed on site. (Stop Visit Photos)

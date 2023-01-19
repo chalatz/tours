@@ -1,8 +1,9 @@
 ---
+title: '"Rhodes Jewish Heritage Plus..." GT4'
+permalink: jewish_heritage.htm
 layout: tour
 type: guided_tours_page
 id: guided_jewish_heritage
-permalink: jewish_heritage.htm
 has_form: true
 has_gallery: true
 is_of: guided_tours
@@ -14,7 +15,6 @@ meta:
   abstract: Rhodes Jewish Heritage Your, Rhodes Jewish Community
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"Rhodes Jewish Heritage Plus..." GT4'
 tour:
   title: '"Rhodes Jewish Heritage Plus..." GT4'
   summary: Rhodes New Town / Rhodes Medieval City / Jewish Quarter / East Coast of
@@ -182,8 +182,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Jewish Tours of Rhodes
-
 ---
+
 **NEW TOWN**
 
 From your selected point, you'll be driven to the entrance of the old harbor. Here, according to tradition, was the place where the famous **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood <u>Guided Tour</u> (Stop Visit Photos).

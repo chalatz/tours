@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Lindos - El Asentamiento Tradicional
 permalink: acropolis_lindos_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_acropolis_lindos
 ref: site_acropolis_lindos
@@ -17,7 +18,6 @@ meta:
     de Rodas Grecia, La Acrópolis de Lindos
   http_desc: Lindos, Acrópolis de Lindos Rodas Grecia, Acrópolis de Lindos en la Isla
     de Rodas Grecia, La Acrópolis de Lindos
-title: Lindos - El Asentamiento Tradicional
 summary: Lindos está situada sobre la costa este de la isla a una distancia de 50
   kilómetros de la capital de Rodas. Lindos, como la Ciudad Vieja de Rodas, es uno
   de los monumentos que se han declarado sujetos a conservación y por lo tanto ha
@@ -155,5 +155,5 @@ sections:
       href: img/rhodes_lindos/view_from_lindos_acropolis_4.jpg
       alt: Vista de la bahía de San Pablo
       caption: Vista de la bahía de San Pablo
-
 ---
+

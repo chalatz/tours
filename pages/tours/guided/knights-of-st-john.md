@@ -1,8 +1,9 @@
 ---
+title: '"The Knights of St John Tour" GT6'
+permalink: knights-of-st-John.htm
 layout: tour
 type: guided_tours_page
 id: guided_knights_of_st_john
-permalink: knights-of-st-John.htm
 has_form: true
 has_gallery: true
 is_of: guided_tours
@@ -18,7 +19,6 @@ meta:
     Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"The Knights of St John Tour" GT6'
 tour:
   title: '"The Knights of St John Tour" GT6'
   summary: Medieval City & Gates / West Coast & Our Lady of Filerimos / East Coast
@@ -180,8 +180,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Private Tours of Rhodes
-
 ---
+
 **THE MEDIEVAL CITY**
 
 You will be driven to **St. John Gate or Red Gate** from your designated location. This will mark the beginning of your <u>Guided Walking Tour</u>, making your way across the neighborhoods and alleyways of the Medieval City where you can take pictures (from outside) of some of the most important monuments of this trip include; **Gate of St Athanasius, D'Amboise Gate, Ruins of Sent John Cathedral, Grand Masters Palace, Street of the Knights, New Hospital of the Knights, Our Lady of the Castel** (Stop Photos)  Your walking tour concludes at the **Marina Gate**.

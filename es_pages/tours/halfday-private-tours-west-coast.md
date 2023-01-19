@@ -1,9 +1,10 @@
 ---
+title: '"Rodas Costa Oeste"'
+permalink: excursion_privada_de_medio_dia.htm
 layout: es/tour
 type: driving_tours_page
 id: west_coast
 ref: west_coast
-permalink: excursion_privada_de_medio_dia.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -15,7 +16,6 @@ meta:
   abstract: Rhodes private tours and shore excursions
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-title: '"Rodas Costa Oeste"'
 summary:
   paragraphs:
   - Este tour está lleno de historia, belleza natural y sitios antiguos. Se le presentarán
@@ -171,8 +171,8 @@ not_included:
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+
 Desde un punto elegido por usted, lo trasladarán a la ciudad antigua (Ciudad Patrimonio de la Humanidad) para tomar fotografías de fuera de los monumentos más importantes, como la Calle de los Caballeros y el palacio restaurado de Los Grandes Maestros.  (Stop Fotos)
 
 Luego, iremos más allá de los edificios históricos de la nueva cuidad y continuamos por la entrada del antiguo puerto, **Mandraki**, con los dos ciervos de bronce sobre sendas columnas, donde según la leyenda estaba colocado **el Coloso de Rodas**, una de las siete maravillas del mundo antiguo (Stop Visitar Fotos)

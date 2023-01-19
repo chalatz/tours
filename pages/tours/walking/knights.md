@@ -1,8 +1,9 @@
 ---
+title: '"The Knights Hospitallers" WT2'
+permalink: knights_hospitallers.htm
 layout: tour
 type: walking_tours_page
 id: walking_knights_hospitallers
-permalink: knights_hospitallers.htm
 has_form: true
 has_gallery: true
 is_of: walking_tours
@@ -18,7 +19,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: Knights Hospitallers Tour, Knights of Rhodes Tours, Rhodes Private Tours
     Greece
-title: '"The Knights Hospitallers" WT2'
 tour:
   title: '"The Knights Hospitallers" WT2'
   summary: The Fortifications of the Knights / The Gates / Naillac Tower / The Moat
@@ -154,8 +154,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Knights of Rhodes Tours
-
 ---
+
 Your tour will commence from your selected point or cruise port. You will make your journey to the Medieval City to the **Marina Gate**. Our passionate experienced tour guides will provide you with a memorable detour of the unique medieval fortifications. Most defensive walls belonging to this era were constructed using a technique known as "rubble masonry," which is highly resistant to massive force. The external stone texture is smooth enough to prevent climbing. (Stop Photos)
 
 Walking into the moat will reveal the cannon stone balls and bastions. Our tour guide will provide you with a brief overview of medieval military techniques, mentioning the important role the **Knights of St. John** played to extend fortifications of the castle during their time in Rhodes.

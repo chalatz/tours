@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: 'Rhodes Tours - Byzantine Monuments in Rhodes 330AD to 1309AD '
 permalink: byzantine_historical_monuments.htm
+layout: photo-tour
 has_gallery: true
 id: site_byzantine
 ref: site_byzantine
@@ -15,7 +16,6 @@ meta:
   abstract: Rhodes Tours, Byzantine Monuments in Rhodes
   http_desc: Rhodes Tours, Byzantine Monuments in Rhodes Greece, Rhodes Historical
     Tours
-title: 'Rhodes Tours - Byzantine Monuments in Rhodes 330AD to 1309AD '
 summary: "During the early Christian period, Rhodes belonged to the Byzantine Empire.
   The Byzantine period lasted on and off for almost 1,000 years. During this time,
   Rhodes was an important Byzantine trading port and a crossroads for ships sailing
@@ -85,6 +85,6 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Historical Tours   '
 no_related_tours_text: ''
-
 ---
+
 We have little information concerning the Byzantine period. The restoration work of the Italians neglected surviving buildings in favor of the Knights period.

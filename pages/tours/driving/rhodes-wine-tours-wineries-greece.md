@@ -1,8 +1,9 @@
 ---
+title: '"Rhodes Wine Tour" DT5'
+permalink: rhodes_wine_tours_wineries_greece.htm
 layout: tour
 type: driving_tours_page
 id: wine_tours
-permalink: rhodes_wine_tours_wineries_greece.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -39,7 +40,6 @@ summary:
     aromas of dried apricot, caramel and nuts and creating a pleasant taste that enchants
     the senses. Local wineries specialize in producing sparkling wines even using
     the champagne method of second fermentation in the bottle.</li>\n    </ol>      \n"
-title: '"Rhodes Wine Tour" DT5'
 tour:
   title: '"Rhodes Wine Tour" DT5'
   summary: Panoramic View of Rhodes Town / Free Wine Tasting / Green Tour of the West
@@ -153,7 +153,8 @@ gallery:
 faq:
   items:
   - q: Do we have to pay for the wine tasting? Are there any entrance fees?
-    a: 5 Euros per person entrance fee at Anastasia’s winery, and 5 Euros at Kounakis winery
+    a: 5 Euros per person entrance fee at Anastasia’s winery, and 5 Euros at Kounakis
+      winery
   - q: We aren't big wine connoisseurs but do appreciate it, can we taste any type
       of wine we wish?
     a: Yes of course.
@@ -311,5 +312,5 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Wine Tours   '
 ref: wine_tours
-
 ---
+

@@ -1,11 +1,12 @@
 ---
-layout: photo-tour
+title: Travel Guide of Rhodes Island - Tourist Information
 permalink: rhodes_travel_guide.htm
+layout: photo-tour
 has_gallery: false
 id: info_rhodes_travel_guide
 ref: info_rhodes_travel_guide
 meta:
-  title: 'Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information'
+  title: Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information
   http_desc: Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information,
     Travel Guide of Rhodes Greece, Rhodes Private Tours, Rhodes Taxi Tours
   description: Rhodes Travel Tours, Rhodes Travel Guide, Rhodes Tourist Information,
@@ -15,7 +16,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Rhodes Travel Tours, Rhodes Tourist Information, Rhodes Travel Tours
   author: Nick
-title: Travel Guide of Rhodes Island - Tourist Information
 subtitle: Prior planning is always helpful in making a journey more relaxing and enjoyable.
 summary: ''
 sections: []
@@ -26,8 +26,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Rhodes Travel Tours
-
 ---
+
 **Dress code** in Rhodes Island is very casual, for men shorts and T-shirts is the norm, and for ladies, light summer dresses or similar to men. If you are coming in Spring or Autumn, you should bring some warmer clothes just in case it gets a bit cold in the night. Even for those who want to dress formally, smart casual is the norm, which would be a pair of trousers and a shirt.
 
 **Internet Cafes & Free Wi-Fi.** There are many internet cafe in the Old Town, and in the New Town and the villages of Rhodes Island. There are also internet cafes open to the public at the most hotels in particular those that offer convention facilities**. **In addition, there is a number of subscription-based networks offering hotspots mainly in and around the town center. 

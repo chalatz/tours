@@ -1,6 +1,7 @@
 ---
-layout: partner
+title: 'MALTA - VALLETTA SHORE EXCURSIONS '
 permalink: valletta_malta_shoreexcursions.htm
+layout: partner
 has_gallery: false
 id: partner_valletta_malta_shoreexcursions
 meta:
@@ -11,11 +12,10 @@ meta:
   abstract: 'Malta Valletta Shore Excursions, Valletta Tours '
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: 'MALTA - VALLETTA SHORE EXCURSIONS '
 subtitles:
 - Amy Pace - Guided Tours of Malta and Gozo
-
 ---
+
 My name is Amy Pace, and I am a native of Malta, where I grew up, attending the local University. Tour guiding combines my love for history, architecture and archaeology with teaching, all of which relate to my background.
 
 I am an **accredited licensed tour guide**, and have been since 1985, therefore having twenty five years of experience in the tour leading industry. I am also a **licensed tour organizer**, providing private customized tours for individuals and for groups, for all the sites on Malta and Gozo. I am the sole contact from the moment of the initial inquiry, suggesting suitable agendas and costs, through to performing the actual tour.

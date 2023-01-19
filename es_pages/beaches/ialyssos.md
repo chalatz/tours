@@ -1,6 +1,7 @@
 ---
-layout: es/beach
+title: Playa de IALYSSOS Rodas Grecia (IALISSOS)
 permalink: ialyssos_playa_rodas_grecia.htm
+layout: es/beach
 has_gallery: true
 id: beach_site_ialyssos
 ref: beach_site_ialyssos
@@ -15,7 +16,6 @@ meta:
   abstract: Ialyssos, Playa de Ialyssos Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Playa de IALYSSOS Rodas Grecia (IALISSOS)
 info:
 - label: Localización
   text: a 8 Kms. (4,97 millas) de la ciudad de Rodas en la Costa Oeste
@@ -41,6 +41,6 @@ gallery_rows:
   - thumb: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_4-thumb.jpg
     href: img/rhodes_beaches/ialyssos_beach/ialyssos_beach_4.jpg
     alt: Playa de IALYSSOS Rodas Grecia (IALISSOS)
-
 ---
+
 Al igual que en Ixia, las playas de los hoteles se alternan con organizadas playas públicas, utilizadas principalmente por los visitantes de los hoteles locales. Es un lugar ideal para los amantes de la natación, y para los surfistas puesto que a menudo hay un viento favorable. Dispone de tumbonas y sombrillas y también hay vestuarios y duchas.

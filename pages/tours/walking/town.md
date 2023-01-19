@@ -1,8 +1,9 @@
 ---
+title: '"Rhodes Old Town Walking Tour" WT1'
+permalink: old_town_walking_tour.htm
 layout: tour
 type: walking_tours_page
 id: walking_old_town
-permalink: old_town_walking_tour.htm
 has_form: true
 has_gallery: true
 is_of: walking_tours
@@ -18,7 +19,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: 'RHODES OLD TOWN WALKING TOUR,  Rhodes Old City Walking Tours, Private
     Rhodes City Tour             '
-title: '"Rhodes Old Town Walking Tour" WT1'
 tour:
   title: '"Rhodes Old Town Walking Tour" WT1'
   summary: The Important Monuments of the Burgo and Collachio / Visit the Grand Master
@@ -172,8 +172,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes City Walking Tours
-
 ---
+
 Your tour will start from your designated point at the Cruise Port (or from your hotel). You will be guided to the **Medieval City**, passing through the **St. Catherine Gate** to visit the most important monuments of **the Burgos (town).** (Stop Photos)
 
 An interior wall running east-wide was used to divide the Medieval City into two unequal portions. The smaller, northerly portion was known as the **Collachium**. The much larger, southern quarter was known as **Burgo, Burgus, Burgum, and Hora (town).** The place was a melting pot that people from all walks of life called home, although the Greeks were in the majority.

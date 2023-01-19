@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: The Water Park in Faliraki Rhodes Greece
 permalink: custom.htm
+layout: photo-tour
 has_gallery: true
 id: site_water_park
 ref: site_water_park
@@ -12,7 +13,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Water Park Faliraki Rhodes Greece
-title: The Water Park in Faliraki Rhodes Greece
 summary: The Water Park in Rhodes is one of the largest in Europe and has been designed
   with all the latest facilities. The Water Park in Rhodes offers remarkable and spectacular
   rides, unique splash pools and water slides. The Water park's safety guards supervise
@@ -70,8 +70,8 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Custom Tours
 no_related_tours_text: We can add this attraction to your tour upon request
-
 ---
+
 The Rhodes Water Park features a total of 20 separate attractions, including:
 
 - For the fearless, the **Kamikaze** is one of the parks most popular ride.

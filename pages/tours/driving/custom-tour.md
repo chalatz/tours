@@ -1,8 +1,9 @@
 ---
+title: '"Rhodes Custom Tour" DT12'
+permalink: rhodes-custom-tours.htm
 layout: tour
 type: driving_tours_page
 id: custom_tours
-permalink: rhodes-custom-tours.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -18,7 +19,6 @@ meta:
   abstract: Rhodes Custom Tours, Private Custom Tours in Rhodes Greece
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"Rhodes Custom Tour" DT12'
 summary:
   paragraphs:
   - For those of you with limited schedules, this tour is perfect. When you are brought
@@ -133,8 +133,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Tours   '
-
 ---
+
 #### Your Special, Custom Tour that can be Tailored According to Your Needs
 
 "Rhodes Private Tours" has been offering custom tours for decades now. We have a fleet of dedicated tour-drivers, tour-guides and vehicles to help you get a great tour every single time.   We exclusively specialize in the Rhodes Island our vast experience ensures that you get to enjoy the treasures of Rhodes first-hand. Our customized tours are specifically designed to accommodate your needs, ensuring that your trip matches your schedule and preferences perfectly. Private custom tours can be modified based on the group size and more. With Rhodes Private Tours, your needs come first.

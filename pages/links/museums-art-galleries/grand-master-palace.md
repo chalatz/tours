@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Palace of the Grand Master of the Knights of Rhodes - Greece
 permalink: palace_of_the_grand_masters_greece.htm
+layout: photo-tour
 has_gallery: true
 id: site_grand_masters_palace
 ref: site_grand_masters_palace
@@ -16,7 +17,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Palace of the Grand Master of the Knights of Rhodes
-title: Palace of the Grand Master of the Knights of Rhodes - Greece
 summary: At the highest point of the Castle, stands The Palace of the Grand Masters.
   It has been a fortress, an administration center for the Knights Hospitaller, and
   a Palace for the Grand Masters. In the 20th century, it was a holiday residence
@@ -140,5 +140,5 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Private Tours
 no_related_tours_text: ''
-
 ---
+

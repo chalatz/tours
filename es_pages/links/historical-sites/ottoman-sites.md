@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Sitios Otomanos en Rodas. 1522 - 1912
 permalink: sitios_otomanos_rodas.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_ottoman
 ref: site_ottoman
@@ -17,7 +18,6 @@ meta:
     Rodas Grecia
   http_desc: Sitios Otomanos en Rodas, Monumentos Otomanos en Rodas Grecia, Isla de
     Rodas Grecia
-title: Sitios Otomanos en Rodas. 1522 - 1912
 summary: En 1552 los turcos otomanos conquistaron la ciudad después de un largo asedio.
   Se construyeron edificios nuevos como mezquitas, baños públicos y mansiones para
   los nuevos mecenas.
@@ -70,5 +70,5 @@ sections:
     Las adiciones más características fueron los baños y los balcones de madera cerrados en las fachadas, sobre las callejuelas estrechas. El resultado fue una mezcla de arquitectura oriental con restos imponentes de arquitectura occidental y edificios más recientes que caracterizaban la arquitectura local del momento.
 
     La biblioteca musulmana fue fundada en 1793 por Hafiz Ahmet Aga y está situada al frente de la mezquita de Solimán. El edificio está bien conservado y cuenta con un jardín. Alberga una interesante colección de manuscritos y pergaminos raros escritos en turco, árabe y persa, siendo el más significativo aquel que narra el asedio y conquista de la isla por parte de los turcos en 1522. Sólo el área del frente puede ser visitada.
-
 ---
+

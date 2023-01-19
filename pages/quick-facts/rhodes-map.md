@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Rhodes Greece Map
 permalink: rhodes_greece_map.htm
+layout: photo-tour
 has_gallery: true
 id: info_rhodes_greece_map
 meta:
@@ -11,7 +12,6 @@ meta:
   author: NK for Rhodes Private Tours
   copyright: NK for Rhodes Private Tours,2021
   abstract: Rhodes Greece Map, Maps of Rhodes Greece
-title: Rhodes Greece Map
 subtitle: Route Maps of Our Private Tours
 summary: Rhodes is lying on the south-east corner of the Aegean, opposite the coast
   of Asia Minor . The island of Rhodes is the biggest one in the Dodecanese (Twelve
@@ -72,5 +72,5 @@ end_page:
     and dates."
   short_text: 'Experts in Tailor-Made Tours  '
 no_related_tours_text: ''
-
 ---
+

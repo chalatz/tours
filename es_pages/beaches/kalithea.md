@@ -1,6 +1,7 @@
 ---
-layout: es/beach
+title: Playa de Kallithea Rodas Grecia
 permalink: kalithea_playa_rodas_grecia.htm
+layout: es/beach
 has_gallery: true
 id: beach_site_kallithea
 ref: beach_site_kallithea
@@ -12,7 +13,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Kallithea, Playa de Kallithea Rodas Grecia
-title: Playa de Kallithea Rodas Grecia
 info:
 - label: Localización
   text: a 8 Kms. (4,9 millas) de la ciudad de Rodas en la Costa Este
@@ -39,6 +39,6 @@ gallery_rows:
   - thumb: img/rhodes_beaches/kallithea_beach/kallithea_beach_4-thumb.jpg
     href: img/rhodes_beaches/kallithea_beach/kallithea_beach_4.jpg
     alt: Playa de Kallithea Rodas Grecia
-
 ---
+
 La playa Spa principal de Kalithea es un blanco favorito de los barcos de excursión de un día de la ciudad de Rodas, de modo que se llena rápidamente de excursionistas, especialmente en la temporada alta. Hay sombrillas y tumbonas en cada una de las calas de Kalithea y la playa principal también tiene su propio "café" que abre en temporada alta; un buen sitio para tomar un café o una copa en un ambiente fantástico.

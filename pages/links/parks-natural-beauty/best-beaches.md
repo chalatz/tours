@@ -1,21 +1,21 @@
 ---
-layout: photo-tour
+title: Best Beaches in Rhodes
 permalink: best_beaches_rhodes.htm
+layout: photo-tour
 redirect_from:
-  - best_beaches.htm
+- best_beaches.htm
 banners_below: true
 id: site_best_beaches
 ref: site_best_beaches
 no_gallery_links: true
 meta:
-  title: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece'
-  http_desc: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece'
-  description: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece'
-  keywords: 'Best Beaches in Rhodes, Best Beaches in Rhodes Greece'
+  title: Best Beaches in Rhodes, Best Beaches in Rhodes Greece
+  http_desc: Best Beaches in Rhodes, Best Beaches in Rhodes Greece
+  description: Best Beaches in Rhodes, Best Beaches in Rhodes Greece
+  keywords: Best Beaches in Rhodes, Best Beaches in Rhodes Greece
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: 'Best Beaches in Rhodes Greece '
-title: Best Beaches in Rhodes
 summary: |-
   Rhodes is an island surrounded by some of the most beautiful beaches in Europe. All of the beaches have free admission, but you may want to rent a sunbed or umbrella. All beaches include changing areas and showers.
 
@@ -147,5 +147,5 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Beach Tours '
 no_related_tours_text: ''
-
 ---
+

@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: The Village and Castle of Kritinia
 permalink: kritinia_castle.htm
+layout: photo-tour
 has_gallery: true
 id: site_kritinia_castle
 ref: site_kritinia_castle
@@ -13,7 +14,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   abstract: RHODES ALLURE TOURS
-title: The Village and Castle of Kritinia
 summary: "The village of Kritinia, meaning \"New Crete\", was founded by some families
   who came as refuges from Crete island. Originally, the settlement was located by
   the coast, in the current position of Kamiros Skala; but after the Byzantine era
@@ -137,5 +137,5 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Allure Tours
 no_related_tours_text: ''
-
 ---
+

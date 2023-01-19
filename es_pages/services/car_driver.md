@@ -1,9 +1,10 @@
 ---
+title: Coches con Conductor en Rodas Grecia
+permalink: isla_rodas_grecia_viajes_privados_guia_conductor.htm
 layout: es/page
 type: services_page
 id: car_driver_services_page
 ref: car_driver_services_page
-permalink: isla_rodas_grecia_viajes_privados_guia_conductor.htm
 banners_below: true
 has_form: false
 has_gallery: false
@@ -23,7 +24,6 @@ meta:
 head_photo:
   src: "./img/pages/services/car-driver-head-photo-es.jpg"
   alt: Coches con Conductor en Rodas Grecia
-title: Coches con Conductor en Rodas Grecia
 subtitle: Conductores Disponibles
 sections:
 - title: Coches Disponibles
@@ -45,8 +45,8 @@ not_finding:
   subtitle: No hay problema, podemos crear un itinerario personalizado para usted.
     ¡Cuéntenos de su tour!
   contact_us_button_text: CONTÁCTENOS
-
 ---
+
 Sea cual sea el propósito de su visita, nos aseguramos de que sea memorable. Ya sea un tour privado o una excursión en tierra, atendemos todas sus necesidades. Te permitimos relajarte y disfrutar del impresionante ambiente de la isla.
 
 Los conductores disponibles tienen experiencia y son profesionales autorizados, y en particular personas educadas, de buenos modales así como de comportamiento impecable. Igualmente conocen perfectamente la isla.

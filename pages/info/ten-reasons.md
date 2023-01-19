@@ -1,26 +1,28 @@
 ---
+title: Top 10 Reasons to Book with Us
+permalink: book.htm
 layout: pages/ten-reasons
 type: plain_page
 id: ten_reasons_page
-permalink: book.htm
 has_form: false
 has_gallery: false
 meta:
   title: Rhodes Private Tours and Rhodes Shore Excursions, Book your tour with us
-  http_desc: Rhodes Private Tours and Rhodes Shore Excursions, Book your tour with us
-  description: Rhodes Private Tours and Rhodes Shore Excursions, Book your tour with us
-  keywords: Rhodes Private Tours and Rhodes Shore Excursions, Book your tour with us
-  abstract: Rhodes Private Tours and Rhodes Shore Excursions, Book your tour with us
+  http_desc: Rhodes Private Tours and Rhodes Shore Excursions, Book your tour with
+    us
+  description: Rhodes Private Tours and Rhodes Shore Excursions, Book your tour with
+    us
+  keywords: Rhodes Private Tours and Rhodes Shore Excursions, Book your tour with
+    us
+  abstract: Rhodes Private Tours and Rhodes Shore Excursions, Book your tour with
+    us
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-
-title: Top 10 Reasons to Book with Us
-
 subtitle:
   part01: PRIVATE GUIDED TOURS
   part02: PRIVATE WALKING TOURS
-
 ---
+
 ### Direct Local Price
 
 We create and operate our own tours then offer them directly to you. Discover Rhodes Island with help from true insiders...

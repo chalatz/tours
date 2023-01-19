@@ -1,6 +1,7 @@
 ---
-layout: es/beach
+title: Playa de traganou Rodas Grecia
 permalink: traganou_playa_rodas_grecia.htm
+layout: es/beach
 has_gallery: true
 id: beach_site_traganou
 ref: beach_site_traganou
@@ -12,7 +13,6 @@ meta:
   abstract: Traganou, Playa de Traganou Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Playa de traganou Rodas Grecia
 info:
 - label: Localización
   text: a 16 Kms. (9,34 millas) de la ciudad de Rodas en la Costa Este
@@ -38,6 +38,6 @@ gallery_rows:
   - thumb: img/rhodes_beaches/traganou_beach/traganou_beach_4-thumb.jpg
     href: img/rhodes_beaches/traganou_beach/traganou_beach_4.jpg
     alt: Playa de traganou Rodas Grecia
-
 ---
+
 La playa es ideal para aquellos que prefieren nadar en soledad y evitan las multitudes. Sólo una pequeña zona de la playa está organiza con sombrillas y tumbonas, el resto se ha dejado en su forma natural.

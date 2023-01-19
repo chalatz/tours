@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Top 10 reasons to visit Rhodes Greece
 permalink: top_10_reasons_to_visit_rhodes_greece.htm
+layout: photo-tour
 has_gallery: false
 id: info_top_10_reasons_to_visit_rhodes
 ref: info_top_10_reasons_to_visit_rhodes
@@ -16,7 +17,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Rhodes private tours and shore excursions
   author: Nick
-title: Top 10 reasons to visit Rhodes Greece
 sections:
 - media:
   - title: '1) UNESCO Heritage Sites:'
@@ -103,5 +103,5 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Private Tours of Rhodes
-
 ---
+

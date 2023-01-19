@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: The Museum of Modern Greek Art Municipal Gallery
 permalink: modern_greek_art_museum.htm
+layout: photo-tour
 has_gallery: true
 id: site_modern_greek_art_museum
 ref: site_modern_greek_art_museum
@@ -15,7 +16,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: ''
-title: The Museum of Modern Greek Art Municipal Gallery
 summary: The Modern Greek Art Museum displays works of sculpture, painting, drawing
   and engraving, along with documents of historical value. The purpose of the Museum
   is to present the history of Greece through the eyes and the soul of Greek artists
@@ -146,5 +146,5 @@ end_page:
     and dates."
   short_text: Experts in Art Cultural Tours
 no_related_tours_text: We can add this attraction to your tour upon request
-
 ---
+

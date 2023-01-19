@@ -1,9 +1,10 @@
 ---
+title: Rhodes Kids Tour DT6
+permalink: kids_tours_fun_children.htm
 layout: tour
 type: driving_tours_page
 id: kids_tours
 ref: kids_tours
-permalink: kids_tours_fun_children.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -19,7 +20,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   http_desc: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children
     Fun Tours in Rhodes
-title: Rhodes Kids Tour DT6
 summary:
   paragraphs:
   - Fun Tour, a Great Family Experience!  This tour is exclusively designed for families
@@ -169,8 +169,8 @@ end_page:
     our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: 'Experts in Rhodes Kids Tours   '
-
 ---
+
 **COLOSSUS OF RHODES**
 
 From your selected point, you'll be driven to the entrance of the old harbor, atop tall columns, stand the two bronze deer - characteristic landmarks of the island. Here, according to tradition, was the place where the famous Colossus of Rhodes, one of the seven wonders of the ancient world, once stood (Stop Visit Photos)

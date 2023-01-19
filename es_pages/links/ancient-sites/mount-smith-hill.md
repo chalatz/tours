@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: La Colina Monte Smith - La Acrópolis Superior de la Rodas Antigua
 permalink: acropolis_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_mount_smith_hill
 ref: site_mount_smith_hill
@@ -17,7 +18,6 @@ meta:
   http_desc: Acrópolis de Rodas Grecia, Colina de Monte Smith Rodas, Colina de San
     Esteban, La Acrópolis de Rodas Grecia
 keyphrase: Affordable Tours of Rhodes
-title: La Colina Monte Smith - La Acrópolis Superior de la Rodas Antigua
 summary: La colina tomó su nombre del almirante inglés Sir Sidney Smith quien tuvo
   su puesto de observación aquí en 1802 para vigilar los movimientos de la flota de
   Napoleón durante su guerra con los turcos.
@@ -73,5 +73,5 @@ sections:
         Rhodes, Rhodes Affordable Tours, Rhodes Greece Affordable Tours.
       caption: ''
 subtitle: ''
-
 ---
+

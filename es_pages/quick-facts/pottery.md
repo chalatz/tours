@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Cerámica Artesanal en Rodas, Grecia
 permalink: ceramica_griega_alfareria.htm
+layout: es/photo-tour
 has_gallery: true
 id: info_handmade_pottery
 ref: info_handmade_pottery
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Cerámica Griega Alfarería, Cerámica Artesanal en Rodas Grecia, Diseños
     de Cerámica en la Antigua Grecia, Cerámica Moderna de Rodas
-title: Cerámica Artesanal en Rodas, Grecia
 summary: Los griegos produjeron alfarería desde hace mucho tiempo. Esta práctica representa
   un importante registro y fuente de análisis para entender múltiples periodos históricos
   de la vida antigua de los griegos. La Isla de Rodas es famosa por su tradición de
@@ -178,5 +178,5 @@ no_related_tours_text: ''
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+

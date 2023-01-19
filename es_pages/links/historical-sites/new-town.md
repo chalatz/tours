@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: La Nueva Ciudad de Rodas en Fotos
 permalink: ciudad_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_new_town
 ref: site_new_town
@@ -13,7 +14,6 @@ meta:
   abstract: La Nueva Ciudad de Rodas Grecia
   http_desc: La Nueva Ciudad de Rodas Grecia
 keyphrase: Rhodes Shore Excursions
-title: La Nueva Ciudad de Rodas en Fotos
 summary: 'La ciudad moderna se desarrolla fuera de las murallas de la medieval Rodas
   y es llena de vida y de actividad todo el año. Es lleno de contrastes asombrosamente:
   bloques de viviendas modernos, calles anchas, plazas, una multitud de tiendas….
@@ -108,5 +108,5 @@ sections:
       alt: Los tres molinos de viento bizantinos.
       caption: Los tres molinos de viento bizantinos.
 subtitle: ''
-
 ---
+

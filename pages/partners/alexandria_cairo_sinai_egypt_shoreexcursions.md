@@ -1,6 +1,7 @@
 ---
-layout: partner
+title: EGYPT PRIVATE TOURS - EGYPT SHORE EXCURSIONS
 permalink: alexandria_cairo_sinai_egypt_shoreexcursions.htm
+layout: partner
 has_gallery: false
 id: partner_alexandria_cairo_sinai_egypt_shoreexcursions
 meta:
@@ -12,8 +13,7 @@ meta:
   abstract: Egypt Private Tours, Egypt Shore Excursions, Alexandria, Cairo, Sinai
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: EGYPT PRIVATE TOURS - EGYPT SHORE EXCURSIONS
 subtitles:
 - 'ALEXANDRIA, CAIRO, SINAI TOURS '
-
 ---
+

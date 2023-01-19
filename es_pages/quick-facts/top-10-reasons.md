@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: 10 razones para visitar la Isla de Rodas en Grecia
 permalink: razones_para_visitar_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: false
 id: info_top_10_reasons_to_visit_rhodes
 ref: info_top_10_reasons_to_visit_rhodes
@@ -12,7 +13,6 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
   abstract: 10 razones para visitar la Isla de Rodas en Grecia
   author: Nick
-title: 10 razones para visitar la Isla de Rodas en Grecia
 sections:
 - media:
   - title: '1) Patrimonios de la Humanidad por la UNESCO:'
@@ -95,5 +95,5 @@ sections:
       path: img/top_ten_reasons/top_ten_reasons_10.png
       alt: '10 razones para visitar la Isla de Rodas en Grecia '
 subtitle: ''
-
 ---
+

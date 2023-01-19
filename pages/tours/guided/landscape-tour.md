@@ -1,8 +1,9 @@
 ---
+title: '"Rhodes Landscape Tour" GT8'
+permalink: landscape_tour.htm
 layout: tour
 type: guided_tours_page
 id: guided_landscape
-permalink: landscape_tour.htm
 has_form: true
 has_gallery: true
 is_of: guided_tours
@@ -14,7 +15,6 @@ meta:
   abstract: Rhodes Landscape Tours
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: '"Rhodes Landscape Tour" GT8'
 tour:
   title: '"Rhodes Landscape Tour" GT8'
   summary: East Coast / Seven Springs / Mount Profitis Ilias / Free Wine Taste in
@@ -160,8 +160,8 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates."
   short_text: Experts in Rhodes Landscape Tours
-
 ---
+
 **SEVEN SPRINGS**
 
 From your selected point, you'll be driven to the east coast of the island to the Seven Springs. The Seven Springs is a valley flowing with clear springs and covered with enormous plane and pine trees, a real oasis, especially in the heat of high summer.  This natural scenery offers the visitor a calm and relaxing atmosphere, bridges, streams, flowers, ducks and peacocks. <u>Guided Walking Tour</u> (Stop Visit Photos)

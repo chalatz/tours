@@ -1,6 +1,7 @@
 ---
-layout: es/beach
+title: Playa de Stegná Rodas Grecia (Pueblo de Arcángelos)
 permalink: stegna_playa_archangelos_rodas.htm
+layout: es/beach
 has_gallery: true
 id: beach_site_stegna
 ref: beach_site_stegna
@@ -12,7 +13,6 @@ meta:
   abstract: Stegná, Playa de Stegná Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Playa de Stegná Rodas Grecia (Pueblo de Arcángelos)
 info:
 - label: Localización
   text: a 32 Kms. (19,88 millas) de la ciudad de Rodas en la Costa Este
@@ -40,6 +40,6 @@ gallery_rows:
     alt: Playa de Stegná Rodas Grecia (Pueblo de Arcángelos)
 related_tours:
 - Beach Tour of Rhodes-DT7
-
 ---
+
 Stegná es una pequeña playa con aguas tranquilas, azules y casas viejas tradicionales sobre la costa. Situada muy cerca del pueblo Arcángelos. Un ambiente tradicional griego, con tabernas, restaurantes, bares ... Es una playa organizada con sombrillas y ofrece algunos deportes acuáticos.

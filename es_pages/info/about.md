@@ -1,9 +1,10 @@
 ---
+title: Excursiones Guiadas Privadas en Rodas Grecia
+permalink: excursiones-guiadas-privadas-rodas.htm
 layout: es/pages/about
 type: about_page
 id: about_page
 ref: about_page
-permalink: excursiones-guiadas-privadas-rodas.htm
 has_form: false
 has_gallery: true
 meta:
@@ -14,7 +15,6 @@ meta:
   abstract: Excursiones Guiadas Privadas en Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-title: Excursiones Guiadas Privadas en Rodas Grecia
 subtitle: El sitio web original de "Rhodes Private Tours" (RhodesPrivateTours.Com)
 profile:
   title: Biografía
@@ -42,8 +42,8 @@ info:
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+
 Comenzamos a ofrecer tours privados de alta calidad a Rhodes en 1984 y estamos en línea desde 1998.
 
 La razón principal por la que hemos creado este sitio web es el deseo de compartir nuestro amor por esta isla, realmente impresionante y de inmensa belleza, con todos los viajeros que la visitan. También deseamos dar una cálida bienvenida a todos los visitantes de Rodas, con la esperanza de que tengan una estancia agradable e inolvidable en la isla. Sin lugar a dudas, Rhodes deja una impresión duradera en todos aquellos que la visitan en un lugar espléndido.

@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Parque Acuático en Faliraki – Rodas, Grecia
 permalink: parque_acuatico_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_water_park
 ref: site_water_park
@@ -16,7 +17,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Parque Acuático en Rodas, Grecia, Aquapark en Faliraki Rodas Grecia
-title: Parque Acuático en Faliraki – Rodas, Grecia
 summary: El Parque Acuático de Rodas es uno de los mayores de Europa y ha sido diseñado
   con las más avanzadas instalaciones. El Parque Acuático de Rodas ofrece espectaculares
   juegos, piscinas únicas de chapoteo y toboganes. Los guardias de seguridad del parque
@@ -54,8 +54,8 @@ sections:
     - thumb: img/water_park/water_park_8_small.jpg
       href: img/water_park/water_park_8.jpg
       alt: Parque Acuático en Faliraki – Rodas, Grecia
-
 ---
+
 El Parque Acuático de Rodas ofrece un total de 20 atracciones diferentes que incluyen:
 
 - Para los temerarios, el **Kamikazi** que es una de las más propulares del parque

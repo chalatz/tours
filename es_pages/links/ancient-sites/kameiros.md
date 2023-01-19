@@ -1,6 +1,7 @@
 ---
-layout: es/photo-tour
+title: Antigua Kámiros - La Pompeya de Grecia
 permalink: antigua_kameiros_rodas_grecia.htm
+layout: es/photo-tour
 has_gallery: true
 id: site_ancient_kameiros
 ref: site_ancient_kameiros
@@ -17,7 +18,6 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
   abstract: Antigua Kameiros Rodas Grecia, Kamiros Rodas Grecia, Camiros, Rodas Antiguos
     Sitios, Rodas Grecia
-title: Antigua Kámiros - La Pompeya de Grecia
 summary: La antigua Kámiros ha sido llamada la Pompeya de Grecia aunque es una comparación
   un tanto traída de los cabellos puesto que Pompeya, como es bien sabido, fue enterrada
   de manera dramática bajo la lava del volcán Vesubio mientras que Kámiros fue abandonada
@@ -144,5 +144,5 @@ sections:
       href: img/ancient_kameiros/ancient_kameiros_14.jpg
       alt: 'Museo del Louvre: Cerámicas encontradas en Kamiros'
       caption: ''
-
 ---
+

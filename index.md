@@ -1,8 +1,8 @@
 ---
+permalink: index.htm
 layout: home
 type: home
 id: home
-permalink: index.htm
 has_form: false
 has_gallery: false
 trip_advisor_alt: true
@@ -59,5 +59,5 @@ end_page:
     All our tours are fully customizable to suit your travel needs, interests, schedules,
     and dates.'
   short_text: Experts in Private Tours of Rhodes
-
 ---
+

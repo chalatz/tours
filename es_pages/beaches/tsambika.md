@@ -1,6 +1,7 @@
 ---
-layout: es/beach
+title: Playa de TSAMBIKA Rodas Grecia (TSAMPIKA)
 permalink: tsambika_playa_rodas_grecia.htm
+layout: es/beach
 has_gallery: true
 id: beach_site_tsambika
 ref: beach_site_tsambika
@@ -16,7 +17,6 @@ meta:
   abstract: Tsambika, Playa de Tsambika Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: Playa de TSAMBIKA Rodas Grecia (TSAMPIKA)
 info:
 - label: Localización
   text: a 30 Kms. (18,64 millas) de la ciudad de Rodas en la Costa Este
@@ -44,6 +44,6 @@ gallery_rows:
     alt: Playa de TSAMBIKA Rodas Grecia (TSAMPIKA)
 related_tours:
 - Beach Tour of Rhodes-DT7
-
 ---
+
 Una larga y ancha playa de fina arena dorada. Arriba, en la cima de la colina está el Monasterio de la Virgen de Tsambika, de la que la playa ha tomado su nombre. Hay una abundante cantidad de camas de sol para que se tumbe y trabaje en su bronceado. También dispone de todo tipo de deportes acuáticos, algunas pequeñas cantinas y un restaurante.

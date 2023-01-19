@@ -1,6 +1,7 @@
 ---
-layout: partner
+title: BARCELONA PRIVATE SHORE EXCURSIONS
 permalink: barcelona_personaltourguide_privateshoreexcursions.htm
+layout: partner
 has_gallery: false
 id: partner_barcelona_personaltourguide_privateshoreexcursions
 meta:
@@ -15,11 +16,10 @@ meta:
   abstract: BARCELONA PRIVATE SHORE EXCURSIONS
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-title: BARCELONA PRIVATE SHORE EXCURSIONS
 subtitles:
 - Barcelona Day Tours with Personal Tour Guide
-
 ---
+
 For private and small-group excursions in and around Barcelona, contact us at  [info@BarcelonaDayTours.com](mailto:info@BarcelonaDayTours.com)
 
 We offer the best value for money excursions in Barcelona with pickup and drop off at the hotels, cruise ship, and airport.

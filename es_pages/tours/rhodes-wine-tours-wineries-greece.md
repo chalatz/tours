@@ -1,9 +1,10 @@
 ---
+title: '"Rodas, Ruta del Vino"'
+permalink: ruta_vinos_griegos_bodegas_grecia.htm
 layout: es/tour
 type: driving_tours_page
 id: wine_tours
 ref: wine_tours
-permalink: ruta_vinos_griegos_bodegas_grecia.htm
 has_form: true
 has_gallery: true
 is_of: driven_tours
@@ -20,7 +21,6 @@ meta:
     Cata de vino gratis, Vinos de Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-title: '"Rodas, Ruta del Vino"'
 summary:
   paragraphs:
   - Esta excursión es para personas que saben apreciar "la bebida de los dioses".   ¿Por
@@ -320,5 +320,5 @@ body:
 end_page:
   long_text: ''
   short_text: ''
-
 ---
+

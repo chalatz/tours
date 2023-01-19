@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Rhodes East Coast in Pictures - Photo Gallery
 permalink: rhodes_east_coast_taxi_tour.htm
+layout: photo-tour
 has_gallery: true
 id: site_east_coast
 ref: site_east_coast
@@ -14,7 +15,6 @@ meta:
   abstract: Rhodes Taxi Tours
   http_desc: Rhodes Taxi Tours Greece, Rhodes Private Taxi Tours, Rhodes Taxi Tour
 keyphrase: Rhodes Taxi Tours
-title: Rhodes East Coast in Pictures - Photo Gallery
 sections:
 - desc: We set out from the town towards the southeast, along the road which runs
     parallel to the eastern coast of the island. We drive through the seaside settlements
@@ -181,5 +181,5 @@ end_page:
     and dates."
   short_text: 'Experts in Rhodes Taxi Tours   '
 no_related_tours_text: ''
-
 ---
+

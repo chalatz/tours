@@ -1,6 +1,7 @@
 ---
-layout: photo-tour
+title: Rhodes Pottery Greece - Handmade
 permalink: handmade_pottery_greece.htm
+layout: photo-tour
 has_gallery: true
 id: info_handmade_pottery
 ref: info_handmade_pottery
@@ -21,7 +22,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Rhodes Pottery Greece, Handmade in Greece Pottery
-title: Rhodes Pottery Greece - Handmade
 summary: Pottery was produced by the Greeks from early period. It represents an important
   record and source of analysis for understanding vary historical periods of the Greek
   ancient life. Rhodes Island is known for its tradition in pottery and ceramics,
@@ -193,5 +193,5 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Pottery Tours
 no_related_tours_text: ''
-
 ---
+
