@@ -32,6 +32,10 @@ langs:
 
 default_lang: en
 
+collections:
+  reviews:
+    sort_by: year
+
 defaults:
   - scope:
       path: "pages"
@@ -67,7 +71,7 @@ defaults:
       path: "pages/test"
       type: "pages"
     values:
-      sitemap: false    
+      sitemap: false
 
 # Build settings
 markdown: kramdown
@@ -92,4 +96,4 @@ exclude:
   - dist
   - gulpfile.js
   - package.json
-  - package-lock.json 
+  - package-lock.json
