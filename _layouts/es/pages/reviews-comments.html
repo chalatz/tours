@@ -54,8 +54,8 @@ layout: es/plain-page
 
   <section class="page__content">
     <ul class="reviews-comments__years-list">
-        {%- for review in reviews_page.reviews -%}
-          {%- if review.text and review.text.size > 0 -%}
+        {%- for review in site.esreviews reversed -%}
+          {%- if review.content and review.content.size > 1 -%}
             <li class="reviews-comments__years-list-item">
               <a href="#{{- review.year -}}" class="reviews-comments__years-list-link">
                 {{- review.year -}}
@@ -72,8 +72,8 @@ layout: es/plain-page
         Opiniones y Comentarios sobre Tours en Rodas Grecia
       </h2>
     {%- endif -%}
-    {%- for review in reviews_page.reviews -%}
-      {%- if review.text and review.text.size > 0 -%}
+    {%- for review in site.esreviews reversed -%}
+      {%- if review.content and review.content.size > 1 -%}
         <span class="anchor-section" id="{{- review.year -}}"></span>
         {%- if page.lang == 'es' -%}
           <h3>
@@ -85,7 +85,7 @@ layout: es/plain-page
           </h3>
         {%- endif -%}
         <div class="reviews-comments__content">
-          {{ review.text | markdownify }}
+          {{ review.content | markdownify }}
         </div>
         {%- if page.lang == 'en' -%}
           <div class="reviews-comments__go-to-top">

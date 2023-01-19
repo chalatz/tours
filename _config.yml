@@ -9,6 +9,10 @@ collections:
     title: Reviews
     output: false
     sort_by: year
+  esreviews:
+    title: Spanish Reviews
+    output: false
+    sort_by: year
   uploads:
     title: Uploads
     output: true
