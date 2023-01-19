@@ -45,8 +45,8 @@ layout: plain-page
 
   <section class="page__content">
     <ul class="reviews-comments__years-list">
-        {%- for review in reviews_page.reviews -%}
-          {%- if review.text and review.text.size > 0 -%}
+        {%- for review in site.reviews reversed -%}
+          {%- if review.content and review.content.size > 1 -%}
             <li class="reviews-comments__years-list-item">
               <a href="#{{- review.year -}}" class="reviews-comments__years-list-link">
                 {{- review.year -}}
@@ -58,14 +58,14 @@ layout: plain-page
   </section>
 
   <section class="page__content page__content--plain-page">
-    {%- for review in reviews_page.reviews -%}
-      {%- if review.text and review.text.size > 0 -%}
+    {%- for review in site.reviews reversed -%}
+      {%- if review.content and review.content.size > 1 -%}
         <span class="anchor-section" id="{{- review.year -}}"></span>
         <h3>
           REVIEWS - TESTIMONIALS {{ review.year }}
         </h3>
         <div class="reviews-comments__content">
-          {{ review.text | markdownify }}
+          {{ review.content | markdownify }}
         </div>
         <div class="reviews-comments__go-to-top">
           <a href="#reviews-top" class="reviews-comments__go-to-top-link">
