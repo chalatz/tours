@@ -1,53 +1,45 @@
 ---
 layout: es/plain-page
 ---
-
-{%- for page in site.pages -%}
-    {%- if page.id == 'reviews_comments_content_es' -%}
-        {%- assign reviews_page = page -%}
-        {% break %}
-    {%- endif -%}
-{%- endfor -%}
-
 <main class="container page reviews-comments">
 
   <div class="page__headings">
 
     {%- assign has_subcontent = false -%}
-    {%- if reviews_page.subtitle.size > 0 and reviews_page.subtitle2.size > 0 and reviews_page.content.size > 1 -%}
+    {%- if page.subtitle.size > 0 and page.subtitle2.size > 0 and page.content.size > 1 -%}
       {%- assign has_subcontent = true -%}
     {%- endif -%}
 
 
     <span class="anchor-section" id="reviews-top"></span>
     <h1 class="page__title page__title--plain-page page__title--reviews_comments_page{% if has_subcontent == false %} mb-3{% endif %}">
-      {{- reviews_page.title | upcase -}}
+      {{- page.title | upcase -}}
     </h1>
 
-    {%- if reviews_page.subtitle and reviews_page.subtitle.size > 0 -%}
+    {%- if page.subtitle and page.subtitle.size > 0 -%}
       <p class="page__subtitle page__subtitle--plain-page page__subtitle--reviews_comments_page">
-        {{- reviews_page.subtitle -}}
+        {{- page.subtitle -}}
       </p>
     {%- endif -%}
 
   </div>
 
-  {%- if reviews_page.content.size > 1 -%}
+  {%- if page.content.size > 1 -%}
     <section class="page__content page__content--plain-page page__content--header">
-      {{ reviews_page.content | markdownify }}
+      {{ content }}
     </section>
   {%- endif -%}
 
-  {%- if reviews_page.subtitle2 and reviews_page.subtitle2.size > 0 -%}
+  {%- if page.subtitle2 and page.subtitle2.size > 0 -%}
     <h2 class="page__subtitle page__subtitle--plain-page page__subtitle--reviews_comments_page centered mt-2 mb-2">
-      {{- reviews_page.subtitle2 -}}
+      {{- page.subtitle2 -}}
     </h2>
   {%- endif -%}
 
   <section class="page__content reviews-comments__carousel">
-    {%- for i in (1..20) -%}
+    {%- for i in (1..19) -%}
       <div class="reviews-comments__carousel-item hidden">
-        <img src="./img/pages/reviews/A{{ i }}.jpg" alt="">
+        <img src="/img/pages/reviews/A{{ i }}.jpg" alt="">
       </div>
     {%- endfor -%}
   </section>
