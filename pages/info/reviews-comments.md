@@ -1,4 +1,5 @@
 ---
+title: Reviews, Comments and Testimonials of our Clients
 permalink: testimonials.htm
 layout: pages/reviews-comments
 type: plain_page
@@ -8,7 +9,6 @@ banners_below: true
 has_form: false
 has_gallery: false
 has_carousel: true
-title: Reviews, Comments and Testimonials of our Clients
 meta:
   title: Reviews, Rhodes Private Tours
   http_desc: Reviews, Rhodes Private Tours, Testimonials
@@ -21,6 +21,7 @@ subtitle: We have been offering our high standard Private Tour Services since 19
   and we've been online since 1998
 subtitle2: They Came as First Time Clients, Left as Friends
 ---
+
 A big "THANKS" to all who have or will use our services and have given their support in some way.
 
 In particular the following whom we remember with fondness:  Claudia Freeman, Donna & Greg Alaimo, Priscilla Davenport, Elaine J. Giamona, Karin Olavarria, Barbara, Jo-Ann Hoagland, Rennee & Howard Latty, Dick & Judy Fejfar, Graham & Nancy Whittenberg, Sandi Morgan-Jones, Allen O'Dell, Judy Schultz, Jim & Shirley Tolbert, Dick Johns and last but not least Mr. Rusty.

@@ -1,4 +1,5 @@
 ---
+title: Opiniones y Comentarios sobre Tours en Rodas Grecia
 permalink: opiniones-comentarios-sobre-tours-rodas-grecia.htm
 layout: es/pages/reviews-comments
 type: plain_page
@@ -8,7 +9,6 @@ banners_below: true
 has_form: false
 has_gallery: false
 has_carousel: true
-title: Opiniones y Comentarios sobre Tours en Rodas Grecia
 meta:
   title: Opiniones y Comentarios sobre Tours en Rodas Grecia
   http_desc: Opiniones y Comentarios sobre Tours en Rodas Grecia, Testimonios sobre
@@ -21,3 +21,4 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
 ---
+
