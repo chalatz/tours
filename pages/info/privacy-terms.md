@@ -105,4 +105,4 @@ If you experienced any issues during your tour and did not call the company duri
 
 If you have any questions regarding our Terms and Conditions, or there is something you do not understand, please feel free to ask us via email and we will be more than happy to answer any questions you may have. info@RhodesPrivateTours.com
 
-Last Updated: May 27, 2019
+Last Updated: February 6, 2023
