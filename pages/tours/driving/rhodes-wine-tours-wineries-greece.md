@@ -52,6 +52,7 @@ overview:
   - title: 'On the way we visit:'
   - title: The Anastasia's Boutique Winery
   - title: 'We arrive to Embona Village and visit:'
+  - title: The Cava Stafylos Wine Tasting
   - title: The Dionysos Free Wine Tasting
   - title: The Kounakis Traditional Winery
   - title: The Alexandris Winery
@@ -266,6 +267,31 @@ body:
   - thumb: "./img/Tour5/rhodes_private_tour_greece_mod_thumb.jpg"
     href: "./img/Tour5/rhodes_private_tour_greece_mod_1.jpg"
     alt: Rhodes Private tour Greece
+    position: following
+- text: |-
+    **CAVA STAFYLOS**
+
+    Once we arrive at Embona village we visit the Cava Stafylos, here you can taste some of the best local wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only three years old, but the family's experience with the vineyards began about three generations ago and they still make their own wines to these days.  Their goal is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and deferent Spices.  (Stop Visit Taste Photos)
+  gallery:
+  - thumb: "./img/Tour5/thumb-stafylos-1.jpg"
+    href: "./img/Tour5/stafylos-1.jpg"
+    alt: Best wine tours of Rhodes
+    position: first
+  - thumb: "./img/Tour5/thumb-stafylos-2.jpg"
+    href: "./img/Tour5/stafylos-2.jpg"
+    alt: Rhodes wine tour
+    position: following
+  - thumb: "./img/Tour5/thumb-stafylos-3.jpg"
+    href: "./img/Tour5/stafylos-3.jpg"
+    alt: Rhodes wineries
+    position: following
+  - thumb: "./img/Tour5/thumb-stafylos-4.jpg"
+    href: "./img/Tour5/stafylos-4.jpg"
+    alt: Rhodes best wines
+    position: following
+  - thumb: "./img/Tour5/thumb-stafylos-5.jpg"
+    href: "./img/Tour5/stafylos-5.jpg"
+    alt: Rhodes Shore Excursions Greece
     position: following
 - text: |-
     **KOUNAKIS WINERY**
