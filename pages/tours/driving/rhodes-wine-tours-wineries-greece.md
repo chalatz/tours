@@ -244,31 +244,6 @@ body:
     alt: Rhodes wine tour Greece
     position: following
 - text: |-
-    **DIONYSOS WINES FROM MERKOURIS FAMILY**
-
-    We continue with Dionysos Free Wine Tasting. Here you can taste a big variety of fresh wines and the strong local spirit Souma of Merkouris Winery.
-  gallery:
-  - thumb: "./img/Tour5/rhodes_wine_tours_kounakis_1_thumb.jpg"
-    href: "./img/Tour5/rhodes_wine_tours_kounakis_1.jpg"
-    alt: Rhodes best wines
-    position: first
-  - thumb: "./img/Tour5/IMGP1009_mod_thumb.jpg"
-    href: "./img/Tour5/IMGP1009_mod_1.jpg"
-    alt: Wine tour of Rhodes Greece
-    position: following
-  - thumb: "./img/Tour5/rhodes_wine_tours_kounakis_3_thumb.jpg"
-    href: "./img/Tour5/rhodes_wine_tours_kounakis_3.jpg"
-    alt: Best wines of Rhodes Greece
-    position: following
-  - thumb: "./img/Tour5/IMGP1013_mod_small.jpg"
-    href: "./img/Tour5/IMGP1013_mod.jpg"
-    alt: Wineries of Rhodes Greece
-    position: following
-  - thumb: "./img/Tour5/rhodes_private_tour_greece_mod_thumb.jpg"
-    href: "./img/Tour5/rhodes_private_tour_greece_mod_1.jpg"
-    alt: Rhodes Private tour Greece
-    position: following
-- text: |-
     **CAVA STAFYLOS**
 
     Once we arrive at Embona village we visit the Cava Stafylos, here you can taste some of the best local wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only three years old, but the family's experience with the vineyards began about three generations ago and they still make their own wines to these days.  Their goal is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and deferent Spices.  (Stop Visit Taste Photos)
@@ -292,6 +267,31 @@ body:
   - thumb: "./img/Tour5/thumb-stafylos-5.jpg"
     href: "./img/Tour5/stafylos-5.jpg"
     alt: Rhodes Shore Excursions Greece
+    position: following
+- text: |-
+    **DIONYSOS WINES FROM MERKOURIS FAMILY**
+
+    We continue with Dionysos Free Wine Tasting. Here you can taste a big variety of fresh wines and the strong local spirit Souma of Merkouris Winery.
+  gallery:
+  - thumb: "./img/Tour5/rhodes_wine_tours_kounakis_1_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_kounakis_1.jpg"
+    alt: Rhodes best wines
+    position: first
+  - thumb: "./img/Tour5/IMGP1009_mod_thumb.jpg"
+    href: "./img/Tour5/IMGP1009_mod_1.jpg"
+    alt: Wine tour of Rhodes Greece
+    position: following
+  - thumb: "./img/Tour5/rhodes_wine_tours_kounakis_3_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_kounakis_3.jpg"
+    alt: Best wines of Rhodes Greece
+    position: following
+  - thumb: "./img/Tour5/IMGP1013_mod_small.jpg"
+    href: "./img/Tour5/IMGP1013_mod.jpg"
+    alt: Wineries of Rhodes Greece
+    position: following
+  - thumb: "./img/Tour5/rhodes_private_tour_greece_mod_thumb.jpg"
+    href: "./img/Tour5/rhodes_private_tour_greece_mod_1.jpg"
+    alt: Rhodes Private tour Greece
     position: following
 - text: |-
     **KOUNAKIS WINERY**
