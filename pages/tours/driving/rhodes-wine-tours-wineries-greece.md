@@ -1,7 +1,7 @@
 ---
 title: '"Rhodes Wine Tour" DT5'
 permalink: rhodes_wine_tours_wineries_greece.htm
-layout: tour
+layout: wine-tour
 type: driving_tours_page
 id: wine_tours
 has_form: true
@@ -154,8 +154,7 @@ gallery:
 faq:
   items:
   - q: Do we have to pay for the wine tasting? Are there any entrance fees?
-    a: 5 Euros per person entrance fee at Anastasia’s winery, and 5 Euros at Kounakis
-      winery
+    a: 5 Euros per person entrance fee at Anastasia’s winery, 5 Euros at Kounakis winery and 5 Euros at the Cava Stafylos.
   - q: We aren't big wine connoisseurs but do appreciate it, can we taste any type
       of wine we wish?
     a: Yes of course.
@@ -194,34 +193,30 @@ body:
     Then you'll be driven to **South West of Rhodes 55 km / 37 miles** to Embona Village
     using an inland route."
   gallery:
-  - thumb: "./img/Tour5/IMGP0905_mod_small.jpg"
-    href: "./img/Tour5/IMGP0905_mod.jpg"
+  - thumb: "./img/Tour5/wineries-highlights-thumb-1.jpg"
+    href: "./img/Tour5/wineries-highlights-1.jpg"
     alt: Best wine tours of Rhodes
     position: first
-  - thumb: "./img/Tour5/IMGP0904_mod_small.jpg"
-    href: "./img/Tour5/IMGP0904_mod.jpg"
+  - thumb: "./img/Tour5/wineries-highlights-thumb-2.jpg"
+    href: "./img/Tour5/wineries-highlights-2.jpg"
     alt: Wineries of Rhodes Greeces
     position: following
-  - thumb: "./img/Tour5/rhodes_wine_tours_triantafillou_3_thumb.jpg"
-    href: "./img/Tour5/rhodes_wine_tours_triantafillou_3.jpg"
+  - thumb: "./img/Tour5/wineries-highlights-thumb-3.jpg"
+    href: "./img/Tour5/wineries-highlights-3.jpg"
     alt: Best wine tours of Rhodes
     position: following
-  - thumb: "./img/Tour5/rhodes_wine_tours_triantafillou_4_thumb.jpg"
-    href: "./img/Tour5/rhodes_wine_tours_triantafillou_4.jpg"
+  - thumb: "./img/Tour5/wineries-highlights-thumb-4.jpg"
+    href: "./img/Tour5/wineries-highlights-4.jpg"
     alt: Rhodes wine tour
     position: following
-  - thumb: "./img/Tour5/rhodes_taxi_tour_greece_mod_thumb.jpg"
-    href: "./img/Tour5/rhodes_taxi_tour_greece_mod.jpg"
+  - thumb: "./img/Tour5/wineries-highlights-thumb-5.jpg"
+    href: "./img/Tour5/wineries-highlights-5.jpg"
     alt: Rhodes Taxi Tour Greece
     position: following
 - text: |-
     **THE TRADITIONAL WINERY OF Mrs. ANASTASIA - FREE WINE AND OLIVE OIL TASTING**
 
     On the way we stop close to the Valley of the Butterflies to a small traditional local winery of Mrs. Anastasia. The Anastasia's winery was started on 1995 and later on 2002 moved here to this beautiful location. She started with only two wines and now she is producing more than 10 different type of wines. **Athiri, Red wine Mandilari, Muscat, Cabernet Sauvignon**......She is also producing **Souma** (distillate of wine) and extra virgin olive oil, you can have a free olive oil tasting.  She is using biological - organic growth and biological - organic process for the vineyards and wines. Here you have the opportunity to test all the types of wines she produces, and get your pictures of the ageing facilities.
-
-    **THE JOURNEY TO EMBONA VILLAGE**
-
-    Then we continue south west to Embona, admire the Island's lush vegetation along the drive towards this beautiful village which has known days of glory in the past. The drive along the mountains path will surely reward the visitor. Empona the large village at the foot of Ataviros mountain, is the most important grape producing village on the island, which combines folklore, a lively atmosphere and good food at the local traditional tavernas.
 - gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_1_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_1.jpg"
@@ -244,9 +239,13 @@ body:
     alt: Rhodes wine tour Greece
     position: following
 - text: |-
+    **THE JOURNEY TO EMBONA VILLAGE**
+
+    Then we continue south west to Embona, admire the Island's lush vegetation along the drive towards this beautiful village which has known days of glory in the past. The drive along the mountains path will surely reward the visitor. Empona the large village at the foot of Ataviros mountain, is the most important grape producing village on the island, which combines folklore, a lively atmosphere and good food at the local traditional tavernas.
+- text: |-
     **CAVA STAFYLOS**
 
-    Once we arrive at Embona village we visit the Cava Stafylos, here you can taste some of the best local wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only three years old, but the family's experience with the vineyards began about three generations ago and they still make their own wines to these days.  Their goal is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and deferent Spices.  (Stop Visit Taste Photos)
+    Once we arrive at Embona village we visit the Cava Stafylos, then you can taste some of the stylish original wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only three years old, but the family's experience with the wines began about three generations ago and they still make their own wines to these days. Their plan is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and deferent Spices.
   gallery:
   - thumb: "./img/Tour5/thumb-stafylos-1.jpg"
     href: "./img/Tour5/stafylos-1.jpg"
@@ -271,7 +270,7 @@ body:
 - text: |-
     **DIONYSOS WINES FROM MERKOURIS FAMILY**
 
-    We continue with Dionysos Free Wine Tasting. Here you can taste a big variety of fresh wines and the strong local spirit Souma of Merkouris Winery.
+    We continue with Dionysos Free Wine Tasting. Here you can taste a big variety of fresh wines and the strong local spirit Souma of Merkouris Winery. They also produced the first organic wine in Rhodes.
   gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_kounakis_1_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_kounakis_1.jpg"

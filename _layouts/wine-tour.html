@@ -1,0 +1,259 @@
+---
+layout: default
+---
+
+{%- if page.is_of == 'driven_tours' -%}
+    {%- assign the_type = 'driving' -%}
+{%- elsif page.is_of == 'guided_tours' -%}
+    {%- assign the_type = 'guided' -%}
+{%- elsif page.is_of == 'walking_tours' -%}
+    {%- assign the_type = 'walking' -%}
+{%- endif -%}
+
+<main class="tour">
+
+    <header class="tour_header section container">
+        <h1 class="tour__heading tour__heading--{{ the_type }}">
+            {{- page.tour.title -}}
+        </h1>
+        {%- if page.tour.summary and page.tour.summary.size > 0 -%}
+            <p class="tour__summary tour__summary--tour">
+                {{- page.tour.summary -}}
+            </p>
+        {%- endif -%}
+
+        {%- unless page.description_at_the_top == true -%}
+            {%- assign summary_paragraphs_size = page.summary.paragraphs | size -%}
+            {%- if summary_paragraphs_size > 0 -%}
+                {% for paragraph in page.summary.paragraphs %}
+                    <p class="tour__summary">
+                        {{- paragraph -}}
+                    </p>
+                {% endfor %}
+            {%- endif -%}
+        {%- endunless -%}
+    </header>
+
+    {%- if page.description_at_the_top == true -%}
+        <section class="section container md-content">
+            {{ content }}
+        </section>
+    {%- endif -%}
+
+    {%- assign overview_items_size = page.overview.items | size -%}
+    {%- if page.overview and overview_items_size > 0 -%}
+        <section class="section container">
+            <h3 class="tour__h3">
+                Private Tour Overview {% if page.tour.duration and page.tour.duration.size > 0 %}- {{ page.tour.duration }} {% endif %}
+            </h3>
+
+            <ul class="tour__overview-list">
+                {% for item in page.overview.items %}
+                    <li class="tour__overview-item{% if item.classes %} {{ item.classes }}{% endif %}">
+                        {{- item.title -}}
+                    </li>
+                {% endfor %}
+            </ul>
+        </section>
+    {%- endif -%}
+
+    {%- if page.gallery.group_1 -%}
+        <section class="section container">
+            {% include partials/tour-gallery.html gallery = page.gallery.group_1 %}
+        </section>
+    {%- endif -%}
+
+    {%- if page.details -%}
+        <section class="section container">
+            <h3 class="tour__h3">
+                Private Tour Details
+            </h3>
+
+            <div class="tour__content-wrapper">
+
+                <div class="tour__read-more">
+                    <span class="tour__read-more--content">
+                        <span class="text">Read</span> Details <i class="tour__read-more-arrow-icon icon fas fa-angle-down"></i>
+                    </span>
+                </div>
+
+                <div class="tour__content collapsible">
+                    {% for item in page.details.items %}
+                        <p><strong>{{ item.title }}</strong> {{ item.desc }}</p>
+                    {% endfor %}
+                </div>
+
+            </div>
+        </section>
+    {%- endif -%}
+
+    {%- comment -%} {%- if page.gallery.group_2 -%}
+        <section class="section container">
+            {% include partials/tour-gallery.html gallery = page.gallery.group_2 %}
+        </section>
+    {%- endif -%} {%- endcomment -%}
+
+    {%- assign has_description = false -%}
+
+    {%- if page.body -%}
+        {%- assign has_description = true -%}
+    {%- endif -%}
+
+    {%- include helpers/check_empty_string.html the_string = page.content -%}
+    {%- if string_not_empty  -%}
+        {%- assign has_description = true -%}
+    {%- endif -%}
+
+    {%- if has_description == true -%}
+        {%- unless page.description_at_the_top -%}
+            <section class="section container">
+
+                <h3 class="tour__h3">
+                    Private Tour Description:
+                </h3>
+
+                <div class="tour__content-wrapper">
+
+                    <div class="tour__read-more">
+                        <span class="tour__read-more--content">
+                            <span class="text">Read</span> Description <i class="tour__read-more-arrow-icon icon fas fa-angle-down"></i>
+                        </span>
+                    </div>
+
+                    <div class="tour__content collapsible">
+
+                        {%- if page.body -%}
+                            {%- for item in page.body -%}
+                                {%- if item.text -%}
+                                    {{ item.text | markdownify }}
+                                {%- endif -%}
+                                {%- if item.gallery -%}
+                                    {% include partials/tour-gallery.html gallery = item.gallery %}
+                                {%- endif -%}
+                            {%- endfor -%}
+                        {%- endif -%}
+                        {%- unless page.description_at_the_top == true -%}
+                            {{ content }}
+                        {%- endunless -%}
+                    </div>
+
+                </div>
+
+            </section>
+        {%- endunless -%}
+    {%- endif -%}
+
+    {%- if page.gallery.group_3 -%}
+        <section class="section container">
+            {% include partials/tour-gallery.html gallery = page.gallery.group_3 %}
+        </section>
+    {%- endif -%}
+
+    {%- if page.faq -%}
+        <section class="section container">
+            <h3 class="tour__h3">
+                Frequently Asked Questions
+            </h3>
+
+            <div class="tour__content-wrapper">
+
+                <div class="tour__read-more">
+                    <span class="tour__read-more--content">
+                        <span class="text">Read</span> FAQ <i class="tour__read-more-arrow-icon icon fas fa-angle-down"></i>
+                    </span>
+                </div>
+
+                <div class="tour__content faq collapsible">
+                    {% for item in page.faq.items %}
+                        <div class="faq__item">
+                            <p class="faq__q"><span class="faq__icon">+</span> <span class="faq__q-text">Q: {{ item.q }}</p>
+                            <p class="faq__a"><strong>A:</strong> {{ item.a }}</p>
+                        </div>
+                    {% endfor %}
+
+                    <p>
+                        <a href="./faq.htm">More Frequently Asked Questions</a>
+                    </p>
+
+                </div>
+
+            </div>
+        </section>
+    {%- endif -%}
+
+
+    <section class="section container">
+        <h3 class="tour__h3">
+            What is Included?
+        </h3>
+
+        <ul class="tour__overview-list">
+            {% for item in page.included.items %}
+                <li class="tour__overview-item">
+                    {{ item.text }}
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+
+    <section class="section container">
+        <h3 class="tour__h3">
+            What is Not Included?
+        </h3>
+
+        <ul class="tour__overview-list">
+            {% for item in page.not_included.items %}
+                <li class="tour__overview-item">
+                    {{ item.text }}
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+
+    <section class="section container tour__cta-links">
+        {%- assign top_ten_reasons_url = './book.htm' -%}
+        {%- if page.type == 'driving_tours_page' -%}
+            {%- assign top_ten_reasons_url = './top_10_reasons_to_book_with_us.htm' -%}
+        {%- endif -%}
+        <a href="{{- top_ten_reasons_url -}}" class="tour__cta-link">
+            {{- 'Top 10 Reasons to Book with Us' | upcase -}}
+        </a>
+        <a href="./testimonials.htm" class="tour__cta-link">
+            {{- 'Reviews and Comments from our Clients since 1998!' | upcase -}}
+        </a>
+    </section>
+
+
+    {% include partials/tour-form.html %}
+
+    <footer class="section tour__footer">
+        {% include partials/other-tours.html %}
+    </footer>
+
+
+    <div class="preload">
+        {%- assign group_1_size = page.gallery.group_1 | size -%}
+        {%- assign group_2_size = page.gallery.group_2 | size -%}
+        {%- assign group_3_size = page.gallery.group_3 | size -%}
+        {%- if group_1_size > 0 -%}
+            {%- include partials/preload_tour.html the_gallery = page.gallery.group_1 -%}
+        {%- endif -%}
+        {%- if group_2_size > 0 -%}
+            {%- include partials/preload_tour.html the_gallery = page.gallery.group_2 -%}
+        {%- endif -%}
+        {%- if group_3_size > 0 -%}
+            {%- include partials/preload_tour.html the_gallery = page.gallery.group_3 -%}
+        {%- endif -%}
+
+        {%- if page.body -%}
+            {%- for item in page.body -%}
+                {%- if item.gallery -%}
+                    {% include partials/preload_tour.html the_gallery = item.gallery %}
+                {%- endif -%}
+            {%- endfor -%}
+        {%- endif -%}
+    </div>
+
+</main>
+
+{%- include privacy-policy.html -%}
