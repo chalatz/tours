@@ -120,7 +120,7 @@ layout: default
                         </span>
                     </div>
 
-                    <div class="tour__content collapsible">
+                    <div class="tour__content wine-tour__content collapsible">
 
                         {%- if page.body -%}
                             {%- for item in page.body -%}
@@ -143,11 +143,11 @@ layout: default
         {%- endunless -%}
     {%- endif -%}
 
-    {%- if page.gallery.group_3 -%}
+    {%- comment -%} {%- if page.gallery.group_3 -%}
         <section class="section container">
             {% include partials/tour-gallery.html gallery = page.gallery.group_3 %}
         </section>
-    {%- endif -%}
+    {%- endif -%} {%- endcomment -%}
 
     {%- if page.faq -%}
         <section class="section container">

@@ -102,7 +102,7 @@
             padding: 0 3px;
             float: left;
             width: 20%;
-        }        
+        }
     }
 
     &__image-link {
@@ -127,9 +127,9 @@
             @include breakpoint(small) {
                 display: block !important;
             }
-        }        
+        }
     }
-            
+
     &__mini-heading {
         font-weight: bold;
         text-align: center;
@@ -239,7 +239,7 @@
             color: #fff;
             background-color: $red;
         }
-        @include breakpoint(medium) {   
+        @include breakpoint(medium) {
             display: inline-block;
             margin-right: 2rem;
             width: 45%;
@@ -276,7 +276,7 @@
             margin-bottom: -2rem;
         }
     }
-    
+
     &__cta-link {
         color: $darkergray;
         display: block;
@@ -353,10 +353,18 @@ ul.tour__summary--list {
         margin-top: -0.5rem;
         font-size: 1.5rem;
         transition: transform .2s linear;
-        
+
         @include breakpoint(medium) {
             display: none;
         }
     }
 
+}
+
+.wine-tour {
+    &__content {
+        .tour__gallery {
+            margin-bottom: 1.6rem;
+        }
+    }
 }

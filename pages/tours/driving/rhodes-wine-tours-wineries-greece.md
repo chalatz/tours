@@ -217,26 +217,26 @@ body:
     **THE TRADITIONAL WINERY OF Mrs. ANASTASIA - FREE WINE AND OLIVE OIL TASTING**
 
     On the way we stop close to the Valley of the Butterflies to a small traditional local winery of Mrs. Anastasia. The Anastasia's winery was started on 1995 and later on 2002 moved here to this beautiful location. She started with only two wines and now she is producing more than 10 different type of wines. **Athiri, Red wine Mandilari, Muscat, Cabernet Sauvignon**......She is also producing **Souma** (distillate of wine) and extra virgin olive oil, you can have a free olive oil tasting.  She is using biological - organic growth and biological - organic process for the vineyards and wines. Here you have the opportunity to test all the types of wines she produces, and get your pictures of the ageing facilities.
-- gallery:
-  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_1_thumb.jpg"
-    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_1.jpg"
-    alt: Rhodes best wines
+  gallery:
+  - thumb: "./img/Tour5/IMGP0905_mod_small.jpg"
+    href: "./img/Tour5/IMGP0905_mod.jpg"
+    alt: Best wine tours of Rhodes
     position: first
-  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_2_thumb.jpg"
-    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_2.jpg"
-    alt: Wine tour of Rhodes Greece
+  - thumb: "./img/Tour5/IMGP0904_mod_small.jpg"
+    href: "./img/Tour5/IMGP0904_mod.jpg"
+    alt: Wineries of Rhodes Greeces
     position: following
-  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_3_thumb.jpg"
-    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_3.jpg"
-    alt: Best wines of Rhodes Greece
+  - thumb: "./img/Tour5/rhodes_wine_tours_triantafillou_3_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_triantafillou_3.jpg"
+    alt: Best wine tours of Rhodes
     position: following
-  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_4_thumb.jpg"
-    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_4.jpg"
-    alt: Wineries of Rhodes Greece
+  - thumb: "./img/Tour5/rhodes_wine_tours_triantafillou_4_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_triantafillou_4.jpg"
+    alt: Rhodes wine tour
     position: following
-  - thumb: "./img/Tour5/rhodes_wine_tour_greece_mod_thumb.jpg"
-    href: "./img/Tour5/rhodes_wine_tour_greece_mod.jpg"
-    alt: Rhodes wine tour Greece
+  - thumb: "./img/Tour5/rhodes_taxi_tour_greece_mod_thumb.jpg"
+    href: "./img/Tour5/rhodes_taxi_tour_greece_mod.jpg"
+    alt: Rhodes Taxi Tour Greece
     position: following
 - text: |-
     **THE JOURNEY TO EMBONA VILLAGE**
@@ -272,6 +272,32 @@ body:
 
     We continue with Dionysos Free Wine Tasting. Here you can taste a big variety of fresh wines and the strong local spirit Souma of Merkouris Winery. They also produced the first organic wine in Rhodes.
   gallery:
+  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_1_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_1.jpg"
+    alt: Rhodes best wines
+    position: first
+  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_2_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_2.jpg"
+    alt: Wine tour of Rhodes Greece
+    position: following
+  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_3_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_3.jpg"
+    alt: Best wines of Rhodes Greece
+    position: following
+  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_4_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_4.jpg"
+    alt: Wineries of Rhodes Greece
+    position: following
+  - thumb: "./img/Tour5/rhodes_wine_tour_greece_mod_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tour_greece_mod.jpg"
+    alt: Rhodes wine tour Greece
+    position: following
+
+- text: |-
+    **KOUNAKIS WINERY**
+
+    The Kounakis Winery started from the grandfather Kyriakos Kounakis on 1928 and it still produce excellent wines till today, they can produce more than 20000 bottles of wine a year. They use the traditional natural way for growth and process. Athiri, Mandilaria (Amorgiano) Merlot, Grenache rouge, Syrah, Chardonnay. Here you can test free all the types of wines they produce, and get your pictures of the ageing facilities.
+  gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_kounakis_1_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_kounakis_1.jpg"
     alt: Rhodes best wines
@@ -293,9 +319,9 @@ body:
     alt: Rhodes Private tour Greece
     position: following
 - text: |-
-    **KOUNAKIS WINERY**
+    **ALEXANDRIS WINERY**
 
-    The Kounakis Winery started from the grandfather Kyriakos Kounakis on 1928 and it still produce excellent wines till today, they can produce more than 20000 bottles of wine a year. They use the traditional natural way for growth and process. Athiri, Mandilaria (Amorgiano) Merlot, Grenache rouge, Syrah, Chardonnay. Here you can test free all the types of wines they produce, and get your pictures of the ageing facilities.
+    The Alexandris Winery it is a small second generation wine producer, started by the father Michael, and now his sons Stergos and Panayiotis run the winery. Panayiotis studied in France Enologist Winemaker in the university of Montpellier, they use French wooden barrels, they produce **Red wine (VDQS), White wine from the white grape variety Athiri, Sweet white wine (VDQS)...** Free wine taste and pictures.
   gallery:
   - thumb: "./img/Tour5/IMGP1002_mod_thumb.jpg"
     href: "./img/Tour5/IMGP1002_mod_1.jpg"
@@ -317,19 +343,38 @@ body:
     href: "./img/Tour5/rhodes_shore_excursions_greece4_mod_1.jpg"
     alt: Rhodes Shore Excursions Greece
     position: following
+
 - text: |-
-    **ALEXANDRIS WINERY**
-
-    The Alexandris Winery it is a small second generation wine producer, started by the father Michael, and now his sons Stergos and Panayiotis run the winery. Panayiotis studied in France Enologist Winemaker in the university of Montpellier, they use French wooden barrels, they produce **Red wine (VDQS), White wine from the white grape variety Athiri, Sweet white wine (VDQS)...** Free wine taste and pictures.
-
     **BREAK FOR LUNCH**
 
     Break for Delicious Snack or Lunch Experiences at a Greek traditional tavern / Rhodian cuisine and excellent homemade wines. (at your own expense).  Embona also is a known place by locals coming from everywhere to eat grilled meat. Here you can really feel the Greek life; the wineries and restaurants have the perfect traditional sensation. Back through the west coast with breathtaking views of the Aegean Sea.
+  gallery:
+    - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_5_thumb.jpg"
+      href: "./img/Tour5/rhodes_wine_tours_wineries_greece_5.jpg"
+      alt: Best wine tours of Rhodes
+      position: first
+    - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_6_thumb.jpg"
+      href: "./img/Tour5/rhodes_wine_tours_wineries_greece_6.jpg"
+      alt: Rhodes wine tour
+      position: following
+    - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_7_thumb.jpg"
+      href: "./img/Tour5/rhodes_wine_tours_wineries_greece_7.jpg"
+      alt: Rhodes Embona Wineries
+      position: following
+    - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_8_thumb.jpg"
+      href: "./img/Tour5/rhodes_wine_tours_wineries_greece_8.jpg"
+      alt: 'Rhodes best wine makers '
+      position: following
+    - thumb: "./img/Tour5/rhodes_free_wine_tasting_greece_mod_small.jpg"
+      href: "./img/Tour5/rhodes_free_wine_tasting_greece_mod.jpg"
+      alt: Rhodes free wine tasting Greece
+      position: following
 
+- text: |-
     **BACK TO THE STARTING POINT**
 
     Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
-  gallery: []
+
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
     Tour Experiences. We deliver Private Wine Tours at very affordable rates. All
