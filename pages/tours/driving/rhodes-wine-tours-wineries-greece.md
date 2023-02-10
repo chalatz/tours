@@ -154,7 +154,8 @@ gallery:
 faq:
   items:
   - q: Do we have to pay for the wine tasting? Are there any entrance fees?
-    a: 5 Euros per person entrance fee at Anastasia’s winery, 5 Euros at Kounakis winery and 5 Euros at the Cava Stafylos.
+    a: 5 Euros per person entrance fee at Anastasia’s winery, 5 Euros at Kounakis
+      winery and 5 Euros at the Cava Stafylos.
   - q: We aren't big wine connoisseurs but do appreciate it, can we taste any type
       of wine we wish?
     a: Yes of course.
@@ -292,7 +293,6 @@ body:
     href: "./img/Tour5/rhodes_wine_tour_greece_mod.jpg"
     alt: Rhodes wine tour Greece
     position: following
-
 - text: |-
     **KOUNAKIS WINERY**
 
@@ -343,38 +343,35 @@ body:
     href: "./img/Tour5/rhodes_shore_excursions_greece4_mod_1.jpg"
     alt: Rhodes Shore Excursions Greece
     position: following
-
 - text: |-
     **BREAK FOR LUNCH**
 
     Break for Delicious Snack or Lunch Experiences at a Greek traditional tavern / Rhodian cuisine and excellent homemade wines. (at your own expense).  Embona also is a known place by locals coming from everywhere to eat grilled meat. Here you can really feel the Greek life; the wineries and restaurants have the perfect traditional sensation. Back through the west coast with breathtaking views of the Aegean Sea.
   gallery:
-    - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_5_thumb.jpg"
-      href: "./img/Tour5/rhodes_wine_tours_wineries_greece_5.jpg"
-      alt: Best wine tours of Rhodes
-      position: first
-    - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_6_thumb.jpg"
-      href: "./img/Tour5/rhodes_wine_tours_wineries_greece_6.jpg"
-      alt: Rhodes wine tour
-      position: following
-    - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_7_thumb.jpg"
-      href: "./img/Tour5/rhodes_wine_tours_wineries_greece_7.jpg"
-      alt: Rhodes Embona Wineries
-      position: following
-    - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_8_thumb.jpg"
-      href: "./img/Tour5/rhodes_wine_tours_wineries_greece_8.jpg"
-      alt: 'Rhodes best wine makers '
-      position: following
-    - thumb: "./img/Tour5/rhodes_free_wine_tasting_greece_mod_small.jpg"
-      href: "./img/Tour5/rhodes_free_wine_tasting_greece_mod.jpg"
-      alt: Rhodes free wine tasting Greece
-      position: following
-
+  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_5_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_5.jpg"
+    alt: Best wine tours of Rhodes
+    position: first
+  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_6_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_6.jpg"
+    alt: Rhodes wine tour
+    position: following
+  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_7_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_7.jpg"
+    alt: Rhodes Embona Wineries
+    position: following
+  - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_8_thumb.jpg"
+    href: "./img/Tour5/rhodes_wine_tours_wineries_greece_8.jpg"
+    alt: 'Rhodes best wine makers '
+    position: following
+  - thumb: "./img/Tour5/rhodes_free_wine_tasting_greece_mod_small.jpg"
+    href: "./img/Tour5/rhodes_free_wine_tasting_greece_mod.jpg"
+    alt: Rhodes free wine tasting Greece
+    position: following
 - text: |-
     **BACK TO THE STARTING POINT**
 
     Upon returning to Rhodes Town, you may choose to be dropped back to your hotel or back to your ship, or near the city gates of the Old Town for independent browsing. You would then be responsible for your own return to the ship on foot, which will be docked approximately a quarter mile away.
-
 end_page:
   long_text: "**“Rhodes Private Tours”** is a Leading Provider of Exclusive and Personalized
     Tour Experiences. We deliver Private Wine Tours at very affordable rates. All
