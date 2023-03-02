@@ -176,7 +176,7 @@ end_page:
 
 Your tour will start from your designated point at the Cruise Port (or from your hotel). You will be guided to the **Medieval City**, passing through the **St. Catherine Gate** to visit the most important monuments of **the Burgos (town).** (Stop Photos)
 
-An interior wall running east-wide was used to divide the Medieval City into two unequal portions. The smaller, northerly portion was known as the **Collachium**. The much larger, southern quarter was known as **Burgo, Burgus, Burgum, and Hora (town).** The place was a melting pot that people from all walks of life called home, although the Greeks were in the majority.
+An interior wall running east-west was used to divide the Medieval City into two unequal portions. The smaller, northerly portion was known as the **Collachium**. The much larger, southern quarter was known as **Burgo, Burgus, Burgum, and Hora (town).** The place was a melting pot that people from all walks of life called home, although the Greeks were in the majority.
 
 Your friendly passionate tour guide will give provide you with a brief lesson in history and describe the alleyways of the medieval neighborhoods, its impressive buildings, and the different time periods that are a part of Rhodes. The medieval city was shaped by churches, mosques, and synagogues throughout the centuries. (Stop Photos)
 
