@@ -20,5 +20,7 @@ meta:
   abstract: Opiniones y Comentarios sobre Tours en Rodas Grecia
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
+redirect_from:
+  - testimonios.htm 
 ---
 
