@@ -21,6 +21,6 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
 redirect_from:
-  - testimonios.htm 
+- testimonios.htm
 ---
 
