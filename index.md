@@ -56,7 +56,7 @@ not_finding:
 end_page:
   long_text: '**"Rhodes Private Tours"** is a Provider of Exclusive and Personalized
     Tour Experiences. We deliver Private Sightseeing tours at very affordable rates.
-    All our tours are fully customizable to suit your travel needs, interests, schedules,
+    Rhodes Island Tours are fully customizable to suit your travel needs, interests, schedules,
     and dates.'
   short_text: Experts in Private Tours of Rhodes
 ---
