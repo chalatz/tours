@@ -64,7 +64,7 @@ details:
     desc: Moderate (or "Easy" if you skip the Acropolis of Lindos)
   - title: 'Private Tour Vehicle:'
     desc: Sedan Car Mercedes Benz - hold 4 passengers comfortably, plus the driver
-      (<a href="./group_mini_bus.htm">bigger group?</a>)
+      (<a href="./rhodes-group-tours.htm">bigger group?</a>)
   - title: 'Private Tour Driver:'
     desc: English speaking knowledgeable tour/driver specialize in Private Tours
   - title: 'Private Tour Start Time:'
@@ -224,7 +224,7 @@ included:
   - text: Private Tour (just your party)
   - text: Free Pick up and Drop off at Hotel / Port / Airport
   - text: Experienced knowledgeable Tour/Driver
-  - text: Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="./group_mini_bus.htm">or
+  - text: Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="./rhodes-group-tours.htm">or
       bigger vehicle</a>)
   - text: All Car and Driver Expenses (prices are per car not per person)
   - text: Personalized Customer Service

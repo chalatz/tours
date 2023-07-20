@@ -30,7 +30,7 @@ sections:
 - title: Available Cars
   subtitle: Luxury Vehicles with a High Safety Standard
   text: |-
-    We use Mercedes Benz Sedans. They are fully insured and primed for luxury. Every vehicle can carry four passengers besides the driver and each one is smoke free. [Bigger vehicles are available for groups](./group_mini_bus.htm)
+    We use Mercedes Benz Sedans. They are fully insured and primed for luxury. Every vehicle can carry four passengers besides the driver and each one is smoke free. [Bigger vehicles are available for groups](./rhodes-group-tours.htm)
 
     **Note:**  All cars are licensed by the Greek Ministry of Transport and checked by the Greek Transportation Checking Authority (KTEO) every year.
 links:

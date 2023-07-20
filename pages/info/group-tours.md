@@ -1,6 +1,8 @@
 ---
-title: Rhodes Private Group Tours
-permalink: group_mini_bus.htm
+title: RHODES GROUP TOURS
+permalink: rhodes-group-tours.htm
+redirect_from:
+  - group_mini_bus.htm
 layout: page
 type: group_tours_page
 id: group_tours_page
@@ -10,11 +12,11 @@ banners_2: true
 has_form: false
 has_gallery: true
 meta:
-  title: Bus Tours Rhodes, Group Tours in Rhodes
-  http_desc: Bus Tours Rhodes, Group Tours in Rhodes, Mini Bus Tours
-  description: Bus Tours Rhodes, Group Tours in Rhodes, Mini Bus Tours
-  keywords: Bus Tours Rhodes, Group Tours in Rhodes, Mini Bus Tours
-  abstract: Bus Tours Rhodes, Group Tours in Rhodes, Mini Bus Tours
+  title: Rhodes Group Tours, Group Tours in Rhodes
+  http_desc: Rhodes Group Tours, Group Tours in Rhodes
+  description: Rhodes Group Tours, Group Tours in Rhodes
+  keywords: Rhodes Group Tours, Group Tours in Rhodes, Bus Tours Rhodes, Mini Bus Tours
+  abstract: Rhodes Group Tours, Group Tours in Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
 subtitle: BUS TOURS IN RHODES

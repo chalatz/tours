@@ -63,7 +63,7 @@ details:
   - title: Private Tour Driver
     desc: English speaking professional driver specialize in Private Tours
   - title: 'Private Tour Vehicle:'
-    desc: Mercedes Benz - <a href="./group_mini_bus.htm">Depend on the size of your
+    desc: Mercedes Benz - <a href="./rhodes-group-tours.htm">Depend on the size of your
       group</a>
   - title: 'Private Tour Start Time:'
     desc: 8:30 AM. Or later. If you are a Cruise Ship Passenger - depend on your cruise
@@ -194,7 +194,7 @@ included:
   - text: Experienced Licensed Tour Guide - English Speaking
   - text: Full Narration in the Vehicle & Guided Tours on Sites
   - text: Professional Skilled Driver - English Speaking
-  - text: Mercedes Benz Vehicle - <a href="./group_mini_bus.htm">Depend on the size
+  - text: Mercedes Benz Vehicle - <a href="./rhodes-group-tours.htm">Depend on the size
       of your group</a>
   - text: Wireless Headsets to Hear Clearly your Tour Guide
   - text: Bottled Water

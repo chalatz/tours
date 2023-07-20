@@ -84,7 +84,7 @@ main:
         - title: 'RHODES TOUR BY NIGHT-WT3'
           url: './rhodesnightlife_rhodesbynight.htm'
     - title: GROUP TOURS
-      url: './group_mini_bus.htm'
+      url: './rhodes-group-tours.htm'
       type: group_tours_page
     - title: ACCESSIBLE TOURS
       url: './accessible_disabled.htm'
