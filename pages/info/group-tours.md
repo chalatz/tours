@@ -2,7 +2,7 @@
 title: RHODES GROUP TOURS
 permalink: rhodes-group-tours.htm
 redirect_from:
-  - group_mini_bus.htm
+- group_mini_bus.htm
 layout: page
 type: group_tours_page
 id: group_tours_page
@@ -15,7 +15,8 @@ meta:
   title: Rhodes Group Tours, Group Tours in Rhodes
   http_desc: Rhodes Group Tours, Group Tours in Rhodes
   description: Rhodes Group Tours, Group Tours in Rhodes
-  keywords: Rhodes Group Tours, Group Tours in Rhodes, Bus Tours Rhodes, Mini Bus Tours
+  keywords: Rhodes Group Tours, Group Tours in Rhodes, Bus Tours Rhodes, Mini Bus
+    Tours
   abstract: Rhodes Group Tours, Group Tours in Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
