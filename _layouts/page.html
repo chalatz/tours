@@ -19,7 +19,7 @@ layout: default
         </h1>  
       {%- endif -%}
 
-      {%- if page.subtitle -%}
+      {%- if page.subtitle.size > 0 -%}
         <h2 class="page__subtitle page__subtitle--{{ page.id }}">
           {%- if page.subtitle_text_transform == 'none' -%}
             {{- page.subtitle -}}

@@ -19,7 +19,7 @@ meta:
   abstract: Rhodes Group Tours, Group Tours in Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-subtitle: BUS TOURS IN RHODES
+subtitle: ''
 head_photo:
   src: "./img/tours-pages/head-photos/head-photo-group-tours.jpg"
   alt: Rhodes Island Private Group Tours
