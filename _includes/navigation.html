@@ -12,7 +12,7 @@
         <div class="container site-menu__items-container">
             {%- for item in site.data.navigation.main[page.lang].items -%}
                 {%- assign subitems_size = item.subitems | size -%}
-                <li role="menuitem" class="site-menu__item {% if page.type == item.type %}site-menu__item--active{% endif %}{% if subitems_size > 0 %} site-menu__item--with-subitems{% endif %}">
+                <li role="menuitem" class="site-menu__item {% if page.type == item.type || or page.id == item.type %}site-menu__item--active{% endif %}{% if subitems_size > 0 %} site-menu__item--with-subitems{% endif %}">
                     <a itemprop="url" class="site-menu__link" href="{{- item.url | absolute_url -}}">
                         <span itemprop="name">{{- item.title | upcase -}}</span>
                         {%- if subitems_size > 0 -%}

@@ -86,9 +86,6 @@ main:
     - title: GROUP TOURS
       url: './rhodes-group-tours.htm'
       type: group_tours_page
-    - title: ACCESSIBLE TOURS
-      url: './accessible_disabled.htm'
-      type: accessible_tours_page
     - title: SERVICES
       cta_title: VIEW MORE SERVICES
       url: './tour_services.htm'
@@ -112,6 +109,12 @@ main:
           url: './car_driver_hire.htm'
           id: car_driver_services_page
           cta_link: true
+        - title: ACCESSIBLE TOURS
+          url: './accessible_disabled.htm'
+          type: accessible_tours_page
+    - title: REVIEWS
+      url: './testimonials.htm'
+      type: reviews_comments_page
     - title: CONTACT US
       type: contact_page
       url: './contact_us.htm'
