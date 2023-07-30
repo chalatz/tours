@@ -2,7 +2,7 @@
 title: Rhodes Accessible Tours for Disabled Travellers
 permalink: accessible_disabled.htm
 layout: page
-type: accessible_tours_page
+type: services_page
 page_type: tours_page_alt
 id: accessible_tours_page
 ref: accessible_tours_page
