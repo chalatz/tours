@@ -17,7 +17,9 @@ meta:
   abstract: Reviews, Rhodes Private Tours, Testimonials
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-subtitle: We have been offering our high standard Private Tour Services since 1984 and we've been online since 1998.<br>Below you will find our visitor's comments, as we received them, many thanks to all – nice to know we are appreciated!!
+subtitle: We have been offering our high standard Private Tour Services since 1984
+  and we've been online since 1998.<br>Below you will find our visitor's comments,
+  as we received them, many thanks to all – nice to know we are appreciated!!
 subtitle2: ''
 ---
 
