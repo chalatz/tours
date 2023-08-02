@@ -2,9 +2,9 @@
 layout: plain-page
 ---
 
-<main class="container page reviews-comments">
+<main class="page reviews-comments">
 
-  <div class="page__headings">
+  <div class="container page__headings reviews-comments__headings">
 
     <span class="anchor-section" id="reviews-top"></span>
     <h1 class="page__title page__title--plain-page page__title--reviews_comments_page">
@@ -19,17 +19,19 @@ layout: plain-page
 
   </div>
 
-  <section class="page__content page__content--plain-page page__content--header">
+  {%- comment -%} <section class="container page__content page__content--plain-page page__content--header">
     {{ content }}
-  </section>
+  </section> {%- endcomment -%}
 
-  {%- if page.subtitle2 -%}
-    <p class="page__subtitle page__subtitle--plain-page page__subtitle--reviews_comments_page centered mt-2 mb-2">
+  {%- if page.subtitle2.size > 0 -%}
+    <p class="container page__subtitle page__subtitle--plain-page page__subtitle--reviews_comments_page centered mt-2 mb-2">
       {{- page.subtitle2 -}}
     </p>
   {%- endif -%}
 
-  <section class="page__content reviews-comments__carousel">
+  <div class="separator separator--home"></div>
+
+  <section class="container page__content reviews-comments__carousel">
     {%- for i in (1..19) -%}
       <div class="reviews-comments__carousel-item hidden">
         <img src="./img/pages/reviews/A{{ i }}.jpg" alt="">
@@ -37,7 +39,7 @@ layout: plain-page
     {%- endfor -%}
   </section>
 
-  <section class="page__content">
+  <section class="container page__content">
     <ul class="reviews-comments__years-list">
         {%- for review in site.reviews reversed -%}
           {%- if review.content and review.content.size > 1 -%}
@@ -51,7 +53,7 @@ layout: plain-page
     </ul>
   </section>
 
-  <section class="page__content page__content--plain-page">
+  <section class="container page__content page__content--plain-page">
     {%- for review in site.reviews reversed -%}
       {%- if review.content and review.content.size > 1 -%}
         <span class="anchor-section" id="{{- review.year -}}"></span>

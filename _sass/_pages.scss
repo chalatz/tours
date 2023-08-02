@@ -38,23 +38,21 @@
 
 .reviews-comments {
 
-    .page__headings {
-        color: $blue_alt;
-    }
-
     .page__title,
     .page__subtitle {
-        color: $blue_alt;
         text-shadow: none;
     }
 
-    .page__content--header {
-        color: $blue_alt;
+    &__headings {
+        margin-bottom: 2rem;
     }
 
     &__years-list {
         text-align: center;
-        padding-top: 2rem;
+        margin-top: 2rem;
+        padding-top: 1.5rem;
+        padding-bottom: 0.5rem;
+        background-color: $darkerblue;
         &-item {
             display: inline-block;
             margin: 0 .5rem 1rem .5rem;
@@ -65,8 +63,8 @@
             text-decoration: none;
             padding: 3px 12px;
             font-weight: bold;
-            color: $blue_alt;
-            border: 2px solid $blue_alt;
+            color: #000;
+            background-color: #fff;
             border-radius: 4px;
             transition: all .1s linear;
             &:hover {
@@ -113,6 +111,7 @@
     }
 
     &__carousel {
+        margin-top: 2rem;
         margin-bottom: 1rem;
     }
 
