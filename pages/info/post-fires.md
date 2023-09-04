@@ -16,6 +16,7 @@ meta:
   copyright: NK for Rhodes Private Tours,2021
 subtitle: ''
 ---
+
 Recently, our customers, having seen the news and social media coverage of the fires on Rhodes, have been asking us whether there is something left to visit or if Rhodes has been reduced to miles and miles of burned landscape. They were concerned about the Island and about us. Let us help put the situation into perspective for you.
 
 * At approximately 50 mi (80 km) long and 24 mi (38 km) wide, the Island of Rhodes is probably bigger than you think. The wildfires that burned for 12 days, destroyed only 15% of the landscape, not the whole island. The fire started on southwest and spread southeast to an area called Kiotari. (11 miles / 18 km south of Lindos)
