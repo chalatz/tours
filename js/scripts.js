@@ -324,9 +324,15 @@
     }
 
     var fill_year = function(){
-        var current_year = (new Date()).getFullYear();
+        var current_year = (new Date()).getFullYear(),
+            year_input = $('#year-input');
 
-        $('#year-input').val(current_year);
+        for (var i = 0; i < 6; i++) {
+            var the_option = current_year + i,
+                the_option_text = '<option value="' + the_option + '">' + the_option + '</option>';
+            year_input.append(the_option_text);
+        }
+
     };
 
 
