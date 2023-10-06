@@ -1,6 +1,6 @@
 - name: 'Best of Rhodes-DT1'
   desc: 'Half Day Private Tour'
-  url: ./best_of_rhodes_tours_greece.htm
+  url: ./best_of_rhodes_and_lindos_tour.htm
   img: './img/tours-suggestions/TOUR-1.jpg' 
   itinerary: 'Rhodes Medieval City / Rhodes New Town / Acropolis of Rhodes / East Coast of the Island / Village and Acropolis of Lindos'
   duration: 'Duration: 5:00 hours'
@@ -24,7 +24,7 @@
 
 - name: 'Rhodes Jewish Sights Plus-DT4'
   desc: 'Private Day Tour'
-  url: ./Jewish_sites_tours_greece.htm
+  url: ./jewish_tours_rhodes.htm
   img: './img/tours-suggestions/TOUR-4.jpg' 
   itinerary: 'Rhodes New Town / Rhodes Medieval City / Jewish Heritage / Jewish Quarter / East Coast of the Island / Lindos'
   duration: 'Duration: 6:00 hours'

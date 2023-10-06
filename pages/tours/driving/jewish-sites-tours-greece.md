@@ -1,6 +1,8 @@
 ---
 title: Rhodes Jewish Sights Plus DT4
-permalink: Jewish_sites_tours_greece.htm
+permalink: jewish_tours_rhodes.htm
+redirect_from:
+- Jewish_sites_tours_greece.htm
 layout: tour
 type: driving_tours_page
 id: jewish_sites
@@ -9,17 +11,13 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Jewish Tours in Rhodes, Jewish Sights Tour, Rhodes Jewish Tours, Rhodes Private
-    Tours Greece
-  description: Jewish Tours in Rhodes, Jewish Sights Tour, Rhodes Jewish Tour, Rhodes
-    Private Tours Greece
-  keywords: Rhodes private tours. Jewish Sights Tour, Rhodes Jewish Sights, Jewish
-    Sites, Greece
-  abstract: Rhodes Jewish Tours Greece
+  title: JEWISH TOUR RHODES, Jewish Tours in Rhodes Greece
+  description: Jewish Tour Rhodes, Jewish Tours in Rhodes Greece
+  keywords: Jewish Tour Rhodes, Jewish Tours in Rhodes, Jewish Sights, Rhodes Jewish Sites, Greece
+  abstract: Jewish Tour Rhodes, Jewish Tours in Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-  http_desc: Jewish Tours in Rhodes, Jewish Sights Tour, Rhodes Jewish Tours, Rhodes
-    Private Tours Greece
+  http_desc: Jewish Tour Rhodes, Jewish Tours in Rhodes Greece
 summary:
   paragraphs:
   - This tour is perfect for those who are interested in the Jewish community that
@@ -29,7 +27,7 @@ summary:
     Rounding out your tour is a beautiful trip to Lindos where another part of Rhodes'
     history combines with natural beauty enough to take your breath away!
 tour:
-  title: '"Rhodes Jewish Sights Plus" DT4'
+  title: JEWISH TOUR RHODES&nbsp;&nbsp;&nbsp;DT4
   summary: Rhodes New Town / Rhodes Medieval City / Jewish Heritage / Jewish Quarter
     / East Coast of the Island / Lindos
   duration: Day Tour

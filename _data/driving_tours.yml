@@ -3,7 +3,7 @@ items:
     desc: 'Ideal for cruise ship passengers and first-time visitors'
     long_desc: 'Highly suggested for cruise ship passengers with limited schedules, and first-time visitors. This Half Day Private Tour includes the highlights of Rhodes Medieval-town (World Heritage Site). The New-town, the Acropolis of Rhodes, the East Coast of the Island, and the Village and Acropolis of Lindos 50km (32mi) south east of Rhodes town.'
     notes: 'Suggested time for this tour: All year round'
-    url: ./best_of_rhodes_tours_greece.htm
+    url: ./best_of_rhodes_and_lindos_tour.htm
     img: './img/tours-suggestions/DT1.jpg' 
     duration: 'Duration: 5:00 hours'
     id: best_of_rhodes
@@ -33,7 +33,7 @@ items:
     desc: 'Perfect for those who are interested in the Jewish community of Rhodes'
     long_desc: 'Perfect for those who are interested in the Jewish community of Rhodes. This tour includes Rhodes New-town, the Jewish Quarter in the Old Town, the "Kahal Shalom” Synagogue, and Jewish Museum, the Jewish Cemetery, and the Acropolis of Lindos.'
     notes: 'Suggested time for this tour: All year round'
-    url: ./Jewish_sites_tours_greece.htm
+    url: ./jewish_tours_rhodes.htm
     img: './img/tours-suggestions/DT4.jpg' 
     duration: 'Duration: 6:00 hours'
     id: jewish_sites

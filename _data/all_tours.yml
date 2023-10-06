@@ -1,5 +1,5 @@
 - name: 'Best of Rhodes-DT1'
-  url: ./best_of_rhodes_tours_greece.htm
+  url: ./best_of_rhodes_and_lindos_tour.htm
   id: best_of_rhodes
   type: driving
 
@@ -14,7 +14,7 @@
   type: driving
 
 - name: 'Jewish Sites Plus-DT4'
-  url: ./Jewish_sites_tours_greece.htm
+  url: ./jewish_tours_rhodes.htm
   id: jewish_sites
   type: driving
 
