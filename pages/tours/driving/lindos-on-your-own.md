@@ -168,7 +168,7 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <span class="link_inline"><a href="food_greece_menus_meals_cuisine.htm">Traditional
-      Food of Rhodes</a></span>, <span class="link_inline"><a href="rhodes_wine_tours_wineries_greece.htm">Wines</a></span>,
+      Food of Rhodes</a></span>, <span class="link_inline"><a href="rhodes_wine_tasting_tour.htm">Wines</a></span>,
       the famous handmade <span class="link_inline"><a href="handmade_pottery_greece.htm">Rhodes
       Pottery, Ceramics</a></span>, and the beautiful <span class="link_inline"><a
       href="beach_tour_of_rhodes.htm">Rhodes Beaches</a></span>

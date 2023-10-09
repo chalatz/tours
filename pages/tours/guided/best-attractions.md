@@ -192,7 +192,7 @@ faq:
       of the Old Town.
   - q: What are the scrumptious delicacies Rhodes is famous for? What shouldn’t we
       miss?
-    a: The great <a href="./rhodes_wine_tours_wineries_greece.htm">wines</a> and <a
+    a: The great <a href="./rhodes_wine_tasting_tour.htm">wines</a> and <a
       href="./food_greece_menus_meals_cuisine.htm">traditional food</a> at Rhodes
       is worth every cent. The famous <a href="./handmade_pottery_greece.htm">pottery,
       ceramics</a>, and the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes

@@ -25,7 +25,7 @@ summary:
     and know that you have seen the most important sites. This private tour combines
     fabulous scenery with plenty of fascinating and historic sites.
 tour:
-  title: BEST OF RHODES AND LINDOS TOUR&nbsp;&nbsp;&nbsp;DT1
+  title: BEST OF RHODES AND LINDOS TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT1
   summary: Rhodes Medieval City / Rhodes New Town / Acropolis of Rhodes / East Coast
     of the Island / Village and Acropolis of Lindos
   duration: Half Day
@@ -211,7 +211,7 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <span class="link_inline"><a href="food_greece_menus_meals_cuisine.htm">Traditional
-      Food of Rhodes</a></span>, <span class="link_inline"><a href="rhodes_wine_tours_wineries_greece.htm">Wines</a></span>,
+      Food of Rhodes</a></span>, <span class="link_inline"><a href="rhodes_wine_tasting_tour.htm">Wines</a></span>,
       the famous handmade <span class="link_inline"><a href="handmade_pottery_greece.htm">Rhodes
       Pottery, Ceramics</a></span>, and the beautiful <span class="link_inline"><a
       href="beach_tour_of_rhodes.htm">Rhodes Beaches</a></span>

@@ -183,7 +183,7 @@ faq:
   - q: What are Rhodes’ famous delicacies and signature foods? Is there something
       we shouldn’t miss? What about a souvenir shop?
     a: The <a href="./food_greece_menus_meals_cuisine.htm">traditional food</a> and
-      <a href="./rhodes_wine_tours_wineries_greece.htm">wines</a> of Rhodes are delicious,
+      <a href="./rhodes_wine_tasting_tour.htm">wines</a> of Rhodes are delicious,
       the <a href="./handmade_pottery_greece.htm">ceramics</a> are to die for, and
       the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>

@@ -43,7 +43,7 @@ items:
     desc: 'This tour is addressed mostly to the selective wine tasters, but not exclusively'
     long_desc: "On this Private Wine Tour, you'll have the opportunity to taste a big selection of excellent local wines and a break for lunch at a Traditional Local Tavern. You can also enjoy a Green Tour of the island with all its breath-taking vistas!"
     notes: 'Suggested time for this tour: May to end of September'
-    url: ./rhodes_wine_tours_wineries_greece.htm
+    url: ./rhodes_wine_tasting_tour.htm
     img: './img/tours-suggestions/DT5.jpg' 
     duration: 'Duration: 6:00 hours'
     id: wine_tours

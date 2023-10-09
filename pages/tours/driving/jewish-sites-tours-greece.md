@@ -27,7 +27,7 @@ summary:
     Rounding out your tour is a beautiful trip to Lindos where another part of Rhodes'
     history combines with natural beauty enough to take your breath away!
 tour:
-  title: JEWISH TOUR RHODES&nbsp;&nbsp;&nbsp;DT4
+  title: JEWISH TOUR RHODES&nbsp;&nbsp;&nbsp;&nbsp;DT4
   summary: Rhodes New Town / Rhodes Medieval City / Jewish Heritage / Jewish Quarter
     / East Coast of the Island / Lindos
   duration: Day Tour
@@ -167,7 +167,7 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
-      <a href="./rhodes_wine_tours_wineries_greece.htm">Wines</a>, the famous handmade
+      <a href="./rhodes_wine_tasting_tour.htm">Wines</a>, the famous handmade
       <a href="./handmade_pottery_greece.htm">Rhodes Pottery, Ceramics</a>, and the
       beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>
