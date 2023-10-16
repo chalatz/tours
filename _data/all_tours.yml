@@ -44,7 +44,7 @@
   type: driving
 
 - name: 'Through the Island-DT10'
-  url: ./island_tour.htm
+  url: ./rhodes_island_tour.htm
   id: through_the_island
   type: driving
 

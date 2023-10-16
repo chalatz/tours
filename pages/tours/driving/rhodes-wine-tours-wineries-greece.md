@@ -37,7 +37,7 @@ summary:
     the senses. Local wineries specialize in producing sparkling wines even using
     the champagne method of second fermentation in the bottle.</li>\n    </ol>      \n"
 tour:
-  title: RHODES WINE TASTING TOUR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DT5
+  title: RHODES WINE TASTING TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT5
   summary: Panoramic View of Rhodes Town / Free Wine Tasting / Green Tour of the West
     Coast / Lunch Break at a Traditional Tavern
   duration: Day Tour
