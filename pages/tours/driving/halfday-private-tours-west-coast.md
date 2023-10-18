@@ -29,7 +29,7 @@ summary:
     in historical times. You will come away with a deeper understanding of this old
     and beautiful place.
 tour:
-  title: '"Rhodes West Coast" DT3'
+  title: 'RHODES WEST COAST&nbsp;&nbsp;&nbsp;&nbsp;DT3'
   summary: Rhodes Medieval City / Rhodes New Town / West Coast of the Island / Filerimos
     / Valley of the Butterflies / Winery / Ancient Kamiros
   duration: Half Day

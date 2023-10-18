@@ -30,7 +30,7 @@ summary:
   - Highly suggested for cruise ship passengers, those visiting Rhodes by plane for
     a day, or those staying on the island for a very short period of time.
 tour:
-  title: '"Rhodes Full Day" DT2'
+  title: 'RHODES FULL DAY&nbsp;&nbsp;&nbsp;&nbsp;DT2'
   summary: 'Rhodes Town / East Coast of the Island and Lindos / Lunch Break Right
     on the Water’s Edge / West Coast of the Island  '
   duration: Full Day
