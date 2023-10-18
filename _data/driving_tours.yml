@@ -92,7 +92,7 @@ items:
   - name: 'RHODES NATURE TOUR-DT9'
     long_desc: 'This tour is designed for those like nature beauties. Rhodes island is something to be experienced completely and our tour services offer precisely that. We will allow you to immerse yourself in nature and treat you to sights that are truly unforgettable.'
     notes: 'Suggested time for this tour: mid-June to mid-September'
-    url: ./nature_tour.htm
+    url: ./rhodes_nature_tours.htm
     img: './img/tours-suggestions/DT9.jpg'
     duration: 'Duration: 5:00 hours'
     id: nature

@@ -1,5 +1,5 @@
 ---
-title: Visit Lindos on Your Own Pace" DT11
+title: Visit Lindos on Your Own Pace DT11
 permalink: lindos-on-your-own.htm
 layout: tour
 type: driving_tours_page
@@ -8,16 +8,13 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: 'Visit Lindos on Your Own Pace, Lindos Tours from Rhodes. '
-  description: Visit Lindos on Your Own Pace, Lindos tours from Rhodes, Tour Lindos
-    on Your Own Pace, Rhodes Private Tours Greece
-  keywords: Visit Lindos on Your Own Pace, Lindos tours from Rhodes, Rhodes Private
-    Tours Greece
+  title: VISIT LINDOS ON YOUR OWN PACE, Lindos Tours from Rhodes.
+  description: Visit Lindos on Your Own Pace, Lindos tours from Rhodes, Tour Lindos on Your Own Pace, Rhodes Private Tours Greece
+  keywords: Visit Lindos on Your Own Pace, Lindos tours from Rhodes, Rhodes Private Tours Greece
   abstract: Visit Lindos on Your Own Pace
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  http_desc: Visit Lindos on Your Own Pace, Lindos tours from Rhodes, Tour Lindos
-    on Your Own Pace, Rhodes Private Tours Greece
+  http_desc: Visit Lindos on Your Own Pace, Lindos tours from Rhodes, Tour Lindos on Your Own Pace, Rhodes Private Tours Greece
 summary:
   paragraphs:
   - If you are planning to visit Lindos on your own pace this tour is perfect. This
@@ -26,7 +23,7 @@ summary:
     you like without clashing with other tour groups or getting sidetracked. Enjoy
     what you want to!!
 tour:
-  title: '"Visit Lindos on Your Own Pace" DT11'
+  title: VISIT LINDOS ON YOUR OWN PACE&nbsp;&nbsp;&nbsp;&nbsp;DT11
   summary: Rhodes East Coast / Rhodian Pottery Art / Panoramic View of Lindos Beach,
     Village & Acropolis / St Pauls Bay / Visit Acropolis of Lindos
   duration: Half Day
