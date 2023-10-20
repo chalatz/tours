@@ -1,5 +1,5 @@
 ---
-title: '"The Knights of St John Tour" GT6'
+title: 'The Knights of St John Tour&nbsp;&nbsp;&nbsp;&nbsp;GT6'
 permalink: knights-of-st-John.htm
 layout: tour
 type: guided_tours_page
@@ -20,7 +20,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: '"The Knights of St John Tour" GT6'
+  title: 'THE KNIGHTS OF ST JOHN TOUR&nbsp;&nbsp;&nbsp;&nbsp;GT6'
   summary: Medieval City & Gates / West Coast & Our Lady of Filerimos / East Coast
     & Lindos / Feraklos Castle in Haraki
   duration: Full Day

@@ -1,5 +1,5 @@
 ---
-title: '"Rhodes Jewish Heritage Plus..." GT4'
+title: 'Rhodes Jewish Heritage Plus...&nbsp;&nbsp;&nbsp;&nbsp;GT4'
 permalink: jewish_heritage.htm
 layout: tour
 type: guided_tours_page
@@ -16,7 +16,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: '"Rhodes Jewish Heritage Plus..." GT4'
+  title: 'RHODES JEWISH HERITAGE PLUS...&nbsp;&nbsp;&nbsp;&nbsp;GT4'
   summary: Rhodes New Town / Rhodes Medieval City / Jewish Quarter / East Coast of
     the Island / Village and Acropolis of Lindos
   duration: Full Day

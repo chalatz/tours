@@ -1,5 +1,5 @@
 ---
-title: '"Religious Tour of Rhodes" GT10'
+title: 'Religious Tour of Rhodes&nbsp;&nbsp;&nbsp;&nbsp;GT10'
 permalink: religious-tour-christian.htm
 layout: tour
 type: guided_tours_page
@@ -21,7 +21,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: '"Religious Tour of Rhodes" GT10'
+  title: 'RELIGIOUS TOUR OF RHODES&nbsp;&nbsp;&nbsp;&nbsp;GT10'
   summary: Christian Churches / Monasteries / Chapels / Christian Cultural Sites
   duration: Half Day
 summary:

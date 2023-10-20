@@ -1,5 +1,5 @@
 ---
-title: '"West Coast of Rhodes" GT3'
+title: 'West Coast of Rhodes&nbsp;&nbsp;&nbsp;&nbsp;GT3'
 permalink: west_coast.htm
 layout: tour
 type: guided_tours_page
@@ -16,7 +16,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: '"West Coast of Rhodes" GT3'
+  title: 'WEST COAST OF RHODES&nbsp;&nbsp;&nbsp;&nbsp;GT3'
   summary: Rhodes Old City & New Town / Acropolis of Rhodes / West Coast of the Island
     / Ancient Kamiros / Lunch by the Sea / Mount Filerimos
   duration: Full Day

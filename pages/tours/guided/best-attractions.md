@@ -1,5 +1,5 @@
 ---
-title: '"Best Attractions in Rhodes" GT1'
+title: 'Best Attractions in Rhodes&nbsp;&nbsp;&nbsp;&nbsp;GT1'
 permalink: best_attractions_in_rhodes.htm
 layout: tour
 type: guided_tours_page
@@ -20,7 +20,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: '"Best Attractions in Rhodes" GT1'
+  title: 'BEST ATTRACTIONS IN RHODES&nbsp;&nbsp;&nbsp;&nbsp;GT1'
   summary: Rhodes Medieval City / Rhodes New Town / Acropolis of Rhodes / East Coast
     of the Island / Village and Acropolis of Lindos
   duration: Half Day
