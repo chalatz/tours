@@ -1,5 +1,5 @@
 ---
-title: 'The Knights of St John Tour&nbsp;&nbsp;&nbsp;&nbsp;GT6'
+title: The Knights of St John Tour&nbsp;&nbsp;&nbsp;&nbsp;GT6
 permalink: knights-of-st-John.htm
 layout: tour
 type: guided_tours_page
@@ -20,7 +20,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: 'THE KNIGHTS OF ST JOHN TOUR&nbsp;&nbsp;&nbsp;&nbsp;GT6'
+  title: THE KNIGHTS OF ST JOHN TOUR&nbsp;&nbsp;&nbsp;&nbsp;GT6
   summary: Medieval City & Gates / West Coast & Our Lady of Filerimos / East Coast
     & Lindos / Feraklos Castle in Haraki
   duration: Full Day
@@ -153,9 +153,8 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: The <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
-      <a href="./rhodes_wine_tasting_tour.htm">Wines</a> the famous handmade
-      <a href="./handmade_pottery_greece.htm">Rhodes Pottery, Ceramics</a>, and the
-      beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
+      <a href="./rhodes_wine_tasting_tour.htm">Wines</a> the famous handmade <a href="./handmade_pottery_greece.htm">Rhodes
+      Pottery, Ceramics</a>, and the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>
 included:
   items:

@@ -1,5 +1,5 @@
 ---
-title: 'Best of & Lunch Break&nbsp;&nbsp;&nbsp;&nbsp;GT2'
+title: Best of & Lunch Break&nbsp;&nbsp;&nbsp;&nbsp;GT2
 permalink: full_day.htm
 layout: tour
 type: guided_tours_page
@@ -18,7 +18,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: 'BEST OF & LUNCH BREAK&nbsp;&nbsp;&nbsp;&nbsp;GT2'
+  title: BEST OF & LUNCH BREAK&nbsp;&nbsp;&nbsp;&nbsp;GT2
   summary: Rhodes Old & New Town / Acropolis of Rhodes / The East Coast / Free Olive
     Oil Taste / Village & Acropolis of Lindos / Lunch by the Sea
   duration: Full Day

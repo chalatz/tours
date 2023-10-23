@@ -2,7 +2,7 @@
 title: Through the Island Tour DT10
 permalink: rhodes_island_tour.htm
 redirect_from:
-  - island_tour.htm
+- island_tour.htm
 layout: tour
 type: driving_tours_page
 id: through_the_island

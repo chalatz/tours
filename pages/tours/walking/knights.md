@@ -20,7 +20,7 @@ meta:
   http_desc: Knights Hospitallers Tour, Knights of Rhodes Tours, Rhodes Private Tours
     Greece
 tour:
-  title: 'THE KNIGHTS HOSPITALLERS&nbsp;&nbsp;&nbsp;&nbsp;WT2'
+  title: THE KNIGHTS HOSPITALLERS&nbsp;&nbsp;&nbsp;&nbsp;WT2
   summary: The Fortifications of the Knights / The Gates / Naillac Tower / The Moat
     and the Defense System / The Grand Master Palace
   duration: ''

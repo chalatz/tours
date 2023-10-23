@@ -11,10 +11,12 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: 'BEST OF RHODES AND LINDOS TOUR'
-  description: Best of Rhodes and Lindos Tour, Best Lindos Tours, Best Rhodes and Lindos Private Tour Greece
-  keywords: Best of Rhodes and Lindos Tour, Best Lindos Tours, Best Rhodes and Lindos Private Tour
-  abstract: 'Best of Rhodes and Lindos Tour'
+  title: BEST OF RHODES AND LINDOS TOUR
+  description: Best of Rhodes and Lindos Tour, Best Lindos Tours, Best Rhodes and
+    Lindos Private Tour Greece
+  keywords: Best of Rhodes and Lindos Tour, Best Lindos Tours, Best Rhodes and Lindos
+    Private Tour
+  abstract: Best of Rhodes and Lindos Tour
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: ''

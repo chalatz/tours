@@ -1,5 +1,5 @@
 ---
-title: 'Rhodes Scenic Tour&nbsp;&nbsp;&nbsp;&nbsp;GT9'
+title: Rhodes Scenic Tour&nbsp;&nbsp;&nbsp;&nbsp;GT9
 permalink: scenic_tour.htm
 layout: tour
 type: guided_tours_page
@@ -16,7 +16,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: 'RHODES SCENIC TOUR&nbsp;&nbsp;&nbsp;&nbsp;GT9'
+  title: RHODES SCENIC TOUR&nbsp;&nbsp;&nbsp;&nbsp;GT9
   summary: West Coast / The Valley of the Butterflies / Mount Filerimos / Ancient
     Acropolis of Rhodes Town
   duration: Half Day

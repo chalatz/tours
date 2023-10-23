@@ -2,7 +2,7 @@
 title: Rhodes Nature Tour DT9
 permalink: rhodes_nature_tours.htm
 redirect_from:
-  - nature_tour.htm
+- nature_tour.htm
 layout: tour
 type: driving_tours_page
 id: nature

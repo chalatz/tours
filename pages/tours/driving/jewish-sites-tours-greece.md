@@ -13,7 +13,8 @@ is_of: driven_tours
 meta:
   title: JEWISH TOUR RHODES, Jewish Tours in Rhodes Greece
   description: Jewish Tour Rhodes, Jewish Tours in Rhodes Greece
-  keywords: Jewish Tour Rhodes, Jewish Tours in Rhodes, Jewish Sights, Rhodes Jewish Sites, Greece
+  keywords: Jewish Tour Rhodes, Jewish Tours in Rhodes, Jewish Sights, Rhodes Jewish
+    Sites, Greece
   abstract: Jewish Tour Rhodes, Jewish Tours in Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
@@ -167,9 +168,8 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
-      <a href="./rhodes_wine_tasting_tour.htm">Wines</a>, the famous handmade
-      <a href="./handmade_pottery_greece.htm">Rhodes Pottery, Ceramics</a>, and the
-      beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
+      <a href="./rhodes_wine_tasting_tour.htm">Wines</a>, the famous handmade <a href="./handmade_pottery_greece.htm">Rhodes
+      Pottery, Ceramics</a>, and the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>
 included:
   items:

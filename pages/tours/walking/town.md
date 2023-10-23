@@ -20,7 +20,7 @@ meta:
   http_desc: 'RHODES OLD TOWN WALKING TOUR,  Rhodes Old City Walking Tours, Private
     Rhodes City Tour             '
 tour:
-  title: 'RHODES OLD TOWN WALKING TOUR&nbsp;&nbsp;&nbsp;&nbsp;WT1'
+  title: RHODES OLD TOWN WALKING TOUR&nbsp;&nbsp;&nbsp;&nbsp;WT1
   summary: The Important Monuments of the Burgo and Collachio / Visit the Grand Master
     Palace / Street of the Knights / Enticing Alleys
   duration: ''

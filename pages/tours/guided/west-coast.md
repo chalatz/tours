@@ -1,5 +1,5 @@
 ---
-title: 'West Coast of Rhodes&nbsp;&nbsp;&nbsp;&nbsp;GT3'
+title: West Coast of Rhodes&nbsp;&nbsp;&nbsp;&nbsp;GT3
 permalink: west_coast.htm
 layout: tour
 type: guided_tours_page
@@ -16,7 +16,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: 'WEST COAST OF RHODES&nbsp;&nbsp;&nbsp;&nbsp;GT3'
+  title: WEST COAST OF RHODES&nbsp;&nbsp;&nbsp;&nbsp;GT3
   summary: Rhodes Old City & New Town / Acropolis of Rhodes / West Coast of the Island
     / Ancient Kamiros / Lunch by the Sea / Mount Filerimos
   duration: Full Day
@@ -146,9 +146,8 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: The <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
-      <a href="./rhodes_wine_tasting_tour.htm">Wines</a> the famous handmade
-      <a href="./handmade_pottery_greece.htm">Rhodes Pottery, Ceramics</a>, and the
-      beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
+      <a href="./rhodes_wine_tasting_tour.htm">Wines</a> the famous handmade <a href="./handmade_pottery_greece.htm">Rhodes
+      Pottery, Ceramics</a>, and the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>
 included:
   items:

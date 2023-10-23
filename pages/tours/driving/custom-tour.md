@@ -26,7 +26,7 @@ summary:
     and know that you have seen the most important sites. This private tour combines
     fabulous scenery with plenty of fascinating and historic sites.
 tour:
-  title: 'RHODES CUSTOM TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT12'
+  title: RHODES CUSTOM TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT12
   duration: Half Day or Full Day
   summary: ''
 overview:

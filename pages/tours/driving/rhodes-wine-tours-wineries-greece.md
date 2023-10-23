@@ -2,7 +2,7 @@
 title: '"Rhodes Wine Tour" DT5'
 permalink: rhodes_wine_tasting_tour.htm
 redirect_from:
-  - rhodes_wine_tours_wineries_greece.htm
+- rhodes_wine_tours_wineries_greece.htm
 layout: wine-tour
 type: driving_tours_page
 id: wine_tours
@@ -11,8 +11,10 @@ has_gallery: true
 is_of: driven_tours
 meta:
   title: RHODES WINE TASTING TOUR, RHODES WINE TOURS
-  description: Rhodes Wine Tasting Tour, Rhodes Wine Tours, Wine Roads Rhodes, Rhodes Wineries
-  keywords: Rhodes Wine Tasting Tour, Rhodes Wine Tours, Wine Roads Rhodes, Rhodes Wineries
+  description: Rhodes Wine Tasting Tour, Rhodes Wine Tours, Wine Roads Rhodes, Rhodes
+    Wineries
+  keywords: Rhodes Wine Tasting Tour, Rhodes Wine Tours, Wine Roads Rhodes, Rhodes
+    Wineries
   abstract: Rhodes Wine Tasting Tour, Rhodes Wine Tour"
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
@@ -165,10 +167,9 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
-      <a href="./rhodes_wine_tasting_tour.htm">Wines</a>, the famous handmade
-      <a href="./handmade_pottery_greece.htm">Rhodes Pottery</a>, <a href="./guided.htm">Ceramics</a>,
-      and the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
-      Beaches</a></span>
+      <a href="./rhodes_wine_tasting_tour.htm">Wines</a>, the famous handmade <a href="./handmade_pottery_greece.htm">Rhodes
+      Pottery</a>, <a href="./guided.htm">Ceramics</a>, and the beautiful <span class="link_inline"><a
+      href="beach_tour_of_rhodes.htm">Rhodes Beaches</a></span>
 included:
   items:
   - text: Private Tour (just your party)

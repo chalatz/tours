@@ -1,5 +1,5 @@
 ---
-title: 'Rhodes Jewish Heritage Plus...&nbsp;&nbsp;&nbsp;&nbsp;GT4'
+title: Rhodes Jewish Heritage Plus...&nbsp;&nbsp;&nbsp;&nbsp;GT4
 permalink: jewish_heritage.htm
 layout: tour
 type: guided_tours_page
@@ -16,7 +16,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: 'RHODES JEWISH HERITAGE PLUS...&nbsp;&nbsp;&nbsp;&nbsp;GT4'
+  title: RHODES JEWISH HERITAGE PLUS...&nbsp;&nbsp;&nbsp;&nbsp;GT4
   summary: Rhodes New Town / Rhodes Medieval City / Jewish Quarter / East Coast of
     the Island / Village and Acropolis of Lindos
   duration: Full Day
@@ -155,9 +155,8 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: The <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
-      <a href="./rhodes_wine_tasting_tour.htm">Wines</a> the famous handmade
-      <a href="./handmade_pottery_greece.htm">Rhodes Pottery, Ceramics</a>, and the
-      beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
+      <a href="./rhodes_wine_tasting_tour.htm">Wines</a> the famous handmade <a href="./handmade_pottery_greece.htm">Rhodes
+      Pottery, Ceramics</a>, and the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>
 included:
   items:
