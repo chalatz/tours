@@ -11,7 +11,7 @@ has_gallery: true
 is_of: driven_tours
 description_at_the_top: true
 meta:
-  title: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes, Seniors Tour in Rhodes
+  title: SENIOR CITIZENS TOURS IN RHODES, Tours for Seniors in Rhodes, Seniors Tour in Rhodes
   http_desc: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors Private Tour in Rhodes Greece
   description: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes, Seniors Private Tour in Rhodes Greece
   keywords: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors Private Tour in Rhodes Greece
