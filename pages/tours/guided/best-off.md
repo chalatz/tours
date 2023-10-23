@@ -1,5 +1,5 @@
 ---
-title: '"Best of & Lunch Break" GT2'
+title: 'Best of & Lunch Break&nbsp;&nbsp;&nbsp;&nbsp;GT2'
 permalink: full_day.htm
 layout: tour
 type: guided_tours_page
@@ -18,7 +18,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: '"Best of & Lunch Break" GT2'
+  title: 'BEST OF & LUNCH BREAK&nbsp;&nbsp;&nbsp;&nbsp;GT2'
   summary: Rhodes Old & New Town / Acropolis of Rhodes / The East Coast / Free Olive
     Oil Taste / Village & Acropolis of Lindos / Lunch by the Sea
   duration: Full Day
@@ -183,7 +183,7 @@ faq:
   - q: What are Rhodes’ famous delicacies and signature foods? Is there something
       we shouldn’t miss? What about a souvenir shop?
     a: The <a href="./food_greece_menus_meals_cuisine.htm">traditional food</a> and
-      <a href="./rhodes_wine_tours_wineries_greece.htm">wines</a> of Rhodes are delicious,
+      <a href="./rhodes_wine_tasting_tour.htm">wines</a> of Rhodes are delicious,
       the <a href="./handmade_pottery_greece.htm">ceramics</a> are to die for, and
       the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>

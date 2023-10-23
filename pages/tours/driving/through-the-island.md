@@ -1,6 +1,8 @@
 ---
 title: Through the Island Tour DT10
-permalink: island_tour.htm
+permalink: rhodes_island_tour.htm
+redirect_from:
+  - island_tour.htm
 layout: tour
 type: driving_tours_page
 id: through_the_island
@@ -8,15 +10,11 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Rhodes Island Tour, Through the Island Tour, Rhodes Private Tours
-  http_desc: Rhodes Island Tour, Through the Island Tour, East Coast, Seven Springs,
-    Mt Profitis Ilias, Embona Free Wine Taste, Castle of Kritinia, Lunch by the Sea,
-    West Coast
-  description: Rhodes Island Tour, Through the Island Tour, Rhodes Private Tours Greece,
-    East Coast, Seven Springs, Mt Profitis Ilias, Embona Free Wine Taste, Castle of
-    Kritinia, Lunch by the Sea, West Coast
+  title: RHODES ISLAND TOUR, RHODES THROUGH THE ISLAND TOUR
+  http_desc: Rhodes Island Tour, Rhodes Through the Island Tour
+  description: Rhodes Island Tour, Rhodes Through the Island Tour
   keywords: Rhodes Island Tour, Through the Island Tour, Rhodes Private Tours Greece
-  abstract: Rhodes Island Tour, Through the Island Tour
+  abstract: Rhodes Island Tour, Rhodes Through the Island Tour
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 summary:
@@ -28,7 +26,7 @@ summary:
     and to top it all off, the delicious local wines and cuisine will complete the
     journey.
 tour:
-  title: '"Through the Island Tour" DT10'
+  title: RHODES THROUGH THE ISLAND TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT10
   summary: East Coast / Seven Springs / Mt Profitis Ilias / Embona Free Wine Taste
     / Castle of Kritinia / Lunch by the Sea / West Coast
   duration: Full Day

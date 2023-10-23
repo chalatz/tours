@@ -1,5 +1,5 @@
 ---
-title: '"Natural Attractions in Rhodes" GT7'
+title: 'Natural Attractions in Rhodes&nbsp;&nbsp;&nbsp;&nbsp;GT7'
 permalink: natural_attractions.htm
 layout: tour
 type: guided_tours_page
@@ -20,7 +20,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: '"Natural Attractions in Rhodes" GT7'
+  title: 'NATURAL ATTRACTIONS IN RHODES&nbsp;&nbsp;&nbsp;&nbsp;GT7'
   summary: Kallithea Spa / Anthony Quinn Bay / Scenic Drive to the West Coast / Valley
     of the Butterflies / Filerimos Mountain
   duration: Half Day

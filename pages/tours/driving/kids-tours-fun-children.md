@@ -9,17 +9,13 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children Fun
-    Tours in Rhodes
-  description: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children
-    Fun Tours in Rhodes
-  keywords: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children
-    Fun Tours in Rhodes
-  abstract: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips
+  title: Rhodes Kids Tours, Rhodes Family Tours, Family Fun Tours in Rhodes
+  description: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children Fun Tours in Rhodes
+  keywords: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children Fun Tours in Rhodes
+  abstract: Rhodes Kids Tours, Rhodes Family Tours
   author: Nick
-  copyright: NK for Rhodes Private Tours,2021
-  http_desc: Rhodes Kids Tours, Rhodes Family Tours, Rhodes Family Trips, Children
-    Fun Tours in Rhodes
+  copyright: NK for Rhodes Private Tours, 2021
+  http_desc: Rhodes Kids Tours, Rhodes Family Tours, Family Fun Tours in Rhodes, Children Fun Tours in Rhodes
 summary:
   paragraphs:
   - Fun Tour, a Great Family Experience!  This tour is exclusively designed for families
@@ -27,7 +23,7 @@ summary:
     most popular sights for children in Rhodes that come highly recommended from the
     families who have enjoyed personal sightseeing with us!
 tour:
-  title: '"Rhodes Kids Tour" DT6'
+  title: RHODES KIDS TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT6
   summary: Rhodes Town / Acropolis of Rhodes / The Valley of the Butterflies / The
     Ostrich Farm and Zoo / The Bee Museum
   duration: Half Day

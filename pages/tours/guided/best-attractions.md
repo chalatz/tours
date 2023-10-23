@@ -1,5 +1,5 @@
 ---
-title: '"Best Attractions in Rhodes" GT1'
+title: 'Best Attractions in Rhodes&nbsp;&nbsp;&nbsp;&nbsp;GT1'
 permalink: best_attractions_in_rhodes.htm
 layout: tour
 type: guided_tours_page
@@ -20,7 +20,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: '"Best Attractions in Rhodes" GT1'
+  title: 'BEST ATTRACTIONS IN RHODES&nbsp;&nbsp;&nbsp;&nbsp;GT1'
   summary: Rhodes Medieval City / Rhodes New Town / Acropolis of Rhodes / East Coast
     of the Island / Village and Acropolis of Lindos
   duration: Half Day
@@ -192,7 +192,7 @@ faq:
       of the Old Town.
   - q: What are the scrumptious delicacies Rhodes is famous for? What shouldn’t we
       miss?
-    a: The great <a href="./rhodes_wine_tours_wineries_greece.htm">wines</a> and <a
+    a: The great <a href="./rhodes_wine_tasting_tour.htm">wines</a> and <a
       href="./food_greece_menus_meals_cuisine.htm">traditional food</a> at Rhodes
       is worth every cent. The famous <a href="./handmade_pottery_greece.htm">pottery,
       ceramics</a>, and the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes

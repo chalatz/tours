@@ -21,7 +21,7 @@ meta:
   http_desc: "\"Rhodes by Night Tour, Rhodes Town Tour by Night, Rhodes Night Tours,
     Nightlife in Rhodes old town"
 tour:
-  title: '"Rhodes by Night Tour" WT3'
+  title: 'RHODES BY NIGHT TOUR&nbsp;&nbsp;&nbsp;&nbsp;WT3'
   summary: Old Town Evening Walking Tour / Free Time for Shopping / Dinner at a Local
     Restaurant / New Town τhe Old Port Mandraki
   duration: ''

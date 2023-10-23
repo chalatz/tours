@@ -1,5 +1,5 @@
 - name: 'Best of Rhodes-DT1'
-  url: ./best_of_rhodes_tours_greece.htm
+  url: ./best_of_rhodes_and_lindos_tour.htm
   id: best_of_rhodes
   type: driving
 
@@ -14,12 +14,12 @@
   type: driving
 
 - name: 'Jewish Sites Plus-DT4'
-  url: ./Jewish_sites_tours_greece.htm
+  url: ./jewish_tours_rhodes.htm
   id: jewish_sites
   type: driving
 
 - name: 'Rhodes Wine Tour-DT5'
-  url: ./rhodes_wine_tours_wineries_greece.htm
+  url: ./rhodes_wine_tasting_tour.htm
   id: wine_tours
   type: driving
 
@@ -39,12 +39,12 @@
   type: driving
 
 - name: 'Rhodes Nature Tour-DT9'
-  url: ./nature_tour.htm
+  url: ./rhodes_nature_tours.htm
   id: nature
   type: driving
 
 - name: 'Through the Island-DT10'
-  url: ./island_tour.htm
+  url: ./rhodes_island_tour.htm
   id: through_the_island
   type: driving
 

@@ -30,7 +30,7 @@ summary:
   - Highly suggested for cruise ship passengers, those visiting Rhodes by plane for
     a day, or those staying on the island for a very short period of time.
 tour:
-  title: '"Rhodes Full Day" DT2'
+  title: 'RHODES FULL DAY&nbsp;&nbsp;&nbsp;&nbsp;DT2'
   summary: 'Rhodes Town / East Coast of the Island and Lindos / Lunch Break Right
     on the Water’s Edge / West Coast of the Island  '
   duration: Full Day
@@ -176,7 +176,7 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: '<a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
-      <a href="./rhodes_wine_tours_wineries_greece.htm">Wines</a>, the famous handmade
+      <a href="./rhodes_wine_tasting_tour.htm">Wines</a>, the famous handmade
       <a href="./handmade_pottery_greece.htm">Rhodes Pottery</a>, <a href="./guided.htm">Ceramics</a>,
       and the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>   '

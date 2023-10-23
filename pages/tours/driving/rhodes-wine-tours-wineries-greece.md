@@ -1,6 +1,8 @@
 ---
 title: '"Rhodes Wine Tour" DT5'
-permalink: rhodes_wine_tours_wineries_greece.htm
+permalink: rhodes_wine_tasting_tour.htm
+redirect_from:
+  - rhodes_wine_tours_wineries_greece.htm
 layout: wine-tour
 type: driving_tours_page
 id: wine_tours
@@ -8,16 +10,10 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Rhodes Wine Tour, Rhodes Wine Tasting Tour, Wine Roads Rhodes, Embona Rhodes
-    Wine Tours,  Free Olive Oil Tasting Rhodes Greece, Free Wine Tasting, Rhodes Wineries
-  description: Rhodes Wine Tour, Rhodes Wine Tasting Tour, Wine Roads Rhodes, Embona
-    Rhodes Wine Tours,  Free Olive Oil Tasting Rhodes Greece, Free Wine Tasting, Rhodes
-    Wineries
-  keywords: Rhodes Wine Tour, Rhodes Wine Tasting Tour, Wine Roads Rhodes, Embona
-    Rhodes Wine Tours,  Free Olive Oil Tasting Rhodes Greece, Free Wine Tasting, Rhodes
-    Wineries
-  abstract: Rhodes Wine Tour, Rhodes Wine Tasting Tour, Wine Roads Rhodes, Embona
-    Rhodes Wine Tours
+  title: RHODES WINE TASTING TOUR, RHODES WINE TOURS
+  description: Rhodes Wine Tasting Tour, Rhodes Wine Tours, Wine Roads Rhodes, Rhodes Wineries
+  keywords: Rhodes Wine Tasting Tour, Rhodes Wine Tours, Wine Roads Rhodes, Rhodes Wineries
+  abstract: Rhodes Wine Tasting Tour, Rhodes Wine Tour"
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
   http_desc: ''
@@ -41,7 +37,7 @@ summary:
     the senses. Local wineries specialize in producing sparkling wines even using
     the champagne method of second fermentation in the bottle.</li>\n    </ol>      \n"
 tour:
-  title: '"Rhodes Wine Tour" DT5'
+  title: RHODES WINE TASTING TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT5
   summary: Panoramic View of Rhodes Town / Free Wine Tasting / Green Tour of the West
     Coast / Lunch Break at a Traditional Tavern
   duration: Day Tour
@@ -169,7 +165,7 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
-      <a href="./rhodes_wine_tours_wineries_greece.htm">Wines</a>, the famous handmade
+      <a href="./rhodes_wine_tasting_tour.htm">Wines</a>, the famous handmade
       <a href="./handmade_pottery_greece.htm">Rhodes Pottery</a>, <a href="./guided.htm">Ceramics</a>,
       and the beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>

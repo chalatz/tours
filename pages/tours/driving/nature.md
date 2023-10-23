@@ -1,6 +1,8 @@
 ---
 title: Rhodes Nature Tour DT9
-permalink: nature_tour.htm
+permalink: rhodes_nature_tours.htm
+redirect_from:
+  - nature_tour.htm
 layout: tour
 type: driving_tours_page
 id: nature
@@ -8,11 +10,9 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Rhodes Nature Tour, Private Nature Tours in Rhodes Greece
-  http_desc: 'Rhodes Nature Tour. Private Nature Tours in Rhodes Greece, Kalithea
-    Spa, Anthony Quinn Bay, Seven Springs, Valley of the Butterflies, Filerimos Mountain  '
-  description: 'Rhodes Nature Tour. Private Nature Tours in Rhodes Greece, Kalithea
-    Spa, Anthony Quinn Bay, Seven Springs, Valley of the Butterflies, Filerimos Mountain '
+  title: RHODES NATURE TOURS
+  http_desc: Rhodes Nature Tour. Private Nature Tours in Rhodes Greece
+  description: Rhodes Nature Tour. Private Nature Tours in Rhodes Greece
   keywords: Rhodes Nature Tour, Private Nature Tours in Rhodes Greece
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
@@ -25,7 +25,7 @@ summary:
     unforgettable. You will be inspired by the fantastical sights around you, be it
     the mountains or the beaches. Our private tour will have it all.
 tour:
-  title: '"Rhodes Nature Tour" DT9'
+  title: RHODES NATURE TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT9
   summary: Kalithea Spa / Anthony Quinn Bay / Seven Springs / Valley of the Butterflies
     / Filerimos Mountain
   duration: Half Day

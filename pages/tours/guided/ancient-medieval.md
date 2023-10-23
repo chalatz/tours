@@ -1,5 +1,5 @@
 ---
-title: '"Rhodes Ancient & Medieval Times" GT5'
+title: 'Rhodes Ancient & Medieval Times&nbsp;&nbsp;&nbsp;&nbsp;GT5'
 permalink: ancient_medieval.htm
 layout: tour
 type: guided_tours_page
@@ -16,7 +16,7 @@ meta:
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: '"Rhodes Ancient & Medieval Times" GT5'
+  title: 'RHODES ANCIENT & MEDIEVAL TIMES&nbsp;&nbsp;&nbsp;&nbsp;GT5'
   summary: Rhodes Medieval City & Grand Master Palace / Rhodes New Town / Acropolis
     of Rhodes / Acropolis of Ancient Ialyssos
   duration: Half Day

@@ -8,17 +8,13 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: Acropolis of Ancient Ialyssos, Ancient City of Kamiros, Castle of Kritinia,
-    Monolithos Castle, Lunch Break in Embona
-  description: Acropolis of Ancient Ialyssos, Ancient City of Kamiros, Castle of Kritinia,
-    Monolithos Castle, Lunch Break in Embona, Taxi Tours in Rhodes Island Greece
-  keywords: 'Rhodes, Private, Tours, Greece, South-West Coast, shore, excursions,
-    taxi tours, allure tours, '
-  abstract: Rhodes private tours and shore excursions
+  title: RHODES SOUTH WEST COAST TOUR
+  description: Rhodes South West Coast Tour, South West Coast Private Tours
+  keywords: Rhodes South West Coast Tour, South West Coast Private Tours
+  abstract: Rhodes South West Coast Tour
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-  http_desc: Acropolis of Ancient Ialyssos, Ancient City of Kamiros, Castle of Kritinia,
-    Monolithos Castle, Lunch Break in Embona
+  http_desc: Rhodes South West Coast Tour, South West Coast Private Tours"
 summary:
   paragraphs:
   - This private tour of the South-West Coast of the island appeals to all the senses.
@@ -30,7 +26,7 @@ summary:
     get an overview of the West Coast of the island, and for visitors staying for
     a longer period.
 tour:
-  title: '"Rhodes South-West" DT8'
+  title: RHODES SOUTH WEST COAST TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT8
   summary: Acropolis of Ancient Ialyssos / Ancient City of Kamiros / Castle of Kritinia
     / Monolithos Castle / Lunch Break in Embona
   duration: Full Day
@@ -174,7 +170,7 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
-      <a href="./rhodes_wine_tours_wineries_greece.htm">Wines</a>, the famous handmade
+      <a href="./rhodes_wine_tasting_tour.htm">Wines</a>, the famous handmade
       <a href="./handmade_pottery_greece.htm">Rhodes Pottery, Ceramics</a>, and the
       beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>

@@ -3,7 +3,7 @@ items:
     desc: 'Ideal for cruise ship passengers and first-time visitors'
     long_desc: 'Highly suggested for cruise ship passengers with limited schedules, and first-time visitors. This Half Day Private Tour includes the highlights of Rhodes Medieval-town (World Heritage Site). The New-town, the Acropolis of Rhodes, the East Coast of the Island, and the Village and Acropolis of Lindos 50km (32mi) south east of Rhodes town.'
     notes: 'Suggested time for this tour: All year round'
-    url: ./best_of_rhodes_tours_greece.htm
+    url: ./best_of_rhodes_and_lindos_tour.htm
     img: './img/tours-suggestions/DT1.jpg' 
     duration: 'Duration: 5:00 hours'
     id: best_of_rhodes
@@ -33,7 +33,7 @@ items:
     desc: 'Perfect for those who are interested in the Jewish community of Rhodes'
     long_desc: 'Perfect for those who are interested in the Jewish community of Rhodes. This tour includes Rhodes New-town, the Jewish Quarter in the Old Town, the "Kahal Shalom” Synagogue, and Jewish Museum, the Jewish Cemetery, and the Acropolis of Lindos.'
     notes: 'Suggested time for this tour: All year round'
-    url: ./Jewish_sites_tours_greece.htm
+    url: ./jewish_tours_rhodes.htm
     img: './img/tours-suggestions/DT4.jpg' 
     duration: 'Duration: 6:00 hours'
     id: jewish_sites
@@ -43,7 +43,7 @@ items:
     desc: 'This tour is addressed mostly to the selective wine tasters, but not exclusively'
     long_desc: "On this Private Wine Tour, you'll have the opportunity to taste a big selection of excellent local wines and a break for lunch at a Traditional Local Tavern. You can also enjoy a Green Tour of the island with all its breath-taking vistas!"
     notes: 'Suggested time for this tour: May to end of September'
-    url: ./rhodes_wine_tours_wineries_greece.htm
+    url: ./rhodes_wine_tasting_tour.htm
     img: './img/tours-suggestions/DT5.jpg' 
     duration: 'Duration: 6:00 hours'
     id: wine_tours
@@ -92,7 +92,7 @@ items:
   - name: 'RHODES NATURE TOUR-DT9'
     long_desc: 'This tour is designed for those like nature beauties. Rhodes island is something to be experienced completely and our tour services offer precisely that. We will allow you to immerse yourself in nature and treat you to sights that are truly unforgettable.'
     notes: 'Suggested time for this tour: mid-June to mid-September'
-    url: ./nature_tour.htm
+    url: ./rhodes_nature_tours.htm
     img: './img/tours-suggestions/DT9.jpg'
     duration: 'Duration: 5:00 hours'
     id: nature
@@ -101,7 +101,7 @@ items:
   - name: 'Through the Island-DT10'
     long_desc: 'This tour is designed for those who want to enjoy the beauties of the landscape in the middle of the island. The unique views of Rhodes are some of the most magnificent on Greece and this tour is perfect for those wishing to experience them'
     notes: 'Suggested time for this tour: mid-April to October'
-    url: ./island_tour.htm
+    url: ./rhodes_island_tour.htm
     img: './img/tours-suggestions/DT10.jpg'
     duration: 'Duration: 7:00 hours'
     id: through_the_island

@@ -8,14 +8,13 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: 'Rhodes Beach Tour, Private Beach Tours in Rhodes '
-  description: 'RHODES BEACH TOUR, Beach Tour of Rhodes, Private Beach Tours in Rhodes '
-  keywords: 'RHODES BEACH TOUR, Beach Tour of Rhodes, Private Beach Tours in Rhodes  '
+  title: 'BEACH TOUR RHODES, Beach Tours in Rhodes'
+  description: 'Beach Tour Rhodes, Private Beach Tours in Rhodes'
+  keywords: 'Beach Tour Rhodes, Beach Tour of Rhodes, Private Beach Tours in Rhodes'
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
-  abstract: 'RHODES BEACH TOUR, Beach Tours of Rhodes, Private Beach Tours in Rhodes '
-  http_desc: 'RHODES BEACH TOUR, Beach Tour of Rhodes, Private Beach Tours in Rhodes,
-    Rhodes Private Tours '
+  abstract: 'Beach Tour Rhodes, Beach Tours in Rhodes'
+  http_desc: 'Beach Tour Rhodes, Beach Tours in Rhodes'
 summary:
   paragraphs:
   - Any trip to an island should include visits to the beautiful beaches that encircle
@@ -26,7 +25,7 @@ summary:
     the beach you like the most and we will stop there with plenty of time for you
     to swim before the end of the tour.
 tour:
-  title: '"Rhodes Beach Tour" DT7'
+  title: BEACH TOUR RHODES&nbsp;&nbsp;&nbsp;&nbsp;DT7
   summary: Faliraki Beach / Anthony Quinn Bay / Tsambika Beach / Charaki Beach / St
     Paul’s Bay / Lindos Village and Acropolis / Sea Bath
   duration: Half Day
@@ -157,7 +156,7 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
-      <a href="./rhodes_wine_tours_wineries_greece.htm">Wines</a>, the famous handmade
+      <a href="./rhodes_wine_tasting_tour.htm">Wines</a>, the famous handmade
       <a href="./handmade_pottery_greece.htm">Rhodes Pottery, Ceramics</a>, and the
       beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>

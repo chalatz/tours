@@ -11,21 +11,17 @@ has_gallery: true
 is_of: driven_tours
 description_at_the_top: true
 meta:
-  title: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes, Seniors Tour
-    in Rhodes
-  http_desc: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors
-    Private Tour in Rhodes Greece
-  description: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes, Seniors
-    Private Tour in Rhodes Greece
-  keywords: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors
-    Private Tour in Rhodes Greece
+  title: SENIOR CITIZENS TOURS IN RHODES, Tours for Seniors in Rhodes, Seniors Tour in Rhodes
+  http_desc: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors Private Tour in Rhodes Greece
+  description: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes, Seniors Private Tour in Rhodes Greece
+  keywords: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes,  Seniors Private Tour in Rhodes Greece
   abstract: Senior Citizens Tours in Rhodes, Tours for Seniors in Rhodes
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 summary:
   paragraphs: []
 tour:
-  title: '"Senior Citizens Tours in Rhodes" DT13'
+  title: SENIOR CITIZENS TOURS IN RHODES&nbsp;&nbsp;&nbsp;&nbsp;DT13
   duration: Half Day
   summary: ''
 overview:
@@ -146,7 +142,7 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <span class="link_inline"><a href="food_greece_menus_meals_cuisine.htm">Traditional
-      Food of Rhodes</a></span>, <span class="link_inline"><a href="rhodes_wine_tours_wineries_greece.htm">Wines</a></span>,
+      Food of Rhodes</a></span>, <span class="link_inline"><a href="rhodes_wine_tasting_tour.htm">Wines</a></span>,
       the famous handmade <span class="link_inline"><a href="handmade_pottery_greece.htm">Rhodes
       Pottery, Ceramics</a></span>, and the beautiful <span class="link_inline"><a
       href="beach_tour_of_rhodes.htm">Rhodes Beaches</a></span>

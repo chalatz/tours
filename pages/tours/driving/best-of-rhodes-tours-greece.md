@@ -1,6 +1,8 @@
 ---
 title: '"Best of Rhodes" DT1'
-permalink: best_of_rhodes_tours_greece.htm
+permalink: best_of_rhodes_and_lindos_tour.htm
+redirect_from:
+- best_of_rhodes_tours_greece.htm
 layout: tour
 type: driving_tours_page
 id: best_of_rhodes
@@ -9,14 +11,10 @@ has_form: true
 has_gallery: true
 is_of: driven_tours
 meta:
-  title: 'Best of Rhodes and Lindos Tour, Best Lindos Tours, Best Rhodes and Lindos
-    Private Tour '
-  description: Best of Rhodes and Lindos Tour, Best Lindos Tours, Best Rhodes and
-    Lindos Private Tour Greece
-  keywords: Best of Rhodes and Lindos Tour, Best Lindos Tours, Best Rhodes and Lindos
-    Private Tour Greece
-  abstract: 'Best of Rhodes and Lindos Tour, Best Lindos Tours Best Rhodes and Lindos
-    Private Tour '
+  title: 'BEST OF RHODES AND LINDOS TOUR'
+  description: Best of Rhodes and Lindos Tour, Best Lindos Tours, Best Rhodes and Lindos Private Tour Greece
+  keywords: Best of Rhodes and Lindos Tour, Best Lindos Tours, Best Rhodes and Lindos Private Tour
+  abstract: 'Best of Rhodes and Lindos Tour'
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   http_desc: ''
@@ -27,7 +25,7 @@ summary:
     and know that you have seen the most important sites. This private tour combines
     fabulous scenery with plenty of fascinating and historic sites.
 tour:
-  title: '"Best of Rhodes and Lindos Tour" DT1'
+  title: BEST OF RHODES AND LINDOS TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT1
   summary: Rhodes Medieval City / Rhodes New Town / Acropolis of Rhodes / East Coast
     of the Island / Village and Acropolis of Lindos
   duration: Half Day
@@ -213,7 +211,7 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <span class="link_inline"><a href="food_greece_menus_meals_cuisine.htm">Traditional
-      Food of Rhodes</a></span>, <span class="link_inline"><a href="rhodes_wine_tours_wineries_greece.htm">Wines</a></span>,
+      Food of Rhodes</a></span>, <span class="link_inline"><a href="rhodes_wine_tasting_tour.htm">Wines</a></span>,
       the famous handmade <span class="link_inline"><a href="handmade_pottery_greece.htm">Rhodes
       Pottery, Ceramics</a></span>, and the beautiful <span class="link_inline"><a
       href="beach_tour_of_rhodes.htm">Rhodes Beaches</a></span>

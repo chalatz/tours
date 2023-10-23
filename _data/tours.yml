@@ -1,6 +1,6 @@
 - name: 'Best of Rhodes-DT1'
   desc: 'Half Day Private Tour'
-  url: ./best_of_rhodes_tours_greece.htm
+  url: ./best_of_rhodes_and_lindos_tour.htm
   img: './img/tours-suggestions/TOUR-1.jpg' 
   itinerary: 'Rhodes Medieval City / Rhodes New Town / Acropolis of Rhodes / East Coast of the Island / Village and Acropolis of Lindos'
   duration: 'Duration: 5:00 hours'
@@ -24,7 +24,7 @@
 
 - name: 'Rhodes Jewish Sights Plus-DT4'
   desc: 'Private Day Tour'
-  url: ./Jewish_sites_tours_greece.htm
+  url: ./jewish_tours_rhodes.htm
   img: './img/tours-suggestions/TOUR-4.jpg' 
   itinerary: 'Rhodes New Town / Rhodes Medieval City / Jewish Heritage / Jewish Quarter / East Coast of the Island / Lindos'
   duration: 'Duration: 6:00 hours'
@@ -32,7 +32,7 @@
 
 - name: 'Rhodes Wine Tour-DT5'
   desc: 'Private Day Tour'
-  url: ./rhodes_wine_tours_wineries_greece.htm
+  url: ./rhodes_wine_tasting_tour.htm
   img: './img/tours-suggestions/Wine-Tour.jpg' 
   itinerary: 'Panoramic View of Rhodes Town / Free Wine Tasting / Green Tour of the West Coast / Lunch Break at a Traditional Tavern'
   duration: 'Duration: 6:00 hours'
@@ -64,7 +64,7 @@
 
 - name: 'Rhodes Nature Tour-DT9'
   desc: 'Half Day Private Tour'
-  url: ./nature_tour.htm
+  url: ./rhodes_nature_tours.htm
   img: ''
   itinerary: 'Kalithea Spa / Anthony Quinn Bay / Seven Springs / Valley of the Butterflies / Filerimos Mountain'
   duration: 'Duration: 5:00 hours'
@@ -72,7 +72,7 @@
 
 - name: 'Through the Island Tour-DT10'
   desc: 'Full Day Private Tour'
-  url: ./island_tour.htm
+  url: ./rhodes_island_tour.htm
   img: '' 
   itinerary: ''
   duration: 'Duration: 7:00 hours'

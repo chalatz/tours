@@ -29,7 +29,7 @@ summary:
     in historical times. You will come away with a deeper understanding of this old
     and beautiful place.
 tour:
-  title: '"Rhodes West Coast" DT3'
+  title: 'RHODES WEST COAST&nbsp;&nbsp;&nbsp;&nbsp;DT3'
   summary: Rhodes Medieval City / Rhodes New Town / West Coast of the Island / Filerimos
     / Valley of the Butterflies / Winery / Ancient Kamiros
   duration: Half Day
@@ -170,7 +170,7 @@ faq:
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
-      <a href="./rhodes_wine_tours_wineries_greece.htm">Wines</a>, the famous handmade
+      <a href="./rhodes_wine_tasting_tour.htm">Wines</a>, the famous handmade
       <a href="./handmade_pottery_greece.htm">Rhodes Pottery, Ceramics</a>, and the
       beautiful <span class="link_inline"><a href="beach_tour_of_rhodes.htm">Rhodes
       Beaches</a></span>
