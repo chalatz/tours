@@ -35,7 +35,7 @@ sections:
 
     ### SEDAN CARS FOR WHEELCHAIR USERS
 
-    Those using manual or electric foldable wheelchairs can be accommodated in our Mercedes Benz Sedans. These have a kerb high, which makes the transfer from a wheelchair much easier than other cars out there. Once you have successfully settled in the car, the wheelchair can be folded up and easily stored in the large trunk. ***(In case of electric foldable wheelchairs, please make sure that can fit in a regular car trunk)***s
+    Those using manual or electric foldable wheelchairs can be accommodated in our Mercedes Benz Sedans. These have a kerb high, which makes the transfer from a wheelchair much easier than other cars out there. Once you have successfully settled in the car, the wheelchair can be folded up and easily stored in the large trunk. ***(In case of electric foldable wheelchairs, please make sure that can fit in a regular car trunk)***
 - text: "### WHEELCHAIR ACCESSIBLE MINIBUS WITH FULL LIFT"
   gallery:
     items_per_row: 4
@@ -59,8 +59,6 @@ sections:
         alt: wheelchair accessible minibus with disabled lift
         is_link: false
 - text: |-
-    Those using manual wheelchairs can be accommodated in our Mercedes Benz Sedans. These have a kerb high, which makes the transfer from a wheelchair much easier than other cars out there. Once you have successfully settled in the car, the wheelchair can be folded up and easily stored in the large trunk.
-
     We customize our private tours on the island to suit your needs. The walking time is minimal. We have instead opted for shorter walking tour options and longer accessible driving tours to make this as accessible for people as possible. This allows us to avoid obstructions and hindrances of all kinds, such as steep hills and cobblestones. Our associate tour drivers will also be available to assist you at all times.
 
     **Notes:**
