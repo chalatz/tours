@@ -36,29 +36,28 @@ sections:
     ### SEDAN CARS FOR WHEELCHAIR USERS
 
     Those using manual or electric foldable wheelchairs can be accommodated in our Mercedes Benz Sedans. These have a kerb high, which makes the transfer from a wheelchair much easier than other cars out there. Once you have successfully settled in the car, the wheelchair can be folded up and easily stored in the large trunk. ***(In case of electric foldable wheelchairs, please make sure that can fit in a regular car trunk)***s
-- text: |-
-    ### WHEELCHAIR ACCESSIBLE MINIBUS WITH FULL LIFT
+- text: "### WHEELCHAIR ACCESSIBLE MINIBUS WITH FULL LIFT"
   gallery:
     items_per_row: 4
     is_gallery: false
     captions_style: italic
     items:
-      - image:
-          thumb: "./img/accessible/1.jpg"
-          alt: Rhodes wheelchair accessible minibus
-          is_link: false
-      - image:
-          thumb: "./img/accessible/2.jpg"
-          alt: accessible minibus for wheelchair users in Rhodes
-          is_link: false
-      - image:
-          thumb: "./img/accessible/3.jpg"
-          alt: wheelchair accessible minibus with full lift
-          is_link: false
-      - image:
-          thumb: "./img/accessible/4.jpg"
-          alt: wheelchair accessible minibus with disabled lift
-          is_link: false
+    - image:
+        thumb: "./img/accessible/1.jpg"
+        alt: Rhodes wheelchair accessible minibus
+        is_link: false
+    - image:
+        thumb: "./img/accessible/2.jpg"
+        alt: accessible minibus for wheelchair users in Rhodes
+        is_link: false
+    - image:
+        thumb: "./img/accessible/3.jpg"
+        alt: wheelchair accessible minibus with full lift
+        is_link: false
+    - image:
+        thumb: "./img/accessible/4.jpg"
+        alt: wheelchair accessible minibus with disabled lift
+        is_link: false
 - text: |-
     Those using manual wheelchairs can be accommodated in our Mercedes Benz Sedans. These have a kerb high, which makes the transfer from a wheelchair much easier than other cars out there. Once you have successfully settled in the car, the wheelchair can be folded up and easily stored in the large trunk.
 
