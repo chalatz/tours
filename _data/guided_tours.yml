@@ -12,7 +12,7 @@ items:
   - name: 'Best of & Lunch Break-GT2'
     desc: 'For people who love exploring historic sites and taste of what the local cuisine has to offer'
     long_desc: 'The tour is ideal for people who love exploring historic sites and taste of what the local cuisine has to offer: Full Day Private Guided Tour, including the highlights of "Best Attractions" tour, plus more time on the East Coast for delicious Snack or Lunch experience at a seaside village at the Mediterranean Sea right on the water’s edge (scenic)'
-    notes: 'Suggested time for this tour: mid-April to October'
+    notes: 'Suggested time for this tour: All year round'
     url: ./full_day.htm
     img: './img/tours-suggestions/GT2.jpg' 
     duration: 'Duration: 7:00 hours'
@@ -43,7 +43,7 @@ items:
 
   - name: 'ANCIENT & MEDIEVAL-GT5'
     long_desc: 'Rhodes island since the antiquity was a crossroad, served as the melting pot for eastern and western cultures: Half Day Private Guided Tour including the walking tour in the Medieval City and a visit to the Grand Master Palace, the New Town and Old Port, the walking tour of the Ancient Acropolis of Rhodes, and the walking tour of the Acropolis of Ancient Ialyssos (Filerimos)'
-    notes: 'Suggested time for this tour: April to October'
+    notes: 'Suggested time for this tour: All year round'
     url: ./ancient_medieval.htm
     img: './img/tours-suggestions/GT5.jpg' 
     duration: 'Duration: 4:30 hours'

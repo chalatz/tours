@@ -42,7 +42,7 @@ overview:
   - title: Back to your Hotel / Cruise Ship / or to your place
   - title: 'Duration: Approximately 4:30 hours'
     classes: bold
-  - title: 'Suggested time for this tour: April to October'
+  - title: 'Suggested time for this tour: All year round'
     classes: bold
 details:
   items:

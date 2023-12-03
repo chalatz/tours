@@ -46,7 +46,7 @@ overview:
   - title: Back to Rhodes Town / Cruise Ship / or to your place
   - title: 'Duration: Approximately 7:00 hours'
     classes: bold
-  - title: 'Suggested time for this tour: mid-April to October'
+  - title: 'Suggested time for this tour: All year round'
     classes: bold
 details:
   items:
