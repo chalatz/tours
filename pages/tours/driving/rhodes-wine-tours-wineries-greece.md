@@ -214,7 +214,7 @@ body:
 - text: |-
     **THE TRADITIONAL WINERY OF Mrs. ANASTASIA - WINE AND OLIVE OIL TASTING**
 
-    On the way we stop close to the Valley of the Butterflies to a small traditional local winery of Mrs. Anastasia. The Anastasia's winery was started on 1995 and later on 2002 moved here to this beautiful location. She started with only two wines and now she is producing more than 10 different type of wines. **Athiri, Red wine Mandilari, Muscat, Cabernet Sauvignon**......She is also producing **Souma** (distillate of wine) and extra virgin olive oil, you can have a free olive oil tasting.  She is using biological - organic growth and biological - organic process for the vineyards and wines. Here you have the opportunity to test all the types of wines she produces, and get your pictures of the ageing facilities.
+    On the way we stop close to the Valley of the Butterflies to a small traditional local winery of Mrs. Anastasia. The Anastasia's winery was started on 1995 and later on 2002 moved here to this beautiful location. She started with only two wines and now she is producing more than 10 different type of wines. **Athiri, Red wine Mandilari, Muscat, Cabernet Sauvignon**......She is also producing **Souma** (distillate of wine) and extra virgin olive oil, you can have an olive oil tasting.  She is using biological - organic growth and biological - organic process for the vineyards and wines. Here you have the opportunity to test all the types of wines she produces, and get your pictures of the ageing facilities.
   gallery:
   - thumb: "./img/Tour5/IMGP0905_mod_small.jpg"
     href: "./img/Tour5/IMGP0905_mod.jpg"
@@ -243,7 +243,7 @@ body:
 - text: |-
     **CAVA STAFYLOS**
 
-    Once we arrive at Embona village we visit the Cava Stafylos, then you can taste some of the stylish original wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only three years old, but the family's experience with the wines began about three generations ago and they still make their own wines to these days. Their plan is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and deferent Spices.
+    Once we arrive at Embona village we visit the Cava Stafylos, then you can taste some of the stylish original wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only five years old, but the family's experience with the wines began about three generations ago and they still make their own wines to these days. Their plan is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and deferent Spices.
   gallery:
   - thumb: "./img/Tour5/thumb-stafylos-1.jpg"
     href: "./img/Tour5/stafylos-1.jpg"
