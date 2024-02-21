@@ -1,7 +1,7 @@
 ---
-published: false
 title: POST-FIRE SITUATION IN RHODES GREECE
 permalink: post-fire-situation-in-rhodes-greece.htm
+published: false
 layout: pages/simple-page
 type: plain_page
 id: covid_19
