@@ -100,14 +100,14 @@ extra_text: |-
 ---
 
 {:.centered}
-**TRIPADVISOR RECOGNISING 6 YEARS OF CONSISTENTLY HIGH RATINGS FROM TRAVELLERS**
+**TRIPADVISOR RECOGNISING THE CONSISTENTLY HIGH RATINGS FROM TRAVELLERS**
 
 We would like to thank you, our customers, for this honor. Your positive comments and recommendations to other travelers have made this award possible. It is a huge vote of confidence to be recognized in this way. Your support is greatly appreciated!
 
 We would like to thank our team, as well. Their efforts and professionalism are why we stand here. We are pleased that our work results in superlative services, making it possible for our customers to have memorable visits to our beautiful island. We will continue to work hard to earn our customers' support by offering the best and highest quality tours.
 
 {:.centered}
-**Please visit the links bellow and read what our Valued Clients are saying about us**
+**Please visit the links below and read what our Valued Clients are saying about us**
 
 {:.centered}
 <a href="https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html" target="_blank">https://www.tripadvisor.com/Attraction_Review-g635613-d2645553-Reviews-Rhodes_Private_Tours-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html</a>
