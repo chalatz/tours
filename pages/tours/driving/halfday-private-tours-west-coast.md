@@ -42,7 +42,7 @@ overview:
   - title: We drive South West 48 km / 30 miles to Ancient Kamiros
   - title: The Ancient City of Kamiros – Hellenistic Urban Layout and Design
   - title: The Valley of the Butterflies – Unique Nature Reserve
-  - title: The Traditional Winery – Free Wine Tasting
+  - title: The Traditional Winery – Wine Tasting
   - title: The Acropolis of Ancient Ialyssos – Amazing View of the West Coast
   - title: The Acropolis of Rhodes, the Temple of Apollo, the Greek Stadium, and the
       Theatre
