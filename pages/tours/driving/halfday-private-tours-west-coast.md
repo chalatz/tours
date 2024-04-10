@@ -47,7 +47,7 @@ overview:
   - title: The Acropolis of Rhodes, the Temple of Apollo, the Greek Stadium, and the
       Theatre
   - title: Back to Rhodes Town / Cruise Port / or to your place
-  - title: 'Duration: 5:30 hours'
+  - title: 'Duration: 6:00 hours'
     classes: bold
   - title: 'Extensions: You can add more Attractions or Lunch Time'
     classes: bold
@@ -198,7 +198,7 @@ end_page:
 
 From your selected point, you'll be driven to the Old town Medieval City (**World Heritage Site**) to see the most imposing buildings and get your photos from outside (Stop Photos).
 
-**NEW TOWN - OLD PORT**
+**NEW TOWN - MANDRAKI PORT**
 
 You continue to the New Town to the entrance of the old harbour where according to the tradition, the **Colossus of Rhodes** once stood (Stop Visit Photos).  The **Church of the Annunciation** (Stop Visit Photos) and the North Point of the Island (Stop Photos)
 
@@ -212,7 +212,7 @@ On the way back you visit the Valley of the Butterflies - we drive you to the up
 
 **TRADITIONAL WINERY**
 
-We visit a small traditional winery, here you have the opportunity to taste a selection of locally produced wines. As well as you get your pictures of the aging facilities. (Stop Visit Photos - Free Wine Tasting)
+We visit a small traditional winery, here you have the opportunity to taste a selection of locally produced wines. As well as you get your pictures of the aging facilities. (Stop Visit Photos - Wine Tasting – 5 Euros Entrance Fee per person) You can skip this stop if you wish.
 
 **FILERIMOS MOUNTAIN**
 
