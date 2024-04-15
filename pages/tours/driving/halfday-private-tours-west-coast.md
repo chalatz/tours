@@ -30,14 +30,12 @@ summary:
     and beautiful place.
 tour:
   title: RHODES WEST COAST&nbsp;&nbsp;&nbsp;&nbsp;DT3
-  summary: Rhodes Medieval City / Rhodes New Town / West Coast of the Island / Filerimos
-    / Valley of the Butterflies / Winery / Ancient Kamiros
+  summary: Rhodes Town / Panoramic Views of the West Coast / Ancient Kamiros / Valley of the Butterflies / Winery / Filerimos / Acropolis of Rhodes
   duration: Half Day
 overview:
   items:
-  - title: The Old Town, the Street of the Knights, the Grand Masters Palace (for
-      Photos)
-  - title: The New Town, the Old Harbor, the Historical Buildings
+  - title: The Old Town Walls and Gates for photos from outside
+  - title: The New Town, the Mandraki Old Harbor - Colossus of Rhodes
   - title: The North Point of the Island – Aegean and Med Sea
   - title: We drive South West 48 km / 30 miles to Ancient Kamiros
   - title: The Ancient City of Kamiros – Hellenistic Urban Layout and Design
@@ -196,11 +194,13 @@ end_page:
 
 **MEDIEVAL CITY**
 
-From your selected point, you'll be driven to the Old town Medieval City (**World Heritage Site**) to see the most imposing buildings and get your photos from outside (Stop Photos).
+Starting from the pier or your chosen departure point, we'll take you to the Medieval City, a renowned **UNESCO World Heritage Site**, where you can snap photos of the iconic walls and gates from outside.  
+
+Due to recent traffic regulations, cars are not permitted to enter the Old Town; it's exclusively for pedestrians. Our tour will conclude at one of the Old Town gates, allowing you to explore independently. Enjoy your leisurely stroll back to the ship; it's just a quick 10-minute walk from the Medieval City to the Cruise Port. This way, you save both time and money, avoiding any waiting-time charges for the driver.
 
 **NEW TOWN - MANDRAKI PORT**
 
-You continue to the New Town to the entrance of the old harbour where according to the tradition, the **Colossus of Rhodes** once stood (Stop Visit Photos).  The **Church of the Annunciation** (Stop Visit Photos) and the North Point of the Island (Stop Photos)
+Then past the imposing buildings of the New town, in **neo-colonial and Italianate style**, which lend grandeur to this part of the present-day town. You continue to the entrance of the **Mandraki Old Harbor**, atop tall columns, stand the two bronze deer - characteristic landmarks of the island. Here, according to tradition, was the place where the famous **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood (Stop Visit Photos).
 
 **ANCIENT KAMIROS**
 
@@ -220,7 +220,7 @@ Then we will travel up to Filerimos mountain, is a marvellous panoramic view, we
 
 **MONTE SMITH**
 
-On the way back we drive up the hillside to Monte Smith, **Acropolis of Rhodes City**, which offers a panoramic view of the city, the Temple of Apollo, the Hellenistic Stadium, and the Ancient Theater. (Stop Visit Photos)
+Continuing up the hillside to Monte Smith **(The Acropolis of Rhodes City)** which overlooks the city. Enjoy excellent views of the new and old town of Rhodes (Stop Visit Photos) Then you can get your photos from a distance of the **Temple of Apollo**, and the **restored** **Ancient Stadium** and the **Greek Theatre** (Stop Photos)
 
 **BACK TO THE STARTING POINT**
 

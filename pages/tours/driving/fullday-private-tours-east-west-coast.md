@@ -36,9 +36,8 @@ tour:
   duration: Full Day
 overview:
   items:
-  - title: The Old Town, the Street of the Knights, the Grand Masters Palace (for
-      photos)
-  - title: The New Town, the Old Harbor - Colossus of Rhodes
+  - title: The Old Town Walls and Gates for photos from outside
+  - title: The New Town, the Mandraki Old Harbor - Colossus of Rhodes
   - title: The North Point of the Island – Aegean and Med Sea
   - title: The Acropolis of Rhodes, the Temple of Apollo, the Greek Stadium, and the
       Theatre

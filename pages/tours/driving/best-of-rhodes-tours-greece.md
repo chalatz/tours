@@ -28,14 +28,12 @@ summary:
     fabulous scenery with plenty of fascinating and historic sites.
 tour:
   title: BEST OF RHODES AND LINDOS TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT1
-  summary: Rhodes Medieval City / Rhodes New Town / Acropolis of Rhodes / East Coast
-    of the Island / Village and Acropolis of Lindos
+  summary: Rhodes Town / Acropolis of Rhodes City / Panoramic Views of the East Coast / Rhodian Pottery Art / Village and Acropolis of Lindos
   duration: Half Day
 overview:
   items:
-  - title: The Old Town, the Street of the Knights, the Grand Masters Palace (for
-      photos)
-  - title: The New Town, the Old Harbor - Colossus of Rhodes
+  - title: The Old Town Walls and Gates for photos from outside
+  - title: The New Town, the Mandraki Old Harbor - Colossus of Rhodes
   - title: The North Point of the Island – Aegean and Med Sea
   - title: The Acropolis of Rhodes, the Temple of Apollo, the Greek Stadium, and the
       Theatre
@@ -46,7 +44,7 @@ overview:
   - title: The Panoramic View of Lindos White Village and Acropolis – Scenic
   - title: The Saint Paul's Bay – Wild Nature Landscape
   - title: The Village and the Acropolis of Lindos - Top Landmark
-  - title: On the way back we drive through Faliraki, Kallithea
+  - title: On the way back we drive through Faliraki and Kallithea
   - title: Back to Rhodes Town / Cruise Port / or to your place
   - title: 'Duration: 5:00 hours'
     classes: bold
@@ -242,11 +240,13 @@ end_page:
 
 **THE MEDIEVAL CITY**
 
-From your selected point, you'll be driven to the Old town - Medieval City (**World Heritage Site**), you'll pass through one of the gateways and by the Agora and the Collachium, where the **Knights of St. John of Jerusalem** lived and worked, building a stronghold of Christendom in the Eastern Mediterranean. Remaining remarkably intact, the Old Town is home to the churches, marble coats of arms of the Knights, cannon balls, the inns of the Knights, and most impressive the restored **Palace of the Grand Masters** (Stop Photos).
+Starting from the pier or your chosen departure point, we'll take you to the Medieval City, a renowned **UNESCO World Heritage Site**, where you can snap photos of the iconic walls and gates from outside.       
+
+Due to recent traffic regulations, cars are not permitted to enter the Old Town; it's exclusively for pedestrians. Our tour will conclude at one of the Old Town gates, allowing you to explore independently. Enjoy your leisurely stroll back to the ship; it's just a quick 10-minute walk from the Medieval City to the Cruise Port. This way, you save both time and money, avoiding any waiting-time charges for the driver.
 
 **THE NEW TOWN**
 
-Then past the imposing buildings of the New town, in neo-colonial and Italianate style, which lend grandeur to this part of the present-day town. You continue to the entrance of the old harbor, atop tall columns, stand the two bronze deer - characteristic landmarks of the island. Here, according to tradition, was the place where the famous **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood (Stop Visit Photos).
+Then past the imposing buildings of the New town, in **neo-colonial and Italianate style**, which lend grandeur to this part of the present-day town. You continue to the entrance of the **Mandraki old harbor**, atop tall columns, stand the two bronze deer - characteristic landmarks of the island. Here, according to tradition, was the place where the famous **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood (Stop Visit Photos).
 
 Near to the harbour is the **Church of the Annunciation** that houses amazing gothic wall paintings by Fotis Kontoglou and impressive chandeliers. Today it is the town's cathedral (Stop Visit Photos)
 
@@ -256,7 +256,7 @@ The North Point of the island where the Mediterranean and the Aegean Sea meet. 
 
 **MONTE SMITH**
 
-Continuing up the hillside to Monte Smith **(The Acropolis of Rhodes City)** which overlooks the city. Enjoy excellent views of the new and old town of Rhodes (Stop Visit Photos)  Then you visit the Temple of Apollo, and the restored Ancient Stadium and the Greek Theatre (Stop Visit Photos)
+Continuing up the hillside to Monte Smith **(The Acropolis of Rhodes City)** which overlooks the city. Enjoy excellent views of the new and old town of Rhodes (Stop Visit Photos)    Then you can get your photos from a distance of the **Temple of Apollo**, and the **restored** **Ancient Stadium** and the **Greek Theatre** (Stop  Photos)
 
 **THE JOURNEY TO LINDOS**
 

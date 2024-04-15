@@ -143,12 +143,7 @@ faq:
       and we watch how the tour progresses at each landmark and adjust the tour accordingly.
   - q: How much is the entrance fee in the Acropolis of Rhodes,  the Valley of the
       Butterflies, the Ostrich Farm, and the Bee Museum?
-    a: 'There is no entrance fee in the Acropolis of Rhodes<br>Valley of the Butterflies:
-      Low season Adults 3 Euros, High season Adults 5 Euros, Kids under 12 years old
-      free<br>Ostrich Farm:  Adults 7 Euros, Children under 12 years 4 Euros (Kids
-      under 3 years Free)<br>Bee Museum: Adults 3 Euros, Children under 5 years Free,
-      Children between age 6 to 18  1,50 Euros, Students 1,50 Euros, Seniors over
-      65 years old 1,50 Euros'
+    a: 'There is no entrance fee in the Acropolis of Rhodes<br>Valley of the Butterflies: Low season Adults 3 Euros, High season Adults 5 Euros, Kids under 12 years old free<br>Ostrich Farm: Adults 17 Euros, Children 3 to 12 years 12 Euros (Kids under 3 years Free)<br>Bee Museum: Adults 4 Euros, Children under 12 years Free, Children between age 13 to 18 2,50 Euros, Students 2,50 Euros, Seniors over 65 years old 2,50 Euros'
 included:
   items:
   - text: Private Tour (just your party)
