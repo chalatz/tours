@@ -139,7 +139,8 @@ gallery:
 faq:
   items:
   - q: How much are the entrance fees to the beaches?
-    a: Entrance fees to all beaches is free, but you will have to pay only if you rent a sun bed 12 euros per person.
+    a: Entrance fees to all beaches is free, but you will have to pay only if you
+      rent a sun bed 12 euros per person.
   - q: Are all the beaches in Rhodes organized?
     a: Most of the beaches are very well organized with sun beds, parasols, changing
       rooms, restaurants or bars and turquoise blue water, while others offer only
@@ -149,7 +150,8 @@ faq:
     a: Usually we spend one hour in Lindos, but it depends on you for how long you
       need to visit Lindos. To climb up it takes 15 min, to take a look 30min.
   - q: How much is the entrance fee in the Acropolis of Lindos?
-    a: Entrance fee is 12 euros per person in the Acropolis (Children under 18 years old free). No charge to enter Lindos village.
+    a: Entrance fee is 12 euros per person in the Acropolis (Children under 18 years
+      old free). No charge to enter Lindos village.
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,

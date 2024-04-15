@@ -30,7 +30,8 @@ summary:
     and beautiful place.
 tour:
   title: RHODES WEST COAST&nbsp;&nbsp;&nbsp;&nbsp;DT3
-  summary: Rhodes Town / Panoramic Views of the West Coast / Ancient Kamiros / Valley of the Butterflies / Winery / Filerimos / Acropolis of Rhodes
+  summary: Rhodes Town / Panoramic Views of the West Coast / Ancient Kamiros / Valley
+    of the Butterflies / Winery / Filerimos / Acropolis of Rhodes
   duration: Half Day
 overview:
   items:

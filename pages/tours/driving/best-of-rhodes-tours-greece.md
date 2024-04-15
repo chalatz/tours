@@ -28,7 +28,8 @@ summary:
     fabulous scenery with plenty of fascinating and historic sites.
 tour:
   title: BEST OF RHODES AND LINDOS TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT1
-  summary: Rhodes Town / Acropolis of Rhodes City / Panoramic Views of the East Coast / Rhodian Pottery Art / Village and Acropolis of Lindos
+  summary: Rhodes Town / Acropolis of Rhodes City / Panoramic Views of the East Coast
+    / Rhodian Pottery Art / Village and Acropolis of Lindos
   duration: Half Day
 overview:
   items:
