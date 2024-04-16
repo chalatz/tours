@@ -28,7 +28,7 @@ tour:
   title: BEACH TOUR RHODES&nbsp;&nbsp;&nbsp;&nbsp;DT7
   summary: Faliraki Beach / Anthony Quinn Bay / Tsambika Beach / Charaki Beach / St
     Paul’s Bay / Lindos Village and Acropolis / Sea Bath
-  duration: Half Day
+  duration: ''
 overview:
   items:
   - title: The East Coast of the Island
