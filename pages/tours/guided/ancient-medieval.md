@@ -134,7 +134,7 @@ gallery:
 faq:
   items:
   - q: How much are the entrance fees to Grand Masters Palace?
-    a: Entrance fee to Grand Masters Palace is 6 euro per person. Seniors (with Id
+    a: Entrance fee to Grand Masters Palace is 8 euro per person. Seniors (with Id
       or Passport) 3 Euros / person. Children under 18 years old free.
   - q: How much are the entrance fees to Acropolis and the Monastery of Filerimos?
     a: Entrance fee to Acropolis and Monastery is 6 euro per person. <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a>

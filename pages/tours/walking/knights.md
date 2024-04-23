@@ -127,7 +127,7 @@ gallery:
 faq:
   items:
   - q: How much is the entrance fee in Grand Masters Palace?
-    a: Entrance fee is 6 Euro per person. Seniors (with Id or Passport), 3 Euros per
+    a: Entrance fee is 8 Euro per person. Seniors (with Id or Passport), 3 Euros per
       person. Children under 18 years old, free
   - q: How do we get from the Cruise ship to the Marina Gate?
     a: You follow your licensed tour guide, is approximately 10min flat walk

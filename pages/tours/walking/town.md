@@ -135,7 +135,7 @@ faq:
     a: Yes, we can start the tour from any gate you wish, but if you are visiting
       Rhodes by a cruise ship St. Catherine Gate is the closer gate to you
   - q: How much is the entrance fee in Grand Master Palace?
-    a: Entrance fee is 6 Euro per person. Seniors (with Id or Passport), 3 Euros per
+    a: Entrance fee is 8 Euro per person. Seniors (with Id or Passport), 3 Euros per
       person. Children under 18 years old, free
   - q: How do we get from the Cruise ship to the Medieval City?
     a: You follow your licensed tour guide, is approximately 10min flat walk

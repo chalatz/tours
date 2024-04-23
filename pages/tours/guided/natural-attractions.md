@@ -134,7 +134,7 @@ gallery:
 faq:
   items:
   - q: How much is the entrance fee to Kallithea?
-    a: Entrance fee is 3 Euros per person
+    a: Entrance fee is 4 Euros per person
   - q: Are there Butterflies all the time? - And are there opening times there too
       that we might have to take into consideration?
     a: There are Butterflies only during their season, from mid-June to mid-September.

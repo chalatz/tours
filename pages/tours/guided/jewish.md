@@ -144,7 +144,7 @@ faq:
       to end of October 10:00 AM - 03:00 PM. The Jewish Cemetery open every day except
       Saturdays and Sundays 8:30 AM - 1:00 PM.
   - q: How much is the entrance fee in the Synagogue and the Jewish Museum?
-    a: Entrance fee in the Synagogue and the Jewish Museum is 4 Euros per person.
+    a: Entrance fee in the Synagogue and the Jewish Museum is 6 Euros per person.
   - q: How much is the entrance fee in the Acropolis of Lindos?
     a: Entrance fee is 12 Euros per person in the Acropolis. <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a>
       (with Id or Passport) 6 Euros per person. Children under 18 years old free.
