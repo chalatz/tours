@@ -25,7 +25,7 @@ items:
     notes: 'Suggested time for this tour: mid-June to mid-September'
     url: ./halfday_private_tours_west_coast.htm
     img: './img/tours-suggestions/DT3.jpg' 
-    duration: 'Duration: 5:30 hours'
+    duration: 'Duration: 6:00 hours'
     id: west_coast
     home_page: true
 
@@ -72,7 +72,7 @@ items:
     notes: 'Suggested time for this tour: June to September'
     url: ./beach_tour_of_rhodes.htm
     img: './img/tours-suggestions/DT7.jpg' 
-    duration: 'Duration: 5:00 hours'
+    duration: 'Duration: 6:00 hours'
     id: beach_tour
     home_page: false
     home_page_teaser:
