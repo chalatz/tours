@@ -119,7 +119,7 @@ included:
   - text: Private Tour (just your party)
   - text: Free Pick up and Drop off at Hotel / Port / Airport
   - text: Experienced knowledgeable Tour/Driver
-  - text: Mercedes Benz Sedan Car (4 passengers plus the driver) (<a href="./rhodes-group-tours.htm">or
+  - text: Mercedes Benz E Class Sedan Car (4 passengers plus the driver) (<a href="./rhodes-group-tours.htm">or
       bigger vehicle</a>)
   - text: All Car and Driver Expenses (prices are per car not per person)
   - text: Personalized Customer Service
