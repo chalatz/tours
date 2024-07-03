@@ -162,6 +162,31 @@ body {
     }
 }
 
+.col-of-8 {
+    text-align: center;
+    display: inline-block;
+    width: 50%;
+    @include breakpoint(small) {
+        width: 25%;
+        padding: 0 .5rem;
+        &:nth-child(8n + 1) {
+            clear: left;
+        }
+    }
+    @include breakpoint(large) {
+        width: 12.5%;
+        padding: 0 .5rem;
+        &:nth-child(8n + 1) {
+            clear: left;
+        }
+    }
+    img {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 .col-4-of-6 {
     clear: left;
     @include breakpoint(medium) {
