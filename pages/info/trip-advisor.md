@@ -29,11 +29,11 @@ subtitle:
     Number 1 in <u>Quality</u> for private tours (Land Tours and Shore Excursions) out of 82 Tours in Rhodes Town
 banners:
 - path: "./img/trip_advisor/trip-advisor-2024.png"
-  caption: "TRAVELLER'S CHOICE 2024"
-  alt_text: "TripAdsvisor Traveller's Choice 2024"
+  caption: TRAVELLER'S CHOICE 2024
+  alt_text: TripAdsvisor Traveller's Choice 2024
 - path: "./img/trip_advisor/trip-advisor-2020-large.png"
-  caption: "TRAVELLER'S CHOICE 2020"
-  alt_text: "TripAdsvisor Traveller's Choice 2020"
+  caption: TRAVELLER'S CHOICE 2020
+  alt_text: TripAdsvisor Traveller's Choice 2020
 - path: "./img/trip-advisor/hall_of_fame_2019.png"
   caption: HALL OF FAME 2019
   alt_text: Rhodes, Private Tours, Greece
