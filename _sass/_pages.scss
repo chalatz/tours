@@ -135,17 +135,11 @@
 .tripadvisor {
 
     &__banner-img {
-        display: inline-block;
+        display: block;
         text-align: center;
-        margin-right: .5rem;
-        @include breakpoint(smaller) {
-            margin-right: 2rem;
-        }
-        @include breakpoint(medium) {
-            margin-right: 4rem;
-        }
-        &:last-child {
-            margin-right: 0;
+        margin: 2rem;
+        @include breakpoint(small) {
+            display: inline-block;
         }
     }
 
