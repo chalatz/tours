@@ -33,9 +33,11 @@ layout: plain-page
 
   <section class="container page__content reviews-comments__carousel">
     {%- for i in (1..19) -%}
-      <div class="reviews-comments__carousel-item hidden">
-        <img src="./img/pages/reviews/A{{ i }}.jpg" alt="">
-      </div>
+      {%- if i != 15 and i != 19 -%}
+        <div class="reviews-comments__carousel-item hidden">
+          <img src="./img/pages/reviews/A{{ i }}.jpg" alt="">
+        </div>
+      {%- endif -%}
     {%- endfor -%}
   </section>
 
