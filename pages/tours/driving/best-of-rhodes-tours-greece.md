@@ -166,15 +166,6 @@ faq:
       and the treads about 18-24 inches. Not really normal stairs. No handrail on
       either side. Yes, you can take pictures from below (of a hillside.) The good
       ones are at the top.
-  - q: Can you tell me about the "donkey ride" in Lindos? Is it fun or recommended?
-      Does it take a lot of time?
-    a: The "Lindos Taxi" as they call the donkeys in Lindos is fun, and if you have
-      children with you, it is recommended! The children will love it. 10 euros for
-      a donkey one-way up. It takes 10min to go up.
-  - q: Do the donkeys use the same path and/or set of stairs that we would use to
-      climb up?
-    a: No, at Lindos the donkeys go by a slightly different path. So the stairs, and
-      the soles of your shoes, will be quite clean!
   - q: We actually have a group of 12 people, but all might not be interested in this
       itinerary.
     a: You already have 3 cars which means maximum of flexibility. You can visit Lindos
@@ -203,8 +194,7 @@ faq:
       tour. The kids love Knights Stories, castles and old midlevel citys, also Greek
       mythology and ancient wonders like the world famous Colossus of Rhodes. They
       can run into the Old Stadium and feel the Old athletic spirit. Incredible views
-      on the way for kids’ pictures, and of course they will love the donkey ride
-      up to the Acropolis of Lindos!!
+      on the way for kids’ pictures.
   - q: How long does it take a walk back to our ship from the gate near the Palace
       of Grand Master and the Archaeological Museum?
     a: Usually it takes less than 10 min, however, you can do it as long as you wish,
