@@ -31,8 +31,8 @@ gallery_rows:
     alt: Rhodes Anthony Quinn Beach, Rhodes Private Tours
     is_link: true
     new_window: true
-  - thumb: "./img/koinonika/poulaki.jpg"
-    url: https://twitter.com/RHODES_TOURS
+  - thumb: "./img/koinonika/chi.png"
+    url: https://x.com/RHODES_TOURS
     alt: Rhodes Greece, Anthony Quinn Bay, Ladiko Beach
     is_link: true
     new_window: true
