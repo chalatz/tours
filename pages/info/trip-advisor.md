@@ -24,9 +24,9 @@ meta:
 subtitle:
 - heading: 'The travelers of TripAdvisor have voted us:'
   text: |-
-    Number 1 in <u>Quality</u> for private tours (Land Tours and Shore Excursions) out of 161 Tours on Rhodes Island
+    \#1 in Quality (not Quantity) for Private Tours (Land Tours and Shore Excursions) out of 161 Tour Options on Rhodes Island
 
-    Number 1 in <u>Quality</u> for private tours (Land Tours and Shore Excursions) out of 82 Tours in Rhodes Town
+    \#1 in Quality (not Quantity) for Private Tours (Land Tours and Shore Excursions) out of 82 Tour Options on Rhodes Town
 banners:
 - path: "./img/trip_advisor/trip-advisor-2024.png"
   caption: TRAVELLER'S CHOICE 2024
@@ -107,9 +107,9 @@ extra_text: |-
 
   The answer has nothing to do with the quality of services we provide, but with TripAdvisor's new policy.  They started as a ranking site to review activities but now they have turned into a booking platform plus the reviews.  Also, TripAdvisor is responsible for Hotels and Restaurants, not for Tours anymore. Their partner Viator is responsible for Tours.
 
-  As you may noticed, you'll not see any more "*Certificate of Excellence*" or "*Hall of Fame*", instead you see *"Travelers' Choice".* TripAdvisor has been changing policies and their whole business model in the last years. It's OK with us, because our achievements are shown on our website and on many other sites as well.
+  As you may noticed, you'll not see any more "*Certificate of Excellence*" or "*Hall of Fame*", instead you see *"Travelers' Choice".* TripAdvisor has been changing policies and their whole business model in the last years.
 
-  And of course, we pride ourselves for our three greatest strengths: **Quality**, **Personal Touch**, and **Direct Local Price**. By booking directly with us, you'll always get a better price.
+  And of course, we pride ourselves for our three greatest strengths: **Quality**, **Personal Touch**, and **Direct Local Price**.
 ---
 
 {:.centered}
