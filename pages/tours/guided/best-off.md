@@ -8,19 +8,16 @@ has_form: true
 has_gallery: true
 is_of: guided_tours
 meta:
-  title: Full Day Tour of Rhodes, Greece Rhodes Full Day Tours, Rhodes Private Tours
-  http_desc: Full Day Tour of Rhodes, Greece Rhodes Full Day Tour, Rhodes Private
-    Tours
-  description: Full Day Tour of Rhodes, Greece Rhodes Full Day Tour, Rhodes Private
-    Tours
-  keywords: Full Day Tour of Rhodes, Greece Rhodes Full Day Tour, Rhodes Private Tours
-  abstract: Full Day Tour of Rhodes, Greece Rhodes Full Day Tour
+  title: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break, Rhodes Private Tours
+  http_desc: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break, Rhodes Private Tours
+  description: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break, Rhodes Private Tours
+  keywords: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break, Rhodes Private Tours, Greece
+  abstract: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
-  title: BEST OF & LUNCH BREAK&nbsp;&nbsp;&nbsp;&nbsp;GT2
-  summary: Rhodes Old & New Town / Acropolis of Rhodes / The East Coast / Free Olive
-    Oil Taste / Village & Acropolis of Lindos / Lunch by the Sea
+  title: BEST OF RHODES & LUNCH BREAK&nbsp;&nbsp;&nbsp;&nbsp;GT2
+  summary: Rhodes Old & New Town / Acropolis of Rhodes / The East Coast / Olive Oil & Wine Taste / Village & Acropolis of Lindos / Lunch by the Sea
   duration: Full Day
 summary:
   paragraphs:
@@ -37,7 +34,7 @@ overview:
   - title: Enjoy the Panoramic View of the Acropolis of Rhodes, Monte Smith
   - title: Then take a drive to Lindos 50km / 32 miles to the South East
   - title: Stop by to see the Rhodian Pottery Art - Famous Ceramics
-  - title: Taste the Local Flavored Olive Oil with Dried Herbs
+  - title: Taste the Local Wines & Flavored Olive Oil with Dried Herbs
   - title: Take in the sights of Lindos White Village and Acropolis – Scenic
   - title: Visit the St. Paul’s Bay - Scenic
   - title: Walk through the Village and Acropolis of Lindos
