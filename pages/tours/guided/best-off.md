@@ -9,15 +9,19 @@ has_gallery: true
 is_of: guided_tours
 meta:
   title: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break, Rhodes Private Tours
-  http_desc: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break, Rhodes Private Tours
-  description: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break, Rhodes Private Tours
-  keywords: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break, Rhodes Private Tours, Greece
+  http_desc: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break, Rhodes Private
+    Tours
+  description: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break, Rhodes Private
+    Tours
+  keywords: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break, Rhodes Private
+    Tours, Greece
   abstract: Full Day Tour of Rhodes, Best of Rhodes & Lunch Break
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
 tour:
   title: BEST OF RHODES & LUNCH BREAK&nbsp;&nbsp;&nbsp;&nbsp;GT2
-  summary: Rhodes Old & New Town / Acropolis of Rhodes / The East Coast / Olive Oil & Wine Taste / Village & Acropolis of Lindos / Lunch by the Sea
+  summary: Rhodes Old & New Town / Acropolis of Rhodes / The East Coast / Olive Oil
+    & Wine Taste / Village & Acropolis of Lindos / Lunch by the Sea
   duration: Full Day
 summary:
   paragraphs:
