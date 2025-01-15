@@ -1,5 +1,23 @@
 <?php
 
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+require 'PHPMailer/src/Exception.php';
+require 'PHPMailer/src/PHPMailer.php';
+require 'PHPMailer/src/SMTP.php';
+
+$mail = new PHPMailer(true);
+
+$smtp_key = include '_smtp_key.php';
+
+$mail->isSMTP();
+$mail->Host = 'mail.rhodesprivatetours.com';
+$mail->SMTPAuth = true;
+$mail->Username = 'smtp@rhodesprivatetours.com';
+$mail->Password = $smtp_key;
+//$mail->SMTPSecure = 'tls';
+$mail->Port = 25;
+
 $debug = true;
 
 if ($debug) {
@@ -76,8 +94,6 @@ function passed(){
 
 }
 
-$address = "request@rhodesprivatetours.com";
-
 $e_subject = 'New request from ' . $e_mail . '.';
 
 $msg = "Details:\r\n\n";
@@ -115,7 +131,7 @@ if ($debug) {
         echo 'failed!<br>';
     }
     print_r($msg);
-    die();
+    //die();
 }
 
 $headers = "Content-Type: text/html; charset=UTF-8";
@@ -142,13 +158,30 @@ function passed_recaptcha(){
     }
 }
 
-if(passed_recaptcha() && mail($address, $e_subject, $msg, "From: $e_mail\r\nReply-To: $e_mail\r\nReturn-Path: $e_mail\r\nContent-Type: text/plain; charset=UTF-8\r\n")){
+$address = "smtp@rhodesprivatetours.com";
+$from_address = "smtp@rhodesprivatetours.com";
+
+$mail->Sender= $address;
+$mail->SetFrom($e_mail, $e_mail, FALSE);
+
+$mail->addReplyTo($e_mail, $e_mail);
+
+$mail->addAddress($address);
+
+$mail->isHTML(false);
+$mail->Subject = $e_subject;
+$mail->Body = $msg;
+
+if(passed_recaptcha() && $mail->send()){
     // Email has sent successfully, echo a success page.
 
-    header('Location: ' . $return_to . '?contact-form-sent=success');
+    //header('Location: ' . $return_to . '?contact-form-sent=success');
+	echo 'Message sent!';
 
 } else {
-    header('Location: '. $return_to . '?contact-form-sent=fail');
+    //header('Location: '. $return_to . '?contact-form-sent=fail');
+	echo 'Message could not be sent.';
+    echo 'Mailer Error: ' . $mail->ErrorInfo;
 }
 
 ?>

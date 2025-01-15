@@ -7,5 +7,6 @@ _recaptcha_key.php
 _infodb_key.php
 _apots.php
 _geo_api_key.php
+_smtp_key.php
 package-lock.json
 Gemfile.lock
