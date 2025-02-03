@@ -22,7 +22,11 @@
     {%- endif -%}
 
     {%- unless page.layout == 'home' or page.has_form == true -%}
-      {% include pop-form.html %}
+      {%- if page.page_id == 'about2' -%}
+        {% include pop-form-test.html %}
+      {%- else -%}
+        {% include pop-form.html %}
+      {%- endif -%}
     {%- endunless -%}
 
     <a class="go-top" id="scrollBtn" href="#home">
