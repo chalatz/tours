@@ -1,7 +1,7 @@
 ---
-noindex: true
 title: RHODES PRIVATE TOURS
 permalink: about2.htm
+noindex: true
 layout: pages/about
 type: about_page
 id: about_page
