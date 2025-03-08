@@ -51,22 +51,29 @@ $regionName = $api_result['region'];
 $cityName = $api_result['city'];
 $zipCode = $api_result['zip'];
 
-$return_to = $_POST['return_to'];
-$from_page = $_POST['from_page'];
-$first_name = $_POST['first_name'];
-$last_name = $_POST['last_name'];
-$reservation_name = $_POST['reservation_name'];
-$city_state_zip = $_POST['city_state_zip'];
-$phone_fax = $_POST['phone_fax'];
-$e_mail = $_POST['e_mail'];
-$date11_month = $_POST['date11_month'];
-$date11_date = $_POST['date11_date'];
-$date11_year = $_POST['date11_year'];
-$ship_flight_num = $_POST['ship_flight_num'];
-$type_of_tour = $_POST['type_of_tour'];
-$speaking_language = $_POST['speaking_language'];
-$party_num = $_POST['party_num'];
-$comments = $_POST['comments'];
+function test_input($data) {
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
+}
+
+$return_to = test_input($_POST['return_to']);
+$from_page = test_input($_POST['from_page']);
+$first_name = test_input($_POST['first_name']);
+$last_name = test_input($_POST['last_name']);
+$reservation_name = test_input($_POST['reservation_name']);
+$city_state_zip = test_input($_POST['city_state_zip']);
+$phone_fax = test_input($_POST['phone_fax']);
+$e_mail = test_input($_POST['e_mail']);
+$date11_month = test_input($_POST['date11_month']);
+$date11_date = test_input($_POST['date11_date']);
+$date11_year = test_input($_POST['date11_year']);
+$ship_flight_num = test_input($_POST['ship_flight_num']);
+$type_of_tour = test_input($_POST['type_of_tour']);
+$speaking_language = test_input($_POST['speaking_language']);
+$party_num = test_input($_POST['party_num']);
+$comments = test_input($_POST['comments']);
 
 function passed(){
 

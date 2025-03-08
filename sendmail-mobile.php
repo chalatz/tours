@@ -42,12 +42,19 @@ $regionName = $api_result['region'];
 $cityName = $api_result['city'];
 $zipCode = $api_result['zip'];
 
-$return_to = $_POST['return_to'];
-$from_page = $_POST['from_page'];
-$page_url = $_POST['page_url'];
-$first_name = $_POST['first_name'];
-$e_mail = $_POST['e_mail'];
-$comments = $_POST['comments'];
+function test_input($data) {
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
+}
+
+$return_to = test_input($_POST['return_to']);
+$from_page = test_input($_POST['from_page']);
+$page_url = test_input($_POST['page_url']);
+$first_name = test_input($_POST['first_name']);
+$e_mail = test_input($_POST['e_mail']);
+$comments = test_input($_POST['comments']);
 
 $e_subject = 'New request from ' . $e_mail . '.';
 
