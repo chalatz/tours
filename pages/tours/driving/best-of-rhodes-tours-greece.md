@@ -28,8 +28,7 @@ summary:
     fabulous scenery with plenty of fascinating and historic sites.
 tour:
   title: BEST OF RHODES AND LINDOS TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT1
-  summary: Rhodes Town / Acropolis of Rhodes City / Panoramic Views of the East Coast
-    / Rhodian Pottery Art / Village and Acropolis of Lindos
+  summary: Rhodes Town & Acropolis / Panoramic Views of the East Coast / Rhodian Pottery Art / Village and Acropolis of Lindos / St Paul’s Bay
   duration: Half Day
 overview:
   items:
@@ -62,8 +61,7 @@ details:
   - title: 'Private Tour Activity Level:'
     desc: Moderate (or "Easy" if you skip the Acropolis of Lindos)
   - title: 'Private Tour Vehicle:'
-    desc: Sedan Car Mercedes Benz - hold 4 passengers comfortably, plus the driver
-      (<a href="./rhodes-group-tours.htm">bigger group?</a>)
+    desc: Sedan Car Mercedes E Class - hold 4 passengers, plus the driver (<a href="./rhodes-group-tours.htm">bigger group?</a>)
   - title: 'Private Tour Driver:'
     desc: English speaking knowledgeable tour/driver specialize in Private Tours
   - title: 'Private Tour Start Time:'
@@ -152,14 +150,9 @@ faq:
       at each landmark and adjust the tour accordingly.
   - q: Can we drive any closer to the Acropolis of Lindos? My mother will not be able
       to do extend walking.
-    a: No cars can drive up. To reach the Acropolis of Lindos you will be required
-      to climb 292 steps, or ride on a donkey. By the way, the donkey does not eliminate
-      all the steps - there are over 80 to go when you get off the donkey. Still worth
-      it!!
+    a: No cars can drive up. To reach the Acropolis of Lindos you will be required to climb 292 steps. Still worth it!!
   - q: How much is the entrance fee in the Acropolis of Lindos?
-    a: Entrance fee is 12 Euros per person in the Acropolis. Seniors (with Id or Passport)
-      6 Euros per person. Children under 18 years old free. No charge to enter Lindos
-      village.
+    a: Entrance fee is 20 Euros per person in the Acropolis. Children under 18 years old free.
   - q: Can you tell us, if we decide to not climb the Acropolis - can we take pictures
       of it from the bottom? Are there handrails or would it be a difficult climb?
     a: For the most part the stairs really are ok. The risers are maybe 5-7 inches
@@ -168,13 +161,11 @@ faq:
       ones are at the top.
   - q: We actually have a group of 12 people, but all might not be interested in this
       itinerary.
-    a: You already have 3 cars which means maximum of flexibility. You can visit Lindos
-      as a group of 12 people, and then you can split to the different itineraries
-      of your choices. Or if you are in a minibus we can customize the tour for you.
+    a: You can have 3 cars which means maximum of flexibility. You can visit Lindos as a group of 12 people, and then you can split to the different itineraries of your choices. Or if you are in a minibus we can customize the tour for you.
   - q: Some of the group want to climb to the Acropolis above Lindos while others
       want to just explore Lindos village.
     a: No problem. We will meet all of you later at the main square of Lindos.
-  - q: " How long will we stay in Lindos village? How long will the couples climbing
+  - q: "How long will we stay in Lindos village? How long will the couples climbing
       and looking at the Acropolis take?"
     a: Usually we spend one hour in Lindos, but it depends on you for how long you
       need to visit Lindos. To climb up it takes 10 - 15 min, to take a look 30min.
@@ -183,18 +174,10 @@ faq:
   - q: I will be travelling with an elderly grandmother. She is 84-year-old. If my
       mother decides not to go up, is there anything for a lady in her age to do while
       my son and I go up?
-    a: 'Yes, we can drive her down on the marvellous beach of Lindos have a drink
-      and a nice discuss with the driver and enjoy the panoramic view of the white
-      village and the Acropolis of Lindos while she is waiting for you. You may also
-      look at our <a href="./senior-citizens-tours-in-rhodes.htm">Seniors Tours in
-      Rhodes</a> '
+    a: 'Yes, we can drive her at a vantage point, have a drink and a nice discuss with the driver and enjoy the panoramic view of the white village and the Acropolis of Lindos while she is waiting for you. You may also look at our <a href="./senior-citizens-tours-in-rhodes.htm">Seniors Tours in Rhodes</a> '
   - q: We are a family of 4 people, 2 adults and 2 children ages 6 and 9 years. Challenge
       is to see highlights AND keep kids entertained...
-    a: The "Best of Rhodes" Half Day tour it is also an Educational and Entertainment
-      tour. The kids love Knights Stories, castles and old midlevel citys, also Greek
-      mythology and ancient wonders like the world famous Colossus of Rhodes. They
-      can run into the Old Stadium and feel the Old athletic spirit. Incredible views
-      on the way for kids’ pictures.
+    a: The "Best of Rhodes" Half Day tour it is also an Educational and Entertainment tour. The kids love Knights Stories, castles and old midlevel cities, also Greek mythology and ancient wonders like the world famous Colossus of Rhodes. 
   - q: How long does it take a walk back to our ship from the gate near the Palace
       of Grand Master and the Archaeological Museum?
     a: Usually it takes less than 10 min, however, you can do it as long as you wish,
@@ -271,7 +254,11 @@ You continue to the south of Lindos, to St. Paul 's Bay, where the apostle is s
 
 **LINDOS VILLAGE AND ACROPOLIS**
 
-Then we drive to the main square of Lindos so you can climb up to the Acropolis of Lindos, or ride the donkeys - the **"Lindos Taxi"** !!.  Walk through Lindos Village and up the many steps and narrow uphill cobblestone pathways to the summit of the Acropolis to see the magnificent remains of past civilizations. Marvel at the 4th century B.C. **Doric Temple of Athena Lindia**, a **double winged portico**, a **Byzantine church** and the **fortifications of the Knights**, including the remains of the Governor's quarters. This view is truly panoramic (Stop Visit Photos)
+Next, we drive to the main square of Lindos, where you have two options:
+
+**Option 1**: Embark on a climb to the Acropolis of Lindos. Wander through the charming village and ascend 292 steps along narrow, uphill cobblestone pathways to reach the summit. Here, you'll witness the stunning remnants of ancient civilizations, including the 4th-century B.C. Doric Temple of Athena Lindia, a double-winged portico, a Byzantine church, and the fortified structures of the Knights, such as the remains of the Governor's quarters. (Stop for visit & photos)
+
+**Option 2**: Skip the climb and instead explore the picturesque whitewashed village of Lindos at a relaxed pace. Your tour driver can take you to vantage points offering breathtaking views of the Acropolis, allowing you to capture stunning photos from a distance. This option helps you avoid the crowds and heat, especially during the summer months of June, July, and August. (Stop for visit & photos)
 
 **COASTAL ROAD OF FALIRAKI AND KALLITHEA**
 
