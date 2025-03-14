@@ -142,24 +142,16 @@ gallery:
 faq:
   items:
   - q: How much is the entrance fee in Ancient Kamiros?
-    a: Entrance fee is 6 Euro per person. <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a>
-      (with Id or Passport), 3 Euros per person. Children under 18 years old, free
+    a: Entrance fee is 10 Euro per person. Children under 18 years old, free
   - q: Are there Butterflies all the time? - And are there opening times there too
       that we might have to take into consideration?
     a: There are Butterflies only during their season, from mid-June to mid-September.
       The Valley is open from 8:00 am to 6:00 pm.
   - q: How long time we need to pass through the "Valley of the Butterflies"? How
       much is the entrance fee?
-    a: 'Actually it’s a hillside not a valley, with two gates, the Main Gate (lower
-      gate) and the Secondary Gate (upper gate). You can have a quick look using the
-      main gate (lower gate) for around 10 min, but if you want to climb up there
-      is approximately 60 min of walking time (up and down). We drive our clients
-      to the Secondary Gate (upper gate) so they can walk down easier (one way 30
-      - 40 min).<br>Entrance fee: Low season 3 Euros per person / High season 5 Euro
-      per person / kids under 12 years old free'
+    a: 'Actually it’s a hillside not a valley, with two gates, the Main Gate (lower gate) and the Secondary Gate (upper gate). You can have a quick look using the main gate (lower gate) for around 10 min, but if you want to climb up there is approximately 60 min of walking time (up and down). We drive our clients to the Secondary Gate (upper gate) so they can walk down easier (one way 30 - 40 min).<br>Entrance fee: 6 Euro per person / kids under 12 years old free'
   - q: How much are the entrance fees to Acropolis and the monastery of Ialyssos?
-    a: No entrance fee to Acropolis, to monastery is 6 euro per person. Seniors (with
-      Id or Passport) 3 Euros / person
+    a: No entrance fee to Acropolis, to monastery is 10 euro per person.
   - q: How much is the entrance fee in Acropolis of Rhodes / Monte Smith?
     a: No entrance fee, it's open sight
   - q: How long does it take a walk back to our ship from the gate near the Palace
