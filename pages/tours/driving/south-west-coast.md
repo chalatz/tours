@@ -142,11 +142,7 @@ gallery:
 faq:
   items:
   - q: How much are the entrance fees on this tour?
-    a: No entrance fee to Acropolis of Ialysos. The fee to see the monastery is 6
-      Euro per person. Seniors (with Id or Passport) 3 Euros / person. Children under
-      18 free.<br>Entrance fee to Ancient Kamiros is 6 Euro per person. Seniors (with
-      Id or Passport) 3 Euros / person. Children under 18 free.<br>The Castle of Kritinia
-      and the Castle of Monolithos are open sites, no entrance fees.
+    a: No entrance fee to Acropolis of Ialysos. The fee to see the monastery is 10 Euro per person. Children under 18 free. Entrance fee to Ancient Kamiros is 10 Euro per person. Children under 18 free.<br>The Castle of Kritinia and the Castle of Monolithos are open sites, no entrance fees.
   - q: How difficult is to climb up to Monolithos Castle?
     a: Climbing up to the castle is quite short and easy, but don’t wear sandals as
       there are no handrails and a lot of loose stones and rocks lying around everywhere.
