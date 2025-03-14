@@ -1,5 +1,5 @@
 ---
-title: Rhodes Full Day DT2
+title: Rhodes Full Day Tour DT2
 permalink: fullday_private_tours_east_west_coast.htm
 layout: tour
 type: driving_tours_page
@@ -30,9 +30,8 @@ summary:
   - Highly suggested for cruise ship passengers, those visiting Rhodes by plane for
     a day, or those staying on the island for a very short period of time.
 tour:
-  title: RHODES FULL DAY&nbsp;&nbsp;&nbsp;&nbsp;DT2
-  summary: 'Rhodes Town / East Coast of the Island and Lindos / Lunch Break Right
-    on the Water’s Edge / West Coast of the Island  '
+  title: RHODES FULL DAY TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT2
+  summary: 'Rhodes Town Highlights / East Coast, Lindos Village & Acropolis / Lunch Break at the Water’s Edge / West Coast / Filerimos / Butterflies V.'
   duration: Full Day
 overview:
   items:
@@ -54,7 +53,7 @@ overview:
   - title: And through Ixia, back to Rhodes Town / Cruise Port /or to your place
   - title: 'Duration: 8:00 hours'
     classes: bold
-  - title: 'Suggested time for this tour: mid April to mid October'
+  - title: 'Suggested time for this tour: April to October'
     classes: bold
 details:
   items:
@@ -65,7 +64,7 @@ details:
   - title: 'Private Tour Activity Level:'
     desc: Moderate
   - title: 'Private Tour Vehicle:'
-    desc: Sedan Car Mercedes Benz - hold 4 passengers comfortably, plus the driver
+    desc: Sedan Car Mercedes E Class - hold 4 passengers, plus the driver
       (<a href="./rhodes-group-tours.htm">bigger group?</a>)
   - title: 'Private Tour Driver:'
     desc: English speaking knowledgeable tour/driver specialize in Private Tours
@@ -160,12 +159,11 @@ faq:
       main gate (lower gate) for around 10 min, but if you want to climb up there
       is approximately 60 min of walking time (up and down). We drive our clients
       to the Secondary Gate (upper gate) so they can walk down easier (one way 30
-      - 40 min).<br>Entrance fee: Low season 3 Euros per person / High season 5 Euro
-      per person / kids under 12 years old free'
+      - 40 min).<br>Entrance fee: 6 Euro per person / kids under 12 years old free'
   - q: This is a full day tour, what if suddenly we need to use a W.C on the way?
     a: All the sights have W.C. facilities as well as the restaurants and the hotels.
   - q: How much are the entrance fees to Acropolis and the monastery of Ialyssos?
-    a: No entrance fee for the Acropolis, for the monastery is 6 euro per person.
+    a: No entrance fee for the Acropolis, for the monastery is 10 euro per person.
       <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a> (with Id or Passport)
       3 Euros / person
   - q: How long does it take a walk back to our ship from the gate near the Palace
@@ -201,15 +199,15 @@ end_page:
 
 **BREAK FOR LUNCH**
 
-This is a longer program includes the **"Best of Rhodes"** half day tour, and more time on the East Coast for break for delicious lunch experiences at a seaside village at the Mediterranean Sea right on the water’s edge (scenic) with fresh seafood, Rhodian cuisine and excellent local wines. (Stop Visit Taste Photos)
+This is a longer program that includes the **"BEST OF RHODES AND LINDOS TOUR DT1"** half day tour, and more time on the East Coast for break for delicious lunch experiences at a seaside village at the Mediterranean Sea right on the water’s edge (scenic) with fresh seafood, Rhodian cuisine and excellent local wines. (Stop Visit Taste Photos)
+
+**Wine and Olive Oil Tasting**
+
+A short drive brings us to an optional stop for a delightful wine and olive oil tasting experience. Here, you’ll have the chance to sample a variety of locally produced wines, each showcasing the rich flavors of the region. Additionally, you can taste high-quality olive oil, infused with dried herbs for a unique and aromatic touch. This stop offers a wonderful opportunity to savor the authentic flavors of Rhodes. (Stop Visit Taste Photos)
 
 **VALLEY OF THE BUTTERFLIES**
 
 On the way back you drive through the island, from the **East to the West Coast**, the road passes through villages and densely wooded areas, we come to the Valley of the Butterflies. This site is beautifully arranged with wooden bridges, from mid-June to mid-September thousands of butterflies appear. (Stop Visit Photos).
-
-**THE TRADITIONAL WINERY**
-
-After few miles we stop at a small Traditional Winery. Here you have the opportunity to free taste a selection of locally produced wines. As well as you get your pictures of the aging facilities. (Stop Visit Taste Photos)
 
 **FILERIMOS MOUNTAIN**
 
@@ -218,6 +216,10 @@ We continue on the west coast, and after winding upwards for 3 miles on the File
 **FILERIMOS - THE WAY OF THE CROSS**
 
 On the right hand side there is a beautiful tree sheltered pathway the "Way of the Cross" This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos).  And through **Ixia**, one of the largest tourist settlements, back to Rhodes town.
+
+**Filerimos - The Seven Herbs Liqueur**
+
+While visiting Filerimos, you have the opportunity to taste a unique local liqueur crafted from seven aromatic herbs found in the region. This special recipe, originating from Capuchin monks, remains a well-kept secret, adding to its mystique. If you wish, you can savor this rare and flavorful drink, a true taste of tradition.
 
 **BACK TO THE STARTING POINT**
 
