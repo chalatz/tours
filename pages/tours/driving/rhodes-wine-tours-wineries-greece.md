@@ -45,22 +45,22 @@ tour:
   duration: Day Tour
 overview:
   items:
-    - title: 'The Highlights of Rhodes New-Town'
-    - title: 'A scenic drive from the North to the South West 55 km / 37 miles'
-    - title: 'The drive is from Rhodes Town to Embona Village and visit:'
-    - title: 'The Cava Stafylos Wine Tasting'
-    - title: 'The Dionysos Wine Tasting'
-    - title: 'The Kounakis Traditional Winery'
-    - title: 'The Alexandris Traditional Winery'
-    - title: 'Break for Lunch Experiences at a Greek Traditional Tavern'
-    - title: 'Back through the west coast with breathtaking views of the Aegean Sea'
-    - title: 'Back to Rhodes Town / Cruise Port / or to your place'
-    - title: 'Duration: 6:00 hours'
-      classes: bold
-    - title: 'Extensions: You can add more Attractions'
-      classes: bold
-    - title: 'Suggested time for this tour: May to end of September'
-      classes: bold
+  - title: The Highlights of Rhodes New-Town
+  - title: A scenic drive from the North to the South West 55 km / 37 miles
+  - title: 'The drive is from Rhodes Town to Embona Village and visit:'
+  - title: The Cava Stafylos Wine Tasting
+  - title: The Dionysos Wine Tasting
+  - title: The Kounakis Traditional Winery
+  - title: The Alexandris Traditional Winery
+  - title: Break for Lunch Experiences at a Greek Traditional Tavern
+  - title: Back through the west coast with breathtaking views of the Aegean Sea
+  - title: Back to Rhodes Town / Cruise Port / or to your place
+  - title: 'Duration: 6:00 hours'
+    classes: bold
+  - title: 'Extensions: You can add more Attractions'
+    classes: bold
+  - title: 'Suggested time for this tour: May to end of September'
+    classes: bold
 details:
   items:
   - title: "(Stop Photos)"
@@ -149,12 +149,14 @@ gallery:
     position: following
 faq:
   items:
-  - q: We aren't big wine connoisseurs but do appreciate it, can we taste any type of wine we wish?
+  - q: We aren't big wine connoisseurs but do appreciate it, can we taste any type
+      of wine we wish?
     a: Yes of course.
   - q: Is there a requirement that we purchase a certain amount of wine?
     a: No you don't have to purchase any amount of wine.
   - q: How we get information about the wines we taste?
-    a: You will get detailed info on every winery from the wine makers while you taste the wines.
+    a: You will get detailed info on every winery from the wine makers while you taste
+      the wines.
   - q: Do we get drunk at the end of the tour?
     a: No, you don't get drunk, we never had drunk clients.
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's

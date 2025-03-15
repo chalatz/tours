@@ -31,7 +31,8 @@ summary:
     a day, or those staying on the island for a very short period of time.
 tour:
   title: RHODES FULL DAY TOUR&nbsp;&nbsp;&nbsp;&nbsp;DT2
-  summary: 'Rhodes Town Highlights / East Coast, Lindos Village & Acropolis / Lunch Break at the Water’s Edge / West Coast / Filerimos / Butterflies V.'
+  summary: Rhodes Town Highlights / East Coast, Lindos Village & Acropolis / Lunch
+    Break at the Water’s Edge / West Coast / Filerimos / Butterflies V.
   duration: Full Day
 overview:
   items:
@@ -64,8 +65,8 @@ details:
   - title: 'Private Tour Activity Level:'
     desc: Moderate
   - title: 'Private Tour Vehicle:'
-    desc: Sedan Car Mercedes E Class - hold 4 passengers, plus the driver
-      (<a href="./rhodes-group-tours.htm">bigger group?</a>)
+    desc: Sedan Car Mercedes E Class - hold 4 passengers, plus the driver (<a href="./rhodes-group-tours.htm">bigger
+      group?</a>)
   - title: 'Private Tour Driver:'
     desc: English speaking knowledgeable tour/driver specialize in Private Tours
   - title: 'Private Tour Start Time:'

@@ -149,7 +149,12 @@ faq:
       The Valley is open from 8:00 am to 6:00 pm.
   - q: How long time we need to pass through the "Valley of the Butterflies"? How
       much is the entrance fee?
-    a: 'Actually it’s a hillside not a valley, with two gates, the Main Gate (lower gate) and the Secondary Gate (upper gate). You can have a quick look using the main gate (lower gate) for around 10 min, but if you want to climb up there is approximately 60 min of walking time (up and down). We drive our clients to the Secondary Gate (upper gate) so they can walk down easier (one way 30 - 40 min).<br>Entrance fee: 6 Euro per person / kids under 12 years old free'
+    a: 'Actually it’s a hillside not a valley, with two gates, the Main Gate (lower
+      gate) and the Secondary Gate (upper gate). You can have a quick look using the
+      main gate (lower gate) for around 10 min, but if you want to climb up there
+      is approximately 60 min of walking time (up and down). We drive our clients
+      to the Secondary Gate (upper gate) so they can walk down easier (one way 30
+      - 40 min).<br>Entrance fee: 6 Euro per person / kids under 12 years old free'
   - q: How much are the entrance fees to Acropolis and the monastery of Ialyssos?
     a: No entrance fee to Acropolis, to monastery is 10 euro per person.
   - q: How much is the entrance fee in Acropolis of Rhodes / Monte Smith?

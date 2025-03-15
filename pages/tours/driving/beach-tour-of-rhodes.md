@@ -150,7 +150,8 @@ faq:
     a: Usually we spend one hour in Lindos, but it depends on you for how long you
       need to visit Lindos. To climb up it takes 15 min, to take a look 30min.
   - q: How much is the entrance fee in the Acropolis of Lindos?
-    a: Entrance fee is 20 euros per person in the Acropolis (Children under 18 years old free). No charge to enter Lindos village.
+    a: Entrance fee is 20 euros per person in the Acropolis (Children under 18 years
+      old free). No charge to enter Lindos village.
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,

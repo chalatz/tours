@@ -159,8 +159,8 @@ faq:
   - q: How much is the entrance fee in the Synagogue and the Jewish Museum?
     a: Entrance fee in the Synagogue and the Jewish Museum is 6 Euros per person.
   - q: How much is the entrance fee in the Acropolis of Lindos?
-    a: Entrance fee is 20 Euros per person in the Acropolis. Children under 18 years old free. No charge to enter Lindos village.
-      No charge to enter Lindos village.
+    a: Entrance fee is 20 Euros per person in the Acropolis. Children under 18 years
+      old free. No charge to enter Lindos village. No charge to enter Lindos village.
   - q: How long does it take a walk back to our ship from the Synagogue and the Jewish
       Quarter?
     a: Usually it takes less than 10 min.
