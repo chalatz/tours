@@ -45,24 +45,22 @@ tour:
   duration: Day Tour
 overview:
   items:
-  - title: The Highlights of Rhodes New-Town
-  - title: A scenic drive from the North to the South West 55 km / 37 miles
-  - title: 'On the way we visit:'
-  - title: The Anastasia's Boutique Winery
-  - title: 'We arrive to Embona Village and visit:'
-  - title: The Cava Stafylos Wine Tasting
-  - title: The Dionysos Free Wine Tasting
-  - title: The Kounakis Traditional Winery
-  - title: The Alexandris Winery
-  - title: Break for Lunch Experiences at a Greek Traditional Tavern
-  - title: Back through the west coast with breathtaking views of the Aegean Sea
-  - title: Back to Rhodes Town / Cruise Port / or to your place
-  - title: 'Duration: 6:00 hours'
-    classes: bold
-  - title: 'Extensions: You can add more Attractions'
-    classes: bold
-  - title: 'Suggested time for this tour: May to end of September'
-    classes: bold
+    - title: 'The Highlights of Rhodes New-Town'
+    - title: 'A scenic drive from the North to the South West 55 km / 37 miles'
+    - title: 'The drive is from Rhodes Town to Embona Village and visit:'
+    - title: 'The Cava Stafylos Wine Tasting'
+    - title: 'The Dionysos Wine Tasting'
+    - title: 'The Kounakis Traditional Winery'
+    - title: 'The Alexandris Traditional Winery'
+    - title: 'Break for Lunch Experiences at a Greek Traditional Tavern'
+    - title: 'Back through the west coast with breathtaking views of the Aegean Sea'
+    - title: 'Back to Rhodes Town / Cruise Port / or to your place'
+    - title: 'Duration: 6:00 hours'
+      classes: bold
+    - title: 'Extensions: You can add more Attractions'
+      classes: bold
+    - title: 'Suggested time for this tour: May to end of September'
+      classes: bold
 details:
   items:
   - title: "(Stop Photos)"
@@ -151,17 +149,12 @@ gallery:
     position: following
 faq:
   items:
-  - q: Do we have to pay for the wine tasting? Are there any entrance fees?
-    a: 5 Euros per person entrance fee at Anastasia’s winery, 5 Euros at Kounakis
-      winery and 5 Euros at the Cava Stafylos.
-  - q: We aren't big wine connoisseurs but do appreciate it, can we taste any type
-      of wine we wish?
+  - q: We aren't big wine connoisseurs but do appreciate it, can we taste any type of wine we wish?
     a: Yes of course.
   - q: Is there a requirement that we purchase a certain amount of wine?
     a: No you don't have to purchase any amount of wine.
   - q: How we get information about the wines we taste?
-    a: You will get detailed info on every winery from the wine makers while you taste
-      the wines.
+    a: You will get detailed info on every winery from the wine makers while you taste the wines.
   - q: Do we get drunk at the end of the tour?
     a: No, you don't get drunk, we never had drunk clients.
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
@@ -212,38 +205,13 @@ body:
     alt: Rhodes Taxi Tour Greece
     position: following
 - text: |-
-    **THE TRADITIONAL WINERY OF Mrs. ANASTASIA - WINE AND OLIVE OIL TASTING**
-
-    On the way we stop close to the Valley of the Butterflies to a small traditional local winery of Mrs. Anastasia. The Anastasia's winery was started on 1995 and later on 2002 moved here to this beautiful location. She started with only two wines and now she is producing more than 10 different type of wines. **Athiri, Red wine Mandilari, Muscat, Cabernet Sauvignon**......She is also producing **Souma** (distillate of wine) and extra virgin olive oil, you can have an olive oil tasting.  She is using biological - organic growth and biological - organic process for the vineyards and wines. Here you have the opportunity to test all the types of wines she produces, and get your pictures of the ageing facilities.
-  gallery:
-  - thumb: "./img/Tour5/IMGP0905_mod_small.jpg"
-    href: "./img/Tour5/IMGP0905_mod.jpg"
-    alt: Best wine tours of Rhodes
-    position: first
-  - thumb: "./img/Tour5/IMGP0904_mod_small.jpg"
-    href: "./img/Tour5/IMGP0904_mod.jpg"
-    alt: Wineries of Rhodes Greeces
-    position: following
-  - thumb: "./img/Tour5/rhodes_wine_tours_triantafillou_3_thumb.jpg"
-    href: "./img/Tour5/rhodes_wine_tours_triantafillou_3.jpg"
-    alt: Best wine tours of Rhodes
-    position: following
-  - thumb: "./img/Tour5/rhodes_wine_tours_triantafillou_4_thumb.jpg"
-    href: "./img/Tour5/rhodes_wine_tours_triantafillou_4.jpg"
-    alt: Rhodes wine tour
-    position: following
-  - thumb: "./img/Tour5/rhodes_taxi_tour_greece_mod_thumb.jpg"
-    href: "./img/Tour5/rhodes_taxi_tour_greece_mod.jpg"
-    alt: Rhodes Taxi Tour Greece
-    position: following
-- text: |-
     **THE JOURNEY TO EMBONA VILLAGE**
 
-    Then we continue south west to Embona, admire the Island's lush vegetation along the drive towards this beautiful village which has known days of glory in the past. The drive along the mountains path will surely reward the visitor. Empona the large village at the foot of Ataviros mountain, is the most important grape producing village on the island, which combines folklore, a lively atmosphere and good food at the local traditional tavernas.
+    On the way, admire the Island’s lush vegetation along the drive towards this beautiful village which has known days of glory in the past. The drive along the mountains path will surely reward the visitor. Empona the large village at the foot of Ataviros mountain, is the most important grape producing village on the island, which combines folklore, a lively atmosphere and good food at the local traditional tavernas.
 - text: |-
     **CAVA STAFYLOS**
 
-    Once we arrive at Embona village we visit the Cava Stafylos, then you can taste some of the stylish original wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son).  Their winery is only five years old, but the family's experience with the wines began about three generations ago and they still make their own wines to these days. Their plan is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and deferent Spices.
+    Once we arrive at Embona village we visit the Cava Stafylos, then you can taste some of the stylish original wines and liqueurs made by Logothetis family, Giannis and Andonis (Father and Son). Their winery is only five years old, but the family’s experience with the wines began about three generations ago and they still make their own wines to these days. Their plan is to produce high quality wines in affordable prices. You can also taste Olive Oil, Honey and deferent Spices. (Entrance Fee: 5 Euros per person)
   gallery:
   - thumb: "./img/Tour5/thumb-stafylos-1.jpg"
     href: "./img/Tour5/stafylos-1.jpg"
@@ -268,7 +236,7 @@ body:
 - text: |-
     **DIONYSOS WINES FROM MERKOURIS FAMILY**
 
-    We continue with Dionysos Free Wine Tasting. Here you can taste a big variety of fresh wines and the strong local spirit Souma of Merkouris Winery. They also produced the first organic wine in Rhodes.
+    We are pleased to continue offering the **Dionysos Free Wine Tasting** experience! Enjoy a diverse selection of fresh wines and the robust local spirit, **Souma**, from **Merkouris Winery**, the first producer of organic wine in Rhodes. Additionally, when **Alexandris Winery** is closed, you can sample their wines here at **Dionysos Wines**. (Entrance Fee: 3 Euros per person)
   gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_1_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_1.jpg"
@@ -293,7 +261,7 @@ body:
 - text: |-
     **KOUNAKIS WINERY**
 
-    The Kounakis Winery started from the grandfather Kyriakos Kounakis on 1928 and it still produce excellent wines till today, they can produce more than 20000 bottles of wine a year. They use the traditional natural way for growth and process. Athiri, Mandilaria (Amorgiano) Merlot, Grenache rouge, Syrah, Chardonnay. Here you can test free all the types of wines they produce, and get your pictures of the ageing facilities.
+    Kounakis Winery was founded in 1928 by Kyriakos Kounakis and has been producing exceptional wines ever since. The tradition continued with his son, Nicholas Kounakis, and is now carried on by his grandson, Giannis Kounakis. With an annual production of over 20,000 bottles, the winery follows traditional, natural methods for cultivation and winemaking. **Their varieties include Athiri, Mandilaria (Amorgiano), Merlot, Grenache Rouge, Syrah, and Chardonnay.** Visitors can enjoy tastings of all their wines and capture memorable photos of the aging facilities. They offer a variety of **Wine Tasting Programs**, starting at just **5 Euros per person**, which also serves as the **entrance fee**.
   gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_kounakis_1_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_kounakis_1.jpg"
@@ -318,7 +286,7 @@ body:
 - text: |-
     **ALEXANDRIS WINERY**
 
-    The Alexandris Winery it is a small second generation wine producer, started by the father Michael, and now his sons Stergos and Panayiotis run the winery. Panayiotis studied in France Enologist Winemaker in the university of Montpellier, they use French wooden barrels, they produce **Red wine (VDQS), White wine from the white grape variety Athiri, Sweet white wine (VDQS)...** Wine taste and pictures.
+    Alexandris Winery is a small, second-generation wine producer, originally founded by Michael Alexandris. Today, his sons, Stergos and Panayiotis, continue the family tradition. Panayiotis, who studied Enology & Winemaking at the University of Montpellier in France, brings expertise and innovation to their craft. The winery uses French oak barrels and produces a selection of high-quality wines, including:Red Wine (VDQS), White Wine from the Athiri grape variety, Sweet White Wine (VDQS)  Enjoy a wine tasting experience and explore their collection through photos and flavors. (Entrance Fee: 5 Euros per person)  If they are close when you visit them, you can taste their wines at DIONYSOS WINES - MERKOURIS FAMILY
   gallery:
   - thumb: "./img/Tour5/IMGP1002_mod_thumb.jpg"
     href: "./img/Tour5/IMGP1002_mod_1.jpg"
@@ -343,7 +311,7 @@ body:
 - text: |-
     **BREAK FOR LUNCH**
 
-    Break for Delicious Snack or Lunch Experiences at a Greek traditional tavern / Rhodian cuisine and excellent homemade wines. (at your own expense).  Embona also is a known place by locals coming from everywhere to eat grilled meat. Here you can really feel the Greek life; the wineries and restaurants have the perfect traditional sensation. Back through the west coast with breathtaking views of the Aegean Sea.
+    Take a break and indulge in a delicious snack or lunch at a traditional Greek tavern, where you can savor authentic Rhodian cuisine paired with excellent homemade wines (at your own expense). Embona is a popular destination among locals who travel from all over to enjoy its renowned grilled meats. Here, you’ll truly experience Greek life, as the wineries and restaurants offer an authentic traditional atmosphere. The journey back along the west coast treats you to breathtaking views of the Aegean Sea.
   gallery:
   - thumb: "./img/Tour5/rhodes_wine_tours_wineries_greece_5_thumb.jpg"
     href: "./img/Tour5/rhodes_wine_tours_wineries_greece_5.jpg"
