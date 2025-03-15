@@ -32,23 +32,23 @@ tour:
   duration: Full Day
 overview:
   items:
-  - title: The Drive via the East Coast of the Island
-  - title: The Seven Springs - Green Oasis
-  - title: St Nectarios - The Old Hollow Plane Tree
-  - title: The Drive through Archipoli and Eleousa Villages
-  - title: St Nickolas Fountoukli - Picturesque Locale
-  - title: Mount Profitis Ilias - Pines and Cypress Forests
-  - title: Embona Village - Free Wine Taste - Local Products
-  - title: The Castle of Kritinia and its 360° Fantastic View
-  - title: Break for Lunch at the West Coast right at the Water’s Edge
-  - title: The Drive via the West Coast Road - Aegean Sea
-  - title: Back to Rhodes Town / Cruise Port / or to your place
-  - title: 'Duration: 7:00 hours'
-    classes: bold
-  - title: 'Extensions: You can add more Attractions'
-    classes: bold
-  - title: 'Suggested time for this tour: mid-April to October'
-    classes: bold
+    - title: 'The Drive via the East Coast of the Island'
+    - title: 'The Seven Springs - Green Oasis'
+    - title: 'St Nectarios - The Old Hollow Plane Tree'
+    - title: 'The Drive through Archipoli and Eleousa Villages'
+    - title: 'St Nickolas Fountoukli - Picturesque Locale'
+    - title: 'Mount Profitis Ilias - Pines and Cypress Forests'
+    - title: 'Embona Village - Wine Taste - Local Products'
+    - title: 'The Castle of Kritinia and its 360° Fantastic View'
+    - title: 'Break for Lunch at the West Coast right at the Water’s Edge'
+    - title: 'The Drive via the West Coast Road - Aegean Sea'
+    - title: 'Back to Rhodes Town / Cruise Port / or to your place'
+    - title: 'Duration: 7:00 hours'
+      classes: bold
+    - title: 'Extensions: You can add more Attractions'
+      classes: bold
+    - title: 'Suggested time for this tour: mid-April to October'
+      classes: bold
 details:
   items:
   - title: "(Stop Photos)"
@@ -135,7 +135,7 @@ gallery:
 faq:
   items:
   - q: How much are the entrance fees on this tour?
-    a: No entrance fees on this tour
+    a: 'The Winery: 3 Euros per person'
 included:
   items:
   - text: Private Tour (just your party)
@@ -173,9 +173,9 @@ The tour takes you through the villages of **Archipoli** and **Eleousa** and to 
 
 The tour takes us through the Pines and Cypress Forests to the **Elafos Hotel**. Located atop Mount Profitis Elias, the second highest mountain on Rhodes (798 meters / 2600 feet tall), it was built in 1929 during the Italian Era. It is built like traditional Alps Hostels with stone build walls in the basement, and high pitched wooden roofs.  You can take in the breath-taking views of the Aegean Sea and take a breather for coffee or some memorable photos. (Stop Visit Photos)
 
-**EMBONA VILLAGE**
+**EMBONA VILLAGE - WINE TASTE - LOCAL PRODUCTS**
 
-We continue south-west ofthe island to Embona village, the drive up here has beautiful winding roads through forests, along cliff sides, and through grape vineyards. The village is the biggest grape producer on the island, as well as the best wines. You'll visit a winery for **free wine taste** of the three well known labels of Rhodes: The **White wine,** the **Red wine,** and the **Sweet white**. Embona village also known for the honey, olives, olive oil, and **Souma** (Rhodian aperitif like ouzo), herbs and many other homemade local Rhodian products.  These are some of the best gifts you can get for your friends back home because they can taste traditional products of Greece that keep well without refrigeration. (Stop Visit Taste Photos)
+We continue our journey southwest to the charming village of Embona, nestled in the heart of Rhodes. **The scenic drive offers breathtaking views**, winding through lush forests, dramatic cliffsides, and sprawling grape vineyards Embona is renowned as the island's largest grape producer and home to some of the finest wines in Rhodes. You'll visit a local winery to enjoy a delightful wine tasting experience, sampling the three famous Rhodian wine varieties: the crisp **White Wine,** the rich **Red Wine**, and the luscious **Sweet White**.   Beyond its exceptional wines, Embona is also celebrated for its **high-quality honey, olives, olive oil, aromatic herbs, and Souma**, a traditional Rhodian aperitif similar to ouzo. Here, you'll find an array of authentic, homemade local products that make perfect gifts for friends and family, offering them a true taste of Greece with items that travel well without refrigeration
 
 **CASTLE OF KRITINIA**
 
