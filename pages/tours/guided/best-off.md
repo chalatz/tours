@@ -154,9 +154,7 @@ faq:
       In order to comply with Port Authority and Security, we provide the tour only
       for the number of passengers declared in the reservation.
   - q: What is the entrance fee for the Acropolis of Lindos?
-    a: It’s 12 Euros per person for Adults, 6 Euros for seniors (with Id or Passport)
-      and no charge for those under 18. The village of Lindos doesn’t have an entrance
-      fee at all.
+    a: It’s 20 Euros per person for Adults, and no charge for those under 18. The village of Lindos doesn’t have an entrance fee at all.
   - q: In case we decide to not climb to the Acropolis – is it possible to photograph
       it from the bottom? Is the climb difficult and are there handrails?
     a: The stairs are perfectly OK. The risers are 5-7 inches, and the treads measure
@@ -247,7 +245,11 @@ You will make your way to **St. Paul's Bay**, just south of Lindos, where the **
 
 **LINDOS VILLAGE AND ACROPOLIS**
 
-Your <u>Guided Walking Tour</u> of **Lindos Village** starts here. You will make your way through the village, walking up narrow cobblestone steps uphill until you reach the summit of the **Acropolis of Lindos**. Here, you can see the ancient remains of past civilizations. (Stop Visit Photos)
+At this point, you can choose between two options:
+
+**Option 1:** Take a guided walking tour through Lindos Village, winding through charming cobblestone pathways before ascending the steps to the Acropolis. At the top, you'll be rewarded with breathtaking panoramic views and a glimpse into the remnants of ancient civilizations. *(Stops included for visits and photos.)*
+
+**Option 2:** Opt for a more relaxed experience by skipping the 292-step climb. Instead, your guide will take you to scenic vantage points where you can admire the Acropolis from a distance and capture stunning photos, avoiding the crowds and heat, especially during peak season.
 
 **BREAK FOR LUNCH AT THE SEA**
 
