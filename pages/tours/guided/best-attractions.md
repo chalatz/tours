@@ -159,9 +159,7 @@ faq:
       In order to comply with Port Authority and Security, we provide the tour only
       for the number of passengers declared in the reservation.
   - q: What is the cost to enter the Acropolis of Lindos?
-    a: Adults must pay 12 Euros per person; seniors pay half of that, which amounts
-      to 6 Euros, and the entrance is free for children under 18 years of age. Lindos
-      Village doesn’t have an entrance fee at all.
+    a: Adults must pay 20 Euros per person. The entrance is free for children under 18 years of age. Lindos Village doesn’t have an entrance fee at all.
   - q: If some of us don’t want to climb the Acropolis, is it feasible to take photos
       from the bottom? For those of us that do, are there handrails?
     a: The stairs are mostly safe and secure. The risers are 5-7 inches, and the treads
@@ -222,42 +220,41 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Top Attractions
 ---
-
 **THE MEDIEVAL CITY**
 
-Your tour will begin from Old Town, Medieval City, which is a world heritage site where you will pass through the **D'Amboise Gate**. This begins your Guided Walking Tour with your tour guide. Here you can take pictures from outside of the most important monuments of the old town including: **The Grand Masters Palace**, **the Street of the Knights**, **the Ruins of Sent John Cathedral**, **the Archeological Museum**, **the Byzantine Museum.** This marks the end of your walking trip. (Stop Photos)  You will find your driver/vehicle waiting for you at the Gate to start the next phase of your trip.
+Your tour will begin from Old Town, Medieval City, which is a world heritage site where you will pass through the **D'Amboise Gate**. This begins your Guided Walking Tour with your tour guide. Here you can take pictures from outside of the most important monuments of the old town including: **The Grand Masters Palace**, **the Street of the Knights**, **the Ruins of Sent John Cathedral**, **the Archeological Museum**, **the Byzantine Museum.** This marks the end of your walking trip. (Stop Photos) You will find your driver/vehicle waiting for you at the Gate to start the next phase of your trip.
 
 **THE NEW TOWN**
 
-You will be driven to the New Town where you will be able to catch a glimpse of the Old Harbor. According to tradition, **the Colossus of Rhodes**, one of the seven wonders of the ancient world, was built here. <u>Guided Tour</u> (Stop Visit Photos).
-
-Near the harbor is the **Church of the Annunciation**, which is home to famous wall artwork by the likes of Fotis Kontoglou and other artists. The place has since been transformed into the town's Cathedral.
-
-Then past the rest of the imposing buildings, where the **Venetian, Gothic and Oriental elements** blend and the north point of the island where the Mediterranean and the Aegean Sea meet.
+You will be driven to the New Town where you will be able to catch a glimpse of the Old Harbor. According to tradition, **the Colossus of Rhodes**, one of the seven wonders of the ancient world, was built here. Guided Tour (Stop Visit Photos).   Near the harbor is the **Church of the Annunciation**, which is home to famous wall artwork by the likes of Fotis Kontoglou and other artists. The place has since been transformed into the town's Cathedral.  Then past the rest of the imposing buildings, where the **Venetian, Gothic and Oriental elements** blend and the north point of the island where the Mediterranean and the Aegean Sea meet.
 
 **MONTE SMITH**
 
-Your trip will continue upwards to Monte Smith - **the Acropolis of Rhodes City** -- for a panoramic drive for picturesque views of the town. The temple of Apollo is situated towards your left and the beautiful Aegean Sea with its vibrant blue water is towards the right. (Stop Photos).
+Your trip will continue upwards to Monte Smith - **the Acropolis of Rhodes City** -- for a panoramic drive for picturesque views of the town. The temple of Apollo is situated towards your left and the beautiful Aegean Sea with its vibrant blue water is towards the right. (Stop Photos).
 
 **THE JOURNEY TO LINDOS**
 
-The journey to Lindos takes you through a 50-km or 32-mile drive along the east coast of the island, where you'll catch glimpses of beautiful villages, the blue turquoise sea, and a landscape filled with orange and olive trees.
+The journey to Lindos takes you through a **50-km or 32-mile** drive along the east coast of the island, where you'll catch glimpses of beautiful villages, the blue turquoise sea, and a landscape filled with orange and olive trees.
 
 **RHODIAN TRADITIONAL ART**
 
-Your tour guide will make a brief stop at a local pottery workshop. Here you'll see how the potter works at his wheel to make the famous rhodian potteries. You can also learn the mystery of the Pythagorean cup. <u>Guided Tour</u> (Stop Visit Photos).
+Your tour guide will make a brief stop at a local pottery workshop. Here you'll see how the potter works at his wheel to make **the famous rhodian potteries**. You can also learn the mystery of the Pythagorean cup. Guided Tour (Stop Visit Photos).
 
 **PANORAMIC VIEW OF LINDOS**
 
-The east coast also provides impressive views of **the Acropolis of Lindos** along with glimpses of the **white village** in a strikingly beautiful bay below. (Stop Photos).
+The east coast also provides impressive views of **the Acropolis of Lindos** along with glimpses of the **white village** in a strikingly beautiful bay below. (Stop Photos).
 
 **ST PAUL'S BAY**
 
-Your next visit is to St. Paul's Bay, towards the south of Lindos, where according to local tradition, **apostle Paul** used to preach Christianity to the Rhodians. The famous cave, where the film **"The Guns of Navarone"** was made, also comes into view. (Guided Tour) (Stop Photos)
+Your next visit is to St. Paul's Bay, towards the south of Lindos, where according to local tradition, **apostle Paul** used to preach Christianity to the Rhodians. The famous cave, where the film **"The Guns of Navarone"** was made, also comes into view. Guided Tour  (Stop Photos)
 
 **LINDOS VILLAGE AND ACROPOLIS**
 
-At this point, your <u>Guided Walking Tour</u> through Lindos Village starts. You will make your way up the steps across narrow pathways laced with cobblestone to the Acropolis's summit. This will open you up to a bird's eye view of what remains of the previous civilizations. (Stop Visit Photos)
+At this point, you have two options:
+
+**Option 1:** Embark on a guided walking tour through Lindos Village, navigating narrow cobblestone pathways and ascending the steps to the Acropolis. At the summit, you'll be rewarded with breathtaking panoramic views and a glimpse into the remnants of ancient civilizations. (Stop for visits and photos.)
+
+**Option 2:** Skip the 292-step climb and enjoy a more relaxed experience. Your guide will take you to scenic vantage points where you can admire the Acropolis from a distance and capture stunning photos, avoiding both the crowds and the heat, especially during peak season.
 
 **COASTAL ROAD OF FALIRAKI AND KALLITHEA**
 
