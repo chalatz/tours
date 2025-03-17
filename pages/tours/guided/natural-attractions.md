@@ -141,9 +141,13 @@ faq:
       The Valley is open from 8:00 am to 6:00 pm.
   - q: How long time we need to pass through the "Valley of the Butterflies"? How
       much is the entrance fee?
-    a: 'It’s a hillside not a valley, with two gates, the Main Gate (lower gate) and the Secondary Gate (upper gate). We drive our clients to the Secondary Gate (upper gate) so they can walk down easier (one way about 50min).  Entrance fee: 6 Euros per person / kids under 12 years old, free'
+    a: 'It’s a hillside not a valley, with two gates, the Main Gate (lower gate) and
+      the Secondary Gate (upper gate). We drive our clients to the Secondary Gate
+      (upper gate) so they can walk down easier (one way about 50min).  Entrance fee:
+      6 Euros per person / kids under 12 years old, free'
   - q: How much are the entrance fees to Acropolis and the monastery of Ialyssos?
-    a: To Acropolis and to monastery is 10 euro per person. Children under 18 years old Free
+    a: To Acropolis and to monastery is 10 euro per person. Children under 18 years
+      old Free
 included:
   items:
   - text: Private Tour (just your party)

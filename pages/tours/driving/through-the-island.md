@@ -32,23 +32,23 @@ tour:
   duration: Full Day
 overview:
   items:
-    - title: 'The Drive via the East Coast of the Island'
-    - title: 'The Seven Springs - Green Oasis'
-    - title: 'St Nectarios - The Old Hollow Plane Tree'
-    - title: 'The Drive through Archipoli and Eleousa Villages'
-    - title: 'St Nickolas Fountoukli - Picturesque Locale'
-    - title: 'Mount Profitis Ilias - Pines and Cypress Forests'
-    - title: 'Embona Village - Wine Taste - Local Products'
-    - title: 'The Castle of Kritinia and its 360° Fantastic View'
-    - title: 'Break for Lunch at the West Coast right at the Water’s Edge'
-    - title: 'The Drive via the West Coast Road - Aegean Sea'
-    - title: 'Back to Rhodes Town / Cruise Port / or to your place'
-    - title: 'Duration: 7:00 hours'
-      classes: bold
-    - title: 'Extensions: You can add more Attractions'
-      classes: bold
-    - title: 'Suggested time for this tour: mid-April to October'
-      classes: bold
+  - title: The Drive via the East Coast of the Island
+  - title: The Seven Springs - Green Oasis
+  - title: St Nectarios - The Old Hollow Plane Tree
+  - title: The Drive through Archipoli and Eleousa Villages
+  - title: St Nickolas Fountoukli - Picturesque Locale
+  - title: Mount Profitis Ilias - Pines and Cypress Forests
+  - title: Embona Village - Wine Taste - Local Products
+  - title: The Castle of Kritinia and its 360° Fantastic View
+  - title: Break for Lunch at the West Coast right at the Water’s Edge
+  - title: The Drive via the West Coast Road - Aegean Sea
+  - title: Back to Rhodes Town / Cruise Port / or to your place
+  - title: 'Duration: 7:00 hours'
+    classes: bold
+  - title: 'Extensions: You can add more Attractions'
+    classes: bold
+  - title: 'Suggested time for this tour: mid-April to October'
+    classes: bold
 details:
   items:
   - title: "(Stop Photos)"

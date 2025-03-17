@@ -134,14 +134,23 @@ gallery:
     position: following
 faq:
   items:
-    - q: How much is the entrance fee to Kallithea?
-      a: Entrance fee is 5 Euros per person
-    - q: Are there Butterflies all the time? - And are there opening times there too that we might have to take into consideration?
-      a: There are Butterflies only during their season, from mid-June to mid-September. The Valley is open from 8:00 am to 6:00 pm.
-    - q: How long time we need to pass through the "Valley of the Butterflies"? How much is the entrance fee?
-      a: 'It’s a hillside not a valley, with two gates, the Main Gate (lower gate) and the Secondary Gate (upper gate). We drive our clients to the Secondary Gate (upper gate) so they can walk down easier (one way about 40 min). Entrance fee: Low season 3 Euros per person / High season 5 Euros per person / kids under 12 years old free'
-    - q: How much are the entrance fees to Acropolis of Ialysos and the monastery of Filerimos?
-      a: To Acropolis and to monastery is 10 Euro per person. The Way of the Cross with the panoramic view is free
+  - q: How much is the entrance fee to Kallithea?
+    a: Entrance fee is 5 Euros per person
+  - q: Are there Butterflies all the time? - And are there opening times there too
+      that we might have to take into consideration?
+    a: There are Butterflies only during their season, from mid-June to mid-September.
+      The Valley is open from 8:00 am to 6:00 pm.
+  - q: How long time we need to pass through the "Valley of the Butterflies"? How
+      much is the entrance fee?
+    a: 'It’s a hillside not a valley, with two gates, the Main Gate (lower gate) and
+      the Secondary Gate (upper gate). We drive our clients to the Secondary Gate
+      (upper gate) so they can walk down easier (one way about 40 min). Entrance fee:
+      Low season 3 Euros per person / High season 5 Euros per person / kids under
+      12 years old free'
+  - q: How much are the entrance fees to Acropolis of Ialysos and the monastery of
+      Filerimos?
+    a: To Acropolis and to monastery is 10 Euro per person. The Way of the Cross with
+      the panoramic view is free
 included:
   items:
   - text: Private Tour (just your party)

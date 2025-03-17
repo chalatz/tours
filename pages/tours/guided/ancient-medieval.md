@@ -134,9 +134,11 @@ gallery:
 faq:
   items:
   - q: How much are the entrance fees to Grand Masters Palace?
-    a: Entrance fee to Grand Masters Palace is 20 euro per person. Children under 18 years old free.
+    a: Entrance fee to Grand Masters Palace is 20 euro per person. Children under
+      18 years old free.
   - q: How much are the entrance fees to Acropolis and the Monastery of Filerimos?
-    a: Entrance fee to Acropolis and Monastery is 10 euro per person. Children under 18 years old free.
+    a: Entrance fee to Acropolis and Monastery is 10 euro per person. Children under
+      18 years old free.
   - q: How much is the entrance fee in Acropolis of Rhodes / Monte Smith?
     a: No entrance fee, it's open sight
   - q: How long does it take a walk back to our ship from the gate near the Palace

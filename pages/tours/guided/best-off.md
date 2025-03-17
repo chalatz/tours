@@ -154,7 +154,8 @@ faq:
       In order to comply with Port Authority and Security, we provide the tour only
       for the number of passengers declared in the reservation.
   - q: What is the entrance fee for the Acropolis of Lindos?
-    a: It’s 20 Euros per person for Adults, and no charge for those under 18. The village of Lindos doesn’t have an entrance fee at all.
+    a: It’s 20 Euros per person for Adults, and no charge for those under 18. The
+      village of Lindos doesn’t have an entrance fee at all.
   - q: In case we decide to not climb to the Acropolis – is it possible to photograph
       it from the bottom? Is the climb difficult and are there handrails?
     a: The stairs are perfectly OK. The risers are 5-7 inches, and the treads measure

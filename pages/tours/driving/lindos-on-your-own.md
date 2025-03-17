@@ -137,24 +137,37 @@ gallery:
     position: following
 faq:
   items:
-    - q: Can we drive any closer to the Acropolis of Lindos? My mother will not be able to do extend walking.
-      a: No cars can drive up. To reach the Acropolis of Lindos you will be required to climb 292 steps, or ride on a donkey. By the way, the donkey does not eliminate all the steps - there are over 80 to go when you get off the donkey. Still worth it!!
-    - q: How much is the entrance fee in the Acropolis of Lindos?
-      a: Entrance fee is 20 Euros per person in the Acropolis. Children under 18 years old free. No charge to enter Lindos village.
-    - q: We actually have a group of 12 people, but all might not be interested in this itinerary.
-      a: You can have 3 cars which means maximum of flexibility. You can visit Lindos as a group of 12 people, and then you can split to the different itineraries of your choices. Or if you are in a minibus we can customize the tour for you.
-    - q: I will be travelling with an elderly grandmother. She is 84-year-old. If my mother decides not to go up, is there anything for a lady in her age to do while my son and I go up?
-      a: ' Yes, we can drive her down on the marvellous beach of Lindos have a drink and a nice discuss with the driver and enjoy the panoramic view of the white village and the Acropolis of Lindos while she is waiting for you. You may also look at our <a href="./senior-citizens-tours-in-rhodes.htm">Seniors Tours in
-        Rhodes</a> '
-    - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
-        the one thing we shouldn't miss?
-      a: <span class="link_inline"><a href="food_greece_menus_meals_cuisine.htm">Traditional
-        Food of Rhodes</a></span>, <span class="link_inline"><a href="rhodes_wine_tasting_tour.htm">Wines</a></span>,
-        the famous handmade <span class="link_inline"><a href="handmade_pottery_greece.htm">Rhodes
-        Pottery, Ceramics</a></span>, and the beautiful <span class="link_inline"><a
-        href="beach_tour_of_rhodes.htm">Rhodes Beaches</a></span>
-    - q: I have read some of the reviews & I am sure we'll also have fun.
-      a: No comments!
+  - q: Can we drive any closer to the Acropolis of Lindos? My mother will not be able
+      to do extend walking.
+    a: No cars can drive up. To reach the Acropolis of Lindos you will be required
+      to climb 292 steps, or ride on a donkey. By the way, the donkey does not eliminate
+      all the steps - there are over 80 to go when you get off the donkey. Still worth
+      it!!
+  - q: How much is the entrance fee in the Acropolis of Lindos?
+    a: Entrance fee is 20 Euros per person in the Acropolis. Children under 18 years
+      old free. No charge to enter Lindos village.
+  - q: We actually have a group of 12 people, but all might not be interested in this
+      itinerary.
+    a: You can have 3 cars which means maximum of flexibility. You can visit Lindos
+      as a group of 12 people, and then you can split to the different itineraries
+      of your choices. Or if you are in a minibus we can customize the tour for you.
+  - q: I will be travelling with an elderly grandmother. She is 84-year-old. If my
+      mother decides not to go up, is there anything for a lady in her age to do while
+      my son and I go up?
+    a: ' Yes, we can drive her down on the marvellous beach of Lindos have a drink
+      and a nice discuss with the driver and enjoy the panoramic view of the white
+      village and the Acropolis of Lindos while she is waiting for you. You may also
+      look at our <a href="./senior-citizens-tours-in-rhodes.htm">Seniors Tours in
+      Rhodes</a> '
+  - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
+      the one thing we shouldn't miss?
+    a: <span class="link_inline"><a href="food_greece_menus_meals_cuisine.htm">Traditional
+      Food of Rhodes</a></span>, <span class="link_inline"><a href="rhodes_wine_tasting_tour.htm">Wines</a></span>,
+      the famous handmade <span class="link_inline"><a href="handmade_pottery_greece.htm">Rhodes
+      Pottery, Ceramics</a></span>, and the beautiful <span class="link_inline"><a
+      href="beach_tour_of_rhodes.htm">Rhodes Beaches</a></span>
+  - q: I have read some of the reviews & I am sure we'll also have fun.
+    a: No comments!
 included:
   items:
   - text: Private Tour (just your party)

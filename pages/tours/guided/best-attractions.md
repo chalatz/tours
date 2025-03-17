@@ -159,7 +159,8 @@ faq:
       In order to comply with Port Authority and Security, we provide the tour only
       for the number of passengers declared in the reservation.
   - q: What is the cost to enter the Acropolis of Lindos?
-    a: Adults must pay 20 Euros per person. The entrance is free for children under 18 years of age. Lindos Village doesn’t have an entrance fee at all.
+    a: Adults must pay 20 Euros per person. The entrance is free for children under
+      18 years of age. Lindos Village doesn’t have an entrance fee at all.
   - q: If some of us don’t want to climb the Acropolis, is it feasible to take photos
       from the bottom? For those of us that do, are there handrails?
     a: The stairs are mostly safe and secure. The risers are 5-7 inches, and the treads
@@ -220,6 +221,7 @@ end_page:
     and dates."
   short_text: Experts in Rhodes Top Attractions
 ---
+
 **THE MEDIEVAL CITY**
 
 Your tour will begin from Old Town, Medieval City, which is a world heritage site where you will pass through the **D'Amboise Gate**. This begins your Guided Walking Tour with your tour guide. Here you can take pictures from outside of the most important monuments of the old town including: **The Grand Masters Palace**, **the Street of the Knights**, **the Ruins of Sent John Cathedral**, **the Archeological Museum**, **the Byzantine Museum.** This marks the end of your walking trip. (Stop Photos) You will find your driver/vehicle waiting for you at the Gate to start the next phase of your trip.

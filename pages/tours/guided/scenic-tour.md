@@ -140,7 +140,8 @@ faq:
       (upper gate) so they can walk down easier.  Entrance fee: Low season 3 Euros
       per person / High season 5 Euros per person / kids under 12 years old free'
   - q: How much are the entrance fees to Acropolis and the Monastery of Filerimos?
-    a: Entrance fee to Acropolis and Monastery is 10 euro per person. Children under 18 years old free.
+    a: Entrance fee to Acropolis and Monastery is 10 euro per person. Children under
+      18 years old free.
   - q: How much is the entrance fee in Acropolis of Rhodes / Monte Smith?
     a: No entrance fee, it's open sight
 included:
