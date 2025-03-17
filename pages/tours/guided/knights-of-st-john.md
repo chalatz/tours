@@ -144,9 +144,7 @@ faq:
       look around, get your photos and not huddled together. Your guide also watches
       how the tour progresses at each landmark and adjust the tour accordingly.
   - q: How much are the entrance fees to Acropolis and the Monastery of Filerimos?
-    a: Entrance fee to Acropolis and Monastery is 10 euro per person. Children under
-      18 years old free. (with Id or Passport) 3 Euros / person. Children under 18
-      years old free.
+    a: Entrance fee to Acropolis and Monastery is 10 euro per person. Children under 18 years old free.
   - q: How much is the entrance fee in the Acropolis of Lindos?
     a: Entrance fee is 20 Euros per person in the Acropolis. Children under 18 years
       old free. No charge to enter Lindos village.

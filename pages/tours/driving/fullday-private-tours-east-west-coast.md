@@ -165,8 +165,6 @@ faq:
     a: All the sights have W.C. facilities as well as the restaurants and the hotels.
   - q: How much are the entrance fees to Acropolis and the monastery of Ialyssos?
     a: No entrance fee for the Acropolis, for the monastery is 10 euro per person.
-      <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a> (with Id or Passport)
-      3 Euros / person
   - q: How long does it take a walk back to our ship from the gate near the Palace
       of Grand Master and the Archaeological Museum?
     a: Usually it takes less than 10 min, however, you can do it as long as you wish,
@@ -202,7 +200,7 @@ end_page:
 
 This is a longer program that includes the **"BEST OF RHODES AND LINDOS TOUR DT1"** half day tour, and more time on the East Coast for break for delicious lunch experiences at a seaside village at the Mediterranean Sea right on the water’s edge (scenic) with fresh seafood, Rhodian cuisine and excellent local wines. (Stop Visit Taste Photos)
 
-**Wine and Olive Oil Tasting**
+**WINE AND OLIVE OIL TASTING**
 
 A short drive brings us to an optional stop for a delightful wine and olive oil tasting experience. Here, you’ll have the chance to sample a variety of locally produced wines, each showcasing the rich flavors of the region. Additionally, you can taste high-quality olive oil, infused with dried herbs for a unique and aromatic touch. This stop offers a wonderful opportunity to savor the authentic flavors of Rhodes. (Stop Visit Taste Photos)
 
@@ -218,7 +216,7 @@ We continue on the west coast, and after winding upwards for 3 miles on the File
 
 On the right hand side there is a beautiful tree sheltered pathway the "Way of the Cross" This is a series of shrines with relief scenes of the Passion, which leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross, from which you can enjoy a stunning view. (Stop Visit Photos).  And through **Ixia**, one of the largest tourist settlements, back to Rhodes town.
 
-**Filerimos - The Seven Herbs Liqueur**
+**FILERIMOS - THE SEVEN HERBS LIQUEUR**
 
 While visiting Filerimos, you have the opportunity to taste a unique local liqueur crafted from seven aromatic herbs found in the region. This special recipe, originating from Capuchin monks, remains a well-kept secret, adding to its mystique. If you wish, you can savor this rare and flavorful drink, a true taste of tradition.
 

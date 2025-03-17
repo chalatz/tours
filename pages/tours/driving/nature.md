@@ -200,7 +200,7 @@ From there the coastal road of **Kremasti and Ialysos** will take us along the
 
 You'll notice a pathway on your right, sheltered by beautiful trees. This is the "Way of the Cross"**.** The path is adorned with shrines depicting the 'relief scene of the Passion'. The path leads from the main square to the west edge of the plateau to the 16 meter / 48 feet cross. And here you can enjoy the splendor of an incredible view. (Stop Visit Photos)
 
-**FILERIMOS - THE 7 herbs liqueur**
+**FILERIMOS - THE 7 HERBS LIQUEUR**
 
 Here you can experience the unique and aromatic **7 Herbs Liqueur**, crafted from a secret blend of seven locally sourced herbs. This exceptional recipe, passed down from Capuchin monks, has been carefully preserved through generations. Indulge in its rich, herbal essence and discover a taste of tradition with every sip.
 
