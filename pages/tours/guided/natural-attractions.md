@@ -134,21 +134,16 @@ gallery:
 faq:
   items:
   - q: How much is the entrance fee to Kallithea?
-    a: Entrance fee is 4 Euros per person
+    a: Entrance fee is 5 Euros per person
   - q: Are there Butterflies all the time? - And are there opening times there too
       that we might have to take into consideration?
     a: There are Butterflies only during their season, from mid-June to mid-September.
       The Valley is open from 8:00 am to 6:00 pm.
   - q: How long time we need to pass through the "Valley of the Butterflies"? How
       much is the entrance fee?
-    a: 'It’s a hillside not a valley, with two gates, the Main Gate (lower gate) and
-      the Secondary Gate (upper gate). We drive our clients to the Secondary Gate
-      (upper gate) so they can walk down easier (one way about 50min).<br>Entrance
-      fee: Low season 3 Euros per person / High season 5 Euros per person / kids under
-      12 years old, free'
+    a: 'It’s a hillside not a valley, with two gates, the Main Gate (lower gate) and the Secondary Gate (upper gate). We drive our clients to the Secondary Gate (upper gate) so they can walk down easier (one way about 50min).  Entrance fee: 6 Euros per person / kids under 12 years old, free'
   - q: How much are the entrance fees to Acropolis and the monastery of Ialyssos?
-    a: To Acropolis and to monastery is 6 euro per person. <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a>
-      (with Id or Passport) 3 Euros / person.
+    a: To Acropolis and to monastery is 10 euro per person. Children under 18 years old Free
 included:
   items:
   - text: Private Tour (just your party)
