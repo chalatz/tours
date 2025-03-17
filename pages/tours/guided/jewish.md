@@ -146,9 +146,7 @@ faq:
   - q: How much is the entrance fee in the Synagogue and the Jewish Museum?
     a: Entrance fee in the Synagogue and the Jewish Museum is 6 Euros per person.
   - q: How much is the entrance fee in the Acropolis of Lindos?
-    a: Entrance fee is 12 Euros per person in the Acropolis. <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a>
-      (with Id or Passport) 6 Euros per person. Children under 18 years old free.
-      No charge to enter Lindos village.
+    a: Entrance fee is 20 Euros per person in the Acropolis. Children under 18 years old free. No charge to enter Lindos village.
   - q: How long does it take a walk back to our ship from the Synagogue and the Jewish
       Quarter?
     a: Usually it takes 10 min.
@@ -223,7 +221,11 @@ Your journey will continue to St. Paul's Bay to the south of Lindos, bringing in
 
 **THE VILLAGE AND ACROPOLIS OF LINDOS**
 
-As you enter Lindos Village, your <u>Guided Walking Tour</u> will start. You will make our way up the narrow cobblestone pathway leading to the summit of the Acropolis of Lindos, which will provide you with a beautiful view of the remains of past civilizations. (Stop Visit Photos)
+Upon entering Lindos Village, you have two options for your tour:
+
+**Option 1**: Embark on a guided walking tour up the narrow cobblestone pathway to the summit of the Acropolis of Lindos. Along the way, enjoy breathtaking views of ancient ruins and remnants of past civilizations. (Stop for visits and photos.)
+
+**Option 2:** Skip the 292-step climb to the Acropolis and explore only the charming whitewashed village. Your guide will take you to vantage points where you can admire the Acropolis from a distance and capture stunning photos---avoiding the crowds and heat, especially during peak season.
 
 **COASTAL ROAD OF FALIRAKI AND KALLITHEA**
 
