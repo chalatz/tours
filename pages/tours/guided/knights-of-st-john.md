@@ -144,12 +144,10 @@ faq:
       look around, get your photos and not huddled together. Your guide also watches
       how the tour progresses at each landmark and adjust the tour accordingly.
   - q: How much are the entrance fees to Acropolis and the Monastery of Filerimos?
-    a: Entrance fee to Acropolis and Monastery is 6 euro per person. <a href="./senior-citizens-tours-in-rhodes.htm">Seniors</a>
+    a: Entrance fee to Acropolis and Monastery is 10 euro per person. Children under 18 years old free.
       (with Id or Passport) 3 Euros / person. Children under 18 years old free.
   - q: How much is the entrance fee in the Acropolis of Lindos?
-    a: Entrance fee is 12 Euros per person in the Acropolis. Seniors (with Id or Passport)
-      6 Euros per person. Children under 18 years old free. No charge to enter Lindos
-      village.
+    a: Entrance fee is 20 Euros per person in the Acropolis. Children under 18 years old free. No charge to enter Lindos village.
   - q: What is Rhodes known for, in terms of food / beverage and souvenirs? What's
       the one thing we shouldn't miss?
     a: The <a href="./food_greece_menus_meals_cuisine.htm">Traditional Food of Rhodes</a>,
