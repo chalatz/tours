@@ -203,9 +203,17 @@ From a vantage point along the coast, the impressive **Acropolis of Lindos** w
 
 **LINDOS VILLAGE AND ACROPOLIS**
 
-Then we drive to the **Central Square of Lindos** so you can explore the village, or climb up to the Acropolis of Lindos, or ride the donkeys - the "Lindos Taxi"!! (Stop Visit Photos)
+Upon arriving in Lindos, you can choose from the following options:
 
-Later your driver will meet you at the main square of Lindos (at a prearranged time) **to drive you to one of the above beaches - of your own choice for sea bath.**
+-   **Option 1:** Drive to the main square of Lindos, where you can explore the village and climb 292 steps to the Acropolis. *(Stop, Visit, Photos)*
+
+-   **Option 2:** Drive to the main square of Lindos but skip the climb to the Acropolis, enjoying only the charming whitewashed village. *(Stop, Visit, Photos)*
+
+-   **Option 3:** Skip the village and Acropolis entirely. Instead, your driver will take you to scenic vantage points for breathtaking photos from a distance. This option allows you to avoid the crowds and heat while maximizing your time for a refreshing swim.
+
+**SWIMMING IN THE MEDITERRANEAN SEA**
+
+On the way back, we'll take you to a beach of your choice for a relaxing swim in the crystal-clear waters.
 
 **RHODIAN TRADITIONAL ART**
 
