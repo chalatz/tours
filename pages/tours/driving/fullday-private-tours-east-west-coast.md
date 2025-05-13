@@ -47,9 +47,9 @@ overview:
   - title: The Saint Paul's bay – Wild Nature Landscape
   - title: The Village and the Acropolis of Lindos - Top Landmark
   - title: Break for Delicious Lunch Experiences - right on the water’s edge
+  - title: Olive Oil and Wine Tasting Experience
   - title: A scenic drive from the East to the West Coast
   - title: The Valley of the Butterflies - Unique Nature Reserve
-  - title: The Traditional Winery – Free Wine Tasting
   - title: The Ancient Acropolis of Ialyssos – Amazing View of the West Coast
   - title: And through Ixia, back to Rhodes Town / Cruise Port /or to your place
   - title: 'Duration: 8:00 hours'
@@ -200,9 +200,9 @@ end_page:
 
 This is a longer program that includes the **"BEST OF RHODES AND LINDOS TOUR DT1"** half day tour, and more time on the East Coast for break for delicious lunch experiences at a seaside village at the Mediterranean Sea right on the water’s edge (scenic) with fresh seafood, Rhodian cuisine and excellent local wines. (Stop Visit Taste Photos)
 
-**WINE AND OLIVE OIL TASTING**
+**WINE AND OLIVE OIL TASTING EXPERIENCE**
 
-A short drive brings us to an optional stop for a delightful wine and olive oil tasting experience. Here, you’ll have the chance to sample a variety of locally produced wines, each showcasing the rich flavors of the region. Additionally, you can taste high-quality olive oil, infused with dried herbs for a unique and aromatic touch. This stop offers a wonderful opportunity to savor the authentic flavors of Rhodes. (Stop Visit Taste Photos)
+A short drive brings us to an optional stop for a delightful wine and olive oil tasting experience. Here, you’ll have the chance to sample a variety of locally produced wines, each showcasing the rich flavors of the region. Additionally, you can taste high-quality olive oil, infused with dried herbs for a unique and aromatic touch. This stop offers a wonderful opportunity to savor the authentic flavors of Rhodes. (Stop Visit Taste Photos – 3 Euros / person Entrance Fee)
 
 **VALLEY OF THE BUTTERFLIES**
 
