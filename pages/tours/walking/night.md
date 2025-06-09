@@ -23,7 +23,7 @@ meta:
 tour:
   title: RHODES BY NIGHT TOUR&nbsp;&nbsp;&nbsp;&nbsp;WT3
   summary: Old Town Evening Walking Tour / Free Time for Shopping / Dinner at a Local
-    Restaurant / New Town τhe Old Port Mandraki
+    Restaurant / New Town the Old Port Mandraki
   duration: ''
 summary:
   paragraphs:

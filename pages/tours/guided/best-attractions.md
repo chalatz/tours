@@ -224,11 +224,11 @@ end_page:
 
 **THE MEDIEVAL CITY**
 
-Your tour will begin from Old Town, Medieval City, which is a world heritage site where you will pass through the **D'Amboise Gate**. This begins your Guided Walking Tour with your tour guide. Here you can take pictures from outside of the most important monuments of the old town including: **The Grand Masters Palace**, **the Street of the Knights**, **the Ruins of Sent John Cathedral**, **the Archeological Museum**, **the Byzantine Museum.** This marks the end of your walking trip. (Stop Photos) You will find your driver/vehicle waiting for you at the Gate to start the next phase of your trip.
+Your tour will begin from Old Town, Medieval City, which is a **World Heritage Site** where you will pass through the **D'Amboise Gate**. (which is located on the highest point of the Medieval City, so you can walk downhill)  This begins your Guided Walking Tour with your tour guide. Here you can take pictures from outside of the most important monuments of the old town including: **The Grand Masters Palace**, **the Street of the Knights**, **the Ruins of Sent John Cathedral**, **the Archeological Museum**, **the Byzantine Museum.**   Your walking tour end at the **Marine Gate** where you will find your Vehicle / Driver waiting for you to start the next phase of your tour.
 
 **THE NEW TOWN**
 
-You will be driven to the New Town where you will be able to catch a glimpse of the Old Harbor. According to tradition, **the Colossus of Rhodes**, one of the seven wonders of the ancient world, was built here. Guided Tour (Stop Visit Photos).   Near the harbor is the **Church of the Annunciation**, which is home to famous wall artwork by the likes of Fotis Kontoglou and other artists. The place has since been transformed into the town's Cathedral.  Then past the rest of the imposing buildings, where the **Venetian, Gothic and Oriental elements** blend and the north point of the island where the Mediterranean and the Aegean Sea meet.
+You will be driven to the New Town where you will be able to catch a glimpse of the **Mandraki Old Harbor**. According to tradition, **the Colossus of Rhodes**, one of the seven wonders of the ancient world, was built here. <u>Guided Tour</u> (Stop Visit Photos).   Near the harbor is the **Church of the Annunciation**, which is home to famous wall artwork by the likes of Fotis Kontoglou and other artists. The place has since been transformed into the town's Cathedral.  Then past the rest of the imposing buildings, where the **Venetian, Gothic and Oriental elements** blend and the north point of the island where the Mediterranean and the Aegean Sea meet.
 
 **MONTE SMITH**
 
@@ -240,7 +240,7 @@ The journey to Lindos takes you through a **50-km or 32-mile** drive along the e
 
 **RHODIAN TRADITIONAL ART**
 
-Your tour guide will make a brief stop at a local pottery workshop. Here you'll see how the potter works at his wheel to make **the famous rhodian potteries**. You can also learn the mystery of the Pythagorean cup. Guided Tour (Stop Visit Photos).
+Your tour guide will make a brief stop at a local pottery workshop. Here you'll see how the potter works at his wheel to make **the famous rhodian potteries**. You can also learn the mystery of the Pythagorean cup. <u>Guided Tour</u> (Stop Visit Photos).
 
 **PANORAMIC VIEW OF LINDOS**
 
@@ -248,7 +248,7 @@ The east coast also provides impressive views of **the Acropolis of Lindos** a
 
 **ST PAUL'S BAY**
 
-Your next visit is to St. Paul's Bay, towards the south of Lindos, where according to local tradition, **apostle Paul** used to preach Christianity to the Rhodians. The famous cave, where the film **"The Guns of Navarone"** was made, also comes into view. Guided Tour  (Stop Photos)
+Your next visit is to St. Paul's Bay, towards the south of Lindos, where according to local tradition, **apostle Paul** used to preach Christianity to the Rhodians. The famous cave, where the film **"The Guns of Navarone"** was made, also comes into view. <u>Guided Tour</u>  (Stop Photos)
 
 **LINDOS VILLAGE AND ACROPOLIS**
 
@@ -260,7 +260,7 @@ At this point, you have two options:
 
 **COASTAL ROAD OF FALIRAKI AND KALLITHEA**
 
-The return journey will take you to the sandy beaches of Faliraki through the coastal road and the Kallithea Sea.
+The return journey will take you to the sandy beaches of **Faliraki** through the coastal road and the **Kallithea Sea**.
 
 **BACK TO THE STARTING POINT**
 

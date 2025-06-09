@@ -113,8 +113,8 @@ sections:
     For more information please visit the official website of the Order at: [http://www.orderofmalta.int/](http://www.orderofmalta.int/)
   title: ''
   gallery_rows: []
-- title: Τhe Medieval Rose Festival
-  desc: Τhe Medieval Rose Festival is held every year on Rhodes since 2006, organized
+- title: The Medieval Rose Festival
+  desc: The Medieval Rose Festival is held every year on Rhodes since 2006, organized
     by the "**Medieval Rose**" association and is a unique of its kind event in Greece..
     It is a cultural event inspired of the medieval history of the island and re-enacts
     the every day life as well as legendary events of the time.
