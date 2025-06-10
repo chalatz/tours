@@ -232,10 +232,6 @@ In your journey to Lindos, you will drive across 50 km / 32 miles of the east co
 
 You will make a brief stop at the local pottery workshop where the famous pottery of Rhodes is produced. Here, you can witness firsthand how the potter works at his wheel to makes these wonderful pieces of art. <u>Guided Tour</u> (Stop Visit Photos)
 
-**FREE OLIVE OIL TASTE** 
-
-Next stop is for free Olive Oil Taste. Here you can taste a big variety of different **flavors of olive oil infused with dried herbs**, examples include chilies, thyme, hot peppers, rosemary, garlic, oregano, and sun-dried tomatoes. You can also taste some of the local wines. (Stop Visit Taste Photos)
-
 **PANORAMIC VIEW OF LINDOS**
 
 The coast provides an excellent vantage point that provides you with a bird's eye view of the Acropolis of Lindos, with the tiny white village studded across the visually striking bay below. (Stop Photos)
@@ -255,6 +251,10 @@ At this point, you can choose between two options:
 **BREAK FOR LUNCH AT THE SEA**
 
 Your return journey from Lindos will include a stop for some delicious snacks and lunch at a picturesque seaside village right near the Mediterranean Sea's edge. (at your own expense). Here, you can indulge in the best that **Greek Gastronomy** has to offer, including fresh seafood, local cuisine and excellent local wines.
+
+**OLIVE OIL, WINE & HONEY TASTE**
+
+Next stop is for Olive Oil Taste. Here you can taste a big variety of different **flavors of olive oil infused with dried herbs**, examples include chilies, thyme, hot peppers, rosemary, garlic, oregano. You can also taste some of the local excellent Wines and Honey. Entrance Fee: 3 Euros per person. (Stop Visit Taste Photos)
 
 **COASTAL ROAD OF FALIRAKI AND KALLITHEA**
 
