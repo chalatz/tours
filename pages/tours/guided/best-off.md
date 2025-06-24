@@ -38,11 +38,11 @@ overview:
   - title: Enjoy the Panoramic View of the Acropolis of Rhodes, Monte Smith
   - title: Then take a drive to Lindos 50km / 32 miles to the South East
   - title: Stop by to see the Rhodian Pottery Art - Famous Ceramics
-  - title: Taste the Local Wines & Flavored Olive Oil with Dried Herbs
   - title: Take in the sights of Lindos White Village and Acropolis – Scenic
   - title: Visit the St. Paul’s Bay - Scenic
   - title: Walk through the Village and Acropolis of Lindos
   - title: On the way back Relax on the Water’s Edge for Lunch - Scenic
+  - title: Taste the Local Wines & Flavored Olive Oil with Dried Herbs
   - title: Return via the Faliraki Beach and Kallithea Spa
   - title: Back to Rhodes Town / Cruise Ship / or to your place
   - title: 'Duration: Approximately 7:00 hours'
