@@ -177,11 +177,11 @@ end_page:
 
 After reaching your designated meeting point, your tour of the Old Town, Medieval City -- a World Heritage Site -- will commence. You will make a stop through the **D'Amboise Gate** to take pictures of the site. This marks the beginning of your <u>Guided Walking Tour</u> with your tour guide. You will get picturesque views from the outside of important monuments including: **Grand Masters Palace, Street of the Knights, Ruins of Sent John Cathedral,** **Archeological Museum, Byzantine Museum** (Stop Photos)  Your walking tour ends upon reaching the Marine Gate.
 
+{% include partials/collapsible-md-content.html %}
+
 **THE NEW TOWN**
 
 You will make your way past impressive buildings of the New Town and visit the Old Port Mandraki. Legend has it that the iconic **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood tall. <u>Guided Tour</u>  (Stop Visit Photos).
-
-{% include partials/collapsible-md-content.html %}
 
 **MONTE SMITH**
 

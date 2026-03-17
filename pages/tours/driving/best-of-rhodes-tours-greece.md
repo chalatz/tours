@@ -229,6 +229,8 @@ Starting from the pier or your chosen departure point, we'll take you to the Med
 
 Due to recent traffic regulations, cars are not permitted to enter the Old Town; it's exclusively for pedestrians. Our tour will conclude at one of the Old Town gates, allowing you to explore independently. Enjoy your leisurely stroll back to the ship; it's just a quick 10-minute walk from the Medieval City to the Cruise Port. This way, you save both time and money, avoiding any waiting-time charges for the driver.
 
+{% include partials/collapsible-md-content.html %}
+
 **THE NEW TOWN**
 
 Then past the imposing buildings of the New town, in **neo-colonial and Italianate style**, which lend grandeur to this part of the present-day town. You continue to the entrance of the **Mandraki old harbor**, atop tall columns, stand the two bronze deer - characteristic landmarks of the island. Here, according to tradition, was the place where the famous **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood (Stop Visit Photos).
@@ -238,8 +240,6 @@ Near to the harbour is the **Church of the Annunciation** that houses amazing 
 Then past the rest of the imposing buildings, where the Venetian, Gothic and Oriental elements blend. The **City Hall** located at the centre of Rhodes town at the historical location of the port. The impressive **Administration building** or **Governor's Palace** which houses the Prefecture of the Dodecanese. (Venetian Palace style design, with details of the Doge's Palace in Venice). The **National Theatre of Rhodes** it is one of the finest specimens of the International and the Italian style of architecture **"Teatro Puccini"**. The imposing **"Hotel of the Roses"** was built by the Italians, in 1932. Today it house's the **"Casino of Rhodes"**.
 
 The North Point of the island where the Mediterranean and the Aegean Sea meet. (Stop Photos)
-
-{% include partials/collapsible-md-content.html %}
 
 Guests staying at hotels who wish to visit the Old Town during a Chauffeur-Driven Tour can also **request driver waiting time**, which can be arranged upon request.
 
