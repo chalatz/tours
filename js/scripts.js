@@ -441,6 +441,18 @@
 
     };
 
+    collapse_sibling = function(){
+        var button = $('.collapse-sibling');
+
+        button.on('click', function(){
+            var $this = $(this),
+                icon = $this.find('.tour__read-more-arrow-icon');
+
+            icon.toggleClass('fa-angle-up fa-angle-down');
+        });
+
+    };
+
     fill_year();
 
     handle_faq();
@@ -462,6 +474,8 @@
     handle_form_loader();
 
     handle_privacy_modal();
+
+    collapse_sibling();
 
     // scroll_to('goto-rhodes-sites', 'rhodes-sites');
     // scroll_to('goto-more-info', 'more-info');

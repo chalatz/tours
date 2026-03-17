@@ -10,6 +10,7 @@ ref: best_of_rhodes
 has_form: true
 has_gallery: true
 is_of: driven_tours
+has_collapsible_content: true
 meta:
   title: BEST OF RHODES AND LINDOS TOUR
   description: Best of Rhodes and Lindos Tour, Best Lindos Tours, Best Rhodes and
@@ -238,6 +239,22 @@ Near to the harbour is the **Church of the Annunciation** that houses amazing 
 Then past the rest of the imposing buildings, where the Venetian, Gothic and Oriental elements blend. The **City Hall** located at the centre of Rhodes town at the historical location of the port. The impressive **Administration building** or **Governor's Palace** which houses the Prefecture of the Dodecanese. (Venetian Palace style design, with details of the Doge's Palace in Venice). The **National Theatre of Rhodes** it is one of the finest specimens of the International and the Italian style of architecture **"Teatro Puccini"**. The imposing **"Hotel of the Roses"** was built by the Italians, in 1932. Today it house's the **"Casino of Rhodes"**.
 
 The North Point of the island where the Mediterranean and the Aegean Sea meet. (Stop Photos)
+
+<strong class="collapse-sibling" markdown="1">
+IMPORTANT INFORMATION ABOUT VISITING THE OLD TOWN OF RHODES <svg class="svg-inline--fa fa-angle-down fa-w-10 tour__read-more-arrow-icon icon" aria-hidden="true" data-prefix="fas" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"></path></svg>
+</strong>
+
+<div class="collapsible-sibling" markdown="1">
+**Private Chauffeur-Driven Tours (DT)**
+
+These tours include a professional driver who provides comfortable Mercedes transportation and local information during the drive. If you wish to explore the Medieval Old Town of Rhodes, we usually schedule this visit **at the end of the tour**. The driver will show you the most convenient entrance so you can enjoy the Old Town **independently and at your own pace**.  For cruise ship visitors, the Old Town is located only about **10 minutes on foot from the port**, making it easy to explore and then return directly to your ship. This approach helps **save both time and additional waiting costs**, since the driver does not need to remain parked while guests are inside the Old Town.
+
+Guests staying at hotels who wish to visit the Old Town during a Chauffeur-Driven Tour can also **request driver waiting time**, which can be arranged upon request.
+
+**Private Guided Tours (GT)**
+
+For guests who prefer a fully guided experience, we offer Private Guided Tours with a **licensed professional tour guide**. Your guide will accompany you throughout the tour and provide a **complete guided walking tour inside the Old Town**, sharing the history, culture, and hidden details of this remarkable UNESCO-listed medieval city.
+</div>
 
 **MONTE SMITH**
 
