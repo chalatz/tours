@@ -441,7 +441,7 @@
 
     };
 
-    collapse_sibling = function(){
+    var collapse_sibling = function(){
         var button = $('.collapse-sibling');
 
         button.on('click', function(){
