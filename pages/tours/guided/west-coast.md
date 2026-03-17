@@ -181,6 +181,8 @@ After reaching your designated meeting point, your tour of the Old Town, Medieva
 
 You will make your way past impressive buildings of the New Town and visit the Old Port Mandraki. Legend has it that the iconic **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood tall. <u>Guided Tour</u>  (Stop Visit Photos).
 
+{% include partials/collapsible-md-content.html %}
+
 **MONTE SMITH**
 
 Your **Panoramic Drive** will make its way up to Monte Smith, also known as the **Acropolis of Rhodes City**, which provides a beautiful vantage point of the city. You will also enjoy picturesque views of the blue turquoise Aegean Sea and the beautiful west coast. (Stop Photos).

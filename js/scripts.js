@@ -446,8 +446,11 @@
 
         button.on('click', function(){
             var $this = $(this),
+                content = $('.collapsible-sibling'),
                 icon = $this.find('.tour__read-more-arrow-icon');
-
+            
+            content.slideToggle(500);
+            console.log(content);
             icon.toggleClass('fa-angle-up fa-angle-down');
         });
 

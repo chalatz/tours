@@ -45,10 +45,6 @@
         <link rel="stylesheet" href="{{ '/css/styles.css?v1_6'| relative_url }}">
     {%- endif -%}
 
-    {% if page.has_collapsible_content == true %}
-        {% include styles/collapsible-content.html %}
-    {% endif %}
-
     <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
     {%- unless jekyll.environment == 'development' -%}
