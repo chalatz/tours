@@ -241,13 +241,6 @@ Then past the rest of the imposing buildings, where the Venetian, Gothic and Ori
 
 The North Point of the island where the Mediterranean and the Aegean Sea meet. (Stop Photos)
 
-Guests staying at hotels who wish to visit the Old Town during a Chauffeur-Driven Tour can also **request driver waiting time**, which can be arranged upon request.
-
-**Private Guided Tours (GT)**
-
-For guests who prefer a fully guided experience, we offer Private Guided Tours with a **licensed professional tour guide**. Your guide will accompany you throughout the tour and provide a **complete guided walking tour inside the Old Town**, sharing the history, culture, and hidden details of this remarkable UNESCO-listed medieval city.
-</div>
-
 **MONTE SMITH**
 
 Continuing up the hillside to Monte Smith **(The Acropolis of Rhodes City)** which overlooks the city. Enjoy excellent views of the new and old town of Rhodes (Stop Visit Photos)    Then you can get your photos from a distance of the **Temple of Apollo**, and the **restored** **Ancient Stadium** and the **Greek Theatre** (Stop  Photos)
