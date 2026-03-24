@@ -229,8 +229,6 @@ Starting from the pier or your chosen departure point, we'll take you to the Med
 
 Due to recent traffic regulations, cars are not permitted to enter the Old Town; it's exclusively for pedestrians. Our tour will conclude at one of the Old Town gates, allowing you to explore independently. Enjoy your leisurely stroll back to the ship; it's just a quick 10-minute walk from the Medieval City to the Cruise Port. This way, you save both time and money, avoiding any waiting-time charges for the driver.
 
-{% include partials/collapsible-md-content.html %}
-
 **THE NEW TOWN**
 
 Then past the imposing buildings of the New town, in **neo-colonial and Italianate style**, which lend grandeur to this part of the present-day town. You continue to the entrance of the **Mandraki old harbor**, atop tall columns, stand the two bronze deer - characteristic landmarks of the island. Here, according to tradition, was the place where the famous **Colossus of Rhodes**, one of the seven wonders of the ancient world, once stood (Stop Visit Photos).
