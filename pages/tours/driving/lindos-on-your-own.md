@@ -207,7 +207,11 @@ You continue to the south of Lindos, to St. Paul 's Bay, where the apostle is sa
 
 **LINDOS VILLAGE AND ACROPOLIS**
 
-Then we drive to the main square of Lindos so you can climb up to the Acropolis of Lindos, or ride the donkeys - the "Lindos Taxi" !!. Walk through Lindos Village and up the many steps and narrow uphill cobblestone pathways to the summit of the Acropolis to see the magnificent remains of past civilizations. The view from the top truly panoramic (Stop Visit Photos)
+Next, we drive to the main square of Lindos, where you have two options:
+
+**Option 1:** Set out on a memorable ascent to the Acropolis of Lindos. Stroll through the picturesque village before climbing 292 narrow, uphill cobblestone steps to the top. At the summit, explore remarkable traces of ancient history, including the 4th-century BC Doric Temple of Athena Lindia, an impressive double-winged portico, a Byzantine church, and fortified remains built by the Knights, such as the Governor's quarters. (Stop for visit & photos)
+
+**Option 2:** Avoid the uphill climb and enjoy a leisurely exploration of Lindos' charming whitewashed village instead. Your driver can bring you to scenic viewpoints with spectacular views of the Acropolis, perfect for capturing beautiful photos from afar. This relaxed option lets you steer clear of crowds and intense heat, especially during the peak summer months of June, July, and August. (Stop for visit & photos)
 
 **COASTAL ROAD OF FALIRAKI AND KALLITHEA**
 
