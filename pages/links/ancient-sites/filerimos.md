@@ -7,8 +7,10 @@ id: site_filerimos_hill
 ref: site_filerimos_hill
 meta:
   title: Filerimos Hill  & Monastery, Rhodes, Greece
-  description: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos, Church of our Lady of Filerimos, Ancient Ialyssos acropolis, Rhodes Private Tours
-  keywords: Filerimos Hill, Monastery, Rhodes, Greece, Mount Filerimos, Church of our Lady of Filerimos, Ancient Ialyssos acropolis
+  description: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos,
+    Church of our Lady of Filerimos, Ancient Ialyssos acropolis, Rhodes Private Tours
+  keywords: Filerimos Hill, Monastery, Rhodes, Greece, Mount Filerimos, Church of
+    our Lady of Filerimos, Ancient Ialyssos acropolis
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
   abstract: Filerimos Hill  & Monastery, Rhodes, Greece
