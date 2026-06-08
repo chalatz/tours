@@ -1,22 +1,18 @@
 ---
-title: Mount Filerimos - The Acropolis of Ancient Ialyssos
+title: FILERIMOS HILL & MONASTERY (RHODES, GREECE)
 permalink: filerimos_hill_rhodes_greece.htm
 layout: photo-tour
 has_gallery: true
 id: site_filerimos_hill
 ref: site_filerimos_hill
 meta:
-  title: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos, Church
-    of our Lady of Filerimos
-  description: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos,
-    Church of our Lady of Filerimos, Ancient Ialyssos acropolis, Rhodes Private Tours
-  keywords: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos, Church
-    of our Lady of Filerimos, Ancient Ialyssos acropolis, Rhodes Private Tours
+  title: Filerimos Hill  & Monastery, Rhodes, Greece
+  description: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos, Church of our Lady of Filerimos, Ancient Ialyssos acropolis, Rhodes Private Tours
+  keywords: Filerimos Hill, Monastery, Rhodes, Greece, Mount Filerimos, Church of our Lady of Filerimos, Ancient Ialyssos acropolis
   author: Nick
   copyright: NK for Rhodes Private Tours, 2018
-  abstract: Filerimos Hill, Filerimos Monastery Rhodes Greece, Mount Filerimos
-  http_desc: Mount Filerimos, Filerimos Hill, Filerimos Monastery Rhodes Greece, Church
-    of our Lady of Filerimos, Ancient Ialyssos acropolis
+  abstract: Filerimos Hill  & Monastery, Rhodes, Greece
+  http_desc: Filerimos Hill & Monastery, Rhodes, Greece
 summary: Filerimos Mountain is found out of Rhodes Town about 14 km / 8 miles on the
   west region of the island. Additionally to the view of the Aegean Sea, this place
   is an very important archaeological site. Here once stood the Acropolis of the Ancient
