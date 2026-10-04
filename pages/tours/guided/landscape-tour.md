@@ -17,7 +17,7 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
 tour:
   title: RHODES LANDSCAPE TOUR&nbsp;&nbsp;&nbsp;&nbsp;GT8
-  summary: East Coast / Seven Springs / Mount Profitis Ilias / Free Wine Taste in
+  summary: East Coast / Seven Springs / Mount Profitis Ilias / Wine Taste in
     Embona / Castle of Kritinia / Lunch by the Sea / West Coast
   duration: Full Day
 summary:
@@ -37,7 +37,7 @@ overview:
   - title: Pass via the Villages of Archipoli and Eleousa
   - title: Marvel at the little Historic Byzantine Chapel of St. Nicolas Foundouklis
   - title: Walk through the Pines and Cypress Forests at Mount Profitis Ilias
-  - title: Enjoy a Free Sampling of Fine Wines at Embona Village
+  - title: Enjoy a Sampling of Fine Wines at Embona Village
   - title: Enjoy a Panoramic View from the Castle of Kritinia - 360° View
   - title: Kick back and have Lunch at the Aegean Sea right at the Water’s Edge
   - title: Return via the West Coast Road bordering the water - Scenic
