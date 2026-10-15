@@ -55,6 +55,11 @@
         <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
     {%- endunless -%}
 
+    {% if page.schema %}
+        {% assign the_path = 'partials/schemata/__' | replace: "__", page.schema %}
+        {% include {{ the_path }} %}
+    {% endif %}
+
     {%- if page.has_faq == true -%}
         {%- include partials/faq_schema.html items=page.items -%}
     {%- endif -%}

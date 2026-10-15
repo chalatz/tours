@@ -8,6 +8,7 @@ type: walking_tours_page
 id: walking_tours
 has_form: false
 has_gallery: false
+schema: tours/walking/index.html
 meta:
   title: RHODES WALKING TOURS, Private Walking Tours in Rhodes Old Town
   http_desc: RHODES WALKING TOURS, Private Walking Tours in Rhodes Old Town, PRIVATE
