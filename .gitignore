@@ -10,3 +10,4 @@ _geo_api_key.php
 _smtp_key.php
 package-lock.json
 Gemfile.lock
+.vscode/settings.json
