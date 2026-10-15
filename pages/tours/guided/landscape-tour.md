@@ -17,8 +17,8 @@ meta:
   copyright: NK for Rhodes Private Tours, 2018
 tour:
   title: RHODES LANDSCAPE TOUR&nbsp;&nbsp;&nbsp;&nbsp;GT8
-  summary: East Coast / Seven Springs / Mount Profitis Ilias / Wine Taste in
-    Embona / Castle of Kritinia / Lunch by the Sea / West Coast
+  summary: East Coast / Seven Springs / Mount Profitis Ilias / Wine Taste in Embona
+    / Castle of Kritinia / Lunch by the Sea / West Coast
   duration: Full Day
 summary:
   paragraphs:
