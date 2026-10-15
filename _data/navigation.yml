@@ -70,11 +70,11 @@ main:
         - title: 'Religious Tour of Rhodes-GT10'
           url: './religious-tour-christian.htm'
     - title: WALKING TOURS
-      url: './walking_tours.htm'
+      url: './rhodes_walking_tours.htm'
       type: walking_tours_page
       subitems:
         - title: ALL WALKING TOURS
-          url: './walking_tours.htm'
+          url: './rhodes_walking_tours.htm'
           classes:
             li: 'tablet-only tablet-only--block'
         - title: 'Old Town WALKING TOUR-WT1'

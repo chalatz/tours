@@ -14,7 +14,7 @@
 
 - id: walking_tours
   id2: walking_tours
-  url: ./walking_tours.htm
+  url: ./rhodes_walking_tours.htm
   text: 'VIEW PRIVATE WALKING TOURS BY TOUR GUIDES'
   text_not_link: 'MORE PRIVATE WALKING TOURS BY TOUR GUIDES'
   classes: 'color-walking'

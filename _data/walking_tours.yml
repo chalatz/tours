@@ -3,7 +3,8 @@ items:
     long_desc: 'For those who love Medieval history and like to get a complete overview of Rhodes Medieval City, including a visit to Grand Masters Palace'
     notes: 'Suggested time for this tour: All year round'
     url: ./old_town_walking_tour.htm
-    img: './img/tours-suggestions/WT1.jpg' 
+    img: './img/tours-suggestions/WT1.jpg'
+    alt: Rhodes Old Town Walking Guided Tour 
     duration: 'Duration: 3:00 hours'
     id: walking_old_town
 
@@ -11,7 +12,8 @@ items:
     long_desc: 'Ideal for those who like the mediaeval military architecture of the Knights of St John Hospitallers, including a visit to Grand Masters Palace'
     notes: 'Suggested time for this tour: All year round'
     url: ./knights_hospitallers.htm
-    img: './img/tours-suggestions/WT2.jpg' 
+    img: './img/tours-suggestions/WT2.jpg'
+    alt: Private Guided Tour in Rhodes Old Town
     duration: 'Duration: 3:00 hours'
     id: walking_knights_hospitallers
 
@@ -19,6 +21,7 @@ items:
     long_desc: 'Night walking guided tour through the alleys of the Old Town, with free time for shopping and dinner at a local restaurant'
     notes: 'Suggested time for this tour: mid-May to mid-October '
     url: ./rhodesnightlife_rhodesbynight.htm
-    img: './img/tours-suggestions/WT3.jpg' 
+    img: './img/tours-suggestions/WT3.jpg'
+    alt: Old Town Evening Walking Tour
     duration: 'Duration: 5:00 hours'
     id: walking_rhodesnightlife_rhodesbynight

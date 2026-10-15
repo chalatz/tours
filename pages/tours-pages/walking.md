@@ -1,17 +1,19 @@
 ---
 title: RHODES WALKING TOURS
-permalink: walking_tours.htm
+permalink: rhodes_walking_tours.htm
+redirect_from:
+  - walking_tours.htm
 layout: tours_page
 type: walking_tours_page
 id: walking_tours
 has_form: false
 has_gallery: false
 meta:
-  title: Rhodes Walking Tours, Private Walking Tours in Rhodes
-  http_desc: Rhodes Walking Tours, Private Walking Tours in Rhodes Greece
-  description: Rhodes Walking Tours, Private Walking Tours in Rhodes Greece
-  keywords: Rhodes Walking Tours, Private Walking Tours in Rhodes Greece
-  abstract: Rhodes Walking Tours
+  title: RHODES WALKING TOURS, Private Walking Tours in Rhodes Old Town
+  http_desc: RHODES WALKING TOURS, Private Walking Tours in Rhodes Old Town, PRIVATE WALKING TOURS BY LICENSED TOUR GUIDES
+  description: RHODES WALKING TOURS, Private Walking Tours in Rhodes Greece
+  keywords: RHODES WALKING TOURS, Private Walking Tours in Rhodes Greece, PRIVATE WALKING TOURS BY LICENSED TOUR GUIDES
+  abstract: RHODES WALKING TOURS
   author: Nick
   copyright: NK for Rhodes Private Tours,2021
 subtitle: PRIVATE WALKING TOURS BY LICENSED TOUR GUIDES
